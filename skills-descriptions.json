@@ -752,10 +752,6 @@
     "description": "If unit initiates combat, grants Def+6 during combat."
   },
   {
-    "id": "SID_重装のブーツ",
-    "description": "At start of turn, if unit's HP = 100%, unit can move 1 extra space. (That turn only. Does not stack.)"
-  },
-  {
     "id": "SID_重装の聖氷",
     "description": "Boosts Special damage by 40% of unit's Res. If foe's Range = 2 and unit or foe's Special is ready or triggered before or during this combat, reduces damage from foe's next attack by 40% (once per combat; excluding area-of-effect Specials)."
   },
@@ -1904,10 +1900,6 @@
     "description": "Accelerates Special trigger (cooldown count-1). Effective against dragons. If unit is within 3 spaces of an ally, grants Atk/Spd/Def/Res+5 to unit during combat, grants Special cooldown charge +1 to unit per attack during combat (only highest value applied; does not stack), neutralizes foe's bonuses (from skills like Fortify, Rally, etc.) during combat, and also, if foe's attack can trigger their Special and unit's Res ≥ foe's Res+5, inflicts Special cooldown count+1 on foe before foe's first attack during combat (cannot exceed foe's maximum Special cooldown). If foe's Range = 2, calculates damage using the lower of foe's Def or Res."
   },
   {
-    "id": "SID_ブレイザブリク斧",
-    "description": "Grants Atk/Spd/Def/Res+4 to allies within 2 spaces during combat. Inflicts Atk/Spd/Def/Res-4 on foes within 2 spaces during combat."
-  },
-  {
     "id": "SID_斧の経験1",
     "description": "While unit lives and uses an axe, unit gets 1.5x EXP.<br>(Only highest value applied. Does not stack.)"
   },
@@ -1984,10 +1976,6 @@
     "description": "Accelerates Special trigger (cooldown count-1). Grants Atk/Spd+3. During combat, neutralizes effects that grant \"Special cooldown charge +X\" to foe or inflict \"Special cooldown charge -X\" on unit.<br>At start of combat, if foe's HP ≥ 75%, grants Atk/Spd/Def/Res+4 during combat and reduces damage from foe's first attack by 20%."
   },
   {
-    "id": "SID_ブレイザブリク青魔",
-    "description": "Grants Atk/Spd/Def/Res+4 to allies within 2 spaces during combat. Inflicts Atk/Spd/Def/Res-4 on foes within 2 spaces during combat."
-  },
-  {
     "id": "SID_蒼穹の細槍",
     "description": "If unit initiates combat or is within 2 spaces of an ally, grants Atk/Spd+5 to unit during combat and unit deals +7 damage."
   },
@@ -2042,10 +2030,6 @@
   {
     "id": "SID_青の死闘・歩行4",
     "description": "Grants HP+5, Atk/Spd/Def/Res+2. If unit is 5★, level 40, a Legendary Hero or a Mythic Hero, and unit's stats total less than 175, treats unit's stats as 175 in modes like Arena. If unit is 5★, level 40, not a Legendary Hero or Mythic Hero, and unit's stats total less than 180, treats unit's stats as 180 in modes like Arena. (Higher-scoring opponents will appear. Stat total calculation excludes any values added by merges and skills.)"
-  },
-  {
-    "id": "SID_時を彷徨う者・青",
-    "description": "Against a foe equipped with this Sacred Seal, grants player's unit one of the following advantages or inflicts one of the following disadvantages based on that unit's color:<br>- If green, grants major advantage: unit deals damage = 20% of unit's Atk and reduces damage from attacks by 20% of foe's Atk during combat (excluding area-of-effect Specials), and reduces damage from foe's area-of-effect Specials by 80%.<br>- If colorless, grants minor advantage: unit deals damage = 10% of unit's Atk during combat (excluding area-of-effect Specials).<br>- If red, inflicts major disadvantage: foe deals damage = 20% of foe's Atk and reduces damage from attacks by 20% of unit's Atk during combat (excluding area-of-effect Specials), and reduces damage from unit's area-of-effect Specials by 80%."
   },
   {
     "id": "SID_青魔の経験1",
@@ -2156,20 +2140,12 @@
     "description": "Accelerates Special trigger (cooldown count-1).<br>Grants Atk/Spd+5. Inflicts Def/Res-5."
   },
   {
-    "id": "SID_蝙蝠の爪牙",
-    "description": "Grants Spd+3. At start of combat, if unit's HP ≥ 25%, grants Atk/Spd+6 to unit during combat, and also, if unit's Spd > foe's Spd, deals damage = 70% of difference between stats. (Maximum bonus of +7 damage.) At start of turn, if unit is adjacent to only beast or dragon allies or if unit is not adjacent to any ally, unit transforms (otherwise, unit reverts). If unit transforms, unit can move 1 extra space. (That turn only. Does not stack.) If unit transforms, grants Atk+2."
-  },
-  {
     "id": "SID_ビーチフラッグ",
     "description": "If unit initiates combat, grants Atk/Spd/Def/Res+2 during combat."
   },
   {
     "id": "SID_ビーチフラッグ＋",
     "description": "If unit initiates combat, grants Atk/Spd/Def/Res+2 during combat."
-  },
-  {
-    "id": "SID_絶対化身",
-    "description": "Removes the condition to transform."
   },
   {
     "id": "SID_絶対化身・敏捷1",
@@ -2454,10 +2430,6 @@
   {
     "id": "SID_王者の刃",
     "description": "Grants Spd+3. At start of turn, if unit is within 2 spaces of an ally, grants Atk/Spd+6 and the following status to unit and allies within 2 spaces for 1 turn: \"neutralizes penalties on unit during combat.\" If unit initiates combat, unit attacks twice. If unit initiates combat or if unit is within 2 spaces of an ally, grants Atk/Spd/Def/Res+5 to unit and grants Special cooldown charge +1 to unit per attack during combat (only highest value applied; does not stack).<br><br>Effect:【Dagger ７】<br><br>【Dagger ７】<br>After combat, if unit attacked, inflicts Def/Res-７ on target and foes within 2 spaces of target through their next actions."
-  },
-  {
-    "id": "SID_盗賊の偶像・奥義",
-    "description": "When the holder of this seal is defeated, restores 10 HP to unit that defeats holder, inflicts Special cooldown count+1 on that unit after combat, and a【Special Blade】drops.<br><br>【Special Blade】<br>Enables use of Specials for all allies."
   },
   {
     "id": "SID_刃のセッション1",
@@ -2754,10 +2726,6 @@
   {
     "id": "SID_泡影の書",
     "description": "Grants Spd+3. If unit is adjacent to an ally, inflicts Atk/Spd/Def/Res-4 on foe during combat."
-  },
-  {
-    "id": "SID_盗賊の偶像・行軍",
-    "description": "When the holder of this seal is defeated, restores 10 HP to unit that defeats holder, inflicts Special cooldown count+1 on that unit after combat, and【Infantry Boots】drop.<br><br>【Infantry Boots】<br>Grants +1 to movement to all allies for 1 turn."
   },
   {
     "id": "SID_果汁のボトル",
@@ -3312,10 +3280,6 @@
     "description": "If in combat against a colorless foe, disables skills of all foes, excluding foe in combat, and inflicts Atk/Spd/Def/Res-4 on foe during combat. During combat, disables skills of all colorless foes, excluding foe in combat."
   },
   {
-    "id": "SID_時を彷徨う者・無",
-    "description": "Against a foe equipped with this Sacred Seal, grants player's unit one of the following advantages or inflicts one of the following disadvantages based on that unit's color:<br>- If red, blue, or green, grants advantage: unit deals damage = 20% of unit's Atk during combat (excluding area-of-effect Specials).<br>- If colorless, inflicts extreme disadvantage: foe deals damage = 40% of foe's Atk and reduces damage from attacks by 40% of unit's Atk during combat (excluding area-of-effect Specials), and reduces damage from unit's area-of-effect Specials by 80%."
-  },
-  {
     "id": "SID_カドゥケウスの杖",
     "description": "Calculates damage from staff like other weapons. Reduces damage from foes' attacks during combat to allies within 2 spaces by 30%."
   },
@@ -3570,10 +3534,6 @@
   {
     "id": "SID_突撃の角笛_一",
     "description": "Grants Def+3. Grants Atk/Spd+5 to allies within 3 rows or 3 columns centered on unit during their combat. The following effects will occur during unit's combat based on the number of allies within 3 rows or 3 columns centered on unit: if ≥ 1, inflicts Atk/Res-X on foe (X = number of allies in the area × 3; max 9); if ≥ 2, inflicts Special cooldown charge -1 on foe per attack (only highest value applied; does not stack); and if ≥ 3, foe cannot make a follow-up attack. (If unit is within 2 spaces of a structure that a foe can destroy, the number of allies in the area is treated as 3.)<br>Grants Def/Res+5 to allies within 3 rows or 3 columns centered on unit during their combat and restores 7 HP to those allies after their combat. At start of combat, if unit's HP ≥ 25%, inflicts Atk/Res-6 on foe and reduces damage from foe's attacks by 20% of unit's Def (excluding area-of-effect Specials) during combat, and also restores 7 HP to unit after combat."
-  },
-  {
-    "id": "SID_盗賊の偶像・落雷",
-    "description": "When the holder of this seal is defeated, restores 10 HP to unit that defeats holder, inflicts Special cooldown count+1 on that unit after combat, and a【Lightning Charm】drops.<br><br>【Lightning Charm】<br>Inflicts 20 damage to all enemies."
   },
   {
     "id": "SID_セルジュの恐斧",
@@ -4924,42 +4884,6 @@
     "description": "At start of combat, if foe's HP ≥ 75%, grants Def+5 to unit and inflicts Def-5 on foe during combat, and also, if foe has bonuses, grants bonus to unit's Def and inflicts penalty on foe's Def during combat = current bonus on foe's Def. Calculates each stat bonus and penalty independently."
   },
   {
-    "id": "SID_連撃防御・魔道1",
-    "description": "If unit receives consecutive attacks and foe uses magic, reduces damage from foe's second attack onward by 30%."
-  },
-  {
-    "id": "SID_連撃防御・魔道2",
-    "description": "If unit receives consecutive attacks and foe uses magic, reduces damage from foe's second attack onward by 50%."
-  },
-  {
-    "id": "SID_連撃防御・魔道3",
-    "description": "If unit receives consecutive attacks and foe uses magic, reduces damage from foe's second attack onward by 80%."
-  },
-  {
-    "id": "SID_連撃防御・剣槍斧1",
-    "description": "If unit receives consecutive attacks and foe uses a sword, lance, or axe, reduces damage from foe's second attack onward by 30%."
-  },
-  {
-    "id": "SID_連撃防御・剣槍斧2",
-    "description": "If unit receives consecutive attacks and foe uses a sword, lance, or axe, reduces damage from foe's second attack onward by 50%."
-  },
-  {
-    "id": "SID_連撃防御・剣槍斧3",
-    "description": "If unit receives consecutive attacks and foe uses a sword, lance, or axe, reduces damage from foe's second attack onward by 80%."
-  },
-  {
-    "id": "SID_連撃防御・弓暗器1",
-    "description": "If unit receives consecutive attacks and foe uses bow or dagger, reduces damage from foe's second attack onward by 30%."
-  },
-  {
-    "id": "SID_連撃防御・弓暗器2",
-    "description": "If unit receives consecutive attacks and foe uses bow or dagger, reduces damage from foe's second attack onward by 50%."
-  },
-  {
-    "id": "SID_連撃防御・弓暗器3",
-    "description": "If unit receives consecutive attacks and foe uses bow or dagger, reduces damage from foe's second attack onward by 80%."
-  },
-  {
     "id": "SID_魚を突いた銛",
     "description": "At start of combat, if unit's HP = 100%, grants Atk/Spd/Def/Res+2, but after combat, if unit attacked, deals 2 damage to unit."
   },
@@ -5096,10 +5020,6 @@
     "description": "Calculates damage from staff like other weapons. At start of turn, grants Atk/Def/Res+6 and the following status to unit's support partner (if any): \"If unit initiates combat, unit makes a guaranteed follow-up attack.\" At start of turn, if at least one ally has been defeated, grants Special cooldown count-2 and the following status to unit's support partner (if any): \"Foe cannot make a follow-up attack.\""
   },
   {
-    "id": "SID_ブレイザブリク",
-    "description": "Grants Atk/Spd/Def/Res+4 to allies within 2 spaces during combat. Inflicts Atk/Spd/Def/Res-4 on foes within 2 spaces during combat."
-  },
-  {
     "id": "SID_ダイムサンダ",
     "description": "Inflicts Spd-5. If unit initiates combat, unit attacks twice."
   },
@@ -5118,14 +5038,6 @@
   {
     "id": "SID_罠解除4",
     "description": "Inflicts Spd/Def-4 on foe during combat, and if unit initiates combat, neutralizes effects that prevent unit's follow-up attacks during combat. While attacking in Aether Raids, if unit ends movement on a space with a Bolt Trap or a Heavy Trap, cancels trap's effect; if unit ends movement on a space with a Hex Trap, reduces trap's trigger condition by 10 HP."
-  },
-  {
-    "id": "SID_遠反・竜専用",
-    "description": "Unit can counterattack regardless of foe's range."
-  },
-  {
-    "id": "SID_遠反・剣槍斧専用",
-    "description": "Unit can counterattack regardless of foe's range."
   },
   {
     "id": "SID_遠反・攻速の孤軍",
@@ -5318,10 +5230,6 @@
   {
     "id": "SID_氷神降臨",
     "description": "Grants Spd/Res+4 and the effect \"reduces damage from foe's first attack by 30%\" to allies within 2 spaces during combat. If unit is within 2 spaces of an ally, grants Spd/Res+4 to unit and reduces damage from foe's first attack by 30% during combat."
-  },
-  {
-    "id": "SID_毒の葬り手の牙",
-    "description": "Accelerates Special trigger (cooldown count-1).<br>At start of player phase or enemy phase, inflicts Atk/Def-7 and【Sabotage】on foes within 3 rows or 3 columns centered on unit through their next actions. At start of combat, if unit's HP ≥ 25%, deals 8 damage to foe as combat begins (only highest value applied; does not stack with other \"deals X damage as combat begins\" effects; effects that reduce damage \"during combat\" do not apply; will not reduce foe's HP below 1). At start of combat, if unit's HP ≥ 25%, inflicts Atk/Def-X on foe (X = 20% of unit's Def at start of combat + 6), reduces the percentage of foe's non-Special \"reduce damage by X%\" skills by 50% (excluding area-of-effect Specials), deals damage = 30% of foe's max HP (excluding area-of-effect Specials), and reduces damage from foe's attacks by Y, and also, if foe's attack triggers foe's Special, reduces damage by an additional Y (Y = total damage dealt to foe; max 20; excluding area-of-effect Specials). At start of turn, if unit is adjacent to only beast or dragon allies or if unit is not adjacent to any ally, unit transforms (otherwise, unit reverts). If unit transforms, grants Atk+2 and unit can counterattack regardless of foe's range.<br><br>【Sabotage】<br>Inflicts penalty on unit's Atk/Spd/Def/Res during combat = highest penalty on each stat between unit and allies within 2 spaces of unit through its next action. Calculates each stat penalty independently."
   },
   {
     "id": "SID_慈母の霊杖",
@@ -5696,10 +5604,6 @@
     "description": "If foe initiates combat or if foe's HP ≥ 75% at start of combat, grants Atk/Spd/Def/Res+4 to unit during combat. If foe's Range = 2, calculates damage using the lower of foe's Def or Res.<br>If unit is within 3 spaces of an ally, grants Atk/Spd/Def/Res+4 to unit during combat and restores 7 HP to unit after combat."
   },
   {
-    "id": "SID_夕影の神弓",
-    "description": "Accelerates Special trigger (cooldown count-1).<br>Effective against flying foes.<br><br>At start of player phase or enemy phase, grants the following effects to unit and allies within 2 spaces of unit for 1 turn: Res+6, 【Bonus Doubler】, and \"reduces the percentage of foe's non-Special 'reduce damage by X%' skills by 50% during combat (excluding area-of-effect Specials).\"<br><br>After start-of-turn effects trigger on enemy phase, for unit and allies within 2 spaces of unit, converts penalties into bonuses and neutralizes two【Penalty】effects (does not apply to Penalty effects that are applied at the same time; neutralizes the first applicable Penalty effects on unit's list of active effects).<br><br>If unit initiates combat or is within 2 spaces of an ally, grants bonus to unit's Atk/Spd/Def/Res = number of allies within 3 rows or 3 columns centered on unit × 3, + 5 (max 14), deals damage = 20% of unit's Res (excluding area-of-effect Specials), unit makes a guaranteed follow-up attack, and grants Special cooldown count-1 to unit before unit's first attack during combat.<br><br>【Bonus Doubler】<br>Grants bonus to Atk/Spd/Def/Res during combat = current bonus on each of unit's stats for 1 turn. Calculates each stat bonus independently.<br><br>【Penalty】<br>All effects that last \"on foe through its next action.\" Includes penalties inflicted by a skill like Panic or Threaten and negative status effects (preventing counterattacks, restricting movement, or the effects of a skill like Triangle Adept or Guard)."
-  },
-  {
     "id": "SID_宵闇の団扇",
     "description": "Effective against cavalry foes. Disables unit's and foe's skills that change attack priority. After combat, if unit attacked, inflicts Def/Res-5 on target and foes within 2 spaces of target through their next actions."
   },
@@ -5860,14 +5764,6 @@
     "description": "Grants Spd+3. Calculates damage from staff like other weapons. After combat, if unit attacked, inflicts 【Gravity】on target and foes within 1 space of target.<br><br>【Gravity】<br>Restricts target's movement to 1 space through its next action.<br>If unit or ally initiates combat against a foe within 2 spaces of unit, inflicts Atk/Spd/Def/Res-4 on that foe during combat."
   },
   {
-    "id": "SID_エリヴァーガル",
-    "description": "If unit initiates combat, converts bonuses on foes within 2 spaces of target into penalties through their next actions."
-  },
-  {
-    "id": "SID_盗賊の偶像・薬",
-    "description": "When the holder of this seal is defeated, restores 10 HP to unit that defeats holder, inflicts Special cooldown count+1 on that unit after combat, and an【Elixir】drops.<br><br>【Elixir】<br>Restores 99 HP to all allies"
-  },
-  {
     "id": "SID_エルライト",
     "description": null
   },
@@ -5882,10 +5778,6 @@
   {
     "id": "SID_エルウインド",
     "description": null
-  },
-  {
-    "id": "SID_エンブラの加護",
-    "description": "Reduces damage dealt to unit to 0."
   },
   {
     "id": "SID_蒼炎の勇者の剣",
@@ -6202,10 +6094,6 @@
   {
     "id": "SID_落星・承",
     "description": "If unit initiates combat or【Deep Star】is active on unit, inflicts Spd/Def-5 on foe, unit deals +X × 5 damage (max 25; excluding area-of-effect Specials), and reduces damage from foe's first attack by X × 3 during combat (max 15; X = number of【Bonus】effects active on unit, excluding stat bonuses + number of【Penalty】effects active on foe, excluding stat penalties). If unit initiates combat, reduces damage from foe's first attack by 80% during combat. (\"First attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes.)<br><br>If unit initiates combat, grants【Deep Star】to unit and inflicts【Gravity】on target and foes within 1 space of target after combat.<br><br>【Deep Star】<br>For 1 turn, if it is unit's first combat initiated by foe that turn, reduces damage from foe's first attack by 80% during combat (that turn only; \"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes).<br><br>【Bonus】<br>All effects that last \"for 1 turn\" or \"that turn only.\" Includes bonuses granted by a skill like Rally or Hone and positive status effects (extra movement or effects like Dominance).<br><br>【Penalty】<br>All effects that last \"on foe through its next action.\" Includes penalties inflicted by a skill like Panic or Threaten and negative status effects (preventing counterattacks, restricting movement, or the effects of a skill like Triangle Adept or Guard).<br><br>【Gravity】<br>Restricts target's movement to 1 space through its next action."
-  },
-  {
-    "id": "SID_閉ざす者の爪牙",
-    "description": "Grants Spd+3. At start of combat, if unit's HP ≥ 25%, grants Atk/Spd+6 to unit during combat. Unit's first attack during combat deals damage = X% of unit's Spd (X = the number of foes within 3 spaces × 10; max 30%). Reduces damage from foe's first attack during combat by X% (X = the number of foes within 3 spaces × 20; max 60%).<br><br>At start of turn, if unit is adjacent to only beast or dragon allies or if unit is not adjacent to any ally, unit transforms (otherwise, unit reverts). If unit transforms, unit can move 1 extra space. (That turn only. Does not stack.) If unit transforms, grants Atk+2."
   },
   {
     "id": "SID_旧年を閉ざす爪牙",
@@ -7280,10 +7168,6 @@
     "description": "Grants HP+5, Atk/Spd/Def/Res+2. If unit is 5★, level 40, a Legendary Hero or a Mythic Hero, and unit's stats total less than 175, treats unit's stats as 175 in modes like Arena. If unit is 5★, level 40, not a Legendary Hero or Mythic Hero and unit's stats total less than 180, treats unit's stats as 180 in modes like Arena. (Higher-scoring opponents will appear. Stat total calculation excludes any values added by merges and skills.)"
   },
   {
-    "id": "SID_時を彷徨う者・緑",
-    "description": "Against a foe equipped with this Sacred Seal, grants player's unit one of the following advantages or inflicts one of the following disadvantages based on that unit's color:<br>- If red, grants major advantage: unit deals damage = 20% of unit's Atk and reduces damage from attacks by 20% of foe's Atk during combat (excluding area-of-effect Specials), and reduces damage from foe's area-of-effect Specials by 80%.<br>- If colorless, grants minor advantage: unit deals damage = 10% of unit's Atk during combat (excluding area-of-effect Specials).<br>- If blue, inflicts major disadvantage: foe deals damage = 20% of foe's Atk and reduces damage from attacks by 20% of unit's Atk during combat (excluding area-of-effect Specials), and reduces damage from unit's area-of-effect Specials by 80%."
-  },
-  {
     "id": "SID_緑魔の経験1",
     "description": "While unit lives and uses a green tome, unit gets 1.5x EXP.<br>(Only highest value applied. Does not stack.)"
   },
@@ -7556,10 +7440,6 @@
     "description": "Boosts damage dealt by 50%."
   },
   {
-    "id": "SID_グリトニル",
-    "description": "Grants Atk+3. If unit initiates combat and foe uses sword, lance, axe, dragonstone, or beast damage, grants Atk+6 during combat, and if unit initiates combat against a foe that can counter, unit makes a guaranteed follow-up attack."
-  },
-  {
     "id": "SID_輝映の聖光",
     "description": "If an Assist skill is used, unit's Special cooldown count does not go down. When Special triggers, boosts damage by 45% of foe's Res (calculates damage from staff after combat damage is added). If this Special is triggered during combat, after combat, inflicts status on target and foes within 2 spaces of target preventing counterattacks through their next actions."
   },
@@ -7636,20 +7516,12 @@
     "description": "Accelerates Special trigger (cooldown count-1). If unit initiates combat or is within 2 spaces of an ally, inflicts Atk/Spd/Def/Res-5 on foe during combat, reduces damage from attacks during combat and from area-of-effect Specials (excluding Røkkr area-of-effect Specials) by 30%, and unit makes a guaranteed follow-up attack. If foe's Range = 2, calculates damage using the lower of foe's Def or Res."
   },
   {
-    "id": "SID_完全なる黄金",
-    "description": "Reduces damage dealt to unit to 0."
-  },
-  {
     "id": "SID_黄金の蛇",
     "description": "Grants the following effects to unit and target ally for 1 turn: from turn 1 on, grants Atk/Spd+X (X = number of turns × 2; max 8); from turn 2 on, enables【Canto (１)】; from turn 3 on, grants【Treachery】; and from turn 4 on, grants【Dual Strike】. Grants another action to unit. (Additional action and effects other than stat bonuses granted once per turn only. This skill treated as a Rally Assist skill.)<br><br>【Canto (１)】<br>After an attack, Assist skill, or structure destruction, unit can move １ space(s).<br><br>(Unit moves according to movement type. Once per turn. Cannot attack or assist. Only highest value applied. Does not stack. After moving, if a skill that grants another action would be triggered (like with Galeforce), Canto will trigger after the granted action. Unit's base movement has no effect on movement granted. Cannot warp (using skills like Wings of Mercy) a distance greater than unit would be able to move with normal Canto movement.)<br><br>【Treachery】<br>Unit deals additional damage = total bonuses on unit for 1 turn.<br><br>【Dual Strike】<br>If unit initiates combat and is adjacent to an ally with Dual Strike (excluding unit), unit attacks twice. (That turn only. Does not stack.)"
   },
   {
     "id": "SID_時を戻す黄金の魔女",
     "description": "Inflicts Spd/Res-5 on foe during combat. At start of combat, if unit's HP ≥ 50% and unit initiates combat, reduces damage from foe's first attack by 60% during combat. If unit initiates combat, grants another action to unit after combat, and inflicts【Gravity】on unit and Pair Up cohort through their next action (will not trigger again for 2 turns after triggering).<br><br>【Gravity】<br>Restricts target's movement to 1 space through its next action."
-  },
-  {
-    "id": "SID_ヘイズ敵",
-    "description": "Accelerates Special trigger (cooldown count-1). If a Rally Assist skill is used by unit or targets unit, inflicts Atk/Spd/Def/Res-4 and【Guard】 on foes in cardinal directions of unit and target through their next actions. If unit initiates combat or is within 2 spaces of an ally, grants Atk/Spd/Def/Res+5 to unit, deals damage = 15% of unit's Atk (excluding area-of-effect Specials), and reduces damage from foe's first attack by 30% during combat.<br><br>【Guard】<br>Inflicts Special cooldown charge -1 on target per attack during combat through its next action. (Only highest value applied. Does not stack.)"
   },
   {
     "id": "SID_黄金の短剣",
@@ -8040,10 +7912,6 @@
     "description": "Grants Spd+3. If unit's Spd > foe's Spd, deals damage = 70% of difference between stats. (Maximum bonus of +7 damage. Combos with Phantom Spd.) If unit's Spd > foe's Spd, reduces damage from attacks during combat and from area-of-effect Specials (excluding Røkkr area-of-effect Specials) by percentage = difference between stats × 4 (max 40%). If unit initiates combat or is not adjacent to an ally, grants Atk/Spd+5 to unit during combat. At start of turn, if unit is adjacent to only beast or dragon allies or if unit is not adjacent to any ally, unit transforms (otherwise, unit reverts). If unit transforms, grants Atk+2, and if unit initiates combat, inflicts Atk/Def-4 on foe during combat and foe cannot make a follow-up attack.<br>If a skill compares unit's Spd to a foe's or ally's Spd, treats unit's Spd as if granted +10. At start of combat, if unit's HP ≥ 25%, grants Atk/Spd+5 to unit and neutralizes effects that guarantee foe's follow-up attacks and effects that prevent unit's follow-up attacks during combat."
   },
   {
-    "id": "SID_戦士の偶像",
-    "description": "Units on the opposing team with Range = 2 cannot move through a space adjacent to the holder of this seal. (Does not affect units with Pass.) When foe with this seal is defeated, restores 10 HP to unit that defeated foe and inflicts Special cooldown count+1 on that unit after combat."
-  },
-  {
     "id": "SID_守護者の巨斧",
     "description": "Accelerates Special trigger (cooldown count-1)."
   },
@@ -8084,16 +7952,8 @@
     "description": "Accelerates Special trigger (cooldown count-1). At start of turn, if unit is within 2 spaces of an ally, grants \"unit cannot be slowed by terrain (does not apply to impassable terrain)\" and 【Dodge】to unit for 1 turn. If unit initiates combat or is within 2 spaces of an ally, grants Atk/Spd/Def/Res+5 to unit and neutralizes effects that grant \"Special cooldown charge +X\" to foe or inflict \"Special cooldown charge -X\" on unit during combat. If unit is within 2 spaces of any allies, grants Atk/Spd/Def/Res+4 to those allies during combat.<br><br>【Dodge】<br>If unit's Spd > foe's Spd, reduces damage from attacks during combat and from area-of-effect Specials (excluding Røkkr area-of-effect Specials) by percentage = difference between stats × 4 (max 40%)."
   },
   {
-    "id": "SID_グリンブルスティ",
-    "description": "Enables【Canto (Rem.)】.<br><br>【Canto (Rem.)】<br>After an attack, Assist skill, or structure destruction, unit can move spaces = any movement not already used that turn. (If unit used a movement skill that warped them, its remaining movement is 0.)<br><br>(Unit moves according to movement type. Once per turn. Cannot attack or assist. Only highest value applied. Does not stack. After moving, if a skill that grants another action would be triggered (like with Galeforce), Canto will trigger after the granted action. Unit's base movement has no effect on movement granted. Cannot warp (using skills like Wings of Mercy) a distance greater than unit would be able to move with normal Canto movement.)"
-  },
-  {
     "id": "SID_グリンカムビの聖卵",
     "description": "Accelerates Special trigger (cooldown count-1). At start of combat, if foe's HP ≥ 75%, grants Atk/Spd+6 to unit during combat, and also, if unit initiates combat and unit or an ally has already entered combat during the same phase, unit attacks twice."
-  },
-  {
-    "id": "SID_グルヴェイグ",
-    "description": "Accelerates Special trigger (cooldown count-1). If unit initiates combat or if foe's HP ≥ 75% at start of combat, grants Atk/Spd/Def/Res+5 to unit and neutralizes effects that guarantee foe's follow-up attacks and effects that prevent unit's follow-up attacks during combat. If unit initiates combat and unit's Spd > foe's Spd, reduces damage from foe's first attack during combat by 60%. If unit initiates combat, grants another action to unit after combat, and inflicts \"restricts movement to 1 space\" on unit and Pair Up cohort through their next action. (Will not trigger again for 2 turns after triggering.)"
   },
   {
     "id": "SID_グルグラント",
@@ -8182,18 +8042,6 @@
   {
     "id": "SID_ハンドベル＋",
     "description": "If foe initiates combat, grants Atk/Spd/Def/Res+2 during combat."
-  },
-  {
-    "id": "SID_不動の姿勢1",
-    "description": "Disables unit's skills that change attack priority.<br>At start of combat, if unit's HP = 100%, disables foe's skills that change attack priority."
-  },
-  {
-    "id": "SID_不動の姿勢2",
-    "description": "Disables unit's skills that change attack priority. At start of combat, if unit's HP ≥ 50%, disables foe's skills that change attack priority."
-  },
-  {
-    "id": "SID_不動の姿勢3",
-    "description": "Disables unit's and foe's skills that change attack priority."
   },
   {
     "id": "SID_盾壁隊形1",
@@ -8362,10 +8210,6 @@
   {
     "id": "SID_継承イチイバル",
     "description": "Accelerates Special trigger (cooldown count-1). Effective against flying foes. If unit initiates combat or is within 2 spaces of an ally, grants Atk/Spd/Def/Res+5 to unit, grants Atk/Spd+X to unit (X = 25% of foe's Atk at start of combat, - 8; min 0; max 10), neutralizes effects that inflict \"Special cooldown charge -X\" on unit, and reduces damage from foe's first attack by 30% during combat, and also restores 7 HP to unit after combat."
-  },
-  {
-    "id": "SID_ヘル",
-    "description": "Accelerates Special trigger (cooldown count-1). If foe does not use magic or staff, calculates damage using foe's Res, and if unit’s HP > 1 and foe would reduce unit’s HP to 0, unit survives with 1 HP. (Once per combat. Does not stack.)"
   },
   {
     "id": "SID_死鎌ヘル",
@@ -8656,10 +8500,6 @@
     "description": "Accelerates Special trigger (cooldown count-1). At start of combat, if unit's HP ≥ 25%, grants Atk/Spd/Def/Res+X during combat (X = unit's max Special cooldown count value × 2, + 5), grants Special cooldown charge +1 per attack (only highest value applied; does not stack), and neutralizes effects that guarantee foe's follow-up attacks and effects that prevent unit's follow-up attacks during combat. At start of turn, if unit is adjacent to only beast or dragon allies or if unit is not adjacent to any ally, unit transforms (otherwise, unit reverts). If unit transforms, grants Atk+2, and if unit initiates combat, inflicts Atk/Def-4 on foe during combat and foe cannot make a follow-up attack."
   },
   {
-    "id": "SID_盗賊の偶像・鼓舞",
-    "description": "When the holder of this seal is defeated, restores 10 HP to unit that defeats holder, inflicts Special cooldown count+1 on that unit after combat, and a【Fortifying Horn】drops.<br><br>【Fortifying Horn】<br>Grants all allies Atk/Spd/Def/Res+6 for 1 turn."
-  },
-  {
     "id": "SID_白の血族のブレス",
     "description": "Accelerates Special trigger (cooldown count-1). Unit can counterattack regardless of foe's range.<br><br>At start of turn, if unit's HP ≥ 25% and unit's Special cooldown count is at its maximum value, grants Special cooldown count-1 to unit.<br><br>At start of combat, if unit's HP ≥ 25%, grants bonus to unit's Atk/Spd/Def/Res = number of allies within 3 spaces of unit × 3, + 5 (max 14), and reduces damage from foe's first attack by 7 during combat (\"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes), and also, if foe's attack can trigger foe's Special and unit's Res ≥ foe's Res+5, inflicts Special cooldown count+1 on foe before foe's first attack during combat (cannot exceed foe's maximum Special cooldown). If unit's HP ≥ 25% at start of combat and if unit's Special cooldown count value is at its maximum after combat, grants Special cooldown count-1 to unit after combat. If foe's Range = 2, calculates damage using the lower of foe's Def or Res."
   },
@@ -8710,10 +8550,6 @@
   {
     "id": "SID_HP速さ2",
     "description": "Grants HP+4, Spd+2."
-  },
-  {
-    "id": "SID_フレイズマル",
-    "description": "Grants Def+3. Enables【Canto (３)】during turns 1 through 4. If unit is not adjacent to an ally, grants Atk/Spd/Def/Res+5 during combat, inflicts Special cooldown charge -1 on foe per attack during combat (only highest value applied; does not stack), and after combat, if unit attacked, inflicts【Guard】on target and foes within 2 spaces of target.<br><br>【Canto (３)】<br>After an attack, Assist skill, or structure destruction, unit can move ３ space(s).<br><br>(Unit moves according to movement type. Once per turn. Cannot attack or assist. Only highest value applied. Does not stack. After moving, if a skill that grants another action would be triggered (like with Galeforce), Canto will trigger after the granted action. Unit's base movement has no effect on movement granted. Cannot warp (using skills like Wings of Mercy) a distance greater than unit would be able to move with normal Canto movement.)<br><br>【Guard】<br>Inflicts Special cooldown charge -1 on target per attack during combat through its next action. (Only highest value applied. Does not stack.)"
   },
   {
     "id": "SID_フリムファクシ",
@@ -9072,66 +8908,6 @@
     "description": "Infantry allies within 2 spaces gain: \"If unit's Atk > foe's Atk, grants Special cooldown charge +1 per unit's attack. (Only highest value applied. Does not stack.)\""
   },
   {
-    "id": "SID_鍛錬の証_攻撃1",
-    "description": "Grants Atk+1."
-  },
-  {
-    "id": "SID_鍛錬の証_攻撃2",
-    "description": "Grants Atk+2."
-  },
-  {
-    "id": "SID_鍛錬の証_攻撃3",
-    "description": "Grants Atk+3."
-  },
-  {
-    "id": "SID_鍛錬の証_守備1",
-    "description": "Grants Def+1."
-  },
-  {
-    "id": "SID_鍛錬の証_守備2",
-    "description": "Grants Def+2."
-  },
-  {
-    "id": "SID_鍛錬の証_守備3",
-    "description": "Grants Def+3."
-  },
-  {
-    "id": "SID_鍛錬の証_HP1",
-    "description": "Grants HP+3."
-  },
-  {
-    "id": "SID_鍛錬の証_HP2",
-    "description": "Grants HP+4."
-  },
-  {
-    "id": "SID_鍛錬の証_HP3",
-    "description": "Grants HP+5."
-  },
-  {
-    "id": "SID_鍛錬の証_魔防1",
-    "description": "Grants Res+1."
-  },
-  {
-    "id": "SID_鍛錬の証_魔防2",
-    "description": "Grants Res+2."
-  },
-  {
-    "id": "SID_鍛錬の証_魔防3",
-    "description": "Grants Res+3."
-  },
-  {
-    "id": "SID_鍛錬の証_速さ1",
-    "description": "Grants Spd+1."
-  },
-  {
-    "id": "SID_鍛錬の証_速さ2",
-    "description": "Grants Spd+2."
-  },
-  {
-    "id": "SID_鍛錬の証_速さ3",
-    "description": "Grants Spd+3."
-  },
-  {
     "id": "SID_内より溢れる魔力",
     "description": "Accelerates Special trigger (cooldown count-1). At start of turn, if unit is within 2 spaces of an ally, grants【Null Follow-Up】to unit for 1 turn, and also, if Special cooldown count is at its maximum value, grants Special cooldown count-1. If unit initiates combat or is within 2 spaces of an ally, grants Atk/Spd/Def/Res+5 to unit during combat and if Special triggers before or during combat, grants Special cooldown count-1 after combat.<br><br>【Null Follow-Up】<br>If unit's Spd > foe's Spd during combat, neutralizes effects that guarantee foe's follow-up attacks and effects that prevent unit's follow-up attacks for 1 turn."
   },
@@ -9250,10 +9026,6 @@
   {
     "id": "SID_イーヴァルディ_回",
     "description": "Grants Def+3. At start of combat, if foe's HP ≥ 75%, grants Atk/Spd/Res+3 to unit during combat.<br>At start of combat, if foe's HP ≥ 75%, inflicts Atk/Res-5 on foe during combat and restores 7 HP to unit after combat."
-  },
-  {
-    "id": "SID_ブレイザブリク緑魔",
-    "description": "Grants Atk/Spd/Def/Res+4 to allies within 2 spaces during combat. Inflicts Atk/Spd/Def/Res-4 on foes within 2 spaces during combat."
   },
   {
     "id": "SID_ジョーカーの食器",
@@ -9632,10 +9404,6 @@
     "description": "Effective against flying foes. Unit can move to a space adjacent to any ally within 2 spaces. If unit initiates combat, unit attacks twice. At start of combat, if foe's HP ≥ 75%, grants Atk/Spd/Def/Res+4 to unit during combat."
   },
   {
-    "id": "SID_クワシル",
-    "description": "Accelerates Special trigger (cooldown count-1). At start of combat, if unit's HP ≥ 25%, grants Atk/Spd/Def/Res+5 to unit, grants Special cooldown charge +1 to unit per attack (only highest value applied; does not stack), and neutralizes effects that guarantee foe's follow-up attacks and effects that prevent unit's follow-up attacks during combat, and also, if it is unit's first combat initiated by unit or first combat initiated by foe that turn, reduces damage from foe's first attacks by 70% during combat (\"follow-up attack\" normally means only the second strike; for effects that grant \"unit attacks twice,\" it means the third and fourth strikes). If unit's HP ≥ 25% at start of combat, after combat, if unit attacked, inflicts【Panic】on target and foes within 2 spaces of target.<br><br>【Panic】<br>Converts bonuses on target into penalties through its next action."
-  },
-  {
     "id": "SID_寡黙な女傭兵の閃斧",
     "description": "Accelerates Special trigger (cooldown count-1).<br><br>Enables【Canto (２)】.<br><br>Grants Atk/Spd/Def/Res+4 to allies within 3 rows or 3 columns centered on unit during combat.<br><br>For target ally within 3 rows or 3 columns centered on unit, if Savior is not triggered, that ally attacks twice during their combat. If target ally is within 3 rows or 3 columns centered on unit, unit attacks twice during combat. (If support partner is on player team, targets any support partner; otherwise, targets ally with the highest max HP on player team, excluding unit.)<br><br>If unit initiates combat or if an ally is within 3 rows or 3 columns centered on unit, grants bonus to unit's Atk/Spd/Def/Res = number of allies within 3 rows or 3 columns centered on unit × 3, + 5 (max 14), deals damage = 20% of unit's Spd (excluding area-of-effect Specials), reduces damage from foe's first attack by 20% of unit's Spd, (\"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes), and neutralizes effects that inflict \"Special cooldown charge -X\" on unit during combat, and restores 7 HP to unit after combat.<br><br>【Canto (２)】<br>After an attack, Assist skill, or structure destruction, unit can move ２ space(s). (Once per turn. Only highest value applied. Does not stack.)"
   },
@@ -9682,10 +9450,6 @@
   {
     "id": "SID_グレイの飄剣_強",
     "description": "Effective against cavalry foes. At start of combat, if unit's HP ≥ 50%, grants Atk/Spd/Def/Res+3 during combat.<br>If the number of foes within 2 spaces (excluding target) ≥ the number of allies within 2 spaces (excluding unit), grants Atk/Spd/Def/Res+5 to unit during combat."
-  },
-  {
-    "id": "SID_ブレイザブリク槍",
-    "description": "Grants Atk/Spd/Def/Res+4 to allies within 2 spaces during combat. Inflicts Atk/Spd/Def/Res-4 on foes within 2 spaces during combat."
   },
   {
     "id": "SID_槍の経験1",
@@ -9962,10 +9726,6 @@
   {
     "id": "SID_スターラッシュ",
     "description": "Boosts Special damage by 40% of unit's Spd. Neutralizes effects that inflict \"Special cooldown charge -X\" on unit during combat. If unit's Special is ready or has triggered during this combat,【Potent Follow X%】has triggered, and X ≤ 99, then X = 100. If unit's or foe's Special is ready or triggered before or during this combat, reduces damage from foe's next attack by 40% (once per combat; excluding area-of-effect Specials).<br><br>【Potent Follow X%】<br>Triggers an additional follow-up attack immediately after unit's standard follow-up attack and deals damage = X% of unit's normal attack damage (if unit cannot make a follow-up attack, this effect triggers when the standard follow-up attack would occur; this effect is treated like a follow-up attack, so effects like \"reduce damage by X%\" still apply, but this effect is not affected by effects that prevent follow-ups or \"attacks twice\" effects; only highest value applied; does not stack)."
-  },
-  {
-    "id": "SID_ロヴンヘイズ",
-    "description": "Grants Atk+3. Enables【Canto (３)】during turns 1 through 4. If unit initiates combat or is within 2 spaces of an ally, grants Atk+6 to unit during combat, inflicts Atk-6 on foe during combat, and foe cannot make a follow-up attack.<br><br>【Canto (３)】<br>After an attack, Assist skill, or structure destruction, unit can move ３ space(s).<br><br>(Unit moves according to movement type. Once per turn. Cannot attack or assist. Only highest value applied. Does not stack. After moving, if a skill that grants another action would be triggered (like with Galeforce), Canto will trigger after the granted action. Unit's base movement has no effect on movement granted. Cannot warp (using skills like Wings of Mercy) a distance greater than unit would be able to move with normal Canto movement.)"
   },
   {
     "id": "SID_フラワースタンド",
@@ -10676,10 +10436,6 @@
     "description": "Grants Spd+3. If unit is within 3 spaces of an ally, grants Atk+X and Spd+5 during combat. (X = 5 + number of allies within 3 spaces × 2. Maximum bonus of +9 to Atk.)<br>Inflicts Spd/Res-X on foes within 3 spaces of unit during combat. (Calculates X based on number of allies within 3 spaces of unit: 0 allies inflicts -0; 1 ally inflicts -2; 2 allies inflicts -4; ≥3 allies inflicts -6.)"
   },
   {
-    "id": "SID_ムスペルの炎",
-    "description": "Reduces damage dealt to unit to 0."
-  },
-  {
     "id": "SID_生命の護符1",
     "description": "Disables foe's skills that \"calculate damage using the lower of foe's Def or Res\" and \"calculate damage from staff like other weapons.\" Restores 2 HP after combat."
   },
@@ -10836,10 +10592,6 @@
     "description": "Effective against flying foes. During combat, boosts unit's Atk/Spd/Def/Res by number of adjacent allies × 2.<br>Magic and dragon foes cannot counterattack."
   },
   {
-    "id": "SID_ニザヴェリルの理",
-    "description": "Reduces damage dealt to unit to 0."
-  },
-  {
     "id": "SID_ニザヴェリルの弩弓",
     "description": "Accelerates Special trigger (cooldown count-1).<br>Effective against flying foes.<br><br>Enables【Canto (Dist. +1; Max ４)】<br>during turns 1 through 4.<br><br>At the start of turns 1 through 4, grants Special cooldown count-3 to unit, grants Special cooldown count-1 to allies within 2 spaces of unit (excluding unit), and grants 【Hexblade】to unit and allies within 2 spaces of unit.<br><br>At start of combat, if unit's HP ≥ 25%, grants Atk/Spd+6 to unit, grants bonus to unit's Atk/Spd = 20% of unit's Spd at start of combat, unit deals damage = 20% of unit's Spd (including when dealing damage with a Special triggered before combat), and reduces damage from foe's first attack by 30% during combat (\"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes).<br><br>【Canto (Dist. +1; Max ４)】<br>After an attack, Assist skill, or structure destruction, unit can move spaces = number of spaces from start position to end position of unit before the above, +1. (Max ４.)<br><br>(Unit moves according to movement type. Once per turn. Cannot attack or assist. Only highest value applied. Does not stack. After moving, if a skill that grants another action would be triggered (like with Galeforce), Canto will trigger after the granted action. Unit's base movement has no effect on movement granted. Cannot warp (using skills like Wings of Mercy) a distance greater than unit would be able to move with normal Canto movement.)<br><br>【Hexblade】<br>Calculates damage using the lower of foe's Def or Res during combat for 1 turn (including damage dealt by Specials before combat)."
   },
@@ -10898,10 +10650,6 @@
   {
     "id": "SID_敏捷なる獣",
     "description": "Boosts damage by X% of unit's Spd when Special triggers (if transformed, X = 50; otherwise, X = 40).<br><br>If both of the following conditions are met, reduces damage from foe's next attack by 40% during combat:<br>- Unit's or foe's Special is ready, or unit's<br>or foe's Special triggered before or during<br>this combat.<br>- Unit is transformed or unit's Spd ≥ foe's<br>Spd-4.<br>(Once per combat; excluding area-of-effect Specials)."
-  },
-  {
-    "id": "SID_九の世界の誓約",
-    "description": "Reduces damage dealt to unit to 0."
   },
   {
     "id": "SID_氷精ニニスの槍",
@@ -11628,30 +11376,6 @@
     "description": "Accelerates Special trigger (cooldown count-1). Grants Spd+3. If unit initiates combat or foe's HP ≥ 50% at start of combat, inflicts Spd/Res-6 on foe, neutralizes foe's bonuses to Spd/Res (from skills like Fortify, Rally, etc.), and reduces damage from foe's first attack by X% during combat (if unit initiates combat, X = 80; otherwise, X = 30).<br>At start of combat, if unit's HP ≥ 25%, grants Atk/Spd/Def/Res+5 to unit, deals damage = 20% of unit's Spd (including when dealing damage with a Special triggered before combat), reduces the percentage of foe's non-Special \"reduce damage by X%\" skills by 50% (example: a foe with a \"reduce damage by 45%\" skill would reduce damage by 23% instead), and neutralizes effects that inflict \"Special cooldown charge -X\" on unit during combat."
   },
   {
-    "id": "SID_魔防の虚勢1",
-    "description": "If a skill compares unit's Res to a foe's or ally's Res, treats unit's Res as if granted +5."
-  },
-  {
-    "id": "SID_魔防の虚勢2",
-    "description": "If a skill compares unit's Res to a foe's or ally's Res, treats unit's Res as if granted +8."
-  },
-  {
-    "id": "SID_魔防の虚勢3",
-    "description": "If a skill compares unit's Res to a foe's or ally's Res, treats unit's Res as if granted +10."
-  },
-  {
-    "id": "SID_速さの虚勢1",
-    "description": "If a skill compares unit's Spd to a foe's or ally's Spd, treats unit's Spd as if granted +5."
-  },
-  {
-    "id": "SID_速さの虚勢2",
-    "description": "If a skill compares unit's Spd to a foe's or ally's Spd, treats unit's Spd as if granted +8."
-  },
-  {
-    "id": "SID_速さの虚勢3",
-    "description": "If a skill compares unit's Spd to a foe's or ally's Spd, treats unit's Spd as if granted +10."
-  },
-  {
     "id": "SID_理の見切り・追撃",
     "description": "Inflicts Spd/Def-4 on foe, neutralizes effects that guarantee foe's follow-up attacks and effects that prevent unit's follow-up attacks, and reduces the percentage of foe's non-Special \"reduce damage by X%\" skills by 50% during combat (example: a foe with a \"reduce damage by 45%\" skill would reduce damage by 23% instead)."
   },
@@ -12024,10 +11748,6 @@
     "description": "If unit's HP ≥ 25% at start of combat and foe initiates combat, reduces damage from foe's first attack during combat by 25% and unit makes a guaranteed follow-up attack."
   },
   {
-    "id": "SID_奥義の鼓動",
-    "description": "At the start of turn 1, grants Special cooldown count-1."
-  },
-  {
     "id": "SID_小さな声援",
     "description": "For allies on the map with the【Salvage】 effect active and allies within 2 spaces of unit, grants Atk/Spd/Def/Res+5, deals +7 damage (excluding area-of-effect Specials), reduces damage from foe's first attack by 7 (\"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes), and grants Special cooldown count-1 to ally before ally's first attack during their combat.<br><br>If unit initiates combat or is within 2 spaces of an ally, grants Atk/Spd+5, neutralizes penalties to unit's Atk/Spd, deals +7 damage (excluding area-of-effect Specials), reduces damage from foe's first attack by 7 (\"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes), grants Special cooldown count-1 to unit before unit's first attack, and reduces the percentage of foe's non-Special \"reduce damage by X%\" skills by 50% during combat (excluding area-of-effect Specials).<br><br>【Salvage】<br>Enables【Canto (２)】.<br><br>When【Canto Control】is applied to unit, if unit's Range = 1, unit can move 2 spaces with Canto instead of 1 space, and if unit's Range = 2, unit can move 1 space with Canto instead of 0 spaces.<br><br>【Canto (２)】<br>After an attack, Assist skill, or structure destruction, unit can move ２ space(s).<br><br>(Unit moves according to movement type. Once per turn. Cannot attack or assist. Only highest value applied. Does not stack. After moving, if a skill that grants another action would be triggered (like with Galeforce), Canto will trigger after the granted action. Unit's base movement has no effect on movement granted. Cannot warp (using skills like Wings of Mercy) a distance greater than unit would be able to move with normal Canto movement.)<br><br>【Canto Control】<br>Limits the number of spaces target can move with Canto through their next action. If target's Range = 1, target can move 1 space when Canto triggers. If target's Range = 2, target's action ends when Canto triggers."
   },
@@ -12094,10 +11814,6 @@
   {
     "id": "SID_赤の死闘・歩行4",
     "description": "Grants HP+5, Atk/Spd/Def/Res+2. If unit is 5★, level 40, a Legendary Hero or a Mythic Hero, and unit's stats total less than 175, treats unit's stats as 175 in modes like Arena. If unit is 5★, level 40, not a Legendary Hero or Mythic Hero and unit's stats total less than 180, treats unit's stats as 180 in modes like Arena. (Higher-scoring opponents will appear. Stat total calculation excludes any values added by merges and skills.)"
-  },
-  {
-    "id": "SID_時を彷徨う者・赤",
-    "description": "Against a foe equipped with this Sacred Seal, grants player's unit one of the following advantages or inflicts one of the following disadvantages based on that unit's color:<br>- If blue, grants major advantage: unit deals damage = 20% of unit's Atk and reduces damage from attacks by 20% of foe's Atk during combat (excluding area-of-effect Specials), and reduces damage from foe's area-of-effect Specials by 80%.<br>- If colorless, grants minor advantage: unit deals damage = 10% of unit's Atk during combat (excluding area-of-effect Specials).<br>- If green, inflicts major disadvantage: foe deals damage = 20% of foe's Atk and reduces damage from attacks by 20% of unit's Atk during combat (excluding area-of-effect Specials), and reduces damage from unit's area-of-effect Specials by 80%."
   },
   {
     "id": "SID_赤魔の経験1",
@@ -13116,10 +12832,6 @@
     "description": "Grants Spd+3. If unit initiates combat or is within 2 spaces of an ally, grants Special cooldown charge +1 to unit per unit's attack. (Only highest value applied. Does not stack.)<br>At start of combat, if unit's HP ≥ 25%, grants Atk/Spd/Def/Res+5 during combat, and also, after combat, grants Special cooldown count-1 and restores 7 HP."
   },
   {
-    "id": "SID_巨影",
-    "description": "Neutralizes damage outside of combat (from skills like Poison Strike, etc.) except damage dealt by Specials that trigger before combat. Unit's HP can be reduced to 0 only by an attack from allied armies. Unit cannot restore its own HP."
-  },
-  {
     "id": "SID_旭日の剣",
     "description": "If unit has weapon-triangle advantage, boosts Atk by 20%. If unit has weapon-triangle disadvantage, reduces Atk by 20%."
   },
@@ -13460,20 +13172,12 @@
     "description": "Effective against beast foes. Grants Atk+3. At start of combat, if unit's Res > foe's Res, reduces foe's Atk/Spd/Def by 80% of difference between stats during combat. (Calculates reduction before combat. Maximum penalty of -8.) At start of combat, if unit's HP ≥ 25%, grants Atk/Spd/Def/Res+4 to unit during combat.<br>Effect:【Dagger ７】<br><br>【Dagger ７】<br>After combat, if unit attacked, inflicts Def/Res-７ on target and foes within 2 spaces of target through their next actions.<br>If unit is within 3 spaces of an ally, grants Atk/Spd/Def/Res+4 to unit during combat and the following effects will occur based on the value of unit's Res minus foe's Res: If ≥ 1, reduces damage from foe's first attack during combat by 30%. If ≥ 7, foe cannot make a follow-up attack."
   },
   {
-    "id": "SID_蒸気のブレス",
-    "description": "Grants Spd+3. If foe initiates combat or if foe's HP ≥ 75% at start of combat, grants Atk/Spd/Def/Res+5 to unit and neutralizes effects that guarantee foe's follow-up attacks and effects that prevent unit's follow-up attacks during combat, and also, if unit is not adjacent to an ally, inflicts Special cooldown charge -1 on foe per attack. (Only highest value applied. Does not stack.) If foe's Range = 2, calculates damage using the lower of foe's Def or Res."
-  },
-  {
     "id": "SID_貝殻のナイフ",
     "description": "If【Penalty】is active on foe, grants Atk/Spd+5 during combat.<br>Effect:【Dagger ５】<br><br>【Penalty】<br>All effects that last \"on foe through its next action.\" Includes penalties inflicted by a skill like Panic or Threaten and negative status effects (preventing counterattacks, restricting movement, or the effects of a skill like Triangle Adept or Guard).<br><br>【Dagger ５】<br>After combat, if unit attacked, inflicts Def/Res-５ on target and foes within 2 spaces of target through their next actions."
   },
   {
     "id": "SID_貝殻のナイフ＋",
     "description": "If【Penalty】is active on foe, grants Atk/Spd+5 during combat.<br>Effect:【Dagger ７】<br><br>【Penalty】<br>All effects that last \"on foe through its next action.\" Includes penalties inflicted by a skill like Panic or Threaten and negative status effects (preventing counterattacks, restricting movement, or the effects of a skill like Triangle Adept or Guard).<br><br>【Dagger ７】<br>After combat, if unit attacked, inflicts Def/Res-７ on target and foes within 2 spaces of target through their next actions."
-  },
-  {
-    "id": "SID_ブレイザブリク赤魔",
-    "description": "Grants Atk/Spd/Def/Res+4 to allies within 2 spaces during combat. Inflicts Atk/Spd/Def/Res-4 on foes within 2 spaces during combat."
   },
   {
     "id": "SID_将軍忍者の紅槍",
@@ -15384,950 +15088,6 @@
     "description": "Accelerates Special trigger (cooldown count-1). If unit initiates combat, unit attacks twice. At start of combat, if unit's HP ≥ 25%, grants Atk/Spd/Def/Res+5 to unit during combat. If a Rally Assist skill is used by unit or targets unit, grants【Null Follow-Up】to unit and target or targeting ally and inflicts【Exposure】on foes in cardinal directions of unit and target or targeting ally through their next actions. If a Rally Assist skill is used by unit, grants another action to unit. (Additional action granted once per turn only.)<br>Effect:【Dagger ７】<br><br>【Null Follow-Up】<br>If unit's Spd > foe's Spd during combat, neutralizes effects that guarantee foe's follow-up attacks and effects that prevent unit's follow-up attacks for 1 turn.<br><br>【Exposure】<br>Foe's attacks deal +10 damage.<br><br>【Dagger ７】<br>After combat, if unit attacked, inflicts Def/Res-７ on target and foes within 2 spaces of target through their next actions."
   },
   {
-    "id": "SID_第1迷宮の覇者1",
-    "description": "Grants HP+3."
-  },
-  {
-    "id": "SID_第1迷宮の覇者2",
-    "description": "Grants HP+4."
-  },
-  {
-    "id": "SID_第1迷宮の覇者3",
-    "description": "Grants HP+5."
-  },
-  {
-    "id": "SID_第27迷宮の覇者1",
-    "description": "Grants Def+1."
-  },
-  {
-    "id": "SID_第27迷宮の覇者2",
-    "description": "Grants Def+2."
-  },
-  {
-    "id": "SID_第27迷宮の覇者3",
-    "description": "Grants Def+3."
-  },
-  {
-    "id": "SID_第28迷宮の覇者1",
-    "description": "Grants Res+1."
-  },
-  {
-    "id": "SID_第28迷宮の覇者2",
-    "description": "Grants Res+2."
-  },
-  {
-    "id": "SID_第28迷宮の覇者3",
-    "description": "Grants Res+3."
-  },
-  {
-    "id": "SID_第29迷宮の覇者1",
-    "description": "Grants Spd+1."
-  },
-  {
-    "id": "SID_第29迷宮の覇者2",
-    "description": "Grants Spd+2."
-  },
-  {
-    "id": "SID_第29迷宮の覇者3",
-    "description": "Grants Spd+3."
-  },
-  {
-    "id": "SID_第30迷宮の覇者1",
-    "description": "Grants Atk+1."
-  },
-  {
-    "id": "SID_第30迷宮の覇者2",
-    "description": "Grants Atk+2."
-  },
-  {
-    "id": "SID_第30迷宮の覇者3",
-    "description": "Grants Atk+3."
-  },
-  {
-    "id": "SID_第31迷宮の覇者1",
-    "description": "Grants HP+3, Atk+1."
-  },
-  {
-    "id": "SID_第31迷宮の覇者2",
-    "description": "Grants HP+4, Atk+2."
-  },
-  {
-    "id": "SID_第32迷宮の覇者1",
-    "description": "Grants HP+3, Spd+1."
-  },
-  {
-    "id": "SID_第32迷宮の覇者2",
-    "description": "Grants HP+4, Spd+2."
-  },
-  {
-    "id": "SID_第33迷宮の覇者1",
-    "description": "Grants HP+3, Def+1."
-  },
-  {
-    "id": "SID_第33迷宮の覇者2",
-    "description": "Grants HP+4, Def+2."
-  },
-  {
-    "id": "SID_第34迷宮の覇者1",
-    "description": "Grants HP+3, Res+1."
-  },
-  {
-    "id": "SID_第34迷宮の覇者2",
-    "description": "Grants HP+4, Res+2."
-  },
-  {
-    "id": "SID_第35迷宮の覇者1",
-    "description": "Grants Atk/Spd+1."
-  },
-  {
-    "id": "SID_第35迷宮の覇者2",
-    "description": "Grants Atk/Spd+2."
-  },
-  {
-    "id": "SID_第36迷宮の覇者1",
-    "description": "Grants Atk/Def+1."
-  },
-  {
-    "id": "SID_第36迷宮の覇者2",
-    "description": "Grants Atk/Def+2."
-  },
-  {
-    "id": "SID_第37迷宮の覇者1",
-    "description": "Grants Atk/Res+1."
-  },
-  {
-    "id": "SID_第37迷宮の覇者2",
-    "description": "Grants Atk/Res+2."
-  },
-  {
-    "id": "SID_第38迷宮の覇者1",
-    "description": "Grants Spd/Def+1."
-  },
-  {
-    "id": "SID_第38迷宮の覇者2",
-    "description": "Grants Spd/Def+2."
-  },
-  {
-    "id": "SID_第39迷宮の覇者1",
-    "description": "Grants Spd/Res+1."
-  },
-  {
-    "id": "SID_第39迷宮の覇者2",
-    "description": "Grants Spd/Res+2."
-  },
-  {
-    "id": "SID_第40迷宮の覇者1",
-    "description": "Grants Def/Res+1."
-  },
-  {
-    "id": "SID_第40迷宮の覇者2",
-    "description": "Grants Def/Res+2."
-  },
-  {
-    "id": "SID_第41迷宮の覇者1",
-    "description": "Grants HP+3, Atk+1."
-  },
-  {
-    "id": "SID_第41迷宮の覇者2",
-    "description": "Grants HP+4, Atk+2."
-  },
-  {
-    "id": "SID_第42迷宮の覇者1",
-    "description": "Grants HP+3, Spd+1."
-  },
-  {
-    "id": "SID_第42迷宮の覇者2",
-    "description": "Grants HP+4, Spd+2."
-  },
-  {
-    "id": "SID_第43迷宮の覇者1",
-    "description": "Grants HP+3, Def+1."
-  },
-  {
-    "id": "SID_第43迷宮の覇者2",
-    "description": "Grants HP+4, Def+2."
-  },
-  {
-    "id": "SID_第44迷宮の覇者1",
-    "description": "Grants HP+3, Res+1."
-  },
-  {
-    "id": "SID_第44迷宮の覇者2",
-    "description": "Grants HP+4, Res+2."
-  },
-  {
-    "id": "SID_第45迷宮の覇者1",
-    "description": "Grants Atk/Spd+1."
-  },
-  {
-    "id": "SID_第45迷宮の覇者2",
-    "description": "Grants Atk/Spd+2."
-  },
-  {
-    "id": "SID_第46迷宮の覇者1",
-    "description": "Grants Atk/Def+1."
-  },
-  {
-    "id": "SID_第46迷宮の覇者2",
-    "description": "Grants Atk/Def+2."
-  },
-  {
-    "id": "SID_第47迷宮の覇者1",
-    "description": "Grants Atk/Res+1."
-  },
-  {
-    "id": "SID_第47迷宮の覇者2",
-    "description": "Grants Atk/Res+2."
-  },
-  {
-    "id": "SID_第48迷宮の覇者1",
-    "description": "Grants Spd/Def+1."
-  },
-  {
-    "id": "SID_第48迷宮の覇者2",
-    "description": "Grants Spd/Def+2."
-  },
-  {
-    "id": "SID_第49迷宮の覇者1",
-    "description": "Grants Spd/Res+1."
-  },
-  {
-    "id": "SID_第49迷宮の覇者2",
-    "description": "Grants Spd/Res+2."
-  },
-  {
-    "id": "SID_第50迷宮の覇者1",
-    "description": "Grants Def/Res+1."
-  },
-  {
-    "id": "SID_第50迷宮の覇者2",
-    "description": "Grants Def/Res+2."
-  },
-  {
-    "id": "SID_第51迷宮の覇者1",
-    "description": "Grants HP+3, Atk+1."
-  },
-  {
-    "id": "SID_第51迷宮の覇者2",
-    "description": "Grants HP+4, Atk+2."
-  },
-  {
-    "id": "SID_第52迷宮の覇者1",
-    "description": "Grants HP+3, Spd+1."
-  },
-  {
-    "id": "SID_第52迷宮の覇者2",
-    "description": "Grants HP+4, Spd+2."
-  },
-  {
-    "id": "SID_第2迷宮の覇者1",
-    "description": "Grants Def+1."
-  },
-  {
-    "id": "SID_第2迷宮の覇者2",
-    "description": "Grants Def+2."
-  },
-  {
-    "id": "SID_第2迷宮の覇者3",
-    "description": "Grants Def+3."
-  },
-  {
-    "id": "SID_第53迷宮の覇者1",
-    "description": "Grants HP+3, Def+1."
-  },
-  {
-    "id": "SID_第53迷宮の覇者2",
-    "description": "Grants HP+4, Def+2."
-  },
-  {
-    "id": "SID_第54迷宮の覇者1",
-    "description": "Grants HP+3, Res+1."
-  },
-  {
-    "id": "SID_第54迷宮の覇者2",
-    "description": "Grants HP+4, Res+2."
-  },
-  {
-    "id": "SID_第55迷宮の覇者1",
-    "description": "Grants Atk/Spd+1."
-  },
-  {
-    "id": "SID_第55迷宮の覇者2",
-    "description": "Grants Atk/Spd+2."
-  },
-  {
-    "id": "SID_第56迷宮の覇者1",
-    "description": "Grants Atk/Def+1."
-  },
-  {
-    "id": "SID_第56迷宮の覇者2",
-    "description": "Grants Atk/Def+2."
-  },
-  {
-    "id": "SID_第57迷宮の覇者1",
-    "description": "Grants Atk/Res+1."
-  },
-  {
-    "id": "SID_第57迷宮の覇者2",
-    "description": "Grants Atk/Res+2."
-  },
-  {
-    "id": "SID_第58迷宮の覇者1",
-    "description": "Grants Spd/Def+1."
-  },
-  {
-    "id": "SID_第58迷宮の覇者2",
-    "description": "Grants Spd/Def+2."
-  },
-  {
-    "id": "SID_第59迷宮の覇者1",
-    "description": "Grants Spd/Res+1."
-  },
-  {
-    "id": "SID_第59迷宮の覇者2",
-    "description": "Grants Spd/Res+2."
-  },
-  {
-    "id": "SID_第60迷宮の覇者1",
-    "description": "Grants Def/Res+1."
-  },
-  {
-    "id": "SID_第60迷宮の覇者2",
-    "description": "Grants Def/Res+2."
-  },
-  {
-    "id": "SID_第61迷宮の覇者1",
-    "description": "Grants HP+3, Atk+1."
-  },
-  {
-    "id": "SID_第61迷宮の覇者2",
-    "description": "Grants HP+4, Atk+2."
-  },
-  {
-    "id": "SID_第62迷宮の覇者1",
-    "description": "Grants HP+3, Spd+1."
-  },
-  {
-    "id": "SID_第62迷宮の覇者2",
-    "description": "Grants HP+4, Spd+2."
-  },
-  {
-    "id": "SID_第63迷宮の覇者1",
-    "description": "Grants HP+3, Def+1."
-  },
-  {
-    "id": "SID_第63迷宮の覇者2",
-    "description": "Grants HP+4, Def+2."
-  },
-  {
-    "id": "SID_第64迷宮の覇者1",
-    "description": "Grants HP+3, Res+1."
-  },
-  {
-    "id": "SID_第64迷宮の覇者2",
-    "description": "Grants HP+4, Res+2."
-  },
-  {
-    "id": "SID_第65迷宮の覇者1",
-    "description": "Grants Atk/Spd+1."
-  },
-  {
-    "id": "SID_第65迷宮の覇者2",
-    "description": "Grants Atk/Spd+2."
-  },
-  {
-    "id": "SID_第66迷宮の覇者1",
-    "description": "Grants Atk/Def+1."
-  },
-  {
-    "id": "SID_第66迷宮の覇者2",
-    "description": "Grants Atk/Def+2."
-  },
-  {
-    "id": "SID_第67迷宮の覇者1",
-    "description": "Grants Atk/Res+1."
-  },
-  {
-    "id": "SID_第67迷宮の覇者2",
-    "description": "Grants Atk/Res+2."
-  },
-  {
-    "id": "SID_第68迷宮の覇者1",
-    "description": "Grants Spd/Def+1."
-  },
-  {
-    "id": "SID_第68迷宮の覇者2",
-    "description": "Grants Spd/Def+2."
-  },
-  {
-    "id": "SID_第69迷宮の覇者1",
-    "description": "Grants Spd/Res+1."
-  },
-  {
-    "id": "SID_第69迷宮の覇者2",
-    "description": "Grants Spd/Res+2."
-  },
-  {
-    "id": "SID_第70迷宮の覇者1",
-    "description": "Grants Def/Res+1."
-  },
-  {
-    "id": "SID_第70迷宮の覇者2",
-    "description": "Grants Def/Res+2."
-  },
-  {
-    "id": "SID_第71迷宮の覇者1",
-    "description": "Grants HP+3, Atk/Spd+1."
-  },
-  {
-    "id": "SID_第71迷宮の覇者2",
-    "description": "Grants HP+4, Atk/Spd+2."
-  },
-  {
-    "id": "SID_第71迷宮の覇者3",
-    "description": "Grants HP+5, Atk/Spd+3."
-  },
-  {
-    "id": "SID_第72迷宮の覇者1",
-    "description": "Grants HP+3, Atk/Def+1."
-  },
-  {
-    "id": "SID_第72迷宮の覇者2",
-    "description": "Grants HP+4, Atk/Def+2."
-  },
-  {
-    "id": "SID_第72迷宮の覇者3",
-    "description": "Grants HP+5, Atk/Def+3."
-  },
-  {
-    "id": "SID_第73迷宮の覇者1",
-    "description": "Grants HP+3, Atk/Res+1."
-  },
-  {
-    "id": "SID_第73迷宮の覇者2",
-    "description": "Grants HP+4, Atk/Res+2."
-  },
-  {
-    "id": "SID_第73迷宮の覇者3",
-    "description": "Grants HP+5, Atk/Res+3."
-  },
-  {
-    "id": "SID_第74迷宮の覇者1",
-    "description": "Grants HP+3, Spd/Def+1."
-  },
-  {
-    "id": "SID_第74迷宮の覇者2",
-    "description": "Grants HP+4, Spd/Def+2."
-  },
-  {
-    "id": "SID_第74迷宮の覇者3",
-    "description": "Grants HP+5, Spd/Def+3."
-  },
-  {
-    "id": "SID_第75迷宮の覇者1",
-    "description": "Grants HP+3, Spd/Res+1."
-  },
-  {
-    "id": "SID_第75迷宮の覇者2",
-    "description": "Grants HP+4, Spd/Res+2."
-  },
-  {
-    "id": "SID_第75迷宮の覇者3",
-    "description": "Grants HP+5, Spd/Res+3."
-  },
-  {
-    "id": "SID_第76迷宮の覇者1",
-    "description": "Grants HP+3, Def/Res+1."
-  },
-  {
-    "id": "SID_第76迷宮の覇者2",
-    "description": "Grants HP+4, Def/Res+2."
-  },
-  {
-    "id": "SID_第76迷宮の覇者3",
-    "description": "Grants HP+5, Def/Res+3."
-  },
-  {
-    "id": "SID_第77迷宮の覇者1",
-    "description": "Grants Atk/Spd/Def+1."
-  },
-  {
-    "id": "SID_第77迷宮の覇者2",
-    "description": "Grants Atk/Spd/Def+2."
-  },
-  {
-    "id": "SID_第77迷宮の覇者3",
-    "description": "Grants Atk/Spd/Def+3."
-  },
-  {
-    "id": "SID_第78迷宮の覇者1",
-    "description": "Grants Atk/Spd/Res+1."
-  },
-  {
-    "id": "SID_第78迷宮の覇者2",
-    "description": "Grants Atk/Spd/Res+2."
-  },
-  {
-    "id": "SID_第78迷宮の覇者3",
-    "description": "Grants Atk/Spd/Res+3."
-  },
-  {
-    "id": "SID_第3迷宮の覇者1",
-    "description": "Grants Res+1."
-  },
-  {
-    "id": "SID_第3迷宮の覇者2",
-    "description": "Grants Res+2."
-  },
-  {
-    "id": "SID_第3迷宮の覇者3",
-    "description": "Grants Res+3."
-  },
-  {
-    "id": "SID_第79迷宮の覇者1",
-    "description": "Grants Atk/Def/Res+1."
-  },
-  {
-    "id": "SID_第79迷宮の覇者2",
-    "description": "Grants Atk/Def/Res+2."
-  },
-  {
-    "id": "SID_第79迷宮の覇者3",
-    "description": "Grants Atk/Def/Res+3."
-  },
-  {
-    "id": "SID_第80迷宮の覇者1",
-    "description": "Grants Spd/Def/Res+1."
-  },
-  {
-    "id": "SID_第80迷宮の覇者2",
-    "description": "Grants Spd/Def/Res+2."
-  },
-  {
-    "id": "SID_第80迷宮の覇者3",
-    "description": "Grants Spd/Def/Res+3."
-  },
-  {
-    "id": "SID_第81迷宮の覇者1",
-    "description": "Grants HP+3, Atk/Spd+1."
-  },
-  {
-    "id": "SID_第81迷宮の覇者2",
-    "description": "Grants HP+4, Atk/Spd+2."
-  },
-  {
-    "id": "SID_第81迷宮の覇者3",
-    "description": "Grants HP+5, Atk/Spd+3."
-  },
-  {
-    "id": "SID_第82迷宮の覇者1",
-    "description": "Grants HP+3, Atk/Def+1."
-  },
-  {
-    "id": "SID_第82迷宮の覇者2",
-    "description": "Grants HP+4, Atk/Def+2."
-  },
-  {
-    "id": "SID_第82迷宮の覇者3",
-    "description": "Grants HP+5, Atk/Def+3."
-  },
-  {
-    "id": "SID_第83迷宮の覇者1",
-    "description": "Grants HP+3, Atk/Res+1."
-  },
-  {
-    "id": "SID_第83迷宮の覇者2",
-    "description": "Grants HP+4, Atk/Res+2."
-  },
-  {
-    "id": "SID_第83迷宮の覇者3",
-    "description": "Grants HP+5, Atk/Res+3."
-  },
-  {
-    "id": "SID_第84迷宮の覇者1",
-    "description": "Grants HP+3, Spd/Def+1."
-  },
-  {
-    "id": "SID_第84迷宮の覇者2",
-    "description": "Grants HP+4, Spd/Def+2."
-  },
-  {
-    "id": "SID_第84迷宮の覇者3",
-    "description": "Grants HP+5, Spd/Def+3."
-  },
-  {
-    "id": "SID_第85迷宮の覇者1",
-    "description": "Grants HP+3, Spd/Res+1."
-  },
-  {
-    "id": "SID_第85迷宮の覇者2",
-    "description": "Grants HP+4, Spd/Res+2."
-  },
-  {
-    "id": "SID_第85迷宮の覇者3",
-    "description": "Grants HP+5, Spd/Res+3."
-  },
-  {
-    "id": "SID_第86迷宮の覇者1",
-    "description": "Grants HP+3, Def/Res+1."
-  },
-  {
-    "id": "SID_第86迷宮の覇者2",
-    "description": "Grants HP+4, Def/Res+2."
-  },
-  {
-    "id": "SID_第86迷宮の覇者3",
-    "description": "Grants HP+5, Def/Res+3."
-  },
-  {
-    "id": "SID_第87迷宮の覇者1",
-    "description": "Grants Atk/Spd/Def+1."
-  },
-  {
-    "id": "SID_第87迷宮の覇者2",
-    "description": "Grants Atk/Spd/Def+2."
-  },
-  {
-    "id": "SID_第87迷宮の覇者3",
-    "description": "Grants Atk/Spd/Def+3."
-  },
-  {
-    "id": "SID_第88迷宮の覇者1",
-    "description": "Grants Atk/Spd/Res+1."
-  },
-  {
-    "id": "SID_第88迷宮の覇者2",
-    "description": "Grants Atk/Spd/Res+2."
-  },
-  {
-    "id": "SID_第88迷宮の覇者3",
-    "description": "Grants Atk/Spd/Res+3."
-  },
-  {
-    "id": "SID_第89迷宮の覇者1",
-    "description": "Grants Atk/Def/Res+1."
-  },
-  {
-    "id": "SID_第89迷宮の覇者2",
-    "description": "Grants Atk/Def/Res+2."
-  },
-  {
-    "id": "SID_第89迷宮の覇者3",
-    "description": "Grants Atk/Def/Res+3."
-  },
-  {
-    "id": "SID_第90迷宮の覇者1",
-    "description": "Grants Spd/Def/Res+1."
-  },
-  {
-    "id": "SID_第90迷宮の覇者2",
-    "description": "Grants Spd/Def/Res+2."
-  },
-  {
-    "id": "SID_第90迷宮の覇者3",
-    "description": "Grants Spd/Def/Res+3."
-  },
-  {
-    "id": "SID_第91迷宮の覇者1",
-    "description": "Grants HP+3, Atk/Spd+1."
-  },
-  {
-    "id": "SID_第91迷宮の覇者2",
-    "description": "Grants HP+4, Atk/Spd+2."
-  },
-  {
-    "id": "SID_第91迷宮の覇者3",
-    "description": "Grants HP+5, Atk/Spd+3."
-  },
-  {
-    "id": "SID_第92迷宮の覇者1",
-    "description": "Grants HP+3, Atk/Def+1."
-  },
-  {
-    "id": "SID_第92迷宮の覇者2",
-    "description": "Grants HP+4, Atk/Def+2."
-  },
-  {
-    "id": "SID_第92迷宮の覇者3",
-    "description": "Grants HP+5, Atk/Def+3."
-  },
-  {
-    "id": "SID_第4迷宮の覇者1",
-    "description": "Grants Spd+1."
-  },
-  {
-    "id": "SID_第4迷宮の覇者2",
-    "description": "Grants Spd+2."
-  },
-  {
-    "id": "SID_第4迷宮の覇者3",
-    "description": "Grants Spd+3."
-  },
-  {
-    "id": "SID_第5迷宮の覇者1",
-    "description": "Grants Atk+1."
-  },
-  {
-    "id": "SID_第5迷宮の覇者2",
-    "description": "Grants Atk+2."
-  },
-  {
-    "id": "SID_第5迷宮の覇者3",
-    "description": "Grants Atk+3."
-  },
-  {
-    "id": "SID_第6迷宮の覇者1",
-    "description": "Grants HP+3."
-  },
-  {
-    "id": "SID_第6迷宮の覇者2",
-    "description": "Grants HP+4."
-  },
-  {
-    "id": "SID_第6迷宮の覇者3",
-    "description": "Grants HP+5."
-  },
-  {
-    "id": "SID_第7迷宮の覇者1",
-    "description": "Grants Def+1."
-  },
-  {
-    "id": "SID_第7迷宮の覇者2",
-    "description": "Grants Def+2."
-  },
-  {
-    "id": "SID_第7迷宮の覇者3",
-    "description": "Grants Def+3."
-  },
-  {
-    "id": "SID_第8迷宮の覇者1",
-    "description": "Grants Res+1."
-  },
-  {
-    "id": "SID_第8迷宮の覇者2",
-    "description": "Grants Res+2."
-  },
-  {
-    "id": "SID_第8迷宮の覇者3",
-    "description": "Grants Res+3."
-  },
-  {
-    "id": "SID_第9迷宮の覇者1",
-    "description": "Grants Spd+1."
-  },
-  {
-    "id": "SID_第9迷宮の覇者2",
-    "description": "Grants Spd+2."
-  },
-  {
-    "id": "SID_第9迷宮の覇者3",
-    "description": "Grants Spd+3."
-  },
-  {
-    "id": "SID_第10迷宮の覇者1",
-    "description": "Grants Atk+1."
-  },
-  {
-    "id": "SID_第10迷宮の覇者2",
-    "description": "Grants Atk+2."
-  },
-  {
-    "id": "SID_第10迷宮の覇者3",
-    "description": "Grants Atk+3."
-  },
-  {
-    "id": "SID_第11迷宮の覇者1",
-    "description": "Grants HP+3."
-  },
-  {
-    "id": "SID_第11迷宮の覇者2",
-    "description": "Grants HP+4."
-  },
-  {
-    "id": "SID_第11迷宮の覇者3",
-    "description": "Grants HP+5."
-  },
-  {
-    "id": "SID_第12迷宮の覇者1",
-    "description": "Grants Def+1."
-  },
-  {
-    "id": "SID_第12迷宮の覇者2",
-    "description": "Grants Def+2."
-  },
-  {
-    "id": "SID_第12迷宮の覇者3",
-    "description": "Grants Def+3."
-  },
-  {
-    "id": "SID_第13迷宮の覇者1",
-    "description": "Grants Res+1."
-  },
-  {
-    "id": "SID_第13迷宮の覇者2",
-    "description": "Grants Res+2."
-  },
-  {
-    "id": "SID_第13迷宮の覇者3",
-    "description": "Grants Res+3."
-  },
-  {
-    "id": "SID_第14迷宮の覇者1",
-    "description": "Grants Spd+1."
-  },
-  {
-    "id": "SID_第14迷宮の覇者2",
-    "description": "Grants Spd+2."
-  },
-  {
-    "id": "SID_第14迷宮の覇者3",
-    "description": "Grants Spd+3."
-  },
-  {
-    "id": "SID_第15迷宮の覇者1",
-    "description": "Grants Atk+1."
-  },
-  {
-    "id": "SID_第15迷宮の覇者2",
-    "description": "Grants Atk+2."
-  },
-  {
-    "id": "SID_第15迷宮の覇者3",
-    "description": "Grants Atk+3."
-  },
-  {
-    "id": "SID_第16迷宮の覇者1",
-    "description": "Grants HP+3."
-  },
-  {
-    "id": "SID_第16迷宮の覇者2",
-    "description": "Grants HP+4."
-  },
-  {
-    "id": "SID_第16迷宮の覇者3",
-    "description": "Grants HP+5."
-  },
-  {
-    "id": "SID_第17迷宮の覇者1",
-    "description": "Grants Def+1."
-  },
-  {
-    "id": "SID_第17迷宮の覇者2",
-    "description": "Grants Def+2."
-  },
-  {
-    "id": "SID_第17迷宮の覇者3",
-    "description": "Grants Def+3."
-  },
-  {
-    "id": "SID_第18迷宮の覇者1",
-    "description": "Grants Res+1."
-  },
-  {
-    "id": "SID_第18迷宮の覇者2",
-    "description": "Grants Res+2."
-  },
-  {
-    "id": "SID_第18迷宮の覇者3",
-    "description": "Grants Res+3."
-  },
-  {
-    "id": "SID_第19迷宮の覇者1",
-    "description": "Grants Spd+1."
-  },
-  {
-    "id": "SID_第19迷宮の覇者2",
-    "description": "Grants Spd+2."
-  },
-  {
-    "id": "SID_第19迷宮の覇者3",
-    "description": "Grants Spd+3."
-  },
-  {
-    "id": "SID_第20迷宮の覇者1",
-    "description": "Grants Atk+1."
-  },
-  {
-    "id": "SID_第20迷宮の覇者2",
-    "description": "Grants Atk+2."
-  },
-  {
-    "id": "SID_第20迷宮の覇者3",
-    "description": "Grants Atk+3."
-  },
-  {
-    "id": "SID_第21迷宮の覇者1",
-    "description": "Grants HP+3."
-  },
-  {
-    "id": "SID_第21迷宮の覇者2",
-    "description": "Grants HP+4."
-  },
-  {
-    "id": "SID_第21迷宮の覇者3",
-    "description": "Grants HP+5."
-  },
-  {
-    "id": "SID_第22迷宮の覇者1",
-    "description": "Grants Def+1."
-  },
-  {
-    "id": "SID_第22迷宮の覇者2",
-    "description": "Grants Def+2."
-  },
-  {
-    "id": "SID_第22迷宮の覇者3",
-    "description": "Grants Def+3."
-  },
-  {
-    "id": "SID_第23迷宮の覇者1",
-    "description": "Grants Res+1."
-  },
-  {
-    "id": "SID_第23迷宮の覇者2",
-    "description": "Grants Res+2."
-  },
-  {
-    "id": "SID_第23迷宮の覇者3",
-    "description": "Grants Res+3."
-  },
-  {
-    "id": "SID_第24迷宮の覇者1",
-    "description": "Grants Spd+1."
-  },
-  {
-    "id": "SID_第24迷宮の覇者2",
-    "description": "Grants Spd+2."
-  },
-  {
-    "id": "SID_第24迷宮の覇者3",
-    "description": "Grants Spd+3."
-  },
-  {
-    "id": "SID_第25迷宮の覇者1",
-    "description": "Grants Atk+1."
-  },
-  {
-    "id": "SID_第25迷宮の覇者2",
-    "description": "Grants Atk+2."
-  },
-  {
-    "id": "SID_第25迷宮の覇者3",
-    "description": "Grants Atk+3."
-  },
-  {
-    "id": "SID_第26迷宮の覇者1",
-    "description": "Grants HP+3."
-  },
-  {
-    "id": "SID_第26迷宮の覇者2",
-    "description": "Grants HP+4."
-  },
-  {
-    "id": "SID_第26迷宮の覇者3",
-    "description": "Grants HP+5."
-  },
-  {
     "id": "SID_杖の経験1",
     "description": "While unit lives and uses a staff, unit gets 1.5x EXP. (Only highest value applied. Does not stack.)"
   },
@@ -16732,10 +15492,6 @@
     "description": "If foe initiates combat or if a bonus granted by a skill like Rally or Hone is not active on foe, grants Atk/Spd/Def/Res+4 to unit during combat. If foe's Range = 2, calculates damage using the lower of foe's Def or Res.<br>Inflicts Atk/Spd-3 on foe and neutralizes foe's bonuses to Atk/Spd (from skills like Fortify, Rally, etc.) during combat."
   },
   {
-    "id": "SID_天日の神剣",
-    "description": "Accelerates Special trigger (cooldown count-1).<br>Neutralizes \"effective against flying\" bonuses.<br><br>After start-of-turn effects trigger on enemy phase, converts bonuses on closest foes and foes within 2 spaces of those foes into penalties (does not convert bonuses applied at the same time).<br><br>If unit initiates combat or is within 2 spaces of an ally, grants bonus to unit's Atk/Spd/Def/Res = number of foes within 3 rows or 3 columns centered on unit × 3, + 5 (max 14), grants Special cooldown charge +1 per attack (only highest value applied; does not stack), deals damage = 20% of unit's Spd (excluding area-of-effect Specials), and reduces damage from foe's attacks by X during combat (if foe is red, green, or colorless, X = 50% of unit's Spd; otherwise, X = 20% of unit's Spd; excluding area-of-effect Specials), and also, when foe's attack triggers foe's Special, reduces damage from foe's attacks by an additional X (excluding area-of-effect Specials).<br><br>If unit initiates combat, applies 【Divine Vein (Flame)】on 5 spaces in a line centered on foe's space and on the 5 spaces behind those spaces (based on direction unit is facing) for 1 turn after combat.<br><br>【Divine Vein (Flame)】<br>Applies the following effects on space: Acts as difficult terrain for foes with Range = 2 (moving over this space costs +1 movement; does not apply to \"cannot be slowed by terrain\" effects; movement cost cannot exceed unit's allowed movement). At start of enemy phase, deals 7 damage to foe, and also, as combat begins, deals an additional 7 damage to foe (effects that reduce damage \"during combat\" do not apply; will not reduce foe's HP below 1). (Divine Vein effects do not stack; replaces any existing Divine Vein effect; Divine Vein effects applied simultaneously cancel each other out.)"
-  },
-  {
     "id": "SID_双姫の陽翼",
     "description": "At start of combat, if unit's HP ≥ 25%, inflicts Spd/Def-5 on foe and also neutralizes effects that guarantee foe's follow-up attacks and effects that prevent unit's follow-up attacks during combat."
   },
@@ -16930,10 +15686,6 @@
   {
     "id": "SID_砂塵に舞う曲刀",
     "description": "Accelerates Special trigger (cooldown count-1).<br><br>If a skill compares unit's Spd to a foe's or ally's Spd, treats unit's Spd as if granted +7.<br><br>At start of player phase or enemy phase, if unit is within 2 spaces of an ally, grants Atk/Spd+6,【Dodge】, and \"neutralizes penalties on unit during combat\" to unit and allies within 2 spaces of unit for 1 turn.<br><br>If unit is within 3 spaces of an ally, grants bonus to unit's Atk/Spd/Def/Res based on the number of times unit has been enhanced using Dragonflowers (one or more times grants +14, zero times grants +10), grants Special cooldown count-2 to unit before foe's first attack, and reduces damage from foe's first attack by 25% of unit's Spd during combat (\"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes), and unit's next attack deals damage = total damage reduced from foe's first attack (by any source, including other skills). Resets at end of combat.<br><br>If unit is within 3 spaces of an ally, restores 7 HP to unit after combat.<br><br>【Dodge】<br>If unit's Spd > foe's Spd, reduces damage from attacks during combat and from area-of-effect Specials (excluding Røkkr area-of-effect Specials) by percentage = difference between stats × 4 (max 40%)."
-  },
-  {
-    "id": "SID_ブレイザブリク剣",
-    "description": "Grants Atk/Spd/Def/Res+4 to allies within 2 spaces during combat. Inflicts Atk/Spd/Def/Res-4 on foes within 2 spaces during combat."
   },
   {
     "id": "SID_剣の経験1",
@@ -17792,10 +16544,6 @@
     "description": "Inflicts Spd-5. If unit initiates combat, unit attacks twice."
   },
   {
-    "id": "SID_ヴラスキャルヴ",
-    "description": "If unit's HP ≤ 50% and foe initiates combat, unit can counterattack before foe's first attack."
-  },
-  {
     "id": "SID_バルボの勇槍",
     "description": "If unit is within 3 spaces of an ally, grants Atk/Def+5 to unit during combat, and also, if foe initiates combat, reduces damage from foe's follow-up attack by 60% during combat (\"follow-up attack\" normally means only the second strike; for effects that grant \"unit attacks twice,\" it means the third and fourth strikes)."
   },
@@ -17866,14 +16614,6 @@
   {
     "id": "SID_始祖の炎翼",
     "description": "Effect:【Pathfinder】<br><br>At start of turn, if unit is on a team with only 1 support partner, grants【Pathfinder】to support partner for 1 turn.<br><br>At start of turn, if unit is not on a team with support partner and if there is only 1 ally who has the highest Def, grants【Pathfinder】to that ally for 1 turn.<br><br>At start of combat, if unit's HP ≥ 25%, inflicts penalty on foe's Atk/Spd/Def = 5 + current bonus on each of foe's stats × 2 (calculates each stat penalty independently; example: if foe has a +7 bonus to Atk, inflicts Atk-19, for a net penalty of Atk-12), and reduces the percentage of foe's non-Special \"reduce damage by X%\" skills by 50% during combat (excluding area-of-effect Specials), and restores 7 HP to unit after combat.<br><br>【Pathfinder】<br>When an ally moves through unit's space, that space is counted as 0 spaces moved instead of 1 space. (Unit's space can be freely added to ally's normal movement. Applies only to allies with movement types that allow movement through unit's space.)"
-  },
-  {
-    "id": "SID_盗賊の偶像・踊り",
-    "description": "When the holder of this seal is defeated, restores 10 HP to unit that defeats holder, inflicts Special cooldown count+1 on that unit after combat, and a【Dancer's Veil】drops.<br><br>【Dancer's Veil】<br>Allows one random ally that has already acted to take another action."
-  },
-  {
-    "id": "SID_幽暗ヴラスキャルヴ",
-    "description": "Accelerates Special trigger (cooldown count-1). At start of combat, if unit's HP ≥ 25%, grants Atk/Spd/Def/Res+5 to unit during combat, and also, if foe initiates combat, unit can counterattack before foe’s first attack."
   },
   {
     "id": "SID_回避・拍節1",
