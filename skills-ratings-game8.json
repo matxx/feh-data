@@ -10704,16 +10704,16 @@
     "game8_grade": "S"
   },
   {
-    "id": "SID_あまいゆめ・神",
-    "game8_id": "432077",
-    "game8_rating": "9.5",
-    "game8_grade": "S"
-  },
-  {
     "id": "SID_こわいゆめ",
     "game8_id": "310163",
     "game8_rating": "9.0",
     "game8_grade": "A"
+  },
+  {
+    "id": "SID_あまいゆめ・神",
+    "game8_id": "432077",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
   },
   {
     "id": "SID_こわいゆめ・神",
@@ -10728,20 +10728,26 @@
     "game8_grade": "S"
   },
   {
+    "id": "SID_癒しの乙女",
+    "game8_id": "341285",
+    "game8_rating": "9.0",
+    "game8_grade": null
+  },
+  {
     "id": "SID_こわいかこのゆめ",
     "game8_id": "430302",
     "game8_rating": "9.5",
     "game8_grade": "S"
   },
   {
-    "id": "SID_ユラリユルレリ・承",
-    "game8_id": "370423",
+    "id": "SID_運命を変える！・承",
+    "game8_id": "417203",
     "game8_rating": "9.5",
     "game8_grade": "S"
   },
   {
-    "id": "SID_運命を変える！・承",
-    "game8_id": "417203",
+    "id": "SID_ユラリユルレリ・承",
+    "game8_id": "370423",
     "game8_rating": "9.5",
     "game8_grade": "S"
   },
