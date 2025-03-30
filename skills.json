@@ -13802,6 +13802,33 @@
     }
   },
   {
+    "id": "SID_碧き風空の剣",
+    "game8_id": null,
+    "name": "Azure Twin Edge",
+    "group_name": "Azure Twin Edge",
+    "category": "weapon",
+    "image_url": null,
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "bridge_ids": [
+      "SID_銀の剣"
+    ],
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Red Sword"
+        ]
+      }
+    },
+    "downgrade_ids": [
+      "SID_銀の剣"
+    ]
+  },
+  {
     "id": "SID_青の死闘・騎馬1",
     "game8_id": "335301",
     "name": "B Duel Cavalry 1",
@@ -18259,6 +18286,130 @@
         "none": true
       }
     }
+  },
+  {
+    "id": "SID_蒼穹1",
+    "game8_id": null,
+    "name": "Blue Skies 1",
+    "group_name": "Blue Skies",
+    "category": "passivea",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/31/Blue_Skies_1.png/revision/latest?cb=20250328145120",
+    "is_prf": false,
+    "sp": 60,
+    "tier": 1,
+    "bridge_ids": [],
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Cavalry",
+          "Flying"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "All Melee"
+        ]
+      }
+    },
+    "upgrade_ids": [
+      "SID_蒼穹2"
+    ]
+  },
+  {
+    "id": "SID_蒼穹2",
+    "game8_id": null,
+    "name": "Blue Skies 2",
+    "group_name": "Blue Skies",
+    "category": "passivea",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/9e/Blue_Skies_2.png/revision/latest?cb=20250328145129",
+    "is_prf": false,
+    "sp": 120,
+    "tier": 2,
+    "bridge_ids": [
+      "SID_蒼穹1"
+    ],
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Cavalry",
+          "Flying"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "All Melee"
+        ]
+      }
+    },
+    "upgrade_ids": [
+      "SID_蒼穹3"
+    ],
+    "downgrade_ids": [
+      "SID_蒼穹1"
+    ]
+  },
+  {
+    "id": "SID_蒼穹3",
+    "game8_id": null,
+    "name": "Blue Skies 3",
+    "group_name": "Blue Skies",
+    "category": "passivea",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/17/Blue_Skies_3.png/revision/latest?cb=20250328145139",
+    "is_prf": false,
+    "sp": 240,
+    "tier": 3,
+    "bridge_ids": [
+      "SID_蒼穹2"
+    ],
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Cavalry",
+          "Flying"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "All Melee"
+        ]
+      }
+    },
+    "upgrade_ids": [
+      "SID_蒼穹4"
+    ],
+    "downgrade_ids": [
+      "SID_蒼穹2"
+    ]
+  },
+  {
+    "id": "SID_蒼穹4",
+    "game8_id": null,
+    "name": "Blue Skies 4",
+    "group_name": "Blue Skies",
+    "category": "passivea",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/dc/Blue_Skies_4.png/revision/latest?cb=20250328145150",
+    "is_prf": false,
+    "sp": 300,
+    "tier": 4,
+    "bridge_ids": [
+      "SID_蒼穹3"
+    ],
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Cavalry",
+          "Flying"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "All Melee"
+        ]
+      }
+    },
+    "downgrade_ids": [
+      "SID_蒼穹3"
+    ]
   },
   {
     "id": "SID_青獅子の聖夜の斧",
@@ -67120,7 +67271,8 @@
       "SID_滅殺",
       "SID_漆黒の月光",
       "SID_暴の天空",
-      "SID_蒼の天空"
+      "SID_蒼の天空",
+      "SID_ツインストライク"
     ],
     "downgrade_ids": [
       "SID_影月"
@@ -93081,6 +93233,7 @@
       "SID_花開く心技の剣",
       "SID_流星剣",
       "SID_瞬閃アイラの剣",
+      "SID_碧き風空の剣",
       "SID_バルムンク",
       "SID_宝剣ソフィア",
       "SID_封印の剣",
@@ -111214,6 +111367,33 @@
         ]
       }
     }
+  },
+  {
+    "id": "SID_ツインストライク",
+    "game8_id": null,
+    "name": "Twin Strike",
+    "group_name": "Twin Strike",
+    "category": "special",
+    "image_url": null,
+    "is_prf": true,
+    "sp": 500,
+    "tier": 3,
+    "bridge_ids": [
+      "SID_月光"
+    ],
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_not_use": [
+          "Colorless Staff"
+        ]
+      }
+    },
+    "downgrade_ids": [
+      "SID_月光"
+    ]
   },
   {
     "id": "SID_双紋章の力",

@@ -5058,6 +5058,24 @@
     "level40_res": 21
   },
   {
+    "id": "PID_紋章エイリーク",
+    "level1_hp": 18,
+    "level1_atk": 12,
+    "level1_spd": 9,
+    "level1_def": 8,
+    "level1_res": 6,
+    "growth_rate_hp": 50,
+    "growth_rate_atk": 75,
+    "growth_rate_spd": 90,
+    "growth_rate_def": 55,
+    "growth_rate_res": 45,
+    "level40_hp": 40,
+    "level40_atk": 45,
+    "level40_spd": 48,
+    "level40_def": 32,
+    "level40_res": 25
+  },
+  {
     "id": "PID_総選挙エイリーク",
     "level1_hp": 17,
     "level1_atk": 10,

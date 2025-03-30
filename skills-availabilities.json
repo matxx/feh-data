@@ -305,6 +305,12 @@
           "month": 11,
           "rarity": 5,
           "cost": 300
+        },
+        {
+          "year": 2025,
+          "month": 2,
+          "rarity": 5,
+          "cost": 300
         }
       ]
     }
@@ -358,6 +364,12 @@
           "month": 11,
           "rarity": 5,
           "cost": 300
+        },
+        {
+          "year": 2025,
+          "month": 2,
+          "rarity": 5,
+          "cost": 300
         }
       ]
     }
@@ -409,6 +421,12 @@
         {
           "year": 2024,
           "month": 11,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
+          "year": 2025,
+          "month": 2,
           "rarity": 5,
           "cost": 300
         }
@@ -1806,7 +1824,8 @@
   {
     "id": "SID_攻速鼓舞・奮激",
     "fodder_ids": [
-      "PID_愛の祭クロード"
+      "PID_愛の祭クロード",
+      "PID_紋章エイリーク"
     ],
     "fodder": {
       "g4": 1,
@@ -1822,13 +1841,15 @@
       "hg": false,
       "dc": false,
       "ldc": false,
-      "foc": false
+      "foc": true
     },
     "flrwo": {
-      "ssp": 5
+      "ssp": 5,
+      "foc": 5
     },
     "flrfi": {
-      "ssp": 5
+      "ssp": 5,
+      "foc": 5
     },
     "divine_codes": {}
   },
@@ -4480,16 +4501,27 @@
       "ssp": false,
       "hg": true,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "flrwo": {
-      "hg": 4
+      "hg": 4,
+      "ldc": 4
     },
     "flrfi": {
-      "hg": 3
+      "hg": 3,
+      "ldc": 3
     },
-    "divine_codes": {}
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2025,
+          "month": 1,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_錨の斧＋",
@@ -4509,16 +4541,27 @@
       "ssp": false,
       "hg": true,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "flrwo": {
-      "hg": 4
+      "hg": 4,
+      "ldc": 4
     },
     "flrfi": {
-      "hg": 5
+      "hg": 5,
+      "ldc": 5
     },
-    "divine_codes": {}
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2025,
+          "month": 1,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_古代魔道の稀書",
@@ -8990,6 +9033,7 @@
   {
     "id": "SID_強襲・不屈",
     "fodder_ids": [
+      "PID_紋章エイリーク",
       "PID_双界マリカ"
     ],
     "fodder": {
@@ -9006,13 +9050,15 @@
       "hg": false,
       "dc": false,
       "ldc": false,
-      "foc": false
+      "foc": true
     },
     "flrwo": {
-      "ssp": 5
+      "ssp": 5,
+      "foc": 5
     },
     "flrfi": {
-      "ssp": 5
+      "ssp": 5,
+      "foc": 5
     },
     "divine_codes": {}
   },
@@ -10304,6 +10350,12 @@
           "cost": 100
         },
         {
+          "year": 2025,
+          "month": 2,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
           "year": 2023,
           "month": 2,
           "rarity": 5,
@@ -10378,6 +10430,12 @@
           "cost": 100
         },
         {
+          "year": 2025,
+          "month": 2,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
           "year": 2023,
           "month": 2,
           "rarity": 5,
@@ -10448,6 +10506,12 @@
         {
           "year": 2020,
           "month": 6,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 2,
           "rarity": 4,
           "cost": 100
         },
@@ -16406,6 +16470,12 @@
           "month": 5,
           "rarity": 5,
           "cost": 300
+        },
+        {
+          "year": 2025,
+          "month": 2,
+          "rarity": 5,
+          "cost": 300
         }
       ]
     }
@@ -17674,6 +17744,12 @@
           "month": 5,
           "rarity": 5,
           "cost": 300
+        },
+        {
+          "year": 2025,
+          "month": 2,
+          "rarity": 5,
+          "cost": 300
         }
       ]
     }
@@ -17757,6 +17833,12 @@
         {
           "year": 2023,
           "month": 5,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
+          "year": 2025,
+          "month": 2,
           "rarity": 5,
           "cost": 300
         }
@@ -17844,6 +17926,12 @@
           "month": 5,
           "rarity": 5,
           "cost": 300
+        },
+        {
+          "year": 2025,
+          "month": 2,
+          "rarity": 5,
+          "cost": 300
         }
       ]
     }
@@ -17895,6 +17983,12 @@
         {
           "year": 2023,
           "month": 5,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
+          "year": 2025,
+          "month": 2,
           "rarity": 5,
           "cost": 300
         }
@@ -19988,6 +20082,12 @@
           "cost": 100
         },
         {
+          "year": 2025,
+          "month": 1,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
           "year": 2023,
           "month": 7,
           "rarity": 4,
@@ -20088,6 +20188,12 @@
           "cost": 100
         },
         {
+          "year": 2025,
+          "month": 1,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
           "year": 2023,
           "month": 7,
           "rarity": 4,
@@ -20184,6 +20290,12 @@
         {
           "year": 2024,
           "month": 6,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 1,
           "rarity": 4,
           "cost": 100
         },
@@ -20498,7 +20610,7 @@
       "ssp": 1,
       "hg": 1,
       "dc": 2,
-      "ldc": 3,
+      "ldc": 1,
       "foc": 2
     },
     "divine_codes": {
@@ -20535,6 +20647,12 @@
         }
       ],
       "limited": [
+        {
+          "year": 2025,
+          "month": 3,
+          "rarity": 4,
+          "cost": 100
+        },
         {
           "year": 2022,
           "month": 9,
@@ -20601,7 +20719,7 @@
       "ssp": 2,
       "hg": 2,
       "dc": 3,
-      "ldc": 4,
+      "ldc": 2,
       "foc": 3
     },
     "divine_codes": {
@@ -20638,6 +20756,12 @@
         }
       ],
       "limited": [
+        {
+          "year": 2025,
+          "month": 3,
+          "rarity": 4,
+          "cost": 100
+        },
         {
           "year": 2022,
           "month": 9,
@@ -20704,7 +20828,7 @@
       "ssp": 4,
       "hg": 4,
       "dc": 4,
-      "ldc": 5,
+      "ldc": 4,
       "foc": 4
     },
     "divine_codes": {
@@ -20741,6 +20865,12 @@
         }
       ],
       "limited": [
+        {
+          "year": 2025,
+          "month": 3,
+          "rarity": 4,
+          "cost": 100
+        },
         {
           "year": 2022,
           "month": 9,
@@ -25387,6 +25517,35 @@
     "divine_codes": {}
   },
   {
+    "id": "SID_碧き風空の剣",
+    "fodder_ids": [
+      "PID_紋章エイリーク"
+    ],
+    "fodder": {
+      "g4": 1,
+      "hg": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 1,
+      "shsr": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "flrwo": {
+      "foc": 5
+    },
+    "flrfi": {
+      "foc": 5
+    },
+    "divine_codes": {}
+  },
+  {
     "id": "SID_青の死闘・騎馬1",
     "fodder_ids": [
       "PID_水着アッシュ"
@@ -28666,6 +28825,12 @@
           "month": 7,
           "rarity": 4,
           "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 3,
+          "rarity": 4,
+          "cost": 100
         }
       ]
     }
@@ -30092,16 +30257,27 @@
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "flrwo": {
-      "gsp": 3
+      "gsp": 3,
+      "ldc": 4
     },
     "flrfi": {
-      "gsp": 3
+      "gsp": 3,
+      "ldc": 3
     },
-    "divine_codes": {}
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2025,
+          "month": 1,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_ナートブラー＋",
@@ -30121,16 +30297,27 @@
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "flrwo": {
-      "gsp": 3
+      "gsp": 3,
+      "ldc": 4
     },
     "flrfi": {
-      "gsp": 5
+      "gsp": 5,
+      "ldc": 5
     },
-    "divine_codes": {}
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2025,
+          "month": 1,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_ブラーサーペント",
@@ -31419,6 +31606,122 @@
     "divine_codes": {}
   },
   {
+    "id": "SID_蒼穹1",
+    "fodder_ids": [
+      "PID_紋章エイリーク"
+    ],
+    "fodder": {
+      "g4": 1,
+      "hg": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 1,
+      "shsr": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "flrwo": {
+      "foc": 5
+    },
+    "flrfi": {
+      "foc": 2
+    },
+    "divine_codes": {}
+  },
+  {
+    "id": "SID_蒼穹2",
+    "fodder_ids": [
+      "PID_紋章エイリーク"
+    ],
+    "fodder": {
+      "g4": 2,
+      "hg": 2,
+      "dc": 2,
+      "sh4": 2,
+      "gsr": 2,
+      "shsr": 2
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "flrwo": {
+      "foc": 5
+    },
+    "flrfi": {
+      "foc": 3
+    },
+    "divine_codes": {}
+  },
+  {
+    "id": "SID_蒼穹3",
+    "fodder_ids": [
+      "PID_紋章エイリーク"
+    ],
+    "fodder": {
+      "g4": 3,
+      "hg": 3,
+      "dc": 3,
+      "sh4": 3,
+      "gsr": 3,
+      "shsr": 3
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "flrwo": {
+      "foc": 5
+    },
+    "flrfi": {
+      "foc": 4
+    },
+    "divine_codes": {}
+  },
+  {
+    "id": "SID_蒼穹4",
+    "fodder_ids": [
+      "PID_紋章エイリーク"
+    ],
+    "fodder": {
+      "g4": 4,
+      "hg": 4,
+      "dc": 4,
+      "sh4": 4,
+      "gsr": 4,
+      "shsr": 4
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "flrwo": {
+      "foc": 5
+    },
+    "flrfi": {
+      "foc": 5
+    },
+    "divine_codes": {}
+  },
+  {
     "id": "SID_青獅子の聖夜の斧",
     "fodder_ids": [
       "PID_冬祭ディミトリ"
@@ -32299,10 +32602,22 @@
           "cost": 100
         },
         {
+          "year": 2025,
+          "month": 1,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
           "year": 2024,
           "month": 9,
           "rarity": 4,
           "cost": 100
+        },
+        {
+          "year": 2023,
+          "month": 8,
+          "rarity": 5,
+          "cost": 300
         },
         {
           "year": 2021,
@@ -32313,12 +32628,6 @@
         {
           "year": 2024,
           "month": 2,
-          "rarity": 5,
-          "cost": 300
-        },
-        {
-          "year": 2023,
-          "month": 8,
           "rarity": 5,
           "cost": 300
         }
@@ -33157,16 +33466,27 @@
       "ssp": true,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "flrwo": {
-      "ssp": 5
+      "ssp": 5,
+      "ldc": 5
     },
     "flrfi": {
-      "ssp": 5
+      "ssp": 5,
+      "ldc": 5
     },
-    "divine_codes": {}
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2025,
+          "month": 3,
+          "rarity": 5,
+          "cost": 300
+        }
+      ]
+    }
   },
   {
     "id": "SID_双聖戦士の聖弓",
@@ -35159,6 +35479,12 @@
           "month": 7,
           "rarity": 4,
           "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 2,
+          "rarity": 4,
+          "cost": 100
         }
       ]
     }
@@ -35208,6 +35534,12 @@
           "month": 7,
           "rarity": 4,
           "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 2,
+          "rarity": 4,
+          "cost": 100
         }
       ]
     }
@@ -35255,6 +35587,12 @@
         {
           "year": 2021,
           "month": 7,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 2,
           "rarity": 4,
           "cost": 100
         }
@@ -35564,6 +35902,12 @@
           "month": 11,
           "rarity": 4,
           "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 3,
+          "rarity": 4,
+          "cost": 100
         }
       ]
     }
@@ -35622,6 +35966,12 @@
           "month": 11,
           "rarity": 4,
           "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 3,
+          "rarity": 4,
+          "cost": 100
         }
       ]
     }
@@ -35678,6 +36028,12 @@
         {
           "year": 2023,
           "month": 11,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 3,
           "rarity": 4,
           "cost": 100
         }
@@ -37341,6 +37697,12 @@
         {
           "year": 2023,
           "month": 7,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 1,
           "rarity": 4,
           "cost": 100
         },
@@ -41796,6 +42158,12 @@
           "cost": 300
         },
         {
+          "year": 2025,
+          "month": 1,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
           "year": 2022,
           "month": 3,
           "rarity": 5,
@@ -42361,16 +42729,27 @@
       "ssp": true,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "flrwo": {
-      "ssp": 4.5
+      "ssp": 4.5,
+      "ldc": 5
     },
     "flrfi": {
-      "ssp": 3
+      "ssp": 3,
+      "ldc": 3
     },
-    "divine_codes": {}
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2025,
+          "month": 1,
+          "rarity": 5,
+          "cost": 300
+        }
+      ]
+    }
   },
   {
     "id": "SID_速さ魔防の封印2",
@@ -42391,16 +42770,27 @@
       "ssp": true,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "flrwo": {
-      "ssp": 4.5
+      "ssp": 4.5,
+      "ldc": 5
     },
     "flrfi": {
-      "ssp": 4
+      "ssp": 4,
+      "ldc": 4
     },
-    "divine_codes": {}
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2025,
+          "month": 1,
+          "rarity": 5,
+          "cost": 300
+        }
+      ]
+    }
   },
   {
     "id": "SID_速さ魔防の封印3",
@@ -42420,16 +42810,27 @@
       "ssp": true,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "flrwo": {
-      "ssp": 5
+      "ssp": 5,
+      "ldc": 5
     },
     "flrfi": {
-      "ssp": 5
+      "ssp": 5,
+      "ldc": 5
     },
-    "divine_codes": {}
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2025,
+          "month": 1,
+          "rarity": 5,
+          "cost": 300
+        }
+      ]
+    }
   },
   {
     "id": "SID_夏氷のブレス",
@@ -42757,32 +43158,14 @@
       ],
       "limited": [
         {
-          "year": 2024,
-          "month": 2,
-          "rarity": 4,
-          "cost": 100
-        },
-        {
           "year": 2021,
-          "month": 6,
+          "month": 10,
           "rarity": 4,
           "cost": 100
         },
         {
-          "year": 2020,
-          "month": 6,
-          "rarity": 4,
-          "cost": 100
-        },
-        {
-          "year": 2020,
-          "month": 6,
-          "rarity": 4,
-          "cost": 100
-        },
-        {
-          "year": 2020,
-          "month": 12,
+          "year": 2024,
+          "month": 9,
           "rarity": 4,
           "cost": 100
         },
@@ -42794,19 +43177,25 @@
         },
         {
           "year": 2022,
+          "month": 9,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2020,
           "month": 6,
           "rarity": 4,
           "cost": 100
         },
         {
-          "year": 2024,
-          "month": 12,
+          "year": 2020,
+          "month": 6,
           "rarity": 4,
           "cost": 100
         },
         {
-          "year": 2024,
-          "month": 9,
+          "year": 2020,
+          "month": 12,
           "rarity": 4,
           "cost": 100
         },
@@ -42817,6 +43206,12 @@
           "cost": 100
         },
         {
+          "year": 2021,
+          "month": 6,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
           "year": 2020,
           "month": 3,
           "rarity": 4,
@@ -42835,20 +43230,26 @@
           "cost": 100
         },
         {
+          "year": 2022,
+          "month": 6,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
           "year": 2023,
           "month": 7,
           "rarity": 4,
           "cost": 100
         },
         {
-          "year": 2021,
-          "month": 10,
+          "year": 2024,
+          "month": 2,
           "rarity": 4,
           "cost": 100
         },
         {
-          "year": 2022,
-          "month": 9,
+          "year": 2024,
+          "month": 12,
           "rarity": 4,
           "cost": 100
         },
@@ -42857,6 +43258,72 @@
           "month": 10,
           "rarity": 4,
           "cost": 100
+        },
+        {
+          "year": 2022,
+          "month": 12,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
+          "year": 2022,
+          "month": 11,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
+          "year": 2022,
+          "month": 4,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
+          "year": 2023,
+          "month": 3,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
+          "year": 2021,
+          "month": 9,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
+          "year": 2023,
+          "month": 5,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
+          "year": 2020,
+          "month": 7,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
+          "year": 2025,
+          "month": 2,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
+          "year": 2024,
+          "month": 8,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
+          "year": 2024,
+          "month": 6,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
+          "year": 2023,
+          "month": 5,
+          "rarity": 5,
+          "cost": 300
         },
         {
           "year": 2021,
@@ -42865,8 +43332,8 @@
           "cost": 300
         },
         {
-          "year": 2024,
-          "month": 4,
+          "year": 2025,
+          "month": 2,
           "rarity": 5,
           "cost": 300
         },
@@ -42877,62 +43344,8 @@
           "cost": 300
         },
         {
-          "year": 2022,
+          "year": 2024,
           "month": 4,
-          "rarity": 5,
-          "cost": 300
-        },
-        {
-          "year": 2023,
-          "month": 3,
-          "rarity": 5,
-          "cost": 300
-        },
-        {
-          "year": 2021,
-          "month": 9,
-          "rarity": 5,
-          "cost": 300
-        },
-        {
-          "year": 2020,
-          "month": 7,
-          "rarity": 5,
-          "cost": 300
-        },
-        {
-          "year": 2022,
-          "month": 12,
-          "rarity": 5,
-          "cost": 300
-        },
-        {
-          "year": 2023,
-          "month": 5,
-          "rarity": 5,
-          "cost": 300
-        },
-        {
-          "year": 2024,
-          "month": 8,
-          "rarity": 5,
-          "cost": 300
-        },
-        {
-          "year": 2024,
-          "month": 6,
-          "rarity": 5,
-          "cost": 300
-        },
-        {
-          "year": 2023,
-          "month": 5,
-          "rarity": 5,
-          "cost": 300
-        },
-        {
-          "year": 2022,
-          "month": 11,
           "rarity": 5,
           "cost": 300
         }
@@ -43180,16 +43593,27 @@
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "flrwo": {
-      "gsp": 3
+      "gsp": 3,
+      "ldc": 4
     },
     "flrfi": {
-      "gsp": 3
+      "gsp": 3,
+      "ldc": 3
     },
-    "divine_codes": {}
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2025,
+          "month": 2,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_攻防の暗器＋",
@@ -43209,16 +43633,27 @@
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "flrwo": {
-      "gsp": 3
+      "gsp": 3,
+      "ldc": 4
     },
     "flrfi": {
-      "gsp": 5
+      "gsp": 5,
+      "ldc": 5
     },
-    "divine_codes": {}
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2025,
+          "month": 2,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_慧敏隊形4",
@@ -46374,16 +46809,27 @@
       "ssp": true,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "flrwo": {
-      "ssp": 5
+      "ssp": 5,
+      "ldc": 5
     },
     "flrfi": {
-      "ssp": 5
+      "ssp": 5,
+      "ldc": 5
     },
-    "divine_codes": {}
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2025,
+          "month": 1,
+          "rarity": 5,
+          "cost": 300
+        }
+      ]
+    }
   },
   {
     "id": "SID_剣聖の流星雨",
@@ -47832,14 +48278,20 @@
       ],
       "limited": [
         {
-          "year": 2022,
-          "month": 11,
+          "year": 2021,
+          "month": 3,
           "rarity": 4,
           "cost": 100
         },
         {
-          "year": 2021,
-          "month": 3,
+          "year": 2025,
+          "month": 2,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2022,
+          "month": 11,
           "rarity": 4,
           "cost": 100
         },
@@ -47860,12 +48312,6 @@
           "month": 9,
           "rarity": 4,
           "cost": 100
-        },
-        {
-          "year": 2022,
-          "month": 7,
-          "rarity": 5,
-          "cost": 300
         },
         {
           "year": 2023,
@@ -47918,6 +48364,12 @@
         {
           "year": 2020,
           "month": 5,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
+          "year": 2022,
+          "month": 7,
           "rarity": 5,
           "cost": 300
         }
@@ -49110,8 +49562,20 @@
       ],
       "limited": [
         {
+          "year": 2020,
+          "month": 4,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
           "year": 2024,
           "month": 1,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2024,
+          "month": 6,
           "rarity": 4,
           "cost": 100
         },
@@ -49140,14 +49604,14 @@
           "cost": 100
         },
         {
-          "year": 2024,
-          "month": 3,
+          "year": 2023,
+          "month": 11,
           "rarity": 4,
           "cost": 100
         },
         {
-          "year": 2021,
-          "month": 2,
+          "year": 2024,
+          "month": 3,
           "rarity": 4,
           "cost": 100
         },
@@ -49166,6 +49630,12 @@
         {
           "year": 2022,
           "month": 11,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2021,
+          "month": 2,
           "rarity": 4,
           "cost": 100
         },
@@ -49183,31 +49653,19 @@
         },
         {
           "year": 2023,
-          "month": 11,
-          "rarity": 4,
-          "cost": 100
-        },
-        {
-          "year": 2020,
-          "month": 4,
+          "month": 1,
           "rarity": 4,
           "cost": 100
         },
         {
           "year": 2023,
           "month": 1,
-          "rarity": 4,
-          "cost": 100
+          "rarity": 5,
+          "cost": 300
         },
         {
-          "year": 2024,
-          "month": 6,
-          "rarity": 4,
-          "cost": 100
-        },
-        {
-          "year": 2023,
-          "month": 1,
+          "year": 2025,
+          "month": 3,
           "rarity": 5,
           "cost": 300
         },
@@ -49244,6 +49702,12 @@
         {
           "year": 2024,
           "month": 4,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
+          "year": 2025,
+          "month": 3,
           "rarity": 5,
           "cost": 300
         }
@@ -52122,6 +52586,12 @@
           "month": 5,
           "rarity": 4,
           "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 3,
+          "rarity": 5,
+          "cost": 300
         }
       ]
     }
@@ -52190,6 +52660,12 @@
           "month": 5,
           "rarity": 4,
           "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 3,
+          "rarity": 5,
+          "cost": 300
         }
       ]
     }
@@ -52258,6 +52734,12 @@
           "month": 5,
           "rarity": 4,
           "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 3,
+          "rarity": 5,
+          "cost": 300
         }
       ]
     }
@@ -54477,19 +54959,21 @@
       "ssp": true,
       "hg": false,
       "dc": true,
-      "ldc": false,
+      "ldc": true,
       "foc": true
     },
     "flrwo": {
       "gsp": 5,
       "ssp": 5,
       "dc": 5,
+      "ldc": 5,
       "foc": 5
     },
     "flrfi": {
       "gsp": 5,
       "ssp": 5,
       "dc": 5,
+      "ldc": 5,
       "foc": 5
     },
     "divine_codes": {
@@ -54498,6 +54982,14 @@
           "number": 5,
           "title": "Genealogy / Thracia 776",
           "cost": 2000
+        }
+      ],
+      "limited": [
+        {
+          "year": 2025,
+          "month": 3,
+          "rarity": 5,
+          "cost": 300
         }
       ]
     }
@@ -54521,18 +55013,29 @@
       "ssp": false,
       "hg": true,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "flrwo": {
       "gsp": 4.5,
-      "hg": 4
+      "hg": 4,
+      "ldc": 4
     },
     "flrfi": {
       "gsp": 1,
-      "hg": 3
+      "hg": 3,
+      "ldc": 3
     },
-    "divine_codes": {}
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2025,
+          "month": 2,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_守備魔防の干渉2",
@@ -54553,18 +55056,29 @@
       "ssp": false,
       "hg": true,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "flrwo": {
       "gsp": 4.5,
-      "hg": 4
+      "hg": 4,
+      "ldc": 4
     },
     "flrfi": {
       "gsp": 2,
-      "hg": 4
+      "hg": 4,
+      "ldc": 4
     },
-    "divine_codes": {}
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2025,
+          "month": 2,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_守備魔防の干渉3",
@@ -54585,18 +55099,29 @@
       "ssp": false,
       "hg": true,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "flrwo": {
       "gsp": 4.5,
-      "hg": 4
+      "hg": 4,
+      "ldc": 4
     },
     "flrfi": {
       "gsp": 4,
-      "hg": 5
+      "hg": 5,
+      "ldc": 5
     },
-    "divine_codes": {}
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2025,
+          "month": 2,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_守備魔防の孤軍1",
@@ -54867,6 +55392,12 @@
           "cost": 100
         },
         {
+          "year": 2025,
+          "month": 3,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
           "year": 2022,
           "month": 2,
           "rarity": 4,
@@ -54925,6 +55456,12 @@
     "divine_codes": {
       "limited": [
         {
+          "year": 2025,
+          "month": 3,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
           "year": 2022,
           "month": 2,
           "rarity": 4,
@@ -54976,6 +55513,12 @@
     },
     "divine_codes": {
       "limited": [
+        {
+          "year": 2025,
+          "month": 3,
+          "rarity": 4,
+          "cost": 100
+        },
         {
           "year": 2022,
           "month": 2,
@@ -55577,6 +56120,12 @@
           "cost": 100
         },
         {
+          "year": 2025,
+          "month": 1,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
           "year": 2020,
           "month": 3,
           "rarity": 5,
@@ -55628,6 +56177,12 @@
           "cost": 100
         },
         {
+          "year": 2025,
+          "month": 1,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
           "year": 2020,
           "month": 3,
           "rarity": 5,
@@ -55675,6 +56230,12 @@
         {
           "year": 2024,
           "month": 11,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 1,
           "rarity": 4,
           "cost": 100
         },
@@ -60355,7 +60916,7 @@
       ],
       "limited": [
         {
-          "year": 2022,
+          "year": 2024,
           "month": 1,
           "rarity": 4,
           "cost": 100
@@ -60363,12 +60924,6 @@
         {
           "year": 2021,
           "month": 7,
-          "rarity": 4,
-          "cost": 100
-        },
-        {
-          "year": 2024,
-          "month": 1,
           "rarity": 4,
           "cost": 100
         },
@@ -60385,8 +60940,26 @@
           "cost": 100
         },
         {
+          "year": 2022,
+          "month": 1,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2021,
+          "month": 10,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
           "year": 2021,
           "month": 4,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
+          "year": 2025,
+          "month": 1,
           "rarity": 5,
           "cost": 300
         },
@@ -60415,6 +60988,12 @@
           "cost": 300
         },
         {
+          "year": 2025,
+          "month": 3,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
           "year": 2021,
           "month": 11,
           "rarity": 5,
@@ -60429,12 +61008,6 @@
         {
           "year": 2023,
           "month": 7,
-          "rarity": 5,
-          "cost": 300
-        },
-        {
-          "year": 2021,
-          "month": 10,
           "rarity": 5,
           "cost": 300
         }
@@ -61274,14 +61847,14 @@
       ],
       "limited": [
         {
-          "year": 2022,
-          "month": 11,
+          "year": 2020,
+          "month": 8,
           "rarity": 4,
           "cost": 100
         },
         {
-          "year": 2020,
-          "month": 8,
+          "year": 2022,
+          "month": 1,
           "rarity": 4,
           "cost": 100
         },
@@ -61292,7 +61865,7 @@
           "cost": 100
         },
         {
-          "year": 2022,
+          "year": 2024,
           "month": 1,
           "rarity": 4,
           "cost": 100
@@ -61310,8 +61883,8 @@
           "cost": 100
         },
         {
-          "year": 2024,
-          "month": 1,
+          "year": 2022,
+          "month": 11,
           "rarity": 4,
           "cost": 100
         },
@@ -61320,6 +61893,18 @@
           "month": 6,
           "rarity": 4,
           "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 1,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
+          "year": 2022,
+          "month": 4,
+          "rarity": 5,
+          "cost": 300
         },
         {
           "year": 2020,
@@ -61340,6 +61925,12 @@
           "cost": 300
         },
         {
+          "year": 2025,
+          "month": 3,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
           "year": 2021,
           "month": 11,
           "rarity": 5,
@@ -61371,12 +61962,6 @@
         },
         {
           "year": 2021,
-          "month": 4,
-          "rarity": 5,
-          "cost": 300
-        },
-        {
-          "year": 2022,
           "month": 4,
           "rarity": 5,
           "cost": 300
@@ -63224,14 +63809,20 @@
           "cost": 100
         },
         {
-          "year": 2021,
-          "month": 7,
+          "year": 2025,
+          "month": 2,
           "rarity": 4,
           "cost": 100
         },
         {
           "year": 2024,
           "month": 2,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2021,
+          "month": 7,
           "rarity": 4,
           "cost": 100
         },
@@ -63363,14 +63954,20 @@
           "cost": 100
         },
         {
-          "year": 2021,
-          "month": 7,
+          "year": 2025,
+          "month": 2,
           "rarity": 4,
           "cost": 100
         },
         {
           "year": 2024,
           "month": 2,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2021,
+          "month": 7,
           "rarity": 4,
           "cost": 100
         },
@@ -64067,16 +64664,27 @@
       "ssp": true,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "flrwo": {
-      "ssp": 4.5
+      "ssp": 4.5,
+      "ldc": 5
     },
     "flrfi": {
-      "ssp": 5
+      "ssp": 5,
+      "ldc": 5
     },
-    "divine_codes": {}
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2025,
+          "month": 1,
+          "rarity": 5,
+          "cost": 300
+        }
+      ]
+    }
   },
   {
     "id": "SID_双氷の聖鏡",
@@ -64836,16 +65444,27 @@
       "ssp": true,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "flrwo": {
-      "ssp": 5
+      "ssp": 5,
+      "ldc": 5
     },
     "flrfi": {
-      "ssp": 5
+      "ssp": 5,
+      "ldc": 5
     },
-    "divine_codes": {}
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2025,
+          "month": 2,
+          "rarity": 5,
+          "cost": 300
+        }
+      ]
+    }
   },
   {
     "id": "SID_ニザヴェリルの理槍",
@@ -66531,6 +67150,12 @@
           "cost": 100
         },
         {
+          "year": 2025,
+          "month": 2,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
           "year": 2024,
           "month": 4,
           "rarity": 5,
@@ -66681,14 +67306,14 @@
           "cost": 100
         },
         {
-          "year": 2023,
-          "month": 12,
+          "year": 2020,
+          "month": 11,
           "rarity": 4,
           "cost": 100
         },
         {
-          "year": 2020,
-          "month": 11,
+          "year": 2025,
+          "month": 1,
           "rarity": 4,
           "cost": 100
         },
@@ -66783,6 +67408,18 @@
           "cost": 100
         },
         {
+          "year": 2023,
+          "month": 12,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2024,
+          "month": 8,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
           "year": 2024,
           "month": 8,
           "rarity": 5,
@@ -66791,12 +67428,6 @@
         {
           "year": 2021,
           "month": 2,
-          "rarity": 5,
-          "cost": 300
-        },
-        {
-          "year": 2024,
-          "month": 8,
           "rarity": 5,
           "cost": 300
         },
@@ -67119,6 +67750,12 @@
           "cost": 100
         },
         {
+          "year": 2025,
+          "month": 2,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
           "year": 2021,
           "month": 6,
           "rarity": 4,
@@ -67168,6 +67805,12 @@
         },
         {
           "year": 2023,
+          "month": 1,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
+          "year": 2025,
           "month": 1,
           "rarity": 5,
           "cost": 300
@@ -67645,6 +68288,12 @@
           "cost": 100
         },
         {
+          "year": 2021,
+          "month": 8,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
           "year": 2022,
           "month": 8,
           "rarity": 4,
@@ -67681,14 +68330,14 @@
           "cost": 100
         },
         {
-          "year": 2021,
-          "month": 8,
-          "rarity": 4,
-          "cost": 100
-        },
-        {
           "year": 2020,
           "month": 5,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
+          "year": 2025,
+          "month": 3,
           "rarity": 5,
           "cost": 300
         }
@@ -67758,6 +68407,12 @@
           "cost": 100
         },
         {
+          "year": 2021,
+          "month": 8,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
           "year": 2022,
           "month": 8,
           "rarity": 4,
@@ -67794,14 +68449,14 @@
           "cost": 100
         },
         {
-          "year": 2021,
-          "month": 8,
-          "rarity": 4,
-          "cost": 100
-        },
-        {
           "year": 2020,
           "month": 5,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
+          "year": 2025,
+          "month": 3,
           "rarity": 5,
           "cost": 300
         }
@@ -67871,6 +68526,12 @@
           "cost": 100
         },
         {
+          "year": 2021,
+          "month": 8,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
           "year": 2022,
           "month": 8,
           "rarity": 4,
@@ -67907,14 +68568,14 @@
           "cost": 100
         },
         {
-          "year": 2021,
-          "month": 8,
-          "rarity": 4,
-          "cost": 100
-        },
-        {
           "year": 2020,
           "month": 5,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
+          "year": 2025,
+          "month": 3,
           "rarity": 5,
           "cost": 300
         }
@@ -67940,17 +68601,19 @@
       "ssp": true,
       "hg": false,
       "dc": true,
-      "ldc": false,
+      "ldc": true,
       "foc": true
     },
     "flrwo": {
       "ssp": 5,
       "dc": 5,
+      "ldc": 5,
       "foc": 5
     },
     "flrfi": {
       "ssp": 5,
       "dc": 5,
+      "ldc": 5,
       "foc": 5
     },
     "divine_codes": {
@@ -67959,6 +68622,14 @@
           "number": 5,
           "title": "Heroes / Mystery / Echoes",
           "cost": 2000
+        }
+      ],
+      "limited": [
+        {
+          "year": 2025,
+          "month": 3,
+          "rarity": 5,
+          "cost": 300
         }
       ]
     }
@@ -68512,6 +69183,12 @@
     "divine_codes": {
       "limited": [
         {
+          "year": 2025,
+          "month": 1,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
           "year": 2020,
           "month": 7,
           "rarity": 4,
@@ -68532,6 +69209,12 @@
         {
           "year": 2023,
           "month": 9,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 1,
           "rarity": 4,
           "cost": 100
         },
@@ -68585,6 +69268,12 @@
     "divine_codes": {
       "limited": [
         {
+          "year": 2025,
+          "month": 1,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
           "year": 2020,
           "month": 7,
           "rarity": 4,
@@ -68605,6 +69294,12 @@
         {
           "year": 2023,
           "month": 9,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 1,
           "rarity": 4,
           "cost": 100
         },
@@ -68658,6 +69353,12 @@
     "divine_codes": {
       "limited": [
         {
+          "year": 2025,
+          "month": 1,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
           "year": 2020,
           "month": 7,
           "rarity": 4,
@@ -68678,6 +69379,12 @@
         {
           "year": 2023,
           "month": 9,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 1,
           "rarity": 4,
           "cost": 100
         },
@@ -69842,16 +70549,27 @@
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "flrwo": {
-      "gsp": 3
+      "gsp": 3,
+      "ldc": 4
     },
     "flrfi": {
-      "gsp": 5
+      "gsp": 5,
+      "ldc": 5
     },
-    "divine_codes": {}
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2025,
+          "month": 2,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_エクスカリバー_絆",
@@ -73277,6 +73995,54 @@
       ],
       "limited": [
         {
+          "year": 2024,
+          "month": 9,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2021,
+          "month": 4,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2021,
+          "month": 1,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2022,
+          "month": 6,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2024,
+          "month": 6,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 3,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2023,
+          "month": 4,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 3,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
           "year": 2020,
           "month": 8,
           "rarity": 4,
@@ -73285,38 +74051,38 @@
         {
           "year": 2021,
           "month": 4,
-          "rarity": 4,
-          "cost": 100
+          "rarity": 5,
+          "cost": 300
+        },
+        {
+          "year": 2021,
+          "month": 11,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
+          "year": 2024,
+          "month": 10,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
+          "year": 2022,
+          "month": 10,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
+          "year": 2023,
+          "month": 10,
+          "rarity": 5,
+          "cost": 300
         },
         {
           "year": 2021,
           "month": 1,
-          "rarity": 4,
-          "cost": 100
-        },
-        {
-          "year": 2022,
-          "month": 6,
-          "rarity": 4,
-          "cost": 100
-        },
-        {
-          "year": 2024,
-          "month": 6,
-          "rarity": 4,
-          "cost": 100
-        },
-        {
-          "year": 2023,
-          "month": 4,
-          "rarity": 4,
-          "cost": 100
-        },
-        {
-          "year": 2024,
-          "month": 9,
-          "rarity": 4,
-          "cost": 100
+          "rarity": 5,
+          "cost": 300
         },
         {
           "year": 2024,
@@ -73325,50 +74091,14 @@
           "cost": 300
         },
         {
-          "year": 2021,
-          "month": 4,
-          "rarity": 5,
-          "cost": 300
-        },
-        {
-          "year": 2023,
-          "month": 10,
-          "rarity": 5,
-          "cost": 300
-        },
-        {
-          "year": 2021,
-          "month": 11,
-          "rarity": 5,
-          "cost": 300
-        },
-        {
-          "year": 2024,
-          "month": 10,
-          "rarity": 5,
-          "cost": 300
-        },
-        {
-          "year": 2022,
-          "month": 10,
-          "rarity": 5,
-          "cost": 300
-        },
-        {
-          "year": 2023,
-          "month": 10,
-          "rarity": 5,
-          "cost": 300
-        },
-        {
-          "year": 2021,
-          "month": 1,
-          "rarity": 5,
-          "cost": 300
-        },
-        {
           "year": 2020,
           "month": 11,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
+          "year": 2023,
+          "month": 10,
           "rarity": 5,
           "cost": 300
         }
@@ -73567,6 +74297,54 @@
       ],
       "limited": [
         {
+          "year": 2024,
+          "month": 9,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2021,
+          "month": 4,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2021,
+          "month": 1,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2022,
+          "month": 6,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2024,
+          "month": 6,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 3,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2023,
+          "month": 4,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 3,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
           "year": 2020,
           "month": 8,
           "rarity": 4,
@@ -73575,38 +74353,38 @@
         {
           "year": 2021,
           "month": 4,
-          "rarity": 4,
-          "cost": 100
+          "rarity": 5,
+          "cost": 300
+        },
+        {
+          "year": 2021,
+          "month": 11,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
+          "year": 2024,
+          "month": 10,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
+          "year": 2022,
+          "month": 10,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
+          "year": 2023,
+          "month": 10,
+          "rarity": 5,
+          "cost": 300
         },
         {
           "year": 2021,
           "month": 1,
-          "rarity": 4,
-          "cost": 100
-        },
-        {
-          "year": 2022,
-          "month": 6,
-          "rarity": 4,
-          "cost": 100
-        },
-        {
-          "year": 2024,
-          "month": 6,
-          "rarity": 4,
-          "cost": 100
-        },
-        {
-          "year": 2023,
-          "month": 4,
-          "rarity": 4,
-          "cost": 100
-        },
-        {
-          "year": 2024,
-          "month": 9,
-          "rarity": 4,
-          "cost": 100
+          "rarity": 5,
+          "cost": 300
         },
         {
           "year": 2024,
@@ -73615,50 +74393,14 @@
           "cost": 300
         },
         {
-          "year": 2021,
-          "month": 4,
-          "rarity": 5,
-          "cost": 300
-        },
-        {
-          "year": 2023,
-          "month": 10,
-          "rarity": 5,
-          "cost": 300
-        },
-        {
-          "year": 2021,
-          "month": 11,
-          "rarity": 5,
-          "cost": 300
-        },
-        {
-          "year": 2024,
-          "month": 10,
-          "rarity": 5,
-          "cost": 300
-        },
-        {
-          "year": 2022,
-          "month": 10,
-          "rarity": 5,
-          "cost": 300
-        },
-        {
-          "year": 2023,
-          "month": 10,
-          "rarity": 5,
-          "cost": 300
-        },
-        {
-          "year": 2021,
-          "month": 1,
-          "rarity": 5,
-          "cost": 300
-        },
-        {
           "year": 2020,
           "month": 11,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
+          "year": 2023,
+          "month": 10,
           "rarity": 5,
           "cost": 300
         }
@@ -76968,6 +77710,7 @@
   {
     "id": "SID_怒涛・不屈1",
     "fodder_ids": [
+      "PID_紋章エイリーク",
       "PID_ジョフレ",
       "PID_双界マリカ",
       "PID_双界ロイ"
@@ -76986,21 +77729,24 @@
       "hg": false,
       "dc": false,
       "ldc": false,
-      "foc": false
+      "foc": true
     },
     "flrwo": {
       "gsp": 5,
-      "ssp": 5
+      "ssp": 5,
+      "foc": 5
     },
     "flrfi": {
       "gsp": 1,
-      "ssp": 1
+      "ssp": 1,
+      "foc": 2
     },
     "divine_codes": {}
   },
   {
     "id": "SID_怒涛・不屈2",
     "fodder_ids": [
+      "PID_紋章エイリーク",
       "PID_ジョフレ",
       "PID_双界マリカ",
       "PID_双界ロイ"
@@ -77019,21 +77765,24 @@
       "hg": false,
       "dc": false,
       "ldc": false,
-      "foc": false
+      "foc": true
     },
     "flrwo": {
       "gsp": 5,
-      "ssp": 5
+      "ssp": 5,
+      "foc": 5
     },
     "flrfi": {
       "gsp": 2,
-      "ssp": 2
+      "ssp": 2,
+      "foc": 3
     },
     "divine_codes": {}
   },
   {
     "id": "SID_怒涛・不屈3",
     "fodder_ids": [
+      "PID_紋章エイリーク",
       "PID_ジョフレ",
       "PID_双界マリカ",
       "PID_双界ロイ"
@@ -77052,15 +77801,17 @@
       "hg": false,
       "dc": false,
       "ldc": false,
-      "foc": false
+      "foc": true
     },
     "flrwo": {
       "gsp": 5,
-      "ssp": 5
+      "ssp": 5,
+      "foc": 5
     },
     "flrfi": {
       "gsp": 4,
-      "ssp": 4
+      "ssp": 4,
+      "foc": 4
     },
     "divine_codes": {}
   },
@@ -82854,7 +83605,7 @@
       "gsp": 3,
       "ssp": 4,
       "dc": 5,
-      "ldc": 5,
+      "ldc": 4,
       "foc": 5
     },
     "flrfi": {
@@ -82873,6 +83624,12 @@
         }
       ],
       "limited": [
+        {
+          "year": 2025,
+          "month": 2,
+          "rarity": 4,
+          "cost": 100
+        },
         {
           "year": 2022,
           "month": 5,
@@ -85475,14 +86232,14 @@
       ],
       "limited": [
         {
-          "year": 2022,
-          "month": 6,
+          "year": 2021,
+          "month": 11,
           "rarity": 4,
           "cost": 100
         },
         {
-          "year": 2021,
-          "month": 4,
+          "year": 2025,
+          "month": 1,
           "rarity": 4,
           "cost": 100
         },
@@ -85505,8 +86262,8 @@
           "cost": 100
         },
         {
-          "year": 2021,
-          "month": 11,
+          "year": 2022,
+          "month": 6,
           "rarity": 4,
           "cost": 100
         },
@@ -85554,6 +86311,12 @@
         },
         {
           "year": 2024,
+          "month": 4,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2021,
           "month": 4,
           "rarity": 4,
           "cost": 100
@@ -88873,16 +89636,27 @@
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "flrwo": {
-      "gsp": 3
+      "gsp": 3,
+      "ldc": 4
     },
     "flrfi": {
-      "gsp": 4
+      "gsp": 4,
+      "ldc": 4
     },
-    "divine_codes": {}
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2025,
+          "month": 2,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_キャンセル1",
@@ -89473,6 +90247,12 @@
           "month": 11,
           "rarity": 4,
           "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 3,
+          "rarity": 4,
+          "cost": 100
         }
       ]
     }
@@ -89529,6 +90309,12 @@
         {
           "year": 2023,
           "month": 11,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 3,
           "rarity": 4,
           "cost": 100
         }
@@ -92801,7 +93587,7 @@
     },
     "flrwo": {
       "gsp": 3,
-      "ldc": 5
+      "ldc": 4
     },
     "flrfi": {
       "gsp": 3,
@@ -92809,6 +93595,12 @@
     },
     "divine_codes": {
       "limited": [
+        {
+          "year": 2025,
+          "month": 2,
+          "rarity": 4,
+          "cost": 100
+        },
         {
           "year": 2020,
           "month": 8,
@@ -92838,16 +93630,27 @@
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "flrwo": {
-      "gsp": 3
+      "gsp": 3,
+      "ldc": 4
     },
     "flrfi": {
-      "gsp": 5
+      "gsp": 5,
+      "ldc": 5
     },
-    "divine_codes": {}
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2025,
+          "month": 2,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_戦神の護斧",
@@ -95430,6 +96233,7 @@
       "PID_花嫁シーダ",
       "PID_愛の祭クロード",
       "PID_夢カムイ男",
+      "PID_紋章エイリーク",
       "PID_エイリーク",
       "PID_年明スリーズ",
       "PID_ヒノカ",
@@ -95461,21 +96265,23 @@
       "hg": true,
       "dc": true,
       "ldc": true,
-      "foc": false
+      "foc": true
     },
     "flrwo": {
       "gsp": 3,
       "ssp": 4.5,
       "hg": 4,
       "dc": 5,
-      "ldc": 4
+      "ldc": 4,
+      "foc": 5
     },
     "flrfi": {
       "gsp": 1,
       "ssp": 1,
       "hg": 1,
       "dc": 1,
-      "ldc": 1
+      "ldc": 1,
+      "foc": 2
     },
     "divine_codes": {
       "normal": [
@@ -95517,6 +96323,12 @@
         {
           "year": 2023,
           "month": 11,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 1,
           "rarity": 4,
           "cost": 100
         },
@@ -95544,6 +96356,7 @@
       "PID_花嫁シーダ",
       "PID_愛の祭クロード",
       "PID_夢カムイ男",
+      "PID_紋章エイリーク",
       "PID_エイリーク",
       "PID_年明スリーズ",
       "PID_ヒノカ",
@@ -95575,21 +96388,23 @@
       "hg": true,
       "dc": true,
       "ldc": true,
-      "foc": false
+      "foc": true
     },
     "flrwo": {
       "gsp": 3,
       "ssp": 4.5,
       "hg": 4,
       "dc": 5,
-      "ldc": 4
+      "ldc": 4,
+      "foc": 5
     },
     "flrfi": {
       "gsp": 2,
       "ssp": 2,
       "hg": 2,
       "dc": 2,
-      "ldc": 2
+      "ldc": 2,
+      "foc": 3
     },
     "divine_codes": {
       "normal": [
@@ -95635,6 +96450,12 @@
           "cost": 100
         },
         {
+          "year": 2025,
+          "month": 1,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
           "year": 2023,
           "month": 4,
           "rarity": 4,
@@ -95656,6 +96477,7 @@
       "PID_アゼル",
       "PID_花嫁シーダ",
       "PID_愛の祭クロード",
+      "PID_紋章エイリーク",
       "PID_エイリーク",
       "PID_年明スリーズ",
       "PID_ラズワルド",
@@ -95679,19 +96501,21 @@
       "hg": false,
       "dc": true,
       "ldc": true,
-      "foc": false
+      "foc": true
     },
     "flrwo": {
       "gsp": 3,
       "ssp": 4.5,
       "dc": 5,
-      "ldc": 4
+      "ldc": 4,
+      "foc": 5
     },
     "flrfi": {
       "gsp": 4,
       "ssp": 4,
       "dc": 4,
-      "ldc": 4
+      "ldc": 4,
+      "foc": 4
     },
     "divine_codes": {
       "normal": [
@@ -95723,6 +96547,12 @@
         {
           "year": 2023,
           "month": 11,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 1,
           "rarity": 4,
           "cost": 100
         },
@@ -96077,6 +96907,12 @@
           "cost": 100
         },
         {
+          "year": 2025,
+          "month": 2,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
           "year": 2020,
           "month": 9,
           "rarity": 4,
@@ -96178,6 +97014,12 @@
           "cost": 100
         },
         {
+          "year": 2025,
+          "month": 2,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
           "year": 2020,
           "month": 9,
           "rarity": 4,
@@ -96275,6 +97117,12 @@
         {
           "year": 2024,
           "month": 10,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 2,
           "rarity": 4,
           "cost": 100
         },
@@ -97270,16 +98118,27 @@
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "flrwo": {
-      "gsp": 4.5
+      "gsp": 4.5,
+      "ldc": 5
     },
     "flrfi": {
-      "gsp": 3
+      "gsp": 3,
+      "ldc": 3
     },
-    "divine_codes": {}
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2025,
+          "month": 2,
+          "rarity": 5,
+          "cost": 300
+        }
+      ]
+    }
   },
   {
     "id": "SID_ヒータバルチャー＋",
@@ -97299,16 +98158,27 @@
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "flrwo": {
-      "gsp": 4.5
+      "gsp": 4.5,
+      "ldc": 5
     },
     "flrfi": {
-      "gsp": 5
+      "gsp": 5,
+      "ldc": 5
     },
-    "divine_codes": {}
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2025,
+          "month": 2,
+          "rarity": 5,
+          "cost": 300
+        }
+      ]
+    }
   },
   {
     "id": "SID_傭兵竜騎士の槍",
@@ -97529,16 +98399,27 @@
       "ssp": false,
       "hg": true,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "flrwo": {
-      "hg": 4
+      "hg": 4,
+      "ldc": 4
     },
     "flrfi": {
-      "hg": 3
+      "hg": 3,
+      "ldc": 3
     },
-    "divine_codes": {}
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2025,
+          "month": 3,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_氷竜の竜石＋",
@@ -97558,16 +98439,27 @@
       "ssp": false,
       "hg": true,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "flrwo": {
-      "hg": 4
+      "hg": 4,
+      "ldc": 4
     },
     "flrfi": {
-      "hg": 5
+      "hg": 5,
+      "ldc": 5
     },
-    "divine_codes": {}
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2025,
+          "month": 3,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_アイスロック",
@@ -97997,12 +98889,12 @@
         },
         {
           "year": 2024,
-          "month": 12,
+          "month": 10,
           "rarity": 4,
           "cost": 100
         },
         {
-          "year": 2021,
+          "year": 2020,
           "month": 6,
           "rarity": 4,
           "cost": 100
@@ -98015,7 +98907,7 @@
         },
         {
           "year": 2024,
-          "month": 10,
+          "month": 12,
           "rarity": 4,
           "cost": 100
         },
@@ -98038,10 +98930,22 @@
           "cost": 100
         },
         {
-          "year": 2020,
+          "year": 2021,
           "month": 6,
           "rarity": 4,
           "cost": 100
+        },
+        {
+          "year": 2021,
+          "month": 3,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
+          "year": 2025,
+          "month": 2,
+          "rarity": 5,
+          "cost": 300
         },
         {
           "year": 2023,
@@ -98080,6 +98984,12 @@
           "cost": 300
         },
         {
+          "year": 2025,
+          "month": 2,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
           "year": 2024,
           "month": 8,
           "rarity": 5,
@@ -98094,12 +99004,6 @@
         {
           "year": 2023,
           "month": 5,
-          "rarity": 5,
-          "cost": 300
-        },
-        {
-          "year": 2021,
-          "month": 3,
           "rarity": 5,
           "cost": 300
         }
@@ -101766,6 +102670,12 @@
           "cost": 100
         },
         {
+          "year": 2025,
+          "month": 1,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
           "year": 2024,
           "month": 1,
           "rarity": 4,
@@ -101922,6 +102832,12 @@
           "cost": 300
         },
         {
+          "year": 2024,
+          "month": 9,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
           "year": 2020,
           "month": 6,
           "rarity": 5,
@@ -101941,12 +102857,6 @@
         },
         {
           "year": 2023,
-          "month": 9,
-          "rarity": 5,
-          "cost": 300
-        },
-        {
-          "year": 2024,
           "month": 9,
           "rarity": 5,
           "cost": 300
@@ -102207,12 +103117,6 @@
           "cost": 100
         },
         {
-          "year": 2024,
-          "month": 6,
-          "rarity": 4,
-          "cost": 100
-        },
-        {
           "year": 2022,
           "month": 9,
           "rarity": 4,
@@ -102221,6 +103125,12 @@
         {
           "year": 2023,
           "month": 11,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 3,
           "rarity": 4,
           "cost": 100
         },
@@ -102273,6 +103183,12 @@
           "cost": 100
         },
         {
+          "year": 2025,
+          "month": 2,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
           "year": 2020,
           "month": 10,
           "rarity": 4,
@@ -102293,6 +103209,12 @@
         {
           "year": 2024,
           "month": 11,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2024,
+          "month": 6,
           "rarity": 4,
           "cost": 100
         },
@@ -102405,14 +103327,26 @@
           "cost": 300
         },
         {
+          "year": 2020,
+          "month": 5,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
+          "year": 2024,
+          "month": 1,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
           "year": 2023,
           "month": 12,
           "rarity": 5,
           "cost": 300
         },
         {
-          "year": 2021,
-          "month": 7,
+          "year": 2024,
+          "month": 11,
           "rarity": 5,
           "cost": 300
         },
@@ -102423,8 +103357,8 @@
           "cost": 300
         },
         {
-          "year": 2024,
-          "month": 11,
+          "year": 2025,
+          "month": 2,
           "rarity": 5,
           "cost": 300
         },
@@ -102435,8 +103369,8 @@
           "cost": 300
         },
         {
-          "year": 2022,
-          "month": 9,
+          "year": 2021,
+          "month": 7,
           "rarity": 5,
           "cost": 300
         },
@@ -102447,8 +103381,8 @@
           "cost": 300
         },
         {
-          "year": 2024,
-          "month": 1,
+          "year": 2022,
+          "month": 9,
           "rarity": 5,
           "cost": 300
         },
@@ -102471,8 +103405,8 @@
           "cost": 300
         },
         {
-          "year": 2020,
-          "month": 5,
+          "year": 2025,
+          "month": 3,
           "rarity": 5,
           "cost": 300
         }
@@ -102698,18 +103632,6 @@
           "cost": 100
         },
         {
-          "year": 2020,
-          "month": 10,
-          "rarity": 4,
-          "cost": 100
-        },
-        {
-          "year": 2023,
-          "month": 1,
-          "rarity": 4,
-          "cost": 100
-        },
-        {
           "year": 2024,
           "month": 1,
           "rarity": 4,
@@ -102722,6 +103644,12 @@
           "cost": 100
         },
         {
+          "year": 2025,
+          "month": 2,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
           "year": 2020,
           "month": 7,
           "rarity": 4,
@@ -102730,6 +103658,12 @@
         {
           "year": 2024,
           "month": 7,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 1,
           "rarity": 4,
           "cost": 100
         },
@@ -102824,20 +103758,32 @@
           "cost": 100
         },
         {
+          "year": 2020,
+          "month": 10,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
           "year": 2023,
-          "month": 12,
-          "rarity": 5,
-          "cost": 300
+          "month": 1,
+          "rarity": 4,
+          "cost": 100
         },
         {
           "year": 2020,
-          "month": 9,
+          "month": 8,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
+          "year": 2021,
+          "month": 7,
           "rarity": 5,
           "cost": 300
         },
         {
           "year": 2023,
-          "month": 2,
+          "month": 12,
           "rarity": 5,
           "cost": 300
         },
@@ -102854,13 +103800,13 @@
           "cost": 300
         },
         {
-          "year": 2022,
-          "month": 7,
+          "year": 2023,
+          "month": 2,
           "rarity": 5,
           "cost": 300
         },
         {
-          "year": 2020,
+          "year": 2022,
           "month": 7,
           "rarity": 5,
           "cost": 300
@@ -102891,19 +103837,19 @@
         },
         {
           "year": 2020,
-          "month": 12,
-          "rarity": 5,
-          "cost": 300
-        },
-        {
-          "year": 2022,
-          "month": 8,
+          "month": 7,
           "rarity": 5,
           "cost": 300
         },
         {
           "year": 2020,
-          "month": 8,
+          "month": 9,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
+          "year": 2020,
+          "month": 12,
           "rarity": 5,
           "cost": 300
         },
@@ -102914,8 +103860,8 @@
           "cost": 300
         },
         {
-          "year": 2021,
-          "month": 7,
+          "year": 2022,
+          "month": 8,
           "rarity": 5,
           "cost": 300
         },
@@ -103266,12 +104212,6 @@
         },
         {
           "year": 2024,
-          "month": 12,
-          "rarity": 4,
-          "cost": 100
-        },
-        {
-          "year": 2024,
           "month": 5,
           "rarity": 4,
           "cost": 100
@@ -103279,6 +104219,12 @@
         {
           "year": 2021,
           "month": 7,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 2,
           "rarity": 4,
           "cost": 100
         },
@@ -103333,6 +104279,12 @@
         {
           "year": 2023,
           "month": 9,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 1,
           "rarity": 4,
           "cost": 100
         },
@@ -103487,6 +104439,12 @@
           "cost": 100
         },
         {
+          "year": 2025,
+          "month": 2,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
           "year": 2020,
           "month": 3,
           "rarity": 4,
@@ -103535,8 +104493,14 @@
           "cost": 100
         },
         {
-          "year": 2020,
-          "month": 6,
+          "year": 2024,
+          "month": 12,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 1,
           "rarity": 5,
           "cost": 300
         },
@@ -103547,8 +104511,8 @@
           "cost": 300
         },
         {
-          "year": 2024,
-          "month": 4,
+          "year": 2020,
+          "month": 6,
           "rarity": 5,
           "cost": 300
         },
@@ -103578,6 +104542,12 @@
         },
         {
           "year": 2023,
+          "month": 4,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
+          "year": 2024,
           "month": 4,
           "rarity": 5,
           "cost": 300
@@ -103589,12 +104559,6 @@
           "cost": 300
         },
         {
-          "year": 2021,
-          "month": 11,
-          "rarity": 5,
-          "cost": 300
-        },
-        {
           "year": 2022,
           "month": 11,
           "rarity": 5,
@@ -103602,7 +104566,7 @@
         },
         {
           "year": 2021,
-          "month": 1,
+          "month": 11,
           "rarity": 5,
           "cost": 300
         },
@@ -103619,20 +104583,26 @@
           "cost": 300
         },
         {
+          "year": 2021,
+          "month": 1,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
           "year": 2024,
           "month": 7,
           "rarity": 5,
           "cost": 300
         },
         {
-          "year": 2020,
-          "month": 9,
+          "year": 2022,
+          "month": 12,
           "rarity": 5,
           "cost": 300
         },
         {
-          "year": 2022,
-          "month": 12,
+          "year": 2020,
+          "month": 9,
           "rarity": 5,
           "cost": 300
         },
@@ -103693,6 +104663,7 @@
       "PID_双界エーデルガルト",
       "PID_エディ",
       "PID_伝承エイリーク",
+      "PID_紋章エイリーク",
       "PID_エイリーク",
       "PID_比翼エイリーク",
       "PID_エルトシャン",
@@ -104068,20 +105039,8 @@
           "cost": 100
         },
         {
-          "year": 2023,
-          "month": 3,
-          "rarity": 4,
-          "cost": 100
-        },
-        {
           "year": 2024,
           "month": 8,
-          "rarity": 4,
-          "cost": 100
-        },
-        {
-          "year": 2023,
-          "month": 5,
           "rarity": 4,
           "cost": 100
         },
@@ -104136,6 +105095,24 @@
         {
           "year": 2024,
           "month": 4,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2023,
+          "month": 3,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2024,
+          "month": 8,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2023,
+          "month": 5,
           "rarity": 4,
           "cost": 100
         },
@@ -104160,6 +105137,18 @@
         {
           "year": 2022,
           "month": 4,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 1,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 3,
           "rarity": 4,
           "cost": 100
         },
@@ -104260,6 +105249,12 @@
           "cost": 100
         },
         {
+          "year": 2025,
+          "month": 3,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
           "year": 2023,
           "month": 2,
           "rarity": 4,
@@ -104296,13 +105291,49 @@
           "cost": 100
         },
         {
+          "year": 2023,
+          "month": 6,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
           "year": 2024,
-          "month": 8,
-          "rarity": 4,
-          "cost": 100
+          "month": 12,
+          "rarity": 5,
+          "cost": 300
         },
         {
           "year": 2022,
+          "month": 12,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
+          "year": 2024,
+          "month": 10,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
+          "year": 2021,
+          "month": 6,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
+          "year": 2021,
+          "month": 5,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
+          "year": 2022,
+          "month": 4,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
+          "year": 2020,
           "month": 4,
           "rarity": 5,
           "cost": 300
@@ -104314,44 +105345,8 @@
           "cost": 300
         },
         {
-          "year": 2022,
-          "month": 12,
-          "rarity": 5,
-          "cost": 300
-        },
-        {
-          "year": 2023,
-          "month": 6,
-          "rarity": 5,
-          "cost": 300
-        },
-        {
-          "year": 2024,
-          "month": 12,
-          "rarity": 5,
-          "cost": 300
-        },
-        {
-          "year": 2021,
-          "month": 5,
-          "rarity": 5,
-          "cost": 300
-        },
-        {
-          "year": 2024,
-          "month": 10,
-          "rarity": 5,
-          "cost": 300
-        },
-        {
-          "year": 2020,
-          "month": 4,
-          "rarity": 5,
-          "cost": 300
-        },
-        {
-          "year": 2021,
-          "month": 6,
+          "year": 2025,
+          "month": 3,
           "rarity": 5,
           "cost": 300
         }
@@ -110711,6 +111706,12 @@
     "divine_codes": {
       "limited": [
         {
+          "year": 2025,
+          "month": 3,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
           "year": 2024,
           "month": 9,
           "rarity": 4,
@@ -110751,6 +111752,12 @@
     },
     "divine_codes": {
       "limited": [
+        {
+          "year": 2025,
+          "month": 3,
+          "rarity": 4,
+          "cost": 100
+        },
         {
           "year": 2024,
           "month": 9,
@@ -113489,6 +114496,7 @@
       "PID_ディーク",
       "PID_エーデルガルト",
       "PID_水着エイリーク",
+      "PID_紋章エイリーク",
       "PID_総選挙エイリーク",
       "PID_比翼エイリーク",
       "PID_魔器アイト味方",
@@ -113698,6 +114706,12 @@
           "cost": 100
         },
         {
+          "year": 2023,
+          "month": 11,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
           "year": 2024,
           "month": 3,
           "rarity": 4,
@@ -113746,10 +114760,10 @@
           "cost": 100
         },
         {
-          "year": 2023,
-          "month": 11,
-          "rarity": 4,
-          "cost": 100
+          "year": 2022,
+          "month": 8,
+          "rarity": 5,
+          "cost": 300
         },
         {
           "year": 2024,
@@ -113788,8 +114802,8 @@
           "cost": 300
         },
         {
-          "year": 2022,
-          "month": 8,
+          "year": 2025,
+          "month": 3,
           "rarity": 5,
           "cost": 300
         }
@@ -116958,24 +117972,6 @@
       ],
       "limited": [
         {
-          "year": 2021,
-          "month": 6,
-          "rarity": 4,
-          "cost": 100
-        },
-        {
-          "year": 2021,
-          "month": 9,
-          "rarity": 4,
-          "cost": 100
-        },
-        {
-          "year": 2024,
-          "month": 5,
-          "rarity": 4,
-          "cost": 100
-        },
-        {
           "year": 2022,
           "month": 3,
           "rarity": 4,
@@ -116989,13 +117985,37 @@
         },
         {
           "year": 2021,
+          "month": 6,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2024,
+          "month": 5,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2021,
+          "month": 9,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2024,
+          "month": 4,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
+          "year": 2021,
           "month": 10,
           "rarity": 5,
           "cost": 300
         },
         {
-          "year": 2024,
-          "month": 4,
+          "year": 2025,
+          "month": 2,
           "rarity": 5,
           "cost": 300
         }
@@ -117072,24 +118092,6 @@
       ],
       "limited": [
         {
-          "year": 2021,
-          "month": 6,
-          "rarity": 4,
-          "cost": 100
-        },
-        {
-          "year": 2021,
-          "month": 9,
-          "rarity": 4,
-          "cost": 100
-        },
-        {
-          "year": 2024,
-          "month": 5,
-          "rarity": 4,
-          "cost": 100
-        },
-        {
           "year": 2022,
           "month": 3,
           "rarity": 4,
@@ -117103,13 +118105,37 @@
         },
         {
           "year": 2021,
+          "month": 6,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2024,
+          "month": 5,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2021,
+          "month": 9,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2024,
+          "month": 4,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
+          "year": 2021,
           "month": 10,
           "rarity": 5,
           "cost": 300
         },
         {
-          "year": 2024,
-          "month": 4,
+          "year": 2025,
+          "month": 2,
           "rarity": 5,
           "cost": 300
         }
@@ -117921,7 +118947,7 @@
           "cost": 100
         },
         {
-          "year": 2023,
+          "year": 2022,
           "month": 1,
           "rarity": 4,
           "cost": 100
@@ -117929,6 +118955,18 @@
         {
           "year": 2024,
           "month": 4,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 3,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2023,
+          "month": 1,
           "rarity": 4,
           "cost": 100
         },
@@ -117951,14 +118989,14 @@
           "cost": 100
         },
         {
-          "year": 2022,
-          "month": 11,
+          "year": 2025,
+          "month": 1,
           "rarity": 4,
           "cost": 100
         },
         {
           "year": 2022,
-          "month": 1,
+          "month": 11,
           "rarity": 4,
           "cost": 100
         },
@@ -117969,8 +119007,8 @@
           "cost": 100
         },
         {
-          "year": 2020,
-          "month": 8,
+          "year": 2025,
+          "month": 1,
           "rarity": 5,
           "cost": 300
         },
@@ -118031,6 +119069,12 @@
         {
           "year": 2020,
           "month": 12,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
+          "year": 2020,
+          "month": 8,
           "rarity": 5,
           "cost": 300
         },
@@ -119529,6 +120573,7 @@
       "PID_エーデルガルト",
       "PID_水着エイリーク",
       "PID_伝承エイリーク",
+      "PID_紋章エイリーク",
       "PID_総選挙エイリーク",
       "PID_比翼エイリーク",
       "PID_魔器アイト味方",
@@ -119865,14 +120910,26 @@
       ],
       "limited": [
         {
-          "year": 2023,
-          "month": 1,
+          "year": 2020,
+          "month": 4,
           "rarity": 4,
           "cost": 100
         },
         {
           "year": 2022,
           "month": 10,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2023,
+          "month": 12,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2023,
+          "month": 1,
           "rarity": 4,
           "cost": 100
         },
@@ -119949,8 +121006,8 @@
           "cost": 100
         },
         {
-          "year": 2020,
-          "month": 4,
+          "year": 2023,
+          "month": 1,
           "rarity": 4,
           "cost": 100
         },
@@ -120009,22 +121066,16 @@
           "cost": 100
         },
         {
-          "year": 2023,
-          "month": 12,
-          "rarity": 4,
-          "cost": 100
-        },
-        {
-          "year": 2023,
+          "year": 2025,
           "month": 1,
           "rarity": 4,
           "cost": 100
         },
         {
-          "year": 2024,
-          "month": 11,
-          "rarity": 5,
-          "cost": 300
+          "year": 2025,
+          "month": 3,
+          "rarity": 4,
+          "cost": 100
         },
         {
           "year": 2021,
@@ -120034,13 +121085,19 @@
         },
         {
           "year": 2024,
-          "month": 10,
+          "month": 11,
           "rarity": 5,
           "cost": 300
         },
         {
           "year": 2022,
           "month": 8,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
+          "year": 2024,
+          "month": 10,
           "rarity": 5,
           "cost": 300
         },
@@ -120057,6 +121114,12 @@
           "cost": 300
         },
         {
+          "year": 2025,
+          "month": 3,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
           "year": 2024,
           "month": 9,
           "rarity": 5,
@@ -120065,6 +121128,12 @@
         {
           "year": 2023,
           "month": 11,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
+          "year": 2023,
+          "month": 2,
           "rarity": 5,
           "cost": 300
         },
@@ -120093,20 +121162,20 @@
           "cost": 300
         },
         {
-          "year": 2021,
-          "month": 1,
-          "rarity": 5,
-          "cost": 300
-        },
-        {
-          "year": 2023,
-          "month": 2,
-          "rarity": 5,
-          "cost": 300
-        },
-        {
           "year": 2024,
           "month": 3,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
+          "year": 2020,
+          "month": 8,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
+          "year": 2025,
+          "month": 1,
           "rarity": 5,
           "cost": 300
         },
@@ -120117,14 +121186,14 @@
           "cost": 300
         },
         {
-          "year": 2023,
-          "month": 7,
+          "year": 2021,
+          "month": 1,
           "rarity": 5,
           "cost": 300
         },
         {
-          "year": 2020,
-          "month": 8,
+          "year": 2023,
+          "month": 7,
           "rarity": 5,
           "cost": 300
         },
@@ -122327,16 +123396,27 @@
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "flrwo": {
-      "gsp": 3
+      "gsp": 3,
+      "ldc": 4
     },
     "flrfi": {
-      "gsp": 3
+      "gsp": 3,
+      "ldc": 3
     },
-    "divine_codes": {}
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2025,
+          "month": 1,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_見切り追撃の剣＋",
@@ -122356,16 +123436,27 @@
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "flrwo": {
-      "gsp": 3
+      "gsp": 3,
+      "ldc": 4
     },
     "flrfi": {
-      "gsp": 5
+      "gsp": 5,
+      "ldc": 5
     },
-    "divine_codes": {}
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2025,
+          "month": 1,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_見切り・反撃不可1",
@@ -122631,7 +123722,7 @@
       "ssp": 4,
       "hg": 3,
       "dc": 5,
-      "ldc": 5,
+      "ldc": 4,
       "foc": 5
     },
     "flrfi": {
@@ -122702,6 +123793,18 @@
       ],
       "limited": [
         {
+          "year": 2025,
+          "month": 3,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 3,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
           "year": 2024,
           "month": 12,
           "rarity": 5,
@@ -122762,7 +123865,7 @@
       "ssp": 4,
       "hg": 3,
       "dc": 5,
-      "ldc": 5,
+      "ldc": 4,
       "foc": 5
     },
     "flrfi": {
@@ -122833,6 +123936,18 @@
       ],
       "limited": [
         {
+          "year": 2025,
+          "month": 3,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 3,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
           "year": 2024,
           "month": 12,
           "rarity": 5,
@@ -122893,7 +124008,7 @@
       "ssp": 4,
       "hg": 3,
       "dc": 5,
-      "ldc": 5,
+      "ldc": 4,
       "foc": 5
     },
     "flrfi": {
@@ -122963,6 +124078,18 @@
         }
       ],
       "limited": [
+        {
+          "year": 2025,
+          "month": 3,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 3,
+          "rarity": 5,
+          "cost": 300
+        },
         {
           "year": 2024,
           "month": 12,
@@ -123139,16 +124266,27 @@
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "flrwo": {
-      "gsp": 3
+      "gsp": 3,
+      "ldc": 4
     },
     "flrfi": {
-      "gsp": 5
+      "gsp": 5,
+      "ldc": 5
     },
-    "divine_codes": {}
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2025,
+          "month": 2,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_オボロの漆薙刀_防",
@@ -125081,19 +126219,21 @@
       "ssp": true,
       "hg": false,
       "dc": true,
-      "ldc": false,
+      "ldc": true,
       "foc": true
     },
     "flrwo": {
       "gsp": 4.5,
       "ssp": 4,
       "dc": 5,
+      "ldc": 5,
       "foc": 5
     },
     "flrfi": {
       "gsp": 1,
       "ssp": 1,
       "dc": 1,
+      "ldc": 3,
       "foc": 2
     },
     "divine_codes": {
@@ -125107,6 +126247,14 @@
           "number": 4,
           "title": "Heroes / Radiance",
           "cost": 1200
+        }
+      ],
+      "limited": [
+        {
+          "year": 2025,
+          "month": 1,
+          "rarity": 5,
+          "cost": 300
         }
       ]
     }
@@ -125135,19 +126283,21 @@
       "ssp": true,
       "hg": false,
       "dc": true,
-      "ldc": false,
+      "ldc": true,
       "foc": true
     },
     "flrwo": {
       "gsp": 4.5,
       "ssp": 4,
       "dc": 5,
+      "ldc": 5,
       "foc": 5
     },
     "flrfi": {
       "gsp": 2,
       "ssp": 2,
       "dc": 2,
+      "ldc": 4,
       "foc": 3
     },
     "divine_codes": {
@@ -125161,6 +126311,14 @@
           "number": 4,
           "title": "Heroes / Radiance",
           "cost": 1200
+        }
+      ],
+      "limited": [
+        {
+          "year": 2025,
+          "month": 1,
+          "rarity": 5,
+          "cost": 300
         }
       ]
     }
@@ -125189,19 +126347,21 @@
       "ssp": true,
       "hg": false,
       "dc": true,
-      "ldc": false,
+      "ldc": true,
       "foc": true
     },
     "flrwo": {
       "gsp": 4.5,
       "ssp": 4,
       "dc": 5,
+      "ldc": 5,
       "foc": 5
     },
     "flrfi": {
       "gsp": 4,
       "ssp": 4,
       "dc": 4,
+      "ldc": 5,
       "foc": 4
     },
     "divine_codes": {
@@ -125215,6 +126375,14 @@
           "number": 4,
           "title": "Heroes / Radiance",
           "cost": 1200
+        }
+      ],
+      "limited": [
+        {
+          "year": 2025,
+          "month": 1,
+          "rarity": 5,
+          "cost": 300
         }
       ]
     }
@@ -126709,6 +127877,12 @@
           "month": 5,
           "rarity": 5,
           "cost": 300
+        },
+        {
+          "year": 2025,
+          "month": 1,
+          "rarity": 5,
+          "cost": 300
         }
       ]
     }
@@ -126780,6 +127954,12 @@
         {
           "year": 2023,
           "month": 5,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
+          "year": 2025,
+          "month": 1,
           "rarity": 5,
           "cost": 300
         }
@@ -126855,6 +128035,12 @@
           "month": 5,
           "rarity": 5,
           "cost": 300
+        },
+        {
+          "year": 2025,
+          "month": 1,
+          "rarity": 5,
+          "cost": 300
         }
       ]
     }
@@ -126883,17 +128069,19 @@
       "ssp": true,
       "hg": false,
       "dc": true,
-      "ldc": false,
+      "ldc": true,
       "foc": true
     },
     "flrwo": {
       "ssp": 5,
       "dc": 5,
+      "ldc": 5,
       "foc": 5
     },
     "flrfi": {
       "ssp": 5,
       "dc": 5,
+      "ldc": 5,
       "foc": 5
     },
     "divine_codes": {
@@ -126907,6 +128095,14 @@
           "number": 6,
           "title": "Awakening / Engage",
           "cost": 800
+        }
+      ],
+      "limited": [
+        {
+          "year": 2025,
+          "month": 1,
+          "rarity": 5,
+          "cost": 300
         }
       ]
     }
@@ -127532,13 +128728,19 @@
       "limited": [
         {
           "year": 2022,
-          "month": 5,
+          "month": 4,
           "rarity": 4,
           "cost": 100
         },
         {
           "year": 2024,
           "month": 3,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 1,
           "rarity": 4,
           "cost": 100
         },
@@ -127568,7 +128770,7 @@
         },
         {
           "year": 2022,
-          "month": 4,
+          "month": 5,
           "rarity": 4,
           "cost": 100
         }
@@ -129283,6 +130485,12 @@
       ],
       "limited": [
         {
+          "year": 2025,
+          "month": 3,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
           "year": 2023,
           "month": 4,
           "rarity": 4,
@@ -129896,6 +131104,12 @@
           "cost": 100
         },
         {
+          "year": 2025,
+          "month": 1,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
           "year": 2023,
           "month": 2,
           "rarity": 4,
@@ -129968,6 +131182,12 @@
           "cost": 100
         },
         {
+          "year": 2025,
+          "month": 1,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
           "year": 2023,
           "month": 2,
           "rarity": 4,
@@ -130036,6 +131256,12 @@
         {
           "year": 2020,
           "month": 6,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 1,
           "rarity": 4,
           "cost": 100
         },
@@ -131828,16 +133054,27 @@
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "flrwo": {
-      "gsp": 3
+      "gsp": 3,
+      "ldc": 4
     },
     "flrfi": {
-      "gsp": 5
+      "gsp": 5,
+      "ldc": 5
     },
-    "divine_codes": {}
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2025,
+          "month": 3,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_天真のブレス_無",
@@ -134842,14 +136079,38 @@
       ],
       "limited": [
         {
+          "year": 2025,
+          "month": 3,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
           "year": 2020,
           "month": 8,
           "rarity": 4,
           "cost": 100
         },
         {
+          "year": 2025,
+          "month": 2,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2020,
+          "month": 9,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
           "year": 2022,
           "month": 10,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
+          "year": 2024,
+          "month": 5,
           "rarity": 5,
           "cost": 300
         },
@@ -134862,18 +136123,6 @@
         {
           "year": 2020,
           "month": 6,
-          "rarity": 5,
-          "cost": 300
-        },
-        {
-          "year": 2020,
-          "month": 9,
-          "rarity": 5,
-          "cost": 300
-        },
-        {
-          "year": 2024,
-          "month": 5,
           "rarity": 5,
           "cost": 300
         }
@@ -137467,6 +138716,12 @@
           "cost": 100
         },
         {
+          "year": 2025,
+          "month": 1,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
           "year": 2022,
           "month": 1,
           "rarity": 4,
@@ -138787,16 +140042,27 @@
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "flrwo": {
-      "gsp": 4.5
+      "gsp": 4.5,
+      "ldc": 5
     },
     "flrfi": {
-      "gsp": 3
+      "gsp": 3,
+      "ldc": 3
     },
-    "divine_codes": {}
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2025,
+          "month": 3,
+          "rarity": 5,
+          "cost": 300
+        }
+      ]
+    }
   },
   {
     "id": "SID_牽制の剣＋",
@@ -138816,16 +140082,27 @@
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "flrwo": {
-      "gsp": 4.5
+      "gsp": 4.5,
+      "ldc": 5
     },
     "flrfi": {
-      "gsp": 5
+      "gsp": 5,
+      "ldc": 5
     },
-    "divine_codes": {}
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2025,
+          "month": 3,
+          "rarity": 5,
+          "cost": 300
+        }
+      ]
+    }
   },
   {
     "id": "SID_トナカイの弓",
@@ -138979,16 +140256,27 @@
       "ssp": true,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "flrwo": {
-      "ssp": 5
+      "ssp": 5,
+      "ldc": 5
     },
     "flrfi": {
-      "ssp": 5
+      "ssp": 5,
+      "ldc": 5
     },
-    "divine_codes": {}
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2025,
+          "month": 2,
+          "rarity": 5,
+          "cost": 300
+        }
+      ]
+    }
   },
   {
     "id": "SID_鬼神飛燕の離撃3",
@@ -139017,19 +140305,21 @@
       "ssp": true,
       "hg": false,
       "dc": true,
-      "ldc": false,
+      "ldc": true,
       "foc": true
     },
     "flrwo": {
       "gsp": 5,
       "ssp": 5,
       "dc": 5,
+      "ldc": 5,
       "foc": 5
     },
     "flrfi": {
       "gsp": 5,
       "ssp": 5,
       "dc": 5,
+      "ldc": 5,
       "foc": 5
     },
     "divine_codes": {
@@ -139038,6 +140328,14 @@
           "number": 5,
           "title": "Heroes / Radiance",
           "cost": 800
+        }
+      ],
+      "limited": [
+        {
+          "year": 2025,
+          "month": 3,
+          "rarity": 5,
+          "cost": 300
         }
       ]
     }
@@ -139743,8 +141041,8 @@
       ],
       "limited": [
         {
-          "year": 2023,
-          "month": 9,
+          "year": 2025,
+          "month": 1,
           "rarity": 4,
           "cost": 100
         },
@@ -139785,12 +141083,6 @@
           "cost": 100
         },
         {
-          "year": 2020,
-          "month": 7,
-          "rarity": 4,
-          "cost": 100
-        },
-        {
           "year": 2021,
           "month": 7,
           "rarity": 4,
@@ -139799,6 +141091,12 @@
         {
           "year": 2022,
           "month": 7,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2023,
+          "month": 9,
           "rarity": 4,
           "cost": 100
         },
@@ -139929,6 +141227,12 @@
           "cost": 100
         },
         {
+          "year": 2025,
+          "month": 3,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
           "year": 2020,
           "month": 5,
           "rarity": 4,
@@ -139955,6 +141259,12 @@
         {
           "year": 2024,
           "month": 9,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2020,
+          "month": 7,
           "rarity": 4,
           "cost": 100
         },
@@ -140323,18 +141633,29 @@
       "ssp": true,
       "hg": true,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "flrwo": {
       "ssp": 4.5,
-      "hg": 4
+      "hg": 4,
+      "ldc": 4
     },
     "flrfi": {
       "ssp": 1,
-      "hg": 1
+      "hg": 1,
+      "ldc": 1
     },
-    "divine_codes": {}
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2025,
+          "month": 3,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_魔防の魅了2",
@@ -140355,18 +141676,29 @@
       "ssp": true,
       "hg": true,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "flrwo": {
       "ssp": 4.5,
-      "hg": 4
+      "hg": 4,
+      "ldc": 4
     },
     "flrfi": {
       "ssp": 2,
-      "hg": 2
+      "hg": 2,
+      "ldc": 2
     },
-    "divine_codes": {}
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2025,
+          "month": 3,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_魔防の魅了3",
@@ -140387,18 +141719,29 @@
       "ssp": true,
       "hg": true,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "flrwo": {
       "ssp": 4.5,
-      "hg": 4
+      "hg": 4,
+      "ldc": 4
     },
     "flrfi": {
       "ssp": 4,
-      "hg": 4
+      "hg": 4,
+      "ldc": 4
     },
-    "divine_codes": {}
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2025,
+          "month": 3,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_魔防の共謀1",
@@ -142606,16 +143949,27 @@
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "flrwo": {
-      "gsp": 3
+      "gsp": 3,
+      "ldc": 4
     },
     "flrfi": {
-      "gsp": 3
+      "gsp": 3,
+      "ldc": 3
     },
-    "divine_codes": {}
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2025,
+          "month": 3,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_強化反転の剣＋",
@@ -142635,16 +143989,27 @@
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "flrwo": {
-      "gsp": 3
+      "gsp": 3,
+      "ldc": 4
     },
     "flrfi": {
-      "gsp": 5
+      "gsp": 5,
+      "ldc": 5
     },
-    "divine_codes": {}
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2025,
+          "month": 3,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_強化反転の槍",
@@ -142882,6 +144247,12 @@
       ],
       "limited": [
         {
+          "year": 2025,
+          "month": 2,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
           "year": 2022,
           "month": 3,
           "rarity": 4,
@@ -142894,8 +144265,20 @@
           "cost": 100
         },
         {
+          "year": 2025,
+          "month": 1,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
           "year": 2023,
           "month": 4,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
+          "year": 2022,
+          "month": 3,
           "rarity": 5,
           "cost": 300
         },
@@ -142908,12 +144291,6 @@
         {
           "year": 2022,
           "month": 9,
-          "rarity": 5,
-          "cost": 300
-        },
-        {
-          "year": 2022,
-          "month": 3,
           "rarity": 5,
           "cost": 300
         }
@@ -143609,6 +144986,12 @@
       ],
       "limited": [
         {
+          "year": 2025,
+          "month": 2,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
           "year": 2020,
           "month": 3,
           "rarity": 4,
@@ -143690,19 +145073,21 @@
       "ssp": true,
       "hg": false,
       "dc": true,
-      "ldc": false,
+      "ldc": true,
       "foc": true
     },
     "flrwo": {
       "gsp": 3,
       "ssp": 4.5,
       "dc": 5,
+      "ldc": 4,
       "foc": 5
     },
     "flrfi": {
       "gsp": 4,
       "ssp": 4,
       "dc": 4,
+      "ldc": 4,
       "foc": 3
     },
     "divine_codes": {
@@ -143711,6 +145096,14 @@
           "number": 1,
           "title": "Radiance",
           "cost": 800
+        }
+      ],
+      "limited": [
+        {
+          "year": 2025,
+          "month": 2,
+          "rarity": 4,
+          "cost": 100
         }
       ]
     }
@@ -143735,19 +145128,21 @@
       "ssp": true,
       "hg": false,
       "dc": true,
-      "ldc": false,
+      "ldc": true,
       "foc": true
     },
     "flrwo": {
       "gsp": 3,
       "ssp": 4.5,
       "dc": 5,
+      "ldc": 4,
       "foc": 5
     },
     "flrfi": {
       "gsp": 5,
       "ssp": 5,
       "dc": 5,
+      "ldc": 5,
       "foc": 4
     },
     "divine_codes": {
@@ -143756,6 +145151,14 @@
           "number": 1,
           "title": "Radiance",
           "cost": 800
+        }
+      ],
+      "limited": [
+        {
+          "year": 2025,
+          "month": 2,
+          "rarity": 4,
+          "cost": 100
         }
       ]
     }
@@ -143845,6 +145248,12 @@
           "month": 12,
           "rarity": 4,
           "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 1,
+          "rarity": 4,
+          "cost": 100
         }
       ]
     }
@@ -143903,6 +145312,12 @@
         {
           "year": 2023,
           "month": 12,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 1,
           "rarity": 4,
           "cost": 100
         }
@@ -144405,7 +145820,7 @@
       "ssp": 4,
       "hg": 3,
       "dc": 5,
-      "ldc": 5,
+      "ldc": 4,
       "foc": 5
     },
     "flrfi": {
@@ -144413,7 +145828,7 @@
       "ssp": 1,
       "hg": 1,
       "dc": 1,
-      "ldc": 2,
+      "ldc": 1,
       "foc": 2
     },
     "divine_codes": {
@@ -144430,6 +145845,12 @@
         }
       ],
       "limited": [
+        {
+          "year": 2025,
+          "month": 2,
+          "rarity": 4,
+          "cost": 100
+        },
         {
           "year": 2024,
           "month": 11,
@@ -144478,7 +145899,7 @@
       "ssp": 4,
       "hg": 3,
       "dc": 5,
-      "ldc": 5,
+      "ldc": 4,
       "foc": 5
     },
     "flrfi": {
@@ -144486,7 +145907,7 @@
       "ssp": 2,
       "hg": 2,
       "dc": 2,
-      "ldc": 3,
+      "ldc": 2,
       "foc": 3
     },
     "divine_codes": {
@@ -144503,6 +145924,12 @@
         }
       ],
       "limited": [
+        {
+          "year": 2025,
+          "month": 2,
+          "rarity": 4,
+          "cost": 100
+        },
         {
           "year": 2024,
           "month": 11,
@@ -144551,7 +145978,7 @@
       "ssp": 4,
       "hg": 3,
       "dc": 5,
-      "ldc": 5,
+      "ldc": 4,
       "foc": 5
     },
     "flrfi": {
@@ -144576,6 +146003,12 @@
         }
       ],
       "limited": [
+        {
+          "year": 2025,
+          "month": 2,
+          "rarity": 4,
+          "cost": 100
+        },
         {
           "year": 2024,
           "month": 11,
@@ -150443,7 +151876,7 @@
     "flrfi": {
       "gsp": 1,
       "ssp": 2,
-      "ldc": 3,
+      "ldc": 1,
       "foc": 2
     },
     "divine_codes": {
@@ -150451,6 +151884,12 @@
         {
           "year": 2020,
           "month": 6,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 2,
           "rarity": 4,
           "cost": 100
         },
@@ -150469,6 +151908,12 @@
         {
           "year": 2022,
           "month": 7,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 3,
           "rarity": 4,
           "cost": 100
         }
@@ -150510,11 +151955,17 @@
     "flrfi": {
       "gsp": 2,
       "ssp": 3,
-      "ldc": 4,
+      "ldc": 2,
       "foc": 3
     },
     "divine_codes": {
       "limited": [
+        {
+          "year": 2025,
+          "month": 2,
+          "rarity": 4,
+          "cost": 100
+        },
         {
           "year": 2020,
           "month": 7,
@@ -150530,6 +151981,12 @@
         {
           "year": 2022,
           "month": 7,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 3,
           "rarity": 4,
           "cost": 100
         }
@@ -150571,11 +152028,17 @@
     "flrfi": {
       "gsp": 4,
       "ssp": 4,
-      "ldc": 5,
+      "ldc": 4,
       "foc": 4
     },
     "divine_codes": {
       "limited": [
+        {
+          "year": 2025,
+          "month": 2,
+          "rarity": 4,
+          "cost": 100
+        },
         {
           "year": 2020,
           "month": 7,
@@ -150591,6 +152054,12 @@
         {
           "year": 2022,
           "month": 7,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 3,
           "rarity": 4,
           "cost": 100
         }
@@ -153889,6 +155358,12 @@
       ],
       "limited": [
         {
+          "year": 2025,
+          "month": 2,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
           "year": 2022,
           "month": 10,
           "rarity": 4,
@@ -153915,6 +155390,12 @@
         {
           "year": 2022,
           "month": 7,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 3,
           "rarity": 4,
           "cost": 100
         },
@@ -154773,8 +156254,20 @@
           "cost": 100
         },
         {
+          "year": 2025,
+          "month": 3,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
           "year": 2024,
           "month": 11,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
+          "year": 2025,
+          "month": 2,
           "rarity": 5,
           "cost": 300
         },
@@ -155316,14 +156809,14 @@
       ],
       "limited": [
         {
-          "year": 2023,
-          "month": 4,
+          "year": 2024,
+          "month": 8,
           "rarity": 4,
           "cost": 100
         },
         {
-          "year": 2024,
-          "month": 8,
+          "year": 2020,
+          "month": 4,
           "rarity": 4,
           "cost": 100
         },
@@ -155334,13 +156827,19 @@
           "cost": 100
         },
         {
+          "year": 2025,
+          "month": 2,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
           "year": 2023,
           "month": 12,
           "rarity": 4,
           "cost": 100
         },
         {
-          "year": 2020,
+          "year": 2023,
           "month": 4,
           "rarity": 4,
           "cost": 100
@@ -155372,6 +156871,12 @@
         {
           "year": 2023,
           "month": 4,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
+          "year": 2025,
+          "month": 1,
           "rarity": 5,
           "cost": 300
         },
@@ -155523,6 +157028,7 @@
       "PID_双界エーデルガルト",
       "PID_エディ",
       "PID_伝承エイリーク",
+      "PID_紋章エイリーク",
       "PID_エイリーク",
       "PID_比翼エイリーク",
       "PID_エリンシア",
@@ -155758,8 +157264,8 @@
       ],
       "limited": [
         {
-          "year": 2022,
-          "month": 7,
+          "year": 2025,
+          "month": 3,
           "rarity": 4,
           "cost": 100
         },
@@ -155812,10 +157318,10 @@
           "cost": 100
         },
         {
-          "year": 2023,
-          "month": 6,
-          "rarity": 5,
-          "cost": 300
+          "year": 2022,
+          "month": 7,
+          "rarity": 4,
+          "cost": 100
         },
         {
           "year": 2024,
@@ -155838,6 +157344,12 @@
         {
           "year": 2022,
           "month": 4,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
+          "year": 2023,
+          "month": 6,
           "rarity": 5,
           "cost": 300
         }
@@ -156927,6 +158439,12 @@
           "month": 9,
           "rarity": 4,
           "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 1,
+          "rarity": 4,
+          "cost": 100
         }
       ]
     }
@@ -156983,6 +158501,12 @@
         {
           "year": 2023,
           "month": 9,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 1,
           "rarity": 4,
           "cost": 100
         }
@@ -158839,18 +160363,29 @@
       "ssp": false,
       "hg": true,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "flrwo": {
       "gsp": 5,
-      "hg": 4
+      "hg": 4,
+      "ldc": 4
     },
     "flrfi": {
       "gsp": 2,
-      "hg": 3
+      "hg": 3,
+      "ldc": 3
     },
-    "divine_codes": {}
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2025,
+          "month": 1,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_不壊2",
@@ -158872,18 +160407,29 @@
       "ssp": false,
       "hg": true,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "flrwo": {
       "gsp": 5,
-      "hg": 4
+      "hg": 4,
+      "ldc": 4
     },
     "flrfi": {
       "gsp": 3,
-      "hg": 4
+      "hg": 4,
+      "ldc": 4
     },
-    "divine_codes": {}
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2025,
+          "month": 1,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_不壊3",
@@ -158905,18 +160451,29 @@
       "ssp": false,
       "hg": true,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "flrwo": {
       "gsp": 5,
-      "hg": 4
+      "hg": 4,
+      "ldc": 4
     },
     "flrfi": {
       "gsp": 4,
-      "hg": 5
+      "hg": 5,
+      "ldc": 5
     },
-    "divine_codes": {}
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2025,
+          "month": 1,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_不壊4",
@@ -162445,6 +164002,12 @@
           "cost": 100
         },
         {
+          "year": 2025,
+          "month": 3,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
           "year": 2021,
           "month": 3,
           "rarity": 5,
@@ -162523,6 +164086,12 @@
           "cost": 100
         },
         {
+          "year": 2025,
+          "month": 3,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
           "year": 2021,
           "month": 3,
           "rarity": 5,
@@ -162597,6 +164166,12 @@
         {
           "year": 2023,
           "month": 11,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 3,
           "rarity": 4,
           "cost": 100
         },
@@ -166983,6 +168558,12 @@
           "month": 7,
           "rarity": 4,
           "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 2,
+          "rarity": 4,
+          "cost": 100
         }
       ]
     }
@@ -167365,19 +168946,21 @@
       "ssp": true,
       "hg": false,
       "dc": true,
-      "ldc": false,
+      "ldc": true,
       "foc": true
     },
     "flrwo": {
       "gsp": 4.5,
       "ssp": 4,
       "dc": 5,
+      "ldc": 5,
       "foc": 5
     },
     "flrfi": {
       "gsp": 2,
       "ssp": 1,
       "dc": 2,
+      "ldc": 1,
       "foc": 2
     },
     "divine_codes": {
@@ -167396,6 +168979,14 @@
           "number": 5,
           "title": "Genealogy / Thracia 776",
           "cost": 1200
+        }
+      ],
+      "limited": [
+        {
+          "year": 2025,
+          "month": 1,
+          "rarity": 5,
+          "cost": 300
         }
       ]
     }
@@ -167427,19 +169018,21 @@
       "ssp": true,
       "hg": false,
       "dc": true,
-      "ldc": false,
+      "ldc": true,
       "foc": true
     },
     "flrwo": {
       "gsp": 4.5,
       "ssp": 4,
       "dc": 5,
+      "ldc": 5,
       "foc": 5
     },
     "flrfi": {
       "gsp": 3,
       "ssp": 2,
       "dc": 3,
+      "ldc": 2,
       "foc": 3
     },
     "divine_codes": {
@@ -167458,6 +169051,14 @@
           "number": 5,
           "title": "Genealogy / Thracia 776",
           "cost": 1200
+        }
+      ],
+      "limited": [
+        {
+          "year": 2025,
+          "month": 1,
+          "rarity": 5,
+          "cost": 300
         }
       ]
     }
@@ -167489,19 +169090,21 @@
       "ssp": true,
       "hg": false,
       "dc": true,
-      "ldc": false,
+      "ldc": true,
       "foc": true
     },
     "flrwo": {
       "gsp": 4.5,
       "ssp": 4,
       "dc": 5,
+      "ldc": 5,
       "foc": 5
     },
     "flrfi": {
       "gsp": 4,
       "ssp": 4,
       "dc": 4,
+      "ldc": 4,
       "foc": 4
     },
     "divine_codes": {
@@ -167520,6 +169123,14 @@
           "number": 5,
           "title": "Genealogy / Thracia 776",
           "cost": 1200
+        }
+      ],
+      "limited": [
+        {
+          "year": 2025,
+          "month": 1,
+          "rarity": 5,
+          "cost": 300
         }
       ]
     }
@@ -169180,8 +170791,8 @@
       ],
       "limited": [
         {
-          "year": 2020,
-          "month": 3,
+          "year": 2021,
+          "month": 11,
           "rarity": 4,
           "cost": 100
         },
@@ -169246,8 +170857,8 @@
           "cost": 100
         },
         {
-          "year": 2021,
-          "month": 11,
+          "year": 2020,
+          "month": 3,
           "rarity": 4,
           "cost": 100
         },
@@ -169302,6 +170913,12 @@
         {
           "year": 2021,
           "month": 7,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 2,
           "rarity": 4,
           "cost": 100
         },
@@ -170032,6 +171649,12 @@
           "cost": 100
         },
         {
+          "year": 2025,
+          "month": 1,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
           "year": 2020,
           "month": 8,
           "rarity": 4,
@@ -170120,6 +171743,12 @@
           "cost": 100
         },
         {
+          "year": 2025,
+          "month": 1,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
           "year": 2020,
           "month": 6,
           "rarity": 4,
@@ -170175,6 +171804,12 @@
         }
       ],
       "limited": [
+        {
+          "year": 2025,
+          "month": 1,
+          "rarity": 4,
+          "cost": 100
+        },
         {
           "year": 2020,
           "month": 6,
@@ -170372,8 +172007,8 @@
       ],
       "limited": [
         {
-          "year": 2021,
-          "month": 1,
+          "year": 2024,
+          "month": 9,
           "rarity": 4,
           "cost": 100
         },
@@ -170408,8 +172043,14 @@
           "cost": 100
         },
         {
-          "year": 2024,
-          "month": 9,
+          "year": 2021,
+          "month": 1,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 2,
           "rarity": 4,
           "cost": 100
         },
@@ -170422,6 +172063,12 @@
         {
           "year": 2023,
           "month": 11,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 3,
           "rarity": 4,
           "cost": 100
         },
@@ -170456,14 +172103,14 @@
           "cost": 300
         },
         {
-          "year": 2024,
-          "month": 1,
+          "year": 2022,
+          "month": 5,
           "rarity": 5,
           "cost": 300
         },
         {
-          "year": 2022,
-          "month": 5,
+          "year": 2024,
+          "month": 1,
           "rarity": 5,
           "cost": 300
         }
@@ -170533,6 +172180,12 @@
           "cost": 100
         },
         {
+          "year": 2025,
+          "month": 2,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
           "year": 2020,
           "month": 4,
           "rarity": 4,
@@ -170590,11 +172243,17 @@
     "flrfi": {
       "gsp": 4,
       "ssp": 4,
-      "ldc": 5,
+      "ldc": 4,
       "foc": 4
     },
     "divine_codes": {
       "limited": [
+        {
+          "year": 2025,
+          "month": 2,
+          "rarity": 4,
+          "cost": 100
+        },
         {
           "year": 2024,
           "month": 9,
@@ -171094,6 +172753,12 @@
     "divine_codes": {
       "limited": [
         {
+          "year": 2025,
+          "month": 3,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
           "year": 2020,
           "month": 10,
           "rarity": 4,
@@ -171151,6 +172816,12 @@
     },
     "divine_codes": {
       "limited": [
+        {
+          "year": 2025,
+          "month": 3,
+          "rarity": 4,
+          "cost": 100
+        },
         {
           "year": 2020,
           "month": 10,
@@ -171513,16 +173184,27 @@
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "flrwo": {
-      "gsp": 3
+      "gsp": 3,
+      "ldc": 4
     },
     "flrfi": {
-      "gsp": 5
+      "gsp": 5,
+      "ldc": 5
     },
-    "divine_codes": {}
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2025,
+          "month": 1,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_密偵の暗器_撃",
@@ -172319,16 +174001,27 @@
       "ssp": false,
       "hg": true,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "flrwo": {
-      "hg": 4
+      "hg": 4,
+      "ldc": 4
     },
     "flrfi": {
-      "hg": 3
+      "hg": 3,
+      "ldc": 3
     },
-    "divine_codes": {}
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2025,
+          "month": 2,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_射的の弓＋",
@@ -172348,16 +174041,27 @@
       "ssp": false,
       "hg": true,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "flrwo": {
-      "hg": 4
+      "hg": 4,
+      "ldc": 4
     },
     "flrfi": {
-      "hg": 5
+      "hg": 5,
+      "ldc": 5
     },
-    "divine_codes": {}
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2025,
+          "month": 2,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_忠臣の剣",
@@ -173355,8 +175059,8 @@
       ],
       "limited": [
         {
-          "year": 2023,
-          "month": 9,
+          "year": 2025,
+          "month": 1,
           "rarity": 4,
           "cost": 100
         },
@@ -173393,6 +175097,12 @@
         {
           "year": 2022,
           "month": 7,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2023,
+          "month": 9,
           "rarity": 4,
           "cost": 100
         },
@@ -173465,6 +175175,12 @@
           "month": 9,
           "rarity": 4,
           "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 1,
+          "rarity": 4,
+          "cost": 100
         }
       ]
     }
@@ -173526,6 +175242,12 @@
         {
           "year": 2023,
           "month": 9,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 1,
           "rarity": 4,
           "cost": 100
         }
@@ -174001,6 +175723,12 @@
           "cost": 100
         },
         {
+          "year": 2025,
+          "month": 1,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
           "year": 2024,
           "month": 1,
           "rarity": 4,
@@ -174157,6 +175885,12 @@
           "cost": 300
         },
         {
+          "year": 2024,
+          "month": 9,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
           "year": 2020,
           "month": 6,
           "rarity": 5,
@@ -174176,12 +175910,6 @@
         },
         {
           "year": 2023,
-          "month": 9,
-          "rarity": 5,
-          "cost": 300
-        },
-        {
-          "year": 2024,
           "month": 9,
           "rarity": 5,
           "cost": 300
@@ -174442,12 +176170,6 @@
           "cost": 100
         },
         {
-          "year": 2024,
-          "month": 6,
-          "rarity": 4,
-          "cost": 100
-        },
-        {
           "year": 2022,
           "month": 9,
           "rarity": 4,
@@ -174456,6 +176178,12 @@
         {
           "year": 2023,
           "month": 11,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 3,
           "rarity": 4,
           "cost": 100
         },
@@ -174508,6 +176236,12 @@
           "cost": 100
         },
         {
+          "year": 2025,
+          "month": 2,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
           "year": 2020,
           "month": 10,
           "rarity": 4,
@@ -174528,6 +176262,12 @@
         {
           "year": 2024,
           "month": 11,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2024,
+          "month": 6,
           "rarity": 4,
           "cost": 100
         },
@@ -174640,14 +176380,26 @@
           "cost": 300
         },
         {
+          "year": 2020,
+          "month": 5,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
+          "year": 2024,
+          "month": 1,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
           "year": 2023,
           "month": 12,
           "rarity": 5,
           "cost": 300
         },
         {
-          "year": 2021,
-          "month": 7,
+          "year": 2024,
+          "month": 11,
           "rarity": 5,
           "cost": 300
         },
@@ -174658,8 +176410,8 @@
           "cost": 300
         },
         {
-          "year": 2024,
-          "month": 11,
+          "year": 2025,
+          "month": 2,
           "rarity": 5,
           "cost": 300
         },
@@ -174670,8 +176422,8 @@
           "cost": 300
         },
         {
-          "year": 2022,
-          "month": 9,
+          "year": 2021,
+          "month": 7,
           "rarity": 5,
           "cost": 300
         },
@@ -174682,8 +176434,8 @@
           "cost": 300
         },
         {
-          "year": 2024,
-          "month": 1,
+          "year": 2022,
+          "month": 9,
           "rarity": 5,
           "cost": 300
         },
@@ -174706,8 +176458,8 @@
           "cost": 300
         },
         {
-          "year": 2020,
-          "month": 5,
+          "year": 2025,
+          "month": 3,
           "rarity": 5,
           "cost": 300
         }
@@ -174933,18 +176685,6 @@
           "cost": 100
         },
         {
-          "year": 2020,
-          "month": 10,
-          "rarity": 4,
-          "cost": 100
-        },
-        {
-          "year": 2023,
-          "month": 1,
-          "rarity": 4,
-          "cost": 100
-        },
-        {
           "year": 2024,
           "month": 1,
           "rarity": 4,
@@ -174957,6 +176697,12 @@
           "cost": 100
         },
         {
+          "year": 2025,
+          "month": 2,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
           "year": 2020,
           "month": 7,
           "rarity": 4,
@@ -174965,6 +176711,12 @@
         {
           "year": 2024,
           "month": 7,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 1,
           "rarity": 4,
           "cost": 100
         },
@@ -175059,20 +176811,32 @@
           "cost": 100
         },
         {
+          "year": 2020,
+          "month": 10,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
           "year": 2023,
-          "month": 12,
-          "rarity": 5,
-          "cost": 300
+          "month": 1,
+          "rarity": 4,
+          "cost": 100
         },
         {
           "year": 2020,
-          "month": 9,
+          "month": 8,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
+          "year": 2021,
+          "month": 7,
           "rarity": 5,
           "cost": 300
         },
         {
           "year": 2023,
-          "month": 2,
+          "month": 12,
           "rarity": 5,
           "cost": 300
         },
@@ -175089,13 +176853,13 @@
           "cost": 300
         },
         {
-          "year": 2022,
-          "month": 7,
+          "year": 2023,
+          "month": 2,
           "rarity": 5,
           "cost": 300
         },
         {
-          "year": 2020,
+          "year": 2022,
           "month": 7,
           "rarity": 5,
           "cost": 300
@@ -175126,19 +176890,19 @@
         },
         {
           "year": 2020,
-          "month": 12,
-          "rarity": 5,
-          "cost": 300
-        },
-        {
-          "year": 2022,
-          "month": 8,
+          "month": 7,
           "rarity": 5,
           "cost": 300
         },
         {
           "year": 2020,
-          "month": 8,
+          "month": 9,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
+          "year": 2020,
+          "month": 12,
           "rarity": 5,
           "cost": 300
         },
@@ -175149,8 +176913,8 @@
           "cost": 300
         },
         {
-          "year": 2021,
-          "month": 7,
+          "year": 2022,
+          "month": 8,
           "rarity": 5,
           "cost": 300
         },
@@ -175501,12 +177265,6 @@
         },
         {
           "year": 2024,
-          "month": 12,
-          "rarity": 4,
-          "cost": 100
-        },
-        {
-          "year": 2024,
           "month": 5,
           "rarity": 4,
           "cost": 100
@@ -175514,6 +177272,12 @@
         {
           "year": 2021,
           "month": 7,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 2,
           "rarity": 4,
           "cost": 100
         },
@@ -175568,6 +177332,12 @@
         {
           "year": 2023,
           "month": 9,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 1,
           "rarity": 4,
           "cost": 100
         },
@@ -175722,6 +177492,12 @@
           "cost": 100
         },
         {
+          "year": 2025,
+          "month": 2,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
           "year": 2020,
           "month": 3,
           "rarity": 4,
@@ -175770,8 +177546,14 @@
           "cost": 100
         },
         {
-          "year": 2020,
-          "month": 6,
+          "year": 2024,
+          "month": 12,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 1,
           "rarity": 5,
           "cost": 300
         },
@@ -175782,8 +177564,8 @@
           "cost": 300
         },
         {
-          "year": 2024,
-          "month": 4,
+          "year": 2020,
+          "month": 6,
           "rarity": 5,
           "cost": 300
         },
@@ -175813,6 +177595,12 @@
         },
         {
           "year": 2023,
+          "month": 4,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
+          "year": 2024,
           "month": 4,
           "rarity": 5,
           "cost": 300
@@ -175824,12 +177612,6 @@
           "cost": 300
         },
         {
-          "year": 2021,
-          "month": 11,
-          "rarity": 5,
-          "cost": 300
-        },
-        {
           "year": 2022,
           "month": 11,
           "rarity": 5,
@@ -175837,7 +177619,7 @@
         },
         {
           "year": 2021,
-          "month": 1,
+          "month": 11,
           "rarity": 5,
           "cost": 300
         },
@@ -175854,20 +177636,26 @@
           "cost": 300
         },
         {
+          "year": 2021,
+          "month": 1,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
           "year": 2024,
           "month": 7,
           "rarity": 5,
           "cost": 300
         },
         {
-          "year": 2020,
-          "month": 9,
+          "year": 2022,
+          "month": 12,
           "rarity": 5,
           "cost": 300
         },
         {
-          "year": 2022,
-          "month": 12,
+          "year": 2020,
+          "month": 9,
           "rarity": 5,
           "cost": 300
         },
@@ -175928,6 +177716,7 @@
       "PID_双界エーデルガルト",
       "PID_エディ",
       "PID_伝承エイリーク",
+      "PID_紋章エイリーク",
       "PID_エイリーク",
       "PID_比翼エイリーク",
       "PID_エルトシャン",
@@ -176303,20 +178092,8 @@
           "cost": 100
         },
         {
-          "year": 2023,
-          "month": 3,
-          "rarity": 4,
-          "cost": 100
-        },
-        {
           "year": 2024,
           "month": 8,
-          "rarity": 4,
-          "cost": 100
-        },
-        {
-          "year": 2023,
-          "month": 5,
           "rarity": 4,
           "cost": 100
         },
@@ -176371,6 +178148,24 @@
         {
           "year": 2024,
           "month": 4,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2023,
+          "month": 3,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2024,
+          "month": 8,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2023,
+          "month": 5,
           "rarity": 4,
           "cost": 100
         },
@@ -176395,6 +178190,18 @@
         {
           "year": 2022,
           "month": 4,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 1,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 3,
           "rarity": 4,
           "cost": 100
         },
@@ -176495,6 +178302,12 @@
           "cost": 100
         },
         {
+          "year": 2025,
+          "month": 3,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
           "year": 2023,
           "month": 2,
           "rarity": 4,
@@ -176531,13 +178344,49 @@
           "cost": 100
         },
         {
+          "year": 2023,
+          "month": 6,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
           "year": 2024,
-          "month": 8,
-          "rarity": 4,
-          "cost": 100
+          "month": 12,
+          "rarity": 5,
+          "cost": 300
         },
         {
           "year": 2022,
+          "month": 12,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
+          "year": 2024,
+          "month": 10,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
+          "year": 2021,
+          "month": 6,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
+          "year": 2021,
+          "month": 5,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
+          "year": 2022,
+          "month": 4,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
+          "year": 2020,
           "month": 4,
           "rarity": 5,
           "cost": 300
@@ -176549,44 +178398,8 @@
           "cost": 300
         },
         {
-          "year": 2022,
-          "month": 12,
-          "rarity": 5,
-          "cost": 300
-        },
-        {
-          "year": 2023,
-          "month": 6,
-          "rarity": 5,
-          "cost": 300
-        },
-        {
-          "year": 2024,
-          "month": 12,
-          "rarity": 5,
-          "cost": 300
-        },
-        {
-          "year": 2021,
-          "month": 5,
-          "rarity": 5,
-          "cost": 300
-        },
-        {
-          "year": 2024,
-          "month": 10,
-          "rarity": 5,
-          "cost": 300
-        },
-        {
-          "year": 2020,
-          "month": 4,
-          "rarity": 5,
-          "cost": 300
-        },
-        {
-          "year": 2021,
-          "month": 6,
+          "year": 2025,
+          "month": 3,
           "rarity": 5,
           "cost": 300
         }
@@ -177089,6 +178902,12 @@
           "month": 12,
           "rarity": 4,
           "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 2,
+          "rarity": 5,
+          "cost": 300
         },
         {
           "year": 2024,
@@ -179242,16 +181061,18 @@
       "ssp": false,
       "hg": false,
       "dc": true,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "flrwo": {
       "gsp": 4.5,
-      "dc": 5
+      "dc": 5,
+      "ldc": 5
     },
     "flrfi": {
       "gsp": 5,
-      "dc": 5
+      "dc": 5,
+      "ldc": 5
     },
     "divine_codes": {
       "normal": [
@@ -179259,6 +181080,14 @@
           "number": 4,
           "title": "Awakening / Fates",
           "cost": 2000
+        }
+      ],
+      "limited": [
+        {
+          "year": 2025,
+          "month": 3,
+          "rarity": 5,
+          "cost": 300
         }
       ]
     }
@@ -179634,6 +181463,12 @@
         {
           "year": 2021,
           "month": 7,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 2,
           "rarity": 4,
           "cost": 100
         },
@@ -180166,6 +182001,12 @@
       ],
       "limited": [
         {
+          "year": 2023,
+          "month": 11,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
           "year": 2024,
           "month": 3,
           "rarity": 4,
@@ -180178,8 +182019,8 @@
           "cost": 100
         },
         {
-          "year": 2023,
-          "month": 11,
+          "year": 2021,
+          "month": 6,
           "rarity": 4,
           "cost": 100
         },
@@ -180190,10 +182031,10 @@
           "cost": 100
         },
         {
-          "year": 2021,
-          "month": 6,
-          "rarity": 4,
-          "cost": 100
+          "year": 2023,
+          "month": 4,
+          "rarity": 5,
+          "cost": 300
         },
         {
           "year": 2022,
@@ -180214,8 +182055,20 @@
           "cost": 300
         },
         {
+          "year": 2025,
+          "month": 3,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
           "year": 2023,
           "month": 1,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
+          "year": 2025,
+          "month": 3,
           "rarity": 5,
           "cost": 300
         },
@@ -180234,12 +182087,6 @@
         {
           "year": 2024,
           "month": 11,
-          "rarity": 5,
-          "cost": 300
-        },
-        {
-          "year": 2023,
-          "month": 4,
           "rarity": 5,
           "cost": 300
         }
@@ -180433,6 +182280,12 @@
       ],
       "limited": [
         {
+          "year": 2023,
+          "month": 11,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
           "year": 2024,
           "month": 3,
           "rarity": 4,
@@ -180445,8 +182298,8 @@
           "cost": 100
         },
         {
-          "year": 2023,
-          "month": 11,
+          "year": 2021,
+          "month": 6,
           "rarity": 4,
           "cost": 100
         },
@@ -180457,10 +182310,10 @@
           "cost": 100
         },
         {
-          "year": 2021,
-          "month": 6,
-          "rarity": 4,
-          "cost": 100
+          "year": 2023,
+          "month": 4,
+          "rarity": 5,
+          "cost": 300
         },
         {
           "year": 2022,
@@ -180481,8 +182334,20 @@
           "cost": 300
         },
         {
+          "year": 2025,
+          "month": 3,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
           "year": 2023,
           "month": 1,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
+          "year": 2025,
+          "month": 3,
           "rarity": 5,
           "cost": 300
         },
@@ -180501,12 +182366,6 @@
         {
           "year": 2024,
           "month": 11,
-          "rarity": 5,
-          "cost": 300
-        },
-        {
-          "year": 2023,
-          "month": 4,
           "rarity": 5,
           "cost": 300
         }
@@ -181440,6 +183299,12 @@
           "month": 9,
           "rarity": 4,
           "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 1,
+          "rarity": 4,
+          "cost": 100
         }
       ]
     }
@@ -181547,16 +183412,27 @@
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "flrwo": {
-      "gsp": 3
+      "gsp": 3,
+      "ldc": 4
     },
     "flrfi": {
-      "gsp": 5
+      "gsp": 5,
+      "ldc": 5
     },
-    "divine_codes": {}
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2025,
+          "month": 1,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_軍師の雷書_指",
@@ -183554,6 +185430,12 @@
           "month": 5,
           "rarity": 5,
           "cost": 300
+        },
+        {
+          "year": 2025,
+          "month": 2,
+          "rarity": 5,
+          "cost": 300
         }
       ]
     }
@@ -183610,6 +185492,12 @@
         {
           "year": 2023,
           "month": 5,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
+          "year": 2025,
+          "month": 2,
           "rarity": 5,
           "cost": 300
         }
@@ -184674,8 +186562,26 @@
           "cost": 100
         },
         {
+          "year": 2025,
+          "month": 3,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 2,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
           "year": 2023,
           "month": 5,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
+          "year": 2025,
+          "month": 2,
           "rarity": 5,
           "cost": 300
         }
@@ -184702,18 +186608,35 @@
       "ssp": false,
       "hg": true,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "flrwo": {
       "gsp": 3,
-      "hg": 3
+      "hg": 3,
+      "ldc": 4
     },
     "flrfi": {
       "gsp": 2,
-      "hg": 2
+      "hg": 2,
+      "ldc": 2
     },
-    "divine_codes": {}
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2025,
+          "month": 3,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 2,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_魔防の威嚇3",
@@ -184735,18 +186658,35 @@
       "ssp": false,
       "hg": true,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "flrwo": {
       "gsp": 3,
-      "hg": 3
+      "hg": 3,
+      "ldc": 4
     },
     "flrfi": {
       "gsp": 4,
-      "hg": 4
+      "hg": 4,
+      "ldc": 4
     },
-    "divine_codes": {}
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2025,
+          "month": 3,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 2,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_速さの威嚇1",
@@ -185193,14 +187133,14 @@
           "cost": 100
         },
         {
-          "year": 2023,
-          "month": 12,
+          "year": 2020,
+          "month": 11,
           "rarity": 4,
           "cost": 100
         },
         {
-          "year": 2020,
-          "month": 11,
+          "year": 2025,
+          "month": 1,
           "rarity": 4,
           "cost": 100
         },
@@ -185295,6 +187235,18 @@
           "cost": 100
         },
         {
+          "year": 2023,
+          "month": 12,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2024,
+          "month": 8,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
           "year": 2024,
           "month": 8,
           "rarity": 5,
@@ -185303,12 +187255,6 @@
         {
           "year": 2021,
           "month": 2,
-          "rarity": 5,
-          "cost": 300
-        },
-        {
-          "year": 2024,
-          "month": 8,
           "rarity": 5,
           "cost": 300
         },
@@ -187373,6 +189319,12 @@
           "cost": 100
         },
         {
+          "year": 2025,
+          "month": 3,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
           "year": 2020,
           "month": 7,
           "rarity": 4,
@@ -187471,6 +189423,12 @@
           "cost": 100
         },
         {
+          "year": 2025,
+          "month": 3,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
           "year": 2020,
           "month": 7,
           "rarity": 4,
@@ -187565,6 +189523,12 @@
         {
           "year": 2022,
           "month": 7,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 3,
           "rarity": 4,
           "cost": 100
         },
@@ -188232,6 +190196,35 @@
     },
     "flrwo": {},
     "flrfi": {},
+    "divine_codes": {}
+  },
+  {
+    "id": "SID_ツインストライク",
+    "fodder_ids": [
+      "PID_紋章エイリーク"
+    ],
+    "fodder": {
+      "g4": 1,
+      "hg": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 1,
+      "shsr": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "flrwo": {
+      "foc": 5
+    },
+    "flrfi": {
+      "foc": 5
+    },
     "divine_codes": {}
   },
   {
@@ -191731,6 +193724,12 @@
           "month": 11,
           "rarity": 4,
           "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 3,
+          "rarity": 4,
+          "cost": 100
         }
       ]
     }
@@ -192549,6 +194548,12 @@
           "cost": 100
         },
         {
+          "year": 2024,
+          "month": 5,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
           "year": 2022,
           "month": 3,
           "rarity": 4,
@@ -192585,12 +194590,6 @@
           "cost": 100
         },
         {
-          "year": 2024,
-          "month": 5,
-          "rarity": 4,
-          "cost": 100
-        },
-        {
           "year": 2021,
           "month": 10,
           "rarity": 5,
@@ -192599,6 +194598,12 @@
         {
           "year": 2024,
           "month": 4,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
+          "year": 2025,
+          "month": 2,
           "rarity": 5,
           "cost": 300
         }
@@ -195613,6 +197618,12 @@
           "cost": 100
         },
         {
+          "year": 2025,
+          "month": 2,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
           "year": 2021,
           "month": 6,
           "rarity": 4,
@@ -195662,6 +197673,12 @@
         },
         {
           "year": 2023,
+          "month": 1,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
+          "year": 2025,
           "month": 1,
           "rarity": 5,
           "cost": 300
@@ -198194,6 +200211,12 @@
           "month": 5,
           "rarity": 4,
           "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 1,
+          "rarity": 4,
+          "cost": 100
         }
       ]
     }
@@ -198263,6 +200286,12 @@
           "month": 5,
           "rarity": 4,
           "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 1,
+          "rarity": 4,
+          "cost": 100
         }
       ]
     }
@@ -198330,6 +200359,12 @@
         {
           "year": 2021,
           "month": 5,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 1,
           "rarity": 4,
           "cost": 100
         }

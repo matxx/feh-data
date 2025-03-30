@@ -1984,6 +1984,10 @@
     "description": "If unit initiates combat or is within 2 spaces of an ally, grants Atk/Spd+5 to unit during combat and unit deals +7 damage.<br>If a Rally or movement Assist skill (like Reposition, Shove, Pivot, etc.) is used by unit or targets unit, grants Atk/Spd+6 to unit and target ally or unit and targeting ally for 1 turn and restores 10 HP to both. At start of combat, if foe's HP ≥ 75%, grants Atk/Spd+5 to unit during combat."
   },
   {
+    "id": "SID_碧き風空の剣",
+    "description": "Accelerates Special trigger (cooldown count-1).<br><br>At start of turn, if unit is within 2 spaces of an ally, grants【Empathy】and the following status to unit and allies within 2 spaces for 1 turn: \"grants Special cooldown charge +1 per attack during combat (only highest value applied; does not stack).\"<br><br>If unit initiates combat or if unit is within 2 spaces of an ally, grants bonus to unit's Atk/Spd/Def/Res = number of allies within 3 rows or 3 columns centered on unit × 3, + 5 (max 14), deals damage = 20% of unit's Spd (excluding area-of-effect Specials), reduces damage from foe's first attack by 20% of unit's Spd (\"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes), and neutralizes effects that guarantee foe's follow-up attacks and effects that prevent unit's follow-up attacks during combat.<br><br>Unit can use the following【Style】:<br>――――― Wind Sword Style ―――――<br>Unit can attack foes 2 spaces away (unit cannot attack adjacent foes). Calculates damage using the lower of foe's Def or Res during combat (excluding area-of-effect Specials).<br><br>Unit suffers a counterattack if any of the following conditions are met: foe is armored with Range = 1, foe can counterattack regardless of unit's range, or foe's Range is the same as the distance between unit and foe.<br><br>After-combat movement effects do not occur. Skill effect's Range is treated as 1, including by skill effects determined by attack Range, like Pavise and Aegis. This Style can be used only once per turn.<br>――――――――――――――――――――<br><br>【Empathy】<br>Grants bonus to unit's Atk/Spd/Def/Res = number of types of Bonus effects, excluding stat bonuses, and Penalty effects, excluding stat penalties, active on player team and enemy team during combat (max 7).<br><br>【Style】<br>Change Style using the Style button at the bottom of the screen.<br><br>A unit's Style is only active when that unit is taking an action. When unit is equipped with a skill that has a Style, unit will not be able to use skills like Duo Skills or Harmonized Skills. Style use is disabled when unit is deployed using Pair Up or when unit is equipped with multiple skills that have a Style."
+  },
+  {
     "id": "SID_青の死闘・騎馬1",
     "description": "Grants HP+3. If unit is 5★ and level 40 and unit's stats total less than 160, treats unit's stats as 160 in modes like Arena. (Higher-scoring opponents will appear. Stat total calculation excludes any values added by merges and skills.)"
   },
@@ -2634,6 +2638,22 @@
   {
     "id": "SID_蒼き獅子王",
     "description": "If unit's Def > foe's Def, reduces damage from attacks during combat and from area-of-effect Specials (excluding Røkkr area-of-effect Specials) by percentage=difference between stats × 4 (max 40%), and also if foe initiates combat, unit makes a guaranteed follow-up attack."
+  },
+  {
+    "id": "SID_蒼穹1",
+    "description": "If unit initiates combat or is within 2 spaces of an ally, grants Atk/Spd+2 to unit, unit deals +X damage (excluding area-of-effect Specials), and reduces damage from foe's first attack by X during combat (X = number of allies within 3 rows or 3 columns centered on unit; max 2; \"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes)."
+  },
+  {
+    "id": "SID_蒼穹2",
+    "description": "If unit initiates combat or is within 2 spaces of an ally, grants Atk/Spd+4 to unit, unit deals +X damage (excluding area-of-effect Specials), and reduces damage from foe's first attack by X during combat (X = number of allies within 3 rows or 3 columns centered on unit × 2; max 4; \"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes)."
+  },
+  {
+    "id": "SID_蒼穹3",
+    "description": "If unit initiates combat or is within 2 spaces of an ally, grants Atk/Spd+6 to unit, unit deals +X damage (excluding area-of-effect Specials), and reduces damage from foe's first attack by X during combat (X = number of allies within 3 rows or 3 columns centered on unit × 2; max 6; \"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes)."
+  },
+  {
+    "id": "SID_蒼穹4",
+    "description": "Enables【Canto (２)】.<br><br>If unit initiates combat or is within 2 spaces of an ally, grants Atk/Spd+8 to unit, unit deals +X damage (excluding area-of-effect Specials), and reduces damage from foe's first attack by X during combat (X = number of allies within 3 rows or 3 columns centered on unit × 2, + 2; max 8; \"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes).<br><br>【Canto (２)】<br>After an attack, Assist skill, or structure destruction, unit can move ２ space(s).<br><br>(Unit moves according to movement type. Once per turn. Cannot attack or assist. Only highest value applied. Does not stack. After moving, if a skill that grants another action would be triggered (like with Galeforce), Canto will trigger after the granted action. Unit's base movement has no effect on movement granted. Cannot warp (using skills like Wings of Mercy) a distance greater than unit would be able to move with normal Canto movement.)"
   },
   {
     "id": "SID_青獅子の聖夜の斧",
@@ -16378,6 +16398,10 @@
   {
     "id": "SID_業火の双斧_一",
     "description": "Inflicts Spd-5 and grants Atk/Def/Res+5. Unit attacks twice. (Even if foe initiates combat, unit attacks twice). Grants Atk+X to unit, inflicts Atk-X on foe, and unit makes a guaranteed follow-up attack during combat (X = highest total bonuses among unit and allies within 3 spaces of unit).<br>Enables【Canto (２)】.<br><br>At start of turn, if unit is within 2 spaces of an ally, grants Atk/Def+6, \"neutralizes foe's bonuses during combat,\" and【Null Panic】 to unit and allies within 2 spaces of unit for 1 turn.<br><br>If unit is within 3 spaces of an ally, grants Atk+6 to unit, inflicts Atk-6 on foe, and reduces the percentage of foe's non-Special \"reduce damage by X%\" skills by 50% during combat (excluding area-of-effect Specials), and restores 7 HP to unit after combat.<br><br>【Canto (２)】<br>After an attack, Assist skill, or structure destruction, unit can move ２ space(s).<br><br>(Unit moves according to movement type. Once per turn. Cannot attack or assist. Only highest value applied. Does not stack. After moving, if a skill that grants another action would be triggered (like with Galeforce), Canto will trigger after the granted action. Unit's base movement has no effect on movement granted. Cannot warp (using skills like Wings of Mercy) a distance greater than unit would be able to move with normal Canto movement.)<br><br>【Null Panic】<br>If unit is inflicted with Panic (bonuses converted into penalties), neutralizes the \"converts bonuses on target into penalties\" effect for 1 turn. (Even though the effect is neutralized, the Panic status remains, and is treated as a Penalty status.)"
+  },
+  {
+    "id": "SID_ツインストライク",
+    "description": "Boosts damage by 60% of unit's Spd when Special triggers.<br><br>Unit attacks twice (even if foe initiates combat, unit attacks twice) and neutralizes effects that inflict \"Special cooldown charge -X\" on unit during combat.<br><br>If unit's or foe's Special is ready or triggered before or during this combat, reduces damage from foe's next attack by 40% (once per combat; excluding area-of-effect Specials)."
   },
   {
     "id": "SID_双紋章の力",
