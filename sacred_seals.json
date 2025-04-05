@@ -3575,6 +3575,54 @@
     }
   },
   {
+    "id": "SID_第93迷宮の覇者1",
+    "game8_id": null,
+    "name": "Squad Ace CO 1",
+    "group_name": "Squad Ace CO",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/5a/Squad_Ace_BU_1.png/revision/latest?cb=20230807011820",
+    "sp": 120,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "none": true
+      }
+    }
+  },
+  {
+    "id": "SID_第93迷宮の覇者2",
+    "game8_id": null,
+    "name": "Squad Ace CO 2",
+    "group_name": "Squad Ace CO",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/bf/Squad_Ace_BU_2.png/revision/latest?cb=20230807011829",
+    "sp": 180,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "none": true
+      }
+    }
+  },
+  {
+    "id": "SID_第93迷宮の覇者3",
+    "game8_id": null,
+    "name": "Squad Ace CO 3",
+    "group_name": "Squad Ace CO",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/14/Squad_Ace_BU_3.png/revision/latest?cb=20230807011840",
+    "sp": 240,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "none": true
+      }
+    }
+  },
+  {
     "id": "SID_第4迷宮の覇者1",
     "game8_id": null,
     "name": "Squad Ace D 1",
@@ -4696,7 +4744,7 @@
   },
   {
     "id": "SID_曲技飛行1",
-    "game8_id": null,
+    "game8_id": "266334",
     "name": "Aerobatics 1",
     "group_name": "Aerobatics",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/a6/Aerobatics_1.png/revision/latest?cb=20180810072735",
@@ -4714,7 +4762,7 @@
   },
   {
     "id": "SID_曲技飛行2",
-    "game8_id": null,
+    "game8_id": "266335",
     "name": "Aerobatics 2",
     "group_name": "Aerobatics",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/0f/Aerobatics_2.png/revision/latest?cb=20180810072736",
@@ -4750,7 +4798,7 @@
   },
   {
     "id": "SID_先導の伝令・天1",
-    "game8_id": null,
+    "game8_id": "266554",
     "name": "Air Orders 1",
     "group_name": "Air Orders",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/dd/Air_Orders_1.png/revision/latest?cb=20190322050231",
@@ -4768,7 +4816,7 @@
   },
   {
     "id": "SID_先導の伝令・天2",
-    "game8_id": null,
+    "game8_id": "266555",
     "name": "Air Orders 2",
     "group_name": "Air Orders",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/4e/Air_Orders_2.png/revision/latest?cb=20190322050233",
@@ -4804,7 +4852,7 @@
   },
   {
     "id": "SID_重装の行軍1",
-    "game8_id": null,
+    "game8_id": "266579",
     "name": "Armor March 1",
     "group_name": "Armor March",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/2/24/Armor_March_1.png/revision/latest?cb=20180810072742",
@@ -4822,7 +4870,7 @@
   },
   {
     "id": "SID_重装の行軍2",
-    "game8_id": null,
+    "game8_id": "266580",
     "name": "Armor March 2",
     "group_name": "Armor March",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e8/Armor_March_2.png/revision/latest?cb=20180810072744",
@@ -4858,7 +4906,7 @@
   },
   {
     "id": "SID_金剛の一撃1",
-    "game8_id": null,
+    "game8_id": "266101",
     "name": "Armored Blow 1",
     "group_name": "Armored Blow",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/03/Armored_Blow_1.png/revision/latest?cb=20180810071149",
@@ -4876,7 +4924,7 @@
   },
   {
     "id": "SID_金剛の一撃2",
-    "game8_id": null,
+    "game8_id": "266102",
     "name": "Armored Blow 2",
     "group_name": "Armored Blow",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/fa/Armored_Blow_2.png/revision/latest?cb=20180810071150",
@@ -4912,7 +4960,7 @@
   },
   {
     "id": "SID_一斉突撃1",
-    "game8_id": null,
+    "game8_id": "379604",
     "name": "Assault Troop 1",
     "group_name": "Assault Troop",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/cc/Assault_Troop_1.png/revision/latest?cb=20220617045413",
@@ -4930,7 +4978,7 @@
   },
   {
     "id": "SID_一斉突撃2",
-    "game8_id": null,
+    "game8_id": "379603",
     "name": "Assault Troop 2",
     "group_name": "Assault Troop",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/2/28/Assault_Troop_2.png/revision/latest?cb=20220617045416",
@@ -4966,7 +5014,7 @@
   },
   {
     "id": "SID_攻撃の共謀1",
-    "game8_id": null,
+    "game8_id": "266308",
     "name": "Atk Feint 1",
     "group_name": "Atk Feint",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/7a/Atk_Feint_1.png/revision/latest?cb=20190322050131",
@@ -4984,7 +5032,7 @@
   },
   {
     "id": "SID_攻撃の共謀2",
-    "game8_id": null,
+    "game8_id": "266309",
     "name": "Atk Feint 2",
     "group_name": "Atk Feint",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/44/Atk_Feint_2.png/revision/latest?cb=20190322050129",
@@ -5020,7 +5068,7 @@
   },
   {
     "id": "SID_攻撃の開放1",
-    "game8_id": null,
+    "game8_id": "266558",
     "name": "Atk Opening 1",
     "group_name": "Atk Opening",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d8/Atk_Opening_1.png/revision/latest?cb=20190322050944",
@@ -5036,7 +5084,7 @@
   },
   {
     "id": "SID_攻撃の開放2",
-    "game8_id": null,
+    "game8_id": "266559",
     "name": "Atk Opening 2",
     "group_name": "Atk Opening",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/35/Atk_Opening_2.png/revision/latest?cb=20190322051007",
@@ -5068,7 +5116,7 @@
   },
   {
     "id": "SID_攻撃の謀策1",
-    "game8_id": null,
+    "game8_id": "266582",
     "name": "Atk Ploy 1",
     "group_name": "Atk Ploy",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/91/Atk_Ploy_1.png/revision/latest?cb=20180810071208",
@@ -5084,7 +5132,7 @@
   },
   {
     "id": "SID_攻撃の謀策2",
-    "game8_id": null,
+    "game8_id": "266583",
     "name": "Atk Ploy 2",
     "group_name": "Atk Ploy",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/ce/Atk_Ploy_2.png/revision/latest?cb=20180810071211",
@@ -5116,7 +5164,7 @@
   },
   {
     "id": "SID_攻撃の紫煙1",
-    "game8_id": null,
+    "game8_id": "266585",
     "name": "Atk Smoke 1",
     "group_name": "Atk Smoke",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/73/Atk_Smoke_1.png/revision/latest?cb=20180810071219",
@@ -5134,7 +5182,7 @@
   },
   {
     "id": "SID_攻撃の紫煙2",
-    "game8_id": null,
+    "game8_id": "266586",
     "name": "Atk Smoke 2",
     "group_name": "Atk Smoke",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/ba/Atk_Smoke_2.png/revision/latest?cb=20180810071222",
@@ -5170,7 +5218,7 @@
   },
   {
     "id": "SID_攻撃の指揮1",
-    "game8_id": null,
+    "game8_id": "266589",
     "name": "Atk Tactic 1",
     "group_name": "Atk Tactic",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/0f/Atk_Tactic_1.png/revision/latest?cb=20180810071236",
@@ -5186,7 +5234,7 @@
   },
   {
     "id": "SID_攻撃の指揮2",
-    "game8_id": null,
+    "game8_id": "266590",
     "name": "Atk Tactic 2",
     "group_name": "Atk Tactic",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/93/Atk_Tactic_2.png/revision/latest?cb=20180810071237",
@@ -5218,7 +5266,7 @@
   },
   {
     "id": "SID_攻撃守備の絆1",
-    "game8_id": null,
+    "game8_id": "266106",
     "name": "Atk/Def Bond 1",
     "group_name": "Atk/Def Bond",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/3a/Atk_Def_Bond_1.png/revision/latest?cb=20180810071156",
@@ -5234,7 +5282,7 @@
   },
   {
     "id": "SID_攻撃守備の絆2",
-    "game8_id": null,
+    "game8_id": "266107",
     "name": "Atk/Def Bond 2",
     "group_name": "Atk/Def Bond",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/7f/Atk_Def_Bond_2.png/revision/latest?cb=20180810071158",
@@ -5266,7 +5314,7 @@
   },
   {
     "id": "SID_攻撃守備の機先1",
-    "game8_id": null,
+    "game8_id": "329301",
     "name": "Atk/Def Catch 1",
     "group_name": "Atk/Def Catch",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/5a/Atk_Def_Catch_1.png/revision/latest?cb=20210428074855",
@@ -5285,7 +5333,7 @@
   },
   {
     "id": "SID_攻撃守備の機先2",
-    "game8_id": null,
+    "game8_id": "329300",
     "name": "Atk/Def Catch 2",
     "group_name": "Atk/Def Catch",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e9/Atk_Def_Catch_2.png/revision/latest?cb=20210428074905",
@@ -5323,7 +5371,7 @@
   },
   {
     "id": "SID_攻撃守備の激突1",
-    "game8_id": null,
+    "game8_id": "389199",
     "name": "Atk/Def Clash 1",
     "group_name": "Atk/Def Clash",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b2/Atk_Def_Clash_1.png/revision/latest?cb=20220916013350",
@@ -5345,7 +5393,7 @@
   },
   {
     "id": "SID_攻撃守備の激突2",
-    "game8_id": null,
+    "game8_id": "389200",
     "name": "Atk/Def Clash 2",
     "group_name": "Atk/Def Clash",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/0e/Atk_Def_Clash_2.png/revision/latest?cb=20220916013401",
@@ -5389,7 +5437,7 @@
   },
   {
     "id": "SID_攻撃守備の秘奥1",
-    "game8_id": null,
+    "game8_id": "418364",
     "name": "Atk/Def Finish 1",
     "group_name": "Atk/Def Finish",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c7/Atk_Def_Finish_1.png/revision/latest?cb=20230718044213",
@@ -5407,7 +5455,7 @@
   },
   {
     "id": "SID_攻撃守備の秘奥2",
-    "game8_id": null,
+    "game8_id": "418363",
     "name": "Atk/Def Finish 2",
     "group_name": "Atk/Def Finish",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/7b/Atk_Def_Finish_2.png/revision/latest?cb=20230718044223",
@@ -5443,7 +5491,7 @@
   },
   {
     "id": "SID_攻撃守備の密集1",
-    "game8_id": null,
+    "game8_id": "275198",
     "name": "Atk/Def Form 1",
     "group_name": "Atk/Def Form",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/6d/Atk_Def_Form_1.png/revision/latest?cb=20191205102920",
@@ -5459,7 +5507,7 @@
   },
   {
     "id": "SID_攻撃守備の密集2",
-    "game8_id": null,
+    "game8_id": "275199",
     "name": "Atk/Def Form 2",
     "group_name": "Atk/Def Form",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/6d/Atk_Def_Form_2.png/revision/latest?cb=20191205102930",
@@ -5491,7 +5539,7 @@
   },
   {
     "id": "SID_攻撃守備の万全1",
-    "game8_id": null,
+    "game8_id": "330519",
     "name": "Atk/Def Ideal 1",
     "group_name": "Atk/Def Ideal",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/2/22/Atk_Def_Ideal_1.png/revision/latest?cb=20210506173654",
@@ -5510,7 +5558,7 @@
   },
   {
     "id": "SID_攻撃守備の万全2",
-    "game8_id": null,
+    "game8_id": "330520",
     "name": "Atk/Def Ideal 2",
     "group_name": "Atk/Def Ideal",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b4/Atk_Def_Ideal_2.png/revision/latest?cb=20210506173704",
@@ -5548,7 +5596,7 @@
   },
   {
     "id": "SID_攻撃守備の信義1",
-    "game8_id": null,
+    "game8_id": "275219",
     "name": "Atk/Def Oath 1",
     "group_name": "Atk/Def Oath",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/61/Atk_Def_Oath_1.png/revision/latest?cb=20191128202610",
@@ -5567,7 +5615,7 @@
   },
   {
     "id": "SID_攻撃守備の信義2",
-    "game8_id": null,
+    "game8_id": "275220",
     "name": "Atk/Def Oath 2",
     "group_name": "Atk/Def Oath",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/44/Atk_Def_Oath_2.png/revision/latest?cb=20191128202620",
@@ -5605,7 +5653,7 @@
   },
   {
     "id": "SID_攻撃守備の備え1",
-    "game8_id": null,
+    "game8_id": "436725",
     "name": "Atk/Def Prime 1",
     "group_name": "Atk/Def Prime",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/99/Atk_Def_Prime_1.png/revision/latest?cb=20231214050121",
@@ -5625,7 +5673,7 @@
   },
   {
     "id": "SID_攻撃守備の備え2",
-    "game8_id": null,
+    "game8_id": "436724",
     "name": "Atk/Def Prime 2",
     "group_name": "Atk/Def Prime",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/fc/Atk_Def_Prime_2.png/revision/latest?cb=20231214050130",
@@ -5665,7 +5713,7 @@
   },
   {
     "id": "SID_攻撃守備の渾身1",
-    "game8_id": null,
+    "game8_id": "266095",
     "name": "Atk/Def Push 1",
     "group_name": "Atk/Def Push",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/da/Atk_Def_Push_1.png/revision/latest?cb=20190319053306",
@@ -5681,7 +5729,7 @@
   },
   {
     "id": "SID_攻撃守備の渾身2",
-    "game8_id": null,
+    "game8_id": "266096",
     "name": "Atk/Def Push 2",
     "group_name": "Atk/Def Push",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e0/Atk_Def_Push_2.png/revision/latest?cb=20190319053307",
@@ -5713,7 +5761,7 @@
   },
   {
     "id": "SID_攻撃守備の孤軍1",
-    "game8_id": null,
+    "game8_id": "266084",
     "name": "Atk/Def Solo 1",
     "group_name": "Atk/Def Solo",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e3/Atk_Def_Solo_1.png/revision/latest?cb=20200107041156",
@@ -5729,7 +5777,7 @@
   },
   {
     "id": "SID_攻撃守備の孤軍2",
-    "game8_id": null,
+    "game8_id": "266085",
     "name": "Atk/Def Solo 2",
     "group_name": "Atk/Def Solo",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/2/2a/Atk_Def_Solo_2.png/revision/latest?cb=20200107041139",
@@ -5761,7 +5809,7 @@
   },
   {
     "id": "SID_攻撃魔防の絆1",
-    "game8_id": null,
+    "game8_id": "266109",
     "name": "Atk/Res Bond 1",
     "group_name": "Atk/Res Bond",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f4/Atk_Res_Bond_1.png/revision/latest?cb=20180810071215",
@@ -5777,7 +5825,7 @@
   },
   {
     "id": "SID_攻撃魔防の絆2",
-    "game8_id": null,
+    "game8_id": "266110",
     "name": "Atk/Res Bond 2",
     "group_name": "Atk/Res Bond",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/62/Atk_Res_Bond_2.png/revision/latest?cb=20180810071216",
@@ -5809,7 +5857,7 @@
   },
   {
     "id": "SID_攻撃魔防の機先1",
-    "game8_id": null,
+    "game8_id": "342532",
     "name": "Atk/Res Catch 1",
     "group_name": "Atk/Res Catch",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/37/Atk_Res_Catch_1.png/revision/latest?cb=20210917075852",
@@ -5828,7 +5876,7 @@
   },
   {
     "id": "SID_攻撃魔防の機先2",
-    "game8_id": null,
+    "game8_id": "342531",
     "name": "Atk/Res Catch 2",
     "group_name": "Atk/Res Catch",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/bf/Atk_Res_Catch_2.png/revision/latest?cb=20210917075902",
@@ -5866,7 +5914,7 @@
   },
   {
     "id": "SID_攻撃魔防の秘奥1",
-    "game8_id": null,
+    "game8_id": "385537",
     "name": "Atk/Res Finish 1",
     "group_name": "Atk/Res Finish",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e1/Atk_Res_Finish_1.png/revision/latest?cb=20220817042801",
@@ -5884,7 +5932,7 @@
   },
   {
     "id": "SID_攻撃魔防の秘奥2",
-    "game8_id": null,
+    "game8_id": "385538",
     "name": "Atk/Res Finish 2",
     "group_name": "Atk/Res Finish",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/62/Atk_Res_Finish_2.png/revision/latest?cb=20220817042811",
@@ -5920,7 +5968,7 @@
   },
   {
     "id": "SID_攻撃魔防の密集1",
-    "game8_id": null,
+    "game8_id": "304720",
     "name": "Atk/Res Form 1",
     "group_name": "Atk/Res Form",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/ab/Atk_Res_Form_1.png/revision/latest?cb=20201007015807",
@@ -5936,7 +5984,7 @@
   },
   {
     "id": "SID_攻撃魔防の密集2",
-    "game8_id": null,
+    "game8_id": "304719",
     "name": "Atk/Res Form 2",
     "group_name": "Atk/Res Form",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/5e/Atk_Res_Form_2.png/revision/latest?cb=20201007015817",
@@ -5968,7 +6016,7 @@
   },
   {
     "id": "SID_攻撃魔防の万全1",
-    "game8_id": null,
+    "game8_id": "333029",
     "name": "Atk/Res Ideal 1",
     "group_name": "Atk/Res Ideal",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/3d/Atk_Res_Ideal_1.png/revision/latest?cb=20210531085500",
@@ -5987,7 +6035,7 @@
   },
   {
     "id": "SID_攻撃魔防の万全2",
-    "game8_id": null,
+    "game8_id": "333028",
     "name": "Atk/Res Ideal 2",
     "group_name": "Atk/Res Ideal",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/9a/Atk_Res_Ideal_2.png/revision/latest?cb=20210531085510",
@@ -6025,7 +6073,7 @@
   },
   {
     "id": "SID_攻撃魔防の信義1",
-    "game8_id": null,
+    "game8_id": "269169",
     "name": "Atk/Res Oath 1",
     "group_name": "Atk/Res Oath",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/5a/Atk_Res_Oath_1.png/revision/latest?cb=20190828225625",
@@ -6044,7 +6092,7 @@
   },
   {
     "id": "SID_攻撃魔防の信義2",
-    "game8_id": null,
+    "game8_id": "269170",
     "name": "Atk/Res Oath 2",
     "group_name": "Atk/Res Oath",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f3/Atk_Res_Oath_2.png/revision/latest?cb=20190828225629",
@@ -6082,7 +6130,7 @@
   },
   {
     "id": "SID_攻撃魔防の渾身1",
-    "game8_id": null,
+    "game8_id": "267877",
     "name": "Atk/Res Push 1",
     "group_name": "Atk/Res Push",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d2/Atk_Res_Push_1.png/revision/latest?cb=20190610045613",
@@ -6098,7 +6146,7 @@
   },
   {
     "id": "SID_攻撃魔防の渾身2",
-    "game8_id": null,
+    "game8_id": "267878",
     "name": "Atk/Res Push 2",
     "group_name": "Atk/Res Push",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/dc/Atk_Res_Push_2.png/revision/latest?cb=20190610045736",
@@ -6130,7 +6178,7 @@
   },
   {
     "id": "SID_攻撃魔防の牽制1",
-    "game8_id": null,
+    "game8_id": "297571",
     "name": "Atk/Res Rein 1",
     "group_name": "Atk/Res Rein",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/3b/Atk_Res_Rein_1.png/revision/latest?cb=20200930083619",
@@ -6148,7 +6196,7 @@
   },
   {
     "id": "SID_攻撃魔防の牽制2",
-    "game8_id": null,
+    "game8_id": "297570",
     "name": "Atk/Res Rein 2",
     "group_name": "Atk/Res Rein",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/04/Atk_Res_Rein_2.png/revision/latest?cb=20200930083629",
@@ -6184,7 +6232,7 @@
   },
   {
     "id": "SID_攻撃魔防の孤軍1",
-    "game8_id": null,
+    "game8_id": "266112",
     "name": "Atk/Res Solo 1",
     "group_name": "Atk/Res Solo",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/49/Atk_Res_Solo_1.png/revision/latest?cb=20180914070118",
@@ -6200,7 +6248,7 @@
   },
   {
     "id": "SID_攻撃魔防の孤軍2",
-    "game8_id": null,
+    "game8_id": "266113",
     "name": "Atk/Res Solo 2",
     "group_name": "Atk/Res Solo",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/32/Atk_Res_Solo_2.png/revision/latest?cb=20180914070124",
@@ -6232,7 +6280,7 @@
   },
   {
     "id": "SID_攻撃速さ1",
-    "game8_id": null,
+    "game8_id": "266115",
     "name": "Atk/Spd 1",
     "group_name": "Atk/Spd",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/2/26/Atk_Spd_1.png/revision/latest?cb=20180810071227",
@@ -6264,7 +6312,7 @@
   },
   {
     "id": "SID_攻撃速さの絆1",
-    "game8_id": null,
+    "game8_id": "266117",
     "name": "Atk/Spd Bond 1",
     "group_name": "Atk/Spd Bond",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/9f/Atk_Spd_Bond_1.png/revision/latest?cb=20180810071230",
@@ -6280,7 +6328,7 @@
   },
   {
     "id": "SID_攻撃速さの絆2",
-    "game8_id": null,
+    "game8_id": "266118",
     "name": "Atk/Spd Bond 2",
     "group_name": "Atk/Spd Bond",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b5/Atk_Spd_Bond_2.png/revision/latest?cb=20180810071232",
@@ -6312,7 +6360,7 @@
   },
   {
     "id": "SID_攻撃速さの機先1",
-    "game8_id": null,
+    "game8_id": "321051",
     "name": "Atk/Spd Catch 1",
     "group_name": "Atk/Spd Catch",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d1/Atk_Spd_Catch_1.png/revision/latest?cb=20210226073821",
@@ -6331,7 +6379,7 @@
   },
   {
     "id": "SID_攻撃速さの機先2",
-    "game8_id": null,
+    "game8_id": "321049",
     "name": "Atk/Spd Catch 2",
     "group_name": "Atk/Spd Catch",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/a1/Atk_Spd_Catch_2.png/revision/latest?cb=20210226073831",
@@ -6369,7 +6417,7 @@
   },
   {
     "id": "SID_攻撃速さの激突1",
-    "game8_id": null,
+    "game8_id": "385541",
     "name": "Atk/Spd Clash 1",
     "group_name": "Atk/Spd Clash",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/46/Atk_Spd_Clash_1.png/revision/latest?cb=20220817042721",
@@ -6391,7 +6439,7 @@
   },
   {
     "id": "SID_攻撃速さの激突2",
-    "game8_id": null,
+    "game8_id": "385542",
     "name": "Atk/Spd Clash 2",
     "group_name": "Atk/Spd Clash",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/df/Atk_Spd_Clash_2.png/revision/latest?cb=20220817042731",
@@ -6435,7 +6483,7 @@
   },
   {
     "id": "SID_攻撃速さの秘奥1",
-    "game8_id": null,
+    "game8_id": "393012",
     "name": "Atk/Spd Finish 1",
     "group_name": "Atk/Spd Finish",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b9/Atk_Spd_Finish_1.png/revision/latest?cb=20221005005718",
@@ -6453,7 +6501,7 @@
   },
   {
     "id": "SID_攻撃速さの秘奥2",
-    "game8_id": null,
+    "game8_id": "393013",
     "name": "Atk/Spd Finish 2",
     "group_name": "Atk/Spd Finish",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/04/Atk_Spd_Finish_2.png/revision/latest?cb=20221005005728",
@@ -6471,7 +6519,7 @@
   },
   {
     "id": "SID_攻撃速さの秘奥3",
-    "game8_id": null,
+    "game8_id": "504243",
     "name": "Atk/Spd Finish 3",
     "group_name": "Atk/Spd Finish",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/ca/Atk_Spd_Finish_3.png/revision/latest?cb=20221005005738",
@@ -6489,7 +6537,7 @@
   },
   {
     "id": "SID_攻撃速さの密集1",
-    "game8_id": null,
+    "game8_id": "268990",
     "name": "Atk/Spd Form 1",
     "group_name": "Atk/Spd Form",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/65/Atk_Spd_Form_1.png/revision/latest?cb=20190807190217",
@@ -6505,7 +6553,7 @@
   },
   {
     "id": "SID_攻撃速さの密集2",
-    "game8_id": null,
+    "game8_id": "268991",
     "name": "Atk/Spd Form 2",
     "group_name": "Atk/Spd Form",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d3/Atk_Spd_Form_2.png/revision/latest?cb=20190807190208",
@@ -6537,7 +6585,7 @@
   },
   {
     "id": "SID_攻撃速さの万全1",
-    "game8_id": null,
+    "game8_id": "327127",
     "name": "Atk/Spd Ideal 1",
     "group_name": "Atk/Spd Ideal",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b6/Atk_Spd_Ideal_1.png/revision/latest?cb=20210405082303",
@@ -6556,7 +6604,7 @@
   },
   {
     "id": "SID_攻撃速さの万全2",
-    "game8_id": null,
+    "game8_id": "327126",
     "name": "Atk/Spd Ideal 2",
     "group_name": "Atk/Spd Ideal",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b6/Atk_Spd_Ideal_2.png/revision/latest?cb=20210405082313",
@@ -6594,7 +6642,7 @@
   },
   {
     "id": "SID_攻撃速さの信義1",
-    "game8_id": null,
+    "game8_id": "275329",
     "name": "Atk/Spd Oath 1",
     "group_name": "Atk/Spd Oath",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/09/Atk_Spd_Oath_1.png/revision/latest?cb=20191225045250",
@@ -6613,7 +6661,7 @@
   },
   {
     "id": "SID_攻撃速さの信義2",
-    "game8_id": null,
+    "game8_id": "275330",
     "name": "Atk/Spd Oath 2",
     "group_name": "Atk/Spd Oath",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/48/Atk_Spd_Oath_2.png/revision/latest?cb=20191225045300",
@@ -6651,7 +6699,7 @@
   },
   {
     "id": "SID_攻撃速さの備え1",
-    "game8_id": null,
+    "game8_id": "424425",
     "name": "Atk/Spd Prime 1",
     "group_name": "Atk/Spd Prime",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/bb/Atk_Spd_Prime_1.png/revision/latest?cb=20230906021632",
@@ -6671,7 +6719,7 @@
   },
   {
     "id": "SID_攻撃速さの備え2",
-    "game8_id": null,
+    "game8_id": "424426",
     "name": "Atk/Spd Prime 2",
     "group_name": "Atk/Spd Prime",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/6b/Atk_Spd_Prime_2.png/revision/latest?cb=20230906021643",
@@ -6711,7 +6759,7 @@
   },
   {
     "id": "SID_攻撃速さの渾身1",
-    "game8_id": null,
+    "game8_id": "266120",
     "name": "Atk/Spd Push 1",
     "group_name": "Atk/Spd Push",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/4c/Atk_Spd_Push_1.png/revision/latest?cb=20180810071152",
@@ -6727,7 +6775,7 @@
   },
   {
     "id": "SID_攻撃速さの渾身2",
-    "game8_id": null,
+    "game8_id": "266121",
     "name": "Atk/Spd Push 2",
     "group_name": "Atk/Spd Push",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/de/Atk_Spd_Push_2.png/revision/latest?cb=20180810071154",
@@ -6759,7 +6807,7 @@
   },
   {
     "id": "SID_攻撃速さの牽制1",
-    "game8_id": null,
+    "game8_id": "292803",
     "name": "Atk/Spd Rein 1",
     "group_name": "Atk/Spd Rein",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/7a/Atk_Spd_Rein_1.png/revision/latest?cb=20200819102023",
@@ -6777,7 +6825,7 @@
   },
   {
     "id": "SID_攻撃速さの牽制2",
-    "game8_id": null,
+    "game8_id": "292802",
     "name": "Atk/Spd Rein 2",
     "group_name": "Atk/Spd Rein",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/6f/Atk_Spd_Rein_2.png/revision/latest?cb=20200819102033",
@@ -6812,8 +6860,71 @@
     }
   },
   {
+    "id": "SID_攻撃速さの干渉1",
+    "game8_id": "327130",
+    "name": "Atk/Spd Snag 1",
+    "group_name": "Atk/Spd Snag",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/9c/Atk_Spd_Snag_1.png/revision/latest?cb=20210405082343",
+    "sp": 60,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Cavalry",
+          "Flying"
+        ]
+      },
+      "weapons": {
+        "can_not_use": [
+          "Colorless Staff"
+        ]
+      }
+    }
+  },
+  {
+    "id": "SID_攻撃速さの干渉2",
+    "game8_id": "327129",
+    "name": "Atk/Spd Snag 2",
+    "group_name": "Atk/Spd Snag",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d2/Atk_Spd_Snag_2.png/revision/latest?cb=20210405082353",
+    "sp": 120,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Cavalry",
+          "Flying"
+        ]
+      },
+      "weapons": {
+        "can_not_use": [
+          "Colorless Staff"
+        ]
+      }
+    }
+  },
+  {
+    "id": "SID_攻撃速さの干渉3",
+    "game8_id": "512837",
+    "name": "Atk/Spd Snag 3",
+    "group_name": "Atk/Spd Snag",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/a6/Atk_Spd_Snag_3.png/revision/latest?cb=20210405082403",
+    "sp": 240,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Cavalry",
+          "Flying"
+        ]
+      },
+      "weapons": {
+        "can_not_use": [
+          "Colorless Staff"
+        ]
+      }
+    }
+  },
+  {
     "id": "SID_攻撃速さの孤軍1",
-    "game8_id": null,
+    "game8_id": "266123",
     "name": "Atk/Spd Solo 1",
     "group_name": "Atk/Spd Solo",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/3e/Atk_Spd_Solo_1.png/revision/latest?cb=20200107040745",
@@ -6829,7 +6940,7 @@
   },
   {
     "id": "SID_攻撃速さの孤軍2",
-    "game8_id": null,
+    "game8_id": "266124",
     "name": "Atk/Spd Solo 2",
     "group_name": "Atk/Spd Solo",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/4c/Atk_Spd_Solo_2.png/revision/latest?cb=20200107040715",
@@ -6861,7 +6972,7 @@
   },
   {
     "id": "SID_攻撃1",
-    "game8_id": null,
+    "game8_id": "266126",
     "name": "Attack +1",
     "group_name": "Attack +",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e2/Attack_Plus_1.png/revision/latest?cb=20180810071244",
@@ -6877,7 +6988,7 @@
   },
   {
     "id": "SID_攻撃2",
-    "game8_id": null,
+    "game8_id": "266127",
     "name": "Attack +2",
     "group_name": "Attack +",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/7d/Attack_Plus_2.png/revision/latest?cb=20180810071245",
@@ -6925,7 +7036,7 @@
   },
   {
     "id": "SID_攻撃守備2",
-    "game8_id": null,
+    "game8_id": "266104",
     "name": "Attack/Def +2",
     "group_name": "Attack/Def +",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f8/Attack_Def_Plus_2.png/revision/latest?cb=20180810071242",
@@ -6941,7 +7052,7 @@
   },
   {
     "id": "SID_攻撃魔防1",
-    "game8_id": null,
+    "game8_id": "266130",
     "name": "Attack/Res 1",
     "group_name": "Attack/Res",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/67/Attack_Res_1.png/revision/latest?cb=20180810071248",
@@ -6973,7 +7084,7 @@
   },
   {
     "id": "SID_刃のセッション1",
-    "game8_id": null,
+    "game8_id": "275869",
     "name": "Blade Session 1",
     "group_name": "Blade Session",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/83/Blade_Session_1.png/revision/latest?cb=20200117052733",
@@ -6989,7 +7100,7 @@
   },
   {
     "id": "SID_刃のセッション2",
-    "game8_id": null,
+    "game8_id": "275870",
     "name": "Blade Session 2",
     "group_name": "Blade Session",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/74/Blade_Session_2.png/revision/latest?cb=20200117052743",
@@ -7021,7 +7132,7 @@
   },
   {
     "id": "SID_業火の舞い1",
-    "game8_id": null,
+    "game8_id": "266354",
     "name": "Blaze Dance 1",
     "group_name": "Blaze Dance",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e3/Blaze_Dance_1.png/revision/latest?cb=20180810071314",
@@ -7039,7 +7150,7 @@
   },
   {
     "id": "SID_業火の舞い2",
-    "game8_id": null,
+    "game8_id": "266355",
     "name": "Blaze Dance 2",
     "group_name": "Blaze Dance",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/64/Blaze_Dance_2.png/revision/latest?cb=20180810071315",
@@ -7075,7 +7186,7 @@
   },
   {
     "id": "SID_攻撃隊形1",
-    "game8_id": null,
+    "game8_id": "266357",
     "name": "Bold Fighter 1",
     "group_name": "Bold Fighter",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/93/Bold_Fighter_1.png/revision/latest?cb=20180810071318",
@@ -7093,7 +7204,7 @@
   },
   {
     "id": "SID_攻撃隊形2",
-    "game8_id": null,
+    "game8_id": "266358",
     "name": "Bold Fighter 2",
     "group_name": "Bold Fighter",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f9/Bold_Fighter_2.png/revision/latest?cb=20180810071319",
@@ -7129,7 +7240,7 @@
   },
   {
     "id": "SID_強化増幅1",
-    "game8_id": null,
+    "game8_id": "266081",
     "name": "Bonus Doubler 1",
     "group_name": "Bonus Doubler",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/60/Bonus_Doubler_1.png/revision/latest?cb=20190227053506",
@@ -7147,7 +7258,7 @@
   },
   {
     "id": "SID_強化増幅2",
-    "game8_id": null,
+    "game8_id": "266082",
     "name": "Bonus Doubler 2",
     "group_name": "Bonus Doubler",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/dd/Bonus_Doubler_2.png/revision/latest?cb=20190227053513",
@@ -7183,7 +7294,7 @@
   },
   {
     "id": "SID_金剛明鏡の一撃1",
-    "game8_id": null,
+    "game8_id": "266132",
     "name": "Bracing Blow 1",
     "group_name": "Bracing Blow",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/4e/Bracing_Blow_1.png/revision/latest?cb=20180810071335",
@@ -7219,7 +7330,7 @@
   },
   {
     "id": "SID_金剛明鏡の構え1",
-    "game8_id": null,
+    "game8_id": "266134",
     "name": "Bracing Stance 1",
     "group_name": "Bracing Stance",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/a1/Bracing_Stance_1.png/revision/latest?cb=20180810071338",
@@ -7255,7 +7366,7 @@
   },
   {
     "id": "SID_差し違え1",
-    "game8_id": null,
+    "game8_id": "266363",
     "name": "Brash Assault 1",
     "group_name": "Brash Assault",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d2/Brash_Assault_1.png/revision/latest?cb=20180810071340",
@@ -7271,7 +7382,7 @@
   },
   {
     "id": "SID_差し違え2",
-    "game8_id": null,
+    "game8_id": "266364",
     "name": "Brash Assault 2",
     "group_name": "Brash Assault",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/09/Brash_Assault_2.png/revision/latest?cb=20180810071344",
@@ -7303,7 +7414,7 @@
   },
   {
     "id": "SID_攻撃守備の大覚醒1",
-    "game8_id": null,
+    "game8_id": "266136",
     "name": "Brazen Atk/Def 1",
     "group_name": "Brazen Atk/Def",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b9/Brazen_Atk_Def_1.png/revision/latest?cb=20180810071350",
@@ -7319,7 +7430,7 @@
   },
   {
     "id": "SID_攻撃守備の大覚醒2",
-    "game8_id": null,
+    "game8_id": "266137",
     "name": "Brazen Atk/Def 2",
     "group_name": "Brazen Atk/Def",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/02/Brazen_Atk_Def_2.png/revision/latest?cb=20180810071351",
@@ -7351,7 +7462,7 @@
   },
   {
     "id": "SID_攻撃魔防の大覚醒1",
-    "game8_id": null,
+    "game8_id": "266139",
     "name": "Brazen Atk/Res 1",
     "group_name": "Brazen Atk/Res",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/2/27/Brazen_Atk_Res_1.png/revision/latest?cb=20180810071353",
@@ -7367,7 +7478,7 @@
   },
   {
     "id": "SID_攻撃魔防の大覚醒2",
-    "game8_id": null,
+    "game8_id": "266140",
     "name": "Brazen Atk/Res 2",
     "group_name": "Brazen Atk/Res",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/97/Brazen_Atk_Res_2.png/revision/latest?cb=20180810071353",
@@ -7399,7 +7510,7 @@
   },
   {
     "id": "SID_攻撃速さの大覚醒1",
-    "game8_id": null,
+    "game8_id": "266142",
     "name": "Brazen Atk/Spd 1",
     "group_name": "Brazen Atk/Spd",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f4/Brazen_Atk_Spd_1.png/revision/latest?cb=20180810071357",
@@ -7415,7 +7526,7 @@
   },
   {
     "id": "SID_攻撃速さの大覚醒2",
-    "game8_id": null,
+    "game8_id": "266143",
     "name": "Brazen Atk/Spd 2",
     "group_name": "Brazen Atk/Spd",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/8a/Brazen_Atk_Spd_2.png/revision/latest?cb=20180810071357",
@@ -7447,7 +7558,7 @@
   },
   {
     "id": "SID_守備魔防の大覚醒1",
-    "game8_id": null,
+    "game8_id": "266145",
     "name": "Brazen Def/Res 1",
     "group_name": "Brazen Def/Res",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/4b/Brazen_Def_Res_1.png/revision/latest?cb=20180810071401",
@@ -7463,7 +7574,7 @@
   },
   {
     "id": "SID_守備魔防の大覚醒2",
-    "game8_id": null,
+    "game8_id": "266146",
     "name": "Brazen Def/Res 2",
     "group_name": "Brazen Def/Res",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/90/Brazen_Def_Res_2.png/revision/latest?cb=20180810071403",
@@ -7495,7 +7606,7 @@
   },
   {
     "id": "SID_速さ守備の大覚醒1",
-    "game8_id": null,
+    "game8_id": "270330",
     "name": "Brazen Spd/Def 1",
     "group_name": "Brazen Spd/Def",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/8c/Brazen_Spd_Def_1.png/revision/latest?cb=20190921224514",
@@ -7511,7 +7622,7 @@
   },
   {
     "id": "SID_速さ守備の大覚醒2",
-    "game8_id": null,
+    "game8_id": "270331",
     "name": "Brazen Spd/Def 2",
     "group_name": "Brazen Spd/Def",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/66/Brazen_Spd_Def_2.png/revision/latest?cb=20190921224524",
@@ -7543,7 +7654,7 @@
   },
   {
     "id": "SID_速さ魔防の大覚醒1",
-    "game8_id": null,
+    "game8_id": "275203",
     "name": "Brazen Spd/Res 1",
     "group_name": "Brazen Spd/Res",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/de/Brazen_Spd_Res_1.png/revision/latest?cb=20191119084207",
@@ -7559,7 +7670,7 @@
   },
   {
     "id": "SID_速さ魔防の大覚醒2",
-    "game8_id": null,
+    "game8_id": "275204",
     "name": "Brazen Spd/Res 2",
     "group_name": "Brazen Spd/Res",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/75/Brazen_Spd_Res_2.png/revision/latest?cb=20191119084217",
@@ -7591,7 +7702,7 @@
   },
   {
     "id": "SID_生の息吹1",
-    "game8_id": null,
+    "game8_id": "266611",
     "name": "Breath of Life 1",
     "group_name": "Breath of Life",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/53/Breath_of_Life_1.png/revision/latest?cb=20180810071406",
@@ -7607,7 +7718,7 @@
   },
   {
     "id": "SID_生の息吹2",
-    "game8_id": null,
+    "game8_id": "266612",
     "name": "Breath of Life 2",
     "group_name": "Breath of Life",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/bf/Breath_of_Life_2.png/revision/latest?cb=20180810071409",
@@ -7639,7 +7750,7 @@
   },
   {
     "id": "SID_攻撃の封印1",
-    "game8_id": null,
+    "game8_id": "266370",
     "name": "Chill Atk 1",
     "group_name": "Chill Atk",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/93/Chill_Atk_1.png/revision/latest?cb=20180810071422",
@@ -7655,7 +7766,7 @@
   },
   {
     "id": "SID_攻撃の封印2",
-    "game8_id": null,
+    "game8_id": "266371",
     "name": "Chill Atk 2",
     "group_name": "Chill Atk",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/cf/Chill_Atk_2.png/revision/latest?cb=20180810071424",
@@ -7687,7 +7798,7 @@
   },
   {
     "id": "SID_攻撃守備の封印1",
-    "game8_id": null,
+    "game8_id": "305981",
     "name": "Chill Atk/Def 1",
     "group_name": "Chill Atk/Def",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b0/Chill_Atk_Def_1.png/revision/latest?cb=20201105012548",
@@ -7719,7 +7830,7 @@
   },
   {
     "id": "SID_攻撃魔防の封印1",
-    "game8_id": null,
+    "game8_id": "284225",
     "name": "Chill Atk/Res 1",
     "group_name": "Chill Atk/Res",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/8c/Chill_Atk_Res_1.png/revision/latest?cb=20200318152721",
@@ -7751,7 +7862,7 @@
   },
   {
     "id": "SID_守備の封印1",
-    "game8_id": null,
+    "game8_id": "266373",
     "name": "Chill Def 1",
     "group_name": "Chill Def",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/a9/Chill_Def_1.png/revision/latest?cb=20180810071428",
@@ -7767,7 +7878,7 @@
   },
   {
     "id": "SID_守備の封印2",
-    "game8_id": null,
+    "game8_id": "266374",
     "name": "Chill Def 2",
     "group_name": "Chill Def",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/4d/Chill_Def_2.png/revision/latest?cb=20180810071429",
@@ -7799,7 +7910,7 @@
   },
   {
     "id": "SID_守備魔防の封印1",
-    "game8_id": null,
+    "game8_id": "316315",
     "name": "Chill Def/Res 1",
     "group_name": "Chill Def/Res",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/93/Chill_Def_Res_1.png/revision/latest?cb=20210118051908",
@@ -7831,7 +7942,7 @@
   },
   {
     "id": "SID_魔防の封印1",
-    "game8_id": null,
+    "game8_id": "266376",
     "name": "Chill Res 1",
     "group_name": "Chill Res",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/1b/Chill_Res_1.png/revision/latest?cb=20180810071432",
@@ -7847,7 +7958,7 @@
   },
   {
     "id": "SID_魔防の封印2",
-    "game8_id": null,
+    "game8_id": "266377",
     "name": "Chill Res 2",
     "group_name": "Chill Res",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/8d/Chill_Res_2.png/revision/latest?cb=20180810071434",
@@ -7879,7 +7990,7 @@
   },
   {
     "id": "SID_速さの封印1",
-    "game8_id": null,
+    "game8_id": "266379",
     "name": "Chill Spd 1",
     "group_name": "Chill Spd",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d4/Chill_Spd_1.png/revision/latest?cb=20180810071436",
@@ -7895,7 +8006,7 @@
   },
   {
     "id": "SID_速さの封印2",
-    "game8_id": null,
+    "game8_id": "266380",
     "name": "Chill Spd 2",
     "group_name": "Chill Spd",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/7d/Chill_Spd_2.png/revision/latest?cb=20180810071438",
@@ -7927,7 +8038,7 @@
   },
   {
     "id": "SID_速さ守備の封印1",
-    "game8_id": null,
+    "game8_id": "288730",
     "name": "Chill Spd/Def 1",
     "group_name": "Chill Spd/Def",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/0d/Chill_Spd_Def_1.png/revision/latest?cb=20200521072536",
@@ -7959,7 +8070,7 @@
   },
   {
     "id": "SID_速さ魔防の封印1",
-    "game8_id": null,
+    "game8_id": "291381",
     "name": "Chill Spd/Res 1",
     "group_name": "Chill Spd/Res",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/08/Chill_Spd_Res_1.png/revision/latest?cb=20200706051547",
@@ -7991,7 +8102,7 @@
   },
   {
     "id": "SID_近距離防御1",
-    "game8_id": null,
+    "game8_id": "266151",
     "name": "Close Def 1",
     "group_name": "Close Def",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/2/23/Close_Def_1.png/revision/latest?cb=20180810071444",
@@ -8007,7 +8118,7 @@
   },
   {
     "id": "SID_近距離防御2",
-    "game8_id": null,
+    "game8_id": "266152",
     "name": "Close Def 2",
     "group_name": "Close Def",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/ce/Close_Def_2.png/revision/latest?cb=20180810071446",
@@ -8039,7 +8150,7 @@
   },
   {
     "id": "SID_近距離警戒1",
-    "game8_id": null,
+    "game8_id": "266614",
     "name": "Close Guard 1",
     "group_name": "Close Guard",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e2/Close_Guard_1.png/revision/latest?cb=20180821061319",
@@ -8055,7 +8166,7 @@
   },
   {
     "id": "SID_近距離警戒2",
-    "game8_id": null,
+    "game8_id": "266615",
     "name": "Close Guard 2",
     "group_name": "Close Guard",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/43/Close_Guard_2.png/revision/latest?cb=20180821061319",
@@ -8087,7 +8198,7 @@
   },
   {
     "id": "SID_飛燕の一撃1",
-    "game8_id": null,
+    "game8_id": "266155",
     "name": "Darting Blow 1",
     "group_name": "Darting Blow",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/8f/Darting_Blow_1.png/revision/latest?cb=20180810071503",
@@ -8105,7 +8216,7 @@
   },
   {
     "id": "SID_飛燕の一撃2",
-    "game8_id": null,
+    "game8_id": "266156",
     "name": "Darting Blow 2",
     "group_name": "Darting Blow",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/10/Darting_Blow_2.png/revision/latest?cb=20180810071506",
@@ -8164,7 +8275,7 @@
   },
   {
     "id": "SID_飛燕の構え1",
-    "game8_id": null,
+    "game8_id": "266159",
     "name": "Darting Stance 1",
     "group_name": "Darting Stance",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/5e/Darting_Stance_1.png/revision/latest?cb=20180810071510",
@@ -8182,7 +8293,7 @@
   },
   {
     "id": "SID_飛燕の構え2",
-    "game8_id": null,
+    "game8_id": "266160",
     "name": "Darting Stance 2",
     "group_name": "Darting Stance",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/84/Darting_Stance_2.png/revision/latest?cb=20180810071512",
@@ -8218,7 +8329,7 @@
   },
   {
     "id": "SID_鬼神の一撃1",
-    "game8_id": null,
+    "game8_id": "266162",
     "name": "Death Blow 1",
     "group_name": "Death Blow",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/3a/Death_Blow_1.png/revision/latest?cb=20180810071524",
@@ -8236,7 +8347,7 @@
   },
   {
     "id": "SID_鬼神の一撃2",
-    "game8_id": null,
+    "game8_id": "266163",
     "name": "Death Blow 2",
     "group_name": "Death Blow",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/ce/Death_Blow_2.png/revision/latest?cb=20180810071526",
@@ -8272,7 +8383,7 @@
   },
   {
     "id": "SID_守備の共謀1",
-    "game8_id": null,
+    "game8_id": "266390",
     "name": "Def Feint 1",
     "group_name": "Def Feint",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/1f/Def_Feint_1.png/revision/latest?cb=20180810071532",
@@ -8290,7 +8401,7 @@
   },
   {
     "id": "SID_守備の共謀2",
-    "game8_id": null,
+    "game8_id": "266391",
     "name": "Def Feint 2",
     "group_name": "Def Feint",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/1f/Def_Feint_2.png/revision/latest?cb=20180810071534",
@@ -8326,7 +8437,7 @@
   },
   {
     "id": "SID_守備の開放1",
-    "game8_id": null,
+    "game8_id": "267477",
     "name": "Def Opening 1",
     "group_name": "Def Opening",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b9/Def_Opening_1.png/revision/latest?cb=20190508184842",
@@ -8342,7 +8453,7 @@
   },
   {
     "id": "SID_守備の開放2",
-    "game8_id": null,
+    "game8_id": "267478",
     "name": "Def Opening 2",
     "group_name": "Def Opening",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c7/Def_Opening_2.png/revision/latest?cb=20190508185003",
@@ -8374,7 +8485,7 @@
   },
   {
     "id": "SID_守備の謀策1",
-    "game8_id": null,
+    "game8_id": "266620",
     "name": "Def Ploy 1",
     "group_name": "Def Ploy",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c3/Def_Ploy_1.png/revision/latest?cb=20180810071536",
@@ -8390,7 +8501,7 @@
   },
   {
     "id": "SID_守備の謀策2",
-    "game8_id": null,
+    "game8_id": "266621",
     "name": "Def Ploy 2",
     "group_name": "Def Ploy",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/92/Def_Ploy_2.png/revision/latest?cb=20180810071538",
@@ -8422,7 +8533,7 @@
   },
   {
     "id": "SID_守備の指揮1",
-    "game8_id": null,
+    "game8_id": "266626",
     "name": "Def Tactic 1",
     "group_name": "Def Tactic",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/30/Def_Tactic_1.png/revision/latest?cb=20180810071553",
@@ -8438,7 +8549,7 @@
   },
   {
     "id": "SID_守備の指揮2",
-    "game8_id": null,
+    "game8_id": "266627",
     "name": "Def Tactic 2",
     "group_name": "Def Tactic",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/3c/Def_Tactic_2.png/revision/latest?cb=20180810071554",
@@ -8470,7 +8581,7 @@
   },
   {
     "id": "SID_守備魔防1",
-    "game8_id": null,
+    "game8_id": "266166",
     "name": "Def/Res 1",
     "group_name": "Def/Res",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/83/Def_Res_1.png/revision/latest?cb=20181009221905",
@@ -8502,7 +8613,7 @@
   },
   {
     "id": "SID_守備魔防の絆1",
-    "game8_id": null,
+    "game8_id": "266078",
     "name": "Def/Res Bond 1",
     "group_name": "Def/Res Bond",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/52/Def_Res_Bond_1.png/revision/latest?cb=20200107040558",
@@ -8518,7 +8629,7 @@
   },
   {
     "id": "SID_守備魔防の絆2",
-    "game8_id": null,
+    "game8_id": "266079",
     "name": "Def/Res Bond 2",
     "group_name": "Def/Res Bond",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c0/Def_Res_Bond_2.png/revision/latest?cb=20200107040538",
@@ -8550,7 +8661,7 @@
   },
   {
     "id": "SID_守備魔防の機先1",
-    "game8_id": null,
+    "game8_id": "336714",
     "name": "Def/Res Catch 1",
     "group_name": "Def/Res Catch",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/4f/Def_Res_Catch_1.png/revision/latest?cb=20210706052004",
@@ -8569,7 +8680,7 @@
   },
   {
     "id": "SID_守備魔防の機先2",
-    "game8_id": null,
+    "game8_id": "336713",
     "name": "Def/Res Catch 2",
     "group_name": "Def/Res Catch",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/82/Def_Res_Catch_2.png/revision/latest?cb=20210706052013",
@@ -8607,7 +8718,7 @@
   },
   {
     "id": "SID_守備魔防の密集1",
-    "game8_id": null,
+    "game8_id": "317408",
     "name": "Def/Res Form 1",
     "group_name": "Def/Res Form",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f7/Def_Res_Form_1.png/revision/latest?cb=20210204025449",
@@ -8623,7 +8734,7 @@
   },
   {
     "id": "SID_守備魔防の密集2",
-    "game8_id": null,
+    "game8_id": "317407",
     "name": "Def/Res Form 2",
     "group_name": "Def/Res Form",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/67/Def_Res_Form_2.png/revision/latest?cb=20210204025459",
@@ -8655,7 +8766,7 @@
   },
   {
     "id": "SID_守備魔防の万全1",
-    "game8_id": null,
+    "game8_id": "338655",
     "name": "Def/Res Ideal 1",
     "group_name": "Def/Res Ideal",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c0/Def_Res_Ideal_1.png/revision/latest?cb=20210804222044",
@@ -8674,7 +8785,7 @@
   },
   {
     "id": "SID_守備魔防の万全2",
-    "game8_id": null,
+    "game8_id": "338656",
     "name": "Def/Res Ideal 2",
     "group_name": "Def/Res Ideal",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/ef/Def_Res_Ideal_2.png/revision/latest?cb=20210804222054",
@@ -8712,7 +8823,7 @@
   },
   {
     "id": "SID_守備魔防の信義1",
-    "game8_id": null,
+    "game8_id": "275358",
     "name": "Def/Res Oath 1",
     "group_name": "Def/Res Oath",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/3f/Def_Res_Oath_1.png/revision/latest?cb=20191225045414",
@@ -8731,7 +8842,7 @@
   },
   {
     "id": "SID_守備魔防の信義2",
-    "game8_id": null,
+    "game8_id": "275359",
     "name": "Def/Res Oath 2",
     "group_name": "Def/Res Oath",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/68/Def_Res_Oath_2.png/revision/latest?cb=20191225045424",
@@ -8750,7 +8861,7 @@
   },
   {
     "id": "SID_守備魔防の信義3",
-    "game8_id": null,
+    "game8_id": "504246",
     "name": "Def/Res Oath 3",
     "group_name": "Def/Res Oath",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/9b/Def_Res_Oath_3.png/revision/latest?cb=20191225045434",
@@ -8769,7 +8880,7 @@
   },
   {
     "id": "SID_守備魔防の干渉1",
-    "game8_id": null,
+    "game8_id": "346742",
     "name": "Def/Res Snag 1",
     "group_name": "Def/Res Snag",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/4b/Def_Res_Snag_1.png/revision/latest?cb=20211018081210",
@@ -8790,7 +8901,7 @@
   },
   {
     "id": "SID_守備魔防の干渉2",
-    "game8_id": null,
+    "game8_id": "346741",
     "name": "Def/Res Snag 2",
     "group_name": "Def/Res Snag",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e1/Def_Res_Snag_2.png/revision/latest?cb=20211018081220",
@@ -8832,7 +8943,7 @@
   },
   {
     "id": "SID_守備魔防の孤軍1",
-    "game8_id": null,
+    "game8_id": "266075",
     "name": "Def/Res Solo 1",
     "group_name": "Def/Res Solo",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/9d/Def_Res_Solo_1.png/revision/latest?cb=20190322050223",
@@ -8848,7 +8959,7 @@
   },
   {
     "id": "SID_守備魔防の孤軍2",
-    "game8_id": null,
+    "game8_id": "266076",
     "name": "Def/Res Solo 2",
     "group_name": "Def/Res Solo",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/04/Def_Res_Solo_2.png/revision/latest?cb=20190322050226",
@@ -8880,7 +8991,7 @@
   },
   {
     "id": "SID_守備1",
-    "game8_id": null,
+    "game8_id": "266168",
     "name": "Defense +1",
     "group_name": "Defense +",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/35/Defense_Plus_1.png/revision/latest?cb=20180810071558",
@@ -8896,7 +9007,7 @@
   },
   {
     "id": "SID_守備2",
-    "game8_id": null,
+    "game8_id": "266169",
     "name": "Defense +2",
     "group_name": "Defense +",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/6f/Defense_Plus_2.png/revision/latest?cb=20180810071600",
@@ -8928,7 +9039,7 @@
   },
   {
     "id": "SID_攻撃の覚醒1",
-    "game8_id": null,
+    "game8_id": "266171",
     "name": "Defiant Atk 1",
     "group_name": "Defiant Atk",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/2/2f/Defiant_Atk_1.png/revision/latest?cb=20180810071606",
@@ -8944,7 +9055,7 @@
   },
   {
     "id": "SID_攻撃の覚醒2",
-    "game8_id": null,
+    "game8_id": "266172",
     "name": "Defiant Atk 2",
     "group_name": "Defiant Atk",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/55/Defiant_Atk_2.png/revision/latest?cb=20180810071608",
@@ -8976,7 +9087,7 @@
   },
   {
     "id": "SID_守備の覚醒1",
-    "game8_id": null,
+    "game8_id": "266174",
     "name": "Defiant Def 1",
     "group_name": "Defiant Def",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/16/Defiant_Def_1.png/revision/latest?cb=20180810071612",
@@ -8992,7 +9103,7 @@
   },
   {
     "id": "SID_守備の覚醒2",
-    "game8_id": null,
+    "game8_id": "266175",
     "name": "Defiant Def 2",
     "group_name": "Defiant Def",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b5/Defiant_Def_2.png/revision/latest?cb=20180810071614",
@@ -9024,7 +9135,7 @@
   },
   {
     "id": "SID_速さの覚醒1",
-    "game8_id": null,
+    "game8_id": "266177",
     "name": "Defiant Spd 1",
     "group_name": "Defiant Spd",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/73/Defiant_Spd_1.png/revision/latest?cb=20180810071622",
@@ -9040,7 +9151,7 @@
   },
   {
     "id": "SID_速さの覚醒2",
-    "game8_id": null,
+    "game8_id": "266178",
     "name": "Defiant Spd 2",
     "group_name": "Defiant Spd",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/fe/Defiant_Spd_2.png/revision/latest?cb=20180810071624",
@@ -9072,7 +9183,7 @@
   },
   {
     "id": "SID_攻め立て1",
-    "game8_id": null,
+    "game8_id": "266402",
     "name": "Desperation 1",
     "group_name": "Desperation",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/9e/Desperation_1.png/revision/latest?cb=20180810071642",
@@ -9088,7 +9199,7 @@
   },
   {
     "id": "SID_攻め立て2",
-    "game8_id": null,
+    "game8_id": "266403",
     "name": "Desperation 2",
     "group_name": "Desperation",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/38/Desperation_2.png/revision/latest?cb=20180810071644",
@@ -9120,7 +9231,7 @@
   },
   {
     "id": "SID_遠距離防御1",
-    "game8_id": null,
+    "game8_id": "266181",
     "name": "Distant Def 1",
     "group_name": "Distant Def",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/7a/Distant_Def_1.png/revision/latest?cb=20180810071649",
@@ -9136,7 +9247,7 @@
   },
   {
     "id": "SID_遠距離防御2",
-    "game8_id": null,
+    "game8_id": "266182",
     "name": "Distant Def 2",
     "group_name": "Distant Def",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/7e/Distant_Def_2.png/revision/latest?cb=20180810071650",
@@ -9168,7 +9279,7 @@
   },
   {
     "id": "SID_遠距離警戒1",
-    "game8_id": null,
+    "game8_id": "266629",
     "name": "Distant Guard 1",
     "group_name": "Distant Guard",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/79/Distant_Guard_1.png/revision/latest?cb=20180801040749",
@@ -9184,7 +9295,7 @@
   },
   {
     "id": "SID_遠距離警戒2",
-    "game8_id": null,
+    "game8_id": "266630",
     "name": "Distant Guard 2",
     "group_name": "Distant Guard",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d6/Distant_Guard_2.png/revision/latest?cb=20180801040754",
@@ -9216,7 +9327,7 @@
   },
   {
     "id": "SID_竜の魔鱗1",
-    "game8_id": null,
+    "game8_id": "345411",
     "name": "Dragon's Wrath 1",
     "group_name": "Dragon's Wrath",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/0b/Dragons_Wrath_1.png/revision/latest?cb=20211006052643",
@@ -9234,7 +9345,7 @@
   },
   {
     "id": "SID_竜の魔鱗2",
-    "game8_id": null,
+    "game8_id": "345410",
     "name": "Dragon's Wrath 2",
     "group_name": "Dragon's Wrath",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c6/Dragons_Wrath_2.png/revision/latest?cb=20211006052653",
@@ -9270,7 +9381,7 @@
   },
   {
     "id": "SID_攻撃の大紋章1",
-    "game8_id": null,
+    "game8_id": "266636",
     "name": "Drive Atk 1",
     "group_name": "Drive Atk",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/95/Drive_Atk_1.png/revision/latest?cb=20180810071708",
@@ -9302,7 +9413,7 @@
   },
   {
     "id": "SID_守備の大紋章1",
-    "game8_id": null,
+    "game8_id": "266638",
     "name": "Drive Def 1",
     "group_name": "Drive Def",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/06/Drive_Def_1.png/revision/latest?cb=20180810071712",
@@ -9334,7 +9445,7 @@
   },
   {
     "id": "SID_魔防の大紋章1",
-    "game8_id": null,
+    "game8_id": "266640",
     "name": "Drive Res 1",
     "group_name": "Drive Res",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/10/Drive_Res_1.png/revision/latest?cb=20180810071715",
@@ -9366,7 +9477,7 @@
   },
   {
     "id": "SID_速さの大紋章1",
-    "game8_id": null,
+    "game8_id": "266642",
     "name": "Drive Spd 1",
     "group_name": "Drive Spd",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d9/Drive_Spd_1.png/revision/latest?cb=20180810071704",
@@ -9398,7 +9509,7 @@
   },
   {
     "id": "SID_生命の大地1",
-    "game8_id": null,
+    "game8_id": "266185",
     "name": "Earth Boost 1",
     "group_name": "Earth Boost",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/14/Earth_Boost_1.png/revision/latest?cb=20180810071731",
@@ -9414,7 +9525,7 @@
   },
   {
     "id": "SID_生命の大地2",
-    "game8_id": null,
+    "game8_id": "266186",
     "name": "Earth Boost 2",
     "group_name": "Earth Boost",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/ed/Earth_Boost_2.png/revision/latest?cb=20180810071732",
@@ -9446,7 +9557,7 @@
   },
   {
     "id": "SID_大地の舞い1",
-    "game8_id": null,
+    "game8_id": "266421",
     "name": "Earth Dance 1",
     "group_name": "Earth Dance",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d6/Earth_Dance_1.png/revision/latest?cb=20180810071734",
@@ -9464,7 +9575,7 @@
   },
   {
     "id": "SID_大地の舞い2",
-    "game8_id": null,
+    "game8_id": "266422",
     "name": "Earth Dance 2",
     "group_name": "Earth Dance",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/87/Earth_Dance_2.png/revision/latest?cb=20180810071736",
@@ -9500,7 +9611,7 @@
   },
   {
     "id": "SID_攻撃の波・偶数1",
-    "game8_id": null,
+    "game8_id": "266644",
     "name": "Even Atk Wave 1",
     "group_name": "Even Atk Wave",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/36/Even_Atk_Wave_1.png/revision/latest?cb=20190329002743",
@@ -9516,7 +9627,7 @@
   },
   {
     "id": "SID_攻撃の波・偶数2",
-    "game8_id": null,
+    "game8_id": "266645",
     "name": "Even Atk Wave 2",
     "group_name": "Even Atk Wave",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/3c/Even_Atk_Wave_2.png/revision/latest?cb=20190329002810",
@@ -9548,7 +9659,7 @@
   },
   {
     "id": "SID_守備の波・偶数1",
-    "game8_id": null,
+    "game8_id": "266647",
     "name": "Even Def Wave 1",
     "group_name": "Even Def Wave",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/6e/Even_Def_Wave_1.png/revision/latest?cb=20180914065833",
@@ -9564,7 +9675,7 @@
   },
   {
     "id": "SID_守備の波・偶数2",
-    "game8_id": null,
+    "game8_id": "266648",
     "name": "Even Def Wave 2",
     "group_name": "Even Def Wave",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/a0/Even_Def_Wave_2.png/revision/latest?cb=20180914065840",
@@ -9596,7 +9707,7 @@
   },
   {
     "id": "SID_魔防の波・偶数1",
-    "game8_id": null,
+    "game8_id": "266650",
     "name": "Even Res Wave 1",
     "group_name": "Even Res Wave",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/9d/Even_Res_Wave_1.png/revision/latest?cb=20180821061321",
@@ -9612,7 +9723,7 @@
   },
   {
     "id": "SID_魔防の波・偶数2",
-    "game8_id": null,
+    "game8_id": "266651",
     "name": "Even Res Wave 2",
     "group_name": "Even Res Wave",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/36/Even_Res_Wave_2.png/revision/latest?cb=20180821061321",
@@ -9644,7 +9755,7 @@
   },
   {
     "id": "SID_速さの波・偶数1",
-    "game8_id": null,
+    "game8_id": "266653",
     "name": "Even Spd Wave 1",
     "group_name": "Even Spd Wave",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/44/Even_Spd_Wave_1.png/revision/latest?cb=20180810071749",
@@ -9660,7 +9771,7 @@
   },
   {
     "id": "SID_速さの波・偶数2",
-    "game8_id": null,
+    "game8_id": "266654",
     "name": "Even Spd Wave 2",
     "group_name": "Even Spd Wave",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b8/Even_Spd_Wave_2.png/revision/latest?cb=20180810071750",
@@ -9692,7 +9803,7 @@
   },
   {
     "id": "SID_迅雷風烈・偶数1",
-    "game8_id": null,
+    "game8_id": "325375",
     "name": "Even Tempest 1",
     "group_name": "Even Tempest",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/89/Even_Tempest_1.png/revision/latest?cb=20210330095603",
@@ -9715,7 +9826,7 @@
   },
   {
     "id": "SID_迅雷風烈・偶数2",
-    "game8_id": null,
+    "game8_id": "325374",
     "name": "Even Tempest 2",
     "group_name": "Even Tempest",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/18/Even_Tempest_2.png/revision/latest?cb=20210330095613",
@@ -9784,7 +9895,7 @@
   },
   {
     "id": "SID_鬼神の構え1",
-    "game8_id": null,
+    "game8_id": "266189",
     "name": "Fierce Stance 1",
     "group_name": "Fierce Stance",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f9/Fierce_Stance_1.png/revision/latest?cb=20180810071802",
@@ -9802,7 +9913,7 @@
   },
   {
     "id": "SID_鬼神の構え2",
-    "game8_id": null,
+    "game8_id": "266191",
     "name": "Fierce Stance 2",
     "group_name": "Fierce Stance",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/46/Fierce_Stance_2.png/revision/latest?cb=20180810071804",
@@ -9838,7 +9949,7 @@
   },
   {
     "id": "SID_生命の業火1",
-    "game8_id": null,
+    "game8_id": "266192",
     "name": "Fire Boost 1",
     "group_name": "Fire Boost",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b9/Fire_Boost_1.png/revision/latest?cb=20180810071807",
@@ -9854,7 +9965,7 @@
   },
   {
     "id": "SID_生命の業火2",
-    "game8_id": null,
+    "game8_id": "266193",
     "name": "Fire Boost 2",
     "group_name": "Fire Boost",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d0/Fire_Boost_2.png/revision/latest?cb=20180810071808",
@@ -9886,7 +9997,7 @@
   },
   {
     "id": "SID_柔剣1",
-    "game8_id": null,
+    "game8_id": "266195",
     "name": "Flashing Blade 1",
     "group_name": "Flashing Blade",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/16/Flashing_Blade_1.png/revision/latest?cb=20180810071818",
@@ -9907,7 +10018,7 @@
   },
   {
     "id": "SID_柔剣2",
-    "game8_id": null,
+    "game8_id": "266196",
     "name": "Flashing Blade 2",
     "group_name": "Flashing Blade",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/51/Flashing_Blade_2.png/revision/latest?cb=20180810071819",
@@ -9949,7 +10060,7 @@
   },
   {
     "id": "SID_編隊飛行1",
-    "game8_id": null,
+    "game8_id": "266431",
     "name": "Flier Formation 1",
     "group_name": "Flier Formation",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/54/Flier_Formation_1.png/revision/latest?cb=20180810071827",
@@ -9967,7 +10078,7 @@
   },
   {
     "id": "SID_編隊飛行2",
-    "game8_id": null,
+    "game8_id": "266432",
     "name": "Flier Formation 2",
     "group_name": "Flier Formation",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/5d/Flier_Formation_2.png/revision/latest?cb=20180810071829",
@@ -10003,7 +10114,7 @@
   },
   {
     "id": "SID_飛行の先導1",
-    "game8_id": null,
+    "game8_id": "266656",
     "name": "Flier Guidance 1",
     "group_name": "Flier Guidance",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/fc/Flier_Guidance_1.png/revision/latest?cb=20180810071833",
@@ -10021,7 +10132,7 @@
   },
   {
     "id": "SID_飛行の先導2",
-    "game8_id": null,
+    "game8_id": "266657",
     "name": "Flier Guidance 2",
     "group_name": "Flier Guidance",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e2/Flier_Guidance_2.png/revision/latest?cb=20180810071834",
@@ -10057,7 +10168,7 @@
   },
   {
     "id": "SID_守備魔防の城塞1",
-    "game8_id": null,
+    "game8_id": "266201",
     "name": "Fort. Def/Res 1",
     "group_name": "Fort. Def/Res",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c2/Fort._Def_Res_1.png/revision/latest?cb=20190624232424",
@@ -10107,7 +10218,7 @@
   },
   {
     "id": "SID_守備の鼓舞1",
-    "game8_id": null,
+    "game8_id": "266661",
     "name": "Fortify Def 1",
     "group_name": "Fortify Def",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/4b/Fortify_Def_1.png/revision/latest?cb=20180810071838",
@@ -10123,7 +10234,7 @@
   },
   {
     "id": "SID_守備の鼓舞2",
-    "game8_id": null,
+    "game8_id": "266662",
     "name": "Fortify Def 2",
     "group_name": "Fortify Def",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/5b/Fortify_Def_2.png/revision/latest?cb=20180810071841",
@@ -10173,7 +10284,7 @@
   },
   {
     "id": "SID_魔防の鼓舞1",
-    "game8_id": null,
+    "game8_id": "266666",
     "name": "Fortify Res 1",
     "group_name": "Fortify Res",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/06/Fortify_Res_1.png/revision/latest?cb=20180810071846",
@@ -10189,7 +10300,7 @@
   },
   {
     "id": "SID_魔防の鼓舞2",
-    "game8_id": null,
+    "game8_id": "266667",
     "name": "Fortify Res 2",
     "group_name": "Fortify Res",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/16/Fortify_Res_2.png/revision/latest?cb=20180810071847",
@@ -10221,7 +10332,7 @@
   },
   {
     "id": "SID_守備の城塞1",
-    "game8_id": null,
+    "game8_id": "266198",
     "name": "Fortress Def 1",
     "group_name": "Fortress Def",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/40/Fortress_Def_1.png/revision/latest?cb=20180810071855",
@@ -10237,7 +10348,7 @@
   },
   {
     "id": "SID_守備の城塞2",
-    "game8_id": null,
+    "game8_id": "266199",
     "name": "Fortress Def 2",
     "group_name": "Fortress Def",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/90/Fortress_Def_2.png/revision/latest?cb=20180810071857",
@@ -10269,7 +10380,7 @@
   },
   {
     "id": "SID_魔防の城塞1",
-    "game8_id": null,
+    "game8_id": "266204",
     "name": "Fortress Res 1",
     "group_name": "Fortress Res",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/ec/Fortress_Res_1.png/revision/latest?cb=20180810071859",
@@ -10285,7 +10396,7 @@
   },
   {
     "id": "SID_魔防の城塞2",
-    "game8_id": null,
+    "game8_id": "266205",
     "name": "Fortress Res 2",
     "group_name": "Fortress Res",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/fb/Fortress_Res_2.png/revision/latest?cb=20180810071901",
@@ -10317,7 +10428,7 @@
   },
   {
     "id": "SID_獅子奮迅1",
-    "game8_id": null,
+    "game8_id": "266208",
     "name": "Fury 1",
     "group_name": "Fury",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/03/Fury_1.png/revision/latest?cb=20180810071907",
@@ -10335,7 +10446,7 @@
   },
   {
     "id": "SID_獅子奮迅2",
-    "game8_id": null,
+    "game8_id": "266209",
     "name": "Fury 2",
     "group_name": "Fury",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/ef/Fury_2.png/revision/latest?cb=20180810071905",
@@ -10371,7 +10482,7 @@
   },
   {
     "id": "SID_疾風の舞い1",
-    "game8_id": null,
+    "game8_id": "266439",
     "name": "Gale Dance 1",
     "group_name": "Gale Dance",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d2/Gale_Dance_1.png/revision/latest?cb=20180810071927",
@@ -10389,7 +10500,7 @@
   },
   {
     "id": "SID_疾風の舞い2",
-    "game8_id": null,
+    "game8_id": "266440",
     "name": "Gale Dance 2",
     "group_name": "Gale Dance",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c6/Gale_Dance_2.png/revision/latest?cb=20180810071929",
@@ -10461,7 +10572,7 @@
   },
   {
     "id": "SID_先導の伝令・地1",
-    "game8_id": null,
+    "game8_id": "267836",
     "name": "Ground Orders 1",
     "group_name": "Ground Orders",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/17/Ground_Orders_1.png/revision/latest?cb=20190521222902",
@@ -10479,7 +10590,7 @@
   },
   {
     "id": "SID_先導の伝令・地2",
-    "game8_id": null,
+    "game8_id": "267837",
     "name": "Ground Orders 2",
     "group_name": "Ground Orders",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/cc/Ground_Orders_2.png/revision/latest?cb=20190521222926",
@@ -10515,7 +10626,7 @@
   },
   {
     "id": "SID_キャンセル1",
-    "game8_id": null,
+    "game8_id": "266444",
     "name": "Guard 1",
     "group_name": "Guard",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/9e/Guard_1.png/revision/latest?cb=20180810071945",
@@ -10531,7 +10642,7 @@
   },
   {
     "id": "SID_キャンセル2",
-    "game8_id": null,
+    "game8_id": "266445",
     "name": "Guard 2",
     "group_name": "Guard",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/2/23/Guard_2.png/revision/latest?cb=20180810071947",
@@ -10563,7 +10674,7 @@
   },
   {
     "id": "SID_空からの先導1",
-    "game8_id": null,
+    "game8_id": "266679",
     "name": "Guidance 1",
     "group_name": "Guidance",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/09/Guidance_1.png/revision/latest?cb=20180810071949",
@@ -10581,7 +10692,7 @@
   },
   {
     "id": "SID_空からの先導2",
-    "game8_id": null,
+    "game8_id": "266680",
     "name": "Guidance 2",
     "group_name": "Guidance",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/76/Guidance_2.png/revision/latest?cb=20180810071951",
@@ -10617,7 +10728,7 @@
   },
   {
     "id": "SID_剛剣1",
-    "game8_id": null,
+    "game8_id": "266215",
     "name": "Heavy Blade 1",
     "group_name": "Heavy Blade",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c1/Heavy_Blade_1.png/revision/latest?cb=20180810072000",
@@ -10635,7 +10746,7 @@
   },
   {
     "id": "SID_剛剣2",
-    "game8_id": null,
+    "game8_id": "266216",
     "name": "Heavy Blade 2",
     "group_name": "Heavy Blade",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/2/23/Heavy_Blade_2.png/revision/latest?cb=20180810072003",
@@ -10671,7 +10782,7 @@
   },
   {
     "id": "SID_攻撃の鼓舞1",
-    "game8_id": null,
+    "game8_id": "266683",
     "name": "Hone Atk 1",
     "group_name": "Hone Atk",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/2/20/Hone_Atk_1.png/revision/latest?cb=20180810072010",
@@ -10687,7 +10798,7 @@
   },
   {
     "id": "SID_攻撃の鼓舞2",
-    "game8_id": null,
+    "game8_id": "266684",
     "name": "Hone Atk 2",
     "group_name": "Hone Atk",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/ee/Hone_Atk_2.png/revision/latest?cb=20180810072011",
@@ -10755,7 +10866,7 @@
   },
   {
     "id": "SID_速さの鼓舞1",
-    "game8_id": null,
+    "game8_id": "266690",
     "name": "Hone Spd 1",
     "group_name": "Hone Spd",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/a4/Hone_Spd_1.png/revision/latest?cb=20180810072017",
@@ -10771,7 +10882,7 @@
   },
   {
     "id": "SID_速さの鼓舞2",
-    "game8_id": null,
+    "game8_id": "266691",
     "name": "Hone Spd 2",
     "group_name": "Hone Spd",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/79/Hone_Spd_2.png/revision/latest?cb=20180810072019",
@@ -10803,7 +10914,7 @@
   },
   {
     "id": "SID_HP1",
-    "game8_id": null,
+    "game8_id": "266218",
     "name": "HP +3",
     "group_name": "HP +",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/ac/HP_Plus_3.png/revision/latest?cb=20180810072036",
@@ -10819,7 +10930,7 @@
   },
   {
     "id": "SID_HP2",
-    "game8_id": null,
+    "game8_id": "266219",
     "name": "HP +4",
     "group_name": "HP +",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/fd/HP_Plus_4.png/revision/latest?cb=20180810072039",
@@ -10851,7 +10962,7 @@
   },
   {
     "id": "SID_HP攻撃1",
-    "game8_id": null,
+    "game8_id": "266222",
     "name": "HP/Atk 1",
     "group_name": "HP/Atk",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f3/HP_Atk_1.png/revision/latest?cb=20180810072028",
@@ -10883,7 +10994,7 @@
   },
   {
     "id": "SID_HP守備1",
-    "game8_id": null,
+    "game8_id": "266224",
     "name": "HP/Def 1",
     "group_name": "HP/Def",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/4b/HP_Def_1.png/revision/latest?cb=20180810072033",
@@ -10915,7 +11026,7 @@
   },
   {
     "id": "SID_HP魔防1",
-    "game8_id": null,
+    "game8_id": "266226",
     "name": "HP/Res 1",
     "group_name": "HP/Res",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/ba/HP_Res_1.png/revision/latest?cb=20180810072042",
@@ -10947,7 +11058,7 @@
   },
   {
     "id": "SID_HP速さ1",
-    "game8_id": null,
+    "game8_id": "266228",
     "name": "HP/Spd 1",
     "group_name": "HP/Spd",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/62/HP_Spd_1.png/revision/latest?cb=20180810072046",
@@ -10979,7 +11090,7 @@
   },
   {
     "id": "SID_歩行の魔刃1",
-    "game8_id": null,
+    "game8_id": "268996",
     "name": "Inf. Hexblade 1",
     "group_name": "Inf. Hexblade",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/5d/Inf._Hexblade_1.png/revision/latest?cb=20190807190213",
@@ -10999,7 +11110,7 @@
   },
   {
     "id": "SID_歩行の魔刃2",
-    "game8_id": null,
+    "game8_id": "268997",
     "name": "Inf. Hexblade 2",
     "group_name": "Inf. Hexblade",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/41/Inf._Hexblade_2.png/revision/latest?cb=20190807190214",
@@ -11039,7 +11150,7 @@
   },
   {
     "id": "SID_歩行の剛撃1",
-    "game8_id": null,
+    "game8_id": "266699",
     "name": "Infantry Rush 1",
     "group_name": "Infantry Rush",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/0f/Infantry_Rush_1.png/revision/latest?cb=20180810072052",
@@ -11057,7 +11168,7 @@
   },
   {
     "id": "SID_歩行の剛撃2",
-    "game8_id": null,
+    "game8_id": "266700",
     "name": "Infantry Rush 2",
     "group_name": "Infantry Rush",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/2/29/Infantry_Rush_2.png/revision/latest?cb=20180810072053",
@@ -11111,7 +11222,7 @@
   },
   {
     "id": "SID_鬼神飛燕の構え1",
-    "game8_id": null,
+    "game8_id": "266231",
     "name": "Kestrel Stance 1",
     "group_name": "Kestrel Stance",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/19/Kestrel_Stance_1.png/revision/latest?cb=20180810072055",
@@ -11147,7 +11258,7 @@
   },
   {
     "id": "SID_死線1",
-    "game8_id": null,
+    "game8_id": "266234",
     "name": "Life and Death 1",
     "group_name": "Life and Death",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/66/Life_and_Death_1.png/revision/latest?cb=20180810072110",
@@ -11165,7 +11276,7 @@
   },
   {
     "id": "SID_死線2",
-    "game8_id": null,
+    "game8_id": "266235",
     "name": "Life and Death 2",
     "group_name": "Life and Death",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d1/Life_and_Death_2.png/revision/latest?cb=20180810072112",
@@ -11201,7 +11312,7 @@
   },
   {
     "id": "SID_ご奉仕の喜び1",
-    "game8_id": null,
+    "game8_id": "266455",
     "name": "Live to Serve 1",
     "group_name": "Live to Serve",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/ce/Live_to_Serve_1.png/revision/latest?cb=20180810072121",
@@ -11219,7 +11330,7 @@
   },
   {
     "id": "SID_ご奉仕の喜び2",
-    "game8_id": null,
+    "game8_id": "266456",
     "name": "Live to Serve 2",
     "group_name": "Live to Serve",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/cf/Live_to_Serve_2.png/revision/latest?cb=20180810072123",
@@ -11255,7 +11366,7 @@
   },
   {
     "id": "SID_鬼神明鏡の構え1",
-    "game8_id": null,
+    "game8_id": "266237",
     "name": "Mirror Stance 1",
     "group_name": "Mirror Stance",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/54/Mirror_Stance_1.png/revision/latest?cb=20180810072133",
@@ -11291,7 +11402,7 @@
   },
   {
     "id": "SID_鬼神明鏡の一撃1",
-    "game8_id": null,
+    "game8_id": "266239",
     "name": "Mirror Strike 1",
     "group_name": "Mirror Strike",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c8/Mirror_Strike_1.png/revision/latest?cb=20180810072136",
@@ -11327,7 +11438,7 @@
   },
   {
     "id": "SID_生命の護符1",
-    "game8_id": null,
+    "game8_id": "266314",
     "name": "Mystic Boost 1",
     "group_name": "Mystic Boost",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/85/Mystic_Boost_1.png/revision/latest?cb=20190322044453",
@@ -11343,7 +11454,7 @@
   },
   {
     "id": "SID_生命の護符2",
-    "game8_id": null,
+    "game8_id": "266315",
     "name": "Mystic Boost 2",
     "group_name": "Mystic Boost",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f3/Mystic_Boost_2.png/revision/latest?cb=20190322044455",
@@ -11375,7 +11486,7 @@
   },
   {
     "id": "SID_見切り・追撃効果1",
-    "game8_id": null,
+    "game8_id": "266460",
     "name": "Null Follow-Up 1",
     "group_name": "Null Follow-Up",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f9/Null_Follow_Up_1.png/revision/latest?cb=20191213213751",
@@ -11393,7 +11504,7 @@
   },
   {
     "id": "SID_見切り・追撃効果2",
-    "game8_id": null,
+    "game8_id": "266461",
     "name": "Null Follow-Up 2",
     "group_name": "Null Follow-Up",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/5a/Null_Follow_Up_2.png/revision/latest?cb=20191213213729",
@@ -11429,7 +11540,7 @@
   },
   {
     "id": "SID_進軍阻止1",
-    "game8_id": null,
+    "game8_id": "266463",
     "name": "Obstruct 1",
     "group_name": "Obstruct",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/84/Obstruct_1.png/revision/latest?cb=20180810072142",
@@ -11445,7 +11556,7 @@
   },
   {
     "id": "SID_進軍阻止2",
-    "game8_id": null,
+    "game8_id": "266464",
     "name": "Obstruct 2",
     "group_name": "Obstruct",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/ac/Obstruct_2.png/revision/latest?cb=20180810072145",
@@ -11477,7 +11588,7 @@
   },
   {
     "id": "SID_攻撃の波・奇数1",
-    "game8_id": null,
+    "game8_id": "266705",
     "name": "Odd Atk Wave 1",
     "group_name": "Odd Atk Wave",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/31/Odd_Atk_Wave_1.png/revision/latest?cb=20190329002601",
@@ -11493,7 +11604,7 @@
   },
   {
     "id": "SID_攻撃の波・奇数2",
-    "game8_id": null,
+    "game8_id": "266706",
     "name": "Odd Atk Wave 2",
     "group_name": "Odd Atk Wave",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b2/Odd_Atk_Wave_2.png/revision/latest?cb=20190328194238",
@@ -11525,7 +11636,7 @@
   },
   {
     "id": "SID_守備の波・奇数1",
-    "game8_id": null,
+    "game8_id": "266708",
     "name": "Odd Def Wave 1",
     "group_name": "Odd Def Wave",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/0d/Odd_Def_Wave_1.png/revision/latest?cb=20180810072155",
@@ -11541,7 +11652,7 @@
   },
   {
     "id": "SID_守備の波・奇数2",
-    "game8_id": null,
+    "game8_id": "266709",
     "name": "Odd Def Wave 2",
     "group_name": "Odd Def Wave",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c6/Odd_Def_Wave_2.png/revision/latest?cb=20180810072156",
@@ -11573,7 +11684,7 @@
   },
   {
     "id": "SID_魔防の波・奇数1",
-    "game8_id": null,
+    "game8_id": "266711",
     "name": "Odd Res Wave 1",
     "group_name": "Odd Res Wave",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d9/Odd_Res_Wave_1.png/revision/latest?cb=20180810072200",
@@ -11589,7 +11700,7 @@
   },
   {
     "id": "SID_魔防の波・奇数2",
-    "game8_id": null,
+    "game8_id": "266712",
     "name": "Odd Res Wave 2",
     "group_name": "Odd Res Wave",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/40/Odd_Res_Wave_2.png/revision/latest?cb=20180810072201",
@@ -11621,7 +11732,7 @@
   },
   {
     "id": "SID_速さの波・奇数1",
-    "game8_id": null,
+    "game8_id": "266714",
     "name": "Odd Spd Wave 1",
     "group_name": "Odd Spd Wave",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/90/Odd_Spd_Wave_1.png/revision/latest?cb=20180920075202",
@@ -11637,7 +11748,7 @@
   },
   {
     "id": "SID_速さの波・奇数2",
-    "game8_id": null,
+    "game8_id": "266715",
     "name": "Odd Spd Wave 2",
     "group_name": "Odd Spd Wave",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/02/Odd_Spd_Wave_2.png/revision/latest?cb=20180920075214",
@@ -11669,7 +11780,7 @@
   },
   {
     "id": "SID_迅雷風烈・奇数1",
-    "game8_id": null,
+    "game8_id": "305778",
     "name": "Odd Tempest 1",
     "group_name": "Odd Tempest",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/03/Odd_Tempest_1.png/revision/latest?cb=20201030092444",
@@ -11692,7 +11803,7 @@
   },
   {
     "id": "SID_迅雷風烈・奇数2",
-    "game8_id": null,
+    "game8_id": "305777",
     "name": "Odd Tempest 2",
     "group_name": "Odd Tempest",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/ef/Odd_Tempest_2.png/revision/latest?cb=20201030092508",
@@ -11738,7 +11849,7 @@
   },
   {
     "id": "SID_恐慌の奇策1",
-    "game8_id": null,
+    "game8_id": "266718",
     "name": "Panic Ploy 1",
     "group_name": "Panic Ploy",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/73/Panic_Ploy_1.png/revision/latest?cb=20180810072207",
@@ -11754,7 +11865,7 @@
   },
   {
     "id": "SID_恐慌の奇策2",
-    "game8_id": null,
+    "game8_id": "266719",
     "name": "Panic Ploy 2",
     "group_name": "Panic Ploy",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/9d/Panic_Ploy_2.png/revision/latest?cb=20180810072208",
@@ -11786,7 +11897,7 @@
   },
   {
     "id": "SID_天馬行空1",
-    "game8_id": null,
+    "game8_id": "280168",
     "name": "Pegasus Flight 1",
     "group_name": "Pegasus Flight",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/2/2b/Pegasus_Flight_1.png/revision/latest?cb=20200217080852",
@@ -11806,7 +11917,7 @@
   },
   {
     "id": "SID_天馬行空2",
-    "game8_id": null,
+    "game8_id": "280167",
     "name": "Pegasus Flight 2",
     "group_name": "Pegasus Flight",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/1b/Pegasus_Flight_2.png/revision/latest?cb=20200217080902",
@@ -11846,7 +11957,7 @@
   },
   {
     "id": "SID_蛇毒1",
-    "game8_id": null,
+    "game8_id": "266469",
     "name": "Poison Strike 1",
     "group_name": "Poison Strike",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/6c/Poison_Strike_1.png/revision/latest?cb=20180810072222",
@@ -11864,7 +11975,7 @@
   },
   {
     "id": "SID_蛇毒2",
-    "game8_id": null,
+    "game8_id": "266470",
     "name": "Poison Strike 2",
     "group_name": "Poison Strike",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b8/Poison_Strike_2.png/revision/latest?cb=20180810072223",
@@ -11900,7 +12011,7 @@
   },
   {
     "id": "SID_切り返し1",
-    "game8_id": null,
+    "game8_id": "266472",
     "name": "Quick Riposte 1",
     "group_name": "Quick Riposte",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/69/Quick_Riposte_1.png/revision/latest?cb=20180810072228",
@@ -11916,7 +12027,7 @@
   },
   {
     "id": "SID_切り返し2",
-    "game8_id": null,
+    "game8_id": "266473",
     "name": "Quick Riposte 2",
     "group_name": "Quick Riposte",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/71/Quick_Riposte_2.png/revision/latest?cb=20180810072231",
@@ -11948,7 +12059,7 @@
   },
   {
     "id": "SID_回復1",
-    "game8_id": null,
+    "game8_id": "266478",
     "name": "Renewal 1",
     "group_name": "Renewal",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c6/Renewal_1.png/revision/latest?cb=20180810072259",
@@ -11964,7 +12075,7 @@
   },
   {
     "id": "SID_回復2",
-    "game8_id": null,
+    "game8_id": "266479",
     "name": "Renewal 2",
     "group_name": "Renewal",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/a0/Renewal_2.png/revision/latest?cb=20180810072300",
@@ -11996,7 +12107,7 @@
   },
   {
     "id": "SID_魔防の共謀1",
-    "game8_id": null,
+    "game8_id": "266320",
     "name": "Res Feint 1",
     "group_name": "Res Feint",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/ac/Res_Feint_1.png/revision/latest?cb=20190322050206",
@@ -12014,7 +12125,7 @@
   },
   {
     "id": "SID_魔防の共謀2",
-    "game8_id": null,
+    "game8_id": "266321",
     "name": "Res Feint 2",
     "group_name": "Res Feint",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c2/Res_Feint_2.png/revision/latest?cb=20190322050208",
@@ -12050,7 +12161,7 @@
   },
   {
     "id": "SID_魔防の開放1",
-    "game8_id": null,
+    "game8_id": "266575",
     "name": "Res Opening 1",
     "group_name": "Res Opening",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d4/Res_Opening_1.png/revision/latest?cb=20190322050212",
@@ -12066,7 +12177,7 @@
   },
   {
     "id": "SID_魔防の開放2",
-    "game8_id": null,
+    "game8_id": "266576",
     "name": "Res Opening 2",
     "group_name": "Res Opening",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e0/Res_Opening_2.png/revision/latest?cb=20190322050200",
@@ -12098,7 +12209,7 @@
   },
   {
     "id": "SID_魔防の謀策1",
-    "game8_id": null,
+    "game8_id": "266727",
     "name": "Res Ploy 1",
     "group_name": "Res Ploy",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/ae/Res_Ploy_1.png/revision/latest?cb=20180810072303",
@@ -12114,7 +12225,7 @@
   },
   {
     "id": "SID_魔防の謀策2",
-    "game8_id": null,
+    "game8_id": "266728",
     "name": "Res Ploy 2",
     "group_name": "Res Ploy",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/2/27/Res_Ploy_2.png/revision/latest?cb=20180810072304",
@@ -12146,7 +12257,7 @@
   },
   {
     "id": "SID_魔防の指揮1",
-    "game8_id": null,
+    "game8_id": "266733",
     "name": "Res Tactic 1",
     "group_name": "Res Tactic",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/a8/Res_Tactic_1.png/revision/latest?cb=20180810072314",
@@ -12162,7 +12273,7 @@
   },
   {
     "id": "SID_魔防の指揮2",
-    "game8_id": null,
+    "game8_id": "266734",
     "name": "Res Tactic 2",
     "group_name": "Res Tactic",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/a1/Res_Tactic_2.png/revision/latest?cb=20180810072315",
@@ -12194,7 +12305,7 @@
   },
   {
     "id": "SID_魔防1",
-    "game8_id": null,
+    "game8_id": "266245",
     "name": "Resistance +1",
     "group_name": "Resistance +",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/07/Resistance_Plus_1.png/revision/latest?cb=20180810072321",
@@ -12210,7 +12321,7 @@
   },
   {
     "id": "SID_魔防2",
-    "game8_id": null,
+    "game8_id": "266246",
     "name": "Resistance +2",
     "group_name": "Resistance +",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/47/Resistance_Plus_2.png/revision/latest?cb=20180810072323",
@@ -12242,7 +12353,7 @@
   },
   {
     "id": "SID_攻撃守備の奮起1",
-    "game8_id": null,
+    "game8_id": "268902",
     "name": "Rouse Atk/Def 1",
     "group_name": "Rouse Atk/Def",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/ba/Rouse_Atk_Def_1.png/revision/latest?cb=20190722062315",
@@ -12261,7 +12372,7 @@
   },
   {
     "id": "SID_攻撃守備の奮起2",
-    "game8_id": null,
+    "game8_id": "268903",
     "name": "Rouse Atk/Def 2",
     "group_name": "Rouse Atk/Def",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/2/2f/Rouse_Atk_Def_2.png/revision/latest?cb=20190722062307",
@@ -12299,7 +12410,7 @@
   },
   {
     "id": "SID_攻撃速さの奮起1",
-    "game8_id": null,
+    "game8_id": "305187",
     "name": "Rouse Atk/Spd 1",
     "group_name": "Rouse Atk/Spd",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b9/Rouse_Atk_Spd_1.png/revision/latest?cb=20201019091357",
@@ -12318,7 +12429,7 @@
   },
   {
     "id": "SID_攻撃速さの奮起2",
-    "game8_id": null,
+    "game8_id": "305185",
     "name": "Rouse Atk/Spd 2",
     "group_name": "Rouse Atk/Spd",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/72/Rouse_Atk_Spd_2.png/revision/latest?cb=20201019091411",
@@ -12356,7 +12467,7 @@
   },
   {
     "id": "SID_守備魔防の奮起1",
-    "game8_id": null,
+    "game8_id": "275222",
     "name": "Rouse Def/Res 1",
     "group_name": "Rouse Def/Res",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/2/23/Rouse_Def_Res_1.png/revision/latest?cb=20191119084307",
@@ -12375,7 +12486,7 @@
   },
   {
     "id": "SID_守備魔防の奮起2",
-    "game8_id": null,
+    "game8_id": "275223",
     "name": "Rouse Def/Res 2",
     "group_name": "Rouse Def/Res",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/41/Rouse_Def_Res_2.png/revision/latest?cb=20191119084317",
@@ -12413,7 +12524,7 @@
   },
   {
     "id": "SID_速さ守備の奮起1",
-    "game8_id": null,
+    "game8_id": "282354",
     "name": "Rouse Spd/Def 1",
     "group_name": "Rouse Spd/Def",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/9d/Rouse_Spd_Def_1.png/revision/latest?cb=20200305080936",
@@ -12432,7 +12543,7 @@
   },
   {
     "id": "SID_速さ守備の奮起2",
-    "game8_id": null,
+    "game8_id": "282355",
     "name": "Rouse Spd/Def 2",
     "group_name": "Rouse Spd/Def",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/01/Rouse_Spd_Def_2.png/revision/latest?cb=20200305080946",
@@ -12470,7 +12581,7 @@
   },
   {
     "id": "SID_死の吐息1",
-    "game8_id": null,
+    "game8_id": "266736",
     "name": "Savage Blow 1",
     "group_name": "Savage Blow",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/47/Savage_Blow_1.png/revision/latest?cb=20180810072336",
@@ -12486,7 +12597,7 @@
   },
   {
     "id": "SID_死の吐息2",
-    "game8_id": null,
+    "game8_id": "266737",
     "name": "Savage Blow 2",
     "group_name": "Savage Blow",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/42/Savage_Blow_2.png/revision/latest?cb=20180810072338",
@@ -12518,7 +12629,7 @@
   },
   {
     "id": "SID_攻撃封じ1",
-    "game8_id": null,
+    "game8_id": "266485",
     "name": "Seal Atk 1",
     "group_name": "Seal Atk",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d8/Seal_Atk_1.png/revision/latest?cb=20180810072400",
@@ -12536,7 +12647,7 @@
   },
   {
     "id": "SID_攻撃封じ2",
-    "game8_id": null,
+    "game8_id": "266486",
     "name": "Seal Atk 2",
     "group_name": "Seal Atk",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/0b/Seal_Atk_2.png/revision/latest?cb=20180810072401",
@@ -12572,7 +12683,7 @@
   },
   {
     "id": "SID_速さ封じ1",
-    "game8_id": null,
+    "game8_id": "266501",
     "name": "Seal Spd 1",
     "group_name": "Seal Spd",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/db/Seal_Spd_1.png/revision/latest?cb=20180810072353",
@@ -12590,7 +12701,7 @@
   },
   {
     "id": "SID_速さ封じ2",
-    "game8_id": null,
+    "game8_id": "266502",
     "name": "Seal Spd 2",
     "group_name": "Seal Spd",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b8/Seal_Spd_2.png/revision/latest?cb=20180810072356",
@@ -12626,7 +12737,7 @@
   },
   {
     "id": "SID_盾のセッション1",
-    "game8_id": null,
+    "game8_id": "275872",
     "name": "Shield Session 1",
     "group_name": "Shield Session",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/3b/Shield_Session_1.png/revision/latest?cb=20200117052803",
@@ -12642,7 +12753,7 @@
   },
   {
     "id": "SID_盾のセッション2",
-    "game8_id": null,
+    "game8_id": "275873",
     "name": "Shield Session 2",
     "group_name": "Shield Session",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/1b/Shield_Session_2.png/revision/latest?cb=20200117052813",
@@ -12673,8 +12784,62 @@
     }
   },
   {
+    "id": "SID_正面隊形・自己1",
+    "game8_id": "304728",
+    "name": "Slick Fighter 1",
+    "group_name": "Slick Fighter",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/af/Slick_Fighter_1.png/revision/latest?cb=20201007015907",
+    "sp": 60,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Armored"
+        ]
+      },
+      "weapons": {
+        "none": true
+      }
+    }
+  },
+  {
+    "id": "SID_正面隊形・自己2",
+    "game8_id": "304727",
+    "name": "Slick Fighter 2",
+    "group_name": "Slick Fighter",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/a2/Slick_Fighter_2.png/revision/latest?cb=20201007015917",
+    "sp": 120,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Armored"
+        ]
+      },
+      "weapons": {
+        "none": true
+      }
+    }
+  },
+  {
+    "id": "SID_正面隊形・自己3",
+    "game8_id": "512840",
+    "name": "Slick Fighter 3",
+    "group_name": "Slick Fighter",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/0a/Slick_Fighter_3.png/revision/latest?cb=20201007015927",
+    "sp": 240,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Armored"
+        ]
+      },
+      "weapons": {
+        "none": true
+      }
+    }
+  },
+  {
     "id": "SID_不壊1",
-    "game8_id": null,
+    "game8_id": "393693",
     "name": "Solid Ground 1",
     "group_name": "Solid Ground",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/1b/Solid_Ground_1.png/revision/latest?cb=20221017052144",
@@ -12690,7 +12855,7 @@
   },
   {
     "id": "SID_不壊2",
-    "game8_id": null,
+    "game8_id": "393692",
     "name": "Solid Ground 2",
     "group_name": "Solid Ground",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/38/Solid_Ground_2.png/revision/latest?cb=20221017052155",
@@ -12722,7 +12887,7 @@
   },
   {
     "id": "SID_魔道の刃1",
-    "game8_id": null,
+    "game8_id": "266248",
     "name": "Sorcery Blade 1",
     "group_name": "Sorcery Blade",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d2/Sorcery_Blade_1.png/revision/latest?cb=20190712045441",
@@ -12744,7 +12909,7 @@
   },
   {
     "id": "SID_魔道の刃2",
-    "game8_id": null,
+    "game8_id": "266249",
     "name": "Sorcery Blade 2",
     "group_name": "Sorcery Blade",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/7d/Sorcery_Blade_2.png/revision/latest?cb=20190712045422",
@@ -12788,7 +12953,7 @@
   },
   {
     "id": "SID_速さの共謀1",
-    "game8_id": null,
+    "game8_id": "266508",
     "name": "Spd Feint 1",
     "group_name": "Spd Feint",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/64/Spd_Feint_1.png/revision/latest?cb=20180810072431",
@@ -12806,7 +12971,7 @@
   },
   {
     "id": "SID_速さの共謀2",
-    "game8_id": null,
+    "game8_id": "266509",
     "name": "Spd Feint 2",
     "group_name": "Spd Feint",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/ab/Spd_Feint_2.png/revision/latest?cb=20180810072432",
@@ -12842,7 +13007,7 @@
   },
   {
     "id": "SID_速さの開放1",
-    "game8_id": null,
+    "game8_id": "266569",
     "name": "Spd Opening 1",
     "group_name": "Spd Opening",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/90/Spd_Opening_1.png/revision/latest?cb=20190322050133",
@@ -12858,7 +13023,7 @@
   },
   {
     "id": "SID_速さの開放2",
-    "game8_id": null,
+    "game8_id": "266570",
     "name": "Spd Opening 2",
     "group_name": "Spd Opening",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/95/Spd_Opening_2.png/revision/latest?cb=20190322050234",
@@ -12890,7 +13055,7 @@
   },
   {
     "id": "SID_速さの謀策1",
-    "game8_id": null,
+    "game8_id": "266739",
     "name": "Spd Ploy 1",
     "group_name": "Spd Ploy",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d4/Spd_Ploy_1.png/revision/latest?cb=20180810072433",
@@ -12906,7 +13071,7 @@
   },
   {
     "id": "SID_速さの謀策2",
-    "game8_id": null,
+    "game8_id": "266740",
     "name": "Spd Ploy 2",
     "group_name": "Spd Ploy",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/07/Spd_Ploy_2.png/revision/latest?cb=20180810072434",
@@ -12938,7 +13103,7 @@
   },
   {
     "id": "SID_速さの紫煙1",
-    "game8_id": null,
+    "game8_id": "266742",
     "name": "Spd Smoke 1",
     "group_name": "Spd Smoke",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d4/Spd_Smoke_1.png/revision/latest?cb=20180810072441",
@@ -12956,7 +13121,7 @@
   },
   {
     "id": "SID_速さの紫煙2",
-    "game8_id": null,
+    "game8_id": "266743",
     "name": "Spd Smoke 2",
     "group_name": "Spd Smoke",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/fe/Spd_Smoke_2.png/revision/latest?cb=20180810072442",
@@ -12992,7 +13157,7 @@
   },
   {
     "id": "SID_速さの指揮1",
-    "game8_id": null,
+    "game8_id": "266745",
     "name": "Spd Tactic 1",
     "group_name": "Spd Tactic",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/30/Spd_Tactic_1.png/revision/latest?cb=20180810072443",
@@ -13008,7 +13173,7 @@
   },
   {
     "id": "SID_速さの指揮2",
-    "game8_id": null,
+    "game8_id": "266746",
     "name": "Spd Tactic 2",
     "group_name": "Spd Tactic",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/64/Spd_Tactic_2.png/revision/latest?cb=20180810072444",
@@ -13040,7 +13205,7 @@
   },
   {
     "id": "SID_速さ守備1",
-    "game8_id": null,
+    "game8_id": "266251",
     "name": "Spd/Def 1",
     "group_name": "Spd/Def",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/a0/Spd_Def_1.png/revision/latest?cb=20180810072425",
@@ -13072,7 +13237,7 @@
   },
   {
     "id": "SID_速さ守備の絆1",
-    "game8_id": null,
+    "game8_id": "266253",
     "name": "Spd/Def Bond 1",
     "group_name": "Spd/Def Bond",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/de/Spd_Def_Bond_1.png/revision/latest?cb=20180810072427",
@@ -13088,7 +13253,7 @@
   },
   {
     "id": "SID_速さ守備の絆2",
-    "game8_id": null,
+    "game8_id": "266254",
     "name": "Spd/Def Bond 2",
     "group_name": "Spd/Def Bond",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/2/2b/Spd_Def_Bond_2.png/revision/latest?cb=20180810072428",
@@ -13120,7 +13285,7 @@
   },
   {
     "id": "SID_速さ守備の機先1",
-    "game8_id": null,
+    "game8_id": "379040",
     "name": "Spd/Def Catch 1",
     "group_name": "Spd/Def Catch",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/0f/Spd_Def_Catch_1.png/revision/latest?cb=20220607041526",
@@ -13139,7 +13304,7 @@
   },
   {
     "id": "SID_速さ守備の機先2",
-    "game8_id": null,
+    "game8_id": "379039",
     "name": "Spd/Def Catch 2",
     "group_name": "Spd/Def Catch",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/17/Spd_Def_Catch_2.png/revision/latest?cb=20220607041531",
@@ -13177,7 +13342,7 @@
   },
   {
     "id": "SID_速さ守備の密集1",
-    "game8_id": null,
+    "game8_id": "270333",
     "name": "Spd/Def Form 1",
     "group_name": "Spd/Def Form",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e1/Spd_Def_Form_1.png/revision/latest?cb=20190921224634",
@@ -13193,7 +13358,7 @@
   },
   {
     "id": "SID_速さ守備の密集2",
-    "game8_id": null,
+    "game8_id": "270334",
     "name": "Spd/Def Form 2",
     "group_name": "Spd/Def Form",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/8e/Spd_Def_Form_2.png/revision/latest?cb=20190921224644",
@@ -13225,7 +13390,7 @@
   },
   {
     "id": "SID_速さ守備の万全1",
-    "game8_id": null,
+    "game8_id": "367159",
     "name": "Spd/Def Ideal 1",
     "group_name": "Spd/Def Ideal",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/ab/Spd_Def_Ideal_1.png/revision/latest?cb=20220218062210",
@@ -13244,7 +13409,7 @@
   },
   {
     "id": "SID_速さ守備の万全2",
-    "game8_id": null,
+    "game8_id": "367158",
     "name": "Spd/Def Ideal 2",
     "group_name": "Spd/Def Ideal",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d2/Spd_Def_Ideal_2.png/revision/latest?cb=20220218062215",
@@ -13282,7 +13447,7 @@
   },
   {
     "id": "SID_速さ守備の信義1",
-    "game8_id": null,
+    "game8_id": "286474",
     "name": "Spd/Def Oath 1",
     "group_name": "Spd/Def Oath",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b8/Spd_Def_Oath_1.png/revision/latest?cb=20200420161233",
@@ -13301,7 +13466,7 @@
   },
   {
     "id": "SID_速さ守備の信義2",
-    "game8_id": null,
+    "game8_id": "286473",
     "name": "Spd/Def Oath 2",
     "group_name": "Spd/Def Oath",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/41/Spd_Def_Oath_2.png/revision/latest?cb=20200420161243",
@@ -13339,7 +13504,7 @@
   },
   {
     "id": "SID_速さ守備の牽制1",
-    "game8_id": null,
+    "game8_id": "296673",
     "name": "Spd/Def Rein 1",
     "group_name": "Spd/Def Rein",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/92/Spd_Def_Rein_1.png/revision/latest?cb=20200918180052",
@@ -13357,7 +13522,7 @@
   },
   {
     "id": "SID_速さ守備の牽制2",
-    "game8_id": null,
+    "game8_id": "296671",
     "name": "Spd/Def Rein 2",
     "group_name": "Spd/Def Rein",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/19/Spd_Def_Rein_2.png/revision/latest?cb=20200918180103",
@@ -13393,7 +13558,7 @@
   },
   {
     "id": "SID_速さ守備の孤軍1",
-    "game8_id": null,
+    "game8_id": "267085",
     "name": "Spd/Def Solo 1",
     "group_name": "Spd/Def Solo",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/8a/Spd_Def_Solo_1.png/revision/latest?cb=20190410042953",
@@ -13409,7 +13574,7 @@
   },
   {
     "id": "SID_速さ守備の孤軍2",
-    "game8_id": null,
+    "game8_id": "267086",
     "name": "Spd/Def Solo 2",
     "group_name": "Spd/Def Solo",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/59/Spd_Def_Solo_2.png/revision/latest?cb=20190411213051",
@@ -13441,7 +13606,7 @@
   },
   {
     "id": "SID_速さ守備の拍節1",
-    "game8_id": null,
+    "game8_id": "373969",
     "name": "Spd/Def Tempo 1",
     "group_name": "Spd/Def Tempo",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/0e/Spd_Def_Tempo_1.png/revision/latest?cb=20220406053217",
@@ -13459,7 +13624,7 @@
   },
   {
     "id": "SID_速さ守備の拍節2",
-    "game8_id": null,
+    "game8_id": "373970",
     "name": "Spd/Def Tempo 2",
     "group_name": "Spd/Def Tempo",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e0/Spd_Def_Tempo_2.png/revision/latest?cb=20220406053221",
@@ -13495,7 +13660,7 @@
   },
   {
     "id": "SID_速さ魔防1",
-    "game8_id": null,
+    "game8_id": "266256",
     "name": "Spd/Res 1",
     "group_name": "Spd/Res",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b1/Spd_Res_1.png/revision/latest?cb=20180810072436",
@@ -13511,7 +13676,7 @@
   },
   {
     "id": "SID_速さ魔防2",
-    "game8_id": null,
+    "game8_id": "266257",
     "name": "Spd/Res 2",
     "group_name": "Spd/Res",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/5c/Spd_Res_2.png/revision/latest?cb=20180810072437",
@@ -13527,7 +13692,7 @@
   },
   {
     "id": "SID_速さ魔防の絆1",
-    "game8_id": null,
+    "game8_id": "266258",
     "name": "Spd/Res Bond 1",
     "group_name": "Spd/Res Bond",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/13/Spd_Res_Bond_1.png/revision/latest?cb=20180810072438",
@@ -13543,7 +13708,7 @@
   },
   {
     "id": "SID_速さ魔防の絆2",
-    "game8_id": null,
+    "game8_id": "266259",
     "name": "Spd/Res Bond 2",
     "group_name": "Spd/Res Bond",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f8/Spd_Res_Bond_2.png/revision/latest?cb=20180810072439",
@@ -13575,7 +13740,7 @@
   },
   {
     "id": "SID_速さ魔防の機先1",
-    "game8_id": null,
+    "game8_id": "408205",
     "name": "Spd/Res Catch 1",
     "group_name": "Spd/Res Catch",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/3e/Spd_Res_Catch_1.png/revision/latest?cb=20230317062136",
@@ -13594,7 +13759,7 @@
   },
   {
     "id": "SID_速さ魔防の機先2",
-    "game8_id": null,
+    "game8_id": "408206",
     "name": "Spd/Res Catch 2",
     "group_name": "Spd/Res Catch",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e0/Spd_Res_Catch_2.png/revision/latest?cb=20230317062146",
@@ -13632,7 +13797,7 @@
   },
   {
     "id": "SID_速さ魔防の秘奥1",
-    "game8_id": null,
+    "game8_id": "397228",
     "name": "Spd/Res Finish 1",
     "group_name": "Spd/Res Finish",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/39/Spd_Res_Finish_1.png/revision/latest?cb=20221118043952",
@@ -13650,7 +13815,7 @@
   },
   {
     "id": "SID_速さ魔防の秘奥2",
-    "game8_id": null,
+    "game8_id": "397227",
     "name": "Spd/Res Finish 2",
     "group_name": "Spd/Res Finish",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/1d/Spd_Res_Finish_2.png/revision/latest?cb=20221118044002",
@@ -13686,7 +13851,7 @@
   },
   {
     "id": "SID_速さ魔防の密集1",
-    "game8_id": null,
+    "game8_id": "280157",
     "name": "Spd/Res Form 1",
     "group_name": "Spd/Res Form",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/9e/Spd_Res_Form_1.png/revision/latest?cb=20200217080752",
@@ -13702,7 +13867,7 @@
   },
   {
     "id": "SID_速さ魔防の密集2",
-    "game8_id": null,
+    "game8_id": "280158",
     "name": "Spd/Res Form 2",
     "group_name": "Spd/Res Form",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/3e/Spd_Res_Form_2.png/revision/latest?cb=20200217080802",
@@ -13734,7 +13899,7 @@
   },
   {
     "id": "SID_速さ魔防の万全1",
-    "game8_id": null,
+    "game8_id": "402567",
     "name": "Spd/Res Ideal 1",
     "group_name": "Spd/Res Ideal",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/41/Spd_Res_Ideal_1.png/revision/latest?cb=20230117050558",
@@ -13753,7 +13918,7 @@
   },
   {
     "id": "SID_速さ魔防の万全2",
-    "game8_id": null,
+    "game8_id": "402566",
     "name": "Spd/Res Ideal 2",
     "group_name": "Spd/Res Ideal",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/49/Spd_Res_Ideal_2.png/revision/latest?cb=20230117050612",
@@ -13896,7 +14061,7 @@
   },
   {
     "id": "SID_速さ魔防の拍節1",
-    "game8_id": null,
+    "game8_id": "389206",
     "name": "Spd/Res Tempo 1",
     "group_name": "Spd/Res Tempo",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/1d/Spd_Res_Tempo_1.png/revision/latest?cb=20220916013504",
@@ -13914,7 +14079,7 @@
   },
   {
     "id": "SID_速さ魔防の拍節2",
-    "game8_id": null,
+    "game8_id": "389207",
     "name": "Spd/Res Tempo 2",
     "group_name": "Spd/Res Tempo",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/17/Spd_Res_Tempo_2.png/revision/latest?cb=20220916013514",
@@ -13950,7 +14115,7 @@
   },
   {
     "id": "SID_奥義隊形1",
-    "game8_id": null,
+    "game8_id": "266514",
     "name": "Special Fighter 1",
     "group_name": "Special Fighter",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/35/Special_Fighter_1.png/revision/latest?cb=20180821061323",
@@ -13968,7 +14133,7 @@
   },
   {
     "id": "SID_奥義隊形2",
-    "game8_id": null,
+    "game8_id": "266515",
     "name": "Special Fighter 2",
     "group_name": "Special Fighter",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b7/Special_Fighter_2.png/revision/latest?cb=20180821061318",
@@ -14004,7 +14169,7 @@
   },
   {
     "id": "SID_速さ1",
-    "game8_id": null,
+    "game8_id": "266261",
     "name": "Speed +1",
     "group_name": "Speed +",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/2/2c/Speed_Plus_1.png/revision/latest?cb=20180810072448",
@@ -14020,7 +14185,7 @@
   },
   {
     "id": "SID_速さ2",
-    "game8_id": null,
+    "game8_id": "266262",
     "name": "Speed +2",
     "group_name": "Speed +",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/53/Speed_Plus_2.png/revision/latest?cb=20180810072449",
@@ -14052,7 +14217,7 @@
   },
   {
     "id": "SID_攻撃の紋章1",
-    "game8_id": null,
+    "game8_id": "266748",
     "name": "Spur Atk 1",
     "group_name": "Spur Atk",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/bf/Spur_Atk_1.png/revision/latest?cb=20180810072452",
@@ -14068,7 +14233,7 @@
   },
   {
     "id": "SID_攻撃の紋章2",
-    "game8_id": null,
+    "game8_id": "266749",
     "name": "Spur Atk 2",
     "group_name": "Spur Atk",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/8d/Spur_Atk_2.png/revision/latest?cb=20180810072453",
@@ -14100,7 +14265,7 @@
   },
   {
     "id": "SID_攻撃守備の紋章1",
-    "game8_id": null,
+    "game8_id": "266751",
     "name": "Spur Atk/Def 1",
     "group_name": "Spur Atk/Def",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d3/Spur_Atk_Def_1.png/revision/latest?cb=20180810072505",
@@ -14132,7 +14297,7 @@
   },
   {
     "id": "SID_攻撃魔防の紋章1",
-    "game8_id": null,
+    "game8_id": "266754",
     "name": "Spur Atk/Res 1",
     "group_name": "Spur Atk/Res",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/9d/Spur_Atk_Res_1.png/revision/latest?cb=20180810072507",
@@ -14164,7 +14329,7 @@
   },
   {
     "id": "SID_攻撃速さの紋章1",
-    "game8_id": null,
+    "game8_id": "266756",
     "name": "Spur Atk/Spd 1",
     "group_name": "Spur Atk/Spd",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/6d/Spur_Atk_Spd_1.png/revision/latest?cb=20180810072509",
@@ -14196,7 +14361,7 @@
   },
   {
     "id": "SID_守備の紋章1",
-    "game8_id": null,
+    "game8_id": "266758",
     "name": "Spur Def 1",
     "group_name": "Spur Def",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/ed/Spur_Def_1.png/revision/latest?cb=20180810072455",
@@ -14212,7 +14377,7 @@
   },
   {
     "id": "SID_守備の紋章2",
-    "game8_id": null,
+    "game8_id": "266759",
     "name": "Spur Def 2",
     "group_name": "Spur Def",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/cf/Spur_Def_2.png/revision/latest?cb=20180810072456",
@@ -14244,7 +14409,7 @@
   },
   {
     "id": "SID_守備魔防の紋章1",
-    "game8_id": null,
+    "game8_id": "266761",
     "name": "Spur Def/Res 1",
     "group_name": "Spur Def/Res",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c9/Spur_Def_Res_1.png/revision/latest?cb=20180810072511",
@@ -14276,7 +14441,7 @@
   },
   {
     "id": "SID_魔防の紋章1",
-    "game8_id": null,
+    "game8_id": "266763",
     "name": "Spur Res 1",
     "group_name": "Spur Res",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/7d/Spur_Res_1.png/revision/latest?cb=20180810072458",
@@ -14292,7 +14457,7 @@
   },
   {
     "id": "SID_魔防の紋章2",
-    "game8_id": null,
+    "game8_id": "266764",
     "name": "Spur Res 2",
     "group_name": "Spur Res",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/92/Spur_Res_2.png/revision/latest?cb=20180810072459",
@@ -14324,7 +14489,7 @@
   },
   {
     "id": "SID_速さの紋章1",
-    "game8_id": null,
+    "game8_id": "266766",
     "name": "Spur Spd 1",
     "group_name": "Spur Spd",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b9/Spur_Spd_1.png/revision/latest?cb=20180810072501",
@@ -14340,7 +14505,7 @@
   },
   {
     "id": "SID_速さの紋章2",
-    "game8_id": null,
+    "game8_id": "266767",
     "name": "Spur Spd 2",
     "group_name": "Spur Spd",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/5b/Spur_Spd_2.png/revision/latest?cb=20180810072502",
@@ -14372,7 +14537,7 @@
   },
   {
     "id": "SID_速さ守備の紋章1",
-    "game8_id": null,
+    "game8_id": "266769",
     "name": "Spur Spd/Def 1",
     "group_name": "Spur Spd/Def",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/fe/Spur_Spd_Def_1.png/revision/latest?cb=20180810072512",
@@ -14404,7 +14569,7 @@
   },
   {
     "id": "SID_速さ魔防の紋章1",
-    "game8_id": null,
+    "game8_id": "266771",
     "name": "Spur Spd/Res 1",
     "group_name": "Spur Spd/Res",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c4/Spur_Spd_Res_1.png/revision/latest?cb=20180810072514",
@@ -14436,7 +14601,7 @@
   },
   {
     "id": "SID_飛燕金剛の一撃1",
-    "game8_id": null,
+    "game8_id": "266264",
     "name": "Steady Blow 1",
     "group_name": "Steady Blow",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f0/Steady_Blow_1.png/revision/latest?cb=20180810072533",
@@ -14495,7 +14660,7 @@
   },
   {
     "id": "SID_飛燕金剛の構え1",
-    "game8_id": null,
+    "game8_id": "266267",
     "name": "Steady Posture 1",
     "group_name": "Steady Posture",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/56/Steady_Posture_1.png/revision/latest?cb=20180906174030",
@@ -14531,7 +14696,7 @@
   },
   {
     "id": "SID_金剛の構え1",
-    "game8_id": null,
+    "game8_id": "266269",
     "name": "Steady Stance 1",
     "group_name": "Steady Stance",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/10/Steady_Stance_1.png/revision/latest?cb=20180810072536",
@@ -14547,7 +14712,7 @@
   },
   {
     "id": "SID_金剛の構え2",
-    "game8_id": null,
+    "game8_id": "266271",
     "name": "Steady Stance 2",
     "group_name": "Steady Stance",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/70/Steady_Stance_2.png/revision/latest?cb=20180810072537",
@@ -14579,7 +14744,7 @@
   },
   {
     "id": "SID_止水1",
-    "game8_id": null,
+    "game8_id": "377382",
     "name": "Still Water 1",
     "group_name": "Still Water",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/a8/Still_Water_1.png/revision/latest?cb=20220520043145",
@@ -14595,7 +14760,7 @@
   },
   {
     "id": "SID_止水2",
-    "game8_id": null,
+    "game8_id": "377381",
     "name": "Still Water 2",
     "group_name": "Still Water",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/59/Still_Water_2.png/revision/latest?cb=20220520043149",
@@ -14627,7 +14792,7 @@
   },
   {
     "id": "SID_鬼神金剛の一撃1",
-    "game8_id": null,
+    "game8_id": "266274",
     "name": "Sturdy Blow 1",
     "group_name": "Sturdy Blow",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/6f/Sturdy_Blow_1.png/revision/latest?cb=20180810072539",
@@ -14663,7 +14828,7 @@
   },
   {
     "id": "SID_鬼神金剛の構え1",
-    "game8_id": null,
+    "game8_id": "266276",
     "name": "Sturdy Stance 1",
     "group_name": "Sturdy Stance",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b2/Sturdy_Stance_1.png/revision/latest?cb=20180810072541",
@@ -14699,7 +14864,7 @@
   },
   {
     "id": "SID_鬼神飛燕の一撃1",
-    "game8_id": null,
+    "game8_id": "266279",
     "name": "Swift Sparrow 1",
     "group_name": "Swift Sparrow",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/57/Swift_Sparrow_1.png/revision/latest?cb=20180810072544",
@@ -14735,7 +14900,7 @@
   },
   {
     "id": "SID_飛燕明鏡の構え1",
-    "game8_id": null,
+    "game8_id": "266281",
     "name": "Swift Stance 1",
     "group_name": "Swift Stance",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/53/Swift_Stance_1.png/revision/latest?cb=20180810072546",
@@ -14771,7 +14936,7 @@
   },
   {
     "id": "SID_飛燕明鏡の一撃1",
-    "game8_id": null,
+    "game8_id": "266283",
     "name": "Swift Strike 1",
     "group_name": "Swift Strike",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/30/Swift_Strike_1.png/revision/latest?cb=20180810072548",
@@ -14807,7 +14972,7 @@
   },
   {
     "id": "SID_攻撃守備の威嚇1",
-    "game8_id": null,
+    "game8_id": "279417",
     "name": "Threat. Atk/Def 1",
     "group_name": "Threat. Atk/Def",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/84/Threat._Atk_Def_1.png/revision/latest?cb=20200206084157",
@@ -14839,7 +15004,7 @@
   },
   {
     "id": "SID_攻撃魔防の威嚇1",
-    "game8_id": null,
+    "game8_id": "275215",
     "name": "Threat. Atk/Res 1",
     "group_name": "Threat. Atk/Res",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/41/Threat._Atk_Res_1.png/revision/latest?cb=20191216075658",
@@ -14871,7 +15036,7 @@
   },
   {
     "id": "SID_守備魔防の威嚇1",
-    "game8_id": null,
+    "game8_id": "333601",
     "name": "Threat. Def/Res 1",
     "group_name": "Threat. Def/Res",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/3c/Threat._Def_Res_1.png/revision/latest?cb=20210608115811",
@@ -14903,7 +15068,7 @@
   },
   {
     "id": "SID_速さ守備の威嚇1",
-    "game8_id": null,
+    "game8_id": "336716",
     "name": "Threat. Spd/Def 1",
     "group_name": "Threat. Spd/Def",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/00/Threat._Spd_Def_1.png/revision/latest?cb=20210706052114",
@@ -14935,7 +15100,7 @@
   },
   {
     "id": "SID_速さ魔防の威嚇1",
-    "game8_id": null,
+    "game8_id": "376096",
     "name": "Threat. Spd/Res 1",
     "group_name": "Threat. Spd/Res",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b0/Threat._Spd_Res_1.png/revision/latest?cb=20230619051735",
@@ -14967,7 +15132,7 @@
   },
   {
     "id": "SID_攻撃の威嚇1",
-    "game8_id": null,
+    "game8_id": "266783",
     "name": "Threaten Atk 1",
     "group_name": "Threaten Atk",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d9/Threaten_Atk_1.png/revision/latest?cb=20180810072603",
@@ -14983,7 +15148,7 @@
   },
   {
     "id": "SID_攻撃の威嚇2",
-    "game8_id": null,
+    "game8_id": "266784",
     "name": "Threaten Atk 2",
     "group_name": "Threaten Atk",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/13/Threaten_Atk_2.png/revision/latest?cb=20180810072604",
@@ -15015,7 +15180,7 @@
   },
   {
     "id": "SID_守備の威嚇1",
-    "game8_id": null,
+    "game8_id": "266786",
     "name": "Threaten Def 1",
     "group_name": "Threaten Def",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/9c/Threaten_Def_1.png/revision/latest?cb=20180810072606",
@@ -15031,7 +15196,7 @@
   },
   {
     "id": "SID_守備の威嚇2",
-    "game8_id": null,
+    "game8_id": "266787",
     "name": "Threaten Def 2",
     "group_name": "Threaten Def",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b9/Threaten_Def_2.png/revision/latest?cb=20180810072607",
@@ -15063,7 +15228,7 @@
   },
   {
     "id": "SID_魔防の威嚇1",
-    "game8_id": null,
+    "game8_id": "266789",
     "name": "Threaten Res 1",
     "group_name": "Threaten Res",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/59/Threaten_Res_1.png/revision/latest?cb=20180810072609",
@@ -15079,7 +15244,7 @@
   },
   {
     "id": "SID_魔防の威嚇2",
-    "game8_id": null,
+    "game8_id": "266790",
     "name": "Threaten Res 2",
     "group_name": "Threaten Res",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/bd/Threaten_Res_2.png/revision/latest?cb=20180810072609",
@@ -15111,7 +15276,7 @@
   },
   {
     "id": "SID_速さの威嚇1",
-    "game8_id": null,
+    "game8_id": "266792",
     "name": "Threaten Spd 1",
     "group_name": "Threaten Spd",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c5/Threaten_Spd_1.png/revision/latest?cb=20180810072559",
@@ -15127,7 +15292,7 @@
   },
   {
     "id": "SID_速さの威嚇2",
-    "game8_id": null,
+    "game8_id": "266793",
     "name": "Threaten Spd 2",
     "group_name": "Threaten Spd",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/33/Threaten_Spd_2.png/revision/latest?cb=20180810072600",
@@ -15159,7 +15324,7 @@
   },
   {
     "id": "SID_始まりの鼓動1",
-    "game8_id": null,
+    "game8_id": "268956",
     "name": "Time's Pulse 1",
     "group_name": "Time's Pulse",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/9d/Times_Pulse_1.png/revision/latest?cb=20190803192241",
@@ -15177,7 +15342,7 @@
   },
   {
     "id": "SID_始まりの鼓動2",
-    "game8_id": null,
+    "game8_id": "268957",
     "name": "Time's Pulse 2",
     "group_name": "Time's Pulse",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c1/Times_Pulse_2.png/revision/latest?cb=20190803192244",
@@ -15213,7 +15378,7 @@
   },
   {
     "id": "SID_静水の舞い1",
-    "game8_id": null,
+    "game8_id": "266524",
     "name": "Torrent Dance 1",
     "group_name": "Torrent Dance",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/52/Torrent_Dance_1.png/revision/latest?cb=20180810072611",
@@ -15231,7 +15396,7 @@
   },
   {
     "id": "SID_静水の舞い2",
-    "game8_id": null,
+    "game8_id": "266525",
     "name": "Torrent Dance 2",
     "group_name": "Torrent Dance",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/0f/Torrent_Dance_2.png/revision/latest?cb=20181108182848",
@@ -15303,7 +15468,7 @@
   },
   {
     "id": "SID_明鏡の一撃1",
-    "game8_id": null,
+    "game8_id": "266289",
     "name": "Warding Blow 1",
     "group_name": "Warding Blow",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/70/Warding_Blow_1.png/revision/latest?cb=20180810072632",
@@ -15321,7 +15486,7 @@
   },
   {
     "id": "SID_明鏡の一撃2",
-    "game8_id": null,
+    "game8_id": "266290",
     "name": "Warding Blow 2",
     "group_name": "Warding Blow",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/dc/Warding_Blow_2.png/revision/latest?cb=20180810072633",
@@ -15380,7 +15545,7 @@
   },
   {
     "id": "SID_明鏡の構え1",
-    "game8_id": null,
+    "game8_id": "266293",
     "name": "Warding Stance 1",
     "group_name": "Warding Stance",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/95/Warding_Stance_1.png/revision/latest?cb=20180810072638",
@@ -15396,7 +15561,7 @@
   },
   {
     "id": "SID_明鏡の構え2",
-    "game8_id": null,
+    "game8_id": "266294",
     "name": "Warding Stance 2",
     "group_name": "Warding Stance",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/99/Warding_Stance_2.png/revision/latest?cb=20180810072640",
@@ -15428,7 +15593,7 @@
   },
   {
     "id": "SID_生命の静水1",
-    "game8_id": null,
+    "game8_id": "266296",
     "name": "Water Boost 1",
     "group_name": "Water Boost",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/73/Water_Boost_1.png/revision/latest?cb=20180810072652",
@@ -15444,7 +15609,7 @@
   },
   {
     "id": "SID_生命の静水2",
-    "game8_id": null,
+    "game8_id": "266297",
     "name": "Water Boost 2",
     "group_name": "Water Boost",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/44/Water_Boost_2.png/revision/latest?cb=20180810072653",
@@ -15476,7 +15641,7 @@
   },
   {
     "id": "SID_正面隊形・敵方1",
-    "game8_id": null,
+    "game8_id": "367162",
     "name": "Wily Fighter 1",
     "group_name": "Wily Fighter",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/62/Wily_Fighter_1.png/revision/latest?cb=20220218062229",
@@ -15494,7 +15659,7 @@
   },
   {
     "id": "SID_正面隊形・敵方2",
-    "game8_id": null,
+    "game8_id": "367161",
     "name": "Wily Fighter 2",
     "group_name": "Wily Fighter",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/2/2f/Wily_Fighter_2.png/revision/latest?cb=20220218062234",
@@ -15530,7 +15695,7 @@
   },
   {
     "id": "SID_生命の疾風1",
-    "game8_id": null,
+    "game8_id": "266299",
     "name": "Wind Boost 1",
     "group_name": "Wind Boost",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/79/Wind_Boost_1.png/revision/latest?cb=20180810072701",
@@ -15546,7 +15711,7 @@
   },
   {
     "id": "SID_生命の疾風2",
-    "game8_id": null,
+    "game8_id": "266300",
     "name": "Wind Boost 2",
     "group_name": "Wind Boost",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/ce/Wind_Boost_2.png/revision/latest?cb=20180810072703",
@@ -15578,7 +15743,7 @@
   },
   {
     "id": "SID_神罰の杖1",
-    "game8_id": null,
+    "game8_id": "266549",
     "name": "Wrathful Staff 1",
     "group_name": "Wrathful Staff",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e2/Wrathful_Staff_1.png/revision/latest?cb=20180810072725",
@@ -15596,7 +15761,7 @@
   },
   {
     "id": "SID_神罰の杖2",
-    "game8_id": null,
+    "game8_id": "266550",
     "name": "Wrathful Staff 2",
     "group_name": "Wrathful Staff",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/99/Wrathful_Staff_2.png/revision/latest?cb=20180810072727",

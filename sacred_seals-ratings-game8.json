@@ -5,13 +5,18 @@
     "game8_grade": "S"
   },
   {
-    "id": "SID_始まりの鼓動3",
-    "game8_id": "498509",
+    "id": "SID_攻撃速さの激突3",
+    "game8_id": "464048",
     "game8_grade": "S"
   },
   {
-    "id": "SID_攻撃速さの激突3",
-    "game8_id": "464048",
+    "id": "SID_攻撃速さの秘奥3",
+    "game8_id": "504243",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_始まりの鼓動3",
+    "game8_id": "498509",
     "game8_grade": "S"
   },
   {
@@ -498,6 +503,16 @@
     "id": "SID_竜刃の紋章",
     "game8_id": "477247",
     "game8_grade": "C"
+  },
+  {
+    "id": "SID_攻撃速さの干渉3",
+    "game8_id": "512837",
+    "game8_grade": "B"
+  },
+  {
+    "id": "SID_守備魔防の信義3",
+    "game8_id": "504246",
+    "game8_grade": "B"
   },
   {
     "id": "SID_正面隊形・敵方3",
@@ -1280,48 +1295,13 @@
     "game8_grade": "A"
   },
   {
-    "id": "SID_速さ魔防の秘奥3",
-    "game8_id": "472537",
+    "id": "SID_正面隊形・自己3",
+    "game8_id": "512840",
     "game8_grade": "A"
   },
   {
-    "id": "SID_攻撃守備の信義3",
-    "game8_id": "472540",
-    "game8_grade": "A"
-  },
-  {
-    "id": "SID_第72迷宮の覇者3",
-    "game8_id": "475360",
-    "game8_grade": "A"
-  },
-  {
-    "id": "SID_攻撃守備の備え3",
-    "game8_id": "483754",
-    "game8_grade": "A"
-  },
-  {
-    "id": "SID_第76迷宮の覇者3",
-    "game8_id": "490365",
-    "game8_grade": "A"
-  },
-  {
-    "id": "SID_神罰の杖3",
-    "game8_id": "490401",
-    "game8_grade": "A"
-  },
-  {
-    "id": "SID_速さ魔防の拍節3",
-    "game8_id": "490404",
-    "game8_grade": "A"
-  },
-  {
-    "id": "SID_一斉突撃3",
-    "game8_id": "492435",
-    "game8_grade": "A"
-  },
-  {
-    "id": "SID_攻撃魔防の秘奥3",
-    "game8_id": "492432",
+    "id": "SID_攻撃速さの備え3",
+    "game8_id": "498506",
     "game8_grade": "A"
   },
   {
@@ -1330,8 +1310,48 @@
     "game8_grade": "A"
   },
   {
-    "id": "SID_攻撃速さの備え3",
-    "game8_id": "498506",
+    "id": "SID_攻撃魔防の秘奥3",
+    "game8_id": "492432",
+    "game8_grade": "A"
+  },
+  {
+    "id": "SID_一斉突撃3",
+    "game8_id": "492435",
+    "game8_grade": "A"
+  },
+  {
+    "id": "SID_速さ魔防の拍節3",
+    "game8_id": "490404",
+    "game8_grade": "A"
+  },
+  {
+    "id": "SID_神罰の杖3",
+    "game8_id": "490401",
+    "game8_grade": "A"
+  },
+  {
+    "id": "SID_第76迷宮の覇者3",
+    "game8_id": "490365",
+    "game8_grade": "A"
+  },
+  {
+    "id": "SID_攻撃守備の備え3",
+    "game8_id": "483754",
+    "game8_grade": "A"
+  },
+  {
+    "id": "SID_第72迷宮の覇者3",
+    "game8_id": "475360",
+    "game8_grade": "A"
+  },
+  {
+    "id": "SID_攻撃守備の信義3",
+    "game8_id": "472540",
+    "game8_grade": "A"
+  },
+  {
+    "id": "SID_速さ魔防の秘奥3",
+    "game8_id": "472537",
     "game8_grade": "A"
   },
   {

@@ -2412,6 +2412,24 @@
     "level40_res": 19
   },
   {
+    "id": "PID_幼少カミラ",
+    "level1_hp": 18,
+    "level1_atk": 11,
+    "level1_spd": 9,
+    "level1_def": 9,
+    "level1_res": 8,
+    "growth_rate_hp": 50,
+    "growth_rate_atk": 80,
+    "growth_rate_spd": 90,
+    "growth_rate_def": 60,
+    "growth_rate_res": 40,
+    "level40_hp": 40,
+    "level40_atk": 46,
+    "level40_spd": 48,
+    "level40_def": 35,
+    "level40_res": 25
+  },
+  {
     "id": "PID_カミュ",
     "level1_hp": 18,
     "level1_atk": 8,
@@ -3886,6 +3904,24 @@
     "level40_spd": 37,
     "level40_def": 31,
     "level40_res": 27
+  },
+  {
+    "id": "PID_比翼カムイ男",
+    "level1_hp": 19,
+    "level1_atk": 10,
+    "level1_spd": 8,
+    "level1_def": 5,
+    "level1_res": 11,
+    "growth_rate_hp": 50,
+    "growth_rate_atk": 75,
+    "growth_rate_spd": 90,
+    "growth_rate_def": 70,
+    "growth_rate_res": 80,
+    "level40_hp": 41,
+    "level40_atk": 43,
+    "level40_spd": 47,
+    "level40_def": 35,
+    "level40_res": 46
   },
   {
     "id": "PID_シンシア",
@@ -5434,6 +5470,24 @@
     "level40_spd": 32,
     "level40_def": 19,
     "level40_res": 32
+  },
+  {
+    "id": "PID_幼少エリーゼ",
+    "level1_hp": 16,
+    "level1_atk": 8,
+    "level1_spd": 12,
+    "level1_def": 4,
+    "level1_res": 9,
+    "growth_rate_hp": 50,
+    "growth_rate_atk": 90,
+    "growth_rate_spd": 80,
+    "growth_rate_def": 30,
+    "growth_rate_res": 50,
+    "level40_hp": 38,
+    "level40_atk": 47,
+    "level40_spd": 47,
+    "level40_def": 17,
+    "level40_res": 31
   },
   {
     "id": "PID_比翼エリーゼ",
@@ -11194,6 +11248,24 @@
     "level40_spd": 35,
     "level40_def": 23,
     "level40_res": 28
+  },
+  {
+    "id": "PID_幼少レオン",
+    "level1_hp": 18,
+    "level1_atk": 10,
+    "level1_spd": 5,
+    "level1_def": 3,
+    "level1_res": 13,
+    "growth_rate_hp": 50,
+    "growth_rate_atk": 90,
+    "growth_rate_spd": 50,
+    "growth_rate_def": 30,
+    "growth_rate_res": 80,
+    "level40_hp": 40,
+    "level40_atk": 49,
+    "level40_spd": 27,
+    "level40_def": 16,
+    "level40_res": 48
   },
   {
     "id": "PID_行楽レオン",
@@ -21454,6 +21526,24 @@
     "level40_spd": 17,
     "level40_def": 34,
     "level40_res": 16
+  },
+  {
+    "id": "PID_幼少マークス",
+    "level1_hp": 19,
+    "level1_atk": 9,
+    "level1_spd": 8,
+    "level1_def": 13,
+    "level1_res": 4,
+    "growth_rate_hp": 50,
+    "growth_rate_atk": 90,
+    "growth_rate_spd": 50,
+    "growth_rate_def": 80,
+    "growth_rate_res": 45,
+    "level40_hp": 41,
+    "level40_atk": 48,
+    "level40_spd": 30,
+    "level40_def": 48,
+    "level40_res": 23
   },
   {
     "id": "PID_伝承マークス",

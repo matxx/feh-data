@@ -888,6 +888,18 @@
     "description": "Grants HP+5, Atk/Def+3."
   },
   {
+    "id": "SID_第93迷宮の覇者1",
+    "description": "Grants HP+3, Atk/Res+1."
+  },
+  {
+    "id": "SID_第93迷宮の覇者2",
+    "description": "Grants HP+4, Atk/Res+2."
+  },
+  {
+    "id": "SID_第93迷宮の覇者3",
+    "description": "Grants HP+5, Atk/Res+3."
+  },
+  {
     "id": "SID_第4迷宮の覇者1",
     "description": "Grants Spd+1."
   },
@@ -1642,6 +1654,18 @@
   {
     "id": "SID_攻撃速さの牽制3",
     "description": "Inflicts Atk/Spd-4 on foes within 2 spaces during combat."
+  },
+  {
+    "id": "SID_攻撃速さの干渉1",
+    "description": "If a movement Assist skill (like Reposition, Shove, Pivot, etc.) is used by unit or targets unit, inflicts Atk/Spd-2 on nearest foes within 4 spaces of both unit and target through their next actions."
+  },
+  {
+    "id": "SID_攻撃速さの干渉2",
+    "description": "If a movement Assist skill (like Reposition, Shove, Pivot, etc.) is used by unit or targets unit, inflicts Atk/Spd-4 on nearest foes within 4 spaces of both unit and target through their next actions."
+  },
+  {
+    "id": "SID_攻撃速さの干渉3",
+    "description": "If a movement Assist skill (like Reposition, Shove, Pivot, etc.) is used by unit or targets unit, inflicts Atk/Spd-6 on nearest foes within 4 spaces of both unit and target through their next actions."
   },
   {
     "id": "SID_攻撃速さの孤軍1",
@@ -3018,6 +3042,18 @@
   {
     "id": "SID_盾のセッション3",
     "description": "If foe initiates combat, grants bonus to unit's Def/Res during combat = 9 - number of foes who have already acted × 3 (min value of 3)."
+  },
+  {
+    "id": "SID_正面隊形・自己1",
+    "description": "If unit's HP ≥ 75% and foe initiates combat, neutralizes penalties on unit during combat and unit makes a guaranteed follow-up attack."
+  },
+  {
+    "id": "SID_正面隊形・自己2",
+    "description": "If unit's HP ≥ 50% and foe initiates combat, neutralizes penalties on unit during combat and unit makes a guaranteed follow-up attack."
+  },
+  {
+    "id": "SID_正面隊形・自己3",
+    "description": "If unit's HP ≥ 25% and foe initiates combat, neutralizes penalties on unit during combat and unit makes a guaranteed follow-up attack."
   },
   {
     "id": "SID_不壊1",

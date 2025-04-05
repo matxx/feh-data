@@ -104,6 +104,14 @@
     "recommended_plus10": "Res"
   },
   {
+    "id": "PID_紋章エイリーク",
+    "game8_id": "507109",
+    "game8_rating": "9.9",
+    "recommended_boon": "Spd",
+    "recommended_bane": "Res",
+    "recommended_plus10": "Spd"
+  },
+  {
     "id": "PID_比翼ピアニー",
     "game8_id": "315238",
     "game8_rating": "9.5",
@@ -598,6 +606,30 @@
     "recommended_boon": "Atk",
     "recommended_bane": "Def",
     "recommended_plus10": "Atk"
+  },
+  {
+    "id": "PID_響心アルム",
+    "game8_id": "505099",
+    "game8_rating": "9.5",
+    "recommended_boon": "Spd",
+    "recommended_bane": "Res",
+    "recommended_plus10": "Spd"
+  },
+  {
+    "id": "PID_幼少カミラ",
+    "game8_id": "512303",
+    "game8_rating": "9.5",
+    "recommended_boon": "Spd",
+    "recommended_bane": "Res",
+    "recommended_plus10": "Spd"
+  },
+  {
+    "id": "PID_比翼カムイ男",
+    "game8_id": "512305",
+    "game8_rating": "9.5",
+    "recommended_boon": "Spd",
+    "recommended_bane": "HP",
+    "recommended_plus10": "Spd"
   },
   {
     "id": "PID_アーダン",
@@ -1542,6 +1574,46 @@
     "recommended_boon": "Spd",
     "recommended_bane": "Res",
     "recommended_plus10": "Spd"
+  },
+  {
+    "id": "PID_魔器ヌイババ",
+    "game8_id": "505096",
+    "game8_rating": "9.0",
+    "recommended_boon": "Atk",
+    "recommended_bane": "Def",
+    "recommended_plus10": "Res"
+  },
+  {
+    "id": "PID_ノーマ",
+    "game8_id": "505097",
+    "game8_rating": "9.0",
+    "recommended_boon": "Res",
+    "recommended_bane": "Spd",
+    "recommended_plus10": "Res"
+  },
+  {
+    "id": "PID_幼少レオン",
+    "game8_id": "512302",
+    "game8_rating": "9.0",
+    "recommended_boon": "Atk",
+    "recommended_bane": "Def",
+    "recommended_plus10": "Atk"
+  },
+  {
+    "id": "PID_幼少エリーゼ",
+    "game8_id": "512304",
+    "game8_rating": "9.0",
+    "recommended_boon": "Spd",
+    "recommended_bane": "Def",
+    "recommended_plus10": "Atk"
+  },
+  {
+    "id": "PID_幼少マークス",
+    "game8_id": "512306",
+    "game8_rating": "9.0",
+    "recommended_boon": "Atk",
+    "recommended_bane": "Res",
+    "recommended_plus10": "Atk"
   },
   {
     "id": "PID_インバース",
@@ -6776,6 +6848,22 @@
     "recommended_plus10": "Spd"
   },
   {
+    "id": "PID_ジェシー",
+    "game8_id": "505098",
+    "game8_rating": "8.0",
+    "recommended_boon": "Spd",
+    "recommended_bane": "Res",
+    "recommended_plus10": "Spd"
+  },
+  {
+    "id": "PID_ジュダ",
+    "game8_id": "505100",
+    "game8_rating": "8.0",
+    "recommended_boon": "Atk",
+    "recommended_bane": "Spd",
+    "recommended_plus10": null
+  },
+  {
     "id": "PID_アルム",
     "game8_id": "267208",
     "game8_rating": "7.5",
@@ -9742,45 +9830,5 @@
     "recommended_boon": "Atk",
     "recommended_bane": "Spd",
     "recommended_plus10": "Atk"
-  },
-  {
-    "id": "PID_魔器ヌイババ",
-    "game8_id": "505096",
-    "game8_rating": "9.0",
-    "recommended_boon": "Atk",
-    "recommended_bane": "Def",
-    "recommended_plus10": "Res"
-  },
-  {
-    "id": "PID_ノーマ",
-    "game8_id": "505097",
-    "game8_rating": "9.0",
-    "recommended_boon": "Res",
-    "recommended_bane": "Spd",
-    "recommended_plus10": "Res"
-  },
-  {
-    "id": "PID_ジェシー",
-    "game8_id": "505098",
-    "game8_rating": "8.0",
-    "recommended_boon": "Spd",
-    "recommended_bane": "Res",
-    "recommended_plus10": "Spd"
-  },
-  {
-    "id": "PID_響心アルム",
-    "game8_id": "505099",
-    "game8_rating": "9.5",
-    "recommended_boon": "Spd",
-    "recommended_bane": "Res",
-    "recommended_plus10": "Spd"
-  },
-  {
-    "id": "PID_ジュダ",
-    "game8_id": "505100",
-    "game8_rating": "8.0",
-    "recommended_boon": "Atk",
-    "recommended_bane": "Spd",
-    "recommended_plus10": null
   }
 ]
