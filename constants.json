@@ -39,5 +39,10 @@
   "units_max_res": 50,
   "units_max_res_ids": [
     "PID_比翼レア"
+  ],
+  "units_max_bst": 212,
+  "units_max_bst_ids": [
+    "PID_ハロンン",
+    "PID_比翼カムイ男"
   ]
 }
