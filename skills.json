@@ -44228,7 +44228,9 @@
     "upgrade_ids": [
       "SID_成獣の化身・飛行"
     ],
-    "downgrade_ids": []
+    "downgrade_ids": [
+      "SID_幼獣の化身・飛行"
+    ]
   },
   {
     "id": "SID_響・飛燕の離撃",
@@ -54342,7 +54344,7 @@
     ]
   },
   {
-    "id": null,
+    "id": "SID_幼獣の化身・飛行",
     "game8_id": "265537",
     "name": "Hatchling (Flier)",
     "group_name": "Hatchling (Flier)",
@@ -54355,7 +54357,9 @@
     "refine": null,
     "restrictions": {
       "moves": {
-        "none": true
+        "can_use": [
+          "Flying"
+        ]
       },
       "weapons": {
         "can_use": [
