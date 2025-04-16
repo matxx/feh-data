@@ -997,8 +997,42 @@
         ]
       }
     },
+    "upgrade_ids": [
+      "SID_攻撃魔防の近影4"
+    ],
     "downgrade_ids": [
       "SID_攻撃魔防の近影2"
+    ]
+  },
+  {
+    "id": "SID_攻撃魔防の近影4",
+    "game8_id": "513857",
+    "name": "A/R Near Trace 4",
+    "group_name": "A/R Near Trace",
+    "category": "passiveb",
+    "weapon_type": null,
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/ea/A_R_Near_Trace_4.png/revision/latest?cb=20250415060630",
+    "is_prf": false,
+    "sp": 300,
+    "tier": 4,
+    "refine": null,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Cavalry",
+          "Flying"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "All Melee",
+          "All Breath",
+          "All Beast"
+        ]
+      }
+    },
+    "downgrade_ids": [
+      "SID_攻撃魔防の近影3"
     ]
   },
   {
@@ -3037,6 +3071,32 @@
     ]
   },
   {
+    "id": "SID_古の地竜族のブレス",
+    "game8_id": "513853",
+    "name": "Ancient Betrayal",
+    "group_name": "Ancient Betrayal",
+    "category": "weapon",
+    "weapon_type": "All Breath",
+    "image_url": null,
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "refine": null,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "All Breath"
+        ]
+      }
+    },
+    "downgrade_ids": [
+      "SID_灼熱のブレス"
+    ]
+  },
+  {
     "id": "SID_古代魔道の稀書",
     "game8_id": "353647",
     "name": "Ancient Codex",
@@ -3083,6 +3143,32 @@
     }
   },
   {
+    "id": "SID_古の神竜王のブレス",
+    "game8_id": "513851",
+    "name": "Ancient Majesty",
+    "group_name": "Ancient Majesty",
+    "category": "weapon",
+    "weapon_type": "All Breath",
+    "image_url": null,
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "refine": null,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "All Breath"
+        ]
+      }
+    },
+    "downgrade_ids": [
+      "SID_灼熱のブレス"
+    ]
+  },
+  {
     "id": "SID_末流ラグネル",
     "game8_id": "351520",
     "name": "Ancient Ragnell",
@@ -3106,6 +3192,59 @@
     },
     "downgrade_ids": [
       "SID_銀の剣"
+    ]
+  },
+  {
+    "id": "SID_古の変身の書",
+    "game8_id": null,
+    "name": "Ancient Trickery",
+    "group_name": "Ancient Trickery",
+    "category": "weapon",
+    "weapon_type": "Blue Tome",
+    "image_url": null,
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "refine": null,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Blue Tome"
+        ]
+      }
+    },
+    "downgrade_ids": [
+      "SID_トロン",
+      "SID_シャイン"
+    ]
+  },
+  {
+    "id": "SID_古の神竜姫のブレス",
+    "game8_id": "513854",
+    "name": "Ancient Voice",
+    "group_name": "Ancient Voice",
+    "category": "weapon",
+    "weapon_type": "All Breath",
+    "image_url": null,
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "refine": null,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "All Breath"
+        ]
+      }
+    },
+    "downgrade_ids": [
+      "SID_灼熱のブレス"
     ]
   },
   {
@@ -9189,6 +9328,34 @@
     },
     "downgrade_ids": [
       "SID_攻撃魔防の大開放2"
+    ]
+  },
+  {
+    "id": "SID_攻撃魔防の大混乱",
+    "game8_id": "513858",
+    "name": "Atk/Res Havoc",
+    "group_name": "Atk/Res Havoc",
+    "category": "passiveb",
+    "weapon_type": null,
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e0/Atk_Res_Havoc.png/revision/latest?cb=20250415060619",
+    "is_prf": false,
+    "sp": 300,
+    "tier": 4,
+    "refine": null,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Infantry",
+          "Flying"
+        ]
+      },
+      "weapons": {
+        "none": true
+      }
+    },
+    "downgrade_ids": [
+      "SID_攻撃の混乱3",
+      "SID_魔防の混乱3"
     ]
   },
   {
@@ -18424,6 +18591,7 @@
       "SID_艶花忍法帳",
       "SID_人見知りの縁の祭器",
       "SID_イズンの果実",
+      "SID_原初の魔道書",
       "SID_心優しき邪竜兎の卵",
       "SID_黄金のゴブレット",
       "SID_ギンヌンガガプ",
@@ -34766,6 +34934,27 @@
     ]
   },
   {
+    "id": "SID_神竜王の大牙",
+    "game8_id": "513859",
+    "name": "Divine God Fang",
+    "group_name": "Divine God Fang",
+    "category": "passivec",
+    "weapon_type": null,
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/09/Divine_God_Fang.png/revision/latest?cb=20250415060651",
+    "is_prf": true,
+    "sp": 300,
+    "tier": 1,
+    "refine": null,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "none": true
+      }
+    }
+  },
+  {
     "id": "SID_神霧のブレス",
     "game8_id": "265626",
     "name": "Divine Mist",
@@ -35977,6 +36166,32 @@
     },
     "downgrade_ids": [
       "SID_竜穿"
+    ]
+  },
+  {
+    "id": "SID_竜炎",
+    "game8_id": "513855",
+    "name": "Dragon Flame",
+    "group_name": "Dragon Flame",
+    "category": "special",
+    "weapon_type": null,
+    "image_url": null,
+    "is_prf": false,
+    "sp": 500,
+    "tier": 3,
+    "refine": null,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "All Breath"
+        ]
+      }
+    },
+    "downgrade_ids": [
+      "SID_華炎"
     ]
   },
   {
@@ -41974,6 +42189,7 @@
       "SID_豊潤の花",
       "SID_艶花忍法帳",
       "SID_人見知りの縁の祭器",
+      "SID_原初の魔道書",
       "SID_心優しき邪竜兎の卵",
       "SID_黄金のゴブレット",
       "SID_ギンヌンガガプ",
@@ -43710,6 +43926,9 @@
       }
     },
     "upgrade_ids": [
+      "SID_古の地竜族のブレス",
+      "SID_古の神竜王のブレス",
+      "SID_古の神竜姫のブレス",
       "SID_魔器・邪竜石",
       "SID_魔器・歪神竜の竜石",
       "SID_魔器ギムレー",
@@ -47654,6 +47873,33 @@
     ]
   },
   {
+    "id": "SID_原初の魔道書",
+    "game8_id": "513852",
+    "name": "Fundament",
+    "group_name": "Fundament",
+    "category": "weapon",
+    "weapon_type": "Red Tome",
+    "image_url": null,
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "refine": null,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Red Tome"
+        ]
+      }
+    },
+    "downgrade_ids": [
+      "SID_ボルガノン",
+      "SID_ノスフェラート"
+    ]
+  },
+  {
     "id": "SID_獅子奮迅1",
     "game8_id": "266208",
     "name": "Fury 1",
@@ -49535,6 +49781,27 @@
     "downgrade_ids": [
       "SID_烈火"
     ]
+  },
+  {
+    "id": "SID_人に未来を授けし者",
+    "game8_id": "513856",
+    "name": "Gift of Guidance",
+    "group_name": "Gift of Guidance",
+    "category": "passivea",
+    "weapon_type": null,
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/15/Gift_of_Guidance.png/revision/latest?cb=20250415060609",
+    "is_prf": true,
+    "sp": 300,
+    "tier": 1,
+    "refine": null,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "none": true
+      }
+    }
   },
   {
     "id": "SID_人に魔道を授けし者",
@@ -58444,6 +58711,7 @@
       }
     },
     "upgrade_ids": [
+      "SID_竜炎",
       "SID_砂陣",
       "SID_連魔弾",
       "SID_魔弾",
@@ -65354,6 +65622,27 @@
     "downgrade_ids": [
       "SID_結婚式の燭台"
     ]
+  },
+  {
+    "id": "SID_みんなだいすき",
+    "game8_id": "513860",
+    "name": "Love for All!",
+    "group_name": "Love for All!",
+    "category": "passivec",
+    "weapon_type": null,
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/5c/Love_for_All.png/revision/latest?cb=20250415060641",
+    "is_prf": true,
+    "sp": 300,
+    "tier": 1,
+    "refine": null,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "none": true
+      }
+    }
   },
   {
     "id": "SID_地の女神の溺愛",
@@ -83013,6 +83302,29 @@
     ]
   },
   {
+    "id": "SID_響・魔防の竜眼",
+    "game8_id": "513861",
+    "name": "Res Scowl Echo",
+    "group_name": "Res Scowl Echo",
+    "category": "passivex",
+    "weapon_type": null,
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/32/Res_Scowl_Echo.png/revision/latest?cb=20250415060701",
+    "is_prf": false,
+    "sp": 0,
+    "tier": 1,
+    "refine": null,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "All Breath"
+        ]
+      }
+    }
+  },
+  {
     "id": "SID_魔防の紫煙1",
     "game8_id": "266730",
     "name": "Res Smoke 1",
@@ -86494,6 +86806,7 @@
     },
     "upgrade_ids": [
       "SID_攻撃魔防の不和",
+      "SID_攻撃魔防の大混乱",
       "SID_攻撃守備の混乱3",
       "SID_攻撃魔防の混乱3"
     ],
@@ -86653,6 +86966,7 @@
     },
     "upgrade_ids": [
       "SID_攻撃魔防の不和",
+      "SID_攻撃魔防の大混乱",
       "SID_守備魔防の不和",
       "SID_攻撃魔防の混乱3",
       "SID_速さ魔防の混乱3",
@@ -90744,6 +91058,7 @@
       }
     },
     "upgrade_ids": [
+      "SID_古の変身の書",
       "SID_魔器・恍惚の花",
       "SID_魔器メデューサ",
       "SID_魔器・雷公の書",
@@ -107110,6 +107425,7 @@
       }
     },
     "upgrade_ids": [
+      "SID_古の変身の書",
       "SID_魔器・恍惚の花",
       "SID_魔器メデューサ",
       "SID_魔器・雷公の書",

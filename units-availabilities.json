@@ -14478,6 +14478,36 @@
     "divine_codes": {}
   },
   {
+    "id": "PID_若年ガトー",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {},
+    "skill_ids": [
+      "SID_エルファイアー",
+      "SID_ファイアー",
+      "SID_ボルガノン",
+      "SID_人に未来を授けし者",
+      "SID_原初の魔道書",
+      "SID_始まりの鼓動1",
+      "SID_始まりの鼓動2",
+      "SID_始まりの鼓動3",
+      "SID_攻撃魔防の大混乱",
+      "SID_氷点",
+      "SID_氷華",
+      "SID_鍛錬の鼓動・謀策",
+      "SID_魔防の混乱1",
+      "SID_魔防の混乱2",
+      "SID_魔防の混乱3"
+    ],
+    "divine_codes": {}
+  },
+  {
     "id": "PID_神階ガトー",
     "is_in": {
       "gsp": false,
@@ -26522,6 +26552,33 @@
     "divine_codes": {}
   },
   {
+    "id": "PID_若年メディウス",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {},
+    "skill_ids": [
+      "SID_古の地竜族のブレス",
+      "SID_守備魔防の竜眼1",
+      "SID_守備魔防の竜眼2",
+      "SID_守備魔防の竜眼3",
+      "SID_攻撃の謀策1",
+      "SID_攻撃の謀策2",
+      "SID_攻撃の謀策3",
+      "SID_氷点",
+      "SID_氷華",
+      "SID_火のブレス",
+      "SID_火炎のブレス",
+      "SID_灼熱のブレス"
+    ],
+    "divine_codes": {}
+  },
+  {
     "id": "PID_ミレディ",
     "is_in": {
       "gsp": true,
@@ -28715,6 +28772,37 @@
       "SID_攻撃魔防の牽制3",
       "SID_火のブレス",
       "SID_火炎のブレス"
+    ],
+    "divine_codes": {}
+  },
+  {
+    "id": "PID_若年ナーガ",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {},
+    "skill_ids": [
+      "SID_古の神竜王のブレス",
+      "SID_攻撃魔防の竜眼1",
+      "SID_攻撃魔防の竜眼2",
+      "SID_攻撃魔防の竜眼3",
+      "SID_攻撃魔防の竜眼4",
+      "SID_攻撃魔防の近影1",
+      "SID_攻撃魔防の近影2",
+      "SID_攻撃魔防の近影3",
+      "SID_攻撃魔防の近影4",
+      "SID_氷点",
+      "SID_氷蒼",
+      "SID_火のブレス",
+      "SID_火炎のブレス",
+      "SID_灼熱のブレス",
+      "SID_神竜王の大牙",
+      "SID_竜の咆哮"
     ],
     "divine_codes": {}
   },
@@ -40579,6 +40667,38 @@
     "divine_codes": {}
   },
   {
+    "id": "PID_響心若年チキ",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "lowest_rarity": {
+      "foc": 5
+    },
+    "skill_ids": [
+      "SID_みんなだいすき",
+      "SID_古の神竜姫のブレス",
+      "SID_火のブレス",
+      "SID_火炎のブレス",
+      "SID_灼熱のブレス",
+      "SID_竜の鋭鱗",
+      "SID_竜の魔鱗1",
+      "SID_竜の魔鱗2",
+      "SID_竜の魔鱗3",
+      "SID_竜炎",
+      "SID_華炎",
+      "SID_蛍火",
+      "SID_遠反・強化増幅",
+      "SID_遠距離反撃",
+      "SID_響・魔防の竜眼"
+    ],
+    "divine_codes": {}
+  },
+  {
     "id": "PID_総選挙覚醒チキ",
     "is_in": {
       "gsp": true,
@@ -42658,6 +42778,35 @@
         }
       ]
     }
+  },
+  {
+    "id": "PID_若年チェイニー",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": true,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {
+      "hg": 3
+    },
+    "skill_ids": [
+      "SID_エルライト",
+      "SID_シャイン",
+      "SID_ライト",
+      "SID_古の変身の書",
+      "SID_影月",
+      "SID_月光",
+      "SID_歩行の鼓動1",
+      "SID_歩行の鼓動2",
+      "SID_歩行の鼓動3",
+      "SID_速さ魔防の拍節1",
+      "SID_速さ魔防の拍節2",
+      "SID_速さ魔防の拍節3"
+    ],
+    "divine_codes": {}
   },
   {
     "id": "PID_年明シャンブレー",

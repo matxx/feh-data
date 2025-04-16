@@ -10308,6 +10308,30 @@
     "game8_grade": "S"
   },
   {
+    "id": "SID_古の神竜王のブレス",
+    "game8_id": "513851",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_原初の魔道書",
+    "game8_id": "513852",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_古の地竜族のブレス",
+    "game8_id": "513853",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_古の神竜姫のブレス",
+    "game8_id": "513854",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
     "id": "SID_ライブ",
     "game8_id": "265966",
     "game8_rating": "-",
@@ -11762,6 +11786,12 @@
   {
     "id": "SID_真竜穿射",
     "game8_id": "512295",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_竜炎",
+    "game8_id": "513855",
     "game8_rating": "9.5",
     "game8_grade": "S"
   },
@@ -15200,6 +15230,12 @@
   {
     "id": "SID_見下す者",
     "game8_id": "512296",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_人に未来を授けし者",
+    "game8_id": "513856",
     "game8_rating": "9.5",
     "game8_grade": "S"
   },
@@ -19344,6 +19380,18 @@
     "game8_grade": "S"
   },
   {
+    "id": "SID_攻撃魔防の近影4",
+    "game8_id": "513857",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_攻撃魔防の大混乱",
+    "game8_id": "513858",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
     "id": "SID_攻撃の鼓舞1",
     "game8_id": "266683",
     "game8_rating": "-",
@@ -22926,6 +22974,18 @@
     "game8_grade": "S"
   },
   {
+    "id": "SID_神竜王の大牙",
+    "game8_id": "513859",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_みんなだいすき",
+    "game8_id": "513860",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
     "id": "SID_響・攻撃の信義",
     "game8_id": "430297",
     "game8_rating": "9.5",
@@ -22976,6 +23036,12 @@
   {
     "id": "SID_響・見切り反撃不可",
     "game8_id": "462189",
+    "game8_rating": "9.0",
+    "game8_grade": "A"
+  },
+  {
+    "id": "SID_響・魔防の竜眼",
+    "game8_id": "513861",
     "game8_rating": "9.0",
     "game8_grade": "A"
   },

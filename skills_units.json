@@ -35280,6 +35280,96 @@
     "unlock": 5
   },
   {
+    "unit_id": "PID_若年ガトー",
+    "skill_id": "SID_攻撃魔防の大混乱",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_若年ガトー",
+    "skill_id": "SID_ボルガノン",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_若年ガトー",
+    "skill_id": "SID_氷点",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_若年ガトー",
+    "skill_id": "SID_エルファイアー",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_若年ガトー",
+    "skill_id": "SID_ファイアー",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_若年ガトー",
+    "skill_id": "SID_原初の魔道書",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_若年ガトー",
+    "skill_id": "SID_人に未来を授けし者",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_若年ガトー",
+    "skill_id": "SID_氷華",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_若年ガトー",
+    "skill_id": "SID_鍛錬の鼓動・謀策",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_若年ガトー",
+    "skill_id": "SID_魔防の混乱1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_若年ガトー",
+    "skill_id": "SID_魔防の混乱2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_若年ガトー",
+    "skill_id": "SID_魔防の混乱3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_若年ガトー",
+    "skill_id": "SID_始まりの鼓動1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_若年ガトー",
+    "skill_id": "SID_始まりの鼓動2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_若年ガトー",
+    "skill_id": "SID_始まりの鼓動3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
     "unit_id": "PID_神階ガトー",
     "skill_id": "SID_アトラース",
     "default": 4,
@@ -63540,6 +63630,78 @@
     "unlock": 5
   },
   {
+    "unit_id": "PID_若年メディウス",
+    "skill_id": "SID_古の地竜族のブレス",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_若年メディウス",
+    "skill_id": "SID_攻撃の謀策1",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_若年メディウス",
+    "skill_id": "SID_攻撃の謀策2",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_若年メディウス",
+    "skill_id": "SID_攻撃の謀策3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_若年メディウス",
+    "skill_id": "SID_氷点",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_若年メディウス",
+    "skill_id": "SID_守備魔防の竜眼1",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_若年メディウス",
+    "skill_id": "SID_守備魔防の竜眼2",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_若年メディウス",
+    "skill_id": "SID_守備魔防の竜眼3",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_若年メディウス",
+    "skill_id": "SID_火のブレス",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_若年メディウス",
+    "skill_id": "SID_火炎のブレス",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_若年メディウス",
+    "skill_id": "SID_灼熱のブレス",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_若年メディウス",
+    "skill_id": "SID_氷華",
+    "default": 0,
+    "unlock": 4
+  },
+  {
     "unit_id": "PID_ミレディ",
     "skill_id": "SID_攻撃守備の孤軍1",
     "default": 0,
@@ -68638,6 +68800,102 @@
     "skill_id": "SID_幽静のブレス＋",
     "default": 5,
     "unlock": 5
+  },
+  {
+    "unit_id": "PID_若年ナーガ",
+    "skill_id": "SID_古の神竜王のブレス",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_若年ナーガ",
+    "skill_id": "SID_攻撃魔防の近影1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_若年ナーガ",
+    "skill_id": "SID_攻撃魔防の近影2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_若年ナーガ",
+    "skill_id": "SID_攻撃魔防の近影3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_若年ナーガ",
+    "skill_id": "SID_攻撃魔防の近影4",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_若年ナーガ",
+    "skill_id": "SID_攻撃魔防の竜眼1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_若年ナーガ",
+    "skill_id": "SID_攻撃魔防の竜眼2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_若年ナーガ",
+    "skill_id": "SID_攻撃魔防の竜眼3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_若年ナーガ",
+    "skill_id": "SID_攻撃魔防の竜眼4",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_若年ナーガ",
+    "skill_id": "SID_氷点",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_若年ナーガ",
+    "skill_id": "SID_神竜王の大牙",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_若年ナーガ",
+    "skill_id": "SID_竜の咆哮",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_若年ナーガ",
+    "skill_id": "SID_火のブレス",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_若年ナーガ",
+    "skill_id": "SID_火炎のブレス",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_若年ナーガ",
+    "skill_id": "SID_灼熱のブレス",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_若年ナーガ",
+    "skill_id": "SID_氷蒼",
+    "default": 0,
+    "unlock": 4
   },
   {
     "unit_id": "PID_ナギ",
@@ -95814,6 +96072,96 @@
     "unlock": 3
   },
   {
+    "unit_id": "PID_響心若年チキ",
+    "skill_id": "SID_古の神竜姫のブレス",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_響心若年チキ",
+    "skill_id": "SID_遠反・強化増幅",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_響心若年チキ",
+    "skill_id": "SID_遠距離反撃",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_響心若年チキ",
+    "skill_id": "SID_竜炎",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_響心若年チキ",
+    "skill_id": "SID_竜の魔鱗1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_響心若年チキ",
+    "skill_id": "SID_竜の魔鱗2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_響心若年チキ",
+    "skill_id": "SID_竜の魔鱗3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_響心若年チキ",
+    "skill_id": "SID_竜の鋭鱗",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_響心若年チキ",
+    "skill_id": "SID_火のブレス",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_響心若年チキ",
+    "skill_id": "SID_火炎のブレス",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_響心若年チキ",
+    "skill_id": "SID_灼熱のブレス",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_響心若年チキ",
+    "skill_id": "SID_蛍火",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_響心若年チキ",
+    "skill_id": "SID_華炎",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_響心若年チキ",
+    "skill_id": "SID_みんなだいすき",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_響心若年チキ",
+    "skill_id": "SID_響・魔防の竜眼",
+    "default": 0,
+    "unlock": 5
+  },
+  {
     "unit_id": "PID_総選挙覚醒チキ",
     "skill_id": "SID_攻撃魔防の秘奥1",
     "default": 0,
@@ -100881,6 +101229,78 @@
     "unit_id": "PID_ハタリチェイニー",
     "skill_id": "SID_蛇の杖＋",
     "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_若年チェイニー",
+    "skill_id": "SID_古の変身の書",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_若年チェイニー",
+    "skill_id": "SID_エルライト",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_若年チェイニー",
+    "skill_id": "SID_歩行の鼓動1",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_若年チェイニー",
+    "skill_id": "SID_歩行の鼓動2",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_若年チェイニー",
+    "skill_id": "SID_歩行の鼓動3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_若年チェイニー",
+    "skill_id": "SID_ライト",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_若年チェイニー",
+    "skill_id": "SID_月光",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_若年チェイニー",
+    "skill_id": "SID_影月",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_若年チェイニー",
+    "skill_id": "SID_シャイン",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_若年チェイニー",
+    "skill_id": "SID_速さ魔防の拍節1",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_若年チェイニー",
+    "skill_id": "SID_速さ魔防の拍節2",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_若年チェイニー",
+    "skill_id": "SID_速さ魔防の拍節3",
+    "default": 0,
     "unlock": 5
   },
   {

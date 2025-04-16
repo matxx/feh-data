@@ -9830,5 +9830,37 @@
     "recommended_boon": "Atk",
     "recommended_bane": "Spd",
     "recommended_plus10": "Atk"
+  },
+  {
+    "id": "PID_若年ナーガ",
+    "game8_id": "513845",
+    "game8_rating": "9.5",
+    "recommended_boon": "Res",
+    "recommended_bane": "Spd",
+    "recommended_plus10": "Res"
+  },
+  {
+    "id": "PID_若年ガトー",
+    "game8_id": "513846",
+    "game8_rating": "9.0",
+    "recommended_boon": "Res",
+    "recommended_bane": "Spd",
+    "recommended_plus10": "Res"
+  },
+  {
+    "id": "PID_若年メディウス",
+    "game8_id": "513847",
+    "game8_rating": "9.0",
+    "recommended_boon": "Res",
+    "recommended_bane": "Spd",
+    "recommended_plus10": "Res"
+  },
+  {
+    "id": "PID_響心若年チキ",
+    "game8_id": "513848",
+    "game8_rating": "9.5",
+    "recommended_boon": "Def",
+    "recommended_bane": "Atk",
+    "recommended_plus10": "Def"
   }
 ]
