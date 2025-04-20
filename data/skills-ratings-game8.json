@@ -2448,6 +2448,18 @@
     "game8_grade": "S"
   },
   {
+    "id": "SID_激情の炎の書",
+    "game8_id": "512924",
+    "game8_rating": "9.0",
+    "game8_grade": "A"
+  },
+  {
+    "id": "SID_原初の魔道書",
+    "game8_id": "513852",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
     "id": "SID_火のブレス",
     "game8_id": "265653",
     "game8_rating": "-",
@@ -4182,6 +4194,12 @@
     "game8_grade": "S"
   },
   {
+    "id": "SID_矜持の槍",
+    "game8_id": "512925",
+    "game8_rating": "9.0",
+    "game8_grade": "A"
+  },
+  {
     "id": "SID_コウモリの弓",
     "game8_id": "265616",
     "game8_rating": "-",
@@ -5082,6 +5100,12 @@
     "game8_grade": null
   },
   {
+    "id": "SID_古の変身の書",
+    "game8_id": "513850",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
     "id": "SID_金蘭の書",
     "game8_id": "268987",
     "game8_rating": "8.5",
@@ -5348,6 +5372,12 @@
   {
     "id": "SID_戦神の闇夜の竜石",
     "game8_id": "512293",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_古の地竜族のブレス",
+    "game8_id": "513853",
     "game8_rating": "9.5",
     "game8_grade": "S"
   },
@@ -6804,6 +6834,12 @@
     "game8_grade": "S"
   },
   {
+    "id": "SID_寡黙なる忠義の斧",
+    "game8_id": "512926",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
     "id": "SID_鏑矢",
     "game8_id": "265592",
     "game8_rating": "-",
@@ -7958,6 +7994,12 @@
   {
     "id": "SID_収穫の恵みの竜石",
     "game8_id": "477111",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_古の神竜姫のブレス",
+    "game8_id": "513854",
     "game8_rating": "9.5",
     "game8_grade": "S"
   },
@@ -10188,6 +10230,12 @@
     "game8_grade": "S"
   },
   {
+    "id": "SID_古の神竜王のブレス",
+    "game8_id": "513851",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
     "id": "SID_幼獣の化身・重装",
     "game8_id": "267861",
     "game8_rating": "-",
@@ -10304,30 +10352,6 @@
   {
     "id": "SID_春の夜の夢の角",
     "game8_id": "503883",
-    "game8_rating": "9.5",
-    "game8_grade": "S"
-  },
-  {
-    "id": "SID_古の神竜王のブレス",
-    "game8_id": "513851",
-    "game8_rating": "9.5",
-    "game8_grade": "S"
-  },
-  {
-    "id": "SID_原初の魔道書",
-    "game8_id": "513852",
-    "game8_rating": "9.5",
-    "game8_grade": "S"
-  },
-  {
-    "id": "SID_古の地竜族のブレス",
-    "game8_id": "513853",
-    "game8_rating": "9.5",
-    "game8_grade": "S"
-  },
-  {
-    "id": "SID_古の神竜姫のブレス",
-    "game8_id": "513854",
     "game8_rating": "9.5",
     "game8_grade": "S"
   },
@@ -10928,6 +10952,12 @@
   {
     "id": "SID_重装の大炎",
     "game8_id": "436720",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_竜炎",
+    "game8_id": "513855",
     "game8_rating": "9.5",
     "game8_grade": "S"
   },
@@ -11786,12 +11816,6 @@
   {
     "id": "SID_真竜穿射",
     "game8_id": "512295",
-    "game8_rating": "9.5",
-    "game8_grade": "S"
-  },
-  {
-    "id": "SID_竜炎",
-    "game8_id": "513855",
     "game8_rating": "9.5",
     "game8_grade": "S"
   },
@@ -15216,6 +15240,12 @@
     "game8_grade": "S"
   },
   {
+    "id": "SID_人に未来を授けし者",
+    "game8_id": "513856",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
     "id": "SID_攻撃速さの福音",
     "game8_id": "512297",
     "game8_rating": "9.5",
@@ -15230,12 +15260,6 @@
   {
     "id": "SID_見下す者",
     "game8_id": "512296",
-    "game8_rating": "9.5",
-    "game8_grade": "S"
-  },
-  {
-    "id": "SID_人に未来を授けし者",
-    "game8_id": "513856",
     "game8_rating": "9.5",
     "game8_grade": "S"
   },
@@ -16926,6 +16950,12 @@
     "game8_grade": "A"
   },
   {
+    "id": "SID_攻撃魔防の大混乱",
+    "game8_id": "513858",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
     "id": "SID_攻撃守備の混乱3",
     "game8_id": "451069",
     "game8_rating": "9.5",
@@ -17568,26 +17598,26 @@
     "game8_grade": null
   },
   {
-    "id": "SID_攻撃守備の遠影1",
-    "game8_id": "331695",
-    "game8_rating": "-",
-    "game8_grade": null
-  },
-  {
     "id": "SID_攻撃魔防の遠影1",
     "game8_id": "335310",
     "game8_rating": "-",
     "game8_grade": null
   },
   {
-    "id": "SID_攻撃魔防の遠影2",
-    "game8_id": "335309",
+    "id": "SID_攻撃守備の遠影1",
+    "game8_id": "331695",
     "game8_rating": "-",
     "game8_grade": null
   },
   {
     "id": "SID_攻撃守備の遠影2",
     "game8_id": "331696",
+    "game8_rating": "-",
+    "game8_grade": null
+  },
+  {
+    "id": "SID_攻撃魔防の遠影2",
+    "game8_id": "335309",
     "game8_rating": "-",
     "game8_grade": null
   },
@@ -17616,16 +17646,16 @@
     "game8_grade": "SS"
   },
   {
-    "id": "SID_共鳴・攻魔遠影",
-    "game8_id": "503891",
-    "game8_rating": "9.5",
-    "game8_grade": "S"
-  },
-  {
     "id": "SID_攻撃速さの遠影2",
     "game8_id": "342536",
     "game8_rating": null,
     "game8_grade": null
+  },
+  {
+    "id": "SID_共鳴・攻魔遠影",
+    "game8_id": "503891",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
   },
   {
     "id": "SID_攻撃速さの遠影3",
@@ -17652,16 +17682,16 @@
     "game8_grade": "S"
   },
   {
-    "id": "SID_速さ守備の遠影4",
-    "game8_id": "473580",
-    "game8_rating": "9.5",
-    "game8_grade": "SS"
-  },
-  {
     "id": "SID_速さ魔防の近影1",
     "game8_id": "381513",
     "game8_rating": "-",
     "game8_grade": null
+  },
+  {
+    "id": "SID_速さ守備の遠影4",
+    "game8_id": "473580",
+    "game8_rating": "9.5",
+    "game8_grade": "SS"
   },
   {
     "id": "SID_速さ魔防の近影2",
@@ -17698,6 +17728,12 @@
     "game8_id": "382866",
     "game8_rating": "9.0",
     "game8_grade": null
+  },
+  {
+    "id": "SID_攻撃魔防の近影4",
+    "game8_id": "513857",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
   },
   {
     "id": "SID_攻撃速さの近影1",
@@ -19376,18 +19412,6 @@
   {
     "id": "SID_仕方がない子ね",
     "game8_id": "512300",
-    "game8_rating": "9.5",
-    "game8_grade": "S"
-  },
-  {
-    "id": "SID_攻撃魔防の近影4",
-    "game8_id": "513857",
-    "game8_rating": "9.5",
-    "game8_grade": "S"
-  },
-  {
-    "id": "SID_攻撃魔防の大混乱",
-    "game8_id": "513858",
     "game8_rating": "9.5",
     "game8_grade": "S"
   },
@@ -22680,20 +22704,14 @@
     "game8_grade": "S"
   },
   {
-    "id": "SID_光輝く翼",
-    "game8_id": "317060",
-    "game8_rating": "9.0",
-    "game8_grade": null
-  },
-  {
     "id": "SID_死からは逃れ…・神",
     "game8_id": "423993",
     "game8_rating": "9.9",
     "game8_grade": null
   },
   {
-    "id": "SID_束縛、秩序、安定",
-    "game8_id": "333025",
+    "id": "SID_光輝く翼",
+    "game8_id": "317060",
     "game8_rating": "9.0",
     "game8_grade": null
   },
@@ -22704,9 +22722,9 @@
     "game8_grade": "A"
   },
   {
-    "id": "SID_盟主の鼓動・承",
-    "game8_id": "343125",
-    "game8_rating": "9",
+    "id": "SID_束縛、秩序、安定",
+    "game8_id": "333025",
+    "game8_rating": "9.0",
     "game8_grade": null
   },
   {
@@ -22714,6 +22732,12 @@
     "game8_id": "460283",
     "game8_rating": "9.5",
     "game8_grade": "S"
+  },
+  {
+    "id": "SID_盟主の鼓動・承",
+    "game8_id": "343125",
+    "game8_rating": "9",
+    "game8_grade": null
   },
   {
     "id": "SID_みんなと一緒に・承",
@@ -22974,14 +22998,14 @@
     "game8_grade": "S"
   },
   {
-    "id": "SID_神竜王の大牙",
-    "game8_id": "513859",
+    "id": "SID_みんなだいすき",
+    "game8_id": "513860",
     "game8_rating": "9.5",
     "game8_grade": "S"
   },
   {
-    "id": "SID_みんなだいすき",
-    "game8_id": "513860",
+    "id": "SID_神竜王の大牙",
+    "game8_id": "513859",
     "game8_rating": "9.5",
     "game8_grade": "S"
   },

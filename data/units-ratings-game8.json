@@ -112,6 +112,14 @@
     "recommended_plus10": "Spd"
   },
   {
+    "id": "PID_幼少カミラ",
+    "game8_id": "512303",
+    "game8_rating": "9.9",
+    "recommended_boon": "Spd",
+    "recommended_bane": "Res",
+    "recommended_plus10": "Spd"
+  },
+  {
     "id": "PID_比翼ピアニー",
     "game8_id": "315238",
     "game8_rating": "9.5",
@@ -616,20 +624,28 @@
     "recommended_plus10": "Spd"
   },
   {
-    "id": "PID_幼少カミラ",
-    "game8_id": "512303",
-    "game8_rating": "9.5",
-    "recommended_boon": "Spd",
-    "recommended_bane": "Res",
-    "recommended_plus10": "Spd"
-  },
-  {
     "id": "PID_比翼カムイ男",
     "game8_id": "512305",
     "game8_rating": "9.5",
     "recommended_boon": "Spd",
     "recommended_bane": "HP",
     "recommended_plus10": "Spd"
+  },
+  {
+    "id": "PID_若年ナーガ",
+    "game8_id": "513845",
+    "game8_rating": "9.5",
+    "recommended_boon": "Res",
+    "recommended_bane": "Spd",
+    "recommended_plus10": "Res"
+  },
+  {
+    "id": "PID_響心若年チキ",
+    "game8_id": "513848",
+    "game8_rating": "9.5",
+    "recommended_boon": "Def",
+    "recommended_bane": "Atk",
+    "recommended_plus10": "Def"
   },
   {
     "id": "PID_アーダン",
@@ -886,6 +902,14 @@
     "recommended_boon": "Atk",
     "recommended_bane": "Def",
     "recommended_plus10": "Atk"
+  },
+  {
+    "id": "PID_ドゥドゥ―",
+    "game8_id": "321578",
+    "game8_rating": "9.0",
+    "recommended_boon": "Def",
+    "recommended_bane": "Spd",
+    "recommended_plus10": "Def"
   },
   {
     "id": "PID_ダグ味方",
@@ -1614,6 +1638,30 @@
     "recommended_boon": "Atk",
     "recommended_bane": "Res",
     "recommended_plus10": "Atk"
+  },
+  {
+    "id": "PID_若年ガトー",
+    "game8_id": "513846",
+    "game8_rating": "9.0",
+    "recommended_boon": "Res",
+    "recommended_bane": "Spd",
+    "recommended_plus10": "Res"
+  },
+  {
+    "id": "PID_若年メディウス",
+    "game8_id": "513847",
+    "game8_rating": "9.0",
+    "recommended_boon": "Res",
+    "recommended_bane": "Spd",
+    "recommended_plus10": "Res"
+  },
+  {
+    "id": "PID_若年チェイニー",
+    "game8_id": "513849",
+    "game8_rating": "9.0",
+    "recommended_boon": "HP",
+    "recommended_bane": "Def",
+    "recommended_plus10": "HP"
   },
   {
     "id": "PID_インバース",
@@ -2528,6 +2576,14 @@
     "recommended_plus10": "Atk"
   },
   {
+    "id": "PID_ミランダ",
+    "game8_id": "315813",
+    "game8_rating": "8.5",
+    "recommended_boon": "Atk",
+    "recommended_bane": "Def",
+    "recommended_plus10": "Atk"
+  },
+  {
     "id": "PID_サラ",
     "game8_id": "315816",
     "game8_rating": "8.5",
@@ -2576,6 +2632,14 @@
     "recommended_plus10": "Atk"
   },
   {
+    "id": "PID_フュリー",
+    "game8_id": "318236",
+    "game8_rating": "8.5",
+    "recommended_boon": "Atk",
+    "recommended_bane": "Def",
+    "recommended_plus10": "Atk"
+  },
+  {
     "id": "PID_伝承クロード",
     "game8_id": "321045",
     "game8_rating": "8.5",
@@ -2590,14 +2654,6 @@
     "recommended_boon": "Spd",
     "recommended_bane": "Res",
     "recommended_plus10": "Spd"
-  },
-  {
-    "id": "PID_ドゥドゥ―",
-    "game8_id": "321578",
-    "game8_rating": "8.5",
-    "recommended_boon": "Def",
-    "recommended_bane": "Spd",
-    "recommended_plus10": "Def"
   },
   {
     "id": "PID_マリアンヌ",
@@ -5800,14 +5856,6 @@
     "recommended_plus10": "Atk"
   },
   {
-    "id": "PID_フュリー",
-    "game8_id": "318236",
-    "game8_rating": "8.0",
-    "recommended_boon": "Atk",
-    "recommended_bane": "Def",
-    "recommended_plus10": "Atk"
-  },
-  {
     "id": "PID_ディートバ",
     "game8_id": "318301",
     "game8_rating": "8.0",
@@ -5854,6 +5902,14 @@
     "recommended_boon": null,
     "recommended_bane": null,
     "recommended_plus10": null
+  },
+  {
+    "id": "PID_フェルナン",
+    "game8_id": "333611",
+    "game8_rating": "8.0",
+    "recommended_boon": "Atk",
+    "recommended_bane": "Res",
+    "recommended_plus10": "Atk"
   },
   {
     "id": "PID_水着アッシュ",
@@ -7880,14 +7936,6 @@
     "recommended_plus10": "Res"
   },
   {
-    "id": "PID_ミランダ",
-    "game8_id": "315813",
-    "game8_rating": "7.5",
-    "recommended_boon": "Atk",
-    "recommended_bane": "Res",
-    "recommended_plus10": "Atk"
-  },
-  {
     "id": "PID_砂漠サーリャ",
     "game8_id": "316306",
     "game8_rating": "7.5",
@@ -9800,14 +9848,6 @@
     "recommended_plus10": "Atk"
   },
   {
-    "id": "PID_フェルナン",
-    "game8_id": "333611",
-    "game8_rating": "7.0",
-    "recommended_boon": "Atk",
-    "recommended_bane": "HP",
-    "recommended_plus10": "Atk"
-  },
-  {
     "id": "PID_水着メルセデス",
     "game8_id": "335292",
     "game8_rating": "7.0",
@@ -9830,37 +9870,5 @@
     "recommended_boon": "Atk",
     "recommended_bane": "Spd",
     "recommended_plus10": "Atk"
-  },
-  {
-    "id": "PID_若年ナーガ",
-    "game8_id": "513845",
-    "game8_rating": "9.5",
-    "recommended_boon": "Res",
-    "recommended_bane": "Spd",
-    "recommended_plus10": "Res"
-  },
-  {
-    "id": "PID_若年ガトー",
-    "game8_id": "513846",
-    "game8_rating": "9.0",
-    "recommended_boon": "Res",
-    "recommended_bane": "Spd",
-    "recommended_plus10": "Res"
-  },
-  {
-    "id": "PID_若年メディウス",
-    "game8_id": "513847",
-    "game8_rating": "9.0",
-    "recommended_boon": "Res",
-    "recommended_bane": "Spd",
-    "recommended_plus10": "Res"
-  },
-  {
-    "id": "PID_響心若年チキ",
-    "game8_id": "513848",
-    "game8_rating": "9.5",
-    "recommended_boon": "Def",
-    "recommended_bane": "Atk",
-    "recommended_plus10": "Def"
   }
 ]
