@@ -2757,6 +2757,7 @@
     "id": "SID_成獣の化身・飛行",
     "fodder_ids": [
       "PID_年明エルム",
+      "PID_エルム味方",
       "PID_花嫁エンブラ",
       "PID_エンブラ味方",
       "PID_フレスベルグ味方",
@@ -9427,6 +9428,7 @@
       "PID_ティアモ",
       "PID_双界ティアモ",
       "PID_春祭アイト",
+      "PID_エルム味方",
       "PID_水着ガイア",
       "PID_フレスベルグ味方",
       "PID_年明フレスベルグ",
@@ -27607,6 +27609,7 @@
     "id": "SID_絶対化身・敏捷1",
     "fodder_ids": [
       "PID_春祭アイト",
+      "PID_エルム味方",
       "PID_エンブラ味方",
       "PID_年明フレスベルグ",
       "PID_ラタトスク"
@@ -27651,6 +27654,7 @@
     "id": "SID_絶対化身・敏捷2",
     "fodder_ids": [
       "PID_春祭アイト",
+      "PID_エルム味方",
       "PID_エンブラ味方",
       "PID_年明フレスベルグ",
       "PID_ラタトスク"
@@ -27695,6 +27699,7 @@
     "id": "SID_絶対化身・敏捷3",
     "fodder_ids": [
       "PID_春祭アイト",
+      "PID_エルム味方",
       "PID_エンブラ味方",
       "PID_年明フレスベルグ",
       "PID_ラタトスク"
@@ -29069,7 +29074,8 @@
   {
     "id": "SID_獣影・敏捷",
     "fodder_ids": [
-      "PID_春祭アイト"
+      "PID_春祭アイト",
+      "PID_エルム味方"
     ],
     "fodder": {
       "g4": 4,
@@ -29085,13 +29091,15 @@
       "hg": false,
       "dc": false,
       "ldc": false,
-      "foc": false
+      "foc": true
     },
     "flrwo": {
-      "ssp": 5
+      "ssp": 5,
+      "foc": 5
     },
     "flrfi": {
-      "ssp": 5
+      "ssp": 5,
+      "foc": 5
     },
     "divine_codes": {}
   },
@@ -32121,7 +32129,8 @@
   {
     "id": "SID_蒼穹1",
     "fodder_ids": [
-      "PID_紋章エイリーク"
+      "PID_紋章エイリーク",
+      "PID_比翼マルス2"
     ],
     "fodder": {
       "g4": 1,
@@ -32133,16 +32142,18 @@
     },
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": true
     },
     "flrwo": {
+      "ssp": 5,
       "foc": 5
     },
     "flrfi": {
+      "ssp": 2,
       "foc": 2
     },
     "divine_codes": {}
@@ -32150,7 +32161,8 @@
   {
     "id": "SID_蒼穹2",
     "fodder_ids": [
-      "PID_紋章エイリーク"
+      "PID_紋章エイリーク",
+      "PID_比翼マルス2"
     ],
     "fodder": {
       "g4": 2,
@@ -32162,16 +32174,18 @@
     },
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": true
     },
     "flrwo": {
+      "ssp": 5,
       "foc": 5
     },
     "flrfi": {
+      "ssp": 3,
       "foc": 3
     },
     "divine_codes": {}
@@ -32179,7 +32193,8 @@
   {
     "id": "SID_蒼穹3",
     "fodder_ids": [
-      "PID_紋章エイリーク"
+      "PID_紋章エイリーク",
+      "PID_比翼マルス2"
     ],
     "fodder": {
       "g4": 3,
@@ -32191,16 +32206,18 @@
     },
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": true
     },
     "flrwo": {
+      "ssp": 5,
       "foc": 5
     },
     "flrfi": {
+      "ssp": 4,
       "foc": 4
     },
     "divine_codes": {}
@@ -32208,7 +32225,8 @@
   {
     "id": "SID_蒼穹4",
     "fodder_ids": [
-      "PID_紋章エイリーク"
+      "PID_紋章エイリーク",
+      "PID_比翼マルス2"
     ],
     "fodder": {
       "g4": 4,
@@ -32220,16 +32238,18 @@
     },
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": true
     },
     "flrwo": {
+      "ssp": 5,
       "foc": 5
     },
     "flrfi": {
+      "ssp": 5,
       "foc": 5
     },
     "divine_codes": {}
@@ -39399,6 +39419,7 @@
     "fodder_ids": [
       "PID_花嫁アンナ覚醒",
       "PID_年明エルム",
+      "PID_エルム味方",
       "PID_比翼カゲロウ",
       "PID_双界リシテア",
       "PID_比翼エポニーヌ",
@@ -39435,6 +39456,7 @@
     "fodder_ids": [
       "PID_花嫁アンナ覚醒",
       "PID_年明エルム",
+      "PID_エルム味方",
       "PID_比翼カゲロウ",
       "PID_双界リシテア",
       "PID_比翼エポニーヌ",
@@ -39471,6 +39493,7 @@
     "fodder_ids": [
       "PID_花嫁アンナ覚醒",
       "PID_年明エルム",
+      "PID_エルム味方",
       "PID_比翼カゲロウ",
       "PID_双界リシテア",
       "PID_比翼エポニーヌ",
@@ -61363,6 +61386,7 @@
       "PID_総選挙リン",
       "PID_伝承マルス",
       "PID_幼少マルス",
+      "PID_比翼マルス2",
       "PID_総選挙マルス",
       "PID_比翼マルス",
       "PID_幼少ミネルバ",
@@ -62321,6 +62345,7 @@
       "PID_総選挙リン",
       "PID_伝承マルス",
       "PID_幼少マルス",
+      "PID_比翼マルス2",
       "PID_総選挙マルス",
       "PID_比翼マルス",
       "PID_幼少ワユ",
@@ -77363,6 +77388,7 @@
     "id": "SID_若獣の化身・飛行",
     "fodder_ids": [
       "PID_年明エルム",
+      "PID_エルム味方",
       "PID_花嫁エンブラ",
       "PID_エンブラ味方",
       "PID_フレスベルグ味方",
@@ -93199,6 +93225,7 @@
     "id": "SID_幼獣の化身・飛行",
     "fodder_ids": [
       "PID_年明エルム",
+      "PID_エルム味方",
       "PID_花嫁エンブラ",
       "PID_エンブラ味方",
       "PID_フレスベルグ味方",
@@ -105663,6 +105690,7 @@
       "PID_仮面ルキナ",
       "PID_伝承マルス",
       "PID_幼少マルス",
+      "PID_比翼マルス2",
       "PID_紋章マルス",
       "PID_総選挙マルス",
       "PID_メリン",
@@ -106473,6 +106501,35 @@
     },
     "flrwo": {},
     "flrfi": {},
+    "divine_codes": {}
+  },
+  {
+    "id": "SID_閉ざす者の鋭き爪牙",
+    "fodder_ids": [
+      "PID_エルム味方"
+    ],
+    "fodder": {
+      "g4": 1,
+      "hg": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 1,
+      "shsr": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "flrwo": {
+      "foc": 5
+    },
+    "flrfi": {
+      "foc": 5
+    },
     "divine_codes": {}
   },
   {
@@ -122213,6 +122270,35 @@
     }
   },
   {
+    "id": "SID_開く者たちとの奇縁",
+    "fodder_ids": [
+      "PID_エルム味方"
+    ],
+    "fodder": {
+      "g4": 1,
+      "hg": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 1,
+      "shsr": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "flrwo": {
+      "foc": 5
+    },
+    "flrfi": {
+      "foc": 5
+    },
+    "divine_codes": {}
+  },
+  {
     "id": "SID_戦神の戦斧",
     "fodder_ids": [
       "PID_幼少リズ"
@@ -122710,6 +122796,7 @@
       "PID_双界エーデルガルト",
       "PID_響心エイリーク",
       "PID_春祭アイト",
+      "PID_エルム味方",
       "PID_年明ファフニール",
       "PID_冬祭フェリクス",
       "PID_総選挙フェリクス",
@@ -123347,6 +123434,7 @@
     "id": "SID_敏捷なる獣",
     "fodder_ids": [
       "PID_春祭アイト",
+      "PID_エルム味方",
       "PID_フレスベルグ味方",
       "PID_年明フレスベルグ"
     ],
@@ -132709,6 +132797,35 @@
     },
     "flrwo": {},
     "flrfi": {},
+    "divine_codes": {}
+  },
+  {
+    "id": "SID_暗獣・初撃の鼓動",
+    "fodder_ids": [
+      "PID_エルム味方"
+    ],
+    "fodder": {
+      "g4": 4,
+      "hg": 4,
+      "dc": 4,
+      "sh4": 4,
+      "gsr": 4,
+      "shsr": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "flrwo": {
+      "foc": 5
+    },
+    "flrfi": {
+      "foc": 5
+    },
     "divine_codes": {}
   },
   {
@@ -148748,6 +148865,35 @@
     "divine_codes": {}
   },
   {
+    "id": "SID_速守大牽制・導き手",
+    "fodder_ids": [
+      "PID_比翼マルス2"
+    ],
+    "fodder": {
+      "g4": 4,
+      "hg": 4,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 1,
+      "shsr": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": true,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "flrwo": {
+      "ssp": 5
+    },
+    "flrfi": {
+      "ssp": 5
+    },
+    "divine_codes": {}
+  },
+  {
     "id": "SID_速さ守備の近影1",
     "fodder_ids": [
       "PID_水着アッシュ",
@@ -155809,6 +155955,35 @@
     }
   },
   {
+    "id": "SID_人と竜との盾",
+    "fodder_ids": [
+      "PID_比翼マルス2"
+    ],
+    "fodder": {
+      "g4": 1,
+      "hg": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 1,
+      "shsr": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": true,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "flrwo": {
+      "ssp": 5
+    },
+    "flrfi": {
+      "ssp": 5
+    },
+    "divine_codes": {}
+  },
+  {
     "id": "SID_盾の鼓動1",
     "fodder_ids": [
       "PID_伝承カムイ女",
@@ -158330,6 +158505,7 @@
       "PID_仮面ルキナ",
       "PID_伝承マルス",
       "PID_幼少マルス",
+      "PID_比翼マルス2",
       "PID_紋章マルス",
       "PID_総選挙マルス",
       "PID_メリン",
@@ -165898,6 +166074,7 @@
       "PID_魔器イングリット",
       "PID_ジル",
       "PID_比翼リン",
+      "PID_比翼マルス2",
       "PID_水着ペトラ",
       "PID_忍者ユウギリ",
       "PID_花嫁サイリ",
@@ -165985,6 +166162,7 @@
       "PID_魔器イングリット",
       "PID_ジル",
       "PID_比翼リン",
+      "PID_比翼マルス2",
       "PID_水着ペトラ",
       "PID_忍者ユウギリ",
       "PID_花嫁サイリ",
@@ -166072,6 +166250,7 @@
       "PID_魔器イングリット",
       "PID_ジル",
       "PID_比翼リン",
+      "PID_比翼マルス2",
       "PID_水着ペトラ",
       "PID_忍者ユウギリ",
       "PID_花嫁サイリ",
@@ -179169,6 +179348,7 @@
       "PID_仮面ルキナ",
       "PID_伝承マルス",
       "PID_幼少マルス",
+      "PID_比翼マルス2",
       "PID_紋章マルス",
       "PID_総選挙マルス",
       "PID_メリン",
@@ -184398,6 +184578,35 @@
     "divine_codes": {}
   },
   {
+    "id": "SID_平和の願いの剣",
+    "fodder_ids": [
+      "PID_比翼マルス2"
+    ],
+    "fodder": {
+      "g4": 1,
+      "hg": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 1,
+      "shsr": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": true,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "flrwo": {
+      "ssp": 5
+    },
+    "flrfi": {
+      "ssp": 5
+    },
+    "divine_codes": {}
+  },
+  {
     "id": "SID_剣の技量1",
     "fodder_ids": [
       "PID_クロム2",
@@ -186218,6 +186427,35 @@
     },
     "flrfi": {
       "gsp": 5
+    },
+    "divine_codes": {}
+  },
+  {
+    "id": "SID_真炎の紋章",
+    "fodder_ids": [
+      "PID_比翼マルス2"
+    ],
+    "fodder": {
+      "g4": 1,
+      "hg": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 1,
+      "shsr": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": true,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "flrwo": {
+      "ssp": 5
+    },
+    "flrfi": {
+      "ssp": 5
     },
     "divine_codes": {}
   },

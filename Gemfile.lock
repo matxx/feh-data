@@ -27,7 +27,7 @@ PLATFORMS
   x86_64-darwin-22
 
 DEPENDENCIES
-  aws-sdk-s3
+  aws-sdk-s3 (~> 1.183)
 
 RUBY VERSION
    ruby 3.2.2p53

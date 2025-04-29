@@ -26640,6 +26640,102 @@
     "unlock": 3
   },
   {
+    "unit_id": "PID_エルム味方",
+    "skill_id": "SID_成獣の化身・飛行",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_エルム味方",
+    "skill_id": "SID_流星",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_エルム味方",
+    "skill_id": "SID_絶対化身・敏捷1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_エルム味方",
+    "skill_id": "SID_絶対化身・敏捷2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_エルム味方",
+    "skill_id": "SID_絶対化身・敏捷3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_エルム味方",
+    "skill_id": "SID_獣影・敏捷",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_エルム味方",
+    "skill_id": "SID_無への暗闘1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_エルム味方",
+    "skill_id": "SID_無への暗闘2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_エルム味方",
+    "skill_id": "SID_無への暗闘3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_エルム味方",
+    "skill_id": "SID_若獣の化身・飛行",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_エルム味方",
+    "skill_id": "SID_幼獣の化身・飛行",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_エルム味方",
+    "skill_id": "SID_閉ざす者の鋭き爪牙",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_エルム味方",
+    "skill_id": "SID_開く者たちとの奇縁",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_エルム味方",
+    "skill_id": "SID_星影",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_エルム味方",
+    "skill_id": "SID_敏捷なる獣",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_エルム味方",
+    "skill_id": "SID_暗獣・初撃の鼓動",
+    "default": 0,
+    "unlock": 5
+  },
+  {
     "unit_id": "PID_花嫁エンブラ",
     "skill_id": "SID_すべてを鎖す世界",
     "default": 0,
@@ -62950,6 +63046,102 @@
     "skill_id": "SID_鋼の剣",
     "default": 2,
     "unlock": 2
+  },
+  {
+    "unit_id": "PID_比翼マルス2",
+    "skill_id": "SID_蒼穹1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_比翼マルス2",
+    "skill_id": "SID_蒼穹2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_比翼マルス2",
+    "skill_id": "SID_蒼穹3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_比翼マルス2",
+    "skill_id": "SID_蒼穹4",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_比翼マルス2",
+    "skill_id": "SID_竜裂",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_比翼マルス2",
+    "skill_id": "SID_伏竜",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_比翼マルス2",
+    "skill_id": "SID_鉄の剣",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_比翼マルス2",
+    "skill_id": "SID_速守大牽制・導き手",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_比翼マルス2",
+    "skill_id": "SID_人と竜との盾",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_比翼マルス2",
+    "skill_id": "SID_銀の剣",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_比翼マルス2",
+    "skill_id": "SID_速さ守備の牽制1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_比翼マルス2",
+    "skill_id": "SID_速さ守備の牽制2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_比翼マルス2",
+    "skill_id": "SID_速さ守備の牽制3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_比翼マルス2",
+    "skill_id": "SID_鋼の剣",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_比翼マルス2",
+    "skill_id": "SID_平和の願いの剣",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_比翼マルス2",
+    "skill_id": "SID_真炎の紋章",
+    "default": 0,
+    "unlock": 5
   },
   {
     "unit_id": "PID_紋章マルス",

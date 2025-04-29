@@ -1929,6 +1929,7 @@
       "SID_旧年を閉ざす爪牙",
       "SID_鷹王の嘴爪",
       "SID_白鷺の翼",
+      "SID_閉ざす者の鋭き爪牙",
       "SID_新年開く刃の爪",
       "SID_刃の葬り手の爪",
       "SID_鴉王の嘴爪",
@@ -12533,7 +12534,7 @@
   },
   {
     "id": "SID_攻撃速さの福音",
-    "game8_id": "512297",
+    "game8_id": null,
     "name": "Atk/Spd Tidings",
     "group_name": "Atk/Spd Tidings",
     "category": "passivea",
@@ -22640,6 +22641,9 @@
         "none": true
       }
     },
+    "upgrade_ids": [
+      "SID_暗獣・初撃の鼓動"
+    ],
     "downgrade_ids": [
       "SID_無への暗闘2"
     ]
@@ -35797,7 +35801,8 @@
       "SID_破天",
       "SID_光炎の紋章",
       "SID_覇天",
-      "SID_真覇天"
+      "SID_真覇天",
+      "SID_真炎の紋章"
     ],
     "downgrade_ids": [
       "SID_伏竜"
@@ -60706,6 +60711,34 @@
     }
   },
   {
+    "id": "SID_閉ざす者の鋭き爪牙",
+    "game8_id": "517567",
+    "name": "Jaws of Closure",
+    "group_name": "Jaws of Closure",
+    "category": "weapon",
+    "weapon_type": "All Beast",
+    "image_url": null,
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "refine": null,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Flying"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "All Beast"
+        ]
+      }
+    },
+    "downgrade_ids": [
+      "SID_成獣の化身・飛行"
+    ]
+  },
+  {
     "id": "SID_ジャハナの暗器",
     "game8_id": "494198",
     "name": "Jehanna Dagger",
@@ -70585,6 +70618,27 @@
     ]
   },
   {
+    "id": "SID_開く者たちとの奇縁",
+    "game8_id": "517570",
+    "name": "New Opening",
+    "group_name": "New Opening",
+    "category": "passivea",
+    "weapon_type": null,
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/3d/New_Opening.png/revision/latest?cb=20250428121935",
+    "is_prf": true,
+    "sp": 300,
+    "tier": 1,
+    "refine": null,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "none": true
+      }
+    }
+  },
+  {
     "id": "SID_戦神の戦斧",
     "game8_id": "450575",
     "name": "New War Axe",
@@ -76879,6 +76933,34 @@
     }
   },
   {
+    "id": "SID_暗獣・初撃の鼓動",
+    "game8_id": "517572",
+    "name": "Preempt Screech",
+    "group_name": "Preempt Screech",
+    "category": "passivec",
+    "weapon_type": null,
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/7a/Preempt_Screech.png/revision/latest?cb=20250428122006",
+    "is_prf": false,
+    "sp": 300,
+    "tier": 4,
+    "refine": null,
+    "restrictions": {
+      "moves": {
+        "can_not_use": [
+          "Armored"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "All Beast"
+        ]
+      }
+    },
+    "downgrade_ids": [
+      "SID_無への暗闘3"
+    ]
+  },
+  {
     "id": "SID_未来を知る力",
     "game8_id": "341286",
     "name": "Prescience",
@@ -76932,7 +77014,7 @@
   },
   {
     "id": "SID_風地水の命脈",
-    "game8_id": "512298",
+    "game8_id": null,
     "name": "Primordial Boost",
     "group_name": "Primordial Boost",
     "category": "passivea",
@@ -86132,6 +86214,36 @@
     ]
   },
   {
+    "id": "SID_速守大牽制・導き手",
+    "game8_id": "517573",
+    "name": "S/D Hold Guide",
+    "group_name": "S/D Hold Guide",
+    "category": "passivec",
+    "weapon_type": null,
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/a8/S_D_Hold_Guide.png/revision/latest?cb=20250428121955",
+    "is_prf": false,
+    "sp": 300,
+    "tier": 4,
+    "refine": null,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Flying"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "All Melee",
+          "All Breath",
+          "All Beast"
+        ]
+      }
+    },
+    "downgrade_ids": [
+      "SID_速さ守備の牽制3"
+    ]
+  },
+  {
     "id": "SID_速さ守備の近影1",
     "game8_id": "328800",
     "name": "S/D Near Trace 1",
@@ -90862,6 +90974,29 @@
     ]
   },
   {
+    "id": "SID_人と竜との盾",
+    "game8_id": "517571",
+    "name": "Shield of Hope",
+    "group_name": "Shield of Hope",
+    "category": "passiveb",
+    "weapon_type": null,
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/ba/Shield_of_Hope.png/revision/latest?cb=20250428121944",
+    "is_prf": true,
+    "sp": 300,
+    "tier": 1,
+    "refine": null,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_not_use": [
+          "Colorless Staff"
+        ]
+      }
+    }
+  },
+  {
     "id": "SID_盾の鼓動1",
     "game8_id": "266504",
     "name": "Shield Pulse 1",
@@ -92370,6 +92505,7 @@
       "SID_砂塵に舞う曲刀",
       "SID_戦神の闇夜の剣",
       "SID_イザークの守護剣",
+      "SID_平和の願いの剣",
       "SID_淑女のお茶会の鋭剣",
       "SID_雷霆",
       "SID_影の勇者の黒剣",
@@ -96867,6 +97003,7 @@
       }
     },
     "upgrade_ids": [
+      "SID_速守大牽制・導き手",
       "SID_速守牽制・運び手",
       "SID_速さ守備の十字牽制",
       "SID_速さ守備の大牽制"
@@ -105756,6 +105893,32 @@
     ]
   },
   {
+    "id": "SID_平和の願いの剣",
+    "game8_id": "517568",
+    "name": "Sword of Peace",
+    "group_name": "Sword of Peace",
+    "category": "weapon",
+    "weapon_type": "Red Sword",
+    "image_url": null,
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "refine": null,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Red Sword"
+        ]
+      }
+    },
+    "downgrade_ids": [
+      "SID_銀の剣"
+    ]
+  },
+  {
     "id": "SID_剣の技量1",
     "game8_id": "266780",
     "name": "Sword Valor 1",
@@ -107155,6 +107318,32 @@
     "downgrade_ids": [
       "SID_トロン",
       "SID_シャイン"
+    ]
+  },
+  {
+    "id": "SID_真炎の紋章",
+    "game8_id": "517569",
+    "name": "The Fire Emblem",
+    "group_name": "The Fire Emblem",
+    "category": "special",
+    "weapon_type": null,
+    "image_url": null,
+    "is_prf": true,
+    "sp": 500,
+    "tier": 3,
+    "refine": null,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_not_use": [
+          "Colorless Staff"
+        ]
+      }
+    },
+    "downgrade_ids": [
+      "SID_竜裂"
     ]
   },
   {
@@ -109658,7 +109847,7 @@
   },
   {
     "id": "SID_見下す者",
-    "game8_id": "512296",
+    "game8_id": null,
     "name": "Trample",
     "group_name": "Trample",
     "category": "passivea",

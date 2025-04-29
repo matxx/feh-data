@@ -1440,6 +1440,12 @@
     "game8_grade": "A"
   },
   {
+    "id": "SID_平和の願いの剣",
+    "game8_id": "517568",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
     "id": "SID_忍の刀",
     "game8_id": "305976",
     "game8_rating": "-",
@@ -2722,6 +2728,12 @@
     "game8_id": "490333",
     "game8_rating": "9.5",
     "game8_grade": "S"
+  },
+  {
+    "id": "SID_閉ざす者の鋭き爪牙",
+    "game8_id": "517567",
+    "game8_rating": "9.9",
+    "game8_grade": "SS"
   },
   {
     "id": "SID_鉄の槍",
@@ -11820,6 +11832,12 @@
     "game8_grade": "S"
   },
   {
+    "id": "SID_真炎の紋章",
+    "game8_id": "517569",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
     "id": "SID_守備魔防の防城戦1",
     "game8_id": "267880",
     "game8_rating": "-",
@@ -15246,20 +15264,8 @@
     "game8_grade": "S"
   },
   {
-    "id": "SID_攻撃速さの福音",
-    "game8_id": "512297",
-    "game8_rating": "9.5",
-    "game8_grade": "S"
-  },
-  {
-    "id": "SID_風地水の命脈",
-    "game8_id": "512298",
-    "game8_rating": "9.5",
-    "game8_grade": "S"
-  },
-  {
-    "id": "SID_見下す者",
-    "game8_id": "512296",
+    "id": "SID_開く者たちとの奇縁",
+    "game8_id": "517570",
     "game8_rating": "9.5",
     "game8_grade": "S"
   },
@@ -19074,16 +19080,16 @@
     "game8_grade": "S"
   },
   {
-    "id": "SID_双姫の陽翼・神",
-    "game8_id": "447221",
-    "game8_rating": "9.5",
-    "game8_grade": "A"
-  },
-  {
     "id": "SID_覇鎧障壁",
     "game8_id": "330523",
     "game8_rating": "9.5",
     "game8_grade": "S"
+  },
+  {
+    "id": "SID_双姫の陽翼・神",
+    "game8_id": "447221",
+    "game8_rating": "9.5",
+    "game8_grade": "A"
   },
   {
     "id": "SID_蒼き殺人鬼",
@@ -19122,16 +19128,16 @@
     "game8_grade": null
   },
   {
-    "id": "SID_未来を知る力・承",
-    "game8_id": "493070",
-    "game8_rating": "9.5",
-    "game8_grade": "S"
-  },
-  {
     "id": "SID_太陽の腕輪・承",
     "game8_id": "343126",
     "game8_rating": "9.5",
     "game8_grade": "A"
+  },
+  {
+    "id": "SID_未来を知る力・承",
+    "game8_id": "493070",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
   },
   {
     "id": "SID_封印の盾・承",
@@ -19194,14 +19200,14 @@
     "game8_grade": "A"
   },
   {
-    "id": "SID_騎士道・承",
-    "game8_id": "498539",
+    "id": "SID_華月の腕輪・遠",
+    "game8_id": "381511",
     "game8_rating": "9.5",
     "game8_grade": "S"
   },
   {
-    "id": "SID_華月の腕輪・遠",
-    "game8_id": "381511",
+    "id": "SID_騎士道・承",
+    "game8_id": "498539",
     "game8_rating": "9.5",
     "game8_grade": "S"
   },
@@ -19230,16 +19236,16 @@
     "game8_grade": "A"
   },
   {
-    "id": "SID_僕が守ります！",
-    "game8_id": "418369",
-    "game8_rating": "9.5",
-    "game8_grade": "A"
-  },
-  {
     "id": "SID_時を戻す黄金の魔女",
     "game8_id": "421761",
     "game8_rating": "9.5",
     "game8_grade": "S"
+  },
+  {
+    "id": "SID_僕が守ります！",
+    "game8_id": "418369",
+    "game8_rating": "9.5",
+    "game8_grade": "A"
   },
   {
     "id": "SID_真落星",
@@ -19412,6 +19418,12 @@
   {
     "id": "SID_仕方がない子ね",
     "game8_id": "512300",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_人と竜との盾",
+    "game8_id": "517571",
     "game8_rating": "9.5",
     "game8_grade": "S"
   },
@@ -20670,16 +20682,22 @@
     "game8_grade": "A"
   },
   {
-    "id": "SID_攻撃魔防の牽制2",
-    "game8_id": "297570",
-    "game8_rating": "-",
-    "game8_grade": null
+    "id": "SID_速守大牽制・導き手",
+    "game8_id": "517573",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
   },
   {
     "id": "SID_速守牽制・運び手",
     "game8_id": "413009",
     "game8_rating": "9.5",
     "game8_grade": "S"
+  },
+  {
+    "id": "SID_攻撃魔防の牽制2",
+    "game8_id": "297570",
+    "game8_rating": "-",
+    "game8_grade": null
   },
   {
     "id": "SID_速さ守備の十字牽制",
@@ -20736,16 +20754,16 @@
     "game8_grade": null
   },
   {
-    "id": "SID_速さ魔防の牽制3",
-    "game8_id": "310165",
-    "game8_rating": "9.5",
-    "game8_grade": "A"
-  },
-  {
     "id": "SID_速さ魔防の十字牽制",
     "game8_id": "447185",
     "game8_rating": "9.5",
     "game8_grade": "S"
+  },
+  {
+    "id": "SID_速さ魔防の牽制3",
+    "game8_id": "310165",
+    "game8_rating": "9.5",
+    "game8_grade": "A"
   },
   {
     "id": "SID_守備魔防の牽制1",
@@ -21472,6 +21490,12 @@
     "game8_id": "353439",
     "game8_rating": "-",
     "game8_grade": null
+  },
+  {
+    "id": "SID_暗獣・初撃の鼓動",
+    "game8_id": "517572",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
   },
   {
     "id": "SID_緑への暗闘2",
