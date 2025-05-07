@@ -574,6 +574,34 @@
     "recommended_plus10": "Spd"
   },
   {
+    "id": "PID_闇リュール女",
+    "game8_rating": "9.5",
+    "recommended_boon": "Res",
+    "recommended_bane": "Spd",
+    "recommended_plus10": "Res"
+  },
+  {
+    "id": "PID_闇リュール男",
+    "game8_rating": "9.5",
+    "recommended_boon": "Spd",
+    "recommended_bane": "HP",
+    "recommended_plus10": "Spd"
+  },
+  {
+    "id": "PID_闇レナ",
+    "game8_rating": "9.5",
+    "recommended_boon": "Res",
+    "recommended_bane": "Def",
+    "recommended_plus10": "Res"
+  },
+  {
+    "id": "PID_魔器魔獣ドゥドゥー",
+    "game8_rating": "9.5",
+    "recommended_boon": "Def",
+    "recommended_bane": "Spd",
+    "recommended_plus10": "Def"
+  },
+  {
     "id": "PID_アーダン",
     "game8_rating": "9.0",
     "recommended_boon": "Atk",
@@ -1468,6 +1496,13 @@
     "recommended_boon": "HP",
     "recommended_bane": "Def",
     "recommended_plus10": "HP"
+  },
+  {
+    "id": "PID_ファフニール味方",
+    "game8_rating": "9.0",
+    "recommended_boon": "Spd",
+    "recommended_bane": "Res",
+    "recommended_plus10": "Spd"
   },
   {
     "id": "PID_インバース",

@@ -3623,6 +3623,54 @@
     }
   },
   {
+    "id": "SID_第94迷宮の覇者1",
+    "game8_id": null,
+    "name": "Squad Ace CP 1",
+    "group_name": "Squad Ace CP",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/1a/Squad_Ace_BV_1.png/revision/latest?cb=20230906021551",
+    "sp": 120,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "none": true
+      }
+    }
+  },
+  {
+    "id": "SID_第94迷宮の覇者2",
+    "game8_id": null,
+    "name": "Squad Ace CP 2",
+    "group_name": "Squad Ace CP",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/60/Squad_Ace_BV_2.png/revision/latest?cb=20230906021601",
+    "sp": 180,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "none": true
+      }
+    }
+  },
+  {
+    "id": "SID_第94迷宮の覇者3",
+    "game8_id": null,
+    "name": "Squad Ace CP 3",
+    "group_name": "Squad Ace CP",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/de/Squad_Ace_BV_3.png/revision/latest?cb=20230906021611",
+    "sp": 240,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "none": true
+      }
+    }
+  },
+  {
     "id": "SID_第4迷宮の覇者1",
     "game8_id": null,
     "name": "Squad Ace D 1",

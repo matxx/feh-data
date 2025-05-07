@@ -1205,6 +1205,11 @@
     "game8_grade": "S"
   },
   {
+    "id": "SID_邪竜の御子の剣",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
     "id": "SID_忍の刀",
     "game8_rating": "-",
     "game8_grade": null
@@ -3510,6 +3515,11 @@
     "game8_grade": "A"
   },
   {
+    "id": "SID_機構フレイズマル",
+    "game8_rating": "9.0",
+    "game8_grade": "A"
+  },
+  {
     "id": "SID_コウモリの弓",
     "game8_rating": "-",
     "game8_grade": null
@@ -4611,6 +4621,11 @@
   },
   {
     "id": "SID_巳年の毒の牙",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_魔器・紋章石",
     "game8_rating": "9.5",
     "game8_grade": "S"
   },
@@ -6680,6 +6695,11 @@
     "game8_grade": "S"
   },
   {
+    "id": "SID_邪竜の御子の体術",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
     "id": "SID_白鷺の翼",
     "game8_rating": "9.5",
     "game8_grade": null
@@ -7126,6 +7146,11 @@
   },
   {
     "id": "SID_戦神の闇夜の杖",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_生贄の聖女の杖",
     "game8_rating": "9.5",
     "game8_grade": "S"
   },
@@ -9655,24 +9680,24 @@
     "game8_grade": "SS"
   },
   {
-    "id": "SID_グランベルの…・承",
-    "game8_rating": "9.5",
-    "game8_grade": "S"
-  },
-  {
     "id": "SID_覇天",
     "game8_rating": "9.0",
     "game8_grade": null
   },
   {
-    "id": "SID_光炎の紋章",
+    "id": "SID_グランベルの…・承",
     "game8_rating": "9.5",
-    "game8_grade": "A"
+    "game8_grade": "S"
   },
   {
     "id": "SID_月光閃・承",
     "game8_rating": "9.5",
     "game8_grade": "S"
+  },
+  {
+    "id": "SID_光炎の紋章",
+    "game8_rating": "9.5",
+    "game8_grade": "A"
   },
   {
     "id": "SID_覇天・承",
@@ -9703,6 +9728,11 @@
     "id": "SID_聖神と暗黒神の冠",
     "game8_rating": "9.5",
     "game8_grade": "A"
+  },
+  {
+    "id": "SID_聖神と暗黒神…・承",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
   },
   {
     "id": "SID_閉界",
@@ -9861,6 +9891,11 @@
   },
   {
     "id": "SID_真炎の紋章",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_邪竜破",
     "game8_rating": "9.5",
     "game8_grade": "S"
   },
@@ -10046,6 +10081,11 @@
   },
   {
     "id": "SID_攻撃速さの共栄",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_攻撃守備の共栄",
     "game8_rating": "9.5",
     "game8_grade": "S"
   },
@@ -11460,6 +11500,16 @@
     "game8_grade": "C"
   },
   {
+    "id": "SID_風地水の命脈",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_火地水の命脈",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
     "id": "SID_攻撃速さの絆1",
     "game8_rating": "-",
     "game8_grade": null
@@ -12585,14 +12635,14 @@
     "game8_grade": "A"
   },
   {
-    "id": "SID_連閃",
-    "game8_rating": "9.5",
-    "game8_grade": "S"
-  },
-  {
     "id": "SID_自己研鑽",
     "game8_rating": "9.5",
     "game8_grade": "A"
+  },
+  {
+    "id": "SID_連閃",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
   },
   {
     "id": "SID_漆黒の悪夢",
@@ -12721,6 +12771,21 @@
   },
   {
     "id": "SID_開く者たちとの奇縁",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_絆を引き裂くもの",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_攻撃速さの福音",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_見下す者",
     "game8_rating": "9.5",
     "game8_grade": "S"
   },
@@ -13320,6 +13385,11 @@
     "game8_grade": "S"
   },
   {
+    "id": "SID_強襲隊形",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
     "id": "SID_迎撃隊形1",
     "game8_rating": "-",
     "game8_grade": null
@@ -13358,6 +13428,11 @@
     "id": "SID_奥義隊形4",
     "game8_rating": "9.5",
     "game8_grade": "A"
+  },
+  {
+    "id": "SID_奥義隊形・竜眼",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
   },
   {
     "id": "SID_急襲隊形1",
@@ -15188,6 +15263,11 @@
     "id": "SID_速さ魔防の防壁1",
     "game8_rating": "-",
     "game8_grade": null
+  },
+  {
+    "id": "SID_速さ守備の刃壁",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
   },
   {
     "id": "SID_速さ魔防の防壁2",
@@ -18820,12 +18900,17 @@
     "game8_grade": "S"
   },
   {
+    "id": "SID_女神を宿せし者",
+    "game8_rating": "9.0",
+    "game8_grade": "A"
+  },
+  {
     "id": "SID_開神の眷属・神",
     "game8_rating": "9.0",
     "game8_grade": "A"
   },
   {
-    "id": "SID_女神を宿せし者",
+    "id": "SID_地上の最後の女神",
     "game8_rating": "9.0",
     "game8_grade": "A"
   },
@@ -18833,11 +18918,6 @@
     "id": "SID_女神を宿せし者・承",
     "game8_rating": "9.5",
     "game8_grade": "S"
-  },
-  {
-    "id": "SID_地上の最後の女神",
-    "game8_rating": "9.0",
-    "game8_grade": "A"
   },
   {
     "id": "SID_地上の最後の…・神",
@@ -18920,17 +19000,12 @@
     "game8_grade": "A"
   },
   {
-    "id": "SID_ミラの歯車",
-    "game8_rating": "9.0",
-    "game8_grade": null
-  },
-  {
     "id": "SID_見通せぬ深き…・神",
     "game8_rating": "9.5",
     "game8_grade": "S"
   },
   {
-    "id": "SID_死からは逃れられぬ",
+    "id": "SID_ミラの歯車",
     "game8_rating": "9.0",
     "game8_grade": null
   },
@@ -18940,8 +19015,8 @@
     "game8_grade": "S"
   },
   {
-    "id": "SID_死からは逃れ…・神",
-    "game8_rating": "9.9",
+    "id": "SID_死からは逃れられぬ",
+    "game8_rating": "9.0",
     "game8_grade": null
   },
   {
@@ -18950,14 +19025,19 @@
     "game8_grade": null
   },
   {
-    "id": "SID_光輝く翼・神",
-    "game8_rating": "9.5",
-    "game8_grade": "A"
+    "id": "SID_死からは逃れ…・神",
+    "game8_rating": "9.9",
+    "game8_grade": null
   },
   {
     "id": "SID_束縛、秩序、安定",
     "game8_rating": "9.0",
     "game8_grade": null
+  },
+  {
+    "id": "SID_光輝く翼・神",
+    "game8_rating": "9.5",
+    "game8_grade": "A"
   },
   {
     "id": "SID_束縛、秩序、…・神",
@@ -19001,8 +19081,13 @@
   },
   {
     "id": "SID_闇の樹海の守護竜",
-    "game8_rating": "9.5",
+    "game8_rating": "9.0",
     "game8_grade": "A"
+  },
+  {
+    "id": "SID_闇の樹海の守…・承",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
   },
   {
     "id": "SID_永生結界",
@@ -19191,6 +19276,11 @@
   },
   {
     "id": "SID_神竜王の大牙",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_おれの、ただ一人の",
     "game8_rating": "9.5",
     "game8_grade": "S"
   },

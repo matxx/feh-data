@@ -1826,6 +1826,7 @@
       }
     },
     "upgrade_ids": [
+      "SID_魔器・紋章石",
       "SID_毒の葬り手の牙",
       "SID_毒の葬り手の妖牙",
       "SID_冬氷の魔拳",
@@ -4158,6 +4159,34 @@
     ]
   },
   {
+    "id": "SID_魔器・紋章石",
+    "game8_id": "520599",
+    "name": "Arcane Crest",
+    "group_name": "Arcane Crest",
+    "category": "weapon",
+    "weapon_type": "All Beast",
+    "image_url": null,
+    "is_prf": false,
+    "sp": 300,
+    "tier": 4,
+    "refine": null,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Armored"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "All Beast"
+        ]
+      }
+    },
+    "downgrade_ids": [
+      "SID_成獣の化身・重装"
+    ]
+  },
+  {
     "id": "SID_魔器・優しさの影弓",
     "game8_id": "418356",
     "name": "Arcane Darkbow",
@@ -5908,6 +5937,7 @@
       "SID_キアの杖",
       "SID_妖猫の日傘",
       "SID_熊手",
+      "SID_生贄の聖女の杖",
       "SID_メランコリー",
       "SID_戦神の天杖",
       "SID_立会人の杖",
@@ -5939,6 +5969,32 @@
       "SID_マシュマロの杖",
       "SID_トリレンマ",
       "SID_キャンディの杖"
+    ]
+  },
+  {
+    "id": "SID_強襲隊形",
+    "game8_id": "520607",
+    "name": "Assault Fighter",
+    "group_name": "Assault Fighter",
+    "category": "passiveb",
+    "weapon_type": null,
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/2/28/Assault_Fighter.png/revision/latest?cb=20250507030133",
+    "is_prf": false,
+    "sp": 300,
+    "tier": 4,
+    "refine": null,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Armored"
+        ]
+      },
+      "weapons": {
+        "none": true
+      }
+    },
+    "downgrade_ids": [
+      "SID_攻撃隊形3"
     ]
   },
   {
@@ -7551,8 +7607,37 @@
         "none": true
       }
     },
+    "upgrade_ids": [
+      "SID_攻撃守備の共栄"
+    ],
     "downgrade_ids": [
       "SID_攻撃守備の密集2"
+    ]
+  },
+  {
+    "id": "SID_攻撃守備の共栄",
+    "game8_id": "520604",
+    "name": "Atk/Def Fortune",
+    "group_name": "Atk/Def Fortune",
+    "category": "passivea",
+    "weapon_type": null,
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e6/Atk_Def_Fortune.png/revision/latest?cb=20250507030112",
+    "is_prf": false,
+    "sp": 300,
+    "tier": 4,
+    "refine": null,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "All Beast"
+        ]
+      }
+    },
+    "downgrade_ids": [
+      "SID_攻撃守備の密集3"
     ]
   },
   {
@@ -9224,6 +9309,7 @@
     },
     "upgrade_ids": [
       "SID_攻撃魔防の共栄",
+      "SID_攻撃魔防の福音",
       "SID_攻撃魔防の布教"
     ],
     "downgrade_ids": [
@@ -10433,6 +10519,32 @@
     },
     "downgrade_ids": [
       "SID_攻撃魔防の拍節3"
+    ]
+  },
+  {
+    "id": "SID_攻撃魔防の福音",
+    "game8_id": null,
+    "name": "Atk/Res Tidings",
+    "group_name": "Atk/Res Tidings",
+    "category": "passivea",
+    "weapon_type": null,
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/93/Atk_Res_Tidings.png/revision/latest?cb=20250507030122",
+    "is_prf": false,
+    "sp": 300,
+    "tier": 4,
+    "refine": null,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Colorless Staff"
+        ]
+      }
+    },
+    "downgrade_ids": [
+      "SID_攻撃魔防の密集3"
     ]
   },
   {
@@ -12534,7 +12646,7 @@
   },
   {
     "id": "SID_攻撃速さの福音",
-    "game8_id": null,
+    "game8_id": "512297",
     "name": "Atk/Spd Tidings",
     "group_name": "Atk/Spd Tidings",
     "category": "passivea",
@@ -14482,6 +14594,32 @@
     },
     "downgrade_ids": [
       "SID_アトラース"
+    ]
+  },
+  {
+    "id": "SID_聖神と暗黒神…・承",
+    "game8_id": "520889",
+    "name": "Balance Circlet II",
+    "group_name": "Balance Circlet II",
+    "category": "special",
+    "weapon_type": null,
+    "image_url": null,
+    "is_prf": true,
+    "sp": 500,
+    "tier": 4,
+    "refine": null,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_not_use": [
+          "Colorless Staff"
+        ]
+      }
+    },
+    "downgrade_ids": [
+      "SID_聖神と暗黒神の冠"
     ]
   },
   {
@@ -18519,6 +18657,9 @@
         "none": true
       }
     },
+    "upgrade_ids": [
+      "SID_強襲隊形"
+    ],
     "downgrade_ids": [
       "SID_攻撃隊形2"
     ]
@@ -18678,6 +18819,27 @@
     "downgrade_ids": [
       "SID_凶星"
     ]
+  },
+  {
+    "id": "SID_絆を引き裂くもの",
+    "game8_id": "520602",
+    "name": "Bond Breaker",
+    "group_name": "Bond Breaker",
+    "category": "passivea",
+    "weapon_type": null,
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/50/Bond_Breaker.png/revision/latest?cb=20250507030050",
+    "is_prf": true,
+    "sp": 300,
+    "tier": 1,
+    "refine": null,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "none": true
+      }
+    }
   },
   {
     "id": "SID_妖精姉妹の絆",
@@ -25342,6 +25504,9 @@
         ]
       }
     },
+    "upgrade_ids": [
+      "SID_聖神と暗黒神…・承"
+    ],
     "downgrade_ids": [
       "SID_氷蒼"
     ]
@@ -29359,6 +29524,30 @@
     }
   },
   {
+    "id": "SID_闇の樹海の守…・承",
+    "game8_id": "520890",
+    "name": "Darkling Guard II",
+    "group_name": "Darkling Guard II",
+    "category": "passivec",
+    "weapon_type": null,
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f7/Darkling_Guard_II.png/revision/latest?cb=20250507030042",
+    "is_prf": true,
+    "sp": 300,
+    "tier": 2,
+    "refine": null,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "none": true
+      }
+    },
+    "downgrade_ids": [
+      "SID_闇の樹海の守護竜"
+    ]
+  },
+  {
     "id": "SID_闇の樹海の守護竜",
     "game8_id": "378252",
     "name": "Darkling Guardian",
@@ -29377,7 +29566,10 @@
       "weapons": {
         "none": true
       }
-    }
+    },
+    "upgrade_ids": [
+      "SID_闇の樹海の守…・承"
+    ]
   },
   {
     "id": "SID_飛燕の一撃1",
@@ -34015,6 +34207,33 @@
     }
   },
   {
+    "id": "SID_火地水の命脈",
+    "game8_id": "520601",
+    "name": "Diluvial Boost",
+    "group_name": "Diluvial Boost",
+    "category": "passivea",
+    "weapon_type": null,
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/fe/Diluvial_Boost.png/revision/latest?cb=20250507030101",
+    "is_prf": false,
+    "sp": 300,
+    "tier": 4,
+    "refine": null,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Armored"
+        ]
+      },
+      "weapons": {
+        "none": true
+      }
+    },
+    "downgrade_ids": [
+      "SID_生命の大地3",
+      "SID_生命の静水3"
+    ]
+  },
+  {
     "id": "SID_軍師の諫言の杖",
     "game8_id": "371677",
     "name": "Diplomacy Staff",
@@ -38225,6 +38444,7 @@
       }
     },
     "upgrade_ids": [
+      "SID_火地水の命脈",
       "SID_生命の業火大地3",
       "SID_生命の疾風大地3",
       "SID_風地水の命脈"
@@ -41858,6 +42078,32 @@
     }
   },
   {
+    "id": "SID_邪竜破",
+    "game8_id": "520600",
+    "name": "Fell Blast",
+    "group_name": "Fell Blast",
+    "category": "special",
+    "weapon_type": null,
+    "image_url": null,
+    "is_prf": true,
+    "sp": 500,
+    "tier": 3,
+    "refine": null,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_not_use": [
+          "Colorless Staff"
+        ]
+      }
+    },
+    "downgrade_ids": [
+      "SID_凶星"
+    ]
+  },
+  {
     "id": "SID_邪神のブレス",
     "game8_id": "265587",
     "name": "Fell Breath",
@@ -41931,6 +42177,58 @@
     "downgrade_ids": [
       "SID_ボルガノン",
       "SID_ノスフェラート"
+    ]
+  },
+  {
+    "id": "SID_邪竜の御子の体術",
+    "game8_id": "520596",
+    "name": "Fell Child's Arts",
+    "group_name": "Fell Child's Arts",
+    "category": "weapon",
+    "weapon_type": "All Breath",
+    "image_url": null,
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "refine": null,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "All Breath"
+        ]
+      }
+    },
+    "downgrade_ids": [
+      "SID_灼熱のブレス"
+    ]
+  },
+  {
+    "id": "SID_邪竜の御子の剣",
+    "game8_id": "520597",
+    "name": "Fell Child's Blade",
+    "group_name": "Fell Child's Blade",
+    "category": "weapon",
+    "weapon_type": "Red Sword",
+    "image_url": null,
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "refine": null,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Red Sword"
+        ]
+      }
+    },
+    "downgrade_ids": [
+      "SID_銀の剣"
     ]
   },
   {
@@ -43959,6 +44257,7 @@
       "SID_邪竜のブレス",
       "SID_神舞のブレス",
       "SID_邪神のブレス",
+      "SID_邪竜の御子の体術",
       "SID_邪竜石・屠",
       "SID_絶炎のブレス",
       "SID_灼熱のブレス＋",
@@ -46077,6 +46376,27 @@
     "category": "passiveb",
     "weapon_type": null,
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f1/Font_of_Wisdom.png/revision/latest?cb=20241214033046",
+    "is_prf": true,
+    "sp": 300,
+    "tier": 1,
+    "refine": null,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "none": true
+      }
+    }
+  },
+  {
+    "id": "SID_おれの、ただ一人の",
+    "game8_id": "520608",
+    "name": "For the True King",
+    "group_name": "For the True King",
+    "category": "passivec",
+    "weapon_type": null,
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/36/For_the_True_King.png/revision/latest?cb=20250507030205",
     "is_prf": true,
     "sp": 300,
     "tier": 1,
@@ -50315,6 +50635,7 @@
       "SID_絆・神竜破2",
       "SID_狙撃",
       "SID_絆・神竜破",
+      "SID_邪竜破",
       "SID_陣風",
       "SID_スターラッシュ",
       "SID_聖風",
@@ -50811,6 +51132,29 @@
     "downgrade_ids": [
       "SID_灼熱のブレス"
     ]
+  },
+  {
+    "id": "SID_竜神のブレス_一",
+    "game8_id": "378250",
+    "name": "Godly Breath",
+    "group_name": "Godly Breath",
+    "category": "weapon",
+    "weapon_type": "All Breath",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/69/Godly_Breath_W.png/revision/latest?cb=20250507030225",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 1,
+    "refine": "skill1",
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "All Breath"
+        ]
+      }
+    }
   },
   {
     "id": "SID_黄金の蛇",
@@ -57659,6 +58003,29 @@
     ]
   },
   {
+    "id": "SID_フリスト_一",
+    "game8_id": "314403",
+    "name": "Hrist",
+    "group_name": "Hrist",
+    "category": "weapon",
+    "weapon_type": "Green Tome",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d8/Hrist_W.png/revision/latest?cb=20250507030236",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 1,
+    "refine": "skill1",
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Green Tome"
+        ]
+      }
+    }
+  },
+  {
     "id": "SID_大きな扇子",
     "game8_id": "289037",
     "name": "Huge Fan",
@@ -58569,6 +58936,29 @@
       "SID_トロン",
       "SID_シャイン"
     ]
+  },
+  {
+    "id": "SID_氷槍フィンブル_一",
+    "game8_id": "321569",
+    "name": "Icy Fimbulvetr",
+    "group_name": "Icy Fimbulvetr",
+    "category": "weapon",
+    "weapon_type": "Blue Tome",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/9f/Icy_Fimbulvetr_W.png/revision/latest?cb=20250507030257",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 1,
+    "refine": "skill1",
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Blue Tome"
+        ]
+      }
+    }
   },
   {
     "id": "SID_氷槍マルテ",
@@ -60506,6 +60896,32 @@
     },
     "upgrade_ids": [
       "SID_鋼の暗器"
+    ]
+  },
+  {
+    "id": "SID_機構フレイズマル",
+    "game8_id": "520595",
+    "name": "Iron Hreiðmarr",
+    "group_name": "Iron Hreiðmarr",
+    "category": "weapon",
+    "weapon_type": "Blue Lance",
+    "image_url": null,
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "refine": null,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Blue Lance"
+        ]
+      }
+    },
+    "downgrade_ids": [
+      "SID_銀の槍"
     ]
   },
   {
@@ -67552,6 +67968,32 @@
     ]
   },
   {
+    "id": "SID_生贄の聖女の杖",
+    "game8_id": "520598",
+    "name": "Martyr's Staff",
+    "group_name": "Martyr's Staff",
+    "category": "weapon",
+    "weapon_type": "Colorless Staff",
+    "image_url": null,
+    "is_prf": true,
+    "sp": 400,
+    "tier": 2,
+    "refine": null,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Colorless Staff"
+        ]
+      }
+    },
+    "downgrade_ids": [
+      "SID_アサルト"
+    ]
+  },
+  {
     "id": "SID_セインツ＋",
     "game8_id": "265968",
     "name": "Martyr+",
@@ -71777,6 +72219,52 @@
       "weapons": {
         "can_use": [
           "Green Axe"
+        ]
+      }
+    }
+  },
+  {
+    "id": "SID_貴婦人の弓",
+    "game8_id": null,
+    "name": "Noble Bow",
+    "group_name": "Noble Bow",
+    "category": "weapon",
+    "weapon_type": "All Bow",
+    "image_url": null,
+    "is_prf": true,
+    "sp": 400,
+    "tier": 1,
+    "refine": null,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "All Bow"
+        ]
+      }
+    }
+  },
+  {
+    "id": "SID_貴婦人の弓_一",
+    "game8_id": null,
+    "name": "Noble Bow",
+    "group_name": "Noble Bow",
+    "category": "weapon",
+    "weapon_type": "All Bow",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/66/Noble_Bow_W.png/revision/latest?cb=20250507030308",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 1,
+    "refine": "skill1",
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "All Bow"
         ]
       }
     }
@@ -77014,7 +77502,7 @@
   },
   {
     "id": "SID_風地水の命脈",
-    "game8_id": null,
+    "game8_id": "512298",
     "name": "Primordial Boost",
     "group_name": "Primordial Boost",
     "category": "passivea",
@@ -86404,6 +86892,36 @@
     ]
   },
   {
+    "id": "SID_速さ守備の刃壁",
+    "game8_id": "520606",
+    "name": "S/D Spiked Wall",
+    "group_name": "S/D Spiked Wall",
+    "category": "passiveb",
+    "weapon_type": null,
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/5f/S_D_Spiked_Wall.png/revision/latest?cb=20250507030154",
+    "is_prf": false,
+    "sp": 300,
+    "tier": 4,
+    "refine": null,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Infantry"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "All Melee",
+          "All Breath",
+          "All Beast"
+        ]
+      }
+    },
+    "downgrade_ids": [
+      "SID_速さ守備の防壁3"
+    ]
+  },
+  {
     "id": "SID_速さ魔防の遠影1",
     "game8_id": "328797",
     "name": "S/R Far Trace 1",
@@ -88401,6 +88919,34 @@
         ]
       }
     }
+  },
+  {
+    "id": "SID_奥義隊形・竜眼",
+    "game8_id": "520605",
+    "name": "Scowling Fighter",
+    "group_name": "Scowling Fighter",
+    "category": "passiveb",
+    "weapon_type": null,
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/2/21/Scowling_Fighter.png/revision/latest?cb=20250507030143",
+    "is_prf": false,
+    "sp": 300,
+    "tier": 4,
+    "refine": null,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Armored"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "All Breath"
+        ]
+      }
+    },
+    "downgrade_ids": [
+      "SID_奥義隊形3"
+    ]
   },
   {
     "id": "SID_呪い忍者の忍法帳",
@@ -92277,6 +92823,7 @@
       "SID_イリア傭兵騎士の槍",
       "SID_母娘の静やかな祝福",
       "SID_舞い踊る満月の宝槍",
+      "SID_機構フレイズマル",
       "SID_お調子者の碧槍",
       "SID_クリムヒルド",
       "SID_フレリアの宝槍",
@@ -92441,6 +92988,7 @@
       "SID_ファルシオン外伝",
       "SID_ファルシオン",
       "SID_フェザーソード",
+      "SID_邪竜の御子の剣",
       "SID_盟友との絆の剣",
       "SID_戦神の烈剣",
       "SID_微睡の花の剣",
@@ -95890,6 +96438,9 @@
         ]
       }
     },
+    "upgrade_ids": [
+      "SID_速さ守備の刃壁"
+    ],
     "downgrade_ids": [
       "SID_速さ守備の防壁2"
     ]
@@ -99375,6 +99926,7 @@
       }
     },
     "upgrade_ids": [
+      "SID_奥義隊形・竜眼",
       "SID_奥義隊形4"
     ],
     "downgrade_ids": [
@@ -100005,6 +100557,29 @@
       "SID_トロン",
       "SID_シャイン"
     ]
+  },
+  {
+    "id": "SID_精霊の森の秘本_一",
+    "game8_id": "387451",
+    "name": "Spirit Forest Writ",
+    "group_name": "Spirit Forest Writ",
+    "category": "weapon",
+    "weapon_type": "Blue Tome",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/7b/Spirit_Forest_Writ_W.png/revision/latest?cb=20250507030214",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 1,
+    "refine": "skill1",
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Blue Tome"
+        ]
+      }
+    }
   },
   {
     "id": "SID_士気旺盛の斧",
@@ -109329,6 +109904,29 @@
     ]
   },
   {
+    "id": "SID_破滅の邪書_一",
+    "game8_id": "330518",
+    "name": "Tome of Despair",
+    "group_name": "Tome of Despair",
+    "category": "weapon",
+    "weapon_type": "Red Tome",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/bc/Tome_of_Despair_W.png/revision/latest?cb=20250507030246",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 1,
+    "refine": "skill1",
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Red Tome"
+        ]
+      }
+    }
+  },
+  {
     "id": "SID_戦神の闇夜の書",
     "game8_id": "512290",
     "name": "Tome of Dusk",
@@ -109473,6 +110071,52 @@
       "SID_トロン",
       "SID_シャイン"
     ]
+  },
+  {
+    "id": "SID_哀歌の書",
+    "game8_id": null,
+    "name": "Tome of Grief",
+    "group_name": "Tome of Grief",
+    "category": "weapon",
+    "weapon_type": "Red Tome",
+    "image_url": null,
+    "is_prf": true,
+    "sp": 400,
+    "tier": 1,
+    "refine": null,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Red Tome"
+        ]
+      }
+    }
+  },
+  {
+    "id": "SID_哀歌の書_一",
+    "game8_id": null,
+    "name": "Tome of Grief",
+    "group_name": "Tome of Grief",
+    "category": "weapon",
+    "weapon_type": "Red Tome",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/37/Tome_of_Grief_W.png/revision/latest?cb=20250507030319",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 1,
+    "refine": "skill1",
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Red Tome"
+        ]
+      }
+    }
   },
   {
     "id": "SID_豪奢な富書",
@@ -109847,7 +110491,7 @@
   },
   {
     "id": "SID_見下す者",
-    "game8_id": null,
+    "game8_id": "512296",
     "name": "Trample",
     "group_name": "Trample",
     "category": "passivea",
@@ -114159,6 +114803,7 @@
     },
     "upgrade_ids": [
       "SID_生命の疾風静水3",
+      "SID_火地水の命脈",
       "SID_生命の業火静水3",
       "SID_風地水の命脈"
     ],
