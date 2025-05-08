@@ -966,6 +966,13 @@
     "recommended_plus10": null
   },
   {
+    "id": "PID_伝承ミルラ",
+    "game8_rating": "9.0",
+    "recommended_boon": "Atk",
+    "recommended_bane": "Spd",
+    "recommended_plus10": "Atk"
+  },
+  {
     "id": "PID_水着ミカヤ",
     "game8_rating": "9.0",
     "recommended_boon": "Atk",
@@ -1013,6 +1020,13 @@
     "recommended_boon": "Spd",
     "recommended_bane": "Res",
     "recommended_plus10": "Spd"
+  },
+  {
+    "id": "PID_伝承ディアドラ",
+    "game8_rating": "8.5",
+    "recommended_boon": "Atk",
+    "recommended_bane": "Def",
+    "recommended_plus10": "Atk"
   },
   {
     "id": "PID_比翼ドーマ",
@@ -2968,13 +2982,6 @@
     "recommended_plus10": "Spd"
   },
   {
-    "id": "PID_伝承ミルラ",
-    "game8_rating": "8.5",
-    "recommended_boon": "Atk",
-    "recommended_bane": "Spd",
-    "recommended_plus10": "Atk"
-  },
-  {
     "id": "PID_開花フロリーナ",
     "game8_rating": "8.5",
     "recommended_boon": "Spd",
@@ -3084,13 +3091,6 @@
     "game8_rating": "8.5",
     "recommended_boon": "Atk",
     "recommended_bane": "Spd",
-    "recommended_plus10": "Atk"
-  },
-  {
-    "id": "PID_伝承ディアドラ",
-    "game8_rating": "8.5",
-    "recommended_boon": "Atk",
-    "recommended_bane": "Def",
     "recommended_plus10": "Atk"
   },
   {

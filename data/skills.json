@@ -72225,7 +72225,7 @@
   },
   {
     "id": "SID_貴婦人の弓",
-    "game8_id": null,
+    "game8_id": "520900",
     "name": "Noble Bow",
     "group_name": "Noble Bow",
     "category": "weapon",
@@ -72248,7 +72248,7 @@
   },
   {
     "id": "SID_貴婦人の弓_一",
-    "game8_id": null,
+    "game8_id": "520900",
     "name": "Noble Bow",
     "group_name": "Noble Bow",
     "category": "weapon",
@@ -110074,7 +110074,7 @@
   },
   {
     "id": "SID_哀歌の書",
-    "game8_id": null,
+    "game8_id": "520901",
     "name": "Tome of Grief",
     "group_name": "Tome of Grief",
     "category": "weapon",
@@ -110097,7 +110097,7 @@
   },
   {
     "id": "SID_哀歌の書_一",
-    "game8_id": null,
+    "game8_id": "520901",
     "name": "Tome of Grief",
     "group_name": "Tome of Grief",
     "category": "weapon",

@@ -2060,6 +2060,11 @@
     "game8_grade": "S"
   },
   {
+    "id": "SID_哀歌の書",
+    "game8_rating": "9.0",
+    "game8_grade": "A"
+  },
+  {
     "id": "SID_火のブレス",
     "game8_rating": "-",
     "game8_grade": null
@@ -7668,6 +7673,11 @@
     "id": "SID_想い合う絆の弓",
     "game8_rating": "9.5",
     "game8_grade": "S"
+  },
+  {
+    "id": "SID_貴婦人の弓",
+    "game8_rating": "9.0",
+    "game8_grade": "A"
   },
   {
     "id": "SID_パルティア",
