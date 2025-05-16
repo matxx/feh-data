@@ -10215,6 +10215,69 @@
     }
   },
   {
+    "id": "SID_怒涛・再起1",
+    "game8_id": null,
+    "name": "Flow Refresh 1",
+    "group_name": "Flow Refresh",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/ae/Flow_Refresh_1.png/revision/latest?cb=20210706052043",
+    "sp": 60,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Cavalry",
+          "Flying"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "All Melee"
+        ]
+      }
+    }
+  },
+  {
+    "id": "SID_怒涛・再起2",
+    "game8_id": null,
+    "name": "Flow Refresh 2",
+    "group_name": "Flow Refresh",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/09/Flow_Refresh_2.png/revision/latest?cb=20210706052054",
+    "sp": 120,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Cavalry",
+          "Flying"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "All Melee"
+        ]
+      }
+    }
+  },
+  {
+    "id": "SID_怒涛・再起3",
+    "game8_id": "522507",
+    "name": "Flow Refresh 3",
+    "group_name": "Flow Refresh",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/62/Flow_Refresh_3.png/revision/latest?cb=20210706052103",
+    "sp": 240,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Cavalry",
+          "Flying"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "All Melee"
+        ]
+      }
+    }
+  },
+  {
     "id": "SID_守備魔防の城塞1",
     "game8_id": null,
     "name": "Fort. Def/Res 1",
@@ -13385,6 +13448,72 @@
       },
       "weapons": {
         "none": true
+      }
+    }
+  },
+  {
+    "id": "SID_速さ守備の激突1",
+    "game8_id": null,
+    "name": "Spd/Def Clash 1",
+    "group_name": "Spd/Def Clash",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/63/Spd_Def_Clash_1.png/revision/latest?cb=20230406080537",
+    "sp": 60,
+    "restrictions": {
+      "moves": {
+        "can_not_use": [
+          "Armored"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "All Melee",
+          "All Breath",
+          "All Beast"
+        ]
+      }
+    }
+  },
+  {
+    "id": "SID_速さ守備の激突2",
+    "game8_id": null,
+    "name": "Spd/Def Clash 2",
+    "group_name": "Spd/Def Clash",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e0/Spd_Def_Clash_2.png/revision/latest?cb=20230406080548",
+    "sp": 120,
+    "restrictions": {
+      "moves": {
+        "can_not_use": [
+          "Armored"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "All Melee",
+          "All Breath",
+          "All Beast"
+        ]
+      }
+    }
+  },
+  {
+    "id": "SID_速さ守備の激突3",
+    "game8_id": "522504",
+    "name": "Spd/Def Clash 3",
+    "group_name": "Spd/Def Clash",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/6c/Spd_Def_Clash_3.png/revision/latest?cb=20230406080558",
+    "sp": 240,
+    "restrictions": {
+      "moves": {
+        "can_not_use": [
+          "Armored"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "All Melee",
+          "All Breath",
+          "All Beast"
+        ]
       }
     }
   },

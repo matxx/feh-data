@@ -2397,6 +2397,15 @@
     ]
   },
   {
+    "name": "Focus: Hall of Forms (May 2025)",
+    "unit_ids": [
+      "PID_伝承ベレス",
+      "PID_双界エーデルガルト",
+      "PID_水着クロード",
+      "PID_水着ディミトリ"
+    ]
+  },
+  {
     "name": "Focus: Hall of Forms (Nov 2023)",
     "unit_ids": [
       "PID_マーシャ",
@@ -4431,6 +4440,13 @@
     ]
   },
   {
+    "name": "Focus: Lena & Julian's Battle",
+    "unit_ids": [
+      "PID_ジュリアン",
+      "PID_レナ"
+    ]
+  },
+  {
     "name": "Focus: Leo & Elise's Battle",
     "unit_ids": [
       "PID_エリーゼ",
@@ -6154,6 +6170,14 @@
       "PID_サーリャ",
       "PID_ニニアン",
       "PID_マルス"
+    ]
+  },
+  {
+    "name": "Focus: Tempest Trials (Lonely Brides)",
+    "unit_ids": [
+      "PID_ティニー",
+      "PID_ユリア",
+      "PID_開花イシュタル"
     ]
   },
   {
@@ -8396,6 +8420,19 @@
     ]
   },
   {
+    "name": "Legendary & Mythic Hero Remix 1 (May 2025)",
+    "unit_ids": [
+      "PID_レギン2味方",
+      "PID_伝承エーデルガルト",
+      "PID_伝承シグルド",
+      "PID_伝承ディアドラ",
+      "PID_伝承ベレト",
+      "PID_伝承リリーナ",
+      "PID_神階メディウス",
+      "PID_神階ラルヴァ"
+    ]
+  },
+  {
     "name": "Legendary & Mythic Hero Remix 1 (Nov 2023)",
     "unit_ids": [
       "PID_プルメリア味方",
@@ -8627,6 +8664,19 @@
       "PID_神階ウル",
       "PID_神階ナーガ",
       "PID_響心ニノ"
+    ]
+  },
+  {
+    "name": "Legendary & Mythic Hero Remix 2 (May 2025)",
+    "unit_ids": [
+      "PID_セイズ",
+      "PID_ヴェロニカ2味方",
+      "PID_伝承クロード",
+      "PID_伝承ミカヤ",
+      "PID_伝承ミルラ",
+      "PID_神階ソティス",
+      "PID_響心ミスティラ",
+      "PID_魔器リリーナ"
     ]
   },
   {
@@ -9700,6 +9750,15 @@
       "PID_ハロフレン",
       "PID_ハロミスティラ",
       "PID_双界アンナ"
+    ]
+  },
+  {
+    "name": "Moment of Joy (Focus)",
+    "unit_ids": [
+      "PID_比翼ユリア",
+      "PID_花婿セリス",
+      "PID_花嫁ティニー",
+      "PID_花嫁ラクチェ"
     ]
   },
   {

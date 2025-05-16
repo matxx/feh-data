@@ -112,6 +112,13 @@
     "recommended_plus10": "Spd"
   },
   {
+    "id": "PID_冬祭ベルナデッタ",
+    "game8_rating": "8.5",
+    "recommended_boon": "Atk",
+    "recommended_bane": "Res",
+    "recommended_plus10": "Atk"
+  },
+  {
     "id": "PID_比翼ピアニー",
     "game8_rating": "9.5",
     "recommended_boon": "Spd",
@@ -602,6 +609,27 @@
     "recommended_plus10": "Def"
   },
   {
+    "id": "PID_花婿セリス",
+    "game8_rating": "9.5",
+    "recommended_boon": "Spd",
+    "recommended_bane": "Res",
+    "recommended_plus10": "Spd"
+  },
+  {
+    "id": "PID_花嫁ラクチェ",
+    "game8_rating": "9.5",
+    "recommended_boon": "Spd",
+    "recommended_bane": "HP",
+    "recommended_plus10": "Spd"
+  },
+  {
+    "id": "PID_比翼ユリア",
+    "game8_rating": "9.5",
+    "recommended_boon": "Res",
+    "recommended_bane": "Spd",
+    "recommended_plus10": "Res"
+  },
+  {
     "id": "PID_アーダン",
     "game8_rating": "9.0",
     "recommended_boon": "Atk",
@@ -833,11 +861,25 @@
     "recommended_plus10": "Def"
   },
   {
+    "id": "PID_マリアンヌ",
+    "game8_rating": "8.5",
+    "recommended_boon": "Atk",
+    "recommended_bane": "Def",
+    "recommended_plus10": "Atk"
+  },
+  {
     "id": "PID_ダグ味方",
     "game8_rating": "9.0",
     "recommended_boon": "Spd",
     "recommended_bane": "Res",
     "recommended_plus10": "Spd"
+  },
+  {
+    "id": "PID_ルイーズ",
+    "game8_rating": "7.5",
+    "recommended_boon": "Atk",
+    "recommended_bane": "Res",
+    "recommended_plus10": "Atk"
   },
   {
     "id": "PID_ノート味方",
@@ -2289,13 +2331,6 @@
     "recommended_plus10": "Spd"
   },
   {
-    "id": "PID_冬祭ベルナデッタ",
-    "game8_rating": "8.5",
-    "recommended_boon": "Atk",
-    "recommended_bane": "Res",
-    "recommended_plus10": "Atk"
-  },
-  {
     "id": "PID_双界オルティナ",
     "game8_rating": "8.5",
     "recommended_boon": "Atk",
@@ -2385,13 +2420,6 @@
     "recommended_boon": "Spd",
     "recommended_bane": "Res",
     "recommended_plus10": "Spd"
-  },
-  {
-    "id": "PID_マリアンヌ",
-    "game8_rating": "8.5",
-    "recommended_boon": "Atk",
-    "recommended_bane": "Def",
-    "recommended_plus10": "Atk"
   },
   {
     "id": "PID_春祭セレナ",
@@ -2553,6 +2581,13 @@
     "recommended_boon": "Spd",
     "recommended_bane": "Res",
     "recommended_plus10": "Spd"
+  },
+  {
+    "id": "PID_シェンメイ",
+    "game8_rating": "7.0",
+    "recommended_boon": "Atk",
+    "recommended_bane": "Def",
+    "recommended_plus10": "Atk"
   },
   {
     "id": "PID_比翼ヒノカ",
@@ -6104,6 +6139,20 @@
     "recommended_plus10": null
   },
   {
+    "id": "PID_花嫁ティニー",
+    "game8_rating": "8.0",
+    "recommended_boon": "Spd",
+    "recommended_bane": "Def",
+    "recommended_plus10": "Spd"
+  },
+  {
+    "id": "PID_花嫁ラナ",
+    "game8_rating": "8.0",
+    "recommended_boon": "Atk",
+    "recommended_bane": "Def",
+    "recommended_plus10": "Atk"
+  },
+  {
     "id": "PID_アルム",
     "game8_rating": "7.5",
     "recommended_boon": "Atk",
@@ -7040,13 +7089,6 @@
     "recommended_boon": "Spd",
     "recommended_bane": "Res",
     "recommended_plus10": "Spd"
-  },
-  {
-    "id": "PID_ルイーズ",
-    "game8_rating": "7.5",
-    "recommended_boon": "Atk",
-    "recommended_bane": "Res",
-    "recommended_plus10": "Atk"
   },
   {
     "id": "PID_エルク",
@@ -8670,13 +8712,6 @@
     "game8_rating": "7.0",
     "recommended_boon": "Atk",
     "recommended_bane": "Spd",
-    "recommended_plus10": "Atk"
-  },
-  {
-    "id": "PID_シェンメイ",
-    "game8_rating": "7.0",
-    "recommended_boon": "Atk",
-    "recommended_bane": "Def",
     "recommended_plus10": "Atk"
   },
   {

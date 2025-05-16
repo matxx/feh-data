@@ -19139,6 +19139,39 @@
     }
   },
   {
+    "id": "PID_比翼ユリア",
+    "is_in": {
+      "gsp": false,
+      "ssp": true,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {
+      "ssp": 5
+    },
+    "skill_ids": [
+      "SID_アトラース",
+      "SID_エルロック",
+      "SID_ロック",
+      "SID_始まりの鼓動1",
+      "SID_始まりの鼓動2",
+      "SID_始まりの鼓動3",
+      "SID_始まりの鼓動・兜",
+      "SID_愛深き花嫁のブーケ",
+      "SID_攻撃魔防の秘奥1",
+      "SID_攻撃魔防の秘奥2",
+      "SID_攻撃魔防の秘奥3",
+      "SID_攻撃魔防の秘奥4",
+      "SID_氷壁",
+      "SID_氷点",
+      "SID_氷華",
+      "SID_真・光と闇と"
+    ],
+    "divine_codes": {}
+  },
+  {
     "id": "PID_伝承ユリア",
     "is_in": {
       "gsp": false,
@@ -21463,6 +21496,39 @@
     "divine_codes": {}
   },
   {
+    "id": "PID_花嫁ラナ",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": true,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {
+      "hg": 4
+    },
+    "skill_ids": [
+      "SID_アサルト",
+      "SID_ライブ",
+      "SID_リブロー",
+      "SID_リブロー＋",
+      "SID_リライブ",
+      "SID_攻撃速さの密集1",
+      "SID_攻撃速さの密集2",
+      "SID_攻撃速さの密集3",
+      "SID_業火疾風の祝福",
+      "SID_治癒",
+      "SID_疾風の祝福",
+      "SID_花嫁の杖",
+      "SID_花嫁の杖＋",
+      "SID_速さ魔防の牽制1",
+      "SID_速さ魔防の牽制2",
+      "SID_速さ魔防の牽制3"
+    ],
+    "divine_codes": {}
+  },
+  {
     "id": "PID_花嫁ラピス",
     "is_in": {
       "gsp": false,
@@ -21582,6 +21648,42 @@
         }
       ]
     }
+  },
+  {
+    "id": "PID_花嫁ラクチェ",
+    "is_in": {
+      "gsp": false,
+      "ssp": true,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {
+      "ssp": 5
+    },
+    "skill_ids": [
+      "SID_剣聖の流星雨",
+      "SID_攻撃速さの万全1",
+      "SID_攻撃速さの万全2",
+      "SID_攻撃速さの万全3",
+      "SID_攻撃速さの完全",
+      "SID_星影",
+      "SID_流星",
+      "SID_流星の花嫁の槍",
+      "SID_神速1",
+      "SID_神速2",
+      "SID_神速3",
+      "SID_秘奥・神速",
+      "SID_迅雷風烈・奇数1",
+      "SID_迅雷風烈・奇数2",
+      "SID_迅雷風烈・奇数3",
+      "SID_迅雷風烈・鬼没",
+      "SID_鉄の槍",
+      "SID_銀の槍",
+      "SID_鋼の槍"
+    ],
+    "divine_codes": {}
   },
   {
     "id": "PID_ラクチェ",
@@ -36754,6 +36856,39 @@
     "divine_codes": {}
   },
   {
+    "id": "PID_花婿セリス",
+    "is_in": {
+      "gsp": false,
+      "ssp": true,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {
+      "ssp": 5
+    },
+    "skill_ids": [
+      "SID_伏竜",
+      "SID_光の花婿の斧",
+      "SID_強襲・神速",
+      "SID_怒涛・再起1",
+      "SID_怒涛・再起2",
+      "SID_怒涛・再起3",
+      "SID_攻撃速さの激突1",
+      "SID_攻撃速さの激突2",
+      "SID_攻撃速さの激突3",
+      "SID_攻撃速さの突破",
+      "SID_真・光をつぐもの",
+      "SID_竜裂",
+      "SID_鉄の斧",
+      "SID_銀の斧",
+      "SID_鋼の斧",
+      "SID_霞切り"
+    ],
+    "divine_codes": {}
+  },
+  {
     "id": "PID_伝承セリス",
     "is_in": {
       "gsp": false,
@@ -41323,6 +41458,36 @@
         }
       ]
     }
+  },
+  {
+    "id": "PID_花嫁ティニー",
+    "is_in": {
+      "gsp": false,
+      "ssp": true,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {
+      "ssp": 4
+    },
+    "skill_ids": [
+      "SID_エルファイアー",
+      "SID_ファイアー",
+      "SID_影月",
+      "SID_攻撃速さの機先1",
+      "SID_攻撃速さの機先2",
+      "SID_攻撃速さの機先3",
+      "SID_月虹",
+      "SID_花嫁の花束",
+      "SID_花嫁の花束＋",
+      "SID_速さ魔防の遠影1",
+      "SID_速さ魔防の遠影2",
+      "SID_速さ魔防の遠影3",
+      "SID_速さ魔防の遠影4"
+    ],
+    "divine_codes": {}
   },
   {
     "id": "PID_ティニー",

@@ -46500,6 +46500,102 @@
     "unlock": 2
   },
   {
+    "unit_id": "PID_比翼ユリア",
+    "skill_id": "SID_攻撃魔防の秘奥1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_比翼ユリア",
+    "skill_id": "SID_攻撃魔防の秘奥2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_比翼ユリア",
+    "skill_id": "SID_攻撃魔防の秘奥3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_比翼ユリア",
+    "skill_id": "SID_攻撃魔防の秘奥4",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_比翼ユリア",
+    "skill_id": "SID_アトラース",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_比翼ユリア",
+    "skill_id": "SID_氷点",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_比翼ユリア",
+    "skill_id": "SID_エルロック",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_比翼ユリア",
+    "skill_id": "SID_真・光と闇と",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_比翼ユリア",
+    "skill_id": "SID_氷華",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_比翼ユリア",
+    "skill_id": "SID_氷壁",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_比翼ユリア",
+    "skill_id": "SID_愛深き花嫁のブーケ",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_比翼ユリア",
+    "skill_id": "SID_ロック",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_比翼ユリア",
+    "skill_id": "SID_始まりの鼓動・兜",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_比翼ユリア",
+    "skill_id": "SID_始まりの鼓動1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_比翼ユリア",
+    "skill_id": "SID_始まりの鼓動2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_比翼ユリア",
+    "skill_id": "SID_始まりの鼓動3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
     "unit_id": "PID_伝承ユリア",
     "skill_id": "SID_攻撃魔防の脅嚇3",
     "default": 0,
@@ -51600,6 +51696,102 @@
     "unlock": 3
   },
   {
+    "unit_id": "PID_花嫁ラナ",
+    "skill_id": "SID_アサルト",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_花嫁ラナ",
+    "skill_id": "SID_攻撃速さの密集1",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_花嫁ラナ",
+    "skill_id": "SID_攻撃速さの密集2",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_花嫁ラナ",
+    "skill_id": "SID_攻撃速さの密集3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_花嫁ラナ",
+    "skill_id": "SID_花嫁の杖",
+    "default": 3,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_花嫁ラナ",
+    "skill_id": "SID_花嫁の杖＋",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_花嫁ラナ",
+    "skill_id": "SID_ライブ",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_花嫁ラナ",
+    "skill_id": "SID_治癒",
+    "default": 4,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_花嫁ラナ",
+    "skill_id": "SID_リライブ",
+    "default": 3,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_花嫁ラナ",
+    "skill_id": "SID_リブロー",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_花嫁ラナ",
+    "skill_id": "SID_リブロー＋",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_花嫁ラナ",
+    "skill_id": "SID_速さ魔防の牽制1",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_花嫁ラナ",
+    "skill_id": "SID_速さ魔防の牽制2",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_花嫁ラナ",
+    "skill_id": "SID_速さ魔防の牽制3",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_花嫁ラナ",
+    "skill_id": "SID_疾風の祝福",
+    "default": 5,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_花嫁ラナ",
+    "skill_id": "SID_業火疾風の祝福",
+    "default": 0,
+    "unlock": 4
+  },
+  {
     "unit_id": "PID_花嫁ラピス",
     "skill_id": "SID_小盾",
     "default": 4,
@@ -51842,6 +52034,120 @@
   {
     "unit_id": "PID_ラーラ",
     "skill_id": "SID_鋼の暗器",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_花嫁ラクチェ",
+    "skill_id": "SID_流星",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_花嫁ラクチェ",
+    "skill_id": "SID_攻撃速さの万全1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_花嫁ラクチェ",
+    "skill_id": "SID_攻撃速さの万全2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_花嫁ラクチェ",
+    "skill_id": "SID_攻撃速さの万全3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_花嫁ラクチェ",
+    "skill_id": "SID_流星の花嫁の槍",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_花嫁ラクチェ",
+    "skill_id": "SID_迅雷風烈・鬼没",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_花嫁ラクチェ",
+    "skill_id": "SID_剣聖の流星雨",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_花嫁ラクチェ",
+    "skill_id": "SID_鉄の槍",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_花嫁ラクチェ",
+    "skill_id": "SID_星影",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_花嫁ラクチェ",
+    "skill_id": "SID_迅雷風烈・奇数1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_花嫁ラクチェ",
+    "skill_id": "SID_迅雷風烈・奇数2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_花嫁ラクチェ",
+    "skill_id": "SID_迅雷風烈・奇数3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_花嫁ラクチェ",
+    "skill_id": "SID_攻撃速さの完全",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_花嫁ラクチェ",
+    "skill_id": "SID_神速1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_花嫁ラクチェ",
+    "skill_id": "SID_神速2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_花嫁ラクチェ",
+    "skill_id": "SID_神速3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_花嫁ラクチェ",
+    "skill_id": "SID_秘奥・神速",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_花嫁ラクチェ",
+    "skill_id": "SID_銀の槍",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_花嫁ラクチェ",
+    "skill_id": "SID_鋼の槍",
     "default": 2,
     "unlock": 2
   },
@@ -87360,6 +87666,102 @@
     "unlock": 5
   },
   {
+    "unit_id": "PID_花婿セリス",
+    "skill_id": "SID_攻撃速さの激突1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_花婿セリス",
+    "skill_id": "SID_攻撃速さの激突2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_花婿セリス",
+    "skill_id": "SID_攻撃速さの激突3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_花婿セリス",
+    "skill_id": "SID_攻撃速さの突破",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_花婿セリス",
+    "skill_id": "SID_竜裂",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_花婿セリス",
+    "skill_id": "SID_伏竜",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_花婿セリス",
+    "skill_id": "SID_怒涛・再起1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_花婿セリス",
+    "skill_id": "SID_怒涛・再起2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_花婿セリス",
+    "skill_id": "SID_怒涛・再起3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_花婿セリス",
+    "skill_id": "SID_霞切り",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_花婿セリス",
+    "skill_id": "SID_鉄の斧",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_花婿セリス",
+    "skill_id": "SID_光の花婿の斧",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_花婿セリス",
+    "skill_id": "SID_強襲・神速",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_花婿セリス",
+    "skill_id": "SID_銀の斧",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_花婿セリス",
+    "skill_id": "SID_鋼の斧",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_花婿セリス",
+    "skill_id": "SID_真・光をつぐもの",
+    "default": 0,
+    "unlock": 5
+  },
+  {
     "unit_id": "PID_伝承セリス",
     "skill_id": "SID_遠距離反撃",
     "default": 0,
@@ -97796,6 +98198,84 @@
   {
     "unit_id": "PID_ティナ",
     "skill_id": "SID_神罰・拍節",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_花嫁ティニー",
+    "skill_id": "SID_攻撃速さの機先1",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_花嫁ティニー",
+    "skill_id": "SID_攻撃速さの機先2",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_花嫁ティニー",
+    "skill_id": "SID_攻撃速さの機先3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_花嫁ティニー",
+    "skill_id": "SID_花嫁の花束",
+    "default": 3,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_花嫁ティニー",
+    "skill_id": "SID_花嫁の花束＋",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_花嫁ティニー",
+    "skill_id": "SID_エルファイアー",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_花嫁ティニー",
+    "skill_id": "SID_ファイアー",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_花嫁ティニー",
+    "skill_id": "SID_月虹",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_花嫁ティニー",
+    "skill_id": "SID_影月",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_花嫁ティニー",
+    "skill_id": "SID_速さ魔防の遠影1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_花嫁ティニー",
+    "skill_id": "SID_速さ魔防の遠影2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_花嫁ティニー",
+    "skill_id": "SID_速さ魔防の遠影3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_花嫁ティニー",
+    "skill_id": "SID_速さ魔防の遠影4",
     "default": 0,
     "unlock": 5
   },

@@ -2065,6 +2065,16 @@
     "game8_grade": "A"
   },
   {
+    "id": "SID_花嫁の花束",
+    "game8_rating": "-",
+    "game8_grade": null
+  },
+  {
+    "id": "SID_花嫁の花束＋",
+    "game8_rating": "8.5",
+    "game8_grade": "B"
+  },
+  {
     "id": "SID_火のブレス",
     "game8_rating": "-",
     "game8_grade": null
@@ -3523,6 +3533,11 @@
     "id": "SID_機構フレイズマル",
     "game8_rating": "9.0",
     "game8_grade": "A"
+  },
+  {
+    "id": "SID_流星の花嫁の槍",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
   },
   {
     "id": "SID_コウモリの弓",
@@ -5515,16 +5530,6 @@
     "game8_grade": null
   },
   {
-    "id": "SID_ガルシアの子の斧",
-    "game8_rating": null,
-    "game8_grade": null
-  },
-  {
-    "id": "SID_砂漠の虎の戦斧",
-    "game8_rating": null,
-    "game8_grade": null
-  },
-  {
     "id": "SID_西方の勇者の斧",
     "game8_rating": "9.0",
     "game8_grade": null
@@ -5726,6 +5731,11 @@
   },
   {
     "id": "SID_寡黙なる忠義の斧",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_光の花婿の斧",
     "game8_rating": "9.5",
     "game8_grade": "S"
   },
@@ -7160,6 +7170,16 @@
     "game8_grade": "S"
   },
   {
+    "id": "SID_花嫁の杖",
+    "game8_rating": "-",
+    "game8_grade": null
+  },
+  {
+    "id": "SID_花嫁の杖＋",
+    "game8_rating": "8.5",
+    "game8_grade": "B"
+  },
+  {
     "id": "SID_フリズスキャルヴ",
     "game8_rating": "9.0",
     "game8_grade": null
@@ -8465,6 +8485,11 @@
     "game8_grade": "S"
   },
   {
+    "id": "SID_愛深き花嫁のブーケ",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
     "id": "SID_邪神のブレス",
     "game8_rating": "9.5",
     "game8_grade": null
@@ -9201,6 +9226,11 @@
   },
   {
     "id": "SID_氷輪",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_氷壁",
     "game8_rating": "9.5",
     "game8_grade": "S"
   },
@@ -14985,6 +15015,11 @@
     "game8_grade": null
   },
   {
+    "id": "SID_強襲・神速",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
     "id": "SID_恐慌の惑乱1",
     "game8_rating": "-",
     "game8_grade": null
@@ -15378,6 +15413,11 @@
     "id": "SID_不動1",
     "game8_rating": "-",
     "game8_grade": null
+  },
+  {
+    "id": "SID_秘奥・神速",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
   },
   {
     "id": "SID_不動2",
@@ -15895,14 +15935,14 @@
     "game8_grade": "A"
   },
   {
-    "id": "SID_死んでほしいの",
-    "game8_rating": "9.0",
-    "game8_grade": null
-  },
-  {
     "id": "SID_ソフィアの魂・承",
     "game8_rating": "9.5",
     "game8_grade": "A"
+  },
+  {
+    "id": "SID_死んでほしいの",
+    "game8_rating": "9.0",
+    "game8_grade": null
   },
   {
     "id": "SID_死んでほしいの・神",
@@ -15915,14 +15955,14 @@
     "game8_grade": null
   },
   {
-    "id": "SID_死者の帳尻を・神",
-    "game8_rating": "9.5",
-    "game8_grade": "A"
-  },
-  {
     "id": "SID_愛を信じますか？",
     "game8_rating": "8.5",
     "game8_grade": null
+  },
+  {
+    "id": "SID_死者の帳尻を・神",
+    "game8_rating": "9.5",
+    "game8_grade": "A"
   },
   {
     "id": "SID_狂嵐",
@@ -15940,12 +15980,12 @@
     "game8_grade": null
   },
   {
-    "id": "SID_最後の聖戦・承",
+    "id": "SID_蒼き獅子王",
     "game8_rating": "9.5",
     "game8_grade": "A"
   },
   {
-    "id": "SID_蒼き獅子王",
+    "id": "SID_最後の聖戦・承",
     "game8_rating": "9.5",
     "game8_grade": "A"
   },
@@ -15970,19 +16010,14 @@
     "game8_grade": "A"
   },
   {
-    "id": "SID_落星",
-    "game8_rating": "9.0",
-    "game8_grade": null
-  },
-  {
     "id": "SID_束縛の首飾り・神",
     "game8_rating": "9.5",
     "game8_grade": "A"
   },
   {
-    "id": "SID_双姫の陽翼",
-    "game8_rating": "9.5",
-    "game8_grade": "A"
+    "id": "SID_落星",
+    "game8_rating": "9.0",
+    "game8_grade": null
   },
   {
     "id": "SID_落星・承",
@@ -15990,14 +16025,19 @@
     "game8_grade": "S"
   },
   {
-    "id": "SID_覇鎧障壁",
+    "id": "SID_双姫の陽翼",
     "game8_rating": "9.5",
-    "game8_grade": "S"
+    "game8_grade": "A"
   },
   {
     "id": "SID_双姫の陽翼・神",
     "game8_rating": "9.5",
     "game8_grade": "A"
+  },
+  {
+    "id": "SID_覇鎧障壁",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
   },
   {
     "id": "SID_蒼き殺人鬼",
@@ -16090,12 +16130,12 @@
     "game8_grade": "A"
   },
   {
-    "id": "SID_華月の腕輪・遠",
+    "id": "SID_騎士道・承",
     "game8_rating": "9.5",
     "game8_grade": "S"
   },
   {
-    "id": "SID_騎士道・承",
+    "id": "SID_華月の腕輪・遠",
     "game8_rating": "9.5",
     "game8_grade": "S"
   },
@@ -19075,12 +19115,12 @@
     "game8_grade": null
   },
   {
-    "id": "SID_メガクェイク・神",
+    "id": "SID_神槌大地を穿つ・神",
     "game8_rating": "9.5",
     "game8_grade": "S"
   },
   {
-    "id": "SID_神槌大地を穿つ・神",
+    "id": "SID_メガクェイク・神",
     "game8_rating": "9.5",
     "game8_grade": "S"
   },
@@ -19291,6 +19331,11 @@
   },
   {
     "id": "SID_おれの、ただ一人の",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_真・光をつぐもの",
     "game8_rating": "9.5",
     "game8_grade": "S"
   },

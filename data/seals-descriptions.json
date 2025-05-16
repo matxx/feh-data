@@ -2448,6 +2448,18 @@
     "description": "Flying allies within 2 spaces can move to a space adjacent to unit."
   },
   {
+    "id": "SID_怒涛・再起1",
+    "description": "At the start of combat, if unit's HP = 100% and unit initiates combat, neutralizes effects that prevent unit's follow-up attacks and restores 5 HP to unit after combat."
+  },
+  {
+    "id": "SID_怒涛・再起2",
+    "description": "At the start of combat, if unit's HP ≥ 50% and unit initiates combat, neutralizes effects that prevent unit's follow-up attacks and restores 7 HP to unit after combat."
+  },
+  {
+    "id": "SID_怒涛・再起3",
+    "description": "If unit initiates combat, neutralizes effects that prevent unit's follow-up attacks and restores 10 HP to unit after combat."
+  },
+  {
     "id": "SID_守備魔防の城塞1",
     "description": "Grants Def/Res+3.<br>Inflicts Atk-3."
   },
@@ -3182,6 +3194,18 @@
   {
     "id": "SID_速さ守備の機先3",
     "description": "At start of combat, if foe's HP = 100% or if【Penalty】is active on foe, grants Spd/Def+5 to unit during combat.<br><br>【Penalty】<br>All effects that last \"on foe through its next action.\" Includes penalties inflicted by a skill like Panic or Threaten and negative status effects (preventing counterattacks, restricting movement, or the effects of a skill like Triangle Adept or Guard)."
+  },
+  {
+    "id": "SID_速さ守備の激突1",
+    "description": "If unit or foe initiates combat after moving to a different space, grants bonus to unit's Spd/Def during combat = X + 1. (X = number of spaces from start position to end position of whoever initiated combat; max 1.)"
+  },
+  {
+    "id": "SID_速さ守備の激突2",
+    "description": "If unit or foe initiates combat after moving to a different space, grants bonus to unit's Spd/Def during combat = X + 3. (X = number of spaces from start position to end position of whoever initiated combat; max 2.)"
+  },
+  {
+    "id": "SID_速さ守備の激突3",
+    "description": "If unit or foe initiates combat after moving to a different space, grants bonus to unit's Spd/Def during combat = X + 5. (X = number of spaces from start position to end position of whoever initiated combat; max 3.)"
   },
   {
     "id": "SID_速さ守備の密集1",

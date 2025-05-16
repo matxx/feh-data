@@ -404,11 +404,7 @@
     "game8_grade": "C"
   },
   {
-    "id": "SID_攻撃速さの干渉3",
-    "game8_grade": "B"
-  },
-  {
-    "id": "SID_守備魔防の信義3",
+    "id": "SID_速さ守備の激突3",
     "game8_grade": "B"
   },
   {
@@ -416,7 +412,15 @@
     "game8_grade": "B"
   },
   {
+    "id": "SID_攻撃速さの干渉3",
+    "game8_grade": "B"
+  },
+  {
     "id": "SID_攻撃速さの奮起3",
+    "game8_grade": "B"
+  },
+  {
+    "id": "SID_守備魔防の信義3",
     "game8_grade": "B"
   },
   {
@@ -1033,6 +1037,10 @@
   },
   {
     "id": "SID_攻撃速さの牽制3",
+    "game8_grade": "A"
+  },
+  {
+    "id": "SID_怒涛・再起3",
     "game8_grade": "A"
   },
   {
