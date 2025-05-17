@@ -3062,7 +3062,9 @@
     "is_prf": true,
     "sp": 400,
     "tier": 4,
-    "eff": "dragonstone",
+    "eff": [
+      "dragonstone"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -3138,7 +3140,9 @@
     "is_prf": true,
     "sp": 400,
     "tier": 4,
-    "eff": "dragonstone",
+    "eff": [
+      "dragonstone"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -3214,7 +3218,9 @@
     "sp": 400,
     "tier": 4,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -4062,7 +4068,9 @@
     "is_prf": false,
     "sp": 300,
     "tier": 4,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -4354,7 +4362,9 @@
     "is_prf": false,
     "sp": 300,
     "tier": 4,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -4847,7 +4857,9 @@
     "sp": 400,
     "tier": 1,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -4873,7 +4885,9 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -5265,7 +5279,9 @@
     "sp": 200,
     "tier": 3,
     "cd": 0,
-    "eff": "armored",
+    "eff": [
+      "armored"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -5294,7 +5310,9 @@
     "sp": 300,
     "tier": 4,
     "cd": 0,
-    "eff": "armored",
+    "eff": [
+      "armored"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -5320,7 +5338,9 @@
     "sp": 200,
     "tier": 3,
     "cd": 0,
-    "eff": "armored",
+    "eff": [
+      "armored"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -5349,7 +5369,9 @@
     "sp": 300,
     "tier": 4,
     "cd": 0,
-    "eff": "armored",
+    "eff": [
+      "armored"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -5375,7 +5397,9 @@
     "sp": 200,
     "tier": 3,
     "cd": 0,
-    "eff": "armored",
+    "eff": [
+      "armored"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -5404,7 +5428,9 @@
     "sp": 300,
     "tier": 4,
     "cd": 0,
-    "eff": "armored",
+    "eff": [
+      "armored"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -5433,7 +5459,9 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "armored",
+    "eff": [
+      "armored"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -5622,7 +5650,9 @@
     "sp": 200,
     "tier": 3,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -5651,7 +5681,9 @@
     "sp": 300,
     "tier": 4,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -12694,7 +12726,9 @@
     "sp": 400,
     "tier": 4,
     "cd": 0,
-    "eff": "magic",
+    "eff": [
+      "magic"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -12724,7 +12758,9 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "magic",
+    "eff": [
+      "magic"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -12920,7 +12956,9 @@
     "is_prf": true,
     "sp": 400,
     "tier": 4,
-    "eff": "dragonstone",
+    "eff": [
+      "dragonstone"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -13149,7 +13187,9 @@
     "sp": 400,
     "tier": 1,
     "cd": 0,
-    "eff": "armored",
+    "eff": [
+      "armored"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -13175,7 +13215,9 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "armored",
+    "eff": [
+      "armored"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -15339,7 +15381,9 @@
     "sp": 200,
     "tier": 3,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -15368,7 +15412,9 @@
     "sp": 300,
     "tier": 4,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -15913,7 +15959,9 @@
     "sp": 200,
     "tier": 3,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -15942,7 +15990,9 @@
     "sp": 300,
     "tier": 4,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -15996,7 +16046,9 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "dragon",
+    "eff": [
+      "dragon"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -16064,7 +16116,10 @@
     "is_prf": true,
     "sp": 400,
     "tier": 4,
-    "eff": "armored,cavalry",
+    "eff": [
+      "armored",
+      "cavalry"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -16092,7 +16147,10 @@
     "sp": 400,
     "tier": 1,
     "refine": "skill1",
-    "eff": "armored,cavalry",
+    "eff": [
+      "armored",
+      "cavalry"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -17067,7 +17125,9 @@
     "sp": 200,
     "tier": 3,
     "cd": 0,
-    "eff": "cavalry",
+    "eff": [
+      "cavalry"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -17097,7 +17157,9 @@
     "sp": 300,
     "tier": 4,
     "cd": 0,
-    "eff": "cavalry",
+    "eff": [
+      "cavalry"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -17308,7 +17370,10 @@
     "is_prf": true,
     "sp": 400,
     "tier": 4,
-    "eff": "dragonstone,beast",
+    "eff": [
+      "dragonstone",
+      "beast"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -17381,7 +17446,9 @@
     "is_prf": true,
     "sp": 400,
     "tier": 4,
-    "eff": "magic",
+    "eff": [
+      "magic"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -17934,7 +18001,9 @@
     "sp": 400,
     "tier": 1,
     "cd": 0,
-    "eff": "cavalry",
+    "eff": [
+      "cavalry"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -17960,7 +18029,9 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "cavalry",
+    "eff": [
+      "cavalry"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -18754,7 +18825,9 @@
     "sp": 200,
     "tier": 3,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -18783,7 +18856,9 @@
     "sp": 300,
     "tier": 4,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -18886,7 +18961,9 @@
     "is_prf": true,
     "sp": 400,
     "tier": 1,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -18911,7 +18988,9 @@
     "sp": 400,
     "tier": 1,
     "refine": "skill1",
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -18934,7 +19013,9 @@
     "sp": 400,
     "tier": 1,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -18960,7 +19041,9 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -18982,7 +19065,9 @@
     "is_prf": true,
     "sp": 400,
     "tier": 4,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -19010,7 +19095,9 @@
     "sp": 400,
     "tier": 1,
     "refine": "skill1",
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -19032,7 +19119,9 @@
     "is_prf": true,
     "sp": 400,
     "tier": 4,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -19057,7 +19146,9 @@
     "is_prf": true,
     "sp": 400,
     "tier": 4,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -19082,7 +19173,9 @@
     "is_prf": true,
     "sp": 400,
     "tier": 1,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -19107,7 +19200,9 @@
     "sp": 400,
     "tier": 1,
     "refine": "skill1",
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -19574,7 +19669,9 @@
     "sp": 200,
     "tier": 3,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -19603,7 +19700,9 @@
     "sp": 300,
     "tier": 4,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -20273,7 +20372,10 @@
     "is_prf": true,
     "sp": 400,
     "tier": 4,
-    "eff": "beast,flying",
+    "eff": [
+      "beast",
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -20398,7 +20500,9 @@
     "sp": 400,
     "tier": 1,
     "cd": 0,
-    "eff": "dragon",
+    "eff": [
+      "dragon"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -20424,7 +20528,9 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "dragon",
+    "eff": [
+      "dragon"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -20986,7 +21092,10 @@
     "sp": 400,
     "tier": 1,
     "cd": 0,
-    "eff": "armored,cavalry",
+    "eff": [
+      "armored",
+      "cavalry"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -21012,7 +21121,10 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "armored,cavalry",
+    "eff": [
+      "armored",
+      "cavalry"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -21342,7 +21454,9 @@
     "sp": 200,
     "tier": 3,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -21371,7 +21485,9 @@
     "sp": 300,
     "tier": 4,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -21517,7 +21633,9 @@
     "is_prf": true,
     "sp": 400,
     "tier": 4,
-    "eff": "armored",
+    "eff": [
+      "armored"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -21545,7 +21663,9 @@
     "sp": 400,
     "tier": 1,
     "refine": "skill1",
-    "eff": "armored",
+    "eff": [
+      "armored"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -21568,7 +21688,9 @@
     "sp": 400,
     "tier": 4,
     "cd": 0,
-    "eff": "cavalry",
+    "eff": [
+      "cavalry"
+    ],
     "restrictions": {
       "moves": {
         "can_use": [
@@ -21599,7 +21721,9 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "cavalry",
+    "eff": [
+      "cavalry"
+    ],
     "restrictions": {
       "moves": {
         "can_use": [
@@ -21627,7 +21751,9 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "cavalry",
+    "eff": [
+      "cavalry"
+    ],
     "restrictions": {
       "moves": {
         "can_use": [
@@ -22530,7 +22656,9 @@
     "sp": 200,
     "tier": 3,
     "cd": 0,
-    "eff": "cavalry",
+    "eff": [
+      "cavalry"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -22559,7 +22687,9 @@
     "sp": 300,
     "tier": 4,
     "cd": 0,
-    "eff": "cavalry",
+    "eff": [
+      "cavalry"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -23020,7 +23150,9 @@
     "sp": 200,
     "tier": 3,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -23049,7 +23181,9 @@
     "sp": 300,
     "tier": 4,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -23389,7 +23523,9 @@
     "sp": 200,
     "tier": 3,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -23418,7 +23554,9 @@
     "sp": 300,
     "tier": 4,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -23550,7 +23688,9 @@
     "sp": 200,
     "tier": 3,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -23579,7 +23719,9 @@
     "sp": 300,
     "tier": 4,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -24920,7 +25062,9 @@
     "sp": 200,
     "tier": 3,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -24949,7 +25093,9 @@
     "sp": 300,
     "tier": 4,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -25500,7 +25646,9 @@
     "sp": 200,
     "tier": 3,
     "cd": 0,
-    "eff": "dragon",
+    "eff": [
+      "dragon"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -25529,7 +25677,9 @@
     "sp": 300,
     "tier": 4,
     "cd": 0,
-    "eff": "dragon",
+    "eff": [
+      "dragon"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -25579,7 +25729,9 @@
     "sp": 200,
     "tier": 3,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -25608,7 +25760,9 @@
     "sp": 300,
     "tier": 4,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -25782,7 +25936,9 @@
     "sp": 400,
     "tier": 4,
     "cd": 0,
-    "eff": "armored",
+    "eff": [
+      "armored"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -25811,7 +25967,9 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "armored",
+    "eff": [
+      "armored"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -25951,7 +26109,9 @@
     "sp": 200,
     "tier": 3,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -25980,7 +26140,9 @@
     "sp": 300,
     "tier": 4,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -26307,7 +26469,9 @@
     "sp": 200,
     "tier": 3,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -26336,7 +26500,9 @@
     "sp": 300,
     "tier": 4,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -27226,7 +27392,9 @@
     "sp": 400,
     "tier": 4,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -27255,7 +27423,9 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -27278,7 +27448,9 @@
     "sp": 200,
     "tier": 3,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -27307,7 +27479,9 @@
     "sp": 300,
     "tier": 4,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -27947,7 +28121,9 @@
     "sp": 400,
     "tier": 4,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -28191,7 +28367,9 @@
     "is_prf": true,
     "sp": 400,
     "tier": 4,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -28219,7 +28397,9 @@
     "sp": 400,
     "tier": 1,
     "refine": "skill1",
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -28785,7 +28965,9 @@
     "sp": 400,
     "tier": 4,
     "cd": 0,
-    "eff": "cavalry",
+    "eff": [
+      "cavalry"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -28814,7 +28996,9 @@
     "sp": 400,
     "tier": 1,
     "refine": "skill1",
-    "eff": "cavalry",
+    "eff": [
+      "cavalry"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -29123,7 +29307,9 @@
     "is_prf": true,
     "sp": 400,
     "tier": 1,
-    "eff": "armored",
+    "eff": [
+      "armored"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -29148,7 +29334,9 @@
     "sp": 400,
     "tier": 1,
     "refine": "skill1",
-    "eff": "armored",
+    "eff": [
+      "armored"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -29171,7 +29359,10 @@
     "sp": 400,
     "tier": 4,
     "cd": 0,
-    "eff": "armored,cavalry",
+    "eff": [
+      "armored",
+      "cavalry"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -30004,7 +30195,10 @@
     "sp": 400,
     "tier": 4,
     "cd": 0,
-    "eff": "armored,flying",
+    "eff": [
+      "armored",
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -30032,7 +30226,10 @@
     "sp": 400,
     "tier": 1,
     "refine": "skill1",
-    "eff": "armored,flying",
+    "eff": [
+      "armored",
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -30054,7 +30251,9 @@
     "is_prf": true,
     "sp": 400,
     "tier": 4,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -32396,7 +32595,9 @@
     "sp": 200,
     "tier": 3,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -32425,7 +32626,9 @@
     "sp": 300,
     "tier": 4,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -32792,7 +32995,9 @@
     "sp": 400,
     "tier": 4,
     "cd": 0,
-    "eff": "armored",
+    "eff": [
+      "armored"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -32821,7 +33026,9 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "armored",
+    "eff": [
+      "armored"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -32843,7 +33050,10 @@
     "is_prf": true,
     "sp": 400,
     "tier": 4,
-    "eff": "dragon,beast",
+    "eff": [
+      "dragon",
+      "beast"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -33037,7 +33247,10 @@
     "is_prf": true,
     "sp": 400,
     "tier": 4,
-    "eff": "armored,flying",
+    "eff": [
+      "armored",
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -33130,7 +33343,9 @@
     "sp": 200,
     "tier": 3,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -33159,7 +33374,9 @@
     "sp": 300,
     "tier": 4,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -33316,7 +33533,9 @@
     "is_prf": true,
     "sp": 400,
     "tier": 4,
-    "eff": "armored",
+    "eff": [
+      "armored"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -33342,7 +33561,9 @@
     "sp": 400,
     "tier": 1,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -33368,7 +33589,9 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -34167,7 +34390,9 @@
     "sp": 400,
     "tier": 4,
     "cd": 0,
-    "eff": "dragon",
+    "eff": [
+      "dragon"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -34196,7 +34421,9 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "dragon",
+    "eff": [
+      "dragon"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -34329,7 +34556,9 @@
     "sp": 400,
     "tier": 4,
     "cd": 0,
-    "eff": "dragon",
+    "eff": [
+      "dragon"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -34358,7 +34587,9 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "dragon",
+    "eff": [
+      "dragon"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -34381,7 +34612,9 @@
     "sp": 400,
     "tier": 4,
     "cd": 0,
-    "eff": "dragon",
+    "eff": [
+      "dragon"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -34410,7 +34643,9 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "dragon",
+    "eff": [
+      "dragon"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -34706,7 +34941,9 @@
     "is_prf": true,
     "sp": 400,
     "tier": 4,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -34732,7 +34969,11 @@
     "sp": 400,
     "tier": 4,
     "cd": 0,
-    "eff": "melee,colorless bow,armored",
+    "eff": [
+      "melee",
+      "colorless bow",
+      "armored"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -34844,7 +35085,9 @@
     "is_prf": true,
     "sp": 400,
     "tier": 4,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -34872,7 +35115,9 @@
     "sp": 400,
     "tier": 1,
     "refine": "skill1",
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -34917,7 +35162,9 @@
     "sp": 200,
     "tier": 3,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -34946,7 +35193,9 @@
     "sp": 300,
     "tier": 4,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -35078,7 +35327,9 @@
     "sp": 400,
     "tier": 4,
     "cd": 0,
-    "eff": "dragon",
+    "eff": [
+      "dragon"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -35107,7 +35358,9 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "dragon",
+    "eff": [
+      "dragon"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -36110,7 +36363,9 @@
     "sp": 400,
     "tier": 4,
     "cd": 0,
-    "eff": "dragon",
+    "eff": [
+      "dragon"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -36139,7 +36394,9 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "dragon",
+    "eff": [
+      "dragon"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -36301,7 +36558,9 @@
     "sp": 200,
     "tier": 3,
     "cd": 0,
-    "eff": "dragon",
+    "eff": [
+      "dragon"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -36330,7 +36589,9 @@
     "sp": 300,
     "tier": 4,
     "cd": 0,
-    "eff": "dragon",
+    "eff": [
+      "dragon"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -37197,7 +37458,9 @@
     "sp": 200,
     "tier": 3,
     "cd": 0,
-    "eff": "cavalry",
+    "eff": [
+      "cavalry"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -37226,7 +37489,9 @@
     "sp": 300,
     "tier": 4,
     "cd": 0,
-    "eff": "cavalry",
+    "eff": [
+      "cavalry"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -37275,7 +37540,9 @@
     "is_prf": true,
     "sp": 400,
     "tier": 4,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -38058,7 +38325,9 @@
     "sp": 400,
     "tier": 4,
     "cd": 0,
-    "eff": "beast",
+    "eff": [
+      "beast"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -38087,7 +38356,9 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "beast",
+    "eff": [
+      "beast"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -38962,7 +39233,9 @@
     "is_prf": true,
     "sp": 400,
     "tier": 4,
-    "eff": "dragon",
+    "eff": [
+      "dragon"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -38990,7 +39263,9 @@
     "sp": 400,
     "tier": 1,
     "refine": "skill1",
-    "eff": "dragon",
+    "eff": [
+      "dragon"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -39783,7 +40058,9 @@
     "sp": 400,
     "tier": 4,
     "cd": 0,
-    "eff": "dragon",
+    "eff": [
+      "dragon"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -39812,7 +40089,9 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "dragon",
+    "eff": [
+      "dragon"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -39835,7 +40114,9 @@
     "sp": 400,
     "tier": 4,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -39863,7 +40144,9 @@
     "sp": 400,
     "tier": 1,
     "refine": "skill1",
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -40009,7 +40292,9 @@
     "is_prf": true,
     "sp": 400,
     "tier": 4,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -40037,7 +40322,9 @@
     "sp": 400,
     "tier": 1,
     "refine": "skill1",
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -40251,7 +40538,9 @@
     "sp": 400,
     "tier": 4,
     "cd": 0,
-    "eff": "dragon",
+    "eff": [
+      "dragon"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -40279,7 +40568,9 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "dragon",
+    "eff": [
+      "dragon"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -40301,7 +40592,9 @@
     "sp": 400,
     "tier": 4,
     "cd": 0,
-    "eff": "dragon",
+    "eff": [
+      "dragon"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -40329,7 +40622,9 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "dragon",
+    "eff": [
+      "dragon"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -40351,7 +40646,9 @@
     "sp": 400,
     "tier": 4,
     "cd": 0,
-    "eff": "dragon",
+    "eff": [
+      "dragon"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -40379,7 +40676,9 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "dragon",
+    "eff": [
+      "dragon"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -40944,7 +41243,11 @@
     "sp": 400,
     "tier": 4,
     "cd": 0,
-    "eff": "melee,colorless bow,armored",
+    "eff": [
+      "melee",
+      "colorless bow",
+      "armored"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -40973,7 +41276,11 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "melee,colorless bow,armored",
+    "eff": [
+      "melee",
+      "colorless bow",
+      "armored"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -41279,7 +41586,9 @@
     "is_prf": true,
     "sp": 400,
     "tier": 4,
-    "eff": "cavalry",
+    "eff": [
+      "cavalry"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -41619,7 +41928,9 @@
     "sp": 200,
     "tier": 3,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -41648,7 +41959,9 @@
     "sp": 300,
     "tier": 4,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -42514,7 +42827,9 @@
     "sp": 200,
     "tier": 3,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -42543,7 +42858,9 @@
     "sp": 300,
     "tier": 4,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -42753,7 +43070,9 @@
     "sp": 400,
     "tier": 4,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -42779,7 +43098,9 @@
     "sp": 200,
     "tier": 3,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -42808,7 +43129,9 @@
     "sp": 300,
     "tier": 4,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -42934,7 +43257,9 @@
     "sp": 400,
     "tier": 4,
     "cd": 0,
-    "eff": "beast",
+    "eff": [
+      "beast"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -42963,7 +43288,9 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "beast",
+    "eff": [
+      "beast"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -42985,7 +43312,9 @@
     "is_prf": true,
     "sp": 400,
     "tier": 4,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -43060,7 +43389,9 @@
     "is_prf": true,
     "sp": 400,
     "tier": 4,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -44015,7 +44346,9 @@
     "sp": 400,
     "tier": 1,
     "cd": 0,
-    "eff": "armored",
+    "eff": [
+      "armored"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -44041,7 +44374,9 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "armored",
+    "eff": [
+      "armored"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -45993,7 +46328,9 @@
     "sp": 200,
     "tier": 3,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -46022,7 +46359,9 @@
     "sp": 300,
     "tier": 4,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -46153,7 +46492,9 @@
     "sp": 400,
     "tier": 1,
     "cd": 0,
-    "eff": "armored",
+    "eff": [
+      "armored"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -46179,7 +46520,9 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "armored",
+    "eff": [
+      "armored"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -46682,7 +47025,9 @@
     "sp": 400,
     "tier": 4,
     "cd": 0,
-    "eff": "dragon",
+    "eff": [
+      "dragon"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -46711,7 +47056,9 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "dragon",
+    "eff": [
+      "dragon"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -46852,7 +47199,9 @@
     "sp": 400,
     "tier": 4,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -46881,7 +47230,9 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -46903,7 +47254,10 @@
     "is_prf": true,
     "sp": 400,
     "tier": 4,
-    "eff": "armored,flying",
+    "eff": [
+      "armored",
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -46975,7 +47329,9 @@
     "sp": 400,
     "tier": 4,
     "cd": 0,
-    "eff": "cavalry",
+    "eff": [
+      "cavalry"
+    ],
     "restrictions": {
       "moves": {
         "can_use": [
@@ -47923,7 +48279,9 @@
     "sp": 200,
     "tier": 3,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -47952,7 +48310,9 @@
     "sp": 300,
     "tier": 4,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -48340,7 +48700,9 @@
     "is_prf": true,
     "sp": 400,
     "tier": 4,
-    "eff": "armored",
+    "eff": [
+      "armored"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -48368,7 +48730,9 @@
     "sp": 400,
     "tier": 1,
     "refine": "skill1",
-    "eff": "armored",
+    "eff": [
+      "armored"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -48419,7 +48783,9 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "dragon",
+    "eff": [
+      "dragon"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -48494,7 +48860,9 @@
     "is_prf": true,
     "sp": 400,
     "tier": 4,
-    "eff": "dragon",
+    "eff": [
+      "dragon"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -48522,7 +48890,9 @@
     "sp": 400,
     "tier": 1,
     "refine": "skill1",
-    "eff": "dragon",
+    "eff": [
+      "dragon"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -50056,7 +50426,9 @@
     "sp": 200,
     "tier": 3,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -50085,7 +50457,9 @@
     "sp": 300,
     "tier": 4,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -50282,7 +50656,9 @@
     "is_prf": true,
     "sp": 400,
     "tier": 4,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -50310,7 +50686,9 @@
     "sp": 400,
     "tier": 1,
     "refine": "skill1",
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -50458,7 +50836,9 @@
     "sp": 200,
     "tier": 3,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -50487,7 +50867,9 @@
     "sp": 300,
     "tier": 4,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -51652,7 +52034,9 @@
     "sp": 200,
     "tier": 3,
     "cd": 0,
-    "eff": "cavalry",
+    "eff": [
+      "cavalry"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -51681,7 +52065,9 @@
     "sp": 300,
     "tier": 4,
     "cd": 0,
-    "eff": "cavalry",
+    "eff": [
+      "cavalry"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -52174,7 +52560,9 @@
     "sp": 200,
     "tier": 3,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -52203,7 +52591,9 @@
     "sp": 300,
     "tier": 4,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -52480,7 +52870,9 @@
     "is_prf": true,
     "sp": 400,
     "tier": 4,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -52508,7 +52900,9 @@
     "sp": 400,
     "tier": 1,
     "refine": "skill1",
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -52786,7 +53180,10 @@
     "is_prf": true,
     "sp": 400,
     "tier": 4,
-    "eff": "beast,flying",
+    "eff": [
+      "beast",
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -53015,7 +53412,9 @@
     "sp": 200,
     "tier": 3,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -53044,7 +53443,9 @@
     "sp": 300,
     "tier": 4,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -53070,7 +53471,9 @@
     "sp": 200,
     "tier": 3,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -53099,7 +53502,9 @@
     "sp": 300,
     "tier": 4,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -53125,7 +53530,9 @@
     "sp": 200,
     "tier": 3,
     "cd": 0,
-    "eff": "armored",
+    "eff": [
+      "armored"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -53154,7 +53561,9 @@
     "sp": 300,
     "tier": 4,
     "cd": 0,
-    "eff": "armored",
+    "eff": [
+      "armored"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -53180,7 +53589,9 @@
     "sp": 400,
     "tier": 1,
     "cd": 0,
-    "eff": "armored",
+    "eff": [
+      "armored"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -53206,7 +53617,9 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "armored",
+    "eff": [
+      "armored"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -53481,7 +53894,9 @@
     "sp": 200,
     "tier": 3,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -53510,7 +53925,9 @@
     "sp": 300,
     "tier": 4,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -53931,7 +54348,9 @@
     "is_prf": true,
     "sp": 400,
     "tier": 4,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -54151,7 +54570,9 @@
     "sp": 200,
     "tier": 3,
     "cd": 0,
-    "eff": "armored",
+    "eff": [
+      "armored"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -54182,7 +54603,9 @@
     "sp": 300,
     "tier": 4,
     "cd": 0,
-    "eff": "armored",
+    "eff": [
+      "armored"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -54325,7 +54748,9 @@
     "is_prf": true,
     "sp": 400,
     "tier": 4,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -54399,7 +54824,9 @@
     "sp": 200,
     "tier": 3,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -54428,7 +54855,9 @@
     "sp": 300,
     "tier": 4,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -54586,7 +55015,9 @@
     "sp": 400,
     "tier": 1,
     "cd": 0,
-    "eff": "cavalry",
+    "eff": [
+      "cavalry"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -54612,7 +55043,9 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "cavalry",
+    "eff": [
+      "cavalry"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -54634,7 +55067,9 @@
     "is_prf": true,
     "sp": 400,
     "tier": 4,
-    "eff": "dragonstone",
+    "eff": [
+      "dragonstone"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -55493,7 +55928,9 @@
     "is_prf": true,
     "sp": 400,
     "tier": 4,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -55521,7 +55958,9 @@
     "sp": 400,
     "tier": 1,
     "refine": "skill1",
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -56754,7 +57193,9 @@
     "is_prf": true,
     "sp": 400,
     "tier": 4,
-    "eff": "beast",
+    "eff": [
+      "beast"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -56782,7 +57223,9 @@
     "sp": 400,
     "tier": 1,
     "refine": "skill1",
-    "eff": "beast",
+    "eff": [
+      "beast"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -56958,7 +57401,9 @@
     "sp": 400,
     "tier": 1,
     "cd": 0,
-    "eff": "cavalry",
+    "eff": [
+      "cavalry"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -56984,7 +57429,9 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "cavalry",
+    "eff": [
+      "cavalry"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -57586,7 +58033,9 @@
     "sp": 400,
     "tier": 4,
     "cd": 0,
-    "eff": "dragon",
+    "eff": [
+      "dragon"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -57614,7 +58063,9 @@
     "sp": 400,
     "tier": 1,
     "refine": "skill1",
-    "eff": "dragon",
+    "eff": [
+      "dragon"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -58157,7 +58608,9 @@
     "sp": 400,
     "tier": 4,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -58185,7 +58638,9 @@
     "sp": 400,
     "tier": 1,
     "refine": "skill1",
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -59003,7 +59458,9 @@
     "sp": 200,
     "tier": 3,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -59032,7 +59489,9 @@
     "sp": 300,
     "tier": 4,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -59352,7 +59811,9 @@
     "sp": 50,
     "tier": 1,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -60064,7 +60525,9 @@
     "is_prf": true,
     "sp": 400,
     "tier": 4,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -60090,7 +60553,10 @@
     "sp": 400,
     "tier": 4,
     "cd": 0,
-    "eff": "armored,cavalry",
+    "eff": [
+      "armored",
+      "cavalry"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -60119,7 +60585,10 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "armored,cavalry",
+    "eff": [
+      "armored",
+      "cavalry"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -60269,7 +60738,9 @@
     "sp": 400,
     "tier": 1,
     "cd": 0,
-    "eff": "armored",
+    "eff": [
+      "armored"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -60295,7 +60766,9 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "armored",
+    "eff": [
+      "armored"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -60424,7 +60897,9 @@
     "is_prf": true,
     "sp": 400,
     "tier": 4,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -60450,7 +60925,9 @@
     "sp": 200,
     "tier": 3,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -60479,7 +60956,9 @@
     "sp": 300,
     "tier": 4,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -60701,7 +61180,9 @@
     "sp": 200,
     "tier": 3,
     "cd": 0,
-    "eff": "cavalry",
+    "eff": [
+      "cavalry"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -60731,7 +61212,9 @@
     "sp": 300,
     "tier": 4,
     "cd": 0,
-    "eff": "cavalry",
+    "eff": [
+      "cavalry"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -60760,7 +61243,9 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "cavalry",
+    "eff": [
+      "cavalry"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -60783,7 +61268,9 @@
     "sp": 400,
     "tier": 4,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -60809,7 +61296,9 @@
     "sp": 200,
     "tier": 3,
     "cd": 0,
-    "eff": "cavalry",
+    "eff": [
+      "cavalry"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -60838,7 +61327,9 @@
     "sp": 300,
     "tier": 4,
     "cd": 0,
-    "eff": "cavalry",
+    "eff": [
+      "cavalry"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -60867,7 +61358,9 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "cavalry",
+    "eff": [
+      "cavalry"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -60889,7 +61382,9 @@
     "is_prf": true,
     "sp": 400,
     "tier": 4,
-    "eff": "cavalry",
+    "eff": [
+      "cavalry"
+    ],
     "restrictions": {
       "moves": {
         "can_use": [
@@ -60917,7 +61412,9 @@
     "sp": 200,
     "tier": 3,
     "cd": 0,
-    "eff": "cavalry",
+    "eff": [
+      "cavalry"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -60947,7 +61444,9 @@
     "sp": 300,
     "tier": 4,
     "cd": 0,
-    "eff": "cavalry",
+    "eff": [
+      "cavalry"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -60976,7 +61475,9 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "cavalry",
+    "eff": [
+      "cavalry"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -61181,7 +61682,9 @@
     "is_prf": false,
     "sp": 200,
     "tier": 3,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -61209,7 +61712,9 @@
     "is_prf": false,
     "sp": 300,
     "tier": 4,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -61515,7 +62020,9 @@
     "sp": 200,
     "tier": 3,
     "cd": 0,
-    "eff": "magic",
+    "eff": [
+      "magic"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -61544,7 +62051,9 @@
     "sp": 300,
     "tier": 4,
     "cd": 0,
-    "eff": "magic",
+    "eff": [
+      "magic"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -61939,7 +62448,9 @@
     "sp": 200,
     "tier": 3,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -61968,7 +62479,9 @@
     "sp": 300,
     "tier": 4,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -62017,7 +62530,9 @@
     "is_prf": true,
     "sp": 400,
     "tier": 4,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -62250,7 +62765,9 @@
     "sp": 400,
     "tier": 1,
     "cd": 0,
-    "eff": "cavalry",
+    "eff": [
+      "cavalry"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -62276,7 +62793,9 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "cavalry",
+    "eff": [
+      "cavalry"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -63521,7 +64040,10 @@
     "sp": 400,
     "tier": 4,
     "cd": 0,
-    "eff": "armored,cavalry",
+    "eff": [
+      "armored",
+      "cavalry"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -63550,7 +64072,10 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "armored,cavalry",
+    "eff": [
+      "armored",
+      "cavalry"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -64327,7 +64852,9 @@
     "sp": 400,
     "tier": 1,
     "cd": 0,
-    "eff": "armored",
+    "eff": [
+      "armored"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -64353,7 +64880,9 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "armored",
+    "eff": [
+      "armored"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -64528,7 +65057,9 @@
     "is_prf": true,
     "sp": 400,
     "tier": 4,
-    "eff": "dragonstone",
+    "eff": [
+      "dragonstone"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -64777,7 +65308,9 @@
     "sp": 400,
     "tier": 1,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -64803,7 +65336,9 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -65479,7 +66014,9 @@
     "sp": 400,
     "tier": 4,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -65508,7 +66045,9 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -66435,7 +66974,9 @@
     "sp": 400,
     "tier": 1,
     "cd": 0,
-    "eff": "cavalry",
+    "eff": [
+      "cavalry"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -66461,7 +67002,9 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "cavalry",
+    "eff": [
+      "cavalry"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -66553,7 +67096,9 @@
     "sp": 400,
     "tier": 4,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -66582,7 +67127,9 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -67084,7 +67631,10 @@
     "sp": 400,
     "tier": 4,
     "cd": 0,
-    "eff": "armored,flying",
+    "eff": [
+      "armored",
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -67362,7 +67912,9 @@
     "sp": 400,
     "tier": 4,
     "cd": 0,
-    "eff": "dragon",
+    "eff": [
+      "dragon"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -67391,7 +67943,9 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "dragon",
+    "eff": [
+      "dragon"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -67414,7 +67968,10 @@
     "sp": 400,
     "tier": 4,
     "cd": 0,
-    "eff": "armored,cavalry",
+    "eff": [
+      "armored",
+      "cavalry"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -67443,7 +68000,10 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "armored,cavalry",
+    "eff": [
+      "armored",
+      "cavalry"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -67466,7 +68026,9 @@
     "sp": 400,
     "tier": 4,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -67494,7 +68056,9 @@
     "sp": 400,
     "tier": 1,
     "refine": "skill1",
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -68054,7 +68618,9 @@
     "sp": 200,
     "tier": 3,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -68083,7 +68649,9 @@
     "sp": 300,
     "tier": 4,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -68304,7 +68872,10 @@
     "is_prf": true,
     "sp": 400,
     "tier": 4,
-    "eff": "armored,cavalry",
+    "eff": [
+      "armored",
+      "cavalry"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -68463,7 +69034,9 @@
     "sp": 400,
     "tier": 4,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -68492,7 +69065,9 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -68938,7 +69513,9 @@
     "sp": 400,
     "tier": 4,
     "cd": 0,
-    "eff": "dragon",
+    "eff": [
+      "dragon"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -68967,7 +69544,9 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "dragon",
+    "eff": [
+      "dragon"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -69182,7 +69761,10 @@
     "sp": 400,
     "tier": 4,
     "cd": 0,
-    "eff": "armored,cavalry",
+    "eff": [
+      "armored",
+      "cavalry"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -69210,7 +69792,10 @@
     "sp": 400,
     "tier": 1,
     "refine": "skill1",
-    "eff": "armored,cavalry",
+    "eff": [
+      "armored",
+      "cavalry"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -69500,7 +70085,9 @@
     "is_prf": true,
     "sp": 400,
     "tier": 4,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -69579,7 +70166,9 @@
     "sp": 400,
     "tier": 4,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -69608,7 +70197,9 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -69630,7 +70221,9 @@
     "is_prf": true,
     "sp": 400,
     "tier": 4,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -69923,7 +70516,9 @@
     "is_prf": true,
     "sp": 400,
     "tier": 1,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -69948,7 +70543,9 @@
     "sp": 400,
     "tier": 1,
     "refine": "skill1",
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -69995,7 +70592,10 @@
     "sp": 400,
     "tier": 4,
     "cd": 0,
-    "eff": "dragon,beast",
+    "eff": [
+      "dragon",
+      "beast"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -70024,7 +70624,10 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "dragon,beast",
+    "eff": [
+      "dragon",
+      "beast"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -70259,7 +70862,9 @@
     "sp": 200,
     "tier": 3,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -70288,7 +70893,9 @@
     "sp": 300,
     "tier": 4,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -70516,7 +71123,9 @@
     "sp": 400,
     "tier": 1,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -70542,7 +71151,9 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -71105,7 +71716,9 @@
     "sp": 400,
     "tier": 1,
     "cd": 0,
-    "eff": "armored",
+    "eff": [
+      "armored"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -71131,7 +71744,9 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "armored",
+    "eff": [
+      "armored"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -71302,7 +71917,9 @@
     "sp": 400,
     "tier": 1,
     "cd": 0,
-    "eff": "cavalry",
+    "eff": [
+      "cavalry"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -71328,7 +71945,9 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "cavalry",
+    "eff": [
+      "cavalry"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -72350,7 +72969,9 @@
     "is_prf": true,
     "sp": 400,
     "tier": 4,
-    "eff": "dragonstone",
+    "eff": [
+      "dragonstone"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -73542,7 +74163,9 @@
     "sp": 400,
     "tier": 4,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -73571,7 +74194,9 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -73593,7 +74218,9 @@
     "is_prf": true,
     "sp": 400,
     "tier": 4,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -73821,7 +74448,9 @@
     "sp": 200,
     "tier": 3,
     "cd": 0,
-    "eff": "armored",
+    "eff": [
+      "armored"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -73850,7 +74479,9 @@
     "sp": 300,
     "tier": 4,
     "cd": 0,
-    "eff": "armored",
+    "eff": [
+      "armored"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -74044,7 +74675,9 @@
     "sp": 200,
     "tier": 3,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -74073,7 +74706,9 @@
     "sp": 300,
     "tier": 4,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -74222,7 +74857,9 @@
     "sp": 400,
     "tier": 4,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -74251,7 +74888,9 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -74938,7 +75577,9 @@
     "sp": 200,
     "tier": 3,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -74967,7 +75608,9 @@
     "sp": 300,
     "tier": 4,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -75118,7 +75761,9 @@
     "sp": 200,
     "tier": 3,
     "cd": 0,
-    "eff": "infantry",
+    "eff": [
+      "infantry"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -75147,7 +75792,9 @@
     "sp": 300,
     "tier": 4,
     "cd": 0,
-    "eff": "infantry",
+    "eff": [
+      "infantry"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -75255,7 +75902,9 @@
     "sp": 200,
     "tier": 3,
     "cd": 0,
-    "eff": "cavalry",
+    "eff": [
+      "cavalry"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -75284,7 +75933,9 @@
     "sp": 300,
     "tier": 4,
     "cd": 0,
-    "eff": "cavalry",
+    "eff": [
+      "cavalry"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -75313,7 +75964,9 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "cavalry",
+    "eff": [
+      "cavalry"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -75585,7 +76238,9 @@
     "sp": 400,
     "tier": 4,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -76029,7 +76684,9 @@
     "sp": 200,
     "tier": 3,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -76058,7 +76715,9 @@
     "sp": 300,
     "tier": 4,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -76718,7 +77377,10 @@
     "is_prf": true,
     "sp": 400,
     "tier": 4,
-    "eff": "armored,cavalry",
+    "eff": [
+      "armored",
+      "cavalry"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -76999,7 +77661,9 @@
     "sp": 400,
     "tier": 1,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -77025,7 +77689,9 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -77895,7 +78561,9 @@
     "is_prf": true,
     "sp": 400,
     "tier": 4,
-    "eff": "magic",
+    "eff": [
+      "magic"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -78855,7 +79523,9 @@
     "is_prf": true,
     "sp": 400,
     "tier": 4,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -78881,7 +79551,10 @@
     "sp": 400,
     "tier": 4,
     "cd": 0,
-    "eff": "armored,flying",
+    "eff": [
+      "armored",
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -78910,7 +79583,10 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "armored,flying",
+    "eff": [
+      "armored",
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -78933,7 +79609,9 @@
     "sp": 400,
     "tier": 4,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -78959,7 +79637,10 @@
     "sp": 400,
     "tier": 4,
     "cd": 0,
-    "eff": "armored,cavalry",
+    "eff": [
+      "armored",
+      "cavalry"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -79702,7 +80383,9 @@
     "sp": 200,
     "tier": 3,
     "cd": 0,
-    "eff": "cavalry",
+    "eff": [
+      "cavalry"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -79732,7 +80415,9 @@
     "sp": 300,
     "tier": 4,
     "cd": 0,
-    "eff": "cavalry",
+    "eff": [
+      "cavalry"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -79865,7 +80550,9 @@
     "sp": 400,
     "tier": 4,
     "cd": 0,
-    "eff": "dragon",
+    "eff": [
+      "dragon"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -79894,7 +80581,9 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "dragon",
+    "eff": [
+      "dragon"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -79989,7 +80678,9 @@
     "is_prf": true,
     "sp": 400,
     "tier": 1,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -80014,7 +80705,9 @@
     "sp": 400,
     "tier": 1,
     "refine": "skill1",
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -80390,7 +81083,9 @@
     "sp": 200,
     "tier": 3,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -80419,7 +81114,9 @@
     "sp": 300,
     "tier": 4,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -80519,7 +81216,10 @@
     "sp": 400,
     "tier": 4,
     "cd": 0,
-    "eff": "armored,cavalry",
+    "eff": [
+      "armored",
+      "cavalry"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -80548,7 +81248,10 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "armored,cavalry",
+    "eff": [
+      "armored",
+      "cavalry"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -80699,7 +81402,9 @@
     "sp": 200,
     "tier": 3,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -80728,7 +81433,9 @@
     "sp": 300,
     "tier": 4,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -80860,7 +81567,9 @@
     "sp": 200,
     "tier": 3,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -80889,7 +81598,9 @@
     "sp": 300,
     "tier": 4,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -80914,7 +81625,9 @@
     "is_prf": true,
     "sp": 400,
     "tier": 4,
-    "eff": "dragonstone",
+    "eff": [
+      "dragonstone"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -80942,7 +81655,9 @@
     "sp": 400,
     "tier": 1,
     "refine": "skill1",
-    "eff": "dragonstone",
+    "eff": [
+      "dragonstone"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -81144,7 +81859,9 @@
     "sp": 400,
     "tier": 1,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -81170,7 +81887,9 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -82982,7 +83701,10 @@
     "sp": 400,
     "tier": 1,
     "cd": 0,
-    "eff": "armored,cavalry",
+    "eff": [
+      "armored",
+      "cavalry"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -83008,7 +83730,10 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "armored,cavalry",
+    "eff": [
+      "armored",
+      "cavalry"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -83031,7 +83756,9 @@
     "sp": 200,
     "tier": 3,
     "cd": 0,
-    "eff": "cavalry",
+    "eff": [
+      "cavalry"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -83060,7 +83787,9 @@
     "sp": 300,
     "tier": 4,
     "cd": 0,
-    "eff": "cavalry",
+    "eff": [
+      "cavalry"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -83089,7 +83818,9 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "cavalry",
+    "eff": [
+      "cavalry"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -83521,7 +84252,9 @@
     "sp": 400,
     "tier": 4,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -85648,7 +86381,9 @@
     "is_prf": true,
     "sp": 400,
     "tier": 1,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -85673,7 +86408,9 @@
     "sp": 400,
     "tier": 1,
     "refine": "skill1",
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -86128,7 +86865,9 @@
     "is_prf": true,
     "sp": 400,
     "tier": 4,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -86566,7 +87305,9 @@
     "sp": 400,
     "tier": 4,
     "cd": 0,
-    "eff": "beast",
+    "eff": [
+      "beast"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -86595,7 +87336,9 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "beast",
+    "eff": [
+      "beast"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -87961,7 +88704,9 @@
     "sp": 400,
     "tier": 4,
     "cd": 0,
-    "eff": "dragon",
+    "eff": [
+      "dragon"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -87990,7 +88735,9 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "dragon",
+    "eff": [
+      "dragon"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -88376,7 +89123,9 @@
     "sp": 400,
     "tier": 1,
     "cd": 0,
-    "eff": "armored",
+    "eff": [
+      "armored"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -88402,7 +89151,9 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "armored",
+    "eff": [
+      "armored"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -88470,7 +89221,9 @@
     "is_prf": true,
     "sp": 400,
     "tier": 4,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -88652,7 +89405,9 @@
     "sp": 400,
     "tier": 1,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -88678,7 +89433,9 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -89622,7 +90379,9 @@
     "sp": 200,
     "tier": 3,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -89651,7 +90410,9 @@
     "sp": 300,
     "tier": 4,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -89754,7 +90515,9 @@
     "sp": 200,
     "tier": 3,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -89783,7 +90546,9 @@
     "sp": 300,
     "tier": 4,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -90292,7 +91057,9 @@
     "sp": 200,
     "tier": 3,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -90381,7 +91148,9 @@
     "sp": 300,
     "tier": 4,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -90686,7 +91455,10 @@
     "is_prf": true,
     "sp": 400,
     "tier": 4,
-    "eff": "armored,cavalry",
+    "eff": [
+      "armored",
+      "cavalry"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -91080,7 +91852,9 @@
     "sp": 400,
     "tier": 4,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -91109,7 +91883,9 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -91207,7 +91983,9 @@
     "sp": 200,
     "tier": 3,
     "cd": 0,
-    "eff": "armored",
+    "eff": [
+      "armored"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -91236,7 +92014,9 @@
     "sp": 300,
     "tier": 4,
     "cd": 0,
-    "eff": "armored",
+    "eff": [
+      "armored"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -91389,7 +92169,9 @@
     "is_prf": false,
     "sp": 200,
     "tier": 3,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -91417,7 +92199,9 @@
     "is_prf": false,
     "sp": 300,
     "tier": 4,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -91496,7 +92280,9 @@
     "sp": 200,
     "tier": 3,
     "cd": 0,
-    "eff": "armored",
+    "eff": [
+      "armored"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -91525,7 +92311,9 @@
     "sp": 300,
     "tier": 4,
     "cd": 0,
-    "eff": "armored",
+    "eff": [
+      "armored"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -91554,7 +92342,9 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "armored",
+    "eff": [
+      "armored"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -91628,7 +92418,9 @@
     "sp": 200,
     "tier": 3,
     "cd": 0,
-    "eff": "armored",
+    "eff": [
+      "armored"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -91659,7 +92451,9 @@
     "sp": 300,
     "tier": 4,
     "cd": 0,
-    "eff": "armored",
+    "eff": [
+      "armored"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -91688,7 +92482,9 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "armored",
+    "eff": [
+      "armored"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -92122,7 +92918,9 @@
     "sp": 200,
     "tier": 3,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -92151,7 +92949,9 @@
     "sp": 300,
     "tier": 4,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -92248,7 +93048,9 @@
     "sp": 400,
     "tier": 1,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -92274,7 +93076,9 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -92297,7 +93101,9 @@
     "sp": 400,
     "tier": 1,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -92323,7 +93129,9 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -97358,7 +98166,9 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "cavalry",
+    "eff": [
+      "cavalry"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -97909,7 +98719,9 @@
     "sp": 200,
     "tier": 3,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -97938,7 +98750,9 @@
     "sp": 300,
     "tier": 4,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -98091,7 +98905,9 @@
     "is_prf": true,
     "sp": 400,
     "tier": 4,
-    "eff": "dragon",
+    "eff": [
+      "dragon"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -98120,7 +98936,9 @@
     "sp": 400,
     "tier": 1,
     "refine": "skill1",
-    "eff": "dragon",
+    "eff": [
+      "dragon"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -98302,7 +99120,9 @@
     "sp": 200,
     "tier": 3,
     "cd": 0,
-    "eff": "dragon",
+    "eff": [
+      "dragon"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -98331,7 +99151,9 @@
     "sp": 300,
     "tier": 4,
     "cd": 0,
-    "eff": "dragon",
+    "eff": [
+      "dragon"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -98686,7 +99508,9 @@
     "sp": 200,
     "tier": 3,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -98715,7 +99539,9 @@
     "sp": 300,
     "tier": 4,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -99540,7 +100366,9 @@
     "is_prf": true,
     "sp": 400,
     "tier": 1,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -99565,7 +100393,9 @@
     "sp": 400,
     "tier": 1,
     "refine": "skill1",
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -100239,7 +101069,9 @@
     "sp": 200,
     "tier": 3,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -100268,7 +101100,9 @@
     "sp": 300,
     "tier": 4,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -101056,7 +101890,9 @@
     "sp": 100,
     "tier": 2,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -102395,7 +103231,9 @@
     "sp": 400,
     "tier": 4,
     "cd": 0,
-    "eff": "dragon",
+    "eff": [
+      "dragon"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -102424,7 +103262,9 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "dragon",
+    "eff": [
+      "dragon"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -102613,7 +103453,9 @@
     "sp": 200,
     "tier": 3,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -102642,7 +103484,9 @@
     "sp": 300,
     "tier": 4,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -103102,7 +103946,9 @@
     "is_prf": true,
     "sp": 400,
     "tier": 4,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -103130,7 +103976,9 @@
     "sp": 400,
     "tier": 1,
     "refine": "skill1",
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -103375,7 +104223,9 @@
     "sp": 400,
     "tier": 4,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -103404,7 +104254,9 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -103427,7 +104279,9 @@
     "sp": 300,
     "tier": 1,
     "cd": 0,
-    "eff": "all",
+    "eff": [
+      "all"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -104055,7 +104909,9 @@
     "sp": 400,
     "tier": 1,
     "cd": 0,
-    "eff": "armored",
+    "eff": [
+      "armored"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -104081,7 +104937,9 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "armored",
+    "eff": [
+      "armored"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -104295,7 +105153,9 @@
     "sp": 400,
     "tier": 4,
     "cd": 0,
-    "eff": "cavalry",
+    "eff": [
+      "cavalry"
+    ],
     "restrictions": {
       "moves": {
         "can_use": [
@@ -104326,7 +105186,9 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "cavalry",
+    "eff": [
+      "cavalry"
+    ],
     "restrictions": {
       "moves": {
         "can_use": [
@@ -104354,7 +105216,9 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "cavalry",
+    "eff": [
+      "cavalry"
+    ],
     "restrictions": {
       "moves": {
         "can_use": [
@@ -104687,7 +105551,9 @@
     "sp": 200,
     "tier": 3,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -104716,7 +105582,9 @@
     "sp": 300,
     "tier": 4,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -104742,7 +105610,9 @@
     "sp": 400,
     "tier": 4,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -104771,7 +105641,9 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -105069,7 +105941,9 @@
     "is_prf": true,
     "sp": 400,
     "tier": 4,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -105119,7 +105993,10 @@
     "sp": 400,
     "tier": 4,
     "cd": 0,
-    "eff": "armored,cavalry",
+    "eff": [
+      "armored",
+      "cavalry"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -105148,7 +106025,10 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "armored,cavalry",
+    "eff": [
+      "armored",
+      "cavalry"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -105339,7 +106219,9 @@
     "is_prf": true,
     "sp": 400,
     "tier": 4,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -105389,7 +106271,9 @@
     "sp": 400,
     "tier": 1,
     "cd": 0,
-    "eff": "cavalry",
+    "eff": [
+      "cavalry"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -105415,7 +106299,9 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "cavalry",
+    "eff": [
+      "cavalry"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -105438,7 +106324,9 @@
     "sp": 400,
     "tier": 4,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -105467,7 +106355,9 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -107517,7 +108407,9 @@
     "sp": 400,
     "tier": 1,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -107543,7 +108435,9 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -108347,7 +109241,9 @@
     "is_prf": true,
     "sp": 400,
     "tier": 4,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -108441,7 +109337,9 @@
     "is_prf": true,
     "sp": 400,
     "tier": 4,
-    "eff": "dragonstone",
+    "eff": [
+      "dragonstone"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -108695,7 +109593,9 @@
     "sp": 0,
     "tier": 1,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -108986,7 +109886,9 @@
     "sp": 200,
     "tier": 3,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -109015,7 +109917,9 @@
     "sp": 300,
     "tier": 4,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -110623,7 +111527,9 @@
     "sp": 400,
     "tier": 1,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -110649,7 +111555,9 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -110672,7 +111580,9 @@
     "sp": 400,
     "tier": 4,
     "cd": 0,
-    "eff": "dragon",
+    "eff": [
+      "dragon"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -110701,7 +111611,9 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "dragon",
+    "eff": [
+      "dragon"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -110896,7 +111808,9 @@
     "sp": 400,
     "tier": 1,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -110922,7 +111836,9 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -111099,7 +112015,9 @@
     "sp": 200,
     "tier": 3,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -111128,7 +112046,9 @@
     "sp": 300,
     "tier": 4,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -111304,7 +112224,9 @@
     "is_prf": true,
     "sp": 400,
     "tier": 4,
-    "eff": "armored",
+    "eff": [
+      "armored"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -111332,7 +112254,9 @@
     "sp": 400,
     "tier": 1,
     "refine": "skill1",
-    "eff": "armored",
+    "eff": [
+      "armored"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -111794,7 +112718,10 @@
     "sp": 400,
     "tier": 4,
     "cd": 0,
-    "eff": "armored,flying",
+    "eff": [
+      "armored",
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -111823,7 +112750,10 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "armored,flying",
+    "eff": [
+      "armored",
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -111953,7 +112883,9 @@
     "sp": 400,
     "tier": 4,
     "cd": 0,
-    "eff": "cavalry",
+    "eff": [
+      "cavalry"
+    ],
     "restrictions": {
       "moves": {
         "can_use": [
@@ -112544,7 +113476,9 @@
     "sp": 200,
     "tier": 3,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -112573,7 +113507,9 @@
     "sp": 300,
     "tier": 4,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -112649,7 +113585,9 @@
     "sp": 200,
     "tier": 3,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -112678,7 +113616,9 @@
     "sp": 300,
     "tier": 4,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -112796,7 +113736,9 @@
     "sp": 400,
     "tier": 1,
     "cd": 0,
-    "eff": "armored",
+    "eff": [
+      "armored"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -112822,7 +113764,9 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "armored",
+    "eff": [
+      "armored"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -113199,7 +114143,9 @@
     "is_prf": true,
     "sp": 400,
     "tier": 4,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -113227,7 +114173,9 @@
     "sp": 400,
     "tier": 1,
     "refine": "skill1",
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -113401,7 +114349,9 @@
     "is_prf": true,
     "sp": 400,
     "tier": 4,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -113429,7 +114379,9 @@
     "sp": 400,
     "tier": 1,
     "refine": "skill1",
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -113605,7 +114557,10 @@
     "sp": 400,
     "tier": 1,
     "cd": 0,
-    "eff": "armored,cavalry",
+    "eff": [
+      "armored",
+      "cavalry"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -113631,7 +114586,10 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "armored,cavalry",
+    "eff": [
+      "armored",
+      "cavalry"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -113654,7 +114612,10 @@
     "sp": 400,
     "tier": 4,
     "cd": 0,
-    "eff": "armored,cavalry",
+    "eff": [
+      "armored",
+      "cavalry"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -113683,7 +114644,10 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "armored,cavalry",
+    "eff": [
+      "armored",
+      "cavalry"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -115155,7 +116119,9 @@
     "sp": 200,
     "tier": 3,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -115184,7 +116150,9 @@
     "sp": 300,
     "tier": 4,
     "cd": 0,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -115369,7 +116337,9 @@
     "is_prf": true,
     "sp": 400,
     "tier": 4,
-    "eff": "flying",
+    "eff": [
+      "flying"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -115506,7 +116476,9 @@
     "sp": 200,
     "tier": 3,
     "cd": 0,
-    "eff": "cavalry",
+    "eff": [
+      "cavalry"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -115535,7 +116507,9 @@
     "sp": 300,
     "tier": 4,
     "cd": 0,
-    "eff": "cavalry",
+    "eff": [
+      "cavalry"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -115564,7 +116538,9 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "cavalry",
+    "eff": [
+      "cavalry"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -115587,7 +116563,9 @@
     "sp": 400,
     "tier": 4,
     "cd": 0,
-    "eff": "armored",
+    "eff": [
+      "armored"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -115616,7 +116594,9 @@
     "tier": 1,
     "refine": "skill1",
     "cd": 0,
-    "eff": "armored",
+    "eff": [
+      "armored"
+    ],
     "restrictions": {
       "moves": {
         "none": true
