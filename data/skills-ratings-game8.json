@@ -1,17 +1,17 @@
 [
   {
     "id": "SID_鉄の剣",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_鋼の剣",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_銀の剣",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "id": "SID_勇者の剣",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -31,7 +31,7 @@
   },
   {
     "id": "SID_旭日の剣",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -41,7 +41,7 @@
   },
   {
     "id": "SID_キルソード",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -51,7 +51,7 @@
   },
   {
     "id": "SID_キルソード2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -61,7 +61,7 @@
   },
   {
     "id": "SID_アーマーキラー",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -71,7 +71,7 @@
   },
   {
     "id": "SID_アーマーキラー2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -81,7 +81,7 @@
   },
   {
     "id": "SID_斬馬刀",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -91,7 +91,7 @@
   },
   {
     "id": "SID_倭刀",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -101,7 +101,7 @@
   },
   {
     "id": "SID_火薙ぎの剣",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -111,7 +111,7 @@
   },
   {
     "id": "SID_守りの剣",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -121,7 +121,7 @@
   },
   {
     "id": "SID_バリアの剣",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -131,7 +131,7 @@
   },
   {
     "id": "SID_キャンセルの剣",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -141,7 +141,7 @@
   },
   {
     "id": "SID_孤絶の剣",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -161,7 +161,7 @@
   },
   {
     "id": "SID_迎春の剣",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -171,7 +171,7 @@
   },
   {
     "id": "SID_祝祭の剣",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -181,7 +181,7 @@
   },
   {
     "id": "SID_ケーキナイフ",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -191,7 +191,7 @@
   },
   {
     "id": "SID_砂浜のスコップ",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -201,7 +201,7 @@
   },
   {
     "id": "SID_日傘",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -211,7 +211,7 @@
   },
   {
     "id": "SID_聖鈴の剣",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -221,7 +221,7 @@
   },
   {
     "id": "SID_ブーケのステッキ",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -231,7 +231,7 @@
   },
   {
     "id": "SID_人参風の装飾",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -241,7 +241,7 @@
   },
   {
     "id": "SID_花嫁の護刀",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -701,7 +701,7 @@
   },
   {
     "id": "SID_護衛の剣",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -711,7 +711,7 @@
   },
   {
     "id": "SID_瞬撃の剣",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -736,7 +736,7 @@
   },
   {
     "id": "SID_冬祭のレイピア",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -746,7 +746,7 @@
   },
   {
     "id": "SID_牽制の剣",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -776,7 +776,7 @@
   },
   {
     "id": "SID_士気旺盛の剣",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -786,7 +786,7 @@
   },
   {
     "id": "SID_共闘の剣",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -796,7 +796,7 @@
   },
   {
     "id": "SID_禿鷹の剣",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -811,7 +811,7 @@
   },
   {
     "id": "SID_珊瑚の剣",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -821,7 +821,7 @@
   },
   {
     "id": "SID_正々堂々の剣",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -831,7 +831,7 @@
   },
   {
     "id": "SID_薔薇のステッキ",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -851,7 +851,7 @@
   },
   {
     "id": "SID_炎の軍配",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -881,7 +881,7 @@
   },
   {
     "id": "SID_竜忍の剣",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -901,7 +901,7 @@
   },
   {
     "id": "SID_桜と薔薇の刀",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -946,7 +946,7 @@
   },
   {
     "id": "SID_花嫁の剣",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -976,7 +976,7 @@
   },
   {
     "id": "SID_守備逆用の剣",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -1001,7 +1001,7 @@
   },
   {
     "id": "SID_守護の剣",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -1016,7 +1016,7 @@
   },
   {
     "id": "SID_農具",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -1046,7 +1046,7 @@
   },
   {
     "id": "SID_見切り追撃の剣",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -1071,7 +1071,7 @@
   },
   {
     "id": "SID_強化反転の剣",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -1131,7 +1131,7 @@
   },
   {
     "id": "SID_強化増幅の剣",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -1151,7 +1151,7 @@
   },
   {
     "id": "SID_継戦の剣",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -1181,7 +1181,7 @@
   },
   {
     "id": "SID_魔刃の剣",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -1211,7 +1211,7 @@
   },
   {
     "id": "SID_忍の刀",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -1221,7 +1221,7 @@
   },
   {
     "id": "SID_金運の弓",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -1231,7 +1231,7 @@
   },
   {
     "id": "SID_お大尽の弓",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -1241,7 +1241,7 @@
   },
   {
     "id": "SID_サンゴの弓",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -1251,7 +1251,7 @@
   },
   {
     "id": "SID_舵の弓",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -1271,7 +1271,7 @@
   },
   {
     "id": "SID_忍の和弓",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -1306,7 +1306,7 @@
   },
   {
     "id": "SID_禿鷹の弓",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -1316,7 +1316,7 @@
   },
   {
     "id": "SID_ハープの弓",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -1331,7 +1331,7 @@
   },
   {
     "id": "SID_赤いアヒル",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -1341,7 +1341,7 @@
   },
   {
     "id": "SID_天馬のニンジン",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -1351,7 +1351,7 @@
   },
   {
     "id": "SID_葉の扇",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -1361,7 +1361,7 @@
   },
   {
     "id": "SID_手毬",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -1381,7 +1381,7 @@
   },
   {
     "id": "SID_白兎の卵",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -1396,7 +1396,7 @@
   },
   {
     "id": "SID_攻防の暗器",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -1411,7 +1411,7 @@
   },
   {
     "id": "SID_合力の暗器",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -1431,17 +1431,17 @@
   },
   {
     "id": "SID_ファイアー",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_エルファイアー",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_ボルガノン",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -1451,17 +1451,17 @@
   },
   {
     "id": "SID_ミィル",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_ルイン",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_ノスフェラート",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -1471,7 +1471,7 @@
   },
   {
     "id": "SID_スレッダラウア",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -1481,7 +1481,7 @@
   },
   {
     "id": "SID_ナートラウア",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -1491,7 +1491,7 @@
   },
   {
     "id": "SID_ウルファラウア",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -1501,7 +1501,7 @@
   },
   {
     "id": "SID_ラウアウルフ2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -1511,7 +1511,7 @@
   },
   {
     "id": "SID_ラウアアウル",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -1521,7 +1521,7 @@
   },
   {
     "id": "SID_トマトの本",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -1531,7 +1531,7 @@
   },
   {
     "id": "SID_燭台",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -1541,7 +1541,7 @@
   },
   {
     "id": "SID_花輪",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -1551,7 +1551,7 @@
   },
   {
     "id": "SID_ラウアフォックス",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -1561,7 +1561,7 @@
   },
   {
     "id": "SID_ラウアサーペント",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -1571,7 +1571,7 @@
   },
   {
     "id": "SID_ほら貝のブーケ",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -1581,7 +1581,7 @@
   },
   {
     "id": "SID_平和の花",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -1781,7 +1781,7 @@
   },
   {
     "id": "SID_フローズンパフェ",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -1796,7 +1796,7 @@
   },
   {
     "id": "SID_ラウアラビット",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -1816,7 +1816,7 @@
   },
   {
     "id": "SID_聖祭の光炎",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -1841,7 +1841,7 @@
   },
   {
     "id": "SID_ラウアバルチャー",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -1856,7 +1856,7 @@
   },
   {
     "id": "SID_花嫁のカトレア",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -1916,7 +1916,7 @@
   },
   {
     "id": "SID_エンゲージリング",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -1931,7 +1931,7 @@
   },
   {
     "id": "SID_カボチャステッキ",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -1941,7 +1941,7 @@
   },
   {
     "id": "SID_ラウアディア",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -1966,7 +1966,7 @@
   },
   {
     "id": "SID_ナバタの燭台",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -1976,7 +1976,7 @@
   },
   {
     "id": "SID_愛の祭の花籠",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -1996,7 +1996,7 @@
   },
   {
     "id": "SID_ラウアランタン",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -2036,7 +2036,7 @@
   },
   {
     "id": "SID_ラウアクラブ",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -2066,7 +2066,7 @@
   },
   {
     "id": "SID_花嫁の花束",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -2076,17 +2076,17 @@
   },
   {
     "id": "SID_火のブレス",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_火炎のブレス",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_灼熱のブレス",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -2096,7 +2096,7 @@
   },
   {
     "id": "SID_黒夜のブレス",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -2106,7 +2106,7 @@
   },
   {
     "id": "SID_仄明のブレス",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -2121,7 +2121,7 @@
   },
   {
     "id": "SID_提灯の竜石",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -2151,7 +2151,7 @@
   },
   {
     "id": "SID_辰年の御子の竜石",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -2216,17 +2216,17 @@
   },
   {
     "id": "SID_幼獣の化身・飛行",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_若獣の化身・飛行",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_成獣の化身・飛行",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -2301,17 +2301,17 @@
   },
   {
     "id": "SID_鉄の槍",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_鋼の槍",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_銀の槍",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -2321,7 +2321,7 @@
   },
   {
     "id": "SID_勇者の槍",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -2331,7 +2331,7 @@
   },
   {
     "id": "SID_蒼海の槍",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -2341,7 +2341,7 @@
   },
   {
     "id": "SID_キラーランス",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -2351,7 +2351,7 @@
   },
   {
     "id": "SID_キラーランス2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -2361,7 +2361,7 @@
   },
   {
     "id": "SID_貫きの槍",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -2371,7 +2371,7 @@
   },
   {
     "id": "SID_貫きの槍2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -2381,7 +2381,7 @@
   },
   {
     "id": "SID_ホースキラー",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -2391,7 +2391,7 @@
   },
   {
     "id": "SID_火薙ぎの槍",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -2401,7 +2401,7 @@
   },
   {
     "id": "SID_倭鉾",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -2411,7 +2411,7 @@
   },
   {
     "id": "SID_反攻の槍",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -2421,7 +2421,7 @@
   },
   {
     "id": "SID_守りの槍",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -2431,7 +2431,7 @@
   },
   {
     "id": "SID_バリアの槍",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -2441,7 +2441,7 @@
   },
   {
     "id": "SID_キャンセルの槍",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -2451,7 +2451,7 @@
   },
   {
     "id": "SID_士気旺盛の槍",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -2461,7 +2461,7 @@
   },
   {
     "id": "SID_瞬撃の槍",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -2471,7 +2471,7 @@
   },
   {
     "id": "SID_ニンジンの槍",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -2481,7 +2481,7 @@
   },
   {
     "id": "SID_ファーストバイト",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -2491,7 +2491,7 @@
   },
   {
     "id": "SID_魚を突いた銛",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -2511,7 +2511,7 @@
   },
   {
     "id": "SID_カサブランカ",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -2521,7 +2521,7 @@
   },
   {
     "id": "SID_貝殻の槍",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -2531,7 +2531,7 @@
   },
   {
     "id": "SID_ベルクトの槍",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -2541,7 +2541,7 @@
   },
   {
     "id": "SID_和傘",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -2551,7 +2551,7 @@
   },
   {
     "id": "SID_のれん",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -2561,7 +2561,7 @@
   },
   {
     "id": "SID_緋閃のニンジン槍",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -2571,7 +2571,7 @@
   },
   {
     "id": "SID_行楽の飾り槍",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -2581,7 +2581,7 @@
   },
   {
     "id": "SID_フラワースタンド",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -2591,7 +2591,7 @@
   },
   {
     "id": "SID_黄金のフォーク",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -2601,7 +2601,7 @@
   },
   {
     "id": "SID_風見鶏の槍",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -2611,7 +2611,7 @@
   },
   {
     "id": "SID_高貴な燭台",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -2621,7 +2621,7 @@
   },
   {
     "id": "SID_忍の槍",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -2631,7 +2631,7 @@
   },
   {
     "id": "SID_キャンディケイン",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -2641,7 +2641,7 @@
   },
   {
     "id": "SID_春兎の槍",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -2981,7 +2981,7 @@
   },
   {
     "id": "SID_トライデント",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -3001,7 +3001,7 @@
   },
   {
     "id": "SID_護衛の槍",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -3026,7 +3026,7 @@
   },
   {
     "id": "SID_堅固の槍",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -3036,7 +3036,7 @@
   },
   {
     "id": "SID_忍の薙刀",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -3051,7 +3051,7 @@
   },
   {
     "id": "SID_孤絶の槍",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -3086,7 +3086,7 @@
   },
   {
     "id": "SID_春花の槍",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -3096,7 +3096,7 @@
   },
   {
     "id": "SID_共闘の槍",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -3111,7 +3111,7 @@
   },
   {
     "id": "SID_花嫁の向日葵",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -3151,7 +3151,7 @@
   },
   {
     "id": "SID_牽制の槍",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -3161,7 +3161,7 @@
   },
   {
     "id": "SID_守備逆用の槍",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -3181,7 +3181,7 @@
   },
   {
     "id": "SID_禿鷹の槍",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -3221,7 +3221,7 @@
   },
   {
     "id": "SID_黒兎の槍",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -3236,7 +3236,7 @@
   },
   {
     "id": "SID_正々堂々の槍",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -3246,7 +3246,7 @@
   },
   {
     "id": "SID_守護の槍",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -3321,7 +3321,7 @@
   },
   {
     "id": "SID_白夜忍の薙刀",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -3346,7 +3346,7 @@
   },
   {
     "id": "SID_ナバタの槍",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -3391,7 +3391,7 @@
   },
   {
     "id": "SID_見切り追撃の槍",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -3421,7 +3421,7 @@
   },
   {
     "id": "SID_追撃の槍",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -3471,7 +3471,7 @@
   },
   {
     "id": "SID_強化反転の槍",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -3481,7 +3481,7 @@
   },
   {
     "id": "SID_強化増幅の槍",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -3491,7 +3491,7 @@
   },
   {
     "id": "SID_継戦の槍",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -3511,7 +3511,7 @@
   },
   {
     "id": "SID_ジャハナの槍",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -3541,7 +3541,7 @@
   },
   {
     "id": "SID_コウモリの弓",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -3551,7 +3551,7 @@
   },
   {
     "id": "SID_高貴な弓",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -3561,7 +3561,7 @@
   },
   {
     "id": "SID_トナカイの弓",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -3571,7 +3571,7 @@
   },
   {
     "id": "SID_白波の弓",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -3596,7 +3596,7 @@
   },
   {
     "id": "SID_白き風の弓",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -3661,7 +3661,7 @@
   },
   {
     "id": "SID_青天の舞扇",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -3706,17 +3706,17 @@
   },
   {
     "id": "SID_サンダー",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_エルサンダー",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_トロン",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -3726,17 +3726,17 @@
   },
   {
     "id": "SID_ライト",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_エルライト",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_シャイン",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -3746,7 +3746,7 @@
   },
   {
     "id": "SID_スレッダブラー",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -3756,7 +3756,7 @@
   },
   {
     "id": "SID_ナートブラー",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -3766,7 +3766,7 @@
   },
   {
     "id": "SID_ウルファブラー",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -3776,7 +3776,7 @@
   },
   {
     "id": "SID_ブラーウルフ2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -3786,7 +3786,7 @@
   },
   {
     "id": "SID_ブラーアウル",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -3796,7 +3796,7 @@
   },
   {
     "id": "SID_ブラーサーペント",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -3806,7 +3806,7 @@
   },
   {
     "id": "SID_ブラーフォックス",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -3826,7 +3826,7 @@
   },
   {
     "id": "SID_聖なるブーケ",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -3836,7 +3836,7 @@
   },
   {
     "id": "SID_熱帯魚の本",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -3846,7 +3846,7 @@
   },
   {
     "id": "SID_楽譜",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -3856,7 +3856,7 @@
   },
   {
     "id": "SID_青のプレゼント箱",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -3866,7 +3866,7 @@
   },
   {
     "id": "SID_清らかなブーケ",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -3876,7 +3876,7 @@
   },
   {
     "id": "SID_南国のジュース",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -3886,7 +3886,7 @@
   },
   {
     "id": "SID_青の花かご",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -3896,7 +3896,7 @@
   },
   {
     "id": "SID_祝杯のボトル",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -3906,7 +3906,7 @@
   },
   {
     "id": "SID_銀のゴブレット",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -3916,7 +3916,7 @@
   },
   {
     "id": "SID_カボチャの行灯",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -3926,7 +3926,7 @@
   },
   {
     "id": "SID_小さな聖樹",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -3936,7 +3936,7 @@
   },
   {
     "id": "SID_植物図鑑",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -3946,7 +3946,7 @@
   },
   {
     "id": "SID_約束の花",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -3956,7 +3956,7 @@
   },
   {
     "id": "SID_愛情のブーケ",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -3966,7 +3966,7 @@
   },
   {
     "id": "SID_ブラーラビット",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -3976,7 +3976,7 @@
   },
   {
     "id": "SID_聖祭の風光",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -4001,7 +4001,7 @@
   },
   {
     "id": "SID_ブラーライオン",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -4066,7 +4066,7 @@
   },
   {
     "id": "SID_魔道のランタン",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -4086,7 +4086,7 @@
   },
   {
     "id": "SID_硝子の小鉢",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -4111,7 +4111,7 @@
   },
   {
     "id": "SID_ブラーディア",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -4211,7 +4211,7 @@
   },
   {
     "id": "SID_ブラーバルチャー",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -4261,7 +4261,7 @@
   },
   {
     "id": "SID_愛の祭の祝杯",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -4371,7 +4371,7 @@
   },
   {
     "id": "SID_闇のブレス",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -4381,7 +4381,7 @@
   },
   {
     "id": "SID_雷のブレス",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -4481,7 +4481,7 @@
   },
   {
     "id": "SID_辰年の幼姫の竜石",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -4496,7 +4496,7 @@
   },
   {
     "id": "SID_氷竜の竜石",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -4526,32 +4526,32 @@
   },
   {
     "id": "SID_幼獣の化身・騎馬",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_幼獣の化身・歩行",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_若獣の化身・騎馬",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_若獣の化身・歩行",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_成獣の化身・歩行",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_成獣の化身・騎馬",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -4656,17 +4656,17 @@
   },
   {
     "id": "SID_鉄の斧",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_鋼の斧",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_銀の斧",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -4676,7 +4676,7 @@
   },
   {
     "id": "SID_勇者の斧",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -4686,7 +4686,7 @@
   },
   {
     "id": "SID_深緑の斧",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -4696,7 +4696,7 @@
   },
   {
     "id": "SID_キラーアクス",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -4706,7 +4706,7 @@
   },
   {
     "id": "SID_キラーアクス2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -4716,7 +4716,7 @@
   },
   {
     "id": "SID_ハンマー",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -4726,7 +4726,7 @@
   },
   {
     "id": "SID_ハンマー2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -4736,7 +4736,7 @@
   },
   {
     "id": "SID_ポールアクス",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -4746,7 +4746,7 @@
   },
   {
     "id": "SID_ローローの斧",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -4756,7 +4756,7 @@
   },
   {
     "id": "SID_倭棍",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -4766,7 +4766,7 @@
   },
   {
     "id": "SID_火薙ぎの斧",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -4776,7 +4776,7 @@
   },
   {
     "id": "SID_守りの斧",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -4786,7 +4786,7 @@
   },
   {
     "id": "SID_キャンセルの斧",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -4796,7 +4796,7 @@
   },
   {
     "id": "SID_バリアの斧",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -4806,7 +4806,7 @@
   },
   {
     "id": "SID_反攻の斧",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -4816,7 +4816,7 @@
   },
   {
     "id": "SID_護衛の斧",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -4826,7 +4826,7 @@
   },
   {
     "id": "SID_ニンジンの斧",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -4836,7 +4836,7 @@
   },
   {
     "id": "SID_スイカ割りの棍棒",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -4846,7 +4846,7 @@
   },
   {
     "id": "SID_リリスの浮き輪",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -4856,7 +4856,7 @@
   },
   {
     "id": "SID_ハンドベル",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -4886,7 +4886,7 @@
   },
   {
     "id": "SID_ビッグスプーン",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -4896,7 +4896,7 @@
   },
   {
     "id": "SID_愛のケーキサーバ",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -4906,7 +4906,7 @@
   },
   {
     "id": "SID_ビーチフラッグ",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -4916,7 +4916,7 @@
   },
   {
     "id": "SID_カボチャの斧",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -4926,7 +4926,7 @@
   },
   {
     "id": "SID_祝祭の斧",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -4936,7 +4936,7 @@
   },
   {
     "id": "SID_砂浜のクワ",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -4946,7 +4946,7 @@
   },
   {
     "id": "SID_大きな扇子",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -4956,7 +4956,7 @@
   },
   {
     "id": "SID_デッキブラシ",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -4966,7 +4966,7 @@
   },
   {
     "id": "SID_ペレジアの斧",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -4976,7 +4976,7 @@
   },
   {
     "id": "SID_春兎の斧",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -4986,7 +4986,7 @@
   },
   {
     "id": "SID_結婚式の燭台",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -4996,7 +4996,7 @@
   },
   {
     "id": "SID_カツオ",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -5016,7 +5016,7 @@
   },
   {
     "id": "SID_忍の斧",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -5031,7 +5031,7 @@
   },
   {
     "id": "SID_操舵の斧",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -5046,7 +5046,7 @@
   },
   {
     "id": "SID_瞬撃の斧",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -5066,7 +5066,7 @@
   },
   {
     "id": "SID_孤絶の斧",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -5321,7 +5321,7 @@
   },
   {
     "id": "SID_忍の三叉斧",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -5341,7 +5341,7 @@
   },
   {
     "id": "SID_士気旺盛の斧",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -5361,7 +5361,7 @@
   },
   {
     "id": "SID_牽制の斧",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -5401,7 +5401,7 @@
   },
   {
     "id": "SID_竜の落とし子の斧",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -5411,7 +5411,7 @@
   },
   {
     "id": "SID_禿鷹の斧",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -5421,7 +5421,7 @@
   },
   {
     "id": "SID_堅固の斧",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -5466,7 +5466,7 @@
   },
   {
     "id": "SID_桜と薔薇の花瓶",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -5476,7 +5476,7 @@
   },
   {
     "id": "SID_守備逆用の斧",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -5496,7 +5496,7 @@
   },
   {
     "id": "SID_共闘の斧",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -5521,7 +5521,7 @@
   },
   {
     "id": "SID_木の漁具",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -5536,7 +5536,7 @@
   },
   {
     "id": "SID_風の部族の金棒",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -5581,7 +5581,7 @@
   },
   {
     "id": "SID_愛の祭の斧",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -5616,7 +5616,7 @@
   },
   {
     "id": "SID_南国のホラ貝",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -5626,7 +5626,7 @@
   },
   {
     "id": "SID_錨の斧",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -5676,7 +5676,7 @@
   },
   {
     "id": "SID_正々堂々の斧",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -5696,7 +5696,7 @@
   },
   {
     "id": "SID_追撃の斧",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -5716,7 +5716,7 @@
   },
   {
     "id": "SID_春光の斧",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -5741,7 +5741,7 @@
   },
   {
     "id": "SID_鏑矢",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -5751,7 +5751,7 @@
   },
   {
     "id": "SID_大漁の弓",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -5761,7 +5761,7 @@
   },
   {
     "id": "SID_春兎の弓",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -5806,7 +5806,7 @@
   },
   {
     "id": "SID_白夜忍の和弓",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -5851,7 +5851,7 @@
   },
   {
     "id": "SID_果汁のボトル",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -5861,7 +5861,7 @@
   },
   {
     "id": "SID_緑雲の舞扇",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -5871,7 +5871,7 @@
   },
   {
     "id": "SID_神泉の風呂桶",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -5881,7 +5881,7 @@
   },
   {
     "id": "SID_冬祭のステッキ",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -5891,7 +5891,7 @@
   },
   {
     "id": "SID_高貴な仮面",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -5901,7 +5901,7 @@
   },
   {
     "id": "SID_猛攻の暗器",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -5911,7 +5911,7 @@
   },
   {
     "id": "SID_鎧殺の暗器",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -5921,7 +5921,7 @@
   },
   {
     "id": "SID_薔薇のナイフ",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -5961,17 +5961,17 @@
   },
   {
     "id": "SID_ウインド",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_エルウインド",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_レクスカリバー",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -5981,7 +5981,7 @@
   },
   {
     "id": "SID_スレッダグラン",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -5991,7 +5991,7 @@
   },
   {
     "id": "SID_ナートグラン",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -6001,7 +6001,7 @@
   },
   {
     "id": "SID_ウルファグラン",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -6011,7 +6011,7 @@
   },
   {
     "id": "SID_グルンウルフ2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -6021,7 +6021,7 @@
   },
   {
     "id": "SID_グルンアウル",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -6031,7 +6031,7 @@
   },
   {
     "id": "SID_緑の卵",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -6041,7 +6041,7 @@
   },
   {
     "id": "SID_ハイビスカスの本",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -6051,7 +6051,7 @@
   },
   {
     "id": "SID_舞踏の輪",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -6071,7 +6071,7 @@
   },
   {
     "id": "SID_緑のプレゼント箱",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -6081,7 +6081,7 @@
   },
   {
     "id": "SID_緑の花かご",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -6091,7 +6091,7 @@
   },
   {
     "id": "SID_グルンサーペント",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -6101,7 +6101,7 @@
   },
   {
     "id": "SID_サラダサンド",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -6111,7 +6111,7 @@
   },
   {
     "id": "SID_海に浮かぶ板",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -6121,7 +6121,7 @@
   },
   {
     "id": "SID_フラスコ",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -6131,7 +6131,7 @@
   },
   {
     "id": "SID_メロンフロート",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -6141,7 +6141,7 @@
   },
   {
     "id": "SID_ペレジアの燭台",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -6151,7 +6151,7 @@
   },
   {
     "id": "SID_共感の花",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -6326,7 +6326,7 @@
   },
   {
     "id": "SID_グルンフォックス",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -6356,7 +6356,7 @@
   },
   {
     "id": "SID_スノードーム",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -6386,7 +6386,7 @@
   },
   {
     "id": "SID_グルンバルチャー",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -6411,7 +6411,7 @@
   },
   {
     "id": "SID_グルンラビット",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -6426,7 +6426,7 @@
   },
   {
     "id": "SID_聖夜のステッキ",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -6446,7 +6446,7 @@
   },
   {
     "id": "SID_グルンディア",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -6476,7 +6476,7 @@
   },
   {
     "id": "SID_ティーポット",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -6486,7 +6486,7 @@
   },
   {
     "id": "SID_お茶菓子",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -6546,7 +6546,7 @@
   },
   {
     "id": "SID_グルンランタン",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -6561,7 +6561,7 @@
   },
   {
     "id": "SID_春光の卵",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -6576,7 +6576,7 @@
   },
   {
     "id": "SID_光のブレス",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -6586,7 +6586,7 @@
   },
   {
     "id": "SID_水のブレス",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -6596,7 +6596,7 @@
   },
   {
     "id": "SID_綺羅星のブレス",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -6671,7 +6671,7 @@
   },
   {
     "id": "SID_一驚のブレス",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -6686,7 +6686,7 @@
   },
   {
     "id": "SID_竜石のブーケ",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -6776,12 +6776,12 @@
   },
   {
     "id": "SID_アサルト",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_アブゾーブ",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -6791,7 +6791,7 @@
   },
   {
     "id": "SID_フィアー",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -6801,7 +6801,7 @@
   },
   {
     "id": "SID_スロウ",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -6811,7 +6811,7 @@
   },
   {
     "id": "SID_グラビティ",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -6821,7 +6821,7 @@
   },
   {
     "id": "SID_パニック",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -6831,7 +6831,7 @@
   },
   {
     "id": "SID_ペイン",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -6841,7 +6841,7 @@
   },
   {
     "id": "SID_キャンドルサービス",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -6851,7 +6851,7 @@
   },
   {
     "id": "SID_トリレンマ",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -6861,7 +6861,7 @@
   },
   {
     "id": "SID_キャンディの杖",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -6871,7 +6871,7 @@
   },
   {
     "id": "SID_フラッシュ",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -6881,7 +6881,7 @@
   },
   {
     "id": "SID_ランタンの杖",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -6891,7 +6891,7 @@
   },
   {
     "id": "SID_熊手",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -6901,7 +6901,7 @@
   },
   {
     "id": "SID_孫の手",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -6911,7 +6911,7 @@
   },
   {
     "id": "SID_卵の杖",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -6921,7 +6921,7 @@
   },
   {
     "id": "SID_マシュマロの杖",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -6931,7 +6931,7 @@
   },
   {
     "id": "SID_メランコリー",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -6941,7 +6941,7 @@
   },
   {
     "id": "SID_友情の花の杖",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -6951,7 +6951,7 @@
   },
   {
     "id": "SID_ヤシの木の杖",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -6961,7 +6961,7 @@
   },
   {
     "id": "SID_聖樹の杖",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -6971,7 +6971,7 @@
   },
   {
     "id": "SID_立会人の杖",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -6991,7 +6991,7 @@
   },
   {
     "id": "SID_聖祭の杖",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -7036,7 +7036,7 @@
   },
   {
     "id": "SID_サンクチュアリ",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -7046,7 +7046,7 @@
   },
   {
     "id": "SID_エイド",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -7086,7 +7086,7 @@
   },
   {
     "id": "SID_インキュアブル",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -7096,7 +7096,7 @@
   },
   {
     "id": "SID_海辺の日傘",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -7126,7 +7126,7 @@
   },
   {
     "id": "SID_サンライト",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -7171,7 +7171,7 @@
   },
   {
     "id": "SID_花嫁の杖",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -7231,17 +7231,17 @@
   },
   {
     "id": "SID_鉄の弓",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_鋼の弓",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_銀の弓",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -7251,7 +7251,7 @@
   },
   {
     "id": "SID_勇者の弓",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -7261,7 +7261,7 @@
   },
   {
     "id": "SID_キラーボウ",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -7271,7 +7271,7 @@
   },
   {
     "id": "SID_暗器殺しの弓",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -7281,7 +7281,7 @@
   },
   {
     "id": "SID_火薙ぎの弓",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -7291,7 +7291,7 @@
   },
   {
     "id": "SID_キューピッドの矢",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -7301,7 +7301,7 @@
   },
   {
     "id": "SID_クライネの弓",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -7311,7 +7311,7 @@
   },
   {
     "id": "SID_氷菓子の弓",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -7321,7 +7321,7 @@
   },
   {
     "id": "SID_キラーボウ2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -7336,12 +7336,12 @@
   },
   {
     "id": "SID_骨の弓",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_遠距離防御の弓",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -7351,7 +7351,7 @@
   },
   {
     "id": "SID_破魔矢",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -7361,7 +7361,7 @@
   },
   {
     "id": "SID_グラーティア",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -7381,7 +7381,7 @@
   },
   {
     "id": "SID_魚の弓",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -7391,7 +7391,7 @@
   },
   {
     "id": "SID_シャイニングボウ",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -7401,7 +7401,7 @@
   },
   {
     "id": "SID_春の妖弓",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -7411,7 +7411,7 @@
   },
   {
     "id": "SID_祝福の花の弓",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -7421,7 +7421,7 @@
   },
   {
     "id": "SID_弦楽器の弓",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -7431,7 +7431,7 @@
   },
   {
     "id": "SID_ロウソクの弓",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -7441,7 +7441,7 @@
   },
   {
     "id": "SID_愛情の花の弓",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -7451,7 +7451,7 @@
   },
   {
     "id": "SID_ペレジアの弓",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -7461,7 +7461,7 @@
   },
   {
     "id": "SID_牽制の弓",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -7471,7 +7471,7 @@
   },
   {
     "id": "SID_向日葵の弓",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -7491,7 +7491,7 @@
   },
   {
     "id": "SID_瞬撃の弓",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -7506,7 +7506,7 @@
   },
   {
     "id": "SID_クリスマスツリー",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -7521,7 +7521,7 @@
   },
   {
     "id": "SID_春花の弓",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -7536,7 +7536,7 @@
   },
   {
     "id": "SID_竜忍の弓",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -7546,7 +7546,7 @@
   },
   {
     "id": "SID_孤絶の弓",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -7556,7 +7556,7 @@
   },
   {
     "id": "SID_聖夜の弓",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -7566,7 +7566,7 @@
   },
   {
     "id": "SID_守護の弓",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -7591,7 +7591,7 @@
   },
   {
     "id": "SID_守備逆用の弓",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -7611,7 +7611,7 @@
   },
   {
     "id": "SID_制止の弓",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -7621,7 +7621,7 @@
   },
   {
     "id": "SID_金鹿の聖夜の弓",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -7631,7 +7631,7 @@
   },
   {
     "id": "SID_ニンジンの弓",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -7641,7 +7641,7 @@
   },
   {
     "id": "SID_有利状態の弓",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -7651,7 +7651,7 @@
   },
   {
     "id": "SID_強化増幅の弓",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -7666,7 +7666,7 @@
   },
   {
     "id": "SID_射的の弓",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -7681,7 +7681,7 @@
   },
   {
     "id": "SID_巳年の弓",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -7836,7 +7836,7 @@
   },
   {
     "id": "SID_短弓",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -7846,17 +7846,17 @@
   },
   {
     "id": "SID_鉄の暗器",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_鋼の暗器",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_銀の暗器",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -7866,7 +7866,7 @@
   },
   {
     "id": "SID_紫煙の暗器",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -7876,7 +7876,7 @@
   },
   {
     "id": "SID_盗賊の暗器",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -7886,7 +7886,7 @@
   },
   {
     "id": "SID_秘毒の暗器",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -7896,7 +7896,7 @@
   },
   {
     "id": "SID_暗殺手裏剣",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -7906,7 +7906,7 @@
   },
   {
     "id": "SID_粛清の暗器",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -7916,7 +7916,7 @@
   },
   {
     "id": "SID_貝殻",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -7926,7 +7926,7 @@
   },
   {
     "id": "SID_扇子",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -7936,7 +7936,7 @@
   },
   {
     "id": "SID_猫の暗器",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -7956,7 +7956,7 @@
   },
   {
     "id": "SID_ベビーキャロット",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -7966,7 +7966,7 @@
   },
   {
     "id": "SID_ヒトデ",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -7976,7 +7976,7 @@
   },
   {
     "id": "SID_宵闇の団扇",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -7986,7 +7986,7 @@
   },
   {
     "id": "SID_冬祭のブーツ",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -7996,7 +7996,7 @@
   },
   {
     "id": "SID_巾着袋",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -8006,7 +8006,7 @@
   },
   {
     "id": "SID_南国の果実",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -8016,7 +8016,7 @@
   },
   {
     "id": "SID_貝殻のナイフ",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -8026,7 +8026,7 @@
   },
   {
     "id": "SID_びっくり箱",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -8036,7 +8036,7 @@
   },
   {
     "id": "SID_竜殺の暗器",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -8046,7 +8046,7 @@
   },
   {
     "id": "SID_花の髪飾り",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -8056,7 +8056,7 @@
   },
   {
     "id": "SID_騎殺の暗器",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -8161,7 +8161,7 @@
   },
   {
     "id": "SID_骨の暗器",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -8186,7 +8186,7 @@
   },
   {
     "id": "SID_毒煙の暗器",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -8231,7 +8231,7 @@
   },
   {
     "id": "SID_小さなスコップ",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -8241,7 +8241,7 @@
   },
   {
     "id": "SID_氷の暗器",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -8251,7 +8251,7 @@
   },
   {
     "id": "SID_有利状態の暗器",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -8261,7 +8261,7 @@
   },
   {
     "id": "SID_大手裏剣",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -8281,7 +8281,7 @@
   },
   {
     "id": "SID_ジャハナの暗器",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -8301,12 +8301,12 @@
   },
   {
     "id": "SID_ロック",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_エルロック",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -8351,7 +8351,7 @@
   },
   {
     "id": "SID_ヒータバルチャー",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -8426,7 +8426,7 @@
   },
   {
     "id": "SID_ヒータディア",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -8446,7 +8446,7 @@
   },
   {
     "id": "SID_南国の楽器",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -8456,7 +8456,7 @@
   },
   {
     "id": "SID_夏野菜の桶",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -8546,7 +8546,7 @@
   },
   {
     "id": "SID_幽静のブレス",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -8601,17 +8601,17 @@
   },
   {
     "id": "SID_幼獣の化身・重装",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_若獣の化身・重装",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_成獣の化身・重装",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -8701,22 +8701,22 @@
   },
   {
     "id": "SID_ライブ",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_リライブ",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_ヒール",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_リカバー",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -8726,7 +8726,7 @@
   },
   {
     "id": "SID_リブロー",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -8736,7 +8736,7 @@
   },
   {
     "id": "SID_セインツ",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -8746,7 +8746,7 @@
   },
   {
     "id": "SID_リバース",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -8756,7 +8756,7 @@
   },
   {
     "id": "SID_レスト",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -8766,7 +8766,7 @@
   },
   {
     "id": "SID_レスキュー",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -8776,7 +8776,7 @@
   },
   {
     "id": "SID_リターン",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -8786,7 +8786,7 @@
   },
   {
     "id": "SID_プッシュ",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -8796,7 +8796,7 @@
   },
   {
     "id": "SID_マジックシールド",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -8806,7 +8806,7 @@
   },
   {
     "id": "SID_アイスロック",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -8896,7 +8896,7 @@
   },
   {
     "id": "SID_攻撃の大応援",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -8906,7 +8906,7 @@
   },
   {
     "id": "SID_速さの大応援",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -8916,7 +8916,7 @@
   },
   {
     "id": "SID_守備の大応援",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -8926,7 +8926,7 @@
   },
   {
     "id": "SID_魔防の大応援",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -9156,7 +9156,7 @@
   },
   {
     "id": "SID_蛍火",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -9171,7 +9171,7 @@
   },
   {
     "id": "SID_氷点",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -9236,7 +9236,7 @@
   },
   {
     "id": "SID_影月",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -9256,7 +9256,7 @@
   },
   {
     "id": "SID_伏竜",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -9291,7 +9291,7 @@
   },
   {
     "id": "SID_星影",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -9331,7 +9331,7 @@
   },
   {
     "id": "SID_雪辱",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -9346,7 +9346,7 @@
   },
   {
     "id": "SID_陽影",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -9366,22 +9366,22 @@
   },
   {
     "id": "SID_砕光",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_砕火",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_砕雷",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_砕風",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -9426,7 +9426,7 @@
   },
   {
     "id": "SID_小盾",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -9441,7 +9441,7 @@
   },
   {
     "id": "SID_聖衣",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -9506,7 +9506,7 @@
   },
   {
     "id": "SID_業火疾風の祝福",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -9516,7 +9516,7 @@
   },
   {
     "id": "SID_業火大地の祝福",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -9526,7 +9526,7 @@
   },
   {
     "id": "SID_業火静水の祝福",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -9541,12 +9541,12 @@
   },
   {
     "id": "SID_疾風静水の祝福",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_大地静水の祝福",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -9571,7 +9571,7 @@
   },
   {
     "id": "SID_疾風大地の祝福",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -9941,12 +9941,12 @@
   },
   {
     "id": "SID_守備魔防の防城戦1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_守備魔防の防城戦2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -9956,12 +9956,12 @@
   },
   {
     "id": "SID_攻撃守備の攻城戦1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃守備の攻城戦2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -9971,12 +9971,12 @@
   },
   {
     "id": "SID_攻撃守備の防城戦1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃守備の防城戦2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -9986,22 +9986,22 @@
   },
   {
     "id": "SID_攻撃速さの攻城戦1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃速さの防城戦1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃速さの攻城戦2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃速さの防城戦2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -10016,7 +10016,7 @@
   },
   {
     "id": "SID_攻撃魔防の防城戦1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -10026,7 +10026,7 @@
   },
   {
     "id": "SID_攻撃魔防の防城戦2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -10041,12 +10041,12 @@
   },
   {
     "id": "SID_速さ守備の防城戦1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_速さ守備の防城戦2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -10056,12 +10056,12 @@
   },
   {
     "id": "SID_速さ魔防の攻城戦1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_速さ魔防の攻城戦2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -10071,12 +10071,12 @@
   },
   {
     "id": "SID_速さ魔防の防城戦1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_速さ魔防の防城戦2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -10136,17 +10136,17 @@
   },
   {
     "id": "SID_蒼穹1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_蒼穹2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_蒼穹3",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -10181,12 +10181,12 @@
   },
   {
     "id": "SID_相性激化1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_相性激化2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -10196,12 +10196,12 @@
   },
   {
     "id": "SID_剛剣1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_剛剣2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -10211,22 +10211,22 @@
   },
   {
     "id": "SID_柔剣1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_柔剣2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_柔剣3",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_強化増幅1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -10246,12 +10246,12 @@
   },
   {
     "id": "SID_魔道の刃1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_魔道の刃2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -10356,17 +10356,17 @@
   },
   {
     "id": "SID_攻撃速さの備え1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃速さの備え2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃速さの備え3",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -10376,17 +10376,17 @@
   },
   {
     "id": "SID_攻撃守備の備え1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃守備の備え2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃守備の備え3",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -10396,17 +10396,17 @@
   },
   {
     "id": "SID_速さ守備の備え1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_速さ守備の備え2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_速さ守備の備え3",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -10416,12 +10416,12 @@
   },
   {
     "id": "SID_緑の死闘・歩行1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_緑の死闘・歩行2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -10431,7 +10431,7 @@
   },
   {
     "id": "SID_赤の死闘・飛行1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -10441,7 +10441,7 @@
   },
   {
     "id": "SID_赤の死闘・飛行2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -10451,12 +10451,12 @@
   },
   {
     "id": "SID_無の死闘・歩行1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_無の死闘・歩行2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -10466,27 +10466,27 @@
   },
   {
     "id": "SID_赤の死闘・騎馬1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_青の死闘・飛行1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_赤の死闘・騎馬2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_青の死闘・飛行2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_赤の死闘・騎馬3",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -10506,12 +10506,12 @@
   },
   {
     "id": "SID_緑の死闘・飛行1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_緑の死闘・飛行2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -10531,22 +10531,22 @@
   },
   {
     "id": "SID_赤の死闘・歩行2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_赤の死闘・歩行1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_青の死闘・歩行1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_青の死闘・歩行2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -10566,17 +10566,17 @@
   },
   {
     "id": "SID_無の死闘・騎馬1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_無の死闘・騎馬2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_無の死闘・騎馬3",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -10591,17 +10591,17 @@
   },
   {
     "id": "SID_青の死闘・騎馬1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_青の死闘・騎馬2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_青の死闘・騎馬3",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -10616,17 +10616,17 @@
   },
   {
     "id": "SID_緑の死闘・騎馬1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_緑の死闘・騎馬2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_緑の死闘・騎馬3",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -10636,17 +10636,17 @@
   },
   {
     "id": "SID_無の死闘・飛行1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_無の死闘・飛行2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_無の死闘・飛行3",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -10656,12 +10656,12 @@
   },
   {
     "id": "SID_HP1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_HP2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -10671,12 +10671,12 @@
   },
   {
     "id": "SID_攻撃1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -10686,12 +10686,12 @@
   },
   {
     "id": "SID_速さ1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_速さ2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -10701,12 +10701,12 @@
   },
   {
     "id": "SID_守備1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_守備2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -10716,12 +10716,12 @@
   },
   {
     "id": "SID_魔防1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_魔防2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -10731,7 +10731,7 @@
   },
   {
     "id": "SID_HP攻撃1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -10741,7 +10741,7 @@
   },
   {
     "id": "SID_HP速さ1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -10751,7 +10751,7 @@
   },
   {
     "id": "SID_HP守備1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -10761,7 +10761,7 @@
   },
   {
     "id": "SID_HP魔防1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -10771,7 +10771,7 @@
   },
   {
     "id": "SID_攻撃速さ1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -10781,7 +10781,7 @@
   },
   {
     "id": "SID_攻撃守備1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -10791,7 +10791,7 @@
   },
   {
     "id": "SID_攻撃魔防1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -10801,7 +10801,7 @@
   },
   {
     "id": "SID_速さ守備1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -10811,7 +10811,7 @@
   },
   {
     "id": "SID_速さ魔防1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -10821,7 +10821,7 @@
   },
   {
     "id": "SID_守備魔防1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -10831,27 +10831,27 @@
   },
   {
     "id": "SID_獅子奮迅1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_獅子奮迅2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_獅子奮迅3",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_死線1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_死線2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -10861,7 +10861,7 @@
   },
   {
     "id": "SID_守備の城塞1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -10871,7 +10871,7 @@
   },
   {
     "id": "SID_守備の城塞2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -10886,12 +10886,12 @@
   },
   {
     "id": "SID_魔防の城塞1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_魔防の城塞2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -10901,12 +10901,12 @@
   },
   {
     "id": "SID_守備魔防の城塞1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_守備魔防の城塞2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -10931,47 +10931,47 @@
   },
   {
     "id": "SID_攻撃速さの渾身1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃速さの渾身2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃速さの渾身3",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃守備の渾身1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃守備の渾身2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃守備の渾身3",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃魔防の渾身1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃魔防の渾身2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃魔防の渾身3",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -10991,17 +10991,17 @@
   },
   {
     "id": "SID_止水1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_止水2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_止水3",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -11011,7 +11011,7 @@
   },
   {
     "id": "SID_不壊1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -11021,12 +11021,12 @@
   },
   {
     "id": "SID_不壊2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_不壊3",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -11036,12 +11036,12 @@
   },
   {
     "id": "SID_鬼神の一撃1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_鬼神の一撃2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -11056,12 +11056,12 @@
   },
   {
     "id": "SID_飛燕の一撃1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_飛燕の一撃2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -11076,12 +11076,12 @@
   },
   {
     "id": "SID_金剛の一撃1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_金剛の一撃2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -11091,12 +11091,12 @@
   },
   {
     "id": "SID_明鏡の一撃1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_明鏡の一撃2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -11106,7 +11106,7 @@
   },
   {
     "id": "SID_鬼神飛燕の一撃1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -11126,7 +11126,7 @@
   },
   {
     "id": "SID_鬼神金剛の一撃1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -11146,7 +11146,7 @@
   },
   {
     "id": "SID_鬼神明鏡の一撃1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -11166,12 +11166,12 @@
   },
   {
     "id": "SID_飛燕金剛の一撃1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_刃のセッション1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -11186,7 +11186,7 @@
   },
   {
     "id": "SID_刃のセッション2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -11201,7 +11201,7 @@
   },
   {
     "id": "SID_飛燕明鏡の一撃1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -11216,7 +11216,7 @@
   },
   {
     "id": "SID_金剛明鏡の一撃1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -11241,17 +11241,17 @@
   },
   {
     "id": "SID_鬼神明鏡の離撃3",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_鬼神の構え1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_鬼神の構え2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -11261,12 +11261,12 @@
   },
   {
     "id": "SID_飛燕の構え1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_飛燕の構え2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -11276,12 +11276,12 @@
   },
   {
     "id": "SID_金剛の構え1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_金剛の構え2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -11291,12 +11291,12 @@
   },
   {
     "id": "SID_明鏡の構え1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_明鏡の構え2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -11306,7 +11306,7 @@
   },
   {
     "id": "SID_鬼神飛燕の構え1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -11316,7 +11316,7 @@
   },
   {
     "id": "SID_鬼神金剛の構え1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -11326,7 +11326,7 @@
   },
   {
     "id": "SID_鬼神明鏡の構え1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -11346,7 +11346,7 @@
   },
   {
     "id": "SID_飛燕明鏡の構え1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -11356,7 +11356,7 @@
   },
   {
     "id": "SID_飛燕金剛の構え1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -11366,12 +11366,12 @@
   },
   {
     "id": "SID_盾のセッション1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_盾のセッション2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -11441,12 +11441,12 @@
   },
   {
     "id": "SID_遠距離防御1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_遠距離防御2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -11461,12 +11461,12 @@
   },
   {
     "id": "SID_近距離防御1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_近距離防御2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -11481,12 +11481,12 @@
   },
   {
     "id": "SID_生命の業火1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_生命の業火2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -11496,12 +11496,12 @@
   },
   {
     "id": "SID_生命の疾風1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_生命の疾風2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -11511,12 +11511,12 @@
   },
   {
     "id": "SID_生命の大地1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_生命の大地2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -11526,12 +11526,12 @@
   },
   {
     "id": "SID_生命の静水1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_生命の静水2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -11551,12 +11551,12 @@
   },
   {
     "id": "SID_攻撃速さの絆1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃速さの絆2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -11566,12 +11566,12 @@
   },
   {
     "id": "SID_攻撃守備の絆1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃守備の絆2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -11581,12 +11581,12 @@
   },
   {
     "id": "SID_攻撃魔防の絆1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃魔防の絆2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -11596,12 +11596,12 @@
   },
   {
     "id": "SID_速さ守備の絆1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_速さ守備の絆2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -11611,7 +11611,7 @@
   },
   {
     "id": "SID_速さ魔防の絆1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -11621,7 +11621,7 @@
   },
   {
     "id": "SID_速さ魔防の絆2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -11636,12 +11636,12 @@
   },
   {
     "id": "SID_守備魔防の絆1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_守備魔防の絆2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -11681,27 +11681,27 @@
   },
   {
     "id": "SID_攻撃速さの孤軍1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃速さの孤軍2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃速さの孤軍3",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃守備の孤軍1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃守備の孤軍2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -11711,27 +11711,27 @@
   },
   {
     "id": "SID_攻撃魔防の孤軍1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃魔防の孤軍2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃魔防の孤軍3",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_速さ守備の孤軍1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_速さ守備の孤軍2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -11741,12 +11741,12 @@
   },
   {
     "id": "SID_守備魔防の孤軍1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_守備魔防の孤軍2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -11796,12 +11796,12 @@
   },
   {
     "id": "SID_攻撃速さの密集1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃速さの密集2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -11811,12 +11811,12 @@
   },
   {
     "id": "SID_攻撃守備の密集1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃守備の密集2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -11831,12 +11831,12 @@
   },
   {
     "id": "SID_攻撃魔防の密集1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃魔防の密集2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -11846,12 +11846,12 @@
   },
   {
     "id": "SID_速さ魔防の密集1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_速さ魔防の密集2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -11866,12 +11866,12 @@
   },
   {
     "id": "SID_速さ守備の密集1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_速さ守備の密集2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -11881,12 +11881,12 @@
   },
   {
     "id": "SID_守備魔防の密集1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_守備魔防の密集2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -11896,17 +11896,17 @@
   },
   {
     "id": "SID_攻撃速さの機先1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃速さの機先2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃速さの機先3",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -11916,7 +11916,7 @@
   },
   {
     "id": "SID_攻撃守備の機先1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -11926,12 +11926,12 @@
   },
   {
     "id": "SID_攻撃守備の機先2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃守備の機先3",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -11941,17 +11941,17 @@
   },
   {
     "id": "SID_守備魔防の機先1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_守備魔防の機先2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_守備魔防の機先3",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -11981,17 +11981,17 @@
   },
   {
     "id": "SID_攻撃速さの万全1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃速さの万全2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃速さの万全3",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -12011,32 +12011,32 @@
   },
   {
     "id": "SID_攻撃守備の万全2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃守備の万全3",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃守備の万全4",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃魔防の万全1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃魔防の万全2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃魔防の万全3",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -12046,17 +12046,17 @@
   },
   {
     "id": "SID_守備魔防の万全1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_守備魔防の万全2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_守備魔防の万全3",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -12066,17 +12066,17 @@
   },
   {
     "id": "SID_速さ守備の万全1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_速さ守備の万全2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_速さ守備の万全3",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -12091,7 +12091,7 @@
   },
   {
     "id": "SID_速さ魔防の万全1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -12101,22 +12101,22 @@
   },
   {
     "id": "SID_速さ魔防の万全2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_速さ守備の機先1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_速さ魔防の万全3",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_速さ守備の機先2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -12126,7 +12126,7 @@
   },
   {
     "id": "SID_速さ守備の機先3",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -12136,32 +12136,32 @@
   },
   {
     "id": "SID_攻撃速さの激突1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_速さ魔防の機先1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃速さの激突2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_速さ魔防の機先2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃速さの激突3",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_速さ魔防の機先3",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -12176,7 +12176,7 @@
   },
   {
     "id": "SID_攻撃魔防の秘奥1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -12186,12 +12186,12 @@
   },
   {
     "id": "SID_攻撃魔防の秘奥2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃魔防の秘奥3",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -12201,17 +12201,17 @@
   },
   {
     "id": "SID_攻撃守備の激突1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃守備の激突2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃守備の激突3",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -12221,7 +12221,7 @@
   },
   {
     "id": "SID_攻撃速さの秘奥1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -12231,12 +12231,12 @@
   },
   {
     "id": "SID_攻撃速さの秘奥2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃速さの秘奥3",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -12246,17 +12246,17 @@
   },
   {
     "id": "SID_速さ魔防の秘奥1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_速さ魔防の秘奥2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_速さ魔防の秘奥3",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -12266,32 +12266,32 @@
   },
   {
     "id": "SID_守備魔防の秘奥1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_速さ守備の激突1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_守備魔防の秘奥2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_速さ守備の激突2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_守備魔防の秘奥3",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_速さ守備の激突3",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -12306,17 +12306,17 @@
   },
   {
     "id": "SID_攻撃魔防の竜眼1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃魔防の竜眼2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃魔防の竜眼3",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -12326,32 +12326,32 @@
   },
   {
     "id": "SID_攻撃守備の秘奥1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃速さの竜眼1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃守備の秘奥2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃速さの竜眼2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃守備の秘奥3",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃速さの竜眼3",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -12366,17 +12366,17 @@
   },
   {
     "id": "SID_守備魔防の竜眼1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_守備魔防の竜眼2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_守備魔防の竜眼3",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -12386,17 +12386,17 @@
   },
   {
     "id": "SID_速さ魔防の竜眼1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_速さ魔防の竜眼2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_速さ魔防の竜眼3",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -12406,17 +12406,17 @@
   },
   {
     "id": "SID_速さ守備の秘奥1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_速さ守備の秘奥2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_速さ守備の秘奥3",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -12426,17 +12426,17 @@
   },
   {
     "id": "SID_攻撃守備の竜眼1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃守備の竜眼2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃守備の竜眼3",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -12456,12 +12456,12 @@
   },
   {
     "id": "SID_攻撃の覚醒1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃の覚醒2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -12471,12 +12471,12 @@
   },
   {
     "id": "SID_速さの覚醒1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_速さの覚醒2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -12486,12 +12486,12 @@
   },
   {
     "id": "SID_守備の覚醒1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_守備の覚醒2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -12501,12 +12501,12 @@
   },
   {
     "id": "SID_魔防の覚醒1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_魔防の覚醒2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -12516,12 +12516,12 @@
   },
   {
     "id": "SID_攻撃速さの大覚醒1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃速さの大覚醒2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -12531,12 +12531,12 @@
   },
   {
     "id": "SID_攻撃守備の大覚醒1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃守備の大覚醒2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -12546,12 +12546,12 @@
   },
   {
     "id": "SID_守備魔防の大覚醒1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_守備魔防の大覚醒2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -12561,12 +12561,12 @@
   },
   {
     "id": "SID_攻撃魔防の大覚醒1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃魔防の大覚醒2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -12581,12 +12581,12 @@
   },
   {
     "id": "SID_速さ守備の大覚醒1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_速さ守備の大覚醒2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -12596,12 +12596,12 @@
   },
   {
     "id": "SID_速さ魔防の大覚醒1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_速さ魔防の大覚醒2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -12831,12 +12831,12 @@
   },
   {
     "id": "SID_差し違え1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_差し違え2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -12846,7 +12846,7 @@
   },
   {
     "id": "SID_待ち伏せ1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -12856,7 +12856,7 @@
   },
   {
     "id": "SID_待ち伏せ2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -12866,12 +12866,12 @@
   },
   {
     "id": "SID_切り返し1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_切り返し2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -12881,12 +12881,12 @@
   },
   {
     "id": "SID_攻め立て1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻め立て2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -12896,7 +12896,7 @@
   },
   {
     "id": "SID_風薙ぎ1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -12906,7 +12906,7 @@
   },
   {
     "id": "SID_風薙ぎ2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -12921,12 +12921,12 @@
   },
   {
     "id": "SID_水薙ぎ1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_水薙ぎ2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -12936,12 +12936,12 @@
   },
   {
     "id": "SID_生命の護符1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_生命の護符2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -12961,12 +12961,12 @@
   },
   {
     "id": "SID_絶対化身・追撃1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_絶対化身・追撃2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -12976,17 +12976,17 @@
   },
   {
     "id": "SID_絶対化身・察知1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_絶対化身・察知2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_絶対化身・察知3",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -12996,17 +12996,17 @@
   },
   {
     "id": "SID_反撃の咆哮1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_反撃の咆哮2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_反撃の咆哮3",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -13016,17 +13016,17 @@
   },
   {
     "id": "SID_奥の手1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_奥の手2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_奥の手3",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -13036,17 +13036,17 @@
   },
   {
     "id": "SID_奥の手・魔道1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_奥の手・魔道2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_奥の手・魔道3",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -13056,17 +13056,17 @@
   },
   {
     "id": "SID_絶対化身・急襲1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_絶対化身・急襲2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_絶対化身・急襲3",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -13076,17 +13076,17 @@
   },
   {
     "id": "SID_共鳴の黒魔法1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_共鳴の黒魔法2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_共鳴の黒魔法3",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -13096,12 +13096,12 @@
   },
   {
     "id": "SID_見切り・追撃効果1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_見切り・追撃効果2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -13111,7 +13111,7 @@
   },
   {
     "id": "SID_見切り・反撃不可1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -13121,7 +13121,7 @@
   },
   {
     "id": "SID_見切り・反撃不可2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -13141,12 +13141,12 @@
   },
   {
     "id": "SID_回避・叩き込み1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_回避・叩き込み2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -13156,7 +13156,7 @@
   },
   {
     "id": "SID_回避・怒り1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -13166,7 +13166,7 @@
   },
   {
     "id": "SID_回避・怒り2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -13181,12 +13181,12 @@
   },
   {
     "id": "SID_竜鱗障壁1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_竜鱗障壁2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -13201,12 +13201,12 @@
   },
   {
     "id": "SID_回避・攻め立て1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_回避・攻め立て2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -13216,12 +13216,12 @@
   },
   {
     "id": "SID_速さ守備の凪1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_速さ守備の凪2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -13231,7 +13231,7 @@
   },
   {
     "id": "SID_攻撃速さの凪1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -13241,7 +13241,7 @@
   },
   {
     "id": "SID_攻撃速さの凪2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -13251,12 +13251,12 @@
   },
   {
     "id": "SID_攻撃魔防の凪1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃魔防の凪2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -13266,12 +13266,12 @@
   },
   {
     "id": "SID_速さ魔防の凪1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_速さ魔防の凪2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -13281,7 +13281,7 @@
   },
   {
     "id": "SID_攻撃守備の凪1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -13291,7 +13291,7 @@
   },
   {
     "id": "SID_攻撃守備の凪2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -13306,12 +13306,12 @@
   },
   {
     "id": "SID_警戒姿勢1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_警戒姿勢2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -13321,7 +13321,7 @@
   },
   {
     "id": "SID_天馬行空1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -13331,7 +13331,7 @@
   },
   {
     "id": "SID_天馬行空2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -13341,7 +13341,7 @@
   },
   {
     "id": "SID_飛竜行空1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -13351,7 +13351,7 @@
   },
   {
     "id": "SID_飛竜行空2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -13366,7 +13366,7 @@
   },
   {
     "id": "SID_空からの急襲1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -13376,7 +13376,7 @@
   },
   {
     "id": "SID_空からの急襲2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -13391,12 +13391,12 @@
   },
   {
     "id": "SID_守備隊形1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_守備隊形2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -13411,12 +13411,12 @@
   },
   {
     "id": "SID_攻撃隊形1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃隊形2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -13431,12 +13431,12 @@
   },
   {
     "id": "SID_迎撃隊形1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_迎撃隊形2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -13451,12 +13451,12 @@
   },
   {
     "id": "SID_奥義隊形1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_奥義隊形2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -13476,12 +13476,12 @@
   },
   {
     "id": "SID_急襲隊形1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_急襲隊形2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -13491,12 +13491,12 @@
   },
   {
     "id": "SID_抑止隊形1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_抑止隊形2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -13506,12 +13506,12 @@
   },
   {
     "id": "SID_正面隊形・自己1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_正面隊形・自己2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -13526,12 +13526,12 @@
   },
   {
     "id": "SID_盾壁隊形1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_盾壁隊形2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -13546,12 +13546,12 @@
   },
   {
     "id": "SID_慧眼隊形1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_慧眼隊形2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -13571,12 +13571,12 @@
   },
   {
     "id": "SID_正面隊形・敵方1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_正面隊形・敵方2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -13591,12 +13591,12 @@
   },
   {
     "id": "SID_追撃隊形・奇数1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_追撃隊形・奇数2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -13606,12 +13606,12 @@
   },
   {
     "id": "SID_追撃隊形・偶数1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_追撃隊形・偶数2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -13621,12 +13621,12 @@
   },
   {
     "id": "SID_竜の逆鱗1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_竜の逆鱗2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -13646,12 +13646,12 @@
   },
   {
     "id": "SID_竜の魔鱗1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_竜の魔鱗2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -13666,7 +13666,7 @@
   },
   {
     "id": "SID_怒涛・飛竜行空1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -13676,7 +13676,7 @@
   },
   {
     "id": "SID_怒涛・飛竜行空2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -13686,12 +13686,12 @@
   },
   {
     "id": "SID_怒涛・不屈1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_怒涛・不屈2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -13706,12 +13706,12 @@
   },
   {
     "id": "SID_怒涛・天馬行空1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_怒涛・天馬行空2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -13721,12 +13721,12 @@
   },
   {
     "id": "SID_速さの先制1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_速さの先制2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -13736,12 +13736,12 @@
   },
   {
     "id": "SID_回避・拍節1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_回避・拍節2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -13751,12 +13751,12 @@
   },
   {
     "id": "SID_奥義の螺旋1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_奥義の螺旋2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -13771,12 +13771,12 @@
   },
   {
     "id": "SID_攻撃速さの連携1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃速さの連携2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -13786,7 +13786,7 @@
   },
   {
     "id": "SID_攻撃守備の連携1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -13796,7 +13796,7 @@
   },
   {
     "id": "SID_攻撃守備の連携2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -13806,12 +13806,12 @@
   },
   {
     "id": "SID_速さ魔防の連携1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_速さ魔防の連携2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -13821,12 +13821,12 @@
   },
   {
     "id": "SID_守備魔防の連携1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_守備魔防の連携2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -13836,12 +13836,12 @@
   },
   {
     "id": "SID_攻撃魔防の連携1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃魔防の連携2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -13851,12 +13851,12 @@
   },
   {
     "id": "SID_速さ守備の連携1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_速さ守備の連携2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -13871,12 +13871,12 @@
   },
   {
     "id": "SID_攻撃封じ1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃封じ2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -13886,12 +13886,12 @@
   },
   {
     "id": "SID_速さ封じ1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_速さ封じ2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -13901,12 +13901,12 @@
   },
   {
     "id": "SID_守備封じ1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_守備封じ2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -13916,12 +13916,12 @@
   },
   {
     "id": "SID_魔防封じ1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_魔防封じ2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -13931,7 +13931,7 @@
   },
   {
     "id": "SID_攻撃速さ封じ1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -13941,7 +13941,7 @@
   },
   {
     "id": "SID_攻撃守備封じ1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -13951,7 +13951,7 @@
   },
   {
     "id": "SID_守備魔防封じ1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -13961,7 +13961,7 @@
   },
   {
     "id": "SID_速さ守備封じ1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -13976,7 +13976,7 @@
   },
   {
     "id": "SID_速さ魔防封じ1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -14001,12 +14001,12 @@
   },
   {
     "id": "SID_攻撃の封印1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃の封印2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -14016,12 +14016,12 @@
   },
   {
     "id": "SID_速さの封印1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_速さの封印2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -14031,12 +14031,12 @@
   },
   {
     "id": "SID_守備の封印1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_守備の封印2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -14046,12 +14046,12 @@
   },
   {
     "id": "SID_魔防の封印1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_魔防の封印2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -14061,7 +14061,7 @@
   },
   {
     "id": "SID_攻撃速さの封印1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -14071,7 +14071,7 @@
   },
   {
     "id": "SID_攻撃魔防の封印1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -14081,7 +14081,7 @@
   },
   {
     "id": "SID_速さ守備の封印1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -14096,7 +14096,7 @@
   },
   {
     "id": "SID_速さ魔防の封印1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -14106,7 +14106,7 @@
   },
   {
     "id": "SID_攻撃守備の封印1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -14121,7 +14121,7 @@
   },
   {
     "id": "SID_守備魔防の封印1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -14136,12 +14136,12 @@
   },
   {
     "id": "SID_鼓動の封緘・奇数1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_鼓動の封緘・奇数2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -14151,12 +14151,12 @@
   },
   {
     "id": "SID_鼓動の封緘・偶数1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_鼓動の封緘・偶数2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -14166,12 +14166,12 @@
   },
   {
     "id": "SID_攻撃の混乱1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃の混乱2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -14181,12 +14181,12 @@
   },
   {
     "id": "SID_速さの混乱1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_速さの混乱2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -14196,12 +14196,12 @@
   },
   {
     "id": "SID_守備の混乱1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_守備の混乱2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -14211,7 +14211,7 @@
   },
   {
     "id": "SID_魔防の混乱1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -14221,7 +14221,7 @@
   },
   {
     "id": "SID_魔防の混乱2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -14261,12 +14261,12 @@
   },
   {
     "id": "SID_攻撃魔防の大共謀1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃魔防の大共謀2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -14276,12 +14276,12 @@
   },
   {
     "id": "SID_速さ守備の干渉1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_速さ守備の干渉2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -14291,12 +14291,12 @@
   },
   {
     "id": "SID_速さ魔防の干渉1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_速さ魔防の干渉2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -14311,12 +14311,12 @@
   },
   {
     "id": "SID_攻撃守備の干渉1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃守備の干渉2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -14331,12 +14331,12 @@
   },
   {
     "id": "SID_攻撃速さの干渉1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃速さの干渉2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -14346,12 +14346,12 @@
   },
   {
     "id": "SID_守備魔防の干渉1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_守備魔防の干渉2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -14361,12 +14361,12 @@
   },
   {
     "id": "SID_攻撃魔防の干渉1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃魔防の干渉2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -14401,12 +14401,12 @@
   },
   {
     "id": "SID_攻撃の魅了1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃の魅了2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -14416,12 +14416,12 @@
   },
   {
     "id": "SID_守備の魅了1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_守備の魅了2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -14431,12 +14431,12 @@
   },
   {
     "id": "SID_魔防の魅了1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_魔防の魅了2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -14446,7 +14446,7 @@
   },
   {
     "id": "SID_速さの魅了1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -14456,7 +14456,7 @@
   },
   {
     "id": "SID_速さの魅了2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -14471,12 +14471,12 @@
   },
   {
     "id": "SID_剣殺し1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_剣殺し2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -14486,12 +14486,12 @@
   },
   {
     "id": "SID_槍殺し1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_槍殺し2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -14501,12 +14501,12 @@
   },
   {
     "id": "SID_斧殺し1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_斧殺し2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -14516,12 +14516,12 @@
   },
   {
     "id": "SID_赤魔殺し1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_赤魔殺し2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -14531,12 +14531,12 @@
   },
   {
     "id": "SID_青魔殺し1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_青魔殺し2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -14546,12 +14546,12 @@
   },
   {
     "id": "SID_緑魔殺し1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_緑魔殺し2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -14561,12 +14561,12 @@
   },
   {
     "id": "SID_弓殺し1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_弓殺し2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -14576,12 +14576,12 @@
   },
   {
     "id": "SID_暗器殺し1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_暗器殺し2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -14591,12 +14591,12 @@
   },
   {
     "id": "SID_回避・一撃離脱1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_回避・一撃離脱2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -14611,12 +14611,12 @@
   },
   {
     "id": "SID_すり抜け1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_すり抜け2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -14626,12 +14626,12 @@
   },
   {
     "id": "SID_進軍阻止1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_進軍阻止2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -14661,12 +14661,12 @@
   },
   {
     "id": "SID_離脱の行路1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_離脱の行路2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -14681,12 +14681,12 @@
   },
   {
     "id": "SID_救援の行路1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_救援の行路2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -14696,7 +14696,7 @@
   },
   {
     "id": "SID_編隊飛行1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -14706,7 +14706,7 @@
   },
   {
     "id": "SID_編隊飛行2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -14716,12 +14716,12 @@
   },
   {
     "id": "SID_曲技飛行1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_曲技飛行2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -14731,12 +14731,12 @@
   },
   {
     "id": "SID_速さ守備の近影1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_速さ守備の近影2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -14746,7 +14746,7 @@
   },
   {
     "id": "SID_速さ魔防の遠影1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -14756,7 +14756,7 @@
   },
   {
     "id": "SID_速さ魔防の遠影2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -14771,12 +14771,12 @@
   },
   {
     "id": "SID_攻撃守備の近影1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃守備の近影2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -14786,22 +14786,22 @@
   },
   {
     "id": "SID_攻撃魔防の遠影1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃守備の遠影1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃守備の遠影2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃魔防の遠影2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -14841,12 +14841,12 @@
   },
   {
     "id": "SID_速さ守備の遠影1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_速さ守備の遠影2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -14856,7 +14856,7 @@
   },
   {
     "id": "SID_速さ魔防の近影1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -14866,7 +14866,7 @@
   },
   {
     "id": "SID_速さ魔防の近影2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -14881,12 +14881,12 @@
   },
   {
     "id": "SID_攻撃魔防の近影1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃魔防の近影2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -14901,22 +14901,22 @@
   },
   {
     "id": "SID_攻撃速さの近影1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_絶対化身・近影1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃速さの近影2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_絶対化身・近影2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -14931,12 +14931,12 @@
   },
   {
     "id": "SID_怒涛・近影1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_怒涛・近影2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -14946,12 +14946,12 @@
   },
   {
     "id": "SID_強化無効・遠距離1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_強化無効・遠距離2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -14961,12 +14961,12 @@
   },
   {
     "id": "SID_強化無効・近距離1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_強化無効・近距離2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -14976,17 +14976,17 @@
   },
   {
     "id": "SID_助走1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_助走2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_助走3",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -14996,12 +14996,12 @@
   },
   {
     "id": "SID_怒涛・再起1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_怒涛・再起2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -15021,12 +15021,12 @@
   },
   {
     "id": "SID_恐慌の惑乱1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_恐慌の惑乱2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -15036,12 +15036,12 @@
   },
   {
     "id": "SID_攻撃の共謀1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃の共謀2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -15051,12 +15051,12 @@
   },
   {
     "id": "SID_速さの共謀1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_速さの共謀2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -15066,12 +15066,12 @@
   },
   {
     "id": "SID_守備の共謀1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_守備の共謀2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -15081,12 +15081,12 @@
   },
   {
     "id": "SID_魔防の共謀1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_魔防の共謀2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -15101,22 +15101,22 @@
   },
   {
     "id": "SID_守備魔防の大共謀2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_守備魔防の大共謀1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃速さの大共謀1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃速さの大共謀2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -15126,7 +15126,7 @@
   },
   {
     "id": "SID_速さ魔防の大共謀1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -15136,7 +15136,7 @@
   },
   {
     "id": "SID_速さ魔防の大共謀2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -15146,12 +15146,12 @@
   },
   {
     "id": "SID_速さ守備の大共謀1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_速さ守備の大共謀2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -15161,7 +15161,7 @@
   },
   {
     "id": "SID_攻撃守備の大共謀1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -15171,7 +15171,7 @@
   },
   {
     "id": "SID_攻撃守備の大共謀2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -15186,12 +15186,12 @@
   },
   {
     "id": "SID_怒涛・キャンセル1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_怒涛・キャンセル2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -15206,12 +15206,12 @@
   },
   {
     "id": "SID_速さ守備の拍節1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_速さ守備の拍節2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -15221,12 +15221,12 @@
   },
   {
     "id": "SID_攻撃守備の防壁1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃魔防の拍節1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -15236,12 +15236,12 @@
   },
   {
     "id": "SID_攻撃守備の防壁2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃魔防の拍節2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -15256,7 +15256,7 @@
   },
   {
     "id": "SID_速さ魔防の拍節1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -15271,7 +15271,7 @@
   },
   {
     "id": "SID_速さ魔防の拍節2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -15286,7 +15286,7 @@
   },
   {
     "id": "SID_速さ守備の防壁1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -15296,7 +15296,7 @@
   },
   {
     "id": "SID_速さ守備の防壁2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -15306,7 +15306,7 @@
   },
   {
     "id": "SID_速さ魔防の防壁1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -15316,7 +15316,7 @@
   },
   {
     "id": "SID_速さ魔防の防壁2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -15326,7 +15326,7 @@
   },
   {
     "id": "SID_絶対化身・敏捷1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -15336,12 +15336,12 @@
   },
   {
     "id": "SID_絶対化身・敏捷2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃速さの防壁1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -15356,7 +15356,7 @@
   },
   {
     "id": "SID_攻撃速さの防壁2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -15376,7 +15376,7 @@
   },
   {
     "id": "SID_神速1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -15391,7 +15391,7 @@
   },
   {
     "id": "SID_神速2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -15401,7 +15401,7 @@
   },
   {
     "id": "SID_神速3",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -15411,7 +15411,7 @@
   },
   {
     "id": "SID_不動1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -15421,12 +15421,12 @@
   },
   {
     "id": "SID_不動2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_不動3",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -15436,7 +15436,7 @@
   },
   {
     "id": "SID_速さの吸収1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -15446,12 +15446,12 @@
   },
   {
     "id": "SID_速さの吸収2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_速さの吸収3",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -15466,12 +15466,12 @@
   },
   {
     "id": "SID_回復1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_回復2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -15481,12 +15481,12 @@
   },
   {
     "id": "SID_キャンセル1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_キャンセル2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -15496,7 +15496,7 @@
   },
   {
     "id": "SID_相性殺し1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -15506,7 +15506,7 @@
   },
   {
     "id": "SID_相性殺し2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -15521,12 +15521,12 @@
   },
   {
     "id": "SID_盾の鼓動1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_盾の鼓動2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -15556,12 +15556,12 @@
   },
   {
     "id": "SID_蛇毒1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_蛇毒2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -15591,12 +15591,12 @@
   },
   {
     "id": "SID_罠解除1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_罠解除2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -15621,12 +15621,12 @@
   },
   {
     "id": "SID_業火の舞い1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_業火の舞い2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -15636,12 +15636,12 @@
   },
   {
     "id": "SID_疾風の舞い1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_疾風の舞い2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -15651,12 +15651,12 @@
   },
   {
     "id": "SID_大地の舞い1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_大地の舞い2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -15666,12 +15666,12 @@
   },
   {
     "id": "SID_静水の舞い1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_静水の舞い2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -15681,7 +15681,7 @@
   },
   {
     "id": "SID_業火疾風の舞い1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -15696,7 +15696,7 @@
   },
   {
     "id": "SID_大地静水の舞い1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -15706,7 +15706,7 @@
   },
   {
     "id": "SID_業火静水の舞い1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -15716,12 +15716,12 @@
   },
   {
     "id": "SID_疾風静水の舞い1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_疾風大地の舞い1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -15736,7 +15736,7 @@
   },
   {
     "id": "SID_業火大地の舞い1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -15751,12 +15751,12 @@
   },
   {
     "id": "SID_ご奉仕の喜び1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_ご奉仕の喜び2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -15766,7 +15766,7 @@
   },
   {
     "id": "SID_神罰の杖1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -15776,7 +15776,7 @@
   },
   {
     "id": "SID_神罰の杖2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -15791,7 +15791,7 @@
   },
   {
     "id": "SID_幻惑の杖1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -15801,7 +15801,7 @@
   },
   {
     "id": "SID_幻惑の杖2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -16321,12 +16321,12 @@
   },
   {
     "id": "SID_攻撃の鼓舞1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃の鼓舞2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -16336,12 +16336,12 @@
   },
   {
     "id": "SID_速さの鼓舞1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_速さの鼓舞2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -16351,12 +16351,12 @@
   },
   {
     "id": "SID_守備の鼓舞1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_守備の鼓舞2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -16366,12 +16366,12 @@
   },
   {
     "id": "SID_魔防の鼓舞1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_魔防の鼓舞2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -16481,12 +16481,12 @@
   },
   {
     "id": "SID_攻撃の指揮1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃の指揮2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -16496,12 +16496,12 @@
   },
   {
     "id": "SID_速さの指揮1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_速さの指揮2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -16511,7 +16511,7 @@
   },
   {
     "id": "SID_守備の指揮1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -16521,7 +16521,7 @@
   },
   {
     "id": "SID_守備の指揮2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -16531,12 +16531,12 @@
   },
   {
     "id": "SID_魔防の指揮1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_魔防の指揮2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -16546,12 +16546,12 @@
   },
   {
     "id": "SID_攻撃の波・奇数1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃の波・奇数2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -16561,12 +16561,12 @@
   },
   {
     "id": "SID_攻撃の波・偶数1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃の波・偶数2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -16576,7 +16576,7 @@
   },
   {
     "id": "SID_速さの波・奇数1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -16586,7 +16586,7 @@
   },
   {
     "id": "SID_速さの波・奇数2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -16596,7 +16596,7 @@
   },
   {
     "id": "SID_速さの波・偶数1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -16606,7 +16606,7 @@
   },
   {
     "id": "SID_速さの波・偶数2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -16616,12 +16616,12 @@
   },
   {
     "id": "SID_守備の波・奇数1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_守備の波・奇数2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -16631,7 +16631,7 @@
   },
   {
     "id": "SID_守備の波・偶数1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -16641,7 +16641,7 @@
   },
   {
     "id": "SID_守備の波・偶数2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -16651,12 +16651,12 @@
   },
   {
     "id": "SID_魔防の波・奇数1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_魔防の波・奇数2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -16666,12 +16666,12 @@
   },
   {
     "id": "SID_魔防の波・偶数1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_魔防の波・偶数2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -16686,12 +16686,12 @@
   },
   {
     "id": "SID_攻撃の開放1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃の開放2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -16701,12 +16701,12 @@
   },
   {
     "id": "SID_速さの開放1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_速さの開放2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -16716,12 +16716,12 @@
   },
   {
     "id": "SID_魔防の開放1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_魔防の開放2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -16731,12 +16731,12 @@
   },
   {
     "id": "SID_守備の開放1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_守備の開放2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -16746,12 +16746,12 @@
   },
   {
     "id": "SID_攻撃魔防の大開放1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃魔防の大開放2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -16761,12 +16761,12 @@
   },
   {
     "id": "SID_速さ魔防の大開放1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_速さ魔防の大開放2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -16776,12 +16776,12 @@
   },
   {
     "id": "SID_守備魔防の大開放1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_守備魔防の大開放2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -16791,12 +16791,12 @@
   },
   {
     "id": "SID_攻撃速さの大開放1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃速さの大開放2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -16806,12 +16806,12 @@
   },
   {
     "id": "SID_攻撃守備の大開放1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃守備の大開放2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -16826,22 +16826,22 @@
   },
   {
     "id": "SID_速さ守備の大開放2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_速さ守備の大開放1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃魔防の信義1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃魔防の信義2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -16851,12 +16851,12 @@
   },
   {
     "id": "SID_攻撃守備の信義1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃守備の信義2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -16866,7 +16866,7 @@
   },
   {
     "id": "SID_攻撃速さの信義1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -16876,7 +16876,7 @@
   },
   {
     "id": "SID_攻撃速さの信義2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -16886,12 +16886,12 @@
   },
   {
     "id": "SID_守備魔防の信義1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_守備魔防の信義2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -16901,7 +16901,7 @@
   },
   {
     "id": "SID_速さ守備の信義1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -16916,7 +16916,7 @@
   },
   {
     "id": "SID_速さ守備の信義2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -16941,12 +16941,12 @@
   },
   {
     "id": "SID_攻撃守備の奮起1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃守備の奮起2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -16956,7 +16956,7 @@
   },
   {
     "id": "SID_守備魔防の奮起1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -16966,7 +16966,7 @@
   },
   {
     "id": "SID_守備魔防の奮起2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -16981,7 +16981,7 @@
   },
   {
     "id": "SID_速さ魔防の奮起1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -16991,7 +16991,7 @@
   },
   {
     "id": "SID_速さ魔防の奮起2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -17001,12 +17001,12 @@
   },
   {
     "id": "SID_速さ守備の奮起1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_速さ守備の奮起2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -17016,7 +17016,7 @@
   },
   {
     "id": "SID_攻撃魔防の奮起1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -17026,7 +17026,7 @@
   },
   {
     "id": "SID_攻撃魔防の奮起2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -17046,7 +17046,7 @@
   },
   {
     "id": "SID_攻撃速さの奮起1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -17056,7 +17056,7 @@
   },
   {
     "id": "SID_攻撃速さの奮起2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -17086,12 +17086,12 @@
   },
   {
     "id": "SID_攻撃の紋章1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃の紋章2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -17101,12 +17101,12 @@
   },
   {
     "id": "SID_速さの紋章1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_速さの紋章2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -17121,12 +17121,12 @@
   },
   {
     "id": "SID_守備の紋章1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_守備の紋章2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -17136,12 +17136,12 @@
   },
   {
     "id": "SID_魔防の紋章1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_魔防の紋章2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -17151,7 +17151,7 @@
   },
   {
     "id": "SID_攻撃速さの紋章1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -17161,7 +17161,7 @@
   },
   {
     "id": "SID_攻撃守備の紋章1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -17171,7 +17171,7 @@
   },
   {
     "id": "SID_攻撃魔防の紋章1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -17181,7 +17181,7 @@
   },
   {
     "id": "SID_速さ守備の紋章1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -17191,7 +17191,7 @@
   },
   {
     "id": "SID_速さ魔防の紋章1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -17201,7 +17201,7 @@
   },
   {
     "id": "SID_守備魔防の紋章1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -17211,7 +17211,7 @@
   },
   {
     "id": "SID_攻撃の大紋章1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -17221,7 +17221,7 @@
   },
   {
     "id": "SID_速さの大紋章1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -17231,7 +17231,7 @@
   },
   {
     "id": "SID_守備の大紋章1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -17241,7 +17241,7 @@
   },
   {
     "id": "SID_魔防の大紋章1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -17316,12 +17316,12 @@
   },
   {
     "id": "SID_攻撃速さの牽制1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃速さの牽制2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -17331,7 +17331,7 @@
   },
   {
     "id": "SID_速さ守備の牽制1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -17341,7 +17341,7 @@
   },
   {
     "id": "SID_速さ守備の牽制2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -17356,7 +17356,7 @@
   },
   {
     "id": "SID_攻撃魔防の牽制1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -17376,7 +17376,7 @@
   },
   {
     "id": "SID_攻撃魔防の牽制2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -17391,7 +17391,7 @@
   },
   {
     "id": "SID_攻撃守備の牽制1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -17406,7 +17406,7 @@
   },
   {
     "id": "SID_攻撃守備の牽制2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -17416,12 +17416,12 @@
   },
   {
     "id": "SID_速さ魔防の牽制1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_速さ魔防の牽制2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -17436,12 +17436,12 @@
   },
   {
     "id": "SID_守備魔防の牽制1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_守備魔防の牽制2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -17481,12 +17481,12 @@
   },
   {
     "id": "SID_攻撃の威嚇1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃の威嚇2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -17496,12 +17496,12 @@
   },
   {
     "id": "SID_速さの威嚇1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_速さの威嚇2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -17511,12 +17511,12 @@
   },
   {
     "id": "SID_守備の威嚇1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_守備の威嚇2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -17526,7 +17526,7 @@
   },
   {
     "id": "SID_魔防の威嚇1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -17536,7 +17536,7 @@
   },
   {
     "id": "SID_魔防の威嚇2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -17546,12 +17546,12 @@
   },
   {
     "id": "SID_攻撃速さの威嚇1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃速さの威嚇2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -17561,12 +17561,12 @@
   },
   {
     "id": "SID_攻撃魔防の威嚇1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃魔防の威嚇2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -17576,12 +17576,12 @@
   },
   {
     "id": "SID_攻撃守備の威嚇1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃守備の威嚇2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -17601,12 +17601,12 @@
   },
   {
     "id": "SID_守備魔防の威嚇1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_守備魔防の威嚇2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -17621,22 +17621,22 @@
   },
   {
     "id": "SID_速さ守備の威嚇1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_速さ守備の威嚇2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_速さ魔防の威嚇1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_速さ魔防の威嚇2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -17651,12 +17651,12 @@
   },
   {
     "id": "SID_死の吐息1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_死の吐息2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -17666,7 +17666,7 @@
   },
   {
     "id": "SID_生の息吹1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -17676,7 +17676,7 @@
   },
   {
     "id": "SID_生の息吹2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -17691,12 +17691,12 @@
   },
   {
     "id": "SID_攻撃の紫煙1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃の紫煙2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -17706,12 +17706,12 @@
   },
   {
     "id": "SID_速さの紫煙1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_速さの紫煙2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -17726,12 +17726,12 @@
   },
   {
     "id": "SID_守備の紫煙1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_守備の紫煙2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -17741,12 +17741,12 @@
   },
   {
     "id": "SID_魔防の紫煙1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_魔防の紫煙2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -17756,12 +17756,12 @@
   },
   {
     "id": "SID_鼓動の幻煙1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_鼓動の幻煙2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -17776,12 +17776,12 @@
   },
   {
     "id": "SID_恐慌の幻煙1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_恐慌の幻煙2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -17791,12 +17791,12 @@
   },
   {
     "id": "SID_不治の幻煙1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_不治の幻煙2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -17826,12 +17826,12 @@
   },
   {
     "id": "SID_歩行の魔刃1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_歩行の魔刃2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -17841,22 +17841,22 @@
   },
   {
     "id": "SID_攻撃の謀策1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_空転の奇策1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃の謀策2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_空転の奇策2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -17866,7 +17866,7 @@
   },
   {
     "id": "SID_速さの謀策1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -17876,7 +17876,7 @@
   },
   {
     "id": "SID_速さの謀策2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -17886,12 +17886,12 @@
   },
   {
     "id": "SID_守備の謀策1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_守備の謀策2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -17906,12 +17906,12 @@
   },
   {
     "id": "SID_魔防の謀策1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_魔防の謀策2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -17921,7 +17921,7 @@
   },
   {
     "id": "SID_恐慌の奇策1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -17931,7 +17931,7 @@
   },
   {
     "id": "SID_恐慌の奇策2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -17951,12 +17951,12 @@
   },
   {
     "id": "SID_近距離警戒1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_近距離警戒2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -17966,7 +17966,7 @@
   },
   {
     "id": "SID_遠距離警戒1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -17976,7 +17976,7 @@
   },
   {
     "id": "SID_遠距離警戒2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -18006,12 +18006,12 @@
   },
   {
     "id": "SID_赤への暗闘1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_赤への暗闘2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -18021,12 +18021,12 @@
   },
   {
     "id": "SID_無への暗闘1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_無への暗闘2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -18036,7 +18036,7 @@
   },
   {
     "id": "SID_緑への暗闘1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -18046,7 +18046,7 @@
   },
   {
     "id": "SID_緑への暗闘2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -18056,12 +18056,12 @@
   },
   {
     "id": "SID_青への暗闘1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_青への暗闘2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -18071,12 +18071,12 @@
   },
   {
     "id": "SID_歩行の鼓動1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_歩行の鼓動2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -18086,7 +18086,7 @@
   },
   {
     "id": "SID_歩行の剛撃1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -18096,7 +18096,7 @@
   },
   {
     "id": "SID_歩行の剛撃2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -18106,12 +18106,12 @@
   },
   {
     "id": "SID_歩行の柔撃1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_歩行の柔撃2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -18121,12 +18121,12 @@
   },
   {
     "id": "SID_歩行の呼吸1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_歩行の呼吸2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -18136,12 +18136,12 @@
   },
   {
     "id": "SID_始まりの鼓動1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_始まりの鼓動2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -18186,12 +18186,12 @@
   },
   {
     "id": "SID_重装の行軍1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_重装の行軍2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -18201,12 +18201,12 @@
   },
   {
     "id": "SID_重装の遊撃1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_重装の遊撃2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -18216,12 +18216,12 @@
   },
   {
     "id": "SID_一斉突撃1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_一斉突撃2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -18236,12 +18236,12 @@
   },
   {
     "id": "SID_空からの先導1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_空からの先導2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -18256,12 +18256,12 @@
   },
   {
     "id": "SID_飛行の先導1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_飛行の先導2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -18271,12 +18271,12 @@
   },
   {
     "id": "SID_先導の伝令・天1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_先導の伝令・天2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -18291,7 +18291,7 @@
   },
   {
     "id": "SID_先導の伝令・地1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -18301,7 +18301,7 @@
   },
   {
     "id": "SID_先導の伝令・地2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -18311,12 +18311,12 @@
   },
   {
     "id": "SID_迅雷風烈・奇数1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_迅雷風烈・奇数2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -18326,12 +18326,12 @@
   },
   {
     "id": "SID_迅雷風烈・偶数1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_迅雷風烈・偶数2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -18341,7 +18341,7 @@
   },
   {
     "id": "SID_再移動制限1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -18351,7 +18351,7 @@
   },
   {
     "id": "SID_再移動制限2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -18371,12 +18371,12 @@
   },
   {
     "id": "SID_歩行の見切り追撃1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_歩行の見切り追撃2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -18391,12 +18391,12 @@
   },
   {
     "id": "SID_盾の護り手・近間1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_盾の護り手・近間2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -18411,12 +18411,12 @@
   },
   {
     "id": "SID_兜の護り手・遠間1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_兜の護り手・遠間2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -18431,12 +18431,12 @@
   },
   {
     "id": "SID_鎧の護り手・近間1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_鎧の護り手・近間2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -18446,7 +18446,7 @@
   },
   {
     "id": "SID_兜の護り手・近間1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -18456,7 +18456,7 @@
   },
   {
     "id": "SID_兜の護り手・近間2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -18466,7 +18466,7 @@
   },
   {
     "id": "SID_盾の護り手・遠間1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -18476,7 +18476,7 @@
   },
   {
     "id": "SID_盾の護り手・遠間2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -18501,7 +18501,7 @@
   },
   {
     "id": "SID_刃の護り手・近間1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -18511,7 +18511,7 @@
   },
   {
     "id": "SID_刃の護り手・近間2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -18526,12 +18526,12 @@
   },
   {
     "id": "SID_刃の護り手・遠間1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_刃の護り手・遠間2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -18541,17 +18541,17 @@
   },
   {
     "id": "SID_影助・引き戻し1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_影助・引き戻し2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_影助・引き戻し3",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -18561,12 +18561,12 @@
   },
   {
     "id": "SID_露払い1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_露払い2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -18586,17 +18586,17 @@
   },
   {
     "id": "SID_影助・ぶちかまし1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_影助・ぶちかまし2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_影助・ぶちかまし3",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -18606,12 +18606,12 @@
   },
   {
     "id": "SID_剣の経験1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_剣の経験2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -18621,12 +18621,12 @@
   },
   {
     "id": "SID_斧の経験1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_斧の経験2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -18636,12 +18636,12 @@
   },
   {
     "id": "SID_弓の経験1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_弓の経験2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -18651,12 +18651,12 @@
   },
   {
     "id": "SID_赤魔の経験1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_赤魔の経験2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -18666,12 +18666,12 @@
   },
   {
     "id": "SID_青魔の経験1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_青魔の経験2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -18681,12 +18681,12 @@
   },
   {
     "id": "SID_緑魔の経験1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_緑魔の経験2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -18696,12 +18696,12 @@
   },
   {
     "id": "SID_獣の経験1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_獣の経験2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -18711,12 +18711,12 @@
   },
   {
     "id": "SID_杖の経験1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_杖の経験2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -18726,12 +18726,12 @@
   },
   {
     "id": "SID_暗器の経験1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_暗器の経験2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -18741,12 +18741,12 @@
   },
   {
     "id": "SID_槍の経験1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_槍の経験2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -18756,12 +18756,12 @@
   },
   {
     "id": "SID_竜の経験1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_竜の経験2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -18771,12 +18771,12 @@
   },
   {
     "id": "SID_剣の技量1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_剣の技量2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -18786,12 +18786,12 @@
   },
   {
     "id": "SID_槍の技量1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_槍の技量2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -18801,12 +18801,12 @@
   },
   {
     "id": "SID_斧の技量1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_斧の技量2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -18816,12 +18816,12 @@
   },
   {
     "id": "SID_弓の技量1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_弓の技量2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -18831,12 +18831,12 @@
   },
   {
     "id": "SID_暗器の技量1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_暗器の技量2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -18846,12 +18846,12 @@
   },
   {
     "id": "SID_赤魔の技量1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_赤魔の技量2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -18861,12 +18861,12 @@
   },
   {
     "id": "SID_青魔の技量1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_青魔の技量2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -18876,12 +18876,12 @@
   },
   {
     "id": "SID_緑魔の技量1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_緑魔の技量2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -18891,12 +18891,12 @@
   },
   {
     "id": "SID_竜の技量1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_竜の技量2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -18906,12 +18906,12 @@
   },
   {
     "id": "SID_杖の技量1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_杖の技量2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
@@ -18921,12 +18921,12 @@
   },
   {
     "id": "SID_獣の技量1",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_獣の技量2",
-    "game8_rating": "-",
+    "game8_rating": null,
     "game8_grade": null
   },
   {
