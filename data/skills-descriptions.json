@@ -7233,7 +7233,7 @@
   },
   {
     "id": "SID_豊穣の子兎の爪牙",
-    "description": "Enables【Canto (Rem. +1)】.<br>Effective against cavalry foes. Grants Spd+3.<br><br>At start of turn, if number of adjacent allies other than beast or dragon allies ≤ 1, or if unit's conditions for transforming are met, grants Special cooldown count-1 to unit.<br><br>If number of adjacent allies other than beast or dragon allies ≤ 1, or if unit is transformed, grants bonus to unit's Atk/Spd/Def/Res = 5 + number of foes within 3 rows or 3 columns centered on unit × 3 (max 14), deals damage = 20% of unit's Spd (excluding area-of-effect Specials), and neutralizes effects that guarantee foe's follow-up attacks and effects that prevent unit's follow-up attacks during combat, and after combat, if unit's HP ≤ 90%, grants Special cooldown count-2 to unit.<br><br>At start of turn, if unit is adjacent to only beast or dragon allies or is not adjacent to any ally, unit transforms (otherwise, unit reverts). If unit transforms, grants Atk+2 to unit, inflicts Atk/Def-X on foe during combat (X = number of spaces from start position to end position of whoever initiated combat, + 3; max 6), and also, if X ≥ 5, reduces damage from foe's first attack by 30% during combat.<br><br>【Canto (Rem. +1)】<br>After an attack, Assist skill, or structure destruction, unit can move again.<br><br>The distance of the movement is the remaining movement the unit had before the actions listed above + 1 (If unit used a movement skill that warps them, the remainder is 0).<br>(Once per turn. Only highest value applied. Does not stack.)"
+    "description": "Enables【Canto (Rem. +1)】.<br>Effective against cavalry foes. Grants Spd+3.<br><br>At start of turn, if number of adjacent allies other than beast or dragon allies ≤ 1, or if unit's conditions for transforming are met, grants Special cooldown count-1 to unit.<br><br>If number of adjacent allies other than beast or dragon allies ≤ 1, or if unit is transformed, grants bonus to unit's Atk/Spd/Def/Res = 5 + number of foes within 3 rows or 3 columns centered on unit × 3 (max 14), deals damage = 20% of unit's Spd (excluding area-of-effect Specials), and neutralizes effects that guarantee foe's follow-up attacks and effects that prevent unit's follow-up attacks during combat, and after combat, if unit's HP ≤ 90%, grants Special cooldown count-2 to unit.<br><br>At start of turn, if unit is adjacent to only beast or dragon allies or is not adjacent to any ally, unit transforms (otherwise, unit reverts). If unit transforms, grants Atk+2 to unit, inflicts Atk/Def-X on foe during combat (X = number of spaces from start position to end position of whoever initiated combat, + 3; max 6), and also, if X ≥ 5, reduces damage from foe's first attack by 30% during combat.<br><br>【Canto (Rem. +1)】<br>After an attack, Assist skill, or structure destruction, unit can move again.<br><br>The distance of the movement is the remaining movement the unit had before the actions listed above + 1 (If unit used a movement skill that warps them, the remainder is 0). (Once per turn. Only highest value applied. Does not stack.)"
   },
   {
     "id": "SID_却火フライクーゲル",
@@ -10001,7 +10001,7 @@
   },
   {
     "id": "SID_愛深き花嫁のブーケ",
-    "description": "Effective against dragon foes. Accelerates Special trigger (cooldown count-1).<br><br>For allies within 3 rows or 3 columns centered on unit, grants Atk/Res+5, neutralizes foe's bonuses, and grants Special cooldown count-1 before ally's first attack during combat.<br><br>At start of combat, if unit's HP ≥ 25%, inflicts penalty on foe's Atk/Res = 20% of unit's Res at start of combat + 6, neutralizes foe's bonuses, unit deals +X damage (excluding area-of-effect Specials), reduces damage from foe's attacks by X (excluding area-of-effect Specials; X = number of allies within 3 rows or 3 columns centered on unit × 5; max 15), neutralizes effects that inflict \"Special cooldown charge -X\" on unit, and grants Special cooldown count-1 to unit before unit's first attack during combat, and also, if unit's Res ≥ foe's Res+10, unit attacks twice during combat."
+    "description": "Effective against dragon foes.<br>Accelerates Special trigger (cooldown count-1).<br><br>For allies within 3 rows or 3 columns centered on unit, grants Atk/Res+5, neutralizes foe's bonuses, and grants Special cooldown count-1 before ally's first attack during combat.<br><br>At start of combat, if unit's HP ≥ 25%, inflicts penalty on foe's Atk/Res = 20% of unit's Res at start of combat + 6, neutralizes foe's bonuses, unit deals +X damage (excluding area-of-effect Specials), reduces damage from foe's attacks by X (excluding area-of-effect Specials; X = number of allies within 3 rows or 3 columns centered on unit × 5; max 15), neutralizes effects that inflict \"Special cooldown charge -X\" on unit, and grants Special cooldown count-1 to unit before unit's first attack during combat, and also, if unit's Res ≥ foe's Res+10, unit attacks twice during combat."
   },
   {
     "id": "SID_無垢なる愛のブレス",
@@ -10189,7 +10189,7 @@
   },
   {
     "id": "SID_リュングヘイズ",
-    "description": "Grants Spd+3. Enables【Canto (３)】during turns 1 through 4. If unit initiates combat, grants Atk/Spd+6 during combat and reduces damage from foe's first attack by 30%.<br><br>【Canto (3)】<br>After an attack, Assist skill, or structure destruction, unit can move ３ space(s).\n(Unit moves according to movement type. Once per turn. Cannot attack or assist. Only highest value applied. Does not stack. After moving, if a skill that grants another action would be triggered (like with Galeforce), Canto will trigger after the granted action. Unit's base movement has no effect on movement granted. Cannot warp (using skills like Wings of Mercy) a distance greater than unit would be able to move with normal Canto movement.)"
+    "description": "Grants Spd+3. Enables【Canto (３)】during turns 1 through 4. If unit initiates combat, grants Atk/Spd+6 during combat and reduces damage from foe's first attack by 30%.<br><br>【Canto (3)】<br>After an attack, Assist skill, or structure destruction, unit can move ３ space(s).<br><br>(Unit moves according to movement type. Once per turn. Cannot attack or assist. Only highest value applied. Does not stack. After moving, if a skill that grants another action would be triggered (like with Galeforce), Canto will trigger after the granted action. Unit's base movement has no effect on movement granted. Cannot warp (using skills like Wings of Mercy) a distance greater than unit would be able to move with normal Canto movement.)"
   },
   {
     "id": "SID_リュングヘイズ_一",
@@ -16734,50 +16734,6 @@
   {
     "id": "SID_ティルフィング_絆",
     "description": "At start of combat, if unit's HP ≥ 50%, grants: “If unit’s HP > 1 and foe would reduce unit’s HP to 0, unit survives with 1 HP. (Once per combat. Does not stack.)”<br>If unit is adjacent to an ally, grants Atk/Def+5 during combat."
-  },
-  {
-    "id": "SID_影滅・初級",
-    "description": "After combat, deals 5 damage to target and foes within 2 spaces of target and then unit and target foe swap spaces."
-  },
-  {
-    "id": "SID_影没の波動・斧",
-    "description": "Unit can counterattack regardless of foe's range. Deals a minimum of 1 damage."
-  },
-  {
-    "id": "SID_影没の波動・弓",
-    "description": "Effective against flying foes. Unit can counterattack regardless of foe's range. Deals a minimum of 1 damage."
-  },
-  {
-    "id": "SID_影没の波動・暗",
-    "description": "Unit can counterattack regardless of foe's range. Deals a minimum of 1 damage.<br>Effect:【Dagger ７】<br><br>【Dagger ７】<br>After combat, if unit attacked, inflicts Def/Res-７ on target and foes within 2 spaces of target through their next actions."
-  },
-  {
-    "id": "SID_影没の波動・竜",
-    "description": "Unit can counterattack regardless of foe's range. If foe's Range = 2, calculates damage using the lower of foe's Def or Res. Deals a minimum of 1 damage."
-  },
-  {
-    "id": "SID_影没の波動・槍",
-    "description": "Unit can counterattack regardless of foe's range. Deals a minimum of 1 damage."
-  },
-  {
-    "id": "SID_影没の波動・魔",
-    "description": "Unit can counterattack regardless of foe's range. Deals a minimum of 1 damage."
-  },
-  {
-    "id": "SID_影没の波動・杖",
-    "description": "Unit can counterattack regardless of foe's range. Calculates damage from staff like other weapons. Deals a minimum of 1 damage."
-  },
-  {
-    "id": "SID_影没の波動・剣",
-    "description": "Unit can counterattack regardless of foe's range. Deals a minimum of 1 damage."
-  },
-  {
-    "id": "SID_影滅・上級",
-    "description": "After combat, deals 15 damage to target and foes within 2 spaces of target and then unit and target foe swap spaces."
-  },
-  {
-    "id": "SID_影滅・中級",
-    "description": "After combat, deals 10 damage to target and foes within 2 spaces of target and then unit and target foe swap spaces."
   },
   {
     "id": "SID_孤絶の斧",

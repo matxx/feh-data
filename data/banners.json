@@ -1833,6 +1833,19 @@
     ]
   },
   {
+    "name": "Focus: Double Special Heroes (May 2025)",
+    "unit_ids": [
+      "PID_ハロアスク",
+      "PID_冬祭シェズ女",
+      "PID_冬祭フォデス",
+      "PID_双界ナギ",
+      "PID_忍者ディアマンド",
+      "PID_春祭ルピナス",
+      "PID_比翼ルキナ",
+      "PID_水着フリーズ"
+    ]
+  },
+  {
     "name": "Focus: Double Special Heroes (Nov 2020)",
     "unit_ids": [
       "PID_幼少シーダ",
@@ -2867,6 +2880,14 @@
       "PID_ウード",
       "PID_テティス",
       "PID_フォルス"
+    ]
+  },
+  {
+    "name": "Focus: Heroes with Bond Skills (May 2025)",
+    "unit_ids": [
+      "PID_ピアニー2味方",
+      "PID_フォルデ",
+      "PID_魔器ターナ"
     ]
   },
   {
@@ -4443,6 +4464,7 @@
     "name": "Focus: Lena & Julian's Battle",
     "unit_ids": [
       "PID_ジュリアン",
+      "PID_ミネルバ",
       "PID_レナ"
     ]
   },
@@ -5662,6 +5684,15 @@
       "PID_ソワレ",
       "PID_ソール",
       "PID_フレデリク"
+    ]
+  },
+  {
+    "name": "Focus: Submitting to Darkness",
+    "unit_ids": [
+      "PID_闇ディミトリ",
+      "PID_闇マリア",
+      "PID_闇ヴェイル",
+      "PID_闇魔器ルミエル"
     ]
   },
   {
@@ -10398,6 +10429,19 @@
       "PID_響心ニノ",
       "PID_魔器オルテンシア",
       "PID_魔器サザ"
+    ]
+  },
+  {
+    "name": "New Heroes Return (May 2025)",
+    "unit_ids": [
+      "PID_ダグ2味方",
+      "PID_開花エリンシア",
+      "PID_響心アイビー",
+      "PID_響心エイリーク",
+      "PID_響心シーダ",
+      "PID_魔器スタルーク",
+      "PID_魔器マリアンヌ",
+      "PID_魔器ルキナ"
     ]
   },
   {
