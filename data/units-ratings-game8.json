@@ -14,13 +14,6 @@
     "recommended_plus10": "Atk"
   },
   {
-    "id": "PID_神階ヘイズルーン",
-    "game8_rating": "9.9",
-    "recommended_boon": "Res",
-    "recommended_bane": "Spd",
-    "recommended_plus10": "Res"
-  },
-  {
     "id": "PID_総選挙フェリクス",
     "game8_rating": "9.9",
     "recommended_boon": "Spd",
@@ -84,13 +77,6 @@
     "recommended_plus10": "Res"
   },
   {
-    "id": "PID_双界プルメリア",
-    "game8_rating": "9.9",
-    "recommended_boon": "Res",
-    "recommended_bane": "Spd",
-    "recommended_plus10": "Res"
-  },
-  {
     "id": "PID_紋章エイリーク",
     "game8_rating": "9.9",
     "recommended_boon": "Spd",
@@ -112,18 +98,18 @@
     "recommended_plus10": "Spd"
   },
   {
-    "id": "PID_冬祭ベルナデッタ",
-    "game8_rating": "8.5",
-    "recommended_boon": "Atk",
-    "recommended_bane": "Res",
-    "recommended_plus10": "Atk"
+    "id": "PID_闇リュール女",
+    "game8_rating": "9.5",
+    "recommended_boon": "Res",
+    "recommended_bane": "Spd",
+    "recommended_plus10": "Res"
   },
   {
-    "id": "PID_比翼ピアニー",
-    "game8_rating": "9.5",
-    "recommended_boon": "Spd",
-    "recommended_bane": "Res",
-    "recommended_plus10": "Spd"
+    "id": "PID_伝承漆黒の騎士",
+    "game8_rating": "9.9",
+    "recommended_boon": "Atk",
+    "recommended_bane": "Spd",
+    "recommended_plus10": "Atk"
   },
   {
     "id": "PID_双界外伝カチュア",
@@ -147,38 +133,10 @@
     "recommended_plus10": "Spd"
   },
   {
-    "id": "PID_エンブラ味方",
-    "game8_rating": "9.5",
-    "recommended_boon": "Spd",
-    "recommended_bane": "Res",
-    "recommended_plus10": "Spd"
-  },
-  {
-    "id": "PID_セイズ",
-    "game8_rating": "9.5",
-    "recommended_boon": "Res",
-    "recommended_bane": "Def",
-    "recommended_plus10": "Res"
-  },
-  {
     "id": "PID_双界ティアモ",
     "game8_rating": "9.5",
     "recommended_boon": "Atk",
     "recommended_bane": "Res",
-    "recommended_plus10": "Atk"
-  },
-  {
-    "id": "PID_闇マリア",
-    "game8_rating": "9.5",
-    "recommended_boon": "Spd",
-    "recommended_bane": "Def",
-    "recommended_plus10": "Spd"
-  },
-  {
-    "id": "PID_冬祭エーデルガルト",
-    "game8_rating": "9.5",
-    "recommended_boon": "Atk",
-    "recommended_bane": "Spd",
     "recommended_plus10": "Atk"
   },
   {
@@ -187,27 +145,6 @@
     "recommended_boon": "Res",
     "recommended_bane": "Def",
     "recommended_plus10": "Res"
-  },
-  {
-    "id": "PID_ティナ",
-    "game8_rating": "9.5",
-    "recommended_boon": "Spd",
-    "recommended_bane": "Def",
-    "recommended_plus10": "Spd"
-  },
-  {
-    "id": "PID_ナバタオルティナ",
-    "game8_rating": "9.5",
-    "recommended_boon": "Atk",
-    "recommended_bane": "Spd",
-    "recommended_plus10": "Atk"
-  },
-  {
-    "id": "PID_双界イグレーヌ",
-    "game8_rating": "9.5",
-    "recommended_boon": "Spd",
-    "recommended_bane": "Def",
-    "recommended_plus10": "Spd"
   },
   {
     "id": "PID_比翼リオン",
@@ -252,13 +189,6 @@
     "recommended_plus10": "Res"
   },
   {
-    "id": "PID_闇ネルガル",
-    "game8_rating": "9.5",
-    "recommended_boon": "Atk",
-    "recommended_bane": "Spd",
-    "recommended_plus10": "Atk"
-  },
-  {
     "id": "PID_花嫁エンブラ",
     "game8_rating": "9.5",
     "recommended_boon": "Spd",
@@ -273,24 +203,10 @@
     "recommended_plus10": "Spd"
   },
   {
-    "id": "PID_比翼グルヴェイグ",
-    "game8_rating": "9.5",
-    "recommended_boon": "Spd",
-    "recommended_bane": "Res",
-    "recommended_plus10": "Spd"
-  },
-  {
     "id": "PID_紋章セリカ",
     "game8_rating": "9.5",
     "recommended_boon": "Spd",
     "recommended_bane": "Def",
-    "recommended_plus10": "Spd"
-  },
-  {
-    "id": "PID_ニザヴェリル味方",
-    "game8_rating": "9.5",
-    "recommended_boon": "Spd",
-    "recommended_bane": "Res",
     "recommended_plus10": "Spd"
   },
   {
@@ -301,32 +217,18 @@
     "recommended_plus10": "Spd"
   },
   {
+    "id": "PID_神階ヘイズルーン",
+    "game8_rating": "9.9",
+    "recommended_boon": "Res",
+    "recommended_bane": "Spd",
+    "recommended_plus10": "Res"
+  },
+  {
     "id": "PID_エイクスルニル味方",
     "game8_rating": "9.5",
     "recommended_boon": "Def",
     "recommended_bane": "Spd",
     "recommended_plus10": "Def"
-  },
-  {
-    "id": "PID_浴衣ルキノ",
-    "game8_rating": "9.5",
-    "recommended_boon": "Spd",
-    "recommended_bane": "HP",
-    "recommended_plus10": "Spd"
-  },
-  {
-    "id": "PID_総選挙ルフレ女",
-    "game8_rating": "9.5",
-    "recommended_boon": "Spd",
-    "recommended_bane": "Res",
-    "recommended_plus10": "Spd"
-  },
-  {
-    "id": "PID_総選挙ベルナデッタ",
-    "game8_rating": "9.5",
-    "recommended_boon": "Spd",
-    "recommended_bane": "Def",
-    "recommended_plus10": "Spd"
   },
   {
     "id": "PID_伝承シェズ男",
@@ -371,20 +273,6 @@
     "recommended_plus10": "Def"
   },
   {
-    "id": "PID_双界ナギ",
-    "game8_rating": "9.5",
-    "recommended_boon": "Res",
-    "recommended_bane": "Spd",
-    "recommended_plus10": "Res"
-  },
-  {
-    "id": "PID_魔器マリアンヌ",
-    "game8_rating": "9.5",
-    "recommended_boon": "Res",
-    "recommended_bane": "Def",
-    "recommended_plus10": "Res"
-  },
-  {
     "id": "PID_ダグ2味方",
     "game8_rating": "9.5",
     "recommended_boon": "Spd",
@@ -397,13 +285,6 @@
     "recommended_boon": "Spd",
     "recommended_bane": "Res",
     "recommended_plus10": "Spd"
-  },
-  {
-    "id": "PID_忍者ディアマンド",
-    "game8_rating": "9.5",
-    "recommended_boon": "Def",
-    "recommended_bane": "Res",
-    "recommended_plus10": "Def"
   },
   {
     "id": "PID_魔器シアチ味方",
@@ -445,13 +326,6 @@
     "game8_rating": "9.5",
     "recommended_boon": "Spd",
     "recommended_bane": "Res",
-    "recommended_plus10": "Spd"
-  },
-  {
-    "id": "PID_冬祭オルテンシア",
-    "game8_rating": "9.5",
-    "recommended_boon": "Spd",
-    "recommended_bane": "Def",
     "recommended_plus10": "Spd"
   },
   {
@@ -518,20 +392,6 @@
     "recommended_plus10": "Spd"
   },
   {
-    "id": "PID_愛の祭ディミトリ",
-    "game8_rating": "9.5",
-    "recommended_boon": "Spd",
-    "recommended_bane": "Res",
-    "recommended_plus10": "Spd"
-  },
-  {
-    "id": "PID_愛の祭クロード",
-    "game8_rating": "9.5",
-    "recommended_boon": "Spd",
-    "recommended_bane": "Res",
-    "recommended_plus10": "Spd"
-  },
-  {
     "id": "PID_お供ユナカ",
     "game8_rating": "9.5",
     "recommended_boon": "Spd",
@@ -551,6 +411,13 @@
     "recommended_boon": "Atk",
     "recommended_bane": "Def",
     "recommended_plus10": "Atk"
+  },
+  {
+    "id": "PID_双界プルメリア",
+    "game8_rating": "9.9",
+    "recommended_boon": "Res",
+    "recommended_bane": "Spd",
+    "recommended_plus10": "Res"
   },
   {
     "id": "PID_響心アルム",
@@ -579,13 +446,6 @@
     "recommended_boon": "Spd",
     "recommended_bane": "Res",
     "recommended_plus10": "Spd"
-  },
-  {
-    "id": "PID_闇リュール女",
-    "game8_rating": "9.5",
-    "recommended_boon": "Res",
-    "recommended_bane": "Spd",
-    "recommended_plus10": "Res"
   },
   {
     "id": "PID_闇リュール男",
@@ -833,11 +693,25 @@
     "recommended_plus10": "Spd"
   },
   {
+    "id": "PID_冬祭ベルナデッタ",
+    "game8_rating": "8.5",
+    "recommended_boon": "Atk",
+    "recommended_bane": "Res",
+    "recommended_plus10": "Atk"
+  },
+  {
     "id": "PID_伝承リリーナ",
     "game8_rating": "9.0",
     "recommended_boon": "Atk",
     "recommended_bane": "Def",
     "recommended_plus10": null
+  },
+  {
+    "id": "PID_比翼ピアニー",
+    "game8_rating": "9.5",
+    "recommended_boon": "Spd",
+    "recommended_bane": "Res",
+    "recommended_plus10": "Spd"
   },
   {
     "id": "PID_ロナン",
@@ -1078,6 +952,20 @@
     "recommended_plus10": "Atk"
   },
   {
+    "id": "PID_エンブラ味方",
+    "game8_rating": "9.5",
+    "recommended_boon": "Spd",
+    "recommended_bane": "Res",
+    "recommended_plus10": "Spd"
+  },
+  {
+    "id": "PID_セイズ",
+    "game8_rating": "9.5",
+    "recommended_boon": "Res",
+    "recommended_bane": "Def",
+    "recommended_plus10": "Res"
+  },
+  {
     "id": "PID_伝承シェズ女",
     "game8_rating": "9.0",
     "recommended_boon": "Atk",
@@ -1118,6 +1006,13 @@
     "recommended_boon": "Atk",
     "recommended_bane": "Spd",
     "recommended_plus10": "Atk"
+  },
+  {
+    "id": "PID_闇マリア",
+    "game8_rating": "9.5",
+    "recommended_boon": "Spd",
+    "recommended_bane": "Def",
+    "recommended_plus10": "Spd"
   },
   {
     "id": "PID_魔器闇クロム",
@@ -1267,6 +1162,13 @@
     "recommended_plus10": "Spd"
   },
   {
+    "id": "PID_冬祭エーデルガルト",
+    "game8_rating": "9.5",
+    "recommended_boon": "Atk",
+    "recommended_bane": "Spd",
+    "recommended_plus10": "Atk"
+  },
+  {
     "id": "PID_冬祭ディミトリ",
     "game8_rating": "9.0",
     "recommended_boon": "Spd",
@@ -1283,6 +1185,27 @@
   {
     "id": "PID_伝承カミラ",
     "game8_rating": "9.0",
+    "recommended_boon": "Spd",
+    "recommended_bane": "Def",
+    "recommended_plus10": "Spd"
+  },
+  {
+    "id": "PID_ティナ",
+    "game8_rating": "9.5",
+    "recommended_boon": "Spd",
+    "recommended_bane": "Def",
+    "recommended_plus10": "Spd"
+  },
+  {
+    "id": "PID_ナバタオルティナ",
+    "game8_rating": "9.5",
+    "recommended_boon": "Atk",
+    "recommended_bane": "Spd",
+    "recommended_plus10": "Atk"
+  },
+  {
+    "id": "PID_双界イグレーヌ",
+    "game8_rating": "9.5",
     "recommended_boon": "Spd",
     "recommended_bane": "Def",
     "recommended_plus10": "Spd"
@@ -1344,6 +1267,13 @@
     "recommended_plus10": "Res"
   },
   {
+    "id": "PID_闇ネルガル",
+    "game8_rating": "9.5",
+    "recommended_boon": "Atk",
+    "recommended_bane": "Spd",
+    "recommended_plus10": "Atk"
+  },
+  {
     "id": "PID_闇魔器ルミエル",
     "game8_rating": "9.0",
     "recommended_boon": "Atk",
@@ -1355,6 +1285,13 @@
     "game8_rating": "9.0",
     "recommended_boon": "Spd",
     "recommended_bane": "HP",
+    "recommended_plus10": "Spd"
+  },
+  {
+    "id": "PID_比翼グルヴェイグ",
+    "game8_rating": "9.5",
+    "recommended_boon": "Spd",
+    "recommended_bane": "Res",
     "recommended_plus10": "Spd"
   },
   {
@@ -1379,6 +1316,13 @@
     "recommended_plus10": "Spd"
   },
   {
+    "id": "PID_ニザヴェリル味方",
+    "game8_rating": "9.5",
+    "recommended_boon": "Spd",
+    "recommended_bane": "Res",
+    "recommended_plus10": "Spd"
+  },
+  {
     "id": "PID_浴衣ワユ",
     "game8_rating": "9.0",
     "recommended_boon": "Spd",
@@ -1386,8 +1330,29 @@
     "recommended_plus10": "Spd"
   },
   {
+    "id": "PID_浴衣ルキノ",
+    "game8_rating": "9.5",
+    "recommended_boon": "Spd",
+    "recommended_bane": "HP",
+    "recommended_plus10": "Spd"
+  },
+  {
     "id": "PID_双界ネフェニー",
     "game8_rating": "9.0",
+    "recommended_boon": "Spd",
+    "recommended_bane": "Def",
+    "recommended_plus10": "Spd"
+  },
+  {
+    "id": "PID_総選挙ルフレ女",
+    "game8_rating": "9.5",
+    "recommended_boon": "Spd",
+    "recommended_bane": "Res",
+    "recommended_plus10": "Spd"
+  },
+  {
+    "id": "PID_総選挙ベルナデッタ",
+    "game8_rating": "9.5",
     "recommended_boon": "Spd",
     "recommended_bane": "Def",
     "recommended_plus10": "Spd"
@@ -1421,6 +1386,20 @@
     "recommended_plus10": "Def"
   },
   {
+    "id": "PID_双界ナギ",
+    "game8_rating": "9.5",
+    "recommended_boon": "Res",
+    "recommended_bane": "Spd",
+    "recommended_plus10": "Res"
+  },
+  {
+    "id": "PID_魔器マリアンヌ",
+    "game8_rating": "9.5",
+    "recommended_boon": "Res",
+    "recommended_bane": "Def",
+    "recommended_plus10": "Res"
+  },
+  {
     "id": "PID_忍者サーリャ",
     "game8_rating": "9.0",
     "recommended_boon": "Atk",
@@ -1435,11 +1414,25 @@
     "recommended_plus10": "Spd"
   },
   {
+    "id": "PID_忍者ディアマンド",
+    "game8_rating": "9.5",
+    "recommended_boon": "Def",
+    "recommended_bane": "Res",
+    "recommended_plus10": "Def"
+  },
+  {
     "id": "PID_魔器リリーナ",
     "game8_rating": "9.0",
     "recommended_boon": "Atk",
     "recommended_bane": "Def",
     "recommended_plus10": "Atk"
+  },
+  {
+    "id": "PID_冬祭オルテンシア",
+    "game8_rating": "9.5",
+    "recommended_boon": "Spd",
+    "recommended_bane": "Def",
+    "recommended_plus10": "Spd"
   },
   {
     "id": "PID_年明ターナ",
@@ -1460,6 +1453,20 @@
     "game8_rating": "9.0",
     "recommended_boon": "Spd",
     "recommended_bane": "HP",
+    "recommended_plus10": "Spd"
+  },
+  {
+    "id": "PID_愛の祭ディミトリ",
+    "game8_rating": "9.5",
+    "recommended_boon": "Spd",
+    "recommended_bane": "Res",
+    "recommended_plus10": "Spd"
+  },
+  {
+    "id": "PID_愛の祭クロード",
+    "game8_rating": "9.5",
+    "recommended_boon": "Spd",
+    "recommended_bane": "Res",
     "recommended_plus10": "Spd"
   },
   {

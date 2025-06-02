@@ -3345,6 +3345,40 @@
     "divine_codes": {}
   },
   {
+    "id": "PID_伝承漆黒の騎士",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "lowest_rarity": {
+      "foc": 5
+    },
+    "skill_ids": [
+      "SID_反攻隊形",
+      "SID_影月",
+      "SID_月光",
+      "SID_漆闇の月光",
+      "SID_終着の剣",
+      "SID_迎撃隊形1",
+      "SID_迎撃隊形2",
+      "SID_迎撃隊形3",
+      "SID_遠反・攻守の密集",
+      "SID_遠距離反撃",
+      "SID_鉄の剣",
+      "SID_銀の剣",
+      "SID_鋼の剣",
+      "SID_鎧の護り手・遠・茨",
+      "SID_鎧の護り手・遠間1",
+      "SID_鎧の護り手・遠間2",
+      "SID_鎧の護り手・遠間3"
+    ],
+    "divine_codes": {}
+  },
+  {
     "id": "PID_漆黒の騎士",
     "is_in": {
       "gsp": false,

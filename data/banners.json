@@ -8956,6 +8956,23 @@
     ]
   },
   {
+    "name": "Legendary Heroes - Black Knight",
+    "unit_ids": [
+      "PID_お供ユナカ",
+      "PID_エイクスルニル味方",
+      "PID_ニーズヘッグ味方",
+      "PID_フロージ味方",
+      "PID_ミデェール",
+      "PID_レーラズ味方",
+      "PID_伝承カムイ男",
+      "PID_伝承リュール女",
+      "PID_伝承漆黒の騎士",
+      "PID_神階ヘイズルーン",
+      "PID_神階ヴェイル",
+      "PID_紋章エイリーク"
+    ]
+  },
+  {
     "name": "Legendary Heroes - Byleth",
     "unit_ids": [
       "PID_ダグ味方",

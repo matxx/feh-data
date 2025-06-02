@@ -8208,6 +8208,108 @@
     "unlock": 2
   },
   {
+    "unit_id": "PID_伝承漆黒の騎士",
+    "skill_id": "SID_鎧の護り手・遠・茨",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_伝承漆黒の騎士",
+    "skill_id": "SID_鎧の護り手・遠間1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_伝承漆黒の騎士",
+    "skill_id": "SID_鎧の護り手・遠間2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_伝承漆黒の騎士",
+    "skill_id": "SID_鎧の護り手・遠間3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_伝承漆黒の騎士",
+    "skill_id": "SID_反攻隊形",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_伝承漆黒の騎士",
+    "skill_id": "SID_遠反・攻守の密集",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_伝承漆黒の騎士",
+    "skill_id": "SID_遠距離反撃",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_伝承漆黒の騎士",
+    "skill_id": "SID_終着の剣",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_伝承漆黒の騎士",
+    "skill_id": "SID_鉄の剣",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_伝承漆黒の騎士",
+    "skill_id": "SID_月光",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_伝承漆黒の騎士",
+    "skill_id": "SID_影月",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_伝承漆黒の騎士",
+    "skill_id": "SID_漆闇の月光",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_伝承漆黒の騎士",
+    "skill_id": "SID_銀の剣",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_伝承漆黒の騎士",
+    "skill_id": "SID_鋼の剣",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_伝承漆黒の騎士",
+    "skill_id": "SID_迎撃隊形1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_伝承漆黒の騎士",
+    "skill_id": "SID_迎撃隊形2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_伝承漆黒の騎士",
+    "skill_id": "SID_迎撃隊形3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
     "unit_id": "PID_漆黒の騎士",
     "skill_id": "SID_エタルド",
     "default": 5,

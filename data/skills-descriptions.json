@@ -4008,6 +4008,10 @@
     "description": "Grants weapon-triangle advantage against colorless foes, and inflicts weapon-triangle disadvantage on colorless foes during combat.<br>At start of combat, if foe's Atk ≥ unit's Atk+3, inflicts Atk/Res-6 on foe during combat and Special cooldown charge -1 on foe per attack. (Only highest value applied. Does not stack.)"
   },
   {
+    "id": "SID_反攻隊形",
+    "description": "If foe initiates combat or if unit's HP ≥ 25% at start of combat, inflicts Atk-5 on foe, deals damage = 15% of unit's Atk (excluding area- of-effect Specials), and reduces damage from foe's attacks by 15% of unit's Atk during combat (excluding area-of-effect Specials), and restores 7 HP to unit when unit deals damage to foe during combat, and also, if unit's attack can trigger unit's Special, grants Special cooldown count-2 to unit before foe's first attack during combat."
+  },
+  {
     "id": "SID_反撃の咆哮1",
     "description": "Reduces damage from foe's first attack during combat by 10% and unit's next attack deals damage = 10% of foe's attack damage prior to reductions (resets at end of combat; only highest value applied; does not stack)."
   },
@@ -5162,6 +5166,10 @@
   {
     "id": "SID_罠解除4",
     "description": "Inflicts Spd/Def-4 on foe during combat, and if unit initiates combat, neutralizes effects that prevent unit's follow-up attacks during combat. While attacking in Aether Raids, if unit ends movement on a space with a Bolt Trap or a Heavy Trap, cancels trap's effect; if unit ends movement on a space with a Hex Trap, reduces trap's trigger condition by 10 HP."
+  },
+  {
+    "id": "SID_遠反・攻守の密集",
+    "description": "Unit can counterattack regardless of foe's range.<br><br>If unit is within 3 spaces of an ally, grants bonus to unit's Atk/Def during combat = number of allies within 3 spaces of unit × 3 (max 9; if unit triggers Savior, value is treated as 9)."
   },
   {
     "id": "SID_遠反・攻速の孤軍",
@@ -6476,6 +6484,10 @@
     "description": "At start of combat, if unit's HP ≥ 25%, inflicts Atk/Res-6 on foe during combat, deals damage = 20% of unit's Res (excluding area-of-effect Specials), reduces damage from foe's first attack by 7 (\"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes), and inflicts Special cooldown charge -1 on foe per attack during combat (only highest value applied; does not stack).<br>At start of turn, if unit's HP ≥ 25%, grants Atk/Res+6,【Essence Drain】, and 【Bonus Doubler】to unit and target allies for 1 turn (if support partner is on player team, targets any support partner within 2 spaces of unit; otherwise, targets ally with the highest Atk within 2 spaces of unit).<br><br>At start of combat, if unit's HP ≥ 25%, inflicts Atk/Res-6 on foe during combat, unit makes a guaranteed follow-up attack, and restores 7 HP to unit after combat.<br><br>【Essence Drain】<br>After combat, if unit attacked, grants any 【Bonus】effects active on target and foes within 2 spaces of target to unit and allies with the Essence Drain effect, and neutralizes any【Bonus】active on target and foes within 2 spaces of target (excluding Bonus effects being granted at the same time). After combat, if foe was defeated in combat, restores 10 HP to unit and allies with the Essence Drain effect.<br><br>【Bonus Doubler】<br>Grants bonus to Atk/Spd/Def/Res during combat = current bonus on each of unit's stats for 1 turn. Calculates each stat bonus independently.<br><br>【Bonus】<br>All effects that last \"for 1 turn\" or \"that turn only.\" Includes bonuses granted by a skill like Rally or Hone and positive status effects (extra movement or effects like Dominance)."
   },
   {
+    "id": "SID_終着の剣",
+    "description": "Accelerates Special trigger (cooldown count-1).<br><br>At start of player phase or enemy phase, if unit's HP ≥ 25%, grants Atk/Def+6,【Imbue】, and【Reflex】to unit and allies within 2 spaces of unit for 1 turn.<br><br>If foe initiates combat or if unit's HP ≥ 25% at start of combat, grants Atk+X to unit, inflicts Atk-X on foe (X = 20% of unit's Def at start of combat, + 6), unit deals +Y damage (excluding area-of-effect Specials), reduces damage from foe's attacks by Y (excluding area-of-effect Specials), reduces damage from foe's Specials by Y (excluding area-of-effect Specials; if foe's HP ≥ 70% at start of combat, Y = 16; otherwise Y = 10), and neutralizes【Deep Wounds】during combat, and also, when unit's Special triggers, neutralizes foe's \"reduces damage by X%\" effects from foe's non-Special skills (excluding area-of-effect Specials).<br><br>【Imbue】<br>Reduces the effect of【Deep Wounds】on unit by 50% during combat, and restores 40% of unit's maximum HP as unit's combat begins for 1 turn (triggers after effects that deal damage as combat begins; only highest value applied; does not stack).<br><br>【Reflex】<br>Reduces damage from foe's first attack by 7 during combat (\"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes) and unit's next attack deals damage = total damage reduced from foe's first attack (by any source, including other skills; resets at end of combat). (For 1 turn.)<br><br>【Deep Wounds】<br>Unit's HP cannot be healed through its next action."
+  },
+  {
     "id": "SID_ファイアー",
     "description": null
   },
@@ -7481,7 +7493,7 @@
   },
   {
     "id": "SID_心優しき邪竜兎の卵",
-    "description": "Accelerates Special trigger (cooldown count-1). Grants HP+5, Atk/Res+6.<br><br>At start of player phase or enemy phase, if unit is within 2 spaces of an ally, grants \"reduces damage from area-of-effect Specials by 80% (excluding Røkkr area-of-effect Specials),\" 【Resonance: Blades】, and【Resonance: Shields】 to unit and allies within 2 spaces of unit for 1 turn.<br><br>If unit initiates combat or is within 2 spaces of an ally, grants bonus to unit's Atk/Res = 20% of unit's Res at start of combat, deals damage = 20% of unit's Res (excluding area-of-effect Specials), and unit makes a guaranteed follow-up attack during combat, and also, if unit's Res ≥ foe's Res+10, unit attacks twice during combat.<br><br>【Resonance: Blades】<br>Grants Atk/Spd+4 during combat for 1 turn.<br><br>【Resonance: Shields】<br>Grants Def/Res+4 during combat and the following effect for 1 turn: \"During unit's first combat in player phase or enemy phase, foe cannot make a follow-up attack.\""
+    "description": "Accelerates Special trigger (cooldown count-1).<br>Grants HP+5, Atk/Res+6.<br><br>At start of player phase or enemy phase, if unit is within 2 spaces of an ally, grants \"reduces damage from area-of-effect Specials by 80% (excluding Røkkr area-of-effect Specials),\" 【Resonance: Blades】, and【Resonance: Shields】 to unit and allies within 2 spaces of unit for 1 turn.<br><br>If unit initiates combat or is within 2 spaces of an ally, grants bonus to unit's Atk/Res = 20% of unit's Res at start of combat, deals damage = 20% of unit's Res (excluding area-of-effect Specials), and unit makes a guaranteed follow-up attack during combat, and also, if unit's Res ≥ foe's Res+10, unit attacks twice during combat.<br><br>【Resonance: Blades】<br>Grants Atk/Spd+4 during combat for 1 turn.<br><br>【Resonance: Shields】<br>Grants Def/Res+4 during combat and the following effect for 1 turn: \"During unit's first combat in player phase or enemy phase, foe cannot make a follow-up attack.\""
   },
   {
     "id": "SID_ガーベラの斧",
@@ -10153,7 +10165,7 @@
   },
   {
     "id": "SID_月の腕輪",
-    "description": "Slows Special trigger (cooldown count+1). Deals damage = 50% of foe's Def when Special triggers."
+    "description": "Slows Special trigger (cooldown count+1).<br>Deals damage = 50% of foe's Def when Special triggers."
   },
   {
     "id": "SID_月の腕輪・承",
@@ -11614,6 +11626,10 @@
   {
     "id": "SID_感謝の花の槍＋",
     "description": "If foe initiates combat or if foe's HP ≥ 75% at start of combat, grants Atk/Spd+5 to unit and neutralizes effects that guarantee foe's follow-up attacks during combat."
+  },
+  {
+    "id": "SID_漆闇の月光",
+    "description": "When Special triggers, boosts damage by 80% of the greater of foe's Spd or Def.<br><br>Neutralizes effects that prevent unit's counterattacks and reduces damage from attacks by X% during combat (X = 50 - current Special cooldown count value × 10, but if unit's Special triggered during this combat, X = 50; excluding area-of-effect Specials), and also, if unit's Def ≥ foe's Def+5, disables unit's and foe's skills that change attack priority during combat."
   },
   {
     "id": "SID_回り込み",

@@ -10197,6 +10197,7 @@
   },
   {
     "id": "SID_攻撃魔防の福音",
+    "game8_id": "520603",
     "name": "Atk/Res Tidings",
     "group_name": "Atk/Res Tidings",
     "category": "passivea",
@@ -26349,6 +26350,31 @@
     }
   },
   {
+    "id": "SID_反攻隊形",
+    "game8_id": "524040",
+    "name": "Counter Fighter",
+    "group_name": "Counter Fighter",
+    "category": "passiveb",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/4c/Counter_Fighter.png/revision/latest?cb=20250530100625",
+    "is_prf": false,
+    "sp": 300,
+    "tier": 4,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Armored"
+        ]
+      },
+      "weapons": {
+        "none": true
+      }
+    },
+    "downgrade_ids": [
+      "SID_迎撃隊形3"
+    ]
+  },
+  {
     "id": "SID_反撃の咆哮1",
     "game8_id": "421757",
     "name": "Counter Roar 1",
@@ -33788,6 +33814,33 @@
     ]
   },
   {
+    "id": "SID_遠反・攻守の密集",
+    "game8_id": "524039",
+    "name": "Distant A/D Form",
+    "group_name": "Distant A/D Form",
+    "category": "passivea",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/46/Distant_A_D_Form.png/revision/latest?cb=20250530225636",
+    "is_prf": false,
+    "sp": 300,
+    "tier": 2,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "All Melee",
+          "All Breath",
+          "All Beast"
+        ]
+      }
+    },
+    "downgrade_ids": [
+      "SID_遠距離反撃"
+    ]
+  },
+  {
     "id": "SID_遠反・攻速の孤軍",
     "game8_id": "411504",
     "name": "Distant A/S Solo",
@@ -33839,6 +33892,7 @@
     },
     "upgrade_ids": [
       "SID_遠反・強化増幅",
+      "SID_遠反・攻守の密集",
       "SID_遠反・攻速の孤軍",
       "SID_遠反・守魔の孤軍",
       "SID_遠反・飛燕の構え",
@@ -42285,6 +42339,30 @@
         ]
       }
     }
+  },
+  {
+    "id": "SID_終着の剣",
+    "game8_id": "524037",
+    "name": "Final Sword",
+    "group_name": "Final Sword",
+    "category": "weapon",
+    "weapon_type": "Red Sword",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Red Sword"
+        ]
+      }
+    },
+    "downgrade_ids": [
+      "SID_銀の剣"
+    ]
   },
   {
     "id": "SID_ファイアー",
@@ -65996,6 +66074,7 @@
       "SID_滅殺",
       "SID_漆黒の月光",
       "SID_暴の天空",
+      "SID_漆闇の月光",
       "SID_蒼の天空",
       "SID_ツインストライク"
     ],
@@ -75392,6 +75471,30 @@
     },
     "downgrade_ids": [
       "SID_感謝の花の槍"
+    ]
+  },
+  {
+    "id": "SID_漆闇の月光",
+    "game8_id": "524038",
+    "name": "Pitch-Dark Luna",
+    "group_name": "Pitch-Dark Luna",
+    "category": "special",
+    "is_prf": true,
+    "sp": 500,
+    "tier": 3,
+    "cd": 3,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_not_use": [
+          "Colorless Staff"
+        ]
+      }
+    },
+    "downgrade_ids": [
+      "SID_月光"
     ]
   },
   {
@@ -91541,6 +91644,7 @@
       "SID_邪竜の御子の剣",
       "SID_盟友との絆の剣",
       "SID_戦神の烈剣",
+      "SID_終着の剣",
       "SID_微睡の花の剣",
       "SID_犠牲の花",
       "SID_フォルクヴァング",
@@ -110810,6 +110914,7 @@
       }
     },
     "upgrade_ids": [
+      "SID_反攻隊形",
       "SID_迎撃隊形4"
     ],
     "downgrade_ids": [

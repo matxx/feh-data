@@ -41,6 +41,7 @@
   {
     "id": "SID_鎧の護り手・遠・茨",
     "fodder_ids": [
+      "PID_伝承漆黒の騎士",
       "PID_冬祭フォデス"
     ],
     "fodder": {
@@ -57,15 +58,17 @@
       "hg": false,
       "dc": true,
       "ldc": false,
-      "foc": false
+      "foc": true
     },
     "flrwo": {
       "ssp": 5,
-      "dc": 5
+      "dc": 5,
+      "foc": 5
     },
     "flrfi": {
       "ssp": 5,
-      "dc": 5
+      "dc": 5,
+      "foc": 5
     },
     "divine_codes": {
       "normal": [
@@ -109,6 +112,7 @@
   {
     "id": "SID_鎧の護り手・遠間1",
     "fodder_ids": [
+      "PID_伝承漆黒の騎士",
       "PID_冬祭フォデス",
       "PID_神階フォデス",
       "PID_響心ヘクトル",
@@ -159,6 +163,7 @@
   {
     "id": "SID_鎧の護り手・遠間2",
     "fodder_ids": [
+      "PID_伝承漆黒の騎士",
       "PID_冬祭フォデス",
       "PID_神階フォデス",
       "PID_響心ヘクトル",
@@ -209,6 +214,7 @@
   {
     "id": "SID_鎧の護り手・遠間3",
     "fodder_ids": [
+      "PID_伝承漆黒の騎士",
       "PID_冬祭フォデス",
       "PID_神階フォデス",
       "PID_響心ヘクトル",
@@ -46574,6 +46580,35 @@
     "divine_codes": {}
   },
   {
+    "id": "SID_反攻隊形",
+    "fodder_ids": [
+      "PID_伝承漆黒の騎士"
+    ],
+    "fodder": {
+      "g4": 1,
+      "hg": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 1,
+      "shsr": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "flrwo": {
+      "foc": 5
+    },
+    "flrfi": {
+      "foc": 5
+    },
+    "divine_codes": {}
+  },
+  {
     "id": "SID_反撃の咆哮1",
     "fodder_ids": [
       "PID_総選挙カムイ女",
@@ -59341,6 +59376,35 @@
     "divine_codes": {}
   },
   {
+    "id": "SID_遠反・攻守の密集",
+    "fodder_ids": [
+      "PID_伝承漆黒の騎士"
+    ],
+    "fodder": {
+      "g4": 2,
+      "hg": 2,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 1,
+      "shsr": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "flrwo": {
+      "foc": 5
+    },
+    "flrfi": {
+      "foc": 5
+    },
+    "divine_codes": {}
+  },
+  {
     "id": "SID_遠反・攻速の孤軍",
     "fodder_ids": [
       "PID_闇ベレス"
@@ -59374,6 +59438,7 @@
     "fodder_ids": [
       "PID_年明アシュ",
       "PID_ハロアスク",
+      "PID_伝承漆黒の騎士",
       "PID_冬祭漆黒の騎士",
       "PID_ベレト",
       "PID_闇ベレス",
@@ -74816,6 +74881,35 @@
     },
     "flrwo": {},
     "flrfi": {},
+    "divine_codes": {}
+  },
+  {
+    "id": "SID_終着の剣",
+    "fodder_ids": [
+      "PID_伝承漆黒の騎士"
+    ],
+    "fodder": {
+      "g4": 1,
+      "hg": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 1,
+      "shsr": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "flrwo": {
+      "foc": 5
+    },
+    "flrfi": {
+      "foc": 5
+    },
     "divine_codes": {}
   },
   {
@@ -106680,6 +106774,7 @@
       "PID_双界アイラ",
       "PID_春祭バアトル",
       "PID_ベウフォレス",
+      "PID_伝承漆黒の騎士",
       "PID_漆黒の騎士",
       "PID_比翼ベレト",
       "PID_ベレス",
@@ -116720,6 +116815,7 @@
     "fodder_ids": [
       "PID_リュール女",
       "PID_花嫁アンナ覚醒",
+      "PID_伝承漆黒の騎士",
       "PID_漆黒の騎士",
       "PID_冬祭漆黒の騎士",
       "PID_神階ブラミモンド",
@@ -122859,6 +122955,7 @@
       "PID_バジーリオ",
       "PID_冬祭ベルナデッタ",
       "PID_総選挙ベルナデッタ",
+      "PID_伝承漆黒の騎士",
       "PID_漆黒の騎士",
       "PID_冬祭漆黒の騎士",
       "PID_神階ブラミモンド",
@@ -132844,6 +132941,35 @@
         }
       ]
     }
+  },
+  {
+    "id": "SID_漆闇の月光",
+    "fodder_ids": [
+      "PID_伝承漆黒の騎士"
+    ],
+    "fodder": {
+      "g4": 1,
+      "hg": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 1,
+      "shsr": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "flrwo": {
+      "foc": 5
+    },
+    "flrfi": {
+      "foc": 5
+    },
+    "divine_codes": {}
   },
   {
     "id": "SID_回り込み",
@@ -160060,6 +160186,7 @@
       "PID_アイラ",
       "PID_伝承アイラ",
       "PID_双界アイラ",
+      "PID_伝承漆黒の騎士",
       "PID_漆黒の騎士",
       "PID_比翼ベレト",
       "PID_ベレス",
@@ -180936,6 +181063,7 @@
       "PID_双界アイラ",
       "PID_春祭バアトル",
       "PID_ベウフォレス",
+      "PID_伝承漆黒の騎士",
       "PID_漆黒の騎士",
       "PID_比翼ベレト",
       "PID_ベレス",
@@ -196013,6 +196141,7 @@
   {
     "id": "SID_迎撃隊形1",
     "fodder_ids": [
+      "PID_伝承漆黒の騎士",
       "PID_ボールス",
       "PID_カイネギス",
       "PID_冬祭ファ",
@@ -196104,6 +196233,7 @@
   {
     "id": "SID_迎撃隊形2",
     "fodder_ids": [
+      "PID_伝承漆黒の騎士",
       "PID_ボールス",
       "PID_カイネギス",
       "PID_冬祭ファ",
@@ -196195,6 +196325,7 @@
   {
     "id": "SID_迎撃隊形3",
     "fodder_ids": [
+      "PID_伝承漆黒の騎士",
       "PID_ボールス",
       "PID_カイネギス",
       "PID_冬祭ファ",

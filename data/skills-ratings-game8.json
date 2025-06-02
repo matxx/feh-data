@@ -1210,6 +1210,11 @@
     "game8_grade": "S"
   },
   {
+    "id": "SID_終着の剣",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
     "id": "SID_忍の刀",
     "game8_rating": null,
     "game8_grade": null
@@ -9630,24 +9635,24 @@
     "game8_grade": null
   },
   {
-    "id": "SID_ノヴァの聖戦士",
-    "game8_rating": "9.5",
-    "game8_grade": null
-  },
-  {
     "id": "SID_天狼・神",
     "game8_rating": "9.5",
     "game8_grade": "A"
   },
   {
-    "id": "SID_双刃",
-    "game8_rating": "9.0",
+    "id": "SID_ノヴァの聖戦士",
+    "game8_rating": "9.5",
     "game8_grade": null
   },
   {
     "id": "SID_ノヴァの聖戦士・承",
     "game8_rating": "9.5",
     "game8_grade": "S"
+  },
+  {
+    "id": "SID_双刃",
+    "game8_rating": "9.0",
+    "game8_grade": null
   },
   {
     "id": "SID_開世",
@@ -9680,12 +9685,12 @@
     "game8_grade": null
   },
   {
-    "id": "SID_反竜穿・承",
+    "id": "SID_魔弾",
     "game8_rating": "9.5",
     "game8_grade": "A"
   },
   {
-    "id": "SID_魔弾",
+    "id": "SID_反竜穿・承",
     "game8_rating": "9.5",
     "game8_grade": "A"
   },
@@ -9720,12 +9725,17 @@
     "game8_grade": "SS"
   },
   {
+    "id": "SID_グランベルの…・承",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
     "id": "SID_覇天",
     "game8_rating": "9.0",
     "game8_grade": null
   },
   {
-    "id": "SID_グランベルの…・承",
+    "id": "SID_覇天・承",
     "game8_rating": "9.5",
     "game8_grade": "S"
   },
@@ -9738,11 +9748,6 @@
     "id": "SID_光炎の紋章",
     "game8_rating": "9.5",
     "game8_grade": "A"
-  },
-  {
-    "id": "SID_覇天・承",
-    "game8_rating": "9.5",
-    "game8_grade": "S"
   },
   {
     "id": "SID_鎮魂の舞",
@@ -9770,12 +9775,12 @@
     "game8_grade": "A"
   },
   {
-    "id": "SID_聖神と暗黒神…・承",
+    "id": "SID_閉界",
     "game8_rating": "9.5",
     "game8_grade": "S"
   },
   {
-    "id": "SID_閉界",
+    "id": "SID_聖神と暗黒神…・承",
     "game8_rating": "9.5",
     "game8_grade": "S"
   },
@@ -9936,6 +9941,11 @@
   },
   {
     "id": "SID_邪竜破",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_漆闇の月光",
     "game8_rating": "9.5",
     "game8_grade": "S"
   },
@@ -11840,6 +11850,11 @@
     "game8_grade": null
   },
   {
+    "id": "SID_遠反・攻守の密集",
+    "game8_rating": "9.0",
+    "game8_grade": "S"
+  },
+  {
     "id": "SID_攻撃魔防の密集3",
     "game8_rating": "8.0",
     "game8_grade": "B"
@@ -12825,6 +12840,11 @@
     "game8_grade": "S"
   },
   {
+    "id": "SID_攻撃魔防の福音",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
     "id": "SID_見下す者",
     "game8_rating": "9.5",
     "game8_grade": "S"
@@ -13448,6 +13468,11 @@
     "id": "SID_迎撃隊形4",
     "game8_rating": "9.0",
     "game8_grade": null
+  },
+  {
+    "id": "SID_反攻隊形",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
   },
   {
     "id": "SID_奥義隊形1",
