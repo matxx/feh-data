@@ -9766,11 +9766,12 @@
       "ssp": false,
       "hg": true,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "lowest_rarity": {
-      "hg": 4
+      "hg": 4,
+      "ldc": 4
     },
     "skill_ids": [
       "SID_ぶちかまし",
@@ -9785,7 +9786,16 @@
       "SID_生の息吹3",
       "SID_若獣の化身・騎馬"
     ],
-    "divine_codes": {}
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2025,
+          "month": 6,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "PID_エイクスルニル味方",
@@ -11602,7 +11612,8 @@
       "SID_速さの開放3",
       "SID_速さ魔防の孤軍1",
       "SID_速さ魔防の孤軍2",
-      "SID_速さ魔防の孤軍3"
+      "SID_速さ魔防の孤軍3",
+      "SID_魔道軍将の器の書"
     ],
     "divine_codes": {
       "limited": [
@@ -11873,6 +11884,35 @@
         }
       ]
     }
+  },
+  {
+    "id": "PID_エクセライ",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {},
+    "skill_ids": [
+      "SID_エルファイアー",
+      "SID_ファイアー",
+      "SID_ラウアスパロー",
+      "SID_ラウアスパロー＋",
+      "SID_守備魔防の大共謀1",
+      "SID_守備魔防の大共謀2",
+      "SID_守備魔防の大共謀3",
+      "SID_攻撃の大応援",
+      "SID_攻撃の応援",
+      "SID_攻撃の謀策1",
+      "SID_攻撃の謀策2",
+      "SID_攻撃の謀策3",
+      "SID_氷点",
+      "SID_氷華"
+    ],
+    "divine_codes": {}
   },
   {
     "id": "PID_エーヴェル",
@@ -14858,6 +14898,67 @@
         }
       ]
     }
+  },
+  {
+    "id": "PID_ギムレー女",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {},
+    "skill_ids": [
+      "SID_兜の護り手・近・茨",
+      "SID_兜の護り手・近間1",
+      "SID_兜の護り手・近間2",
+      "SID_兜の護り手・近間3",
+      "SID_守備魔防の竜眼1",
+      "SID_守備魔防の竜眼2",
+      "SID_守備魔防の竜眼3",
+      "SID_守備魔防の竜眼4",
+      "SID_正面隊形・敵方1",
+      "SID_正面隊形・敵方2",
+      "SID_正面隊形・敵方3",
+      "SID_正面隊形・敵方4",
+      "SID_氷点",
+      "SID_氷蒼",
+      "SID_深き絶望のブレス",
+      "SID_火のブレス",
+      "SID_火炎のブレス",
+      "SID_灼熱のブレス",
+      "SID_重装の大氷"
+    ],
+    "divine_codes": {}
+  },
+  {
+    "id": "PID_ギムレー男",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {},
+    "skill_ids": [
+      "SID_堅牢のブレス",
+      "SID_堅牢のブレス＋",
+      "SID_攻撃魔防の竜眼1",
+      "SID_攻撃魔防の竜眼2",
+      "SID_攻撃魔防の竜眼3",
+      "SID_正面隊形・自己1",
+      "SID_正面隊形・自己2",
+      "SID_正面隊形・自己3",
+      "SID_氷点",
+      "SID_氷華",
+      "SID_火のブレス",
+      "SID_火炎のブレス"
+    ],
+    "divine_codes": {}
   },
   {
     "id": "PID_グリ",
@@ -18348,11 +18449,12 @@
       "ssp": false,
       "hg": true,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "lowest_rarity": {
-      "hg": 4
+      "hg": 4,
+      "ldc": 4
     },
     "skill_ids": [
       "SID_巳年の弓",
@@ -18368,7 +18470,16 @@
       "SID_鉄の弓",
       "SID_鋼の弓"
     ],
-    "divine_codes": {}
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2025,
+          "month": 6,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "PID_ヒーニアス",
@@ -22672,11 +22783,12 @@
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "lowest_rarity": {
-      "gsp": 3
+      "gsp": 3,
+      "ldc": 4
     },
     "skill_ids": [
       "SID_キャンセル1",
@@ -22692,7 +22804,16 @@
       "SID_鉄の弓",
       "SID_鋼の弓"
     ],
-    "divine_codes": {}
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2025,
+          "month": 6,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "PID_水着レオニー",
@@ -27756,11 +27877,12 @@
       "ssp": true,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "lowest_rarity": {
-      "ssp": 5
+      "ssp": 5,
+      "ldc": 5
     },
     "skill_ids": [
       "SID_アトラース",
@@ -27777,7 +27899,16 @@
       "SID_癒しの乙女",
       "SID_純白の月の雫"
     ],
-    "divine_codes": {}
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2025,
+          "month": 6,
+          "rarity": 5,
+          "cost": 300
+        }
+      ]
+    }
   },
   {
     "id": "PID_ミシェイル",
@@ -28270,6 +28401,12 @@
         {
           "year": 2023,
           "month": 9,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 6,
           "rarity": 4,
           "cost": 100
         }
@@ -31042,6 +31179,39 @@
     }
   },
   {
+    "id": "PID_魔器ノワール",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "lowest_rarity": {
+      "foc": 5
+    },
+    "skill_ids": [
+      "SID_あの世に行くが良い",
+      "SID_影月",
+      "SID_攻撃速さの呪刃",
+      "SID_曲射",
+      "SID_月虹",
+      "SID_速さの吸収1",
+      "SID_速さの吸収2",
+      "SID_速さの吸収3",
+      "SID_速さの吸収4",
+      "SID_鉄の弓",
+      "SID_銀の弓",
+      "SID_鋼の弓",
+      "SID_魔器・呪術の秘弓",
+      "SID_魔道の刃1",
+      "SID_魔道の刃2",
+      "SID_魔道の刃3"
+    ],
+    "divine_codes": {}
+  },
+  {
     "id": "PID_水着ノワール",
     "is_in": {
       "gsp": false,
@@ -32612,6 +32782,7 @@
       "hg": 3
     },
     "skill_ids": [
+      "SID_デインの後継の書",
       "SID_ミィル",
       "SID_ラウアライオン",
       "SID_ラウアライオン＋",
@@ -33525,11 +33696,12 @@
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "lowest_rarity": {
-      "gsp": 3
+      "gsp": 3,
+      "ldc": 4
     },
     "skill_ids": [
       "SID_HP1",
@@ -33545,7 +33717,16 @@
       "SID_魔防封じ2",
       "SID_魔防封じ3"
     ],
-    "divine_codes": {}
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2025,
+          "month": 6,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "PID_ライ",
@@ -37844,11 +38025,12 @@
       "ssp": true,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "lowest_rarity": {
-      "ssp": 5
+      "ssp": 5,
+      "ldc": 5
     },
     "skill_ids": [
       "SID_凶星",
@@ -37867,7 +38049,16 @@
       "SID_銀の剣",
       "SID_鋼の剣"
     ],
-    "divine_codes": {}
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2025,
+          "month": 6,
+          "rarity": 5,
+          "cost": 300
+        }
+      ]
+    }
   },
   {
     "id": "PID_シェズ男",
@@ -40696,6 +40887,40 @@
         }
       ]
     }
+  },
+  {
+    "id": "PID_響心サーリャ",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "lowest_rarity": {
+      "foc": 5
+    },
+    "skill_ids": [
+      "SID_あの世行きよ…",
+      "SID_ウインド",
+      "SID_エルウインド",
+      "SID_レクスカリバー",
+      "SID_死の吐息1",
+      "SID_死の吐息2",
+      "SID_死の吐息3",
+      "SID_死の瘴気",
+      "SID_母娘の呪術書",
+      "SID_氷壁",
+      "SID_氷点",
+      "SID_氷華",
+      "SID_速さの混乱1",
+      "SID_速さの混乱2",
+      "SID_速さの混乱3",
+      "SID_速さ魔防の大混乱",
+      "SID_響・十字牽制"
+    ],
+    "divine_codes": {}
   },
   {
     "id": "PID_花嫁サーリャ",

@@ -912,6 +912,18 @@
     "description": "Grants HP+5, Spd/Def+3."
   },
   {
+    "id": "SID_第95迷宮の覇者1",
+    "description": "Grants HP+3, Spd/Res+1."
+  },
+  {
+    "id": "SID_第95迷宮の覇者2",
+    "description": "Grants HP+4, Spd/Res+2."
+  },
+  {
+    "id": "SID_第95迷宮の覇者3",
+    "description": "Grants HP+5, Spd/Res+3."
+  },
+  {
     "id": "SID_第4迷宮の覇者1",
     "description": "Grants Spd+1."
   },
