@@ -18909,15 +18909,19 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "gsp": 5
+    },
+    "flrfi": {
+      "gsp": 5
+    },
     "divine_codes": {}
   },
   {
@@ -119010,15 +119014,19 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "gsp": 5
+    },
+    "flrfi": {
+      "gsp": 5
+    },
     "divine_codes": {}
   },
   {
@@ -146891,7 +146899,7 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": true,
       "hg": false,
       "dc": false,
@@ -146899,10 +146907,12 @@
       "foc": true
     },
     "flrwo": {
+      "gsp": 5,
       "ssp": 5,
       "foc": 5
     },
     "flrfi": {
+      "gsp": 2,
       "ssp": 2,
       "foc": 2
     },
@@ -146925,7 +146935,7 @@
       "shsr": 2
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": true,
       "hg": false,
       "dc": false,
@@ -146933,10 +146943,12 @@
       "foc": true
     },
     "flrwo": {
+      "gsp": 5,
       "ssp": 5,
       "foc": 5
     },
     "flrfi": {
+      "gsp": 3,
       "ssp": 3,
       "foc": 3
     },
@@ -146959,7 +146971,7 @@
       "shsr": 3
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": true,
       "hg": false,
       "dc": false,
@@ -146967,10 +146979,12 @@
       "foc": true
     },
     "flrwo": {
+      "gsp": 5,
       "ssp": 5,
       "foc": 5
     },
     "flrfi": {
+      "gsp": 4,
       "ssp": 4,
       "foc": 4
     },
@@ -146993,7 +147007,7 @@
       "shsr": 4
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": true,
       "hg": false,
       "dc": false,
@@ -147001,10 +147015,12 @@
       "foc": true
     },
     "flrwo": {
+      "gsp": 5,
       "ssp": 5,
       "foc": 5
     },
     "flrfi": {
+      "gsp": 5,
       "ssp": 5,
       "foc": 5
     },

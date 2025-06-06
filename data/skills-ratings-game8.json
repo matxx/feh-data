@@ -1335,6 +1335,11 @@
     "game8_grade": "S"
   },
   {
+    "id": "SID_魔器・呪術の秘弓",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
     "id": "SID_赤いアヒル",
     "game8_rating": null,
     "game8_grade": null
@@ -2076,6 +2081,16 @@
   },
   {
     "id": "SID_花嫁の花束＋",
+    "game8_rating": "8.5",
+    "game8_grade": "B"
+  },
+  {
+    "id": "SID_ラウアスパロー",
+    "game8_rating": null,
+    "game8_grade": null
+  },
+  {
+    "id": "SID_ラウアスパロー＋",
     "game8_rating": "8.5",
     "game8_grade": "B"
   },
@@ -4530,6 +4545,16 @@
     "game8_grade": "S"
   },
   {
+    "id": "SID_堅牢のブレス",
+    "game8_rating": null,
+    "game8_grade": null
+  },
+  {
+    "id": "SID_堅牢のブレス＋",
+    "game8_rating": "8.5",
+    "game8_grade": "B"
+  },
+  {
     "id": "SID_幼獣の化身・騎馬",
     "game8_rating": null,
     "game8_grade": null
@@ -6580,6 +6605,11 @@
     "game8_grade": "S"
   },
   {
+    "id": "SID_母娘の呪術書",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
     "id": "SID_光のブレス",
     "game8_rating": null,
     "game8_grade": null
@@ -8605,6 +8635,11 @@
     "game8_grade": "S"
   },
   {
+    "id": "SID_深き絶望のブレス",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
     "id": "SID_幼獣の化身・重装",
     "game8_rating": null,
     "game8_grade": null
@@ -9211,6 +9246,11 @@
   },
   {
     "id": "SID_重装の聖氷",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_重装の大氷",
     "game8_rating": "9.5",
     "game8_grade": "S"
   },
@@ -11850,11 +11890,6 @@
     "game8_grade": null
   },
   {
-    "id": "SID_遠反・攻守の密集",
-    "game8_rating": "9.0",
-    "game8_grade": "S"
-  },
-  {
     "id": "SID_攻撃魔防の密集3",
     "game8_rating": "8.0",
     "game8_grade": "B"
@@ -12470,6 +12505,11 @@
     "game8_grade": null
   },
   {
+    "id": "SID_攻撃速さの呪刃",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
     "id": "SID_攻撃の覚醒1",
     "game8_rating": null,
     "game8_grade": null
@@ -12831,6 +12871,11 @@
   },
   {
     "id": "SID_絆を引き裂くもの",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_あの世行きよ…",
     "game8_rating": "9.5",
     "game8_grade": "S"
   },
@@ -14223,6 +14268,11 @@
     "id": "SID_守備の混乱1",
     "game8_rating": null,
     "game8_grade": null
+  },
+  {
+    "id": "SID_速さ魔防の大混乱",
+    "game8_rating": "9.0",
+    "game8_grade": "A"
   },
   {
     "id": "SID_守備の混乱2",
@@ -18505,6 +18555,11 @@
     "game8_grade": null
   },
   {
+    "id": "SID_兜の護り手・近・茨",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
     "id": "SID_盾の護り手・遠間3",
     "game8_rating": "9.5",
     "game8_grade": "S"
@@ -18975,17 +19030,12 @@
     "game8_grade": "S"
   },
   {
-    "id": "SID_女神を宿せし者",
-    "game8_rating": "9.0",
-    "game8_grade": "A"
-  },
-  {
     "id": "SID_開神の眷属・神",
     "game8_rating": "9.0",
     "game8_grade": "A"
   },
   {
-    "id": "SID_地上の最後の女神",
+    "id": "SID_女神を宿せし者",
     "game8_rating": "9.0",
     "game8_grade": "A"
   },
@@ -18993,6 +19043,11 @@
     "id": "SID_女神を宿せし者・承",
     "game8_rating": "9.5",
     "game8_grade": "S"
+  },
+  {
+    "id": "SID_地上の最後の女神",
+    "game8_rating": "9.0",
+    "game8_grade": "A"
   },
   {
     "id": "SID_地上の最後の…・神",
@@ -19040,14 +19095,14 @@
     "game8_grade": null
   },
   {
-    "id": "SID_我が名は混沌",
-    "game8_rating": "8.5",
-    "game8_grade": null
-  },
-  {
     "id": "SID_人の可能性を！・承",
     "game8_rating": "9.5",
     "game8_grade": "A"
+  },
+  {
+    "id": "SID_我が名は混沌",
+    "game8_rating": "8.5",
+    "game8_grade": null
   },
   {
     "id": "SID_ひとりぼっちのゆめ",
@@ -19095,17 +19150,12 @@
     "game8_grade": null
   },
   {
-    "id": "SID_光輝く翼",
-    "game8_rating": "9.0",
-    "game8_grade": null
-  },
-  {
     "id": "SID_死からは逃れ…・神",
     "game8_rating": "9.9",
     "game8_grade": null
   },
   {
-    "id": "SID_束縛、秩序、安定",
+    "id": "SID_光輝く翼",
     "game8_rating": "9.0",
     "game8_grade": null
   },
@@ -19113,6 +19163,11 @@
     "id": "SID_光輝く翼・神",
     "game8_rating": "9.5",
     "game8_grade": "A"
+  },
+  {
+    "id": "SID_束縛、秩序、安定",
+    "game8_rating": "9.0",
+    "game8_grade": null
   },
   {
     "id": "SID_束縛、秩序、…・神",
@@ -19160,14 +19215,14 @@
     "game8_grade": "A"
   },
   {
-    "id": "SID_闇の樹海の守…・承",
-    "game8_rating": "9.5",
-    "game8_grade": "S"
-  },
-  {
     "id": "SID_永生結界",
     "game8_rating": "9.5",
     "game8_grade": "A"
+  },
+  {
+    "id": "SID_闇の樹海の守…・承",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
   },
   {
     "id": "SID_みんなが繋がる世界",
@@ -19366,6 +19421,11 @@
   },
   {
     "id": "SID_響・攻撃の信義",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_響・十字牽制",
     "game8_rating": "9.5",
     "game8_grade": "S"
   },

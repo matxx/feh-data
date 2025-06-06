@@ -504,6 +504,7 @@
   },
   {
     "id": "SID_兜の護り手・近・茨",
+    "game8_id": "526827",
     "name": "A/R Briar N Save",
     "group_name": "A/R Briar N Save",
     "category": "passivec",
@@ -2803,6 +2804,7 @@
   },
   {
     "id": "SID_あの世行きよ…",
+    "game8_id": "526824",
     "name": "Already Dead",
     "group_name": "Already Dead",
     "category": "passivea",
@@ -4349,6 +4351,7 @@
   },
   {
     "id": "SID_魔器・呪術の秘弓",
+    "game8_id": "526817",
     "name": "Arcane Hex Bow",
     "group_name": "Arcane Hex Bow",
     "category": "weapon",
@@ -5233,6 +5236,7 @@
   },
   {
     "id": "SID_重装の大氷",
+    "game8_id": "526822",
     "name": "Armored Glacier",
     "group_name": "Armored Glacier",
     "category": "special",
@@ -11185,6 +11189,7 @@
   },
   {
     "id": "SID_攻撃速さの呪刃",
+    "game8_id": "526823",
     "name": "Atk/Spd Hexedge",
     "group_name": "Atk/Spd Hexedge",
     "category": "passivea",
@@ -27528,6 +27533,7 @@
   },
   {
     "id": "SID_響・十字牽制",
+    "game8_id": "526828",
     "name": "Crux Echo",
     "group_name": "Crux Echo",
     "category": "passivex",
@@ -33329,6 +33335,7 @@
   },
   {
     "id": "SID_深き絶望のブレス",
+    "game8_id": "526818",
     "name": "Despairing Breath",
     "group_name": "Despairing Breath",
     "category": "weapon",
@@ -34002,7 +34009,6 @@
   },
   {
     "id": "SID_遠反・攻守の密集",
-    "game8_id": "524039",
     "name": "Distant A/D Form",
     "group_name": "Distant A/D Form",
     "category": "passivea",
@@ -62244,6 +62250,7 @@
   },
   {
     "id": "SID_母娘の呪術書",
+    "game8_id": "526821",
     "name": "Kindred Tome",
     "group_name": "Kindred Tome",
     "category": "weapon",
@@ -72394,6 +72401,7 @@
   },
   {
     "id": "SID_堅牢のブレス",
+    "game8_id": "526819",
     "name": "Obstinate Breath",
     "group_name": "Obstinate Breath",
     "category": "weapon",
@@ -72421,6 +72429,7 @@
   },
   {
     "id": "SID_堅牢のブレス＋",
+    "game8_id": "526820",
     "name": "Obstinate Breath+",
     "group_name": "Obstinate Breath+",
     "category": "weapon",
@@ -80758,6 +80767,7 @@
   },
   {
     "id": "SID_ラウアスパロー",
+    "game8_id": "526815",
     "name": "Rauðrsparrow",
     "group_name": "Rauðrsparrow",
     "category": "weapon",
@@ -80786,6 +80796,7 @@
   },
   {
     "id": "SID_ラウアスパロー＋",
+    "game8_id": "526816",
     "name": "Rauðrsparrow+",
     "group_name": "Rauðrsparrow+",
     "category": "weapon",
@@ -97698,6 +97709,7 @@
   },
   {
     "id": "SID_速さ魔防の大混乱",
+    "game8_id": "526825",
     "name": "Spd/Res Havoc",
     "group_name": "Spd/Res Havoc",
     "category": "passiveb",

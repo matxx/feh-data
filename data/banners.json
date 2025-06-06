@@ -4429,6 +4429,14 @@
     ]
   },
   {
+    "name": "Focus: Legendary Revival 5",
+    "unit_ids": [
+      "PID_伝承エイリーク",
+      "PID_伝承エフラム",
+      "PID_伝承ヘクトル"
+    ]
+  },
+  {
     "name": "Focus: Leif & Altena's Battle",
     "unit_ids": [
       "PID_アルテナ",
@@ -5099,6 +5107,15 @@
       "PID_暴走アイク",
       "PID_水着セライナ",
       "PID_覚醒アンナ"
+    ]
+  },
+  {
+    "name": "Focus: New Power (Jun 2026)",
+    "unit_ids": [
+      "PID_エルク",
+      "PID_外伝パオラ",
+      "PID_年明ベロア",
+      "PID_覇骸エーデルガルト"
     ]
   },
   {
@@ -10538,6 +10555,15 @@
       "PID_総選挙セリカ",
       "PID_総選挙ヘクトル",
       "PID_総選挙ヴェロニカ"
+    ]
+  },
+  {
+    "name": "New Heroes: Attuned Tharja & Noire",
+    "unit_ids": [
+      "PID_ギムレー女",
+      "PID_ギムレー男",
+      "PID_響心サーリャ",
+      "PID_魔器ノワール"
     ]
   },
   {

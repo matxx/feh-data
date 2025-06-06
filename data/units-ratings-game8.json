@@ -490,6 +490,20 @@
     "recommended_plus10": "Res"
   },
   {
+    "id": "PID_魔器ノワール",
+    "game8_rating": "9.5",
+    "recommended_boon": "Spd",
+    "recommended_bane": "Res",
+    "recommended_plus10": "Spd"
+  },
+  {
+    "id": "PID_響心サーリャ",
+    "game8_rating": "9.5",
+    "recommended_boon": "Spd",
+    "recommended_bane": "Def",
+    "recommended_plus10": "Spd"
+  },
+  {
     "id": "PID_アーダン",
     "game8_rating": "9.0",
     "recommended_boon": "Atk",
@@ -1566,6 +1580,20 @@
     "recommended_boon": "Spd",
     "recommended_bane": "Res",
     "recommended_plus10": "Spd"
+  },
+  {
+    "id": "PID_ギムレー女",
+    "game8_rating": "9.0",
+    "recommended_boon": "Res",
+    "recommended_bane": "Spd",
+    "recommended_plus10": "Res"
+  },
+  {
+    "id": "PID_ギムレー男",
+    "game8_rating": "9.0",
+    "recommended_boon": null,
+    "recommended_bane": null,
+    "recommended_plus10": null
   },
   {
     "id": "PID_インバース",
@@ -6158,6 +6186,13 @@
     "recommended_boon": "Atk",
     "recommended_bane": "Def",
     "recommended_plus10": "Atk"
+  },
+  {
+    "id": "PID_エクセライ",
+    "game8_rating": "8.0",
+    "recommended_boon": "Res",
+    "recommended_bane": "Spd",
+    "recommended_plus10": "Res"
   },
   {
     "id": "PID_アルム",
