@@ -12,7 +12,7 @@ Aws.config[:credentials] = Aws::Credentials.new(
 hash = `git rev-parse HEAD`.strip
 
 Dir['data/*.json'].each do |filename|
-  Aws::S3::Object.new('feh-data', "#{hash}/#{filename.gsub(%r{\Adata/}, '')}").upload_file(
+  Aws::S3::Object.new('feh-data', "commits/#{hash}/#{filename.gsub(%r{\Adata/}, '')}").upload_file(
     filename,
     content_type: 'application/json'
   )
