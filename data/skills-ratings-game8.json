@@ -2095,6 +2095,16 @@
     "game8_grade": "B"
   },
   {
+    "id": "SID_魔道軍将の器の書",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_デインの後継の書",
+    "game8_rating": "9.0",
+    "game8_grade": "A"
+  },
+  {
     "id": "SID_火のブレス",
     "game8_rating": null,
     "game8_grade": null
@@ -12895,6 +12905,11 @@
     "game8_grade": "S"
   },
   {
+    "id": "SID_遠反・攻守の密集",
+    "game8_rating": "9.0",
+    "game8_grade": "S"
+  },
+  {
     "id": "SID_差し違え1",
     "game8_rating": null,
     "game8_grade": null
@@ -16395,6 +16410,11 @@
     "game8_grade": "S"
   },
   {
+    "id": "SID_真・光と闇と",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
     "id": "SID_攻撃の鼓舞1",
     "game8_rating": null,
     "game8_grade": null
@@ -19416,6 +19436,11 @@
   },
   {
     "id": "SID_真・光をつぐもの",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_あの世に行くが良い",
     "game8_rating": "9.5",
     "game8_grade": "S"
   },

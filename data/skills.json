@@ -17699,8 +17699,9 @@
   },
   {
     "id": "SID_あの世に行くが良い",
-    "name": "Blood &amp; Thunder",
-    "group_name": "Blood &amp; Thunder",
+    "game8_id": "526826",
+    "name": "Blood & Thunder",
+    "group_name": "Blood & Thunder",
     "category": "passivec",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/6c/Blood_Thunder.png/revision/latest?cb=20250605071901",
     "is_prf": true,
@@ -34009,6 +34010,7 @@
   },
   {
     "id": "SID_遠反・攻守の密集",
+    "game8_id": "524039",
     "name": "Distant A/D Form",
     "group_name": "Distant A/D Form",
     "category": "passivea",
@@ -47575,8 +47577,9 @@
   },
   {
     "id": "SID_真・光と闇と",
-    "name": "Full Light &amp; Dark",
-    "group_name": "Full Light &amp; Dark",
+    "game8_id": "522359",
+    "name": "Full Light & Dark",
+    "group_name": "Full Light & Dark",
     "category": "passiveb",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b9/Full_Light_Dark.png/revision/latest?cb=20250516054219",
     "is_prf": true,
@@ -49126,6 +49129,7 @@
   },
   {
     "id": "SID_魔道軍将の器の書",
+    "game8_id": "527328",
     "name": "General-to-Be",
     "group_name": "General-to-Be",
     "category": "weapon",
@@ -49148,6 +49152,7 @@
   {
     "id": "SID_魔道軍将の器の書_一",
     "base_id": "SID_魔道軍将の器の書",
+    "game8_id": "527328",
     "name": "General-to-Be",
     "group_name": "General-to-Be",
     "category": "weapon",
@@ -112088,6 +112093,7 @@
   },
   {
     "id": "SID_デインの後継の書",
+    "game8_id": "527329",
     "name": "Vision of Daein",
     "group_name": "Vision of Daein",
     "category": "weapon",
@@ -112110,6 +112116,7 @@
   {
     "id": "SID_デインの後継の書_一",
     "base_id": "SID_デインの後継の書",
+    "game8_id": "527329",
     "name": "Vision of Daein",
     "group_name": "Vision of Daein",
     "category": "weapon",
