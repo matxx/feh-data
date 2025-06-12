@@ -472,6 +472,15 @@
     ]
   },
   {
+    "name": "Attuned Tharja & Noire",
+    "unit_ids": [
+      "PID_ギムレー女",
+      "PID_ギムレー男",
+      "PID_響心サーリャ",
+      "PID_魔器ノワール"
+    ]
+  },
+  {
     "name": "Attuned: Peony & Triandra",
     "unit_ids": [
       "PID_スカビオサ2",
@@ -5110,7 +5119,7 @@
     ]
   },
   {
-    "name": "Focus: New Power (Jun 2026)",
+    "name": "Focus: New Power (Jun 2025)",
     "unit_ids": [
       "PID_エルク",
       "PID_外伝パオラ",
@@ -10555,15 +10564,6 @@
       "PID_総選挙セリカ",
       "PID_総選挙ヘクトル",
       "PID_総選挙ヴェロニカ"
-    ]
-  },
-  {
-    "name": "New Heroes: Attuned Tharja & Noire",
-    "unit_ids": [
-      "PID_ギムレー女",
-      "PID_ギムレー男",
-      "PID_響心サーリャ",
-      "PID_魔器ノワール"
     ]
   },
   {

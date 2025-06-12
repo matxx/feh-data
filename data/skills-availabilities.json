@@ -56203,7 +56203,7 @@
     "is_in": {
       "gsp": true,
       "ssp": true,
-      "hg": false,
+      "hg": true,
       "dc": true,
       "ldc": true,
       "foc": false
@@ -56211,12 +56211,14 @@
     "flrwo": {
       "gsp": 4.5,
       "ssp": 4.5,
+      "hg": 3,
       "dc": 5,
       "ldc": 5
     },
     "flrfi": {
       "gsp": 3,
       "ssp": 3,
+      "hg": 3,
       "dc": 3,
       "ldc": 3
     },
@@ -56247,7 +56249,7 @@
     ],
     "fodder": {
       "g4": 2,
-      "hg": 2,
+      "hg": 1,
       "dc": 1,
       "sh4": 1,
       "gsr": 1,
@@ -56256,7 +56258,7 @@
     "is_in": {
       "gsp": true,
       "ssp": true,
-      "hg": false,
+      "hg": true,
       "dc": true,
       "ldc": true,
       "foc": false
@@ -56264,12 +56266,14 @@
     "flrwo": {
       "gsp": 4.5,
       "ssp": 4.5,
+      "hg": 3,
       "dc": 5,
       "ldc": 5
     },
     "flrfi": {
       "gsp": 4,
       "ssp": 4,
+      "hg": 4,
       "dc": 4,
       "ldc": 4
     },
@@ -56300,7 +56304,7 @@
     ],
     "fodder": {
       "g4": 3,
-      "hg": 3,
+      "hg": 1,
       "dc": 1,
       "sh4": 1,
       "gsr": 1,
@@ -56309,7 +56313,7 @@
     "is_in": {
       "gsp": true,
       "ssp": true,
-      "hg": false,
+      "hg": true,
       "dc": true,
       "ldc": true,
       "foc": false
@@ -56317,12 +56321,14 @@
     "flrwo": {
       "gsp": 4.5,
       "ssp": 4.5,
+      "hg": 3,
       "dc": 5,
       "ldc": 5
     },
     "flrfi": {
       "gsp": 5,
       "ssp": 5,
+      "hg": 5,
       "dc": 5,
       "ldc": 5
     },
@@ -139376,7 +139382,7 @@
     "flrwo": {
       "gsp": 3,
       "ssp": 4,
-      "hg": 4,
+      "hg": 3,
       "dc": 5,
       "ldc": 4,
       "foc": 5
@@ -140348,7 +140354,7 @@
     "is_in": {
       "gsp": true,
       "ssp": true,
-      "hg": false,
+      "hg": true,
       "dc": false,
       "ldc": true,
       "foc": false
@@ -140356,11 +140362,13 @@
     "flrwo": {
       "gsp": 4.5,
       "ssp": 4,
+      "hg": 3,
       "ldc": 5
     },
     "flrfi": {
       "gsp": 4,
       "ssp": 4,
+      "hg": 4,
       "ldc": 4
     },
     "divine_codes": {
@@ -140388,8 +140396,8 @@
     ],
     "fodder": {
       "g4": 2,
-      "hg": 2,
-      "dc": 2,
+      "hg": 1,
+      "dc": 1,
       "sh4": 1,
       "gsr": 1,
       "shsr": 1
@@ -141813,13 +141821,17 @@
     "is_in": {
       "gsp": false,
       "ssp": false,
-      "hg": false,
+      "hg": true,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "hg": 3
+    },
+    "flrfi": {
+      "hg": 3
+    },
     "divine_codes": {}
   },
   {
@@ -141829,22 +141841,26 @@
     ],
     "fodder": {
       "g4": 2,
-      "hg": 2,
-      "dc": 2,
-      "sh4": 2,
-      "gsr": 2,
-      "shsr": 2
+      "hg": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 1,
+      "shsr": 1
     },
     "is_in": {
       "gsp": false,
       "ssp": false,
-      "hg": false,
+      "hg": true,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "hg": 3
+    },
+    "flrfi": {
+      "hg": 5
+    },
     "divine_codes": {}
   },
   {

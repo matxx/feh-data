@@ -11890,12 +11890,14 @@
     "is_in": {
       "gsp": false,
       "ssp": false,
-      "hg": false,
+      "hg": true,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "lowest_rarity": {},
+    "lowest_rarity": {
+      "hg": 3
+    },
     "skill_ids": [
       "SID_エルファイアー",
       "SID_ファイアー",
