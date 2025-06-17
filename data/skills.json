@@ -419,8 +419,41 @@
         ]
       }
     },
+    "upgrade_ids": [
+      "SID_攻撃守備の近影4"
+    ],
     "downgrade_ids": [
       "SID_攻撃守備の近影2"
+    ]
+  },
+  {
+    "id": "SID_攻撃守備の近影4",
+    "game8_id": "529588",
+    "name": "A/D Near Trace 4",
+    "group_name": "A/D Near Trace",
+    "category": "passiveb",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/dc/A_D_Near_Trace_4.png/revision/latest?cb=20250617051752",
+    "is_prf": false,
+    "sp": 300,
+    "tier": 4,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Cavalry",
+          "Flying"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "All Melee",
+          "All Breath",
+          "All Beast"
+        ]
+      }
+    },
+    "downgrade_ids": [
+      "SID_攻撃守備の近影3"
     ]
   },
   {
@@ -12488,6 +12521,7 @@
       "SID_創世の文字の力",
       "SID_正の裁き",
       "SID_幻影の書",
+      "SID_敬虔なる信徒の供物",
       "SID_終端グルヴェイグ",
       "SID_至光アーリアル",
       "SID_魂の秘儀",
@@ -16362,6 +16396,26 @@
     }
   },
   {
+    "id": "SID_黒い牙の絆",
+    "game8_id": "529591",
+    "name": "Black Fang Bond",
+    "group_name": "Black Fang Bond",
+    "category": "passivec",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e7/Black_Fang_Bond.png/revision/latest?cb=20250617051813",
+    "is_prf": true,
+    "sp": 300,
+    "tier": 1,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "none": true
+      }
+    }
+  },
+  {
     "id": "SID_黒の月光",
     "game8_id": "266010",
     "name": "Black Luna",
@@ -18324,6 +18378,7 @@
       "SID_魔器ルナイクリプス",
       "SID_バンシーΘ",
       "SID_ボルガノン＋",
+      "SID_夏の海に弾む球",
       "SID_ブリュンヒルデ",
       "SID_魔継ぐ少女の天球儀",
       "SID_魔道の寵子の羅針盤",
@@ -18858,6 +18913,31 @@
     },
     "downgrade_ids": [
       "SID_緋炎"
+    ]
+  },
+  {
+    "id": "SID_夏の海に弾む球",
+    "game8_id": "529585",
+    "name": "Bouncin' Ball",
+    "group_name": "Bouncin' Ball",
+    "category": "weapon",
+    "weapon_type": "Red Tome",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Red Tome"
+        ]
+      }
+    },
+    "downgrade_ids": [
+      "SID_ボルガノン",
+      "SID_ノスフェラート"
     ]
   },
   {
@@ -33291,6 +33371,7 @@
   },
   {
     "id": "SID_砂漠の虎の戦斧",
+    "game8_id": "417545",
     "name": "Desert-Tiger Axe",
     "group_name": "Desert-Tiger Axe",
     "category": "weapon",
@@ -33313,6 +33394,7 @@
   {
     "id": "SID_砂漠の虎の戦斧_一",
     "base_id": "SID_砂漠の虎の戦斧",
+    "game8_id": "417545",
     "name": "Desert-Tiger Axe",
     "group_name": "Desert-Tiger Axe",
     "category": "weapon",
@@ -40198,7 +40280,8 @@
     },
     "upgrade_ids": [
       "SID_迅雷風烈・鬼没",
-      "SID_迅雷風烈・無極"
+      "SID_迅雷風烈・無極",
+      "SID_迅雷風烈・追撃鼓動"
     ],
     "downgrade_ids": [
       "SID_迅雷風烈・偶数2"
@@ -41078,6 +41161,59 @@
     }
   },
   {
+    "id": "SID_ヤシの葉",
+    "game8_id": "529582",
+    "name": "Fannin' Foliage",
+    "group_name": "Fannin' Foliage",
+    "category": "weapon",
+    "weapon_type": "Green Axe",
+    "is_prf": false,
+    "sp": 200,
+    "tier": 3,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Green Axe"
+        ]
+      }
+    },
+    "upgrade_ids": [
+      "SID_ヤシの葉＋"
+    ],
+    "downgrade_ids": [
+      "SID_鋼の斧"
+    ]
+  },
+  {
+    "id": "SID_ヤシの葉＋",
+    "game8_id": "529583",
+    "name": "Fannin' Foliage+",
+    "group_name": "Fannin' Foliage+",
+    "category": "weapon",
+    "weapon_type": "Green Axe",
+    "is_prf": false,
+    "sp": 300,
+    "tier": 4,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Green Axe"
+        ]
+      }
+    },
+    "downgrade_ids": [
+      "SID_ヤシの葉"
+    ]
+  },
+  {
     "id": "SID_響・遠影",
     "game8_id": "457252",
     "name": "Far Trace Echo",
@@ -41336,6 +41472,7 @@
   },
   {
     "id": "SID_ガルシアの子の斧",
+    "game8_id": "417548",
     "name": "Father's-Son Axe",
     "group_name": "Father's-Son Axe",
     "category": "weapon",
@@ -41358,6 +41495,7 @@
   {
     "id": "SID_ガルシアの子の斧_一",
     "base_id": "SID_ガルシアの子の斧",
+    "game8_id": "417548",
     "name": "Father's-Son Axe",
     "group_name": "Father's-Son Axe",
     "category": "weapon",
@@ -41971,6 +42109,7 @@
       "SID_インバースの暗闇",
       "SID_バンシーΘ",
       "SID_夢幻の書",
+      "SID_夏の海に弾む球",
       "SID_ブリュンヒルデ",
       "SID_魔継ぐ少女の天球儀",
       "SID_魔道の寵子の羅針盤",
@@ -54366,6 +54505,30 @@
     ]
   },
   {
+    "id": "SID_大漁呼ぶ魚獲りの銛",
+    "game8_id": "529584",
+    "name": "Haulin' Harpoon",
+    "group_name": "Haulin' Harpoon",
+    "category": "weapon",
+    "weapon_type": "Blue Lance",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Blue Lance"
+        ]
+      }
+    },
+    "downgrade_ids": [
+      "SID_銀の槍"
+    ]
+  },
+  {
     "id": "SID_オートクレール",
     "game8_id": "265724",
     "name": "Hauteclere",
@@ -56168,6 +56331,26 @@
     "downgrade_ids": [
       "SID_祈り"
     ]
+  },
+  {
+    "id": "SID_ソフィアの聖魂",
+    "game8_id": "529587",
+    "name": "Holy Soul of Zofia",
+    "group_name": "Holy Soul of Zofia",
+    "category": "passiveb",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/da/Holy_Soul_of_Zofia.png/revision/latest?cb=20250617051742",
+    "is_prf": true,
+    "sp": 300,
+    "tier": 1,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "none": true
+      }
+    }
   },
   {
     "id": "SID_聖衣",
@@ -66255,7 +66438,8 @@
       }
     },
     "upgrade_ids": [
-      "SID_速さ魔防の凪4"
+      "SID_速さ魔防の凪4",
+      "SID_秘奥・速魔凪"
     ],
     "downgrade_ids": [
       "SID_速さ魔防の凪2"
@@ -66369,6 +66553,7 @@
       "SID_覇克・天空",
       "SID_滅殺",
       "SID_漆黒の月光",
+      "SID_魔光",
       "SID_暴の天空",
       "SID_漆闇の月光",
       "SID_蒼の天空",
@@ -66894,6 +67079,30 @@
     },
     "downgrade_ids": [
       "SID_奥の手・魔道3"
+    ]
+  },
+  {
+    "id": "SID_魔光",
+    "game8_id": "529586",
+    "name": "Magic Light",
+    "group_name": "Magic Light",
+    "category": "special",
+    "is_prf": false,
+    "sp": 500,
+    "tier": 3,
+    "cd": 3,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "All Tome"
+        ]
+      }
+    },
+    "downgrade_ids": [
+      "SID_月光"
     ]
   },
   {
@@ -73220,7 +73429,8 @@
     },
     "upgrade_ids": [
       "SID_迅雷風烈・鬼没",
-      "SID_迅雷風烈・無極"
+      "SID_迅雷風烈・無極",
+      "SID_迅雷風烈・追撃鼓動"
     ],
     "downgrade_ids": [
       "SID_迅雷風烈・奇数2"
@@ -75823,6 +76033,30 @@
     ]
   },
   {
+    "id": "SID_敬虔なる信徒の供物",
+    "game8_id": "529581",
+    "name": "Pious Offering",
+    "group_name": "Pious Offering",
+    "category": "weapon",
+    "weapon_type": "Colorless Tome",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Colorless Tome"
+        ]
+      }
+    },
+    "downgrade_ids": [
+      "SID_アトラース"
+    ]
+  },
+  {
     "id": "SID_漆闇の月光",
     "game8_id": "524038",
     "name": "Pitch-Dark Luna",
@@ -77486,6 +77720,36 @@
     ],
     "downgrade_ids": [
       "SID_鼓動の幻煙2"
+    ]
+  },
+  {
+    "id": "SID_迅雷風烈・追撃鼓動",
+    "game8_id": "529590",
+    "name": "Pulse Tempest F",
+    "group_name": "Pulse Tempest F",
+    "category": "passivec",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e2/Pulse_Tempest_F.png/revision/latest?cb=20250617051823",
+    "is_prf": false,
+    "sp": 300,
+    "tier": 4,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Infantry"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "All Melee",
+          "All Breath",
+          "All Beast"
+        ]
+      }
+    },
+    "downgrade_ids": [
+      "SID_迅雷風烈・奇数3",
+      "SID_迅雷風烈・偶数3"
     ]
   },
   {
@@ -86247,6 +86511,31 @@
     ]
   },
   {
+    "id": "SID_秘奥・速魔凪",
+    "game8_id": "529589",
+    "name": "S/R Lull Finish",
+    "group_name": "S/R Lull Finish",
+    "category": "passiveb",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e9/S_R_Lull_Finish.png/revision/latest?cb=20250617051802",
+    "is_prf": false,
+    "sp": 300,
+    "tier": 4,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Infantry"
+        ]
+      },
+      "weapons": {
+        "none": true
+      }
+    },
+    "downgrade_ids": [
+      "SID_速さ魔防の凪3"
+    ]
+  },
+  {
     "id": "SID_速さ魔防の近影1",
     "game8_id": "381513",
     "name": "S/R Near Trace 1",
@@ -91901,6 +92190,7 @@
       "SID_ゲイルスケグル",
       "SID_グラディウス",
       "SID_守護騎士の白槍",
+      "SID_大漁呼ぶ魚獲りの銛",
       "SID_継承グングニル",
       "SID_聖槍グラディウス",
       "SID_聖騎士の槍",
@@ -102398,6 +102688,7 @@
       "SID_守備逆用の斧",
       "SID_深緑の斧",
       "SID_祝祭の斧",
+      "SID_ヤシの葉",
       "SID_火薙ぎの斧",
       "SID_ビッグスプーン",
       "SID_キャンセルの斧",
@@ -102598,6 +102889,7 @@
       "SID_ヒトデ",
       "SID_手毬",
       "SID_粛清の暗器",
+      "SID_南国の果汁",
       "SID_南国の果実",
       "SID_猛攻の暗器"
     ],
@@ -109676,6 +109968,59 @@
     },
     "downgrade_ids": [
       "SID_南国のホラ貝"
+    ]
+  },
+  {
+    "id": "SID_南国の果汁",
+    "game8_id": "529600",
+    "name": "Tropical Juice",
+    "group_name": "Tropical Juice",
+    "category": "weapon",
+    "weapon_type": "All Dagger",
+    "is_prf": false,
+    "sp": 200,
+    "tier": 3,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "All Dagger"
+        ]
+      }
+    },
+    "upgrade_ids": [
+      "SID_南国の果汁＋"
+    ],
+    "downgrade_ids": [
+      "SID_鋼の暗器"
+    ]
+  },
+  {
+    "id": "SID_南国の果汁＋",
+    "game8_id": "529601",
+    "name": "Tropical Juice+",
+    "group_name": "Tropical Juice+",
+    "category": "weapon",
+    "weapon_type": "All Dagger",
+    "is_prf": false,
+    "sp": 300,
+    "tier": 4,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "All Dagger"
+        ]
+      }
+    },
+    "downgrade_ids": [
+      "SID_南国の果汁"
     ]
   },
   {

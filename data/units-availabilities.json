@@ -292,14 +292,16 @@
   {
     "id": "PID_闇リュール男",
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "lowest_rarity": {},
+    "lowest_rarity": {
+      "gsp": 5
+    },
     "skill_ids": [
       "SID_凶星",
       "SID_星影",
@@ -356,14 +358,16 @@
   {
     "id": "PID_闇リュール女",
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "lowest_rarity": {},
+    "lowest_rarity": {
+      "gsp": 5
+    },
     "skill_ids": [
       "SID_凶星",
       "SID_奥義隊形1",
@@ -5665,6 +5669,37 @@
       "SID_鬼神飛燕の一撃1",
       "SID_鬼神飛燕の一撃2",
       "SID_鬼神飛燕の一撃3"
+    ],
+    "divine_codes": {}
+  },
+  {
+    "id": "PID_双界セリカ",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {},
+    "skill_ids": [
+      "SID_アトラース",
+      "SID_エルロック",
+      "SID_ソフィアの聖魂",
+      "SID_ロック",
+      "SID_影月",
+      "SID_攻撃の鼓舞1",
+      "SID_攻撃の鼓舞2",
+      "SID_攻撃の鼓舞3",
+      "SID_攻速鼓舞・奮激",
+      "SID_敬虔なる信徒の供物",
+      "SID_月光",
+      "SID_鬼神の一撃1",
+      "SID_鬼神飛燕の一撃1",
+      "SID_鬼神飛燕の一撃2",
+      "SID_鬼神飛燕の掩撃",
+      "SID_魔光"
     ],
     "divine_codes": {}
   },
@@ -13507,6 +13542,35 @@
       "SID_鬼神飛燕の一撃1",
       "SID_鬼神飛燕の一撃2",
       "SID_鬼神飛燕の炎撃3"
+    ],
+    "divine_codes": {}
+  },
+  {
+    "id": "PID_水着フォガート",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": true,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {
+      "hg": 4
+    },
+    "skill_ids": [
+      "SID_南国の果汁",
+      "SID_南国の果汁＋",
+      "SID_影月",
+      "SID_攻撃速さの機先1",
+      "SID_攻撃速さの機先2",
+      "SID_攻撃速さの機先3",
+      "SID_月光",
+      "SID_鉄の暗器",
+      "SID_鋼の暗器",
+      "SID_鼓動の幻煙1",
+      "SID_鼓動の幻煙2",
+      "SID_鼓動の幻煙3"
     ],
     "divine_codes": {}
   },
@@ -21672,6 +21736,40 @@
       "SID_速さ魔防の牽制1",
       "SID_速さ魔防の牽制2",
       "SID_速さ魔防の牽制3"
+    ],
+    "divine_codes": {}
+  },
+  {
+    "id": "PID_水着ラピス",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {},
+    "skill_ids": [
+      "SID_伏竜",
+      "SID_大漁呼ぶ魚獲りの銛",
+      "SID_攻撃速さの激突1",
+      "SID_攻撃速さの激突2",
+      "SID_攻撃速さの激突3",
+      "SID_攻撃速さの突破",
+      "SID_神速1",
+      "SID_神速2",
+      "SID_神速3",
+      "SID_秘奥・神速",
+      "SID_竜裂",
+      "SID_迅雷風烈・偶数1",
+      "SID_迅雷風烈・偶数2",
+      "SID_迅雷風烈・偶数3",
+      "SID_迅雷風烈・追撃鼓動",
+      "SID_鉄の槍",
+      "SID_銀の槍",
+      "SID_鋼の槍",
+      "SID_霞切り"
     ],
     "divine_codes": {}
   },
@@ -30924,6 +31022,37 @@
     "divine_codes": {}
   },
   {
+    "id": "PID_水着ニノ",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {},
+    "skill_ids": [
+      "SID_エルファイアー",
+      "SID_ファイアー",
+      "SID_ボルガノン",
+      "SID_夏の海に弾む球",
+      "SID_夕陽",
+      "SID_攻撃速さの万全1",
+      "SID_攻撃速さの万全2",
+      "SID_攻撃速さの万全3",
+      "SID_攻撃速さの完全",
+      "SID_秘奥・速魔凪",
+      "SID_速さ魔防の凪1",
+      "SID_速さ魔防の凪2",
+      "SID_速さ魔防の凪3",
+      "SID_陽光",
+      "SID_陽影",
+      "SID_黒い牙の絆"
+    ],
+    "divine_codes": {}
+  },
+  {
     "id": "PID_響心ニノ",
     "is_in": {
       "gsp": false,
@@ -32611,6 +32740,34 @@
       "SID_鬼神明鏡の一撃1",
       "SID_鬼神明鏡の一撃2",
       "SID_鬼神明鏡の瞬撃3"
+    ],
+    "divine_codes": {}
+  },
+  {
+    "id": "PID_水着外伝パオラ",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {},
+    "skill_ids": [
+      "SID_ヤシの葉",
+      "SID_ヤシの葉＋",
+      "SID_攻撃守備の牽制1",
+      "SID_攻撃守備の牽制2",
+      "SID_攻撃守備の牽制3",
+      "SID_攻撃守備の近影1",
+      "SID_攻撃守備の近影2",
+      "SID_攻撃守備の近影3",
+      "SID_攻撃守備の近影4",
+      "SID_華炎",
+      "SID_蛍火",
+      "SID_鉄の斧",
+      "SID_鋼の斧"
     ],
     "divine_codes": {}
   },

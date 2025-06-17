@@ -13794,6 +13794,102 @@
     "unlock": 1
   },
   {
+    "unit_id": "PID_双界セリカ",
+    "skill_id": "SID_攻速鼓舞・奮激",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_双界セリカ",
+    "skill_id": "SID_アトラース",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_双界セリカ",
+    "skill_id": "SID_鬼神の一撃1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_双界セリカ",
+    "skill_id": "SID_エルロック",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_双界セリカ",
+    "skill_id": "SID_ソフィアの聖魂",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_双界セリカ",
+    "skill_id": "SID_攻撃の鼓舞1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_双界セリカ",
+    "skill_id": "SID_攻撃の鼓舞2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_双界セリカ",
+    "skill_id": "SID_攻撃の鼓舞3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_双界セリカ",
+    "skill_id": "SID_月光",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_双界セリカ",
+    "skill_id": "SID_魔光",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_双界セリカ",
+    "skill_id": "SID_影月",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_双界セリカ",
+    "skill_id": "SID_敬虔なる信徒の供物",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_双界セリカ",
+    "skill_id": "SID_鬼神飛燕の掩撃",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_双界セリカ",
+    "skill_id": "SID_ロック",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_双界セリカ",
+    "skill_id": "SID_鬼神飛燕の一撃1",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_双界セリカ",
+    "skill_id": "SID_鬼神飛燕の一撃2",
+    "default": 0,
+    "unlock": 4
+  },
+  {
     "unit_id": "PID_開花セリカ",
     "skill_id": "SID_アトラース",
     "default": 4,
@@ -32988,6 +33084,78 @@
     "unlock": 4
   },
   {
+    "unit_id": "PID_水着フォガート",
+    "skill_id": "SID_攻撃速さの機先1",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_水着フォガート",
+    "skill_id": "SID_攻撃速さの機先2",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_水着フォガート",
+    "skill_id": "SID_攻撃速さの機先3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_水着フォガート",
+    "skill_id": "SID_鉄の暗器",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_水着フォガート",
+    "skill_id": "SID_月光",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_水着フォガート",
+    "skill_id": "SID_影月",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_水着フォガート",
+    "skill_id": "SID_鼓動の幻煙1",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_水着フォガート",
+    "skill_id": "SID_鼓動の幻煙2",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_水着フォガート",
+    "skill_id": "SID_鼓動の幻煙3",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_水着フォガート",
+    "skill_id": "SID_鋼の暗器",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_水着フォガート",
+    "skill_id": "SID_南国の果汁",
+    "default": 3,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_水着フォガート",
+    "skill_id": "SID_南国の果汁＋",
+    "default": 5,
+    "unlock": 5
+  },
+  {
     "unit_id": "PID_冬祭フォデス",
     "skill_id": "SID_鎧の護り手・遠・茨",
     "default": 0,
@@ -52168,6 +52336,120 @@
     "skill_id": "SID_業火疾風の祝福",
     "default": 0,
     "unlock": 4
+  },
+  {
+    "unit_id": "PID_水着ラピス",
+    "skill_id": "SID_攻撃速さの激突1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_水着ラピス",
+    "skill_id": "SID_攻撃速さの激突2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_水着ラピス",
+    "skill_id": "SID_攻撃速さの激突3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_水着ラピス",
+    "skill_id": "SID_攻撃速さの突破",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_水着ラピス",
+    "skill_id": "SID_竜裂",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_水着ラピス",
+    "skill_id": "SID_伏竜",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_水着ラピス",
+    "skill_id": "SID_迅雷風烈・偶数1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_水着ラピス",
+    "skill_id": "SID_迅雷風烈・偶数2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_水着ラピス",
+    "skill_id": "SID_迅雷風烈・偶数3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_水着ラピス",
+    "skill_id": "SID_大漁呼ぶ魚獲りの銛",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_水着ラピス",
+    "skill_id": "SID_霞切り",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_水着ラピス",
+    "skill_id": "SID_鉄の槍",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_水着ラピス",
+    "skill_id": "SID_神速1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_水着ラピス",
+    "skill_id": "SID_神速2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_水着ラピス",
+    "skill_id": "SID_神速3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_水着ラピス",
+    "skill_id": "SID_秘奥・神速",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_水着ラピス",
+    "skill_id": "SID_迅雷風烈・追撃鼓動",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_水着ラピス",
+    "skill_id": "SID_銀の槍",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_水着ラピス",
+    "skill_id": "SID_鋼の槍",
+    "default": 2,
+    "unlock": 2
   },
   {
     "unit_id": "PID_花嫁ラピス",
@@ -74022,6 +74304,102 @@
     "unlock": 5
   },
   {
+    "unit_id": "PID_水着ニノ",
+    "skill_id": "SID_攻撃速さの万全1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_水着ニノ",
+    "skill_id": "SID_攻撃速さの万全2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_水着ニノ",
+    "skill_id": "SID_攻撃速さの万全3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_水着ニノ",
+    "skill_id": "SID_黒い牙の絆",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_水着ニノ",
+    "skill_id": "SID_ボルガノン",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_水着ニノ",
+    "skill_id": "SID_夏の海に弾む球",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_水着ニノ",
+    "skill_id": "SID_陽影",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_水着ニノ",
+    "skill_id": "SID_エルファイアー",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_水着ニノ",
+    "skill_id": "SID_ファイアー",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_水着ニノ",
+    "skill_id": "SID_陽光",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_水着ニノ",
+    "skill_id": "SID_速さ魔防の凪1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_水着ニノ",
+    "skill_id": "SID_速さ魔防の凪2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_水着ニノ",
+    "skill_id": "SID_速さ魔防の凪3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_水着ニノ",
+    "skill_id": "SID_夕陽",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_水着ニノ",
+    "skill_id": "SID_攻撃速さの完全",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_水着ニノ",
+    "skill_id": "SID_秘奥・速魔凪",
+    "default": 0,
+    "unlock": 5
+  },
+  {
     "unit_id": "PID_響心ニノ",
     "skill_id": "SID_飛燕の一撃1",
     "default": 0,
@@ -77680,6 +78058,84 @@
     "skill_id": "SID_白き飛翔の槍",
     "default": 5,
     "unlock": 5
+  },
+  {
+    "unit_id": "PID_水着外伝パオラ",
+    "skill_id": "SID_攻撃守備の近影1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_水着外伝パオラ",
+    "skill_id": "SID_攻撃守備の近影2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_水着外伝パオラ",
+    "skill_id": "SID_攻撃守備の近影3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_水着外伝パオラ",
+    "skill_id": "SID_攻撃守備の近影4",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_水着外伝パオラ",
+    "skill_id": "SID_攻撃守備の牽制1",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_水着外伝パオラ",
+    "skill_id": "SID_攻撃守備の牽制2",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_水着外伝パオラ",
+    "skill_id": "SID_攻撃守備の牽制3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_水着外伝パオラ",
+    "skill_id": "SID_ヤシの葉",
+    "default": 3,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_水着外伝パオラ",
+    "skill_id": "SID_ヤシの葉＋",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_水着外伝パオラ",
+    "skill_id": "SID_蛍火",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_水着外伝パオラ",
+    "skill_id": "SID_華炎",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_水着外伝パオラ",
+    "skill_id": "SID_鉄の斧",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_水着外伝パオラ",
+    "skill_id": "SID_鋼の斧",
+    "default": 2,
+    "unlock": 2
   },
   {
     "unit_id": "PID_パンドロ",

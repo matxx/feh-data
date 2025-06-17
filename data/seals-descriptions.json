@@ -2032,6 +2032,18 @@
     "description": "If foe initiates combat, grants Spd+6 during combat."
   },
   {
+    "id": "SID_幻惑の杖1",
+    "description": "At start of combat, if unit's HP = 100%, foe cannot counterattack."
+  },
+  {
+    "id": "SID_幻惑の杖2",
+    "description": "At start of combat, if unit's HP ≥ 50%, foe cannot counterattack."
+  },
+  {
+    "id": "SID_幻惑の杖3",
+    "description": "Foe cannot counterattack."
+  },
+  {
     "id": "SID_鬼神の一撃1",
     "description": "If unit initiates combat, grants Atk+2 during combat."
   },
@@ -3030,6 +3042,18 @@
   {
     "id": "SID_速さ守備の奮起3",
     "description": "At start of turn, if unit is not adjacent to an ally, grants Spd/Def+6 to unit for 1 turn."
+  },
+  {
+    "id": "SID_速さ魔防の奮起1",
+    "description": "At start of turn, if unit is not adjacent to an ally, grants Spd/Res+2 to unit for 1 turn."
+  },
+  {
+    "id": "SID_速さ魔防の奮起2",
+    "description": "At start of turn, if unit is not adjacent to an ally, grants Spd/Res+4 to unit for 1 turn."
+  },
+  {
+    "id": "SID_速さ魔防の奮起3",
+    "description": "At start of turn, if unit is not adjacent to an ally, grants Spd/Res+6 to unit for 1 turn."
   },
   {
     "id": "SID_死の吐息1",

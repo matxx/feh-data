@@ -600,7 +600,8 @@
     "fodder_ids": [
       "PID_双界外伝カチュア",
       "PID_忍者セルジュ",
-      "PID_グスタフ味方"
+      "PID_グスタフ味方",
+      "PID_水着外伝パオラ"
     ],
     "fodder": {
       "g4": 1,
@@ -650,7 +651,8 @@
     "fodder_ids": [
       "PID_双界外伝カチュア",
       "PID_忍者セルジュ",
-      "PID_グスタフ味方"
+      "PID_グスタフ味方",
+      "PID_水着外伝パオラ"
     ],
     "fodder": {
       "g4": 2,
@@ -700,7 +702,8 @@
     "fodder_ids": [
       "PID_双界外伝カチュア",
       "PID_忍者セルジュ",
-      "PID_グスタフ味方"
+      "PID_グスタフ味方",
+      "PID_水着外伝パオラ"
     ],
     "fodder": {
       "g4": 3,
@@ -744,6 +747,31 @@
         }
       ]
     }
+  },
+  {
+    "id": "SID_攻撃守備の近影4",
+    "fodder_ids": [
+      "PID_水着外伝パオラ"
+    ],
+    "fodder": {
+      "g4": 4,
+      "hg": 4,
+      "dc": 4,
+      "sh4": 4,
+      "gsr": 1,
+      "shsr": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "flrwo": {},
+    "flrfi": {},
+    "divine_codes": {}
   },
   {
     "id": "SID_攻撃守備の刃壁",
@@ -1955,6 +1983,7 @@
   {
     "id": "SID_攻速鼓舞・奮激",
     "fodder_ids": [
+      "PID_双界セリカ",
       "PID_愛の祭クロード",
       "PID_紋章エイリーク"
     ],
@@ -14370,6 +14399,7 @@
       "PID_フュリー",
       "PID_ファリナ",
       "PID_忍者レーヴァテイン",
+      "PID_水着外伝パオラ",
       "PID_年明プルメリア",
       "PID_花嫁シャニー",
       "PID_怪盗サザ",
@@ -14452,6 +14482,7 @@
       "PID_フュリー",
       "PID_ファリナ",
       "PID_忍者レーヴァテイン",
+      "PID_水着外伝パオラ",
       "PID_年明プルメリア",
       "PID_花嫁シャニー",
       "PID_怪盗サザ",
@@ -14534,6 +14565,7 @@
       "PID_フュリー",
       "PID_ファリナ",
       "PID_忍者レーヴァテイン",
+      "PID_水着外伝パオラ",
       "PID_年明プルメリア",
       "PID_花嫁シャニー",
       "PID_怪盗サザ",
@@ -19673,6 +19705,7 @@
       "PID_開花エイル味方",
       "PID_比翼エリーゼ",
       "PID_ファリナ",
+      "PID_水着フォガート",
       "PID_伝承ヒノカ",
       "PID_魔器オルテンシア",
       "PID_冬祭オルテンシア",
@@ -19784,6 +19817,7 @@
       "PID_開花エイル味方",
       "PID_比翼エリーゼ",
       "PID_ファリナ",
+      "PID_水着フォガート",
       "PID_伝承ヒノカ",
       "PID_魔器オルテンシア",
       "PID_冬祭オルテンシア",
@@ -19895,6 +19929,7 @@
       "PID_開花エイル味方",
       "PID_比翼エリーゼ",
       "PID_ファリナ",
+      "PID_水着フォガート",
       "PID_伝承ヒノカ",
       "PID_魔器オルテンシア",
       "PID_冬祭オルテンシア",
@@ -20102,6 +20137,7 @@
       "PID_総選挙フェリクス",
       "PID_イサドラ",
       "PID_双界カアラ",
+      "PID_水着ラピス",
       "PID_ハロレテ",
       "PID_魔器ルキナ",
       "PID_双界マリカ",
@@ -20192,6 +20228,7 @@
       "PID_総選挙フェリクス",
       "PID_イサドラ",
       "PID_双界カアラ",
+      "PID_水着ラピス",
       "PID_ハロレテ",
       "PID_魔器ルキナ",
       "PID_双界マリカ",
@@ -20282,6 +20319,7 @@
       "PID_総選挙フェリクス",
       "PID_イサドラ",
       "PID_双界カアラ",
+      "PID_水着ラピス",
       "PID_ハロレテ",
       "PID_魔器ルキナ",
       "PID_双界マリカ",
@@ -20420,6 +20458,7 @@
       "PID_愛の祭ディミトリ",
       "PID_氷部族フェリシア",
       "PID_総選挙フェリクス",
+      "PID_水着ラピス",
       "PID_双界マリカ",
       "PID_水着ネルトゥス",
       "PID_レギン2味方",
@@ -21393,6 +21432,7 @@
       "PID_ルイーズ",
       "PID_ミリエル",
       "PID_モニカ",
+      "PID_水着ニノ",
       "PID_炎部族リンカ",
       "PID_スラシル味方",
       "PID_ティナ"
@@ -21515,6 +21555,7 @@
       "PID_ルイーズ",
       "PID_ミリエル",
       "PID_モニカ",
+      "PID_水着ニノ",
       "PID_炎部族リンカ",
       "PID_スラシル味方",
       "PID_ティナ"
@@ -21637,6 +21678,7 @@
       "PID_ルイーズ",
       "PID_ミリエル",
       "PID_モニカ",
+      "PID_水着ニノ",
       "PID_炎部族リンカ",
       "PID_スラシル味方",
       "PID_ティナ"
@@ -24555,6 +24597,7 @@
       "PID_比翼アスク",
       "PID_神階ブラミモンド",
       "PID_総選挙ベレス",
+      "PID_双界セリカ",
       "PID_開花セリカ",
       "PID_エルフィン",
       "PID_神階ガトー",
@@ -30085,6 +30128,31 @@
     "divine_codes": {}
   },
   {
+    "id": "SID_黒い牙の絆",
+    "fodder_ids": [
+      "PID_水着ニノ"
+    ],
+    "fodder": {
+      "g4": 1,
+      "hg": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 1,
+      "shsr": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "flrwo": {},
+    "flrfi": {},
+    "divine_codes": {}
+  },
+  {
     "id": "SID_黒の月光",
     "fodder_ids": [
       "PID_漆黒の騎士",
@@ -33231,6 +33299,7 @@
       "PID_双界リンダ",
       "PID_夏祭ミカヤ",
       "PID_双界ネフェニー",
+      "PID_水着ニノ",
       "PID_カダインニノ",
       "PID_サナキ",
       "PID_比翼サナキ",
@@ -33409,15 +33478,19 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "gsp": 5
+    },
+    "flrfi": {
+      "gsp": 5
+    },
     "divine_codes": {}
   },
   {
@@ -34250,6 +34323,31 @@
         }
       ]
     }
+  },
+  {
+    "id": "SID_夏の海に弾む球",
+    "fodder_ids": [
+      "PID_水着ニノ"
+    ],
+    "fodder": {
+      "g4": 1,
+      "hg": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 1,
+      "shsr": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "flrwo": {},
+    "flrfi": {},
+    "divine_codes": {}
   },
   {
     "id": "SID_花嫁の杖",
@@ -51875,6 +51973,7 @@
       "PID_魔王リオン",
       "PID_双界ミルラ",
       "PID_ナギ",
+      "PID_水着ニノ",
       "PID_水着オグマ",
       "PID_オグマ",
       "PID_オーシン",
@@ -52749,6 +52848,7 @@
       "PID_水着カミラ",
       "PID_カトリーヌ",
       "PID_伝承セリカ",
+      "PID_双界セリカ",
       "PID_総選挙セリカ",
       "PID_シャーロッテ",
       "PID_総選挙クロム",
@@ -59470,15 +59570,19 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "gsp": 5
+    },
+    "flrfi": {
+      "gsp": 5
+    },
     "divine_codes": {}
   },
   {
@@ -62505,6 +62609,7 @@
       "PID_フランネル",
       "PID_デジェル",
       "PID_砂漠クリス男",
+      "PID_水着ラピス",
       "PID_レティシア味方",
       "PID_闇リリス",
       "PID_総選挙リン",
@@ -63463,6 +63568,7 @@
       "PID_フランネル",
       "PID_デジェル",
       "PID_砂漠クリス男",
+      "PID_水着ラピス",
       "PID_ハロレテ",
       "PID_レティシア味方",
       "PID_闇リリス",
@@ -68532,6 +68638,7 @@
       "PID_夏祭ミカヤ",
       "PID_ミランダ",
       "PID_双界ネフェニー",
+      "PID_水着ニノ",
       "PID_カダインニノ",
       "PID_サナキ",
       "PID_比翼サナキ",
@@ -68908,6 +69015,7 @@
       "PID_比翼アスク",
       "PID_神階ブラミモンド",
       "PID_総選挙ベレス",
+      "PID_双界セリカ",
       "PID_開花セリカ",
       "PID_エルフィン",
       "PID_神階ガトー",
@@ -72069,6 +72177,7 @@
     "fodder_ids": [
       "PID_ダグ味方",
       "PID_忍者ディアマンド",
+      "PID_水着ラピス",
       "PID_リーヴ味方",
       "PID_ルキノ",
       "PID_開花マリータ",
@@ -72127,6 +72236,7 @@
     "fodder_ids": [
       "PID_ダグ味方",
       "PID_忍者ディアマンド",
+      "PID_水着ラピス",
       "PID_リーヴ味方",
       "PID_ルキノ",
       "PID_開花マリータ",
@@ -72185,6 +72295,7 @@
     "fodder_ids": [
       "PID_ダグ味方",
       "PID_忍者ディアマンド",
+      "PID_水着ラピス",
       "PID_リーヴ味方",
       "PID_ルキノ",
       "PID_開花マリータ",
@@ -73307,6 +73418,56 @@
     "divine_codes": {}
   },
   {
+    "id": "SID_ヤシの葉",
+    "fodder_ids": [
+      "PID_水着外伝パオラ"
+    ],
+    "fodder": {
+      "g4": 1,
+      "hg": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 1,
+      "shsr": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "flrwo": {},
+    "flrfi": {},
+    "divine_codes": {}
+  },
+  {
+    "id": "SID_ヤシの葉＋",
+    "fodder_ids": [
+      "PID_水着外伝パオラ"
+    ],
+    "fodder": {
+      "g4": 2,
+      "hg": 2,
+      "dc": 2,
+      "sh4": 2,
+      "gsr": 2,
+      "shsr": 2
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "flrwo": {},
+    "flrfi": {},
+    "divine_codes": {}
+  },
+  {
     "id": "SID_響・遠影",
     "fodder_ids": [
       "PID_響心ミカヤ"
@@ -74092,15 +74253,19 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "gsp": 5
+    },
+    "flrfi": {
+      "gsp": 5
+    },
     "divine_codes": {}
   },
   {
@@ -74198,15 +74363,19 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "gsp": 5
+    },
+    "flrfi": {
+      "gsp": 5
+    },
     "divine_codes": {}
   },
   {
@@ -74223,15 +74392,19 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "gsp": 5
+    },
+    "flrfi": {
+      "gsp": 5
+    },
     "divine_codes": {}
   },
   {
@@ -75389,6 +75562,7 @@
       "PID_夏祭ミカヤ",
       "PID_ミランダ",
       "PID_双界ネフェニー",
+      "PID_水着ニノ",
       "PID_カダインニノ",
       "PID_サナキ",
       "PID_比翼サナキ",
@@ -78062,6 +78236,7 @@
   {
     "id": "SID_陽光",
     "fodder_ids": [
+      "PID_水着ニノ",
       "PID_総選挙ルフレ女",
       "PID_比翼ルフレ女",
       "PID_ルーン",
@@ -88422,6 +88597,7 @@
       "PID_闇オルソン",
       "PID_ウード",
       "PID_愛の祭ウード",
+      "PID_水着外伝パオラ",
       "PID_プラハ",
       "PID_ラファール",
       "PID_年明レギン",
@@ -94865,6 +95041,31 @@
     }
   },
   {
+    "id": "SID_大漁呼ぶ魚獲りの銛",
+    "fodder_ids": [
+      "PID_水着ラピス"
+    ],
+    "fodder": {
+      "g4": 1,
+      "hg": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 1,
+      "shsr": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "flrwo": {},
+    "flrfi": {},
+    "divine_codes": {}
+  },
+  {
     "id": "SID_オートクレール",
     "fodder_ids": [
       "PID_ミシェイル",
@@ -94975,6 +95176,7 @@
     "id": "SID_霞切り",
     "fodder_ids": [
       "PID_愛の祭ディミトリ",
+      "PID_水着ラピス",
       "PID_花婿セリス"
     ],
     "fodder": {
@@ -97089,7 +97291,7 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": true,
       "hg": false,
       "dc": false,
@@ -97097,9 +97299,11 @@
       "foc": false
     },
     "flrwo": {
+      "gsp": 5,
       "ssp": 5
     },
     "flrfi": {
+      "gsp": 5,
       "ssp": 5
     },
     "divine_codes": {}
@@ -97692,6 +97896,31 @@
     }
   },
   {
+    "id": "SID_ソフィアの聖魂",
+    "fodder_ids": [
+      "PID_双界セリカ"
+    ],
+    "fodder": {
+      "g4": 1,
+      "hg": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 1,
+      "shsr": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "flrwo": {},
+    "flrfi": {},
+    "divine_codes": {}
+  },
+  {
     "id": "SID_聖衣",
     "fodder_ids": [
       "PID_アベル",
@@ -98121,6 +98350,7 @@
       "PID_温泉カミラ",
       "PID_水着カミラ",
       "PID_魔女セリカ",
+      "PID_双界セリカ",
       "PID_カムイ女",
       "PID_総選挙ディミトリ",
       "PID_水着ドロテア",
@@ -98255,6 +98485,7 @@
       "PID_温泉カミラ",
       "PID_水着カミラ",
       "PID_魔女セリカ",
+      "PID_双界セリカ",
       "PID_カムイ女",
       "PID_総選挙ディミトリ",
       "PID_水着ドロテア",
@@ -98387,6 +98618,7 @@
     "fodder_ids": [
       "PID_幼少シーダ",
       "PID_魔女セリカ",
+      "PID_双界セリカ",
       "PID_カムイ女",
       "PID_総選挙ディミトリ",
       "PID_水着ドロテア",
@@ -101870,6 +102102,7 @@
       "PID_年明ニーズヘッグ",
       "PID_ニーズヘッグ味方",
       "PID_闇オルソン",
+      "PID_水着外伝パオラ",
       "PID_プラハ",
       "PID_年明レギン",
       "PID_レギン",
@@ -104997,6 +105230,7 @@
       "PID_ナーシェン",
       "PID_オーシン",
       "PID_オッテル味方",
+      "PID_水着外伝パオラ",
       "PID_パネトネ",
       "PID_ピアニー2味方",
       "PID_レイヴァン",
@@ -106131,6 +106365,7 @@
       "PID_フローラ",
       "PID_氷部族フローラ",
       "PID_行楽フローラ",
+      "PID_水着フォガート",
       "PID_水着フレデリク",
       "PID_ガイア",
       "PID_ギャンレル",
@@ -106695,6 +106930,7 @@
       "PID_クリス女",
       "PID_カイル",
       "PID_年明レーギャルン",
+      "PID_水着ラピス",
       "PID_花嫁ラクチェ",
       "PID_花嫁ララム",
       "PID_浴衣ルキノ",
@@ -117175,6 +117411,7 @@
       "PID_年明クワシル",
       "PID_リシテア",
       "PID_総選挙リシテア",
+      "PID_水着ニノ",
       "PID_春祭セレナ"
     ],
     "fodder": {
@@ -117247,6 +117484,7 @@
       "PID_年明クワシル",
       "PID_リシテア",
       "PID_総選挙リシテア",
+      "PID_水着ニノ",
       "PID_春祭セレナ"
     ],
     "fodder": {
@@ -117319,6 +117557,7 @@
       "PID_年明クワシル",
       "PID_リシテア",
       "PID_総選挙リシテア",
+      "PID_水着ニノ",
       "PID_春祭セレナ"
     ],
     "fodder": {
@@ -117513,6 +117752,7 @@
       "PID_カチュア",
       "PID_セティ",
       "PID_魔女セリカ",
+      "PID_双界セリカ",
       "PID_クロム2",
       "PID_ホリン",
       "PID_風部族クロード",
@@ -117531,6 +117771,7 @@
       "PID_ファバル",
       "PID_氷部族フェリシア",
       "PID_フォガート",
+      "PID_水着フォガート",
       "PID_フォルデ",
       "PID_フレデリク",
       "PID_フレイヤ味方",
@@ -118490,6 +118731,31 @@
     "flrfi": {
       "ssp": 5
     },
+    "divine_codes": {}
+  },
+  {
+    "id": "SID_魔光",
+    "fodder_ids": [
+      "PID_双界セリカ"
+    ],
+    "fodder": {
+      "g4": 1,
+      "hg": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 1,
+      "shsr": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "flrwo": {},
+    "flrfi": {},
     "divine_codes": {}
   },
   {
@@ -123696,6 +123962,7 @@
       "PID_セティ",
       "PID_魔女セリカ",
       "PID_紋章セリカ",
+      "PID_双界セリカ",
       "PID_開花セリカ",
       "PID_クロム2",
       "PID_ホリン",
@@ -123727,6 +123994,7 @@
       "PID_氷部族フェリシア",
       "PID_開花フロリーナ",
       "PID_フォガート",
+      "PID_水着フォガート",
       "PID_フォルデ",
       "PID_フレデリク",
       "PID_フレイヤ味方",
@@ -126405,6 +126673,7 @@
       "PID_ラズワルド",
       "PID_リベラ",
       "PID_双界ミルラ",
+      "PID_水着ニノ",
       "PID_オグマ",
       "PID_オーシン",
       "PID_総選挙ルフレ女",
@@ -132786,7 +133055,8 @@
     "fodder_ids": [
       "PID_響心アルム",
       "PID_響心ブリギッド",
-      "PID_花嫁ラクチェ"
+      "PID_花嫁ラクチェ",
+      "PID_水着ニノ"
     ],
     "fodder": {
       "g4": 1,
@@ -133756,6 +134026,31 @@
         }
       ]
     }
+  },
+  {
+    "id": "SID_敬虔なる信徒の供物",
+    "fodder_ids": [
+      "PID_双界セリカ"
+    ],
+    "fodder": {
+      "g4": 2,
+      "hg": 2,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 1,
+      "shsr": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "flrwo": {},
+    "flrfi": {},
+    "divine_codes": {}
   },
   {
     "id": "SID_漆闇の月光",
@@ -134830,6 +135125,7 @@
   {
     "id": "SID_神速1",
     "fodder_ids": [
+      "PID_水着ラピス",
       "PID_花嫁ラクチェ",
       "PID_紋章マルス",
       "PID_比翼シャロン"
@@ -134863,6 +135159,7 @@
   {
     "id": "SID_神速2",
     "fodder_ids": [
+      "PID_水着ラピス",
       "PID_花嫁ラクチェ",
       "PID_紋章マルス",
       "PID_比翼シャロン"
@@ -134896,6 +135193,7 @@
   {
     "id": "SID_神速3",
     "fodder_ids": [
+      "PID_水着ラピス",
       "PID_花嫁ラクチェ",
       "PID_紋章マルス",
       "PID_比翼シャロン"
@@ -135019,6 +135317,7 @@
   {
     "id": "SID_秘奥・神速",
     "fodder_ids": [
+      "PID_水着ラピス",
       "PID_花嫁ラクチェ"
     ],
     "fodder": {
@@ -135966,6 +136265,7 @@
     "fodder_ids": [
       "PID_海賊ブリギッド",
       "PID_セティ",
+      "PID_水着フォガート",
       "PID_フレイヤ味方",
       "PID_忍者ヒース",
       "PID_イグレーヌ",
@@ -136031,6 +136331,7 @@
     "fodder_ids": [
       "PID_海賊ブリギッド",
       "PID_セティ",
+      "PID_水着フォガート",
       "PID_フレイヤ味方",
       "PID_忍者ヒース",
       "PID_イグレーヌ",
@@ -136096,6 +136397,7 @@
     "fodder_ids": [
       "PID_海賊ブリギッド",
       "PID_セティ",
+      "PID_水着フォガート",
       "PID_フレイヤ味方",
       "PID_忍者ヒース",
       "PID_イグレーヌ",
@@ -136155,6 +136457,31 @@
         }
       ]
     }
+  },
+  {
+    "id": "SID_迅雷風烈・追撃鼓動",
+    "fodder_ids": [
+      "PID_水着ラピス"
+    ],
+    "fodder": {
+      "g4": 4,
+      "hg": 4,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 1,
+      "shsr": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "flrwo": {},
+    "flrfi": {},
+    "divine_codes": {}
   },
   {
     "id": "SID_鍛錬の鼓動・刃",
@@ -151786,15 +152113,19 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "gsp": 5
+    },
+    "flrfi": {
+      "gsp": 5
+    },
     "divine_codes": {}
   },
   {
@@ -152067,6 +152398,31 @@
         }
       ]
     }
+  },
+  {
+    "id": "SID_秘奥・速魔凪",
+    "fodder_ids": [
+      "PID_水着ニノ"
+    ],
+    "fodder": {
+      "g4": 4,
+      "hg": 4,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 1,
+      "shsr": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "flrwo": {},
+    "flrfi": {},
+    "divine_codes": {}
   },
   {
     "id": "SID_速さ魔防の近影1",
@@ -155052,15 +155408,19 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "gsp": 5
+    },
+    "flrfi": {
+      "gsp": 5
+    },
     "divine_codes": {}
   },
   {
@@ -160821,6 +161181,7 @@
       "PID_ジェラルト",
       "PID_ハタリカアラ",
       "PID_クリス女",
+      "PID_水着ラピス",
       "PID_花嫁ラクチェ",
       "PID_浴衣ルキノ",
       "PID_総選挙ルキナ",
@@ -163142,6 +163503,7 @@
   {
     "id": "SID_鬼神飛燕の掩撃",
     "fodder_ids": [
+      "PID_双界セリカ",
       "PID_ミデェール",
       "PID_忍者サーリャ"
     ],
@@ -173093,7 +173455,7 @@
       "ldc": 5
     },
     "flrfi": {
-      "gsp": 3,
+      "gsp": 2,
       "ssp": 1,
       "hg": 3,
       "dc": 1,
@@ -173169,7 +173531,7 @@
       "ldc": 5
     },
     "flrfi": {
-      "gsp": 4,
+      "gsp": 3,
       "ssp": 2,
       "hg": 4,
       "dc": 2,
@@ -173245,7 +173607,7 @@
       "ldc": 5
     },
     "flrfi": {
-      "gsp": 5,
+      "gsp": 4,
       "ssp": 4,
       "hg": 5,
       "dc": 4,
@@ -179831,6 +180193,7 @@
       "PID_ナーシェン",
       "PID_オーシン",
       "PID_オッテル味方",
+      "PID_水着外伝パオラ",
       "PID_パネトネ",
       "PID_ピアニー2味方",
       "PID_レイヴァン",
@@ -180965,6 +181328,7 @@
       "PID_フローラ",
       "PID_氷部族フローラ",
       "PID_行楽フローラ",
+      "PID_水着フォガート",
       "PID_水着フレデリク",
       "PID_ガイア",
       "PID_ギャンレル",
@@ -181500,6 +181864,7 @@
       "PID_クリス女",
       "PID_カイル",
       "PID_年明レーギャルン",
+      "PID_水着ラピス",
       "PID_花嫁ラクチェ",
       "PID_花嫁ララム",
       "PID_浴衣ルキノ",
@@ -183352,6 +183717,7 @@
       "PID_比翼アスク",
       "PID_神階ブラミモンド",
       "PID_総選挙ベレス",
+      "PID_双界セリカ",
       "PID_開花セリカ",
       "PID_エルフィン",
       "PID_神階ガトー",
@@ -186427,6 +186793,7 @@
       "PID_伝承カミラ",
       "PID_カトリーヌ",
       "PID_伝承セリカ",
+      "PID_双界セリカ",
       "PID_シャーロッテ",
       "PID_双界クロエ",
       "PID_総選挙クロム",
@@ -186712,6 +187079,7 @@
       "PID_伝承カミラ",
       "PID_カトリーヌ",
       "PID_伝承セリカ",
+      "PID_双界セリカ",
       "PID_シャーロッテ",
       "PID_双界クロエ",
       "PID_総選挙クロム",
@@ -194917,6 +195285,64 @@
         }
       ]
     }
+  },
+  {
+    "id": "SID_南国の果汁",
+    "fodder_ids": [
+      "PID_水着フォガート"
+    ],
+    "fodder": {
+      "g4": 1,
+      "hg": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 1,
+      "shsr": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": true,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "flrwo": {
+      "hg": 4
+    },
+    "flrfi": {
+      "hg": 3
+    },
+    "divine_codes": {}
+  },
+  {
+    "id": "SID_南国の果汁＋",
+    "fodder_ids": [
+      "PID_水着フォガート"
+    ],
+    "fodder": {
+      "g4": 2,
+      "hg": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 1,
+      "shsr": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": true,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "flrwo": {
+      "hg": 4
+    },
+    "flrfi": {
+      "hg": 5
+    },
+    "divine_codes": {}
   },
   {
     "id": "SID_南国の果実",

@@ -8424,6 +8424,60 @@
     }
   },
   {
+    "id": "SID_幻惑の杖1",
+    "game8_id": null,
+    "name": "Dazzling Staff 1",
+    "group_name": "Dazzling Staff",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/92/Dazzling_Staff_1.png/revision/latest?cb=20180810071516",
+    "sp": 60,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Colorless Staff"
+        ]
+      }
+    }
+  },
+  {
+    "id": "SID_幻惑の杖2",
+    "game8_id": null,
+    "name": "Dazzling Staff 2",
+    "group_name": "Dazzling Staff",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/2/25/Dazzling_Staff_2.png/revision/latest?cb=20180810071517",
+    "sp": 120,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Colorless Staff"
+        ]
+      }
+    }
+  },
+  {
+    "id": "SID_幻惑の杖3",
+    "game8_id": "529908",
+    "name": "Dazzling Staff 3",
+    "group_name": "Dazzling Staff",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/7f/Dazzling_Staff_3.png/revision/latest?cb=20180810071519",
+    "sp": 240,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Colorless Staff"
+        ]
+      }
+    }
+  },
+  {
     "id": "SID_鬼神の一撃1",
     "game8_id": null,
     "name": "Death Blow 1",
@@ -12725,6 +12779,63 @@
     "name": "Rouse Spd/Def 3",
     "group_name": "Rouse Spd/Def",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/93/Rouse_Spd_Def_3.png/revision/latest?cb=20200305080956",
+    "sp": 240,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Infantry",
+          "Cavalry"
+        ]
+      },
+      "weapons": {
+        "none": true
+      }
+    }
+  },
+  {
+    "id": "SID_速さ魔防の奮起1",
+    "game8_id": null,
+    "name": "Rouse Spd/Res 1",
+    "group_name": "Rouse Spd/Res",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/90/Rouse_Spd_Res_1.png/revision/latest?cb=20200206084227",
+    "sp": 60,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Infantry",
+          "Cavalry"
+        ]
+      },
+      "weapons": {
+        "none": true
+      }
+    }
+  },
+  {
+    "id": "SID_速さ魔防の奮起2",
+    "game8_id": null,
+    "name": "Rouse Spd/Res 2",
+    "group_name": "Rouse Spd/Res",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/0e/Rouse_Spd_Res_2.png/revision/latest?cb=20200206084237",
+    "sp": 120,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Infantry",
+          "Cavalry"
+        ]
+      },
+      "weapons": {
+        "none": true
+      }
+    }
+  },
+  {
+    "id": "SID_速さ魔防の奮起3",
+    "game8_id": null,
+    "name": "Rouse Spd/Res 3",
+    "group_name": "Rouse Spd/Res",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/3f/Rouse_Spd_Res_3.png/revision/latest?cb=20200206084247",
     "sp": 240,
     "restrictions": {
       "moves": {

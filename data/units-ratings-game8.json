@@ -770,6 +770,13 @@
     "recommended_plus10": "Atk"
   },
   {
+    "id": "PID_エルク",
+    "game8_rating": "7.5",
+    "recommended_boon": "Spd",
+    "recommended_bane": "Res",
+    "recommended_plus10": "Spd"
+  },
+  {
     "id": "PID_ノート味方",
     "game8_rating": "9.0",
     "recommended_boon": "Spd",
@@ -1596,6 +1603,27 @@
     "recommended_plus10": null
   },
   {
+    "id": "PID_水着ニノ",
+    "game8_rating": "9.0",
+    "recommended_boon": "Spd",
+    "recommended_bane": "Def",
+    "recommended_plus10": "Spd"
+  },
+  {
+    "id": "PID_水着ラピス",
+    "game8_rating": "9.0",
+    "recommended_boon": "Spd",
+    "recommended_bane": "Res",
+    "recommended_plus10": "Spd"
+  },
+  {
+    "id": "PID_双界セリカ",
+    "game8_rating": "9.0",
+    "recommended_boon": "Atk",
+    "recommended_bane": "Def",
+    "recommended_plus10": "Spd"
+  },
+  {
     "id": "PID_インバース",
     "game8_rating": "8.5",
     "recommended_boon": "HP",
@@ -1691,13 +1719,6 @@
     "game8_rating": "8.5",
     "recommended_boon": "Atk",
     "recommended_bane": "Def",
-    "recommended_plus10": null
-  },
-  {
-    "id": "PID_ラインハルト",
-    "game8_rating": "8.5",
-    "recommended_boon": "Atk",
-    "recommended_bane": "Spd",
     "recommended_plus10": null
   },
   {
@@ -4501,6 +4522,13 @@
     "recommended_plus10": "Spd"
   },
   {
+    "id": "PID_ラインハルト",
+    "game8_rating": "8.5",
+    "recommended_boon": "Atk",
+    "recommended_bane": "Spd",
+    "recommended_plus10": null
+  },
+  {
     "id": "PID_伝承ルフレ女",
     "game8_rating": "8.0",
     "recommended_boon": "Spd",
@@ -5332,6 +5360,13 @@
     "recommended_boon": "Spd",
     "recommended_bane": "Res",
     "recommended_plus10": "Spd"
+  },
+  {
+    "id": "PID_ペレアス",
+    "game8_rating": "7.5",
+    "recommended_boon": "Atk",
+    "recommended_bane": "Def",
+    "recommended_plus10": "Atk"
   },
   {
     "id": "PID_聖祭ユリア",
@@ -6193,6 +6228,20 @@
     "recommended_boon": "Res",
     "recommended_bane": "Spd",
     "recommended_plus10": "Res"
+  },
+  {
+    "id": "PID_水着外伝パオラ",
+    "game8_rating": "8.0",
+    "recommended_boon": "Atk",
+    "recommended_bane": "Spd",
+    "recommended_plus10": "Atk"
+  },
+  {
+    "id": "PID_水着フォガート",
+    "game8_rating": "8.0",
+    "recommended_boon": "Spd",
+    "recommended_bane": "Def",
+    "recommended_plus10": "Spd"
   },
   {
     "id": "PID_アルム",
@@ -7133,13 +7182,6 @@
     "recommended_plus10": "Spd"
   },
   {
-    "id": "PID_エルク",
-    "game8_rating": "7.5",
-    "recommended_boon": "Spd",
-    "recommended_bane": "Res",
-    "recommended_plus10": "Spd"
-  },
-  {
     "id": "PID_立会人サウル",
     "game8_rating": "7.5",
     "recommended_boon": "Res",
@@ -7183,13 +7225,6 @@
   },
   {
     "id": "PID_オロチ",
-    "game8_rating": "7.5",
-    "recommended_boon": "Atk",
-    "recommended_bane": "Def",
-    "recommended_plus10": "Atk"
-  },
-  {
-    "id": "PID_ペレアス",
     "game8_rating": "7.5",
     "recommended_boon": "Atk",
     "recommended_bane": "Def",

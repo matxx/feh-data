@@ -285,6 +285,17 @@
     ]
   },
   {
+    "name": "A Hero Rises: Next Six (2025)",
+    "unit_ids": [
+      "PID_ジャハナアイク",
+      "PID_冬祭フォデス",
+      "PID_比翼ヘイズルーン",
+      "PID_神階アトス",
+      "PID_紋章アイク",
+      "PID_紋章セリカ"
+    ]
+  },
+  {
     "name": "A Monstrous Harvest (Focus)",
     "unit_ids": [
       "PID_ハロイレース",
