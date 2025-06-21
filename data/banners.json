@@ -2387,6 +2387,15 @@
     ]
   },
   {
+    "name": "Focus: Hall of Forms (Jun 2025)",
+    "unit_ids": [
+      "PID_シトリニカ",
+      "PID_ディアマンド",
+      "PID_ハロミスティラ",
+      "PID_伝承リュール女"
+    ]
+  },
+  {
     "name": "Focus: Hall of Forms (Mar 2023)",
     "unit_ids": [
       "PID_忍者レーヴァテイン",
@@ -4717,6 +4726,13 @@
     ]
   },
   {
+    "name": "Focus: Nergal & Ursula's Battle",
+    "unit_ids": [
+      "PID_闇ウルスラ",
+      "PID_闇ネルガル"
+    ]
+  },
+  {
     "name": "Focus: New Power (Apr 2019)",
     "unit_ids": [
       "PID_アベル",
@@ -5828,6 +5844,14 @@
       "PID_アイク",
       "PID_サナキ",
       "PID_ミカヤ"
+    ]
+  },
+  {
+    "name": "Focus: Tempest Trials (A Model Sister)",
+    "unit_ids": [
+      "PID_セリカ",
+      "PID_セーラ",
+      "PID_ニノ"
     ]
   },
   {
@@ -11254,6 +11278,15 @@
       "PID_海賊スルト",
       "PID_海賊ネサラ",
       "PID_海賊ビーゼ"
+    ]
+  },
+  {
+    "name": "Pious Summer (Focus)",
+    "unit_ids": [
+      "PID_双界セリカ",
+      "PID_水着ニノ",
+      "PID_水着ラピス",
+      "PID_水着外伝パオラ"
     ]
   },
   {

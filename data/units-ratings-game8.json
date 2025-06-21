@@ -7,13 +7,6 @@
     "recommended_plus10": "Atk"
   },
   {
-    "id": "PID_響心ミカヤ",
-    "game8_rating": "9.9",
-    "recommended_boon": "Atk",
-    "recommended_bane": "Spd",
-    "recommended_plus10": "Atk"
-  },
-  {
     "id": "PID_総選挙フェリクス",
     "game8_rating": "9.9",
     "recommended_boon": "Spd",
@@ -61,13 +54,6 @@
     "recommended_boon": "Def",
     "recommended_bane": "Spd",
     "recommended_plus10": "Def"
-  },
-  {
-    "id": "PID_愛の祭エーデル",
-    "game8_rating": "9.9",
-    "recommended_boon": "Atk",
-    "recommended_bane": "Spd",
-    "recommended_plus10": "Atk"
   },
   {
     "id": "PID_比翼レア",
@@ -201,6 +187,13 @@
     "recommended_boon": "Spd",
     "recommended_bane": "Res",
     "recommended_plus10": "Spd"
+  },
+  {
+    "id": "PID_響心ミカヤ",
+    "game8_rating": "9.9",
+    "recommended_boon": "Atk",
+    "recommended_bane": "Spd",
+    "recommended_plus10": "Atk"
   },
   {
     "id": "PID_紋章セリカ",
@@ -390,6 +383,13 @@
     "recommended_boon": "Spd",
     "recommended_bane": "Res",
     "recommended_plus10": "Spd"
+  },
+  {
+    "id": "PID_愛の祭エーデル",
+    "game8_rating": "9.9",
+    "recommended_boon": "Atk",
+    "recommended_bane": "Spd",
+    "recommended_plus10": "Atk"
   },
   {
     "id": "PID_お供ユナカ",

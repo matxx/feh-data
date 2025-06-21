@@ -621,7 +621,7 @@
     },
     "flrwo": {
       "gsp": 4.5,
-      "ssp": 4.5,
+      "ssp": 4,
       "ldc": 5
     },
     "flrfi": {
@@ -658,7 +658,7 @@
       "g4": 2,
       "hg": 2,
       "dc": 2,
-      "sh4": 2,
+      "sh4": 1,
       "gsr": 1,
       "shsr": 1
     },
@@ -672,7 +672,7 @@
     },
     "flrwo": {
       "gsp": 4.5,
-      "ssp": 4.5,
+      "ssp": 4,
       "ldc": 5
     },
     "flrfi": {
@@ -709,7 +709,7 @@
       "g4": 3,
       "hg": 3,
       "dc": 3,
-      "sh4": 3,
+      "sh4": 1,
       "gsr": 1,
       "shsr": 1
     },
@@ -723,7 +723,7 @@
     },
     "flrwo": {
       "gsp": 4.5,
-      "ssp": 4.5,
+      "ssp": 4,
       "ldc": 5
     },
     "flrfi": {
@@ -757,20 +757,24 @@
       "g4": 4,
       "hg": 4,
       "dc": 4,
-      "sh4": 4,
+      "sh4": 1,
       "gsr": 1,
       "shsr": 1
     },
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "ssp": 4
+    },
+    "flrfi": {
+      "ssp": 5
+    },
     "divine_codes": {}
   },
   {
@@ -908,15 +912,19 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "gsp": 5
+    },
+    "flrfi": {
+      "gsp": 5
+    },
     "divine_codes": {}
   },
   {
@@ -8273,15 +8281,19 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "gsp": 5
+    },
+    "flrfi": {
+      "gsp": 5
+    },
     "divine_codes": {}
   },
   {
@@ -18195,7 +18207,7 @@
       "foc": 5
     },
     "flrfi": {
-      "gsp": 2,
+      "gsp": 1,
       "ssp": 1,
       "foc": 2
     },
@@ -18233,7 +18245,7 @@
       "foc": 5
     },
     "flrfi": {
-      "gsp": 3,
+      "gsp": 2,
       "ssp": 2,
       "foc": 3
     },
@@ -30142,14 +30154,18 @@
     },
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "ssp": 5
+    },
+    "flrfi": {
+      "ssp": 5
+    },
     "divine_codes": {}
   },
   {
@@ -34339,14 +34355,18 @@
     },
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "ssp": 5
+    },
+    "flrfi": {
+      "ssp": 5
+    },
     "divine_codes": {}
   },
   {
@@ -56479,7 +56499,7 @@
       "ssp": 5
     },
     "flrfi": {
-      "gsp": 3,
+      "gsp": 2,
       "ssp": 2
     },
     "divine_codes": {}
@@ -56513,7 +56533,7 @@
       "ssp": 5
     },
     "flrfi": {
-      "gsp": 4,
+      "gsp": 3,
       "ssp": 3
     },
     "divine_codes": {}
@@ -56547,7 +56567,7 @@
       "ssp": 5
     },
     "flrfi": {
-      "gsp": 5,
+      "gsp": 4,
       "ssp": 4
     },
     "divine_codes": {}
@@ -56568,7 +56588,7 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": true,
       "hg": false,
       "dc": false,
@@ -56576,9 +56596,11 @@
       "foc": false
     },
     "flrwo": {
+      "gsp": 5,
       "ssp": 5
     },
     "flrfi": {
+      "gsp": 5,
       "ssp": 5
     },
     "divine_codes": {}
@@ -58723,15 +58745,19 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "gsp": 5
+    },
+    "flrfi": {
+      "gsp": 5
+    },
     "divine_codes": {}
   },
   {
@@ -73432,14 +73458,18 @@
     },
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "ssp": 4
+    },
+    "flrfi": {
+      "ssp": 3
+    },
     "divine_codes": {}
   },
   {
@@ -73451,20 +73481,24 @@
       "g4": 2,
       "hg": 2,
       "dc": 2,
-      "sh4": 2,
-      "gsr": 2,
-      "shsr": 2
+      "sh4": 1,
+      "gsr": 1,
+      "shsr": 1
     },
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "ssp": 4
+    },
+    "flrfi": {
+      "ssp": 5
+    },
     "divine_codes": {}
   },
   {
@@ -95055,14 +95089,18 @@
     },
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "ssp": 5
+    },
+    "flrfi": {
+      "ssp": 5
+    },
     "divine_codes": {}
   },
   {
@@ -97910,14 +97948,18 @@
     },
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "ssp": 5
+    },
+    "flrfi": {
+      "ssp": 5
+    },
     "divine_codes": {}
   },
   {
@@ -118748,14 +118790,18 @@
     },
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "ssp": 5
+    },
+    "flrfi": {
+      "ssp": 5
+    },
     "divine_codes": {}
   },
   {
@@ -128226,15 +128272,19 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "gsp": 5
+    },
+    "flrfi": {
+      "gsp": 3
+    },
     "divine_codes": {}
   },
   {
@@ -128251,15 +128301,19 @@
       "shsr": 2
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "gsp": 5
+    },
+    "flrfi": {
+      "gsp": 5
+    },
     "divine_codes": {}
   },
   {
@@ -134042,14 +134096,18 @@
     },
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "ssp": 5
+    },
+    "flrfi": {
+      "ssp": 5
+    },
     "divine_codes": {}
   },
   {
@@ -136473,14 +136531,18 @@
     },
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "ssp": 5
+    },
+    "flrfi": {
+      "ssp": 5
+    },
     "divine_codes": {}
   },
   {
@@ -152414,14 +152476,18 @@
     },
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "ssp": 5
+    },
+    "flrfi": {
+      "ssp": 5
+    },
     "divine_codes": {}
   },
   {
@@ -163090,7 +163156,7 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": true,
       "hg": false,
       "dc": true,
@@ -163098,12 +163164,14 @@
       "foc": true
     },
     "flrwo": {
+      "gsp": 5,
       "ssp": 4.5,
       "dc": 5,
       "ldc": 5,
       "foc": 5
     },
     "flrfi": {
+      "gsp": 3,
       "ssp": 1,
       "dc": 1,
       "ldc": 1,
@@ -163152,7 +163220,7 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": true,
       "hg": false,
       "dc": true,
@@ -163160,12 +163228,14 @@
       "foc": true
     },
     "flrwo": {
+      "gsp": 5,
       "ssp": 4.5,
       "dc": 5,
       "ldc": 5,
       "foc": 5
     },
     "flrfi": {
+      "gsp": 4,
       "ssp": 2,
       "dc": 2,
       "ldc": 2,
@@ -163214,7 +163284,7 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": true,
       "hg": false,
       "dc": true,
@@ -163222,12 +163292,14 @@
       "foc": true
     },
     "flrwo": {
+      "gsp": 5,
       "ssp": 4.5,
       "dc": 5,
       "ldc": 5,
       "foc": 5
     },
     "flrfi": {
+      "gsp": 5,
       "ssp": 4,
       "dc": 4,
       "ldc": 4,
@@ -202710,7 +202782,7 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": true,
@@ -202718,10 +202790,12 @@
       "foc": true
     },
     "flrwo": {
+      "gsp": 5,
       "dc": 5,
       "foc": 5
     },
     "flrfi": {
+      "gsp": 5,
       "dc": 5,
       "foc": 5
     },

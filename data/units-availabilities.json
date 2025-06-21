@@ -5676,13 +5676,15 @@
     "id": "PID_双界セリカ",
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "lowest_rarity": {},
+    "lowest_rarity": {
+      "ssp": 5
+    },
     "skill_ids": [
       "SID_アトラース",
       "SID_エルロック",
@@ -14968,14 +14970,16 @@
   {
     "id": "PID_ギムレー女",
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "lowest_rarity": {},
+    "lowest_rarity": {
+      "gsp": 5
+    },
     "skill_ids": [
       "SID_兜の護り手・近・茨",
       "SID_兜の護り手・近間1",
@@ -15002,14 +15006,16 @@
   {
     "id": "PID_ギムレー男",
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "lowest_rarity": {},
+    "lowest_rarity": {
+      "gsp": 5
+    },
     "skill_ids": [
       "SID_堅牢のブレス",
       "SID_堅牢のブレス＋",
@@ -21743,13 +21749,15 @@
     "id": "PID_水着ラピス",
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "lowest_rarity": {},
+    "lowest_rarity": {
+      "ssp": 5
+    },
     "skill_ids": [
       "SID_伏竜",
       "SID_大漁呼ぶ魚獲りの銛",
@@ -31025,13 +31033,15 @@
     "id": "PID_水着ニノ",
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "lowest_rarity": {},
+    "lowest_rarity": {
+      "ssp": 5
+    },
     "skill_ids": [
       "SID_エルファイアー",
       "SID_ファイアー",
@@ -32747,13 +32757,15 @@
     "id": "PID_水着外伝パオラ",
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "lowest_rarity": {},
+    "lowest_rarity": {
+      "ssp": 4
+    },
     "skill_ids": [
       "SID_ヤシの葉",
       "SID_ヤシの葉＋",
