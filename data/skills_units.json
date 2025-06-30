@@ -66816,6 +66816,126 @@
     "unlock": 5
   },
   {
+    "unit_id": "PID_紋章ミカヤ",
+    "skill_id": "SID_攻撃魔防の大混乱",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_紋章ミカヤ",
+    "skill_id": "SID_アトラース",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_紋章ミカヤ",
+    "skill_id": "SID_明鏡止水",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_紋章ミカヤ",
+    "skill_id": "SID_陽影",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_紋章ミカヤ",
+    "skill_id": "SID_エルロック",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_紋章ミカヤ",
+    "skill_id": "SID_大いなる癒しの手",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_紋章ミカヤ",
+    "skill_id": "SID_暁の巫女の書",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_紋章ミカヤ",
+    "skill_id": "SID_魔防の混乱1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_紋章ミカヤ",
+    "skill_id": "SID_魔防の混乱2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_紋章ミカヤ",
+    "skill_id": "SID_魔防の混乱3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_紋章ミカヤ",
+    "skill_id": "SID_サイレスガード1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_紋章ミカヤ",
+    "skill_id": "SID_サイレスガード2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_紋章ミカヤ",
+    "skill_id": "SID_サイレスガード3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_紋章ミカヤ",
+    "skill_id": "SID_サイレスガード4",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_紋章ミカヤ",
+    "skill_id": "SID_太陽",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_紋章ミカヤ",
+    "skill_id": "SID_止水1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_紋章ミカヤ",
+    "skill_id": "SID_止水2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_紋章ミカヤ",
+    "skill_id": "SID_止水3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_紋章ミカヤ",
+    "skill_id": "SID_ロック",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_紋章ミカヤ",
+    "skill_id": "SID_入れ替え",
+    "default": 4,
+    "unlock": 3
+  },
+  {
     "unit_id": "PID_ミカヤ",
     "skill_id": "SID_献身",
     "default": 4,

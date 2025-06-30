@@ -681,8 +681,8 @@
   },
   {
     "id": "SID_レディソード",
-    "game8_rating": "9.5",
-    "game8_grade": null
+    "game8_rating": "9.0",
+    "game8_grade": "A"
   },
   {
     "id": "SID_始祖ファルシオン",
@@ -1772,7 +1772,7 @@
   {
     "id": "SID_慕炎の書",
     "game8_rating": "9.0",
-    "game8_grade": null
+    "game8_grade": "A"
   },
   {
     "id": "SID_バンシーΘ",
@@ -1787,7 +1787,7 @@
   {
     "id": "SID_破滅の邪書",
     "game8_rating": "9.0",
-    "game8_grade": null
+    "game8_grade": "A"
   },
   {
     "id": "SID_フローズンパフェ",
@@ -2951,8 +2951,8 @@
   },
   {
     "id": "SID_アッサルの槍",
-    "game8_rating": "8.5",
-    "game8_grade": null
+    "game8_rating": "9.5",
+    "game8_grade": "S"
   },
   {
     "id": "SID_アラドヴァル",
@@ -2971,8 +2971,8 @@
   },
   {
     "id": "SID_ルーン",
-    "game8_rating": "9.5",
-    "game8_grade": null
+    "game8_rating": "9.0",
+    "game8_grade": "A"
   },
   {
     "id": "SID_スミアの花槍",
@@ -2997,7 +2997,7 @@
   {
     "id": "SID_虚ろな槍",
     "game8_rating": "8.0",
-    "game8_grade": null
+    "game8_grade": "B"
   },
   {
     "id": "SID_聖槍グラディウス",
@@ -4401,8 +4401,8 @@
   },
   {
     "id": "SID_氷槍フィンブル",
-    "game8_rating": "9.5",
-    "game8_grade": null
+    "game8_rating": "9.0",
+    "game8_grade": "A"
   },
   {
     "id": "SID_グラドの史書",
@@ -4642,7 +4642,7 @@
   {
     "id": "SID_賀正の人狼娘の爪牙",
     "game8_rating": "8.5",
-    "game8_grade": null
+    "game8_grade": "B"
   },
   {
     "id": "SID_暴走の虎の爪牙",
@@ -5342,7 +5342,7 @@
   {
     "id": "SID_業火の双斧",
     "game8_rating": "9.5",
-    "game8_grade": null
+    "game8_grade": "A"
   },
   {
     "id": "SID_虎の剛斧",
@@ -6377,7 +6377,7 @@
   {
     "id": "SID_フリスト",
     "game8_rating": "9.5",
-    "game8_grade": null
+    "game8_grade": "S"
   },
   {
     "id": "SID_妖精姉妹の絆",
@@ -7297,7 +7297,7 @@
   {
     "id": "SID_キアの杖",
     "game8_rating": "9.5",
-    "game8_grade": null
+    "game8_grade": "S"
   },
   {
     "id": "SID_春陽の杖",
@@ -8585,6 +8585,11 @@
     "game8_grade": "S"
   },
   {
+    "id": "SID_暁の巫女の書",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
     "id": "SID_邪神のブレス",
     "game8_rating": "9.5",
     "game8_grade": null
@@ -8736,8 +8741,8 @@
   },
   {
     "id": "SID_双紋章の力",
-    "game8_rating": "9.5",
-    "game8_grade": null
+    "game8_rating": "9.0",
+    "game8_grade": "A"
   },
   {
     "id": "SID_夏夜の悪夢の角",
@@ -9317,7 +9322,7 @@
   {
     "id": "SID_竜の咆哮",
     "game8_rating": "9.5",
-    "game8_grade": "A"
+    "game8_grade": "S"
   },
   {
     "id": "SID_堅固なる獣",
@@ -9876,7 +9881,7 @@
   },
   {
     "id": "SID_聖神と暗黒神の冠",
-    "game8_rating": "9.5",
+    "game8_rating": "9.0",
     "game8_grade": "A"
   },
   {
@@ -10051,6 +10056,11 @@
   },
   {
     "id": "SID_漆闇の月光",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_大いなる癒しの手",
     "game8_rating": "9.5",
     "game8_grade": "S"
   },
@@ -10466,7 +10476,7 @@
   },
   {
     "id": "SID_遠反・攻守の密集",
-    "game8_rating": "9.0",
+    "game8_rating": "9.5",
     "game8_grade": "S"
   },
   {
@@ -13587,7 +13597,7 @@
   {
     "id": "SID_迎撃隊形4",
     "game8_rating": "9.0",
-    "game8_grade": null
+    "game8_grade": "A"
   },
   {
     "id": "SID_反攻隊形",
@@ -16257,7 +16267,7 @@
   {
     "id": "SID_信じつづける誓い",
     "game8_rating": "9.0",
-    "game8_grade": null
+    "game8_grade": "A"
   },
   {
     "id": "SID_ヘズルの聖戦士",
@@ -17382,7 +17392,7 @@
   {
     "id": "SID_攻撃の大紋章2",
     "game8_rating": "8.5",
-    "game8_grade": "A"
+    "game8_grade": null
   },
   {
     "id": "SID_速さの大紋章1",
@@ -18155,9 +18165,19 @@
     "game8_grade": "B"
   },
   {
+    "id": "SID_サイレスガード1",
+    "game8_rating": null,
+    "game8_grade": null
+  },
+  {
     "id": "SID_遠距離相互警戒",
     "game8_rating": "9.5",
     "game8_grade": "A"
+  },
+  {
+    "id": "SID_サイレスガード2",
+    "game8_rating": null,
+    "game8_grade": null
   },
   {
     "id": "SID_縄張り・守護",
@@ -18165,9 +18185,19 @@
     "game8_grade": "S"
   },
   {
+    "id": "SID_サイレスガード3",
+    "game8_rating": null,
+    "game8_grade": null
+  },
+  {
     "id": "SID_縄張り・護り手・遠",
     "game8_rating": "9.9",
     "game8_grade": "SS"
+  },
+  {
+    "id": "SID_サイレスガード4",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
   },
   {
     "id": "SID_赤への暗闘1",

@@ -914,6 +914,23 @@
     ]
   },
   {
+    "name": "Emblem Micaiah: Of Dawn",
+    "unit_ids": [
+      "PID_ノーマ",
+      "PID_フレスベルグ味方",
+      "PID_ラタトスク",
+      "PID_ラファール",
+      "PID_伝承エリンシア",
+      "PID_伝承カミラ",
+      "PID_伝承サクラ",
+      "PID_神階ヘイズ",
+      "PID_紋章シグルド",
+      "PID_紋章ミカヤ",
+      "PID_若年ガトー",
+      "PID_響心アルム"
+    ]
+  },
+  {
     "name": "Emblem Sigurd: Of the Holy War",
     "unit_ids": [
       "PID_グルヴェイグ味方",
@@ -1824,6 +1841,19 @@
       "PID_比翼カゲロウ",
       "PID_比翼リオン",
       "PID_風部族ダグ"
+    ]
+  },
+  {
+    "name": "Focus: Double Special Heroes (Jun 2025)",
+    "unit_ids": [
+      "PID_ハロレテ",
+      "PID_冬祭オルテンシア",
+      "PID_双界マリカ",
+      "PID_年明ニーズヘッグ",
+      "PID_幼少カミラ",
+      "PID_忍者サーリャ",
+      "PID_比翼レア",
+      "PID_氷部族ティト"
     ]
   },
   {
@@ -2741,6 +2771,14 @@
       "PID_ナギ",
       "PID_ニケ",
       "PID_ベレト"
+    ]
+  },
+  {
+    "name": "Focus: Heroes w/Distant Counter (Jun 2025)",
+    "unit_ids": [
+      "PID_闇ベレス",
+      "PID_響心エイリーク",
+      "PID_響心シーダ"
     ]
   },
   {
@@ -4718,6 +4756,14 @@
     ]
   },
   {
+    "name": "Focus: My Sister Is the Best!",
+    "unit_ids": [
+      "PID_サフィ",
+      "PID_シレーネ",
+      "PID_響心アイビー"
+    ]
+  },
+  {
     "name": "Focus: Mycen & Alm's Battle",
     "unit_ids": [
       "PID_マイセン",
@@ -4728,6 +4774,7 @@
   {
     "name": "Focus: Nergal & Ursula's Battle",
     "unit_ids": [
+      "PID_ジャファル",
       "PID_闇ウルスラ",
       "PID_闇ネルガル"
     ]

@@ -12513,6 +12513,7 @@
       "SID_エトルリアの光",
       "SID_激雷の書",
       "SID_愛深き花嫁のブーケ",
+      "SID_暁の巫女の書",
       "SID_大地母神の聖書",
       "SID_純白の月の雫",
       "SID_明日の光",
@@ -51597,6 +51598,30 @@
     }
   },
   {
+    "id": "SID_大いなる癒しの手",
+    "game8_id": "532538",
+    "name": "Great Sacrifice",
+    "group_name": "Great Sacrifice",
+    "category": "special",
+    "is_prf": true,
+    "sp": 500,
+    "tier": 3,
+    "cd": 3,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_not_use": [
+          "Colorless Staff"
+        ]
+      }
+    },
+    "downgrade_ids": [
+      "SID_太陽"
+    ]
+  },
+  {
     "id": "SID_緑の卵",
     "game8_id": "265694",
     "name": "Green Egg",
@@ -67255,6 +67280,34 @@
     },
     "downgrade_ids": [
       "SID_献身"
+    ]
+  },
+  {
+    "id": "SID_暁の巫女の書",
+    "game8_id": "532537",
+    "name": "Maiden's Tome",
+    "group_name": "Maiden's Tome",
+    "category": "weapon",
+    "weapon_type": "Colorless Tome",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "eff": [
+      "armored",
+      "cavalry"
+    ],
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Colorless Tome"
+        ]
+      }
+    },
+    "downgrade_ids": [
+      "SID_アトラース"
     ]
   },
   {
@@ -91614,6 +91667,124 @@
     }
   },
   {
+    "id": "SID_サイレスガード1",
+    "game8_id": "532539",
+    "name": "Silence Ward 1",
+    "group_name": "Silence Ward",
+    "category": "passivec",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d0/Silence_Ward_1.png/revision/latest?cb=20250630073353",
+    "is_prf": false,
+    "sp": 60,
+    "tier": 1,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "can_not_use": [
+          "Cavalry"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "Colorless Staff",
+          "All Tome"
+        ]
+      }
+    },
+    "upgrade_ids": [
+      "SID_サイレスガード2"
+    ]
+  },
+  {
+    "id": "SID_サイレスガード2",
+    "game8_id": "532540",
+    "name": "Silence Ward 2",
+    "group_name": "Silence Ward",
+    "category": "passivec",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/89/Silence_Ward_2.png/revision/latest?cb=20250630073402",
+    "is_prf": false,
+    "sp": 120,
+    "tier": 2,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "can_not_use": [
+          "Cavalry"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "Colorless Staff",
+          "All Tome"
+        ]
+      }
+    },
+    "upgrade_ids": [
+      "SID_サイレスガード3"
+    ],
+    "downgrade_ids": [
+      "SID_サイレスガード1"
+    ]
+  },
+  {
+    "id": "SID_サイレスガード3",
+    "game8_id": "532541",
+    "name": "Silence Ward 3",
+    "group_name": "Silence Ward",
+    "category": "passivec",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/9e/Silence_Ward_3.png/revision/latest?cb=20250630073413",
+    "is_prf": false,
+    "sp": 240,
+    "tier": 3,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "can_not_use": [
+          "Cavalry"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "Colorless Staff",
+          "All Tome"
+        ]
+      }
+    },
+    "upgrade_ids": [
+      "SID_サイレスガード4"
+    ],
+    "downgrade_ids": [
+      "SID_サイレスガード2"
+    ]
+  },
+  {
+    "id": "SID_サイレスガード4",
+    "game8_id": "532542",
+    "name": "Silence Ward 4",
+    "group_name": "Silence Ward",
+    "category": "passivec",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/4f/Silence_Ward_4.png/revision/latest?cb=20250630073424",
+    "is_prf": false,
+    "sp": 300,
+    "tier": 4,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "can_not_use": [
+          "Cavalry"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "Colorless Staff",
+          "All Tome"
+        ]
+      }
+    },
+    "downgrade_ids": [
+      "SID_サイレスガード3"
+    ]
+  },
+  {
     "id": "SID_透魔竜のブレス",
     "game8_id": "411499",
     "name": "Silent Breath",
@@ -94239,6 +94410,7 @@
       "SID_天空",
       "SID_蒼炎の天空",
       "SID_覇克・天空",
+      "SID_大いなる癒しの手",
       "SID_暴の天空",
       "SID_蒼の天空"
     ],
