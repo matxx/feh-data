@@ -305,6 +305,15 @@
     ]
   },
   {
+    "name": "A New Self (Focus)",
+    "unit_ids": [
+      "PID_比翼ハピ",
+      "PID_水着エイクスルニル",
+      "PID_水着ヘイズルーン",
+      "PID_水着ユーリス"
+    ]
+  },
+  {
     "name": "A Place to Rest (Focus)",
     "unit_ids": [
       "PID_双界クロエ",
@@ -2571,6 +2580,15 @@
       "PID_幼少ラーチェル",
       "PID_水着ヨシュア",
       "PID_魔王リオン"
+    ]
+  },
+  {
+    "name": "Focus: Hall of Forms Revival (Jul 2025)",
+    "unit_ids": [
+      "PID_暴走カムイ女",
+      "PID_暴走カムイ男",
+      "PID_温泉ヒノカ",
+      "PID_総選挙カミラ"
     ]
   },
   {
@@ -5131,6 +5149,15 @@
     ]
   },
   {
+    "name": "Focus: New Power (Jul 2025)",
+    "unit_ids": [
+      "PID_パント",
+      "PID_リュート",
+      "PID_年明ニシキ",
+      "PID_闇ディミトリ"
+    ]
+  },
+  {
     "name": "Focus: New Power (Jun 2018)",
     "unit_ids": [
       "PID_チキ",
@@ -5939,6 +5966,14 @@
       "PID_ヒルダ",
       "PID_マリアンヌ",
       "PID_メルセデス"
+    ]
+  },
+  {
+    "name": "Focus: Tempest Trials (Askr's Kin, Pt. 1)",
+    "unit_ids": [
+      "PID_コンスタンツェ",
+      "PID_ハピ",
+      "PID_バルタザール"
     ]
   },
   {

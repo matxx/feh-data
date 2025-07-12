@@ -1830,7 +1830,8 @@
       "SID_巳年の毒の牙",
       "SID_心の葬り手の枝",
       "SID_滅びの魔拳",
-      "SID_双紋章の力"
+      "SID_双紋章の力",
+      "SID_漂う者の角"
     ],
     "downgrade_ids": [
       "SID_若獣の化身・重装"
@@ -1878,6 +1879,7 @@
       "SID_地の女神の溺愛",
       "SID_新年の妖狐娘の爪牙",
       "SID_悪夢の女王の角",
+      "SID_夏鍛える体の角",
       "SID_春の夜の夢の角",
       "SID_体の葬り手の角",
       "SID_夏夜の夢の角",
@@ -1971,6 +1973,7 @@
       "SID_賀正の人狼王の爪牙",
       "SID_砂漠の狼女王の牙",
       "SID_虎戦士の爪牙",
+      "SID_南国の蜜の角",
       "SID_暴走の虎の爪牙",
       "SID_狼女王の牙",
       "SID_人狼娘の爪牙",
@@ -8642,7 +8645,8 @@
       }
     },
     "upgrade_ids": [
-      "SID_攻撃守備の孤軍4"
+      "SID_攻撃守備の孤軍4",
+      "SID_攻撃守備の野性"
     ],
     "downgrade_ids": [
       "SID_攻撃守備の孤軍2"
@@ -8692,6 +8696,31 @@
     },
     "downgrade_ids": [
       "SID_攻撃守備の絆3"
+    ]
+  },
+  {
+    "id": "SID_攻撃守備の野性",
+    "game8_id": "535469",
+    "name": "Atk/Def Wild",
+    "group_name": "Atk/Def Wild",
+    "category": "passivea",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/7c/Atk_Def_Wild.png/revision/latest?cb=20250707115555",
+    "is_prf": false,
+    "sp": 300,
+    "tier": 4,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "All Beast"
+        ]
+      }
+    },
+    "downgrade_ids": [
+      "SID_攻撃守備の孤軍3"
     ]
   },
   {
@@ -12374,6 +12403,7 @@
     },
     "upgrade_ids": [
       "SID_攻撃速さの孤軍4",
+      "SID_攻撃速さの奇襲",
       "SID_攻撃速さの野性"
     ],
     "downgrade_ids": [
@@ -12449,6 +12479,31 @@
     },
     "downgrade_ids": [
       "SID_攻撃速さの絆3"
+    ]
+  },
+  {
+    "id": "SID_攻撃速さの奇襲",
+    "game8_id": "535467",
+    "name": "Atk/Spd Waylay",
+    "group_name": "Atk/Spd Waylay",
+    "category": "passivea",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/14/Atk_Spd_Waylay.png/revision/latest?cb=20250707115606",
+    "is_prf": false,
+    "sp": 300,
+    "tier": 4,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "All Dagger"
+        ]
+      }
+    },
+    "downgrade_ids": [
+      "SID_攻撃速さの孤軍3"
     ]
   },
   {
@@ -23616,6 +23671,53 @@
     ]
   },
   {
+    "id": "SID_枢機卿の書",
+    "game8_id": "535833",
+    "name": "Cardinal's Tome",
+    "group_name": "Cardinal's Tome",
+    "category": "weapon",
+    "weapon_type": "Red Tome",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 1,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Red Tome"
+        ]
+      }
+    }
+  },
+  {
+    "id": "SID_枢機卿の書_一",
+    "base_id": "SID_枢機卿の書",
+    "game8_id": "535833",
+    "name": "Cardinal's Tome",
+    "group_name": "Cardinal's Tome",
+    "category": "weapon",
+    "weapon_type": "Red Tome",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d5/Cardinals_Tome_W.png/revision/latest?cb=20250707115803",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 1,
+    "refine": "skill1",
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Red Tome"
+        ]
+      }
+    }
+  },
+  {
     "id": "SID_深き優しさの聖器",
     "game8_id": "381512",
     "name": "Caring Conch",
@@ -31464,8 +31566,36 @@
         "none": true
       }
     },
+    "upgrade_ids": [
+      "SID_守備魔防の共栄"
+    ],
     "downgrade_ids": [
       "SID_守備魔防の密集2"
+    ]
+  },
+  {
+    "id": "SID_守備魔防の共栄",
+    "game8_id": "535468",
+    "name": "Def/Res Fortune",
+    "group_name": "Def/Res Fortune",
+    "category": "passivea",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/8c/Def_Res_Fortune.png/revision/latest?cb=20250707115617",
+    "is_prf": false,
+    "sp": 300,
+    "tier": 4,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "All Beast"
+        ]
+      }
+    },
+    "downgrade_ids": [
+      "SID_守備魔防の密集3"
     ]
   },
   {
@@ -34710,6 +34840,26 @@
     "downgrade_ids": [
       "SID_空からの急襲2"
     ]
+  },
+  {
+    "id": "SID_神獣の逞しき肉体",
+    "game8_id": "535471",
+    "name": "Divine Brawn",
+    "group_name": "Divine Brawn",
+    "category": "passiveb",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f7/Divine_Brawn.png/revision/latest?cb=20250707115626",
+    "is_prf": true,
+    "sp": 300,
+    "tier": 1,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "none": true
+      }
+    }
   },
   {
     "id": "SID_神竜王のブレス",
@@ -39179,6 +39329,32 @@
     "downgrade_ids": [
       "SID_成獣の化身・飛行"
     ]
+  },
+  {
+    "id": "SID_絶闇の翼爪_一",
+    "base_id": "SID_絶闇の翼爪",
+    "game8_id": "398487",
+    "name": "Enclosing Claw",
+    "group_name": "Enclosing Claw",
+    "category": "weapon",
+    "weapon_type": "All Beast",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/74/Enclosing_Claw_W.png/revision/latest?cb=20250707115720",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 1,
+    "refine": "skill1",
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Flying"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "All Beast"
+        ]
+      }
+    }
   },
   {
     "id": "SID_絶闇エンブラ",
@@ -43697,7 +43873,7 @@
     "group_name": "Flame Lance",
     "category": "weapon",
     "weapon_type": "Blue Lance",
-    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/63/Counter_Roar_W.png/revision/latest?cb=20240507050900",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/97/Flame_Lance_W.png/revision/latest?cb=20240507050900",
     "is_prf": true,
     "sp": 400,
     "tier": 1,
@@ -56236,7 +56412,33 @@
       "weapons": {
         "none": true
       }
-    }
+    },
+    "upgrade_ids": [
+      "SID_ヘズルの聖戦士・承"
+    ]
+  },
+  {
+    "id": "SID_ヘズルの聖戦士・承",
+    "game8_id": "535476",
+    "name": "Hoðr's Zeal II",
+    "group_name": "Hoðr's Zeal",
+    "category": "passiveb",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/83/Hodrs_Zeal_II.png/revision/latest?cb=20250707115534",
+    "is_prf": true,
+    "sp": 300,
+    "tier": 2,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "none": true
+      }
+    },
+    "downgrade_ids": [
+      "SID_ヘズルの聖戦士"
+    ]
   },
   {
     "id": "SID_聖槍グラディウス",
@@ -63742,6 +63944,31 @@
     "downgrade_ids": [
       "SID_銀の剣"
     ]
+  },
+  {
+    "id": "SID_大地の剣_一",
+    "base_id": "SID_大地の剣",
+    "game8_id": "372949",
+    "name": "Lands Sword",
+    "group_name": "Lands Sword",
+    "category": "weapon",
+    "weapon_type": "Red Sword",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/ea/Lands_Sword_W.png/revision/latest?cb=20250707115709",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 1,
+    "refine": "skill1",
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Red Sword"
+        ]
+      }
+    }
   },
   {
     "id": "SID_提灯の竜石",
@@ -72818,6 +73045,32 @@
     ]
   },
   {
+    "id": "SID_夏鍛える体の角",
+    "game8_id": "535464",
+    "name": "Ocean-Fit Antler",
+    "group_name": "Ocean-Fit Antler",
+    "category": "weapon",
+    "weapon_type": "All Beast",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Cavalry"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "All Beast"
+        ]
+      }
+    },
+    "downgrade_ids": [
+      "SID_成獣の化身・騎馬"
+    ]
+  },
+  {
     "id": "SID_攻撃の波・奇数1",
     "game8_id": "266705",
     "name": "Odd Atk Wave 1",
@@ -73822,6 +74075,59 @@
         ]
       }
     }
+  },
+  {
+    "id": "SID_鋭骨の槍",
+    "game8_id": "535460",
+    "name": "Osseous Trident",
+    "group_name": "Osseous Trident",
+    "category": "weapon",
+    "weapon_type": "Blue Lance",
+    "is_prf": false,
+    "sp": 200,
+    "tier": 3,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Blue Lance"
+        ]
+      }
+    },
+    "upgrade_ids": [
+      "SID_鋭骨の槍＋"
+    ],
+    "downgrade_ids": [
+      "SID_鋼の槍"
+    ]
+  },
+  {
+    "id": "SID_鋭骨の槍＋",
+    "game8_id": "535461",
+    "name": "Osseous Trident+",
+    "group_name": "Osseous Trident+",
+    "category": "weapon",
+    "weapon_type": "Blue Lance",
+    "is_prf": false,
+    "sp": 300,
+    "tier": 4,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Blue Lance"
+        ]
+      }
+    },
+    "downgrade_ids": [
+      "SID_鋭骨の槍"
+    ]
   },
   {
     "id": "SID_オスティアの心魂",
@@ -81564,6 +81870,53 @@
     }
   },
   {
+    "id": "SID_隠遁者の書",
+    "game8_id": "535832",
+    "name": "Recluse's Tome",
+    "group_name": "Recluse's Tome",
+    "category": "weapon",
+    "weapon_type": "Green Tome",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 1,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Green Tome"
+        ]
+      }
+    }
+  },
+  {
+    "id": "SID_隠遁者の書_一",
+    "base_id": "SID_隠遁者の書",
+    "game8_id": "535832",
+    "name": "Recluse's Tome",
+    "group_name": "Recluse's Tome",
+    "category": "weapon",
+    "weapon_type": "Green Tome",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/85/Recluses_Tome_W.png/revision/latest?cb=20250707115814",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 1,
+    "refine": "skill1",
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Green Tome"
+        ]
+      }
+    }
+  },
+  {
     "id": "SID_ヒール",
     "game8_id": "265989",
     "name": "Reconcile",
@@ -81894,6 +82247,33 @@
     "downgrade_ids": [
       "SID_成獣の化身・騎馬"
     ]
+  },
+  {
+    "id": "SID_賀正の妖狐王の爪牙_一",
+    "base_id": "SID_賀正の妖狐王の爪牙",
+    "game8_id": "315230",
+    "name": "Refreshed Fang",
+    "group_name": "Refreshed Fang",
+    "category": "weapon",
+    "weapon_type": "All Beast",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/49/Refreshed_Fang_W.png/revision/latest?cb=20250707115731",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 1,
+    "refine": "skill1",
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Cavalry"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "All Beast"
+        ]
+      }
+    }
   },
   {
     "id": "SID_氷菓子の弓",
@@ -83944,7 +84324,8 @@
     },
     "upgrade_ids": [
       "SID_共鳴・攻魔遠影",
-      "SID_共鳴の黒魔法4"
+      "SID_共鳴の黒魔法4",
+      "SID_共鳴・速魔遠影"
     ],
     "downgrade_ids": [
       "SID_共鳴の黒魔法2"
@@ -86438,6 +86819,36 @@
     ]
   },
   {
+    "id": "SID_共鳴・速魔遠影",
+    "game8_id": "535472",
+    "name": "S/R Far Resound",
+    "group_name": "S/R Far Resound",
+    "category": "passiveb",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c8/S_R_Far_Resound.png/revision/latest?cb=20250707115637",
+    "is_prf": false,
+    "sp": 300,
+    "tier": 4,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Cavalry",
+          "Flying"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "Colorless Staff",
+          "All Tome"
+        ]
+      }
+    },
+    "downgrade_ids": [
+      "SID_共鳴の黒魔法3",
+      "SID_速さ魔防の遠影3"
+    ]
+  },
+  {
     "id": "SID_速さ魔防の遠影1",
     "game8_id": "328797",
     "name": "S/R Far Trace 1",
@@ -86527,6 +86938,7 @@
       }
     },
     "upgrade_ids": [
+      "SID_共鳴・速魔遠影",
       "SID_速さ魔防の遠影4"
     ],
     "downgrade_ids": [
@@ -90369,7 +90781,33 @@
       "weapons": {
         "none": true
       }
-    }
+    },
+    "upgrade_ids": [
+      "SID_すべてが閉じ…・神"
+    ]
+  },
+  {
+    "id": "SID_すべてが閉じ…・神",
+    "game8_id": "535475",
+    "name": "Severance+",
+    "group_name": "Severance",
+    "category": "passivec",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/84/Severance_Plus.png/revision/latest?cb=20250707115544",
+    "is_prf": true,
+    "sp": 300,
+    "tier": 2,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "none": true
+      }
+    },
+    "downgrade_ids": [
+      "SID_すべてが閉じた世界"
+    ]
   },
   {
     "id": "SID_暗黒地竜のブレス",
@@ -91206,6 +91644,7 @@
       "SID_幸福忍者の忍法帳",
       "SID_シャイン＋",
       "SID_精霊の森の秘本",
+      "SID_夏涼む二人の夏氷",
       "SID_セイニー",
       "SID_円環の力",
       "SID_雷神トールハンマー",
@@ -92221,6 +92660,7 @@
       "SID_一夏の楽器",
       "SID_シュルグ",
       "SID_疾風の双手裏剣",
+      "SID_冷涼な果の氷菓子",
       "SID_永生ユーミル"
     ],
     "downgrade_ids": [
@@ -103125,6 +103565,7 @@
       "SID_忍の薙刀",
       "SID_忍の槍",
       "SID_見切り追撃の槍",
+      "SID_鋭骨の槍",
       "SID_感謝の花の槍",
       "SID_守護の槍",
       "SID_追撃の槍",
@@ -104204,6 +104645,35 @@
     ]
   },
   {
+    "id": "SID_夏涼む二人の夏氷",
+    "game8_id": "535465",
+    "name": "Summer Chilling",
+    "group_name": "Summer Chilling",
+    "category": "weapon",
+    "weapon_type": "Blue Tome",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "eff": [
+      "dragonstone",
+      "beast"
+    ],
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Blue Tome"
+        ]
+      }
+    },
+    "downgrade_ids": [
+      "SID_トロン",
+      "SID_シャイン"
+    ]
+  },
+  {
     "id": "SID_一夏の楽器",
     "game8_id": "290519",
     "name": "Summer Strikers",
@@ -105170,6 +105640,26 @@
     "downgrade_ids": [
       "SID_あまいゆめ"
     ]
+  },
+  {
+    "id": "SID_神獣の甘き蜜",
+    "game8_id": "535474",
+    "name": "Sweet Nectar",
+    "group_name": "Sweet Nectar",
+    "category": "passivec",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/56/Sweet_Nectar.png/revision/latest?cb=20250707115658",
+    "is_prf": true,
+    "sp": 300,
+    "tier": 1,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "none": true
+      }
+    }
   },
   {
     "id": "SID_幸運ぶ冬の聖菓",
@@ -106362,6 +106852,30 @@
     }
   },
   {
+    "id": "SID_冷涼な果の氷菓子",
+    "game8_id": "535462",
+    "name": "Tangy Sundae",
+    "group_name": "Tangy Sundae",
+    "category": "weapon",
+    "weapon_type": "All Dagger",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "All Dagger"
+        ]
+      }
+    },
+    "downgrade_ids": [
+      "SID_銀の暗器"
+    ]
+  },
+  {
     "id": "SID_聖樹の杖",
     "game8_id": "314401",
     "name": "Tannenbaton",
@@ -107268,6 +107782,26 @@
     ]
   },
   {
+    "id": "SID_真・ドローミの鎖環",
+    "game8_id": "535473",
+    "name": "The True Dromi",
+    "group_name": "The True Dromi",
+    "category": "passivec",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c3/The_True_Dromi.png/revision/latest?cb=20250707115647",
+    "is_prf": true,
+    "sp": 300,
+    "tier": 1,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "none": true
+      }
+    }
+  },
+  {
     "id": "SID_シーフ",
     "game8_id": "438934",
     "name": "Thief",
@@ -107556,6 +108090,7 @@
       "SID_師の授けの書",
       "SID_幸福忍者の忍法帳",
       "SID_精霊の森の秘本",
+      "SID_夏涼む二人の夏氷",
       "SID_円環の力",
       "SID_トロン＋",
       "SID_雷神トールハンマー",
@@ -109554,6 +110089,31 @@
     ]
   },
   {
+    "id": "SID_銀の魔道軍将の書_一",
+    "base_id": "SID_銀の魔道軍将の書",
+    "game8_id": "327119",
+    "name": "Tome of Reglay",
+    "group_name": "Tome of Reglay",
+    "category": "weapon",
+    "weapon_type": "Green Tome",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f7/Tome_of_Reglay_W.png/revision/latest?cb=20250707115753",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 1,
+    "refine": "skill1",
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Green Tome"
+        ]
+      }
+    }
+  },
+  {
     "id": "SID_万雷の書",
     "game8_id": "312459",
     "name": "Tome of Storms",
@@ -110193,6 +110753,32 @@
     },
     "downgrade_ids": [
       "SID_南国の果汁"
+    ]
+  },
+  {
+    "id": "SID_南国の蜜の角",
+    "game8_id": "535463",
+    "name": "Tropical Nectar",
+    "group_name": "Tropical Nectar",
+    "category": "weapon",
+    "weapon_type": "All Beast",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Infantry"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "All Beast"
+        ]
+      }
+    },
+    "downgrade_ids": [
+      "SID_成獣の化身・歩行"
     ]
   },
   {
@@ -111977,6 +112563,30 @@
     "downgrade_ids": [
       "SID_銀の槍"
     ]
+  },
+  {
+    "id": "SID_復讐鬼の槍_一",
+    "base_id": "SID_復讐鬼の槍",
+    "game8_id": "330517",
+    "name": "Vengeful Lance",
+    "group_name": "Vengeful Lance",
+    "category": "weapon",
+    "weapon_type": "Blue Lance",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/9a/Vengeful_Lance_W.png/revision/latest?cb=20250707115742",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 1,
+    "refine": "skill1",
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Blue Lance"
+        ]
+      }
+    }
   },
   {
     "id": "SID_毒の剣",

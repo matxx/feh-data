@@ -2110,6 +2110,11 @@
     "game8_grade": "S"
   },
   {
+    "id": "SID_枢機卿の書",
+    "game8_rating": "9.0",
+    "game8_grade": "A"
+  },
+  {
     "id": "SID_火のブレス",
     "game8_rating": null,
     "game8_grade": null
@@ -2333,6 +2338,11 @@
     "id": "SID_閉ざす者の鋭き爪牙",
     "game8_rating": "9.9",
     "game8_grade": "SS"
+  },
+  {
+    "id": "SID_夏鍛える体の角",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
   },
   {
     "id": "SID_鉄の槍",
@@ -3580,6 +3590,16 @@
     "game8_grade": "S"
   },
   {
+    "id": "SID_鋭骨の槍",
+    "game8_rating": null,
+    "game8_grade": null
+  },
+  {
+    "id": "SID_鋭骨の槍＋",
+    "game8_rating": "8.5",
+    "game8_grade": "B"
+  },
+  {
     "id": "SID_コウモリの弓",
     "game8_rating": null,
     "game8_grade": null
@@ -4348,6 +4368,11 @@
     "id": "SID_至聖ナーガ",
     "game8_rating": "9.5",
     "game8_grade": null
+  },
+  {
+    "id": "SID_夏涼む二人の夏氷",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
   },
   {
     "id": "SID_フィンブル",
@@ -6035,6 +6060,11 @@
     "game8_grade": "S"
   },
   {
+    "id": "SID_冷涼な果の氷菓子",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
     "id": "SID_ウインド",
     "game8_rating": null,
     "game8_grade": null
@@ -6653,6 +6683,11 @@
     "id": "SID_母娘の呪術書",
     "game8_rating": "9.5",
     "game8_grade": "S"
+  },
+  {
+    "id": "SID_隠遁者の書",
+    "game8_rating": "9.0",
+    "game8_grade": "A"
   },
   {
     "id": "SID_光のブレス",
@@ -8805,6 +8840,11 @@
     "game8_grade": "S"
   },
   {
+    "id": "SID_南国の蜜の角",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
     "id": "SID_ライブ",
     "game8_rating": null,
     "game8_grade": null
@@ -10241,6 +10281,11 @@
   },
   {
     "id": "SID_攻撃魔防の福音",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_守備魔防の共栄",
     "game8_rating": "9.5",
     "game8_grade": "S"
   },
@@ -11845,9 +11890,19 @@
     "game8_grade": null
   },
   {
+    "id": "SID_攻撃速さの孤軍4",
+    "game8_rating": "9.5",
+    "game8_grade": "A"
+  },
+  {
     "id": "SID_攻撃守備の孤軍2",
     "game8_rating": null,
     "game8_grade": null
+  },
+  {
+    "id": "SID_攻撃速さの野性",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
   },
   {
     "id": "SID_攻撃守備の孤軍3",
@@ -11855,14 +11910,29 @@
     "game8_grade": "A"
   },
   {
+    "id": "SID_攻撃速さの奇襲",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
     "id": "SID_攻撃魔防の孤軍1",
     "game8_rating": null,
     "game8_grade": null
   },
   {
+    "id": "SID_攻撃守備の孤軍4",
+    "game8_rating": "9.0",
+    "game8_grade": "A"
+  },
+  {
     "id": "SID_攻撃魔防の孤軍2",
     "game8_rating": null,
     "game8_grade": null
+  },
+  {
+    "id": "SID_攻撃守備の野性",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
   },
   {
     "id": "SID_攻撃魔防の孤軍3",
@@ -11898,21 +11968,6 @@
     "id": "SID_守備魔防の孤軍3",
     "game8_rating": "8.5",
     "game8_grade": "A"
-  },
-  {
-    "id": "SID_攻撃速さの孤軍4",
-    "game8_rating": "9.5",
-    "game8_grade": "A"
-  },
-  {
-    "id": "SID_攻撃守備の孤軍4",
-    "game8_rating": "9.0",
-    "game8_grade": "A"
-  },
-  {
-    "id": "SID_攻撃速さの野性",
-    "game8_rating": "9.5",
-    "game8_grade": "S"
   },
   {
     "id": "SID_攻撃魔防の孤軍4",
@@ -14930,6 +14985,11 @@
     "game8_grade": "SS"
   },
   {
+    "id": "SID_共鳴・速魔遠影",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
     "id": "SID_攻撃守備の近影1",
     "game8_rating": null,
     "game8_grade": null
@@ -14945,9 +15005,9 @@
     "game8_grade": null
   },
   {
-    "id": "SID_攻撃守備の近影4",
-    "game8_rating": "9.5",
-    "game8_grade": "S"
+    "id": "SID_攻撃魔防の遠影1",
+    "game8_rating": null,
+    "game8_grade": null
   },
   {
     "id": "SID_攻撃守備の遠影1",
@@ -14955,17 +15015,17 @@
     "game8_grade": null
   },
   {
-    "id": "SID_攻撃魔防の遠影1",
+    "id": "SID_攻撃守備の近影4",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_攻撃魔防の遠影2",
     "game8_rating": null,
     "game8_grade": null
   },
   {
     "id": "SID_攻撃守備の遠影2",
-    "game8_rating": null,
-    "game8_grade": null
-  },
-  {
-    "id": "SID_攻撃魔防の遠影2",
     "game8_rating": null,
     "game8_grade": null
   },
@@ -14990,14 +15050,14 @@
     "game8_grade": "SS"
   },
   {
-    "id": "SID_攻撃速さの遠影2",
-    "game8_rating": null,
-    "game8_grade": null
-  },
-  {
     "id": "SID_共鳴・攻魔遠影",
     "game8_rating": "9.5",
     "game8_grade": "S"
+  },
+  {
+    "id": "SID_攻撃速さの遠影2",
+    "game8_rating": null,
+    "game8_grade": null
   },
   {
     "id": "SID_攻撃速さの遠影3",
@@ -15020,14 +15080,14 @@
     "game8_grade": "S"
   },
   {
-    "id": "SID_速さ守備の遠影4",
-    "game8_rating": "9.5",
-    "game8_grade": "SS"
-  },
-  {
     "id": "SID_速さ魔防の近影1",
     "game8_rating": null,
     "game8_grade": null
+  },
+  {
+    "id": "SID_速さ守備の遠影4",
+    "game8_rating": "9.5",
+    "game8_grade": "SS"
   },
   {
     "id": "SID_速さ魔防の近影2",
@@ -16271,7 +16331,7 @@
   },
   {
     "id": "SID_ヘズルの聖戦士",
-    "game8_rating": "9.5",
+    "game8_rating": "9.0",
     "game8_grade": "A"
   },
   {
@@ -16281,6 +16341,11 @@
   },
   {
     "id": "SID_我が復活は成った",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_ヘズルの聖戦士・承",
     "game8_rating": "9.5",
     "game8_grade": "S"
   },
@@ -16491,6 +16556,11 @@
   },
   {
     "id": "SID_ソフィアの聖魂",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_神獣の逞しき肉体",
     "game8_rating": "9.5",
     "game8_grade": "S"
   },
@@ -19295,14 +19365,14 @@
     "game8_grade": null
   },
   {
-    "id": "SID_束縛、秩序、…・神",
-    "game8_rating": "9.5",
-    "game8_grade": "S"
-  },
-  {
     "id": "SID_盟主の鼓動・承",
     "game8_rating": "9",
     "game8_grade": null
+  },
+  {
+    "id": "SID_束縛、秩序、…・神",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
   },
   {
     "id": "SID_みんなと一緒に・承",
@@ -19320,12 +19390,12 @@
     "game8_grade": null
   },
   {
-    "id": "SID_神槌大地を穿つ・神",
+    "id": "SID_メガクェイク・神",
     "game8_rating": "9.5",
     "game8_grade": "S"
   },
   {
-    "id": "SID_メガクェイク・神",
+    "id": "SID_神槌大地を穿つ・神",
     "game8_rating": "9.5",
     "game8_grade": "S"
   },
@@ -19381,8 +19451,13 @@
   },
   {
     "id": "SID_すべてが閉じた世界",
+    "game8_rating": "9.0",
+    "game8_grade": "A"
+  },
+  {
+    "id": "SID_すべてが閉じ…・神",
     "game8_rating": "9.5",
-    "game8_grade": "SS"
+    "game8_grade": "S"
   },
   {
     "id": "SID_共に未来を見つめて",
@@ -19551,6 +19626,16 @@
   },
   {
     "id": "SID_黒い牙の絆",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_神獣の甘き蜜",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_真・ドローミの鎖環",
     "game8_rating": "9.5",
     "game8_grade": "S"
   },

@@ -924,6 +924,18 @@
     "description": "Grants HP+5, Spd/Res+3."
   },
   {
+    "id": "SID_第96迷宮の覇者1",
+    "description": "Grants HP+3, Def/Res+1."
+  },
+  {
+    "id": "SID_第96迷宮の覇者2",
+    "description": "Grants HP+4, Def/Res+2."
+  },
+  {
+    "id": "SID_第96迷宮の覇者3",
+    "description": "Grants HP+5, Def/Res+3."
+  },
+  {
     "id": "SID_第4迷宮の覇者1",
     "description": "Grants Spd+1."
   },
@@ -1394,6 +1406,18 @@
   {
     "id": "SID_攻撃守備の万全3",
     "description": "At start of combat, if unit's HP = 100% or if【Bonus】is active on unit, grants Atk/Def+5 to unit during combat.<br><br>【Bonus】<br>All effects that last \"for 1 turn\" or \"that turn only.\" Includes bonuses granted by a skill like Rally or Hone and positive status effects (extra movement or effects like Dominance)."
+  },
+  {
+    "id": "SID_攻撃守備の連携1",
+    "description": "If a movement Assist skill (like Reposition, Shove, Pivot, etc.) is used by unit or targets unit, grants Atk/Def+2 to unit and target ally or unit and targeting ally for 1 turn."
+  },
+  {
+    "id": "SID_攻撃守備の連携2",
+    "description": "If a movement Assist skill (like Reposition, Shove, Pivot, etc.) is used by unit or targets unit, grants Atk/Def+4 to unit and target ally or unit and targeting ally for 1 turn."
+  },
+  {
+    "id": "SID_攻撃守備の連携3",
+    "description": "If a movement Assist skill (like Reposition, Shove, Pivot, etc.) is used by unit or targets unit, grants Atk/Def+6 to unit and target ally or unit and targeting ally for 1 turn."
   },
   {
     "id": "SID_攻撃守備の信義1",
@@ -3394,6 +3418,18 @@
   {
     "id": "SID_速さ魔防の信義3",
     "description": "At start of turn, if unit is adjacent to an ally, grants Spd/Res+5 to unit for 1 turn."
+  },
+  {
+    "id": "SID_速さ魔防の牽制1",
+    "description": "Inflicts Spd/Res-2 on foes within 2 spaces during combat."
+  },
+  {
+    "id": "SID_速さ魔防の牽制2",
+    "description": "Inflicts Spd/Res-3 on foes within 2 spaces during combat."
+  },
+  {
+    "id": "SID_速さ魔防の牽制3",
+    "description": "Inflicts Spd/Res-4 on foes within 2 spaces during combat."
   },
   {
     "id": "SID_速さ魔防の孤軍1",

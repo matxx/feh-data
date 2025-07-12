@@ -97,6 +97,12 @@
   },
   {
     "unit_id": "PID_アルファルド",
+    "skill_id": "SID_枢機卿の書",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_アルファルド",
     "skill_id": "SID_氷点",
     "default": 4,
     "unlock": 3
@@ -6962,6 +6968,72 @@
   {
     "unit_id": "PID_バルタザール",
     "skill_id": "SID_鋼の斧",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_水着バルタザール",
+    "skill_id": "SID_攻撃守備の防壁1",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_水着バルタザール",
+    "skill_id": "SID_攻撃守備の防壁2",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_水着バルタザール",
+    "skill_id": "SID_攻撃守備の防壁3",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_水着バルタザール",
+    "skill_id": "SID_攻撃守備の信義1",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_水着バルタザール",
+    "skill_id": "SID_攻撃守備の信義2",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_水着バルタザール",
+    "skill_id": "SID_攻撃守備の信義3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_水着バルタザール",
+    "skill_id": "SID_鉄の槍",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_水着バルタザール",
+    "skill_id": "SID_鋭骨の槍",
+    "default": 3,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_水着バルタザール",
+    "skill_id": "SID_鋭骨の槍＋",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_水着バルタザール",
+    "skill_id": "SID_ぶちかまし",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_水着バルタザール",
+    "skill_id": "SID_鋼の槍",
     "default": 2,
     "unlock": 2
   },
@@ -23850,6 +23922,72 @@
     "unlock": 3
   },
   {
+    "unit_id": "PID_水着エイクスルニル",
+    "skill_id": "SID_成獣の化身・騎馬",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_水着エイクスルニル",
+    "skill_id": "SID_攻撃守備の孤軍1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_水着エイクスルニル",
+    "skill_id": "SID_攻撃守備の孤軍2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_水着エイクスルニル",
+    "skill_id": "SID_攻撃守備の孤軍3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_水着エイクスルニル",
+    "skill_id": "SID_攻撃守備の野性",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_水着エイクスルニル",
+    "skill_id": "SID_緋炎",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_水着エイクスルニル",
+    "skill_id": "SID_神獣の逞しき肉体",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_水着エイクスルニル",
+    "skill_id": "SID_蛍火",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_水着エイクスルニル",
+    "skill_id": "SID_夏鍛える体の角",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_水着エイクスルニル",
+    "skill_id": "SID_幼獣の化身・騎馬",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_水着エイクスルニル",
+    "skill_id": "SID_若獣の化身・騎馬",
+    "default": 2,
+    "unlock": 2
+  },
+  {
     "unit_id": "PID_エイクスルニル味方",
     "skill_id": "SID_成獣の化身・騎馬",
     "default": 4,
@@ -27415,6 +27553,12 @@
   },
   {
     "unit_id": "PID_エンブラ味方",
+    "skill_id": "SID_獣影・強襲",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_エンブラ味方",
     "skill_id": "SID_竜裂",
     "default": 0,
     "unlock": 4
@@ -27446,6 +27590,12 @@
   {
     "unit_id": "PID_エンブラ味方",
     "skill_id": "SID_すべてが閉じた世界",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_エンブラ味方",
+    "skill_id": "SID_すべてが閉じ…・神",
     "default": 0,
     "unlock": 5
   },
@@ -38544,6 +38694,114 @@
     "unlock": 1
   },
   {
+    "unit_id": "PID_比翼ハピ",
+    "skill_id": "SID_烈光",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_比翼ハピ",
+    "skill_id": "SID_エルサンダー",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_比翼ハピ",
+    "skill_id": "SID_死線1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_比翼ハピ",
+    "skill_id": "SID_死線2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_比翼ハピ",
+    "skill_id": "SID_死線3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_比翼ハピ",
+    "skill_id": "SID_砕光",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_比翼ハピ",
+    "skill_id": "SID_速さ魔防の十字牽制",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_比翼ハピ",
+    "skill_id": "SID_速さ魔防の牽制1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_比翼ハピ",
+    "skill_id": "SID_速さ魔防の牽制2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_比翼ハピ",
+    "skill_id": "SID_速さ魔防の牽制3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_比翼ハピ",
+    "skill_id": "SID_共鳴・速魔遠影",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_比翼ハピ",
+    "skill_id": "SID_速さ魔防の遠影1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_比翼ハピ",
+    "skill_id": "SID_速さ魔防の遠影2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_比翼ハピ",
+    "skill_id": "SID_速さ魔防の遠影3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_比翼ハピ",
+    "skill_id": "SID_夏涼む二人の夏氷",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_比翼ハピ",
+    "skill_id": "SID_トロン",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_比翼ハピ",
+    "skill_id": "SID_サンダー",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_比翼ハピ",
+    "skill_id": "SID_限界死線",
+    "default": 0,
+    "unlock": 5
+  },
+  {
     "unit_id": "PID_暗黒ハーディン",
     "skill_id": "SID_攻撃隊形1",
     "default": 0,
@@ -39997,6 +40255,102 @@
   },
   {
     "unit_id": "PID_神階ヘイズルーン",
+    "skill_id": "SID_若獣の化身・歩行",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_水着ヘイズルーン",
+    "skill_id": "SID_成獣の化身・歩行",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_水着ヘイズルーン",
+    "skill_id": "SID_氷点",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_水着ヘイズルーン",
+    "skill_id": "SID_守備魔防の密集1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_水着ヘイズルーン",
+    "skill_id": "SID_守備魔防の密集2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_水着ヘイズルーン",
+    "skill_id": "SID_守備魔防の密集3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_水着ヘイズルーン",
+    "skill_id": "SID_守備魔防の共栄",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_水着ヘイズルーン",
+    "skill_id": "SID_氷華",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_水着ヘイズルーン",
+    "skill_id": "SID_氷壁",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_水着ヘイズルーン",
+    "skill_id": "SID_不動1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_水着ヘイズルーン",
+    "skill_id": "SID_不動2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_水着ヘイズルーン",
+    "skill_id": "SID_不動3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_水着ヘイズルーン",
+    "skill_id": "SID_不動4",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_水着ヘイズルーン",
+    "skill_id": "SID_神獣の甘き蜜",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_水着ヘイズルーン",
+    "skill_id": "SID_南国の蜜の角",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_水着ヘイズルーン",
+    "skill_id": "SID_幼獣の化身・歩行",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_水着ヘイズルーン",
     "skill_id": "SID_若獣の化身・歩行",
     "default": 2,
     "unlock": 2
@@ -60481,6 +60835,12 @@
   },
   {
     "unit_id": "PID_リュート",
+    "skill_id": "SID_隠遁者の書",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_リュート",
     "skill_id": "SID_鬼神飛燕の一撃1",
     "default": 0,
     "unlock": 4
@@ -71413,7 +71773,37 @@
   },
   {
     "unit_id": "PID_伝承ナンナ",
+    "skill_id": "SID_攻撃の波・偶数1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_伝承ナンナ",
+    "skill_id": "SID_攻撃の波・偶数2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_伝承ナンナ",
+    "skill_id": "SID_攻撃の波・偶数3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_伝承ナンナ",
+    "skill_id": "SID_近間の攻撃の波・偶",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_伝承ナンナ",
     "skill_id": "SID_ヘズルの聖戦士",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_伝承ナンナ",
+    "skill_id": "SID_ヘズルの聖戦士・承",
     "default": 0,
     "unlock": 5
   },
@@ -104938,6 +105328,96 @@
     "skill_id": "SID_始まりの鼓動3",
     "default": 0,
     "unlock": 4
+  },
+  {
+    "unit_id": "PID_水着ユーリス",
+    "skill_id": "SID_攻撃速さの孤軍1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_水着ユーリス",
+    "skill_id": "SID_攻撃速さの孤軍2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_水着ユーリス",
+    "skill_id": "SID_攻撃速さの孤軍3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_水着ユーリス",
+    "skill_id": "SID_攻撃速さの奇襲",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_水着ユーリス",
+    "skill_id": "SID_罠解除1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_水着ユーリス",
+    "skill_id": "SID_罠解除2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_水着ユーリス",
+    "skill_id": "SID_罠解除3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_水着ユーリス",
+    "skill_id": "SID_トリック",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_水着ユーリス",
+    "skill_id": "SID_罠解除・周到",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_水着ユーリス",
+    "skill_id": "SID_鉄の暗器",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_水着ユーリス",
+    "skill_id": "SID_銀の暗器",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_水着ユーリス",
+    "skill_id": "SID_鋼の暗器",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_水着ユーリス",
+    "skill_id": "SID_入れ替え",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_水着ユーリス",
+    "skill_id": "SID_冷涼な果の氷菓子",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_水着ユーリス",
+    "skill_id": "SID_真・ドローミの鎖環",
+    "default": 0,
+    "unlock": 5
   },
   {
     "unit_id": "PID_伝承ユーリス",

@@ -3719,6 +3719,54 @@
     }
   },
   {
+    "id": "SID_第96迷宮の覇者1",
+    "game8_id": null,
+    "name": "Squad Ace CR 1",
+    "group_name": "Squad Ace CR",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/a1/Squad_Ace_BX_1.png/revision/latest?cb=20231106090926",
+    "sp": 120,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "none": true
+      }
+    }
+  },
+  {
+    "id": "SID_第96迷宮の覇者2",
+    "game8_id": null,
+    "name": "Squad Ace CR 2",
+    "group_name": "Squad Ace CR",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/ba/Squad_Ace_BX_2.png/revision/latest?cb=20231106091019",
+    "sp": 180,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "none": true
+      }
+    }
+  },
+  {
+    "id": "SID_第96迷宮の覇者3",
+    "game8_id": null,
+    "name": "Squad Ace CR 3",
+    "group_name": "Squad Ace CR",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e7/Squad_Ace_BX_3.png/revision/latest?cb=20231106091029",
+    "sp": 240,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "none": true
+      }
+    }
+  },
+  {
     "id": "SID_第4迷宮の覇者1",
     "game8_id": null,
     "name": "Squad Ace D 1",
@@ -5687,6 +5735,60 @@
       },
       "weapons": {
         "none": true
+      }
+    }
+  },
+  {
+    "id": "SID_攻撃守備の連携1",
+    "game8_id": null,
+    "name": "Atk/Def Link 1",
+    "group_name": "Atk/Def Link",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e0/Atk_Def_Link_1.png/revision/latest?cb=20180810071201",
+    "sp": 60,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_not_use": [
+          "Colorless Staff"
+        ]
+      }
+    }
+  },
+  {
+    "id": "SID_攻撃守備の連携2",
+    "game8_id": null,
+    "name": "Atk/Def Link 2",
+    "group_name": "Atk/Def Link",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/fc/Atk_Def_Link_2.png/revision/latest?cb=20180810071203",
+    "sp": 120,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_not_use": [
+          "Colorless Staff"
+        ]
+      }
+    }
+  },
+  {
+    "id": "SID_攻撃守備の連携3",
+    "game8_id": "535762",
+    "name": "Atk/Def Link 3",
+    "group_name": "Atk/Def Link",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b5/Atk_Def_Link_3.png/revision/latest?cb=20180810071205",
+    "sp": 240,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_not_use": [
+          "Colorless Staff"
+        ]
       }
     }
   },
@@ -12832,7 +12934,7 @@
   },
   {
     "id": "SID_速さ魔防の奮起3",
-    "game8_id": null,
+    "game8_id": "529911",
     "name": "Rouse Spd/Res 3",
     "group_name": "Rouse Spd/Res",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/3f/Rouse_Spd_Res_3.png/revision/latest?cb=20200206084247",
@@ -14339,6 +14441,60 @@
       "moves": {
         "can_use": [
           "Infantry",
+          "Flying"
+        ]
+      },
+      "weapons": {
+        "none": true
+      }
+    }
+  },
+  {
+    "id": "SID_速さ魔防の牽制1",
+    "game8_id": null,
+    "name": "Spd/Res Rein 1",
+    "group_name": "Spd/Res Rein",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/70/Spd_Res_Rein_1.png/revision/latest?cb=20201127062730",
+    "sp": 60,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Flying"
+        ]
+      },
+      "weapons": {
+        "none": true
+      }
+    }
+  },
+  {
+    "id": "SID_速さ魔防の牽制2",
+    "game8_id": null,
+    "name": "Spd/Res Rein 2",
+    "group_name": "Spd/Res Rein",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d5/Spd_Res_Rein_2.png/revision/latest?cb=20201127062740",
+    "sp": 120,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Flying"
+        ]
+      },
+      "weapons": {
+        "none": true
+      }
+    }
+  },
+  {
+    "id": "SID_速さ魔防の牽制3",
+    "game8_id": "535765",
+    "name": "Spd/Res Rein 3",
+    "group_name": "Spd/Res Rein",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/6c/Spd_Res_Rein_3.png/revision/latest?cb=20201127062750",
+    "sp": 240,
+    "restrictions": {
+      "moves": {
+        "can_use": [
           "Flying"
         ]
       },

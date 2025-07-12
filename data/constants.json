@@ -2,7 +2,7 @@
   "skills_max_tier": 4,
   "skills_max_sp": 500,
   "skills_max_cd": 5,
-  "units_count": 1258,
+  "units_count": 1263,
   "units_max_hp": 60,
   "units_max_hp_ids": [
     "PID_アーダン"
@@ -31,6 +31,7 @@
     "PID_比翼マルス2",
     "PID_比翼ルキナ",
     "PID_水着ニノ",
+    "PID_水着ユーリス",
     "PID_水着ラピス",
     "PID_紋章エイリーク",
     "PID_紋章リン",
