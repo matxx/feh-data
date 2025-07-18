@@ -2,7 +2,7 @@
   "skills_max_tier": 4,
   "skills_max_sp": 500,
   "skills_max_cd": 5,
-  "units_count": 1263,
+  "units_count": 1269,
   "units_max_hp": 60,
   "units_max_hp_ids": [
     "PID_アーダン"
@@ -40,6 +40,7 @@
     "PID_花嫁ラクチェ",
     "PID_響心ブリギッド",
     "PID_響心若年チキ",
+    "PID_魔器マチュア",
     "PID_魔器レイラ"
   ],
   "units_max_def": 50,

@@ -1215,6 +1215,11 @@
     "game8_grade": "S"
   },
   {
+    "id": "SID_魔器・マギ団の剣",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
     "id": "SID_忍の刀",
     "game8_rating": null,
     "game8_grade": null
@@ -4380,9 +4385,19 @@
     "game8_grade": null
   },
   {
+    "id": "SID_ブラークラブ",
+    "game8_rating": null,
+    "game8_grade": null
+  },
+  {
     "id": "SID_幸福の花",
     "game8_rating": "9.0",
     "game8_grade": "A"
+  },
+  {
+    "id": "SID_ブラークラブ＋",
+    "game8_rating": "8.5",
+    "game8_grade": "B"
   },
   {
     "id": "SID_神宿りの独楽",
@@ -4605,17 +4620,7 @@
     "game8_grade": "B"
   },
   {
-    "id": "SID_幼獣の化身・騎馬",
-    "game8_rating": null,
-    "game8_grade": null
-  },
-  {
     "id": "SID_幼獣の化身・歩行",
-    "game8_rating": null,
-    "game8_grade": null
-  },
-  {
-    "id": "SID_若獣の化身・騎馬",
     "game8_rating": null,
     "game8_grade": null
   },
@@ -4626,6 +4631,16 @@
   },
   {
     "id": "SID_成獣の化身・歩行",
+    "game8_rating": null,
+    "game8_grade": null
+  },
+  {
+    "id": "SID_幼獣の化身・騎馬",
+    "game8_rating": null,
+    "game8_grade": null
+  },
+  {
+    "id": "SID_若獣の化身・騎馬",
     "game8_rating": null,
     "game8_grade": null
   },
@@ -5840,6 +5855,16 @@
     "game8_grade": "B"
   },
   {
+    "id": "SID_強化反転の斧",
+    "game8_rating": null,
+    "game8_grade": null
+  },
+  {
+    "id": "SID_強化反転の斧＋",
+    "game8_rating": "8.5",
+    "game8_grade": "B"
+  },
+  {
     "id": "SID_鏑矢",
     "game8_rating": null,
     "game8_grade": null
@@ -5936,6 +5961,11 @@
   },
   {
     "id": "SID_聖弓イチイバル",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_忠臣との絆の弓",
     "game8_rating": "9.5",
     "game8_grade": "S"
   },
@@ -6890,6 +6920,11 @@
     "game8_grade": "S"
   },
   {
+    "id": "SID_漂う者の角",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
     "id": "SID_アサルト",
     "game8_rating": null,
     "game8_grade": null
@@ -7291,6 +7326,16 @@
   },
   {
     "id": "SID_花嫁の杖＋",
+    "game8_rating": "8.5",
+    "game8_grade": "B"
+  },
+  {
+    "id": "SID_グループ",
+    "game8_rating": null,
+    "game8_grade": null
+  },
+  {
+    "id": "SID_グループ",
     "game8_rating": "8.5",
     "game8_grade": "B"
   },
@@ -9845,12 +9890,17 @@
     "game8_grade": "A"
   },
   {
+    "id": "SID_天与の魔道",
+    "game8_rating": "9.0",
+    "game8_grade": null
+  },
+  {
     "id": "SID_魔弾・神",
     "game8_rating": "9.5",
     "game8_grade": "S"
   },
   {
-    "id": "SID_天与の魔道",
+    "id": "SID_氷の聖鏡・承",
     "game8_rating": "9.0",
     "game8_grade": null
   },
@@ -9858,11 +9908,6 @@
     "id": "SID_天与の魔道・承",
     "game8_rating": "9.5",
     "game8_grade": "A"
-  },
-  {
-    "id": "SID_氷の聖鏡・承",
-    "game8_rating": "9.0",
-    "game8_grade": null
   },
   {
     "id": "SID_蒼の天空・承",
@@ -10105,6 +10150,11 @@
     "game8_grade": "S"
   },
   {
+    "id": "SID_真・ノヴァの聖戦士",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
     "id": "SID_守備魔防の防城戦1",
     "game8_rating": null,
     "game8_grade": null
@@ -10248,6 +10298,11 @@
     "id": "SID_速さ魔防の防城戦3",
     "game8_rating": "8.0",
     "game8_grade": "B"
+  },
+  {
+    "id": "SID_鬼神金剛の炎撃3",
+    "game8_rating": "9.0",
+    "game8_grade": "A"
   },
   {
     "id": "SID_鬼神明鏡の炎撃3",
@@ -11300,7 +11355,17 @@
     "game8_grade": "B"
   },
   {
+    "id": "SID_鬼神金剛の迫撃3",
+    "game8_rating": null,
+    "game8_grade": null
+  },
+  {
     "id": "SID_鬼神金剛の一撃3",
+    "game8_rating": "9.5",
+    "game8_grade": "A"
+  },
+  {
+    "id": "SID_鬼神金剛の離撃3",
     "game8_rating": "9.5",
     "game8_grade": "A"
   },
@@ -11313,11 +11378,6 @@
     "id": "SID_鬼神明鏡の一撃1",
     "game8_rating": null,
     "game8_grade": null
-  },
-  {
-    "id": "SID_鬼神金剛の離撃3",
-    "game8_rating": "9.5",
-    "game8_grade": "A"
   },
   {
     "id": "SID_鬼神明鏡の一撃2",
@@ -11345,14 +11405,14 @@
     "game8_grade": "B"
   },
   {
-    "id": "SID_鬼神明鏡の掩撃",
-    "game8_rating": "9.5",
-    "game8_grade": "S"
-  },
-  {
     "id": "SID_刃のセッション2",
     "game8_rating": null,
     "game8_grade": null
+  },
+  {
+    "id": "SID_鬼神明鏡の掩撃",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
   },
   {
     "id": "SID_刃のセッション3",
@@ -11393,11 +11453,6 @@
     "id": "SID_鬼神飛燕の迫撃3",
     "game8_rating": "9.5",
     "game8_grade": "S"
-  },
-  {
-    "id": "SID_鬼神金剛の迫撃3",
-    "game8_rating": null,
-    "game8_grade": null
   },
   {
     "id": "SID_鬼神飛燕の離撃3",
@@ -14130,6 +14185,11 @@
     "game8_grade": null
   },
   {
+    "id": "SID_守備封じ4",
+    "game8_rating": "9.0",
+    "game8_grade": null
+  },
+  {
     "id": "SID_魔防封じ2",
     "game8_rating": null,
     "game8_grade": null
@@ -14598,11 +14658,6 @@
     "id": "SID_攻撃魔防の看破",
     "game8_rating": "9.0",
     "game8_grade": "A"
-  },
-  {
-    "id": "SID_守備封じ4",
-    "game8_rating": "9.0",
-    "game8_grade": null
   },
   {
     "id": "SID_速さ封じ4",
@@ -15216,6 +15271,11 @@
   },
   {
     "id": "SID_助走4",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_強弓・呼吸",
     "game8_rating": "9.5",
     "game8_grade": "S"
   },
@@ -16565,6 +16625,11 @@
     "game8_grade": "S"
   },
   {
+    "id": "SID_熱血",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
     "id": "SID_攻撃の鼓舞1",
     "game8_rating": null,
     "game8_grade": null
@@ -17183,6 +17248,11 @@
     "id": "SID_攻撃速さの信条4",
     "game8_rating": "9.5",
     "game8_grade": "A"
+  },
+  {
+    "id": "SID_攻撃速さの信念",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
   },
   {
     "id": "SID_攻撃守備の奮起1",
@@ -18730,6 +18800,11 @@
     "game8_grade": null
   },
   {
+    "id": "SID_鎧の護り手・近・茨",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
     "id": "SID_兜の護り手・近間3",
     "game8_rating": "9.5",
     "game8_grade": "S"
@@ -19693,6 +19768,11 @@
     "id": "SID_響・魔防の竜眼",
     "game8_rating": "9.0",
     "game8_grade": "A"
+  },
+  {
+    "id": "SID_響・掩撃",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
   },
   {
     "id": "SID_響・飛走の先導",

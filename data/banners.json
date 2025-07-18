@@ -8529,6 +8529,19 @@
     ]
   },
   {
+    "name": "Legendary & Mythic Hero Remix 1 (Jul 2025)",
+    "unit_ids": [
+      "PID_ダグ2味方",
+      "PID_トール味方",
+      "PID_伝承ナンナ",
+      "PID_伝承ベレス",
+      "PID_伝承リーフ",
+      "PID_神階アスタルテ",
+      "PID_神階ウル",
+      "PID_魔器シアチ味方"
+    ]
+  },
+  {
     "name": "Legendary & Mythic Hero Remix 1 (Mar 2023)",
     "unit_ids": [
       "PID_フリーズ",
@@ -8773,6 +8786,19 @@
       "PID_神階セイロス",
       "PID_神階ルピナス",
       "PID_魔器ギンヌン味方"
+    ]
+  },
+  {
+    "name": "Legendary & Mythic Hero Remix 2 (Jul 2025)",
+    "unit_ids": [
+      "PID_エンブラ味方",
+      "PID_スラシル味方",
+      "PID_ダグ味方",
+      "PID_ノート味方",
+      "PID_伝承ファ",
+      "PID_神階ドーマ",
+      "PID_神階ブラミモンド",
+      "PID_魔器マリアンヌ"
     ]
   },
   {

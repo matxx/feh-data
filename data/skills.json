@@ -49,6 +49,31 @@
     ]
   },
   {
+    "id": "SID_鎧の護り手・近・茨",
+    "game8_id": "537814",
+    "name": "A/D Briar N Save",
+    "group_name": "A/D Briar N Save",
+    "category": "passivec",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/df/A_D_Briar_N_Save.png/revision/latest?cb=20250718084854",
+    "is_prf": false,
+    "sp": 300,
+    "tier": 4,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Armored"
+        ]
+      },
+      "weapons": {
+        "none": true
+      }
+    },
+    "downgrade_ids": [
+      "SID_鎧の護り手・近間3"
+    ]
+  },
+  {
     "id": "SID_攻撃守備の魅了3",
     "game8_id": "451070",
     "name": "A/D Cantrip 3",
@@ -324,6 +349,7 @@
       }
     },
     "upgrade_ids": [
+      "SID_鎧の護り手・近・茨",
       "SID_鎧の護り手・近・双"
     ],
     "downgrade_ids": [
@@ -4018,6 +4044,31 @@
     ]
   },
   {
+    "id": "SID_強弓・呼吸",
+    "game8_id": "537866",
+    "name": "Arc-Fort Breath",
+    "group_name": "Arc-Fort Breath",
+    "category": "passiveb",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/71/Arc-Fort_Breath.png/revision/latest?cb=20250718084832",
+    "is_prf": false,
+    "sp": 300,
+    "tier": 4,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "All Bow"
+        ]
+      }
+    },
+    "downgrade_ids": [
+      "SID_守備封じ3"
+    ]
+  },
+  {
     "id": "SID_魔器カリブルヌス",
     "game8_id": "430300",
     "name": "Arc. Caliburnus",
@@ -4536,6 +4587,30 @@
     },
     "downgrade_ids": [
       "SID_銀の槍"
+    ]
+  },
+  {
+    "id": "SID_魔器・マギ団の剣",
+    "game8_id": "537860",
+    "name": "Arcane Renegade",
+    "group_name": "Arcane Renegade",
+    "category": "weapon",
+    "weapon_type": "Red Sword",
+    "is_prf": false,
+    "sp": 300,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Red Sword"
+        ]
+      }
+    },
+    "downgrade_ids": [
+      "SID_銀の剣"
     ]
   },
   {
@@ -5900,6 +5975,7 @@
       "SID_孫の手",
       "SID_グラビティ",
       "SID_フリズスキャルヴ",
+      "SID_グループ",
       "SID_インキュアブル",
       "SID_ランタンの杖",
       "SID_キアの杖",
@@ -6150,6 +6226,7 @@
       "SID_ノヴァの聖戦士",
       "SID_剣姫の流星",
       "SID_無双の流星",
+      "SID_真・ノヴァの聖戦士",
       "SID_心流星"
     ],
     "downgrade_ids": [
@@ -10941,6 +11018,35 @@
     ]
   },
   {
+    "id": "SID_攻撃速さの信念",
+    "game8_id": "537868",
+    "name": "Atk/Spd Faith",
+    "group_name": "Atk/Spd Faith",
+    "category": "passivec",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c4/Atk_Spd_Faith.png/revision/latest?cb=20250718084843",
+    "is_prf": false,
+    "sp": 300,
+    "tier": 4,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Infantry"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "All Melee",
+          "All Breath",
+          "All Beast"
+        ]
+      }
+    },
+    "downgrade_ids": [
+      "SID_攻撃速さの信義3"
+    ]
+  },
+  {
     "id": "SID_攻撃速さの秘奥1",
     "game8_id": "393012",
     "name": "Atk/Spd Finish 1",
@@ -11646,6 +11752,7 @@
       }
     },
     "upgrade_ids": [
+      "SID_攻撃速さの信念",
       "SID_攻撃速さの信義4",
       "SID_攻撃速さの信条4"
     ],
@@ -16922,6 +17029,60 @@
     ]
   },
   {
+    "id": "SID_ブラークラブ",
+    "game8_id": "537856",
+    "name": "Blárcrab",
+    "group_name": "Blárcrab",
+    "category": "weapon",
+    "weapon_type": "Blue Tome",
+    "is_prf": false,
+    "sp": 200,
+    "tier": 3,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Blue Tome"
+        ]
+      }
+    },
+    "upgrade_ids": [
+      "SID_ブラークラブ＋"
+    ],
+    "downgrade_ids": [
+      "SID_エルサンダー",
+      "SID_エルライト"
+    ]
+  },
+  {
+    "id": "SID_ブラークラブ＋",
+    "game8_id": "537857",
+    "name": "Blárcrab+",
+    "group_name": "Blárcrab+",
+    "category": "weapon",
+    "weapon_type": "Blue Tome",
+    "is_prf": false,
+    "sp": 300,
+    "tier": 4,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Blue Tome"
+        ]
+      }
+    },
+    "downgrade_ids": [
+      "SID_ブラークラブ"
+    ]
+  },
+  {
     "id": "SID_ブラーディア",
     "game8_id": "430365",
     "name": "Blárdeer",
@@ -19393,6 +19554,33 @@
         ]
       }
     }
+  },
+  {
+    "id": "SID_忠臣との絆の弓",
+    "game8_id": "537863",
+    "name": "Bow of Loyalty",
+    "group_name": "Bow of Loyalty",
+    "category": "weapon",
+    "weapon_type": "All Bow",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "eff": [
+      "flying"
+    ],
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "All Bow"
+        ]
+      }
+    },
+    "downgrade_ids": [
+      "SID_銀の弓"
+    ]
   },
   {
     "id": "SID_うたた寝の春の弓",
@@ -39025,6 +39213,7 @@
     "upgrade_ids": [
       "SID_スレッダブラー",
       "SID_青の花かご",
+      "SID_ブラークラブ",
       "SID_ブラーディア",
       "SID_ブラーフォックス",
       "SID_ブラーライオン",
@@ -39116,6 +39305,7 @@
     "upgrade_ids": [
       "SID_スレッダブラー",
       "SID_青の花かご",
+      "SID_ブラークラブ",
       "SID_ブラーディア",
       "SID_ブラーフォックス",
       "SID_ブラーライオン",
@@ -57343,6 +57533,26 @@
     ]
   },
   {
+    "id": "SID_熱血",
+    "game8_id": "537867",
+    "name": "Hot-Blooded",
+    "group_name": "Hot-Blooded",
+    "category": "passiveb",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/43/Hot-Blooded.png/revision/latest?cb=20250718084821",
+    "is_prf": true,
+    "sp": 300,
+    "tier": 1,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "none": true
+      }
+    }
+  },
+  {
     "id": "SID_凄腕の鋭槍",
     "game8_id": "327122",
     "name": "Hotshot Lance",
@@ -59105,6 +59315,106 @@
     "downgrade_ids": [
       "SID_流星"
     ]
+  },
+  {
+    "id": "SID_グループ",
+    "game8_id": "537862",
+    "name": "In the Fold",
+    "group_name": "In the Fold",
+    "category": "weapon",
+    "weapon_type": "Colorless Staff",
+    "is_prf": false,
+    "sp": 200,
+    "tier": 2,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Colorless Staff"
+        ]
+      }
+    },
+    "upgrade_ids": [
+      "SID_グループ＋"
+    ],
+    "downgrade_ids": [
+      "SID_アサルト"
+    ]
+  },
+  {
+    "id": "SID_グループ＋",
+    "name": "In The Fold+",
+    "group_name": "In The Fold+",
+    "category": "weapon",
+    "weapon_type": "Colorless Staff",
+    "is_prf": false,
+    "sp": 300,
+    "tier": 3,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Colorless Staff"
+        ]
+      }
+    },
+    "downgrade_ids": [
+      "SID_グループ"
+    ]
+  },
+  {
+    "id": "SID_グループ＋_神",
+    "base_id": "SID_グループ＋",
+    "name": "In The Fold+",
+    "group_name": "In The Fold+",
+    "category": "weapon",
+    "weapon_type": "Colorless Staff",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/42/Wrathful_Staff_W.png/revision/latest?cb=20180810072731",
+    "is_prf": true,
+    "sp": 350,
+    "tier": 1,
+    "refine": "skill1",
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Colorless Staff"
+        ]
+      }
+    }
+  },
+  {
+    "id": "SID_グループ＋_幻",
+    "base_id": "SID_グループ＋",
+    "name": "In The Fold+",
+    "group_name": "In The Fold+",
+    "category": "weapon",
+    "weapon_type": "Colorless Staff",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/5c/Dazzling_Staff_W.png/revision/latest?cb=20180810071521",
+    "is_prf": true,
+    "sp": 350,
+    "tier": 1,
+    "refine": "skill2",
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Colorless Staff"
+        ]
+      }
+    }
   },
   {
     "id": "SID_理想への天質",
@@ -84704,6 +85014,59 @@
     }
   },
   {
+    "id": "SID_強化反転の斧",
+    "game8_id": "537858",
+    "name": "Reversal Axe",
+    "group_name": "Reversal Axe",
+    "category": "weapon",
+    "weapon_type": "Green Axe",
+    "is_prf": false,
+    "sp": 200,
+    "tier": 3,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Green Axe"
+        ]
+      }
+    },
+    "upgrade_ids": [
+      "SID_強化反転の斧＋"
+    ],
+    "downgrade_ids": [
+      "SID_鋼の斧"
+    ]
+  },
+  {
+    "id": "SID_強化反転の斧＋",
+    "game8_id": "537859",
+    "name": "Reversal Axe+",
+    "group_name": "Reversal Axe+",
+    "category": "weapon",
+    "weapon_type": "Green Axe",
+    "is_prf": false,
+    "sp": 300,
+    "tier": 4,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Green Axe"
+        ]
+      }
+    },
+    "downgrade_ids": [
+      "SID_強化反転の斧"
+    ]
+  },
+  {
     "id": "SID_強化反転の剣",
     "game8_id": "445237",
     "name": "Reversal Blade",
@@ -84888,6 +85251,7 @@
       "SID_銀の魔道軍将の書",
       "SID_ヴァフスルーズニル",
       "SID_フェルニルの妖卵",
+      "SID_復讐の神形",
       "SID_予兆の風",
       "SID_シレジアの風",
       "SID_戦神の風書"
@@ -89488,6 +89852,7 @@
       }
     },
     "upgrade_ids": [
+      "SID_強弓・呼吸",
       "SID_守備封じ4"
     ],
     "downgrade_ids": [
@@ -92512,6 +92877,7 @@
       "SID_魔器・呪術の秘弓",
       "SID_魔器ナーストレンド",
       "SID_フレリアの玉弓",
+      "SID_忠臣との絆の弓",
       "SID_うたた寝の春の弓",
       "SID_双聖戦士の聖弓",
       "SID_波間の欠片の鋭弓",
@@ -92941,6 +93307,7 @@
       "SID_末流ラグネル",
       "SID_魔器・屍王の絶剣",
       "SID_魔器エリューズニル",
+      "SID_魔器・マギ団の剣",
       "SID_緋剣デュランダル",
       "SID_花開く心技の剣",
       "SID_流星剣",
@@ -94140,6 +94507,28 @@
       },
       "weapons": {
         "can_use": [
+          "Colorless Staff"
+        ]
+      }
+    }
+  },
+  {
+    "id": "SID_響・掩撃",
+    "game8_id": "537869",
+    "name": "Sly Echo",
+    "group_name": "Sly Echo",
+    "category": "passivex",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/51/Sly_Echo.png/revision/latest?cb=20250718084904",
+    "is_prf": false,
+    "sp": 0,
+    "tier": 1,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_not_use": [
           "Colorless Staff"
         ]
       }
@@ -103324,6 +103713,7 @@
       "SID_守りの斧",
       "SID_牽制の斧",
       "SID_反攻の斧",
+      "SID_強化反転の斧",
       "SID_プレゼント袋",
       "SID_竜の落とし子の斧",
       "SID_砂浜のクワ",
@@ -104269,11 +104659,40 @@
     "upgrade_ids": [
       "SID_鬼神金剛の離撃3",
       "SID_鬼神金剛の掩撃",
+      "SID_鬼神金剛の炎撃3",
       "SID_鬼神金剛の一撃3",
       "SID_鬼神金剛の迫撃3"
     ],
     "downgrade_ids": [
       "SID_鬼神金剛の一撃1"
+    ]
+  },
+  {
+    "id": "SID_鬼神金剛の炎撃3",
+    "game8_id": "537865",
+    "name": "Sturdy Flare",
+    "group_name": "Sturdy Flare",
+    "category": "passivea",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/38/Sturdy_Flare.png/revision/latest?cb=20250718084812",
+    "is_prf": false,
+    "sp": 300,
+    "tier": 4,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Cavalry",
+          "Flying"
+        ]
+      },
+      "weapons": {
+        "can_not_use": [
+          "Colorless Staff"
+        ]
+      }
+    },
+    "downgrade_ids": [
+      "SID_鬼神金剛の一撃2"
     ]
   },
   {
@@ -107800,6 +108219,30 @@
         "none": true
       }
     }
+  },
+  {
+    "id": "SID_真・ノヴァの聖戦士",
+    "game8_id": "537864",
+    "name": "The True Njörun",
+    "group_name": "The True Njörun",
+    "category": "special",
+    "is_prf": true,
+    "sp": 500,
+    "tier": 3,
+    "cd": 3,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_not_use": [
+          "Colorless Staff"
+        ]
+      }
+    },
+    "downgrade_ids": [
+      "SID_流星"
+    ]
   },
   {
     "id": "SID_シーフ",
@@ -113757,6 +114200,32 @@
         ]
       }
     }
+  },
+  {
+    "id": "SID_漂う者の角",
+    "game8_id": "535466",
+    "name": "Wandering Horn",
+    "group_name": "Wandering Horn",
+    "category": "weapon",
+    "weapon_type": "All Beast",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Armored"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "All Beast"
+        ]
+      }
+    },
+    "downgrade_ids": [
+      "SID_成獣の化身・重装"
+    ]
   },
   {
     "id": "SID_神槌ミョルニル",

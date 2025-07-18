@@ -79,8 +79,7 @@
       "SID_氷華",
       "SID_魔防の威嚇1"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_魔器スタルーク",
@@ -113,8 +112,7 @@
       "SID_鬼神飛燕の柔撃3",
       "SID_魔器・優しさの影弓"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_花婿スタルーク",
@@ -188,8 +186,7 @@
       "SID_見切り・反撃不可3",
       "SID_見切り・反撃不可4"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_リュール女",
@@ -224,8 +221,7 @@
       "SID_銀の剣",
       "SID_鋼の剣"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_リュール男",
@@ -259,8 +255,7 @@
       "SID_銀の剣",
       "SID_鋼の剣"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_伝承リュール男",
@@ -293,8 +288,7 @@
       "SID_速さ魔防の防壁3",
       "SID_速さ魔防の防壁4"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_闇リュール男",
@@ -327,8 +321,7 @@
       "SID_鋼の剣",
       "SID_陣風"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_比翼リュール男",
@@ -361,8 +354,7 @@
       "SID_魔防の波・偶数2",
       "SID_魔防の波・偶数3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_闇リュール女",
@@ -398,8 +390,7 @@
       "SID_邪竜の御子の体術",
       "SID_邪竜破"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_水着リュール女",
@@ -435,8 +426,7 @@
       "SID_魔防の波・偶数2",
       "SID_魔防の波・偶数3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_比翼アルフォンス",
@@ -467,8 +457,7 @@
       "SID_近距離反撃",
       "SID_開世"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_総選挙アルフォンス",
@@ -504,8 +493,7 @@
       "SID_銀の斧",
       "SID_鋼の斧"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_アルフォンス",
@@ -517,8 +505,7 @@
       "ldc": false,
       "foc": false
     },
-    "lowest_rarity": {
-    },
+    "lowest_rarity": {},
     "skill_ids": [
       "SID_フォルクヴァング",
       "SID_太陽",
@@ -533,8 +520,7 @@
       "SID_鬼神の一撃2",
       "SID_鬼神の一撃3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_春祭アルフォンス",
@@ -642,8 +628,7 @@
       "SID_鋼の槍",
       "SID_魔器・鍛錬の花槍"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_アルム",
@@ -713,8 +698,7 @@
       "SID_銀の剣",
       "SID_鋼の剣"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_比翼アルム",
@@ -747,8 +731,7 @@
       "SID_銀の斧",
       "SID_鋼の斧"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_響心アルム",
@@ -785,8 +768,7 @@
       "SID_鋼の弓",
       "SID_響・凪"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_伝承アルム",
@@ -824,8 +806,7 @@
       "SID_飛燕の一撃3",
       "SID_飛燕の一撃4"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_アルテナ",
@@ -904,8 +885,7 @@
       "SID_銀の剣",
       "SID_鋼の剣"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_神階オルティナ",
@@ -941,8 +921,7 @@
       "SID_銀の剣",
       "SID_鋼の剣"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ナバタオルティナ",
@@ -978,8 +957,7 @@
       "SID_銀の斧",
       "SID_鋼の斧"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_開花アメリア",
@@ -1011,8 +989,7 @@
       "SID_鋼の槍",
       "SID_黒曜石の教え"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_アメリア",
@@ -1085,8 +1062,7 @@
       "SID_鬼神飛燕の構え2",
       "SID_鬼神飛燕の構え3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_アンナ",
@@ -1098,8 +1074,7 @@
       "ldc": false,
       "foc": false
     },
-    "lowest_rarity": {
-    },
+    "lowest_rarity": {},
     "skill_ids": [
       "SID_ノーアトゥーン",
       "SID_待ち伏せ1",
@@ -1114,8 +1089,7 @@
       "SID_魔防の紋章2",
       "SID_魔防の紋章3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_花嫁アンナ覚醒",
@@ -1237,8 +1211,7 @@
       "SID_銀の斧",
       "SID_鋼の斧"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_年明アンナ",
@@ -1308,8 +1281,7 @@
       "SID_鬼神金剛の一撃2",
       "SID_鬼神金剛の一撃3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_冬祭アネット",
@@ -1338,8 +1310,7 @@
       "SID_鉄の弓",
       "SID_鋼の弓"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_アネット",
@@ -1406,8 +1377,7 @@
       "SID_鉄の剣",
       "SID_鋼の剣"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_アレス",
@@ -1476,8 +1446,7 @@
       "SID_魔防の謀策2",
       "SID_魔防の謀策3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_アリオーン",
@@ -1506,8 +1475,7 @@
       "SID_飛竜行空2",
       "SID_飛竜行空3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_エルレーン",
@@ -1536,8 +1504,7 @@
       "SID_近反・強化増幅",
       "SID_近距離反撃"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_アーサー",
@@ -1657,8 +1624,7 @@
       "SID_追撃隊形・奇数2",
       "SID_追撃隊形・奇数3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_神階ラルヴァ",
@@ -1689,8 +1655,7 @@
       "SID_陰陽の法則",
       "SID_魂の秘儀"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_アルヴィス",
@@ -1717,8 +1682,7 @@
       "SID_爆火",
       "SID_砕火"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_アスベル",
@@ -1789,8 +1753,7 @@
       "SID_遠距離反撃",
       "SID_開神の眷属"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_アシュ",
@@ -1826,8 +1789,7 @@
       "SID_開神の眷属",
       "SID_開神の眷属・神"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_春祭アッシュ",
@@ -1857,8 +1819,7 @@
       "SID_鉄の暗器",
       "SID_鋼の暗器"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_アッシュ",
@@ -1894,8 +1855,7 @@
       "SID_鬼神飛燕の一撃2",
       "SID_鬼神飛燕の炎撃3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_水着アッシュ",
@@ -1929,8 +1889,7 @@
       "SID_青の死闘・騎馬3",
       "SID_青の死闘・騎馬4"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_神階アスタルテ",
@@ -1963,8 +1922,7 @@
       "SID_速さ魔防の凪3",
       "SID_速さ魔防の凪4"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_暴走アシュナード",
@@ -1993,8 +1951,7 @@
       "SID_銀の剣",
       "SID_鋼の剣"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_神階アスク",
@@ -2025,8 +1982,7 @@
       "SID_若獣の化身・歩行",
       "SID_蛍火"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ハロアスク",
@@ -2057,8 +2013,7 @@
       "SID_遠距離反撃",
       "SID_開かれし祭の角"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_比翼アスク",
@@ -2089,8 +2044,7 @@
       "SID_蛍火",
       "SID_開神と閉神の祭器"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_アストリア",
@@ -2119,8 +2073,7 @@
       "SID_銀の剣",
       "SID_鋼の剣"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ステラ",
@@ -2190,8 +2143,7 @@
       "SID_鬼神金剛の一撃1",
       "SID_鬼神金剛の一撃2"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_神階アトス",
@@ -2224,8 +2176,7 @@
       "SID_魔防の混乱2",
       "SID_魔防の混乱3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_アトラス",
@@ -2336,8 +2287,7 @@
       "SID_魔防の波・奇数2",
       "SID_魔防の波・奇数3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_アイラ",
@@ -2367,8 +2317,7 @@
       "SID_鬼神飛燕の一撃1",
       "SID_鬼神飛燕の一撃2"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_伝承アイラ",
@@ -2404,8 +2353,7 @@
       "SID_銀の剣",
       "SID_鋼の剣"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_双界アイラ",
@@ -2440,8 +2388,7 @@
       "SID_銀の剣",
       "SID_鋼の剣"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_アサマ",
@@ -2470,8 +2417,7 @@
       "SID_攻撃の威嚇3",
       "SID_治癒"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_アゼル",
@@ -2544,8 +2490,7 @@
       "SID_鋼の斧",
       "SID_飛刃の鼓舞"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_双界アクア",
@@ -2579,8 +2524,7 @@
       "SID_魔防の紋章2",
       "SID_魔防の紋章3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_舞踏祭黒アクア",
@@ -2608,8 +2552,7 @@
       "SID_魔防の大紋章2",
       "SID_魔防の紋章1"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_アクア",
@@ -2637,8 +2580,7 @@
       "SID_魔防の鼓舞2",
       "SID_魔防の鼓舞3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_響心アクア",
@@ -2674,8 +2616,7 @@
       "SID_鋼の斧",
       "SID_響・救援の行路"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_伝承アクア",
@@ -2712,8 +2653,7 @@
       "SID_青の死闘・飛行2",
       "SID_青の死闘・飛行3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_幼少アクア",
@@ -2741,8 +2681,7 @@
       "SID_静水の舞い2",
       "SID_静水の舞い3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_バルタザール",
@@ -2944,8 +2883,7 @@
       "SID_鉄の剣",
       "SID_鋼の剣"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_バアトル",
@@ -3180,8 +3118,7 @@
       "SID_魔防の紋章2",
       "SID_黒皇子の槍"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_闇ベルクト",
@@ -3381,8 +3318,7 @@
       "SID_銀の弓",
       "SID_鋼の弓"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ベウフォレス",
@@ -3411,8 +3347,7 @@
       "SID_鉄の剣",
       "SID_鋼の剣"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ベルカ",
@@ -3440,8 +3375,7 @@
       "SID_鉄の斧",
       "SID_鋼の斧"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_伝承漆黒の騎士",
@@ -3475,8 +3409,7 @@
       "SID_鎧の護り手・遠間2",
       "SID_鎧の護り手・遠間3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_漆黒の騎士",
@@ -3506,8 +3439,7 @@
       "SID_鋼の剣",
       "SID_黒の月光"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_冬祭漆黒の騎士",
@@ -3579,8 +3511,7 @@
       "SID_蛍火",
       "SID_金石の書"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ボールス",
@@ -3609,8 +3540,7 @@
       "SID_鉄の槍",
       "SID_鋼の槍"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_幼少ボーレ",
@@ -3725,8 +3655,7 @@
       "SID_見通せぬ深き…・神",
       "SID_見通せぬ深き暗闇"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_盗賊頭",
@@ -3755,8 +3684,7 @@
       "SID_鉄の斧",
       "SID_鋼の斧"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_響心ブリギッド",
@@ -3866,8 +3794,7 @@
       "SID_魔防の紫煙2",
       "SID_魔防の紫煙3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_春祭ブルーノ",
@@ -3980,8 +3907,7 @@
       "SID_速さ魔防の封印2",
       "SID_魔防の封印1"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_カダインベレト",
@@ -4011,8 +3937,7 @@
       "SID_速さ魔防の秘奥2",
       "SID_速さ魔防の秘奥3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_比翼ベレト",
@@ -4047,8 +3972,7 @@
       "SID_銀の剣",
       "SID_鋼の剣"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ベレス",
@@ -4082,8 +4006,7 @@
       "SID_銀の剣",
       "SID_鋼の剣"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_総選挙ベレス",
@@ -4204,8 +4127,7 @@
       "SID_速さ魔防の凪2",
       "SID_速さ魔防の凪3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_伝承ベレト",
@@ -4244,8 +4166,7 @@
       "SID_覇天",
       "SID_覇天・承"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_闇ベレス",
@@ -4279,8 +4200,7 @@
       "SID_銀の剣",
       "SID_鋼の剣"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_伝承シーダ",
@@ -4314,8 +4234,7 @@
       "SID_銀の槍",
       "SID_鋼の槍"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_響心シーダ",
@@ -4384,8 +4303,7 @@
       "SID_銀の剣",
       "SID_鋼の剣"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_双界シーダ",
@@ -4418,8 +4336,7 @@
       "SID_銀の斧",
       "SID_鋼の斧"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_花嫁シーダ",
@@ -4527,8 +4444,7 @@
       "SID_銀の槍",
       "SID_鋼の槍"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ケセルダ",
@@ -4558,8 +4474,7 @@
       "SID_鉄の斧",
       "SID_鋼の斧"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_カイン",
@@ -4691,8 +4606,7 @@
       "SID_鬼神飛燕の一撃2",
       "SID_鬼神飛燕の離撃3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_カミラ",
@@ -4769,8 +4683,7 @@
       "SID_攻撃魔防の連携3",
       "SID_飛刃の紋章"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_年明けカミラ",
@@ -4799,8 +4712,7 @@
       "SID_門松＋",
       "SID_飛盾の紋章"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_総選挙カミラ",
@@ -4833,8 +4745,7 @@
       "SID_神罰の杖2",
       "SID_神罰の杖3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_忍者カミラ",
@@ -4867,8 +4778,7 @@
       "SID_魔防封じ3",
       "SID_魔防封じ4"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_春祭カミラ",
@@ -4933,8 +4843,7 @@
       "SID_鋼の暗器",
       "SID_飛刃の鼓舞"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_水着カミラ",
@@ -4966,8 +4875,7 @@
       "SID_鬼神の一撃2",
       "SID_鬼神の一撃3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_幼少カミラ",
@@ -5000,8 +4908,7 @@
       "SID_銀の斧",
       "SID_鋼の斧"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_カミュ",
@@ -5028,8 +4935,7 @@
       "SID_鋼の槍",
       "SID_騎刃の紋章"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_カナス",
@@ -5058,8 +4964,7 @@
       "SID_魔防の指揮2",
       "SID_魔防の指揮3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ドラジェ",
@@ -5088,8 +4993,7 @@
       "SID_魔道の刃2",
       "SID_魔道の刃3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_カスパル",
@@ -5118,8 +5022,7 @@
       "SID_鉄の斧",
       "SID_鋼の斧"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_水着カスパル",
@@ -5185,8 +5088,7 @@
       "SID_鉄の弓",
       "SID_鋼の弓"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_怪盗キャス",
@@ -5296,8 +5198,7 @@
       "SID_鬼神飛燕の一撃2",
       "SID_鬼神飛燕の一撃3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_双界外伝カチュア",
@@ -5330,8 +5231,7 @@
       "SID_銀の斧",
       "SID_鋼の斧"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_カチュア",
@@ -5361,8 +5261,7 @@
       "SID_鉄の槍",
       "SID_鋼の槍"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_外伝カチュア",
@@ -5432,8 +5331,7 @@
       "SID_魔防の封印2",
       "SID_魔防の封印3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_風部族カチュア",
@@ -5590,8 +5488,7 @@
       "SID_鉄の暗器",
       "SID_鋼の暗器"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_セティ",
@@ -5620,8 +5517,7 @@
       "SID_鼓動の幻煙2",
       "SID_鼓動の幻煙3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_開花セティ",
@@ -5732,8 +5628,7 @@
       "SID_銀の剣",
       "SID_鋼の剣"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_紋章セリカ",
@@ -5769,8 +5664,7 @@
       "SID_死線3",
       "SID_限界死線"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_伝承セリカ",
@@ -5805,8 +5699,7 @@
       "SID_鬼神飛燕の一撃2",
       "SID_鬼神飛燕の一撃3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_双界セリカ",
@@ -5839,8 +5732,7 @@
       "SID_鬼神飛燕の掩撃",
       "SID_魔光"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_開花セリカ",
@@ -5912,8 +5804,7 @@
       "SID_鬼神の一撃3",
       "SID_鬼神の一撃4"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_セリーヌ",
@@ -5983,8 +5874,7 @@
       "SID_速さ魔防の拍節4",
       "SID_速さ魔防の謀策3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_セルバンテス",
@@ -6013,8 +5903,7 @@
       "SID_鉄の槍",
       "SID_鋼の槍"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_チャド",
@@ -6099,8 +5988,7 @@
       "SID_鉄の槍",
       "SID_鋼の槍"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_シャーロッテ",
@@ -6211,8 +6099,7 @@
       "SID_鉄の斧",
       "SID_鋼の斧"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_クロエ",
@@ -6241,8 +6128,7 @@
       "SID_銀の槍",
       "SID_鋼の槍"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_双界クロエ",
@@ -6277,8 +6163,7 @@
       "SID_鬼神飛燕の離撃3",
       "SID_魔の蛇毒"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_伝承クロム",
@@ -6312,8 +6197,7 @@
       "SID_青への暗闘2",
       "SID_青への暗闘3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_クロム",
@@ -6343,8 +6227,7 @@
       "SID_鋼の剣",
       "SID_陽影"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_比翼クロム",
@@ -6375,8 +6258,7 @@
       "SID_銀の弓",
       "SID_鋼の弓"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_総選挙クロム",
@@ -6457,8 +6339,7 @@
       "SID_鋼の剣",
       "SID_魔器・屍王の絶剣"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_冬祭クロム",
@@ -6529,8 +6410,7 @@
       "SID_銀の剣",
       "SID_鋼の剣"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_春祭クロム",
@@ -6558,8 +6438,7 @@
       "SID_鉄の斧",
       "SID_鋼の斧"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ホリン",
@@ -6588,8 +6467,7 @@
       "SID_鉄の剣",
       "SID_鋼の剣"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_シトリニカ",
@@ -6620,8 +6498,7 @@
       "SID_氷蒼",
       "SID_豪奢な富書"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_クレア",
@@ -6648,8 +6525,7 @@
       "SID_銀の槍＋",
       "SID_鋼の槍"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_水着クラン",
@@ -6678,8 +6554,7 @@
       "SID_鉄の暗器",
       "SID_鋼の暗器"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_クラリーネ",
@@ -6708,8 +6583,7 @@
       "SID_魔防2",
       "SID_魔防3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_クライネ",
@@ -6739,8 +6613,7 @@
       "SID_鉄の弓",
       "SID_鋼の弓"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_総選挙クロード",
@@ -6773,8 +6646,7 @@
       "SID_銀の弓",
       "SID_鋼の弓"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_愛の祭クロード",
@@ -6807,8 +6679,7 @@
       "SID_銀の弓",
       "SID_鋼の弓"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_風部族クロード",
@@ -6841,8 +6712,7 @@
       "SID_鋼の暗器",
       "SID_風車"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_伝承クロード",
@@ -6878,8 +6748,7 @@
       "SID_銀の弓",
       "SID_鋼の弓"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_クロード",
@@ -6908,8 +6777,7 @@
       "SID_銀の弓",
       "SID_鋼の弓"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_水着クロード",
@@ -7013,8 +6881,7 @@
       "SID_鋼の槍",
       "SID_長盾"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_コーマ",
@@ -7084,8 +6951,7 @@
       "SID_鉄の槍",
       "SID_鋼の槍"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_愛の祭コンラート",
@@ -7233,8 +7099,7 @@
       "SID_鉄の槍",
       "SID_鋼の槍"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_花嫁ティアモ",
@@ -7308,8 +7173,7 @@
       "SID_銀の槍",
       "SID_鋼の槍"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_クーガー",
@@ -7339,8 +7203,7 @@
       "SID_鉄の槍",
       "SID_鋼の槍"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_コルネリア",
@@ -7371,8 +7234,7 @@
       "SID_治癒",
       "SID_祈り"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_暴走カムイ男",
@@ -7443,8 +7305,7 @@
       "SID_遠反・明鏡の構え",
       "SID_遠距離反撃"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_伝承カムイ男",
@@ -7480,8 +7341,7 @@
       "SID_魔防の謀策2",
       "SID_魔防の謀策3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_伝承カムイ女",
@@ -7518,8 +7378,7 @@
       "SID_竜穿",
       "SID_遠距離反撃"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_忍者カムイ男",
@@ -7669,8 +7528,7 @@
       "SID_鉄の弓",
       "SID_鋼の弓"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_カムイ男",
@@ -7699,8 +7557,7 @@
       "SID_銀の剣",
       "SID_鋼の剣"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_カムイ女",
@@ -7730,8 +7587,7 @@
       "SID_魔防封じ2",
       "SID_魔防封じ3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_比翼カムイ女",
@@ -7766,8 +7622,7 @@
       "SID_速さ魔防の遠影2",
       "SID_速さ魔防の遠影3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_水着カムイ女",
@@ -7796,8 +7651,7 @@
       "SID_魔防の鼓舞1",
       "SID_魔防の鼓舞2"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_総選挙カムイ女",
@@ -7913,8 +7767,7 @@
       "SID_灼熱のブレス",
       "SID_竜穿"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_比翼カムイ男",
@@ -7950,8 +7803,7 @@
       "SID_近距離警戒3",
       "SID_風地水の命脈"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_シンシア",
@@ -7980,8 +7832,7 @@
       "SID_鉄の槍",
       "SID_鋼の槍"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ツィリル",
@@ -8010,8 +7861,36 @@
       "SID_鋼の弓",
       "SID_雪辱"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
+  },
+  {
+    "id": "PID_ダグダ",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": true,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {
+      "hg": 3
+    },
+    "skill_ids": [
+      "SID_強化反転の斧",
+      "SID_強化反転の斧＋",
+      "SID_強化増幅1",
+      "SID_強化増幅2",
+      "SID_強化増幅3",
+      "SID_攻撃守備の信義1",
+      "SID_攻撃守備の信義2",
+      "SID_攻撃守備の信義3",
+      "SID_華炎",
+      "SID_蛍火",
+      "SID_鉄の斧",
+      "SID_鋼の斧"
+    ],
+    "divine_codes": {}
   },
   {
     "id": "PID_風部族ダグ",
@@ -8043,8 +7922,7 @@
       "SID_鋼の剣",
       "SID_風神の団扇"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_比翼ダグ",
@@ -8075,8 +7953,7 @@
       "SID_銀の弓",
       "SID_鋼の弓"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ダグ味方",
@@ -8112,8 +7989,7 @@
       "SID_魔道の刃2",
       "SID_魔道の刃3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ダグ2味方",
@@ -8145,8 +8021,7 @@
       "SID_銀の剣",
       "SID_鋼の剣"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_海賊ダロス",
@@ -8174,8 +8049,7 @@
       "SID_鉄の斧",
       "SID_鋼の斧"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_死神騎士",
@@ -8204,8 +8078,7 @@
       "SID_離脱の行路2",
       "SID_離脱の行路3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_魔器魔獣ドゥドゥー",
@@ -8238,8 +8111,7 @@
       "SID_蛍火",
       "SID_魔器・紋章石"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ドゥドゥ―",
@@ -8270,8 +8142,7 @@
       "SID_鬼神金剛の構え2",
       "SID_鬼神金剛の構え3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_水着ドゥドゥー",
@@ -8388,8 +8259,7 @@
       "SID_魔防の混乱2",
       "SID_魔防の混乱3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ディアドラ",
@@ -8454,8 +8324,7 @@
       "SID_鬼神の一撃2",
       "SID_鬼神の一撃3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_春祭デューテ",
@@ -8527,8 +8396,7 @@
       "SID_鬼神の一撃2",
       "SID_鬼神の一撃3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_デュー",
@@ -8557,8 +8425,7 @@
       "SID_鋼の暗器",
       "SID_陽影"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ハロデギンハンザー",
@@ -8677,8 +8544,7 @@
       "SID_銀の剣",
       "SID_鋼の剣"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ディーク",
@@ -8712,8 +8578,7 @@
       "SID_銀の斧",
       "SID_鋼の斧"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_冬祭ディミトリ",
@@ -8787,8 +8652,7 @@
       "SID_鋼の槍",
       "SID_陽影"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_闇ディミトリ",
@@ -8864,8 +8728,7 @@
       "SID_鬼神金剛の一撃2",
       "SID_鬼神金剛の一撃3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_水着ディミトリ",
@@ -8978,8 +8841,7 @@
       "SID_鬼神の一撃3",
       "SID_鬼神の一撃4"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ディートバ",
@@ -9009,8 +8871,7 @@
       "SID_鉄の槍",
       "SID_鋼の槍"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_水着ドニ",
@@ -9113,8 +8974,7 @@
       "SID_鬼神金剛の構え1",
       "SID_鬼神金剛の構え2"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ドルカス",
@@ -9146,8 +9006,7 @@
       "SID_鬼神の構え2",
       "SID_鬼神の構え3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ドロテア",
@@ -9175,8 +9034,7 @@
       "SID_速さの魅了2",
       "SID_速さの魅了3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_水着ドロテア",
@@ -9247,8 +9105,7 @@
       "SID_飛燕明鏡の一撃2",
       "SID_飛燕明鏡の瞬撃3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_冬祭ドロテア",
@@ -9480,8 +9337,7 @@
       "SID_竜裂",
       "SID_邪神のブレス"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_比翼ドーマ",
@@ -9510,8 +9366,7 @@
       "SID_遠反・鬼神の構え",
       "SID_遠距離反撃"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ディーア",
@@ -9649,8 +9504,7 @@
       "SID_魔防の混乱2",
       "SID_魔防の混乱3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_愛の祭エーデル",
@@ -9683,8 +9537,7 @@
       "SID_鬼神金剛の掩撃",
       "SID_黒鷲の愛の斧"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_総選挙エーデル",
@@ -9713,8 +9566,7 @@
       "SID_魔防の紋章1",
       "SID_黒鷲の覇王"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_伝承エーデルガルト",
@@ -9749,8 +9601,7 @@
       "SID_銀の斧",
       "SID_鋼の斧"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_覇骸エーデルガルト",
@@ -9781,8 +9632,7 @@
       "SID_重装の遊撃2",
       "SID_重装の遊撃3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_冬祭エーデルガルト",
@@ -9815,8 +9665,7 @@
       "SID_鋼の槍",
       "SID_黒鷲の聖夜の槍"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_双界エーデルガルト",
@@ -9847,8 +9696,7 @@
       "SID_銀の剣",
       "SID_鋼の剣"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_エーデルガルト",
@@ -9880,8 +9728,7 @@
       "SID_銀の斧",
       "SID_鋼の斧"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_エディ",
@@ -10104,8 +9951,7 @@
       "SID_竜穿",
       "SID_若獣の化身・騎馬"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_開花エイル味方",
@@ -10137,8 +9983,7 @@
       "SID_銀の暗器",
       "SID_鋼の暗器"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_神階エイル",
@@ -10173,8 +10018,7 @@
       "SID_鬼神飛燕の一撃1",
       "SID_鬼神飛燕の一撃2"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_年明エイル",
@@ -10202,8 +10046,7 @@
       "SID_鉄の暗器",
       "SID_鋼の暗器"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_エイリーク2",
@@ -10235,8 +10078,7 @@
       "SID_鬼神飛燕の一撃1",
       "SID_鬼神飛燕の一撃2"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_水着エイリーク",
@@ -10352,8 +10194,7 @@
       "SID_鋼の剣",
       "SID_雷剣ジークリンデ"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_紋章エイリーク",
@@ -10389,8 +10230,7 @@
       "SID_銀の剣",
       "SID_鋼の剣"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_総選挙エイリーク",
@@ -10422,8 +10262,7 @@
       "SID_鬼神飛燕の一撃2",
       "SID_鬼神飛燕の迫撃3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_響心エイリーク",
@@ -10455,8 +10294,7 @@
       "SID_陣風",
       "SID_響・見切り反撃不可"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_エイリーク",
@@ -10523,8 +10361,7 @@
       "SID_銀の剣",
       "SID_鋼の剣"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_魔器アイト味方",
@@ -10556,8 +10393,7 @@
       "SID_虚無の力",
       "SID_魔器・虚無の角"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_春祭アイト",
@@ -10586,8 +10422,7 @@
       "SID_若獣の化身・騎馬",
       "SID_虚無破る悪夢の力"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_エイトリ味方",
@@ -10623,8 +10458,7 @@
       "SID_竜穿",
       "SID_魔銃ブロック"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_エルトシャン",
@@ -10651,8 +10485,7 @@
       "SID_鉄の剣",
       "SID_鋼の剣"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_舞踏エルトシャン",
@@ -10721,8 +10554,7 @@
       "SID_銀の弓",
       "SID_鋼の弓"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_エルフィン",
@@ -10752,8 +10584,7 @@
       "SID_歩行の見切り追撃3",
       "SID_歩行の見切り追撃4"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_エリス",
@@ -10831,8 +10662,7 @@
       "SID_速さの混乱3",
       "SID_速さ魔防の不和"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_開花エリンシア",
@@ -10870,8 +10700,7 @@
       "SID_速さ魔防の牽制2",
       "SID_速さ魔防の牽制3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_夏祭エリンシア",
@@ -10939,8 +10768,7 @@
       "SID_鬼神の一撃2",
       "SID_鬼神の一撃3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_水着エリンシア",
@@ -11010,8 +10838,7 @@
       "SID_銀の剣",
       "SID_鋼の剣"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_温泉エリーゼ",
@@ -11044,8 +10871,7 @@
       "SID_鬼神飛燕の一撃1",
       "SID_鬼神飛燕の一撃2"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_エリーゼ",
@@ -11075,8 +10901,7 @@
       "SID_業火の祝福",
       "SID_治癒"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_幼少エリーゼ",
@@ -11109,8 +10934,7 @@
       "SID_治癒",
       "SID_祈り"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_比翼エリーゼ",
@@ -11147,8 +10971,7 @@
       "SID_神罰・因果応報",
       "SID_重圧の聖光"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_水着エリーゼ",
@@ -11177,8 +11000,7 @@
       "SID_速さ魔防1",
       "SID_速さ魔防2"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_伝承エリウッド",
@@ -11214,8 +11036,7 @@
       "SID_鬼神の一撃3",
       "SID_鬼神の一撃4"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_愛の祭エリウッド",
@@ -11244,8 +11065,7 @@
       "SID_鉄の槍",
       "SID_鋼の槍"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_エリウッド",
@@ -11318,8 +11138,7 @@
       "SID_鬼神飛燕の一撃2",
       "SID_鬼神飛燕の一撃3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_幼少エリウッド",
@@ -11389,8 +11208,7 @@
       "SID_絶対化身・近影3",
       "SID_若獣の化身・飛行"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_エルム味方",
@@ -11423,8 +11241,7 @@
       "SID_閉ざす者の鋭き爪牙",
       "SID_開く者たちとの奇縁"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_花嫁エンブラ",
@@ -11456,8 +11273,7 @@
       "SID_若獣の化身・飛行",
       "SID_閉ざす花嫁のブーケ"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_エンブラ味方",
@@ -11490,8 +11306,7 @@
       "SID_絶闇の翼爪",
       "SID_若獣の化身・飛行"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_エメリナ",
@@ -11567,8 +11382,7 @@
       "SID_神罰の杖3",
       "SID_神罰・因果応報"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ハロイナ",
@@ -11638,8 +11452,7 @@
       "SID_鎧の護り手・近間2",
       "SID_鎧の護り手・近間3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_比翼エフラム",
@@ -11672,8 +11485,7 @@
       "SID_鉄の槍",
       "SID_鋼の槍"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_伝承エフラム",
@@ -11708,8 +11520,7 @@
       "SID_鬼神金剛の構え1",
       "SID_鬼神金剛の構え2"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_エフラム",
@@ -11738,8 +11549,7 @@
       "SID_鉄の槍",
       "SID_鋼の槍"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_総選挙エフラム",
@@ -11771,8 +11581,7 @@
       "SID_銀の斧",
       "SID_鋼の斧"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_冬祭エフラム",
@@ -11845,8 +11654,7 @@
       "SID_銀の斧",
       "SID_鋼の斧"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_エレミヤ",
@@ -11878,8 +11686,7 @@
       "SID_遠距離警戒2",
       "SID_遠距離警戒3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_フュリー",
@@ -11912,8 +11719,7 @@
       "SID_青の死闘・飛行3",
       "SID_青の死闘・飛行4"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_エルク",
@@ -11988,8 +11794,7 @@
       "SID_魔防の覚醒2",
       "SID_魔防の覚醒3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_春祭エスト",
@@ -12061,8 +11866,7 @@
       "SID_銀の槍",
       "SID_鋼の槍"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_舞踏エスリン",
@@ -12135,8 +11939,7 @@
       "SID_速さ守備の絆2",
       "SID_速さ守備の絆3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_エーティエ",
@@ -12246,8 +12049,7 @@
       "SID_氷点",
       "SID_氷華"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_エーヴェル",
@@ -12277,8 +12079,7 @@
       "SID_鉄の剣",
       "SID_鋼の剣"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_伝承ファ",
@@ -12312,8 +12113,7 @@
       "SID_遠距離反撃",
       "SID_魔防の威嚇1"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ファ",
@@ -12434,8 +12234,7 @@
       "SID_銀の暗器",
       "SID_鋼の暗器"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ファフニール味方",
@@ -12464,8 +12263,7 @@
       "SID_銀の槍",
       "SID_鋼の槍"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ファーガス",
@@ -12494,8 +12292,7 @@
       "SID_銀の斧",
       "SID_鋼の斧"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ファリナ",
@@ -12567,8 +12364,7 @@
       "SID_鋼の弓",
       "SID_陽影"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_愛の祭エフィ",
@@ -12642,8 +12438,7 @@
       "SID_魔道の刃2",
       "SID_魔道の刃3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_フィー",
@@ -12887,8 +12682,7 @@
       "SID_鋼の剣",
       "SID_長盾"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_総選挙フェリクス",
@@ -12921,8 +12715,7 @@
       "SID_錬磨サンダーソード",
       "SID_陣風"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_お茶会フェルディ",
@@ -12952,8 +12745,7 @@
       "SID_風薙ぎ3",
       "SID_魔防の応援"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_フェルディナント",
@@ -13045,8 +12837,7 @@
       "SID_鉄の槍",
       "SID_鋼の槍"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_フィン",
@@ -13075,8 +12866,7 @@
       "SID_鋼の槍",
       "SID_騎刃の紋章"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_フィオーラ",
@@ -13144,8 +12934,7 @@
       "SID_鉄の剣",
       "SID_鋼の剣"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_春祭フィル",
@@ -13214,8 +13003,7 @@
       "SID_鉄の剣",
       "SID_鋼の剣"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_開花フィル",
@@ -13335,8 +13123,7 @@
       "SID_銀の槍",
       "SID_鋼の槍"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_開花フィヨルム味方",
@@ -13458,8 +13245,7 @@
       "SID_鬼神明鏡の構え2",
       "SID_鬼神明鏡の構え3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_水着フィヨルム",
@@ -13535,8 +13321,7 @@
       "SID_鉄の斧",
       "SID_鋼の斧"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_花嫁フラヴィア",
@@ -13565,8 +13350,7 @@
       "SID_鉄の剣",
       "SID_鋼の剣"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_フラヴィア",
@@ -13638,8 +13422,7 @@
       "SID_疾風静水の祝福＋",
       "SID_静水の祝福"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ハロフレン",
@@ -13673,8 +13456,7 @@
       "SID_祈り",
       "SID_重圧の聖光"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_フローラ",
@@ -13745,8 +13527,7 @@
       "SID_鉄の暗器",
       "SID_鋼の暗器"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_行楽フローラ",
@@ -13778,8 +13559,7 @@
       "SID_銀の暗器",
       "SID_鋼の暗器"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_開花フロリーナ",
@@ -13813,8 +13593,7 @@
       "SID_銀の弓",
       "SID_鋼の弓"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_フロリーナ",
@@ -13843,8 +13622,7 @@
       "SID_飛燕の一撃2",
       "SID_飛燕の一撃3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_フォガート",
@@ -13875,8 +13653,7 @@
       "SID_鬼神飛燕の一撃2",
       "SID_鬼神飛燕の炎撃3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_水着フォガート",
@@ -13905,8 +13682,7 @@
       "SID_鼓動の幻煙2",
       "SID_鼓動の幻煙3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_冬祭フォデス",
@@ -13977,8 +13753,7 @@
       "SID_鎧の護り手・遠間2",
       "SID_鎧の護り手・遠間3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_フォルデ",
@@ -14009,8 +13784,7 @@
       "SID_銀の剣",
       "SID_鋼の剣"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_フォレオ",
@@ -14085,8 +13859,7 @@
       "SID_銀の槍",
       "SID_鋼の槍"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_春祭フラン",
@@ -14121,8 +13894,7 @@
       "SID_銀の斧",
       "SID_鋼の斧"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_水着フレデリク",
@@ -14150,8 +13922,7 @@
       "SID_鉄の暗器",
       "SID_鋼の暗器"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_フレデリク",
@@ -14181,8 +13952,7 @@
       "SID_鉄の斧",
       "SID_鋼の斧"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_幼少フレデリク",
@@ -14297,8 +14067,7 @@
       "SID_鼓動の幻煙2",
       "SID_鼓動の幻煙3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_フロージ味方",
@@ -14330,8 +14099,7 @@
       "SID_華炎",
       "SID_蛍火"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_水着フロージ",
@@ -14478,8 +14246,7 @@
       "SID_鉄の弓",
       "SID_鋼の弓"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ゲイル",
@@ -14509,8 +14276,7 @@
       "SID_鉄の槍",
       "SID_鋼の槍"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ガルザス",
@@ -14583,8 +14349,7 @@
       "SID_鋼の斧",
       "SID_魔器・絶死ヘル"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ギャンレル",
@@ -14613,8 +14378,7 @@
       "SID_銀の暗器",
       "SID_鋼の暗器"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ガロン",
@@ -14643,8 +14407,7 @@
       "SID_遠距離防御2",
       "SID_遠距離防御3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_総選挙門番",
@@ -14834,8 +14597,7 @@
       "SID_神罰の杖2",
       "SID_神罰の杖3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ジョフレ",
@@ -14865,8 +14627,7 @@
       "SID_銀の槍",
       "SID_鋼の槍"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ジスト",
@@ -14900,8 +14661,7 @@
       "SID_飛燕の一撃3",
       "SID_飛燕の一撃4"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ジェローム",
@@ -14929,8 +14689,7 @@
       "SID_鉄面の斧",
       "SID_鋼の斧"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ガーネフ",
@@ -14959,8 +14718,7 @@
       "SID_鬼神明鏡の構え1",
       "SID_鬼神明鏡の構え2"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ギリアム",
@@ -14994,8 +14752,7 @@
       "SID_鬼神金剛の構え2",
       "SID_鬼神金剛の構え3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_魔器ギンヌン味方",
@@ -15066,8 +14823,7 @@
       "SID_飛行の先導2",
       "SID_飛行の先導3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_双界ゴルドマリー",
@@ -15103,8 +14859,7 @@
       "SID_鋼の槍",
       "SID_長盾"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ゴンザレス",
@@ -15133,8 +14888,7 @@
       "SID_鉄の斧",
       "SID_鋼の斧"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ゴードン",
@@ -15163,8 +14917,7 @@
       "SID_鉄の弓",
       "SID_鋼の弓"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_若年ガトー",
@@ -15196,8 +14949,7 @@
       "SID_魔防の混乱2",
       "SID_魔防の混乱3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_神階ガトー",
@@ -15229,8 +14981,7 @@
       "SID_遠距離警戒2",
       "SID_遠距離警戒3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_グレイ",
@@ -15259,8 +15010,7 @@
       "SID_鉄の剣",
       "SID_鋼の剣"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_グレゴ",
@@ -15290,8 +15040,7 @@
       "SID_銀の剣",
       "SID_鋼の剣"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_愛の祭グレイル",
@@ -15370,8 +15119,7 @@
       "SID_灼熱のブレス",
       "SID_重装の大氷"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ギムレー男",
@@ -15400,8 +15148,7 @@
       "SID_火のブレス",
       "SID_火炎のブレス"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_グリ",
@@ -15430,8 +15177,7 @@
       "SID_鬼神明鏡の一撃1",
       "SID_鬼神明鏡の一撃2"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ギネヴィア",
@@ -15506,8 +15252,7 @@
       "SID_速さ魔防の秘奥3",
       "SID_速さ魔防の秘奥4"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_比翼グルヴェイグ",
@@ -15543,8 +15288,7 @@
       "SID_鬼神飛燕の炎撃3",
       "SID_魔女と女神の夏光"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_グルヴェイグ味方",
@@ -15580,8 +15324,7 @@
       "SID_魔防の紫煙2",
       "SID_魔防の紫煙3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_総選挙グルヴェイグ",
@@ -15613,8 +15356,7 @@
       "SID_鬼神飛燕の一撃2",
       "SID_鬼神飛燕の炎撃3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_水着スリーズ",
@@ -15689,8 +15431,7 @@
       "SID_魔防の謀策2",
       "SID_魔防の謀策3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_年明スリーズ",
@@ -15723,8 +15464,7 @@
       "SID_鬼神飛燕の一撃1",
       "SID_鬼神飛燕の一撃2"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ギュンター",
@@ -15796,8 +15536,7 @@
       "SID_銀の斧",
       "SID_鋼の斧"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_グスタフ味方",
@@ -15959,8 +15698,7 @@
       "SID_鋼の斧",
       "SID_黒疾風の爪斧"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_忍者ハール",
@@ -16066,8 +15804,7 @@
       "SID_鉄の剣",
       "SID_鋼の剣"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_愛の祭カザハナ",
@@ -16134,8 +15871,7 @@
       "SID_銀の斧",
       "SID_鋼の斧"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ハピ",
@@ -16239,8 +15975,7 @@
       "SID_鋼の槍",
       "SID_雪辱"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ハーディン",
@@ -16270,8 +16005,7 @@
       "SID_鬼神飛燕の一撃2",
       "SID_鬼神飛燕の迫撃3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ハーケン",
@@ -16302,8 +16036,7 @@
       "SID_銀の剣",
       "SID_鋼の剣"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ホークアイ",
@@ -16451,8 +16184,7 @@
       "SID_離脱の行路2",
       "SID_離脱の行路3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_忍者ヒース",
@@ -16481,8 +16213,7 @@
       "SID_鼓動の幻煙2",
       "SID_鼓動の幻煙3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_忍者ヘザー",
@@ -16553,8 +16284,7 @@
       "SID_魔防の波・偶数2",
       "SID_魔防の波・偶数3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_比翼ヘクトル",
@@ -16584,8 +16314,7 @@
       "SID_鋼の剣",
       "SID_魔月の祭器"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ヘクトル",
@@ -16612,8 +16341,7 @@
       "SID_銀の斧",
       "SID_鋼の斧"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_愛の祭ヘクトル",
@@ -16681,8 +16409,7 @@
       "SID_銀の斧",
       "SID_鋼の斧"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_響心ヘクトル",
@@ -16802,8 +16529,7 @@
       "SID_魔の見切り・追撃",
       "SID_黄金の蛇"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_神階ヘイズルーン",
@@ -16835,8 +16561,7 @@
       "SID_薬の癒し手の角",
       "SID_魔防の城塞1"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_水着ヘイズルーン",
@@ -16901,8 +16626,7 @@
       "SID_魔防の混乱2",
       "SID_魔防の混乱3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ヘル味方",
@@ -16932,8 +16656,7 @@
       "SID_銀の斧",
       "SID_鋼の斧"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ヘルビンディ味方",
@@ -16965,8 +16688,7 @@
       "SID_鋼の斧",
       "SID_雪辱"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_水着ヘルビンディ",
@@ -17075,8 +16797,7 @@
       "SID_重装の行軍3",
       "SID_雪辱"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_春祭ヘンリー",
@@ -17246,8 +16967,7 @@
       "SID_攻撃速さの渾身3",
       "SID_攻撃速さの渾身4"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_開花ヒルダ",
@@ -17361,8 +17081,7 @@
       "SID_銀の斧",
       "SID_鋼の斧"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_聖戦ヒルダ",
@@ -17391,8 +17110,7 @@
       "SID_氷点",
       "SID_氷華"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_花婿ヒナタ",
@@ -17420,8 +17138,7 @@
       "SID_鉄の斧",
       "SID_鋼の斧"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ヒナタ",
@@ -17511,8 +17228,7 @@
       "SID_飛行の先導2",
       "SID_飛行の先導3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_比翼ヒノカ",
@@ -17545,8 +17261,7 @@
       "SID_銀の弓",
       "SID_鋼の弓"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_温泉ヒノカ",
@@ -17577,8 +17292,7 @@
       "SID_鉄の暗器",
       "SID_鋼の暗器"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_伝承ヒノカ",
@@ -17611,8 +17325,7 @@
       "SID_鋼の弓",
       "SID_風神雷神弓"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ヒノカ",
@@ -17642,8 +17355,7 @@
       "SID_鋼の槍",
       "SID_飛刃の鼓舞"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ホルスト",
@@ -17672,8 +17384,35 @@
       "SID_銀の剣",
       "SID_鋼の剣"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
+  },
+  {
+    "id": "PID_ホメロス",
+    "is_in": {
+      "gsp": true,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {
+      "gsp": 3
+    },
+    "skill_ids": [
+      "SID_エルサンダー",
+      "SID_サンダー",
+      "SID_ブラークラブ",
+      "SID_ブラークラブ＋",
+      "SID_引き寄せ",
+      "SID_速さの封印1",
+      "SID_速さ魔防の信義1",
+      "SID_速さ魔防の信義2",
+      "SID_速さ魔防の信義3",
+      "SID_速さ魔防の封印1",
+      "SID_速さ魔防の封印2"
+    ],
+    "divine_codes": {}
   },
   {
     "id": "PID_魔器オルテンシア",
@@ -17708,8 +17447,7 @@
       "SID_輝映の聖光",
       "SID_魔器・愛らしい雪杖"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_冬祭オルテンシア",
@@ -17744,8 +17482,7 @@
       "SID_重圧の聖光",
       "SID_雪だるまの雪杖"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_フレスベルグ味方",
@@ -17778,8 +17515,7 @@
       "SID_速さ守備の近影3",
       "SID_速さ守備の近影4"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_年明フレスベルグ",
@@ -17854,8 +17590,7 @@
       "SID_銀の剣",
       "SID_鋼の剣"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_水着フリーズ",
@@ -17883,8 +17618,7 @@
       "SID_銀の槍",
       "SID_鋼の槍"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_年明フリーズ",
@@ -17916,8 +17650,7 @@
       "SID_鉄の剣",
       "SID_鋼の剣"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_愛の祭ヒューベルト",
@@ -17946,8 +17679,7 @@
       "SID_氷点",
       "SID_氷華"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ヒューベルト",
@@ -18018,8 +17750,7 @@
       "SID_速さ守備の万全4",
       "SID_雇われ魔道士の書"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_マクベス",
@@ -18048,8 +17779,7 @@
       "SID_烈風",
       "SID_砕風"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_イドゥン",
@@ -18082,8 +17812,7 @@
       "SID_迎撃隊形3",
       "SID_魔竜のブレス"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_開花イドゥン",
@@ -18158,8 +17887,7 @@
       "SID_鬼神金剛の構え2",
       "SID_鬼神金剛の構え3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_冬祭イグナーツ",
@@ -18231,8 +17959,7 @@
       "SID_鼓動の幻煙2",
       "SID_鼓動の幻煙3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_忍者イグレーヌ",
@@ -18307,8 +18034,7 @@
       "SID_鬼神飛燕の一撃2",
       "SID_鬼神飛燕の柔撃3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_総選挙アイク",
@@ -18339,8 +18065,7 @@
       "SID_銀の斧",
       "SID_鋼の斧"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_比翼アイク",
@@ -18373,8 +18098,7 @@
       "SID_鋼の剣",
       "SID_陽影"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ジャハナアイク",
@@ -18452,8 +18176,7 @@
       "SID_鋼の剣",
       "SID_陽影"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_愛の祭アイク",
@@ -18484,8 +18207,7 @@
       "SID_鋼の剣",
       "SID_陽影"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_伝承アイク",
@@ -18523,8 +18245,7 @@
       "SID_魔防の相互大紋章",
       "SID_魔防の紋章1"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_アイク",
@@ -18554,8 +18275,7 @@
       "SID_銀の剣",
       "SID_鋼の剣"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_暴走アイク",
@@ -18588,8 +18308,7 @@
       "SID_飛燕の構え1",
       "SID_飛燕の構え2"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_幼少イレース",
@@ -18779,8 +18498,7 @@
       "SID_銀の槍",
       "SID_鋼の槍"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_水着イングリット",
@@ -18930,8 +18648,7 @@
       "SID_舞踏の輪＋",
       "SID_踊る"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_水着ヒーニアス",
@@ -19077,8 +18794,7 @@
       "SID_魔防の城塞2",
       "SID_魔防の城塞3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_イサドラ",
@@ -19108,8 +18824,7 @@
       "SID_銀の槍",
       "SID_鋼の槍"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_開花イシュタル",
@@ -19264,8 +18979,7 @@
       "SID_鋼の剣",
       "SID_陽影"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_響心アイビー",
@@ -19298,8 +19012,7 @@
       "SID_死の瘴気",
       "SID_響・飛走の先導"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_水着アイビー",
@@ -19372,8 +19085,7 @@
       "SID_銀の暗器",
       "SID_鋼の暗器"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_冬祭ジャファル",
@@ -19401,8 +19113,7 @@
       "SID_鉄の暗器",
       "SID_鋼の暗器"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ジェイガン",
@@ -19432,8 +19143,7 @@
       "SID_魔防の鼓舞1",
       "SID_魔防の鼓舞2"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ハロジョーカー",
@@ -19501,8 +19211,7 @@
       "SID_鋼の暗器",
       "SID_魔防の応援"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ジャムカ",
@@ -19532,8 +19241,7 @@
       "SID_鉄の弓",
       "SID_鋼の弓"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ジェルド",
@@ -19562,8 +19270,7 @@
       "SID_鼓動の幻煙2",
       "SID_鼓動の幻煙3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ジュダ",
@@ -19592,8 +19299,7 @@
       "SID_蛇毒3",
       "SID_蛍火"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ジョルジュ",
@@ -19622,8 +19328,7 @@
       "SID_銀の弓",
       "SID_鋼の弓"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ジェラルト",
@@ -19652,8 +19357,7 @@
       "SID_銀の槍",
       "SID_鋼の槍"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ジェシー",
@@ -19682,8 +19386,7 @@
       "SID_魔刃の剣",
       "SID_魔刃の剣＋"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ジル",
@@ -19755,8 +19458,7 @@
       "SID_銀の弓",
       "SID_鋼の弓"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_開花ヨシュア",
@@ -19827,8 +19529,7 @@
       "SID_風薙ぎ2",
       "SID_風薙ぎ3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_水着ヨシュア",
@@ -19899,8 +19600,7 @@
       "SID_氷華",
       "SID_真・光と闇と"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_伝承ユリア",
@@ -19936,8 +19636,7 @@
       "SID_鬼神明鏡の瞬撃3",
       "SID_魔防の威嚇1"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_催眠ユリア",
@@ -20007,8 +19706,7 @@
       "SID_魔防2",
       "SID_魔防3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_聖祭ユリア",
@@ -20074,8 +19772,7 @@
       "SID_騎殺の暗器",
       "SID_騎殺の暗器＋"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ユリウス",
@@ -20104,8 +19801,7 @@
       "SID_攻撃の謀策3",
       "SID_竜裂"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ナバタユーノ",
@@ -20210,8 +19906,7 @@
       "SID_速さ魔防の連携2",
       "SID_速さ魔防の連携3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_年明ニシキ",
@@ -20325,8 +20020,7 @@
       "SID_鬼神飛燕の一撃2",
       "SID_鬼神飛燕の離撃3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_カゲロウ",
@@ -20566,8 +20260,7 @@
       "SID_竜盾の鼓舞",
       "SID_竜穿"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_年明カンナ男",
@@ -20596,8 +20289,7 @@
       "SID_辰年の御子の竜石",
       "SID_辰年の御子の竜石＋"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_年明カンナ女",
@@ -20666,8 +20358,7 @@
       "SID_鋼の剣",
       "SID_雪辱"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_カリン",
@@ -20740,8 +20431,7 @@
       "SID_銀の斧",
       "SID_鋼の斧"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ハタリカアラ",
@@ -20809,8 +20499,7 @@
       "SID_鉄の剣",
       "SID_鋼の剣"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_砂漠カタリナ",
@@ -20882,8 +20571,7 @@
       "SID_鬼神飛燕の一撃1",
       "SID_鬼神飛燕の一撃2"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_スズカゼ",
@@ -20952,8 +20640,7 @@
       "SID_竜裂",
       "SID_若獣の化身・歩行"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_年明フランネル",
@@ -21059,8 +20746,7 @@
       "SID_魔防の城塞2",
       "SID_魔防の城塞3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ケント",
@@ -21178,8 +20864,7 @@
       "SID_氷点",
       "SID_氷蒼"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_デジェル",
@@ -21209,8 +20894,7 @@
       "SID_鋼の槍",
       "SID_鎧好きの堅槍"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_クレイン",
@@ -21509,8 +21193,7 @@
       "SID_銀の暗器",
       "SID_鋼の暗器"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ハロクルトナーガ",
@@ -21585,8 +21268,7 @@
       "SID_速さ魔防の凪4",
       "SID_雪辱"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_年明クワシル",
@@ -21870,8 +21552,7 @@
       "SID_神罰の杖2",
       "SID_神罰の杖3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_舞踏ラケシス",
@@ -21937,8 +21618,7 @@
       "SID_魔防の紋章2",
       "SID_魔防の紋章3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_水着レーギャルン",
@@ -21970,8 +21650,7 @@
       "SID_鬼神飛燕の一撃2",
       "SID_鬼神飛燕の一撃3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_比翼レーギャルン",
@@ -22006,8 +21685,7 @@
       "SID_銀の弓",
       "SID_鋼の弓"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_開花レーギャルン",
@@ -22079,8 +21757,7 @@
       "SID_魔防の封印2",
       "SID_魔防の封印3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_レーギャルン味方",
@@ -22112,8 +21789,7 @@
       "SID_銀の剣",
       "SID_鋼の剣"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_水着レーヴァテイン",
@@ -22227,8 +21903,7 @@
       "SID_銀の斧",
       "SID_鋼の斧"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_レーヴァテイン味方",
@@ -22259,8 +21934,7 @@
       "SID_銀の剣",
       "SID_鋼の剣"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_花嫁ラナ",
@@ -22293,8 +21967,7 @@
       "SID_速さ魔防の牽制2",
       "SID_速さ魔防の牽制3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_水着ラピス",
@@ -22330,8 +22003,7 @@
       "SID_鋼の槍",
       "SID_霞切り"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_花嫁ラピス",
@@ -22488,8 +22160,7 @@
       "SID_銀の槍",
       "SID_鋼の槍"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ラクチェ",
@@ -22522,8 +22193,7 @@
       "SID_銀の剣",
       "SID_鋼の剣"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_聖祭ラクチェ",
@@ -22633,8 +22303,7 @@
       "SID_鉄の暗器",
       "SID_鋼の暗器"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ラズワルド",
@@ -22758,8 +22427,7 @@
       "SID_遠距離警戒3",
       "SID_重装の聖氷"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_リアーネ",
@@ -22875,8 +22543,7 @@
       "SID_鋼の斧",
       "SID_雪辱"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_双界リーフ",
@@ -22908,8 +22575,7 @@
       "SID_鼓動の幻煙3",
       "SID_Ｓドリンク"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_リーフ",
@@ -22951,6 +22617,43 @@
     }
   },
   {
+    "id": "PID_響心リーフ",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "lowest_rarity": {
+      "foc": 5
+    },
+    "skill_ids": [
+      "SID_守備封じ1",
+      "SID_守備封じ2",
+      "SID_守備封じ3",
+      "SID_強弓・呼吸",
+      "SID_影助・引き戻し1",
+      "SID_影助・引き戻し2",
+      "SID_影助・引き戻し3",
+      "SID_影助・引き戻し4",
+      "SID_忠臣との絆の弓",
+      "SID_星影",
+      "SID_流星",
+      "SID_真・ノヴァの聖戦士",
+      "SID_金剛の一撃1",
+      "SID_鉄の弓",
+      "SID_銀の弓",
+      "SID_鋼の弓",
+      "SID_響・掩撃",
+      "SID_鬼神金剛の一撃1",
+      "SID_鬼神金剛の一撃2",
+      "SID_鬼神金剛の炎撃3"
+    ],
+    "divine_codes": {}
+  },
+  {
     "id": "PID_伝承リーフ",
     "is_in": {
       "gsp": false,
@@ -22985,8 +22688,7 @@
       "SID_鋼の弓",
       "SID_Ｓドリンク"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_怪盗レイラ",
@@ -23017,8 +22719,7 @@
       "SID_魔防の紫煙2",
       "SID_魔防の紫煙3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_レイラ",
@@ -23095,8 +22796,7 @@
       "SID_露払い・不屈",
       "SID_魔器・姿なき影刃"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_闇レナ",
@@ -23134,8 +22834,7 @@
       "SID_重圧の聖光",
       "SID_鍛錬の鼓動・謀策"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_レナ",
@@ -23205,8 +22904,7 @@
       "SID_鉄の剣",
       "SID_鋼の剣"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_幼少レオン",
@@ -23242,8 +22940,7 @@
       "SID_魔防の鼓舞2",
       "SID_魔防の鼓舞3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_行楽レオン",
@@ -23272,8 +22969,7 @@
       "SID_遠距離防御2",
       "SID_遠距離防御3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_浴衣レオン",
@@ -23419,8 +23115,7 @@
       "SID_烈光",
       "SID_砕光"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_レオ",
@@ -23450,8 +23145,7 @@
       "SID_鉄の弓",
       "SID_鋼の弓"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_レオナルド",
@@ -23677,8 +23371,7 @@
       "SID_攻撃魔防の遠影3",
       "SID_竜裂"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_レヴィン",
@@ -23880,8 +23573,7 @@
       "SID_開世",
       "SID_魔器エリューズニル"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_リーヴ味方",
@@ -23914,8 +23606,7 @@
       "SID_鋼の剣",
       "SID_開世"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_比翼リーヴ",
@@ -23948,8 +23639,7 @@
       "SID_攻撃魔防の凪3",
       "SID_星影"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_海賊リフィス",
@@ -24234,8 +23924,7 @@
       "SID_鼓動の幻煙2",
       "SID_鼓動の幻煙3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_リリス",
@@ -24267,8 +23956,7 @@
       "SID_火のブレス",
       "SID_火炎のブレス"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_闇リリス",
@@ -24340,8 +24028,7 @@
       "SID_氷華",
       "SID_被造フィンブル"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_双界リンダ",
@@ -24375,8 +24062,7 @@
       "SID_魔防の紫煙2",
       "SID_魔防の紫煙3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_リンダ",
@@ -24404,8 +24090,7 @@
       "SID_魔防の鼓舞2",
       "SID_魔防の鼓舞3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_水着リンダ",
@@ -24533,6 +24218,37 @@
     }
   },
   {
+    "id": "PID_リノアン",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {},
+    "skill_ids": [
+      "SID_アサルト",
+      "SID_グループ",
+      "SID_グループ＋",
+      "SID_ライブ",
+      "SID_リカバー",
+      "SID_リカバー＋",
+      "SID_リライブ",
+      "SID_攻撃魔防の密集1",
+      "SID_攻撃魔防の密集2",
+      "SID_攻撃魔防の密集3",
+      "SID_治癒",
+      "SID_疾風の祝福",
+      "SID_疾風静水の祝福",
+      "SID_速さの大紋章1",
+      "SID_速さの大紋章2",
+      "SID_速さの紋章1"
+    ],
+    "divine_codes": {}
+  },
+  {
     "id": "PID_ライナス",
     "is_in": {
       "gsp": false,
@@ -24560,8 +24276,7 @@
       "SID_銀の斧",
       "SID_鋼の斧"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_闇ライナス",
@@ -24590,8 +24305,7 @@
       "SID_銀の斧",
       "SID_鋼の斧"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_幼少リズ",
@@ -24620,8 +24334,7 @@
       "SID_銀の斧",
       "SID_鋼の斧"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_冬祭リズ",
@@ -24650,8 +24363,7 @@
       "SID_鉄の斧",
       "SID_鋼の斧"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_リズ",
@@ -24680,8 +24392,7 @@
       "SID_業火の祝福",
       "SID_治癒"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_愛の祭リズ",
@@ -24752,8 +24463,7 @@
       "SID_銀の剣",
       "SID_鋼の剣"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ロイド",
@@ -24782,8 +24492,7 @@
       "SID_銀の剣",
       "SID_鋼の剣"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_春祭ロキ",
@@ -24812,8 +24521,7 @@
       "SID_鋼の弓",
       "SID_飛刃の紋章"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ロキ味方",
@@ -24846,8 +24554,7 @@
       "SID_無の死闘・歩行3",
       "SID_静水の祝福"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_神階ロキ",
@@ -24882,8 +24589,7 @@
       "SID_神杖天空を偽る",
       "SID_輝映の聖光"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ロンクー",
@@ -24952,8 +24658,7 @@
       "SID_鉄の斧",
       "SID_鋼の斧"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_水着ローレンツ",
@@ -24981,8 +24686,7 @@
       "SID_魔防の波・偶数2",
       "SID_魔防の波・偶数3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_花嫁ルイーズ",
@@ -25010,8 +24714,7 @@
       "SID_鋼の弓",
       "SID_騎刃の鼓舞"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ルイーズ",
@@ -25084,8 +24787,7 @@
       "SID_銀の槍",
       "SID_鋼の槍"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ルキノ",
@@ -25119,8 +24821,7 @@
       "SID_銀の剣",
       "SID_鋼の剣"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_総選挙ルキナ",
@@ -25150,8 +24851,7 @@
       "SID_鬼神金剛の一撃1",
       "SID_鬼神金剛の一撃2"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_魔器ルキナ",
@@ -25267,8 +24967,7 @@
       "SID_銀の剣",
       "SID_鋼の剣"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_伝承ルキナ",
@@ -25302,8 +25001,7 @@
       "SID_鬼神飛燕の一撃2",
       "SID_鬼神飛燕の一撃3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_比翼ルキナ",
@@ -25341,8 +25039,7 @@
       "SID_鬼神飛燕の一撃2",
       "SID_鬼神飛燕の炎撃3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_春祭ルキナ",
@@ -25370,8 +25067,7 @@
       "SID_魔防封じ2",
       "SID_魔防封じ3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_幼少ルセア",
@@ -25441,8 +25137,7 @@
       "SID_治癒",
       "SID_祈り"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ルドベック",
@@ -25471,8 +25166,7 @@
       "SID_鬼神金剛の構え1",
       "SID_鬼神金剛の構え2"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ルゥ",
@@ -25503,8 +25197,7 @@
       "SID_魔防の大応援＋",
       "SID_魔防の応援"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_行楽ルカ",
@@ -25572,8 +25265,7 @@
       "SID_鉄の槍",
       "SID_鋼の槍"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ルーク",
@@ -25603,8 +25295,7 @@
       "SID_鉄の剣",
       "SID_鋼の剣"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_闇魔器ルミエル",
@@ -25636,8 +25327,7 @@
       "SID_速さ魔防の竜眼4",
       "SID_魔器・歪神竜の竜石"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ルミエル",
@@ -25666,8 +25356,7 @@
       "SID_飛燕明鏡の構え1",
       "SID_飛燕明鏡の構え2"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_神階ルミエル",
@@ -25700,8 +25389,7 @@
       "SID_白き神竜王のブレス",
       "SID_魔防の応援"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ルーテ",
@@ -25730,8 +25418,7 @@
       "SID_魔防の謀策2",
       "SID_魔防の謀策3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_水着ルーテ",
@@ -25918,8 +25605,7 @@
       "SID_鬼神飛燕の一撃1",
       "SID_鬼神飛燕の一撃2"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_花嫁リン",
@@ -25948,8 +25634,7 @@
       "SID_治癒",
       "SID_疾風の祝福"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_水着リン",
@@ -25981,8 +25666,7 @@
       "SID_鬼神金剛の一撃2",
       "SID_鬼神金剛の一撃3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_リン",
@@ -26012,8 +25696,7 @@
       "SID_銀の剣",
       "SID_鋼の剣"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_伝承リン",
@@ -26048,8 +25731,7 @@
       "SID_銀の弓",
       "SID_鋼の弓"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_比翼リン",
@@ -26082,8 +25764,7 @@
       "SID_鬼神飛燕の一撃2",
       "SID_鬼神飛燕の一撃3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_紋章リン",
@@ -26119,8 +25800,7 @@
       "SID_銀の弓",
       "SID_鋼の弓"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_愛の祭リン",
@@ -26234,8 +25914,7 @@
       "SID_鈍色の迷夢",
       "SID_魔の蛇毒"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_幼少リオン",
@@ -26264,8 +25943,7 @@
       "SID_氷点",
       "SID_氷蒼"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_リオン",
@@ -26294,8 +25972,7 @@
       "SID_魔防の大紋章2",
       "SID_魔防の紋章1"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_水着リオン",
@@ -26324,8 +26001,7 @@
       "SID_鉄の剣",
       "SID_鋼の剣"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_年明リィレ",
@@ -26354,8 +26030,7 @@
       "SID_若獣の化身・騎馬",
       "SID_賀正の妹猫の爪牙"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_リシテア",
@@ -26388,8 +26063,7 @@
       "SID_鬼神の一撃3",
       "SID_鬼神の一撃4"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_総選挙リシテア",
@@ -26423,8 +26097,7 @@
       "SID_速さ魔防の凪2",
       "SID_速さ魔防の凪3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_双界リシテア",
@@ -26457,8 +26130,7 @@
       "SID_鬼神飛燕の一撃2",
       "SID_鬼神飛燕の一撃3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_お茶会リシテア",
@@ -26490,8 +26162,38 @@
       "SID_星影",
       "SID_美味しい焼き菓子"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
+  },
+  {
+    "id": "PID_魔器マチュア",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "lowest_rarity": {
+      "foc": 5
+    },
+    "skill_ids": [
+      "SID_凶星",
+      "SID_攻撃速さの信念",
+      "SID_攻撃速さの信義1",
+      "SID_攻撃速さの信義2",
+      "SID_攻撃速さの信義3",
+      "SID_星影",
+      "SID_熱血",
+      "SID_遠反・強化増幅",
+      "SID_遠距離反撃",
+      "SID_鉄の剣",
+      "SID_銀の剣",
+      "SID_鋼の剣",
+      "SID_陣風",
+      "SID_魔器・マギ団の剣"
+    ],
+    "divine_codes": {}
   },
   {
     "id": "PID_メイ",
@@ -26566,8 +26268,7 @@
       "SID_見切り・追撃効果3",
       "SID_魔の見切り・追撃"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ジャハナマリス",
@@ -26677,8 +26378,7 @@
       "SID_銀の斧",
       "SID_鋼の斧"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_冬祭マヌエラ",
@@ -26830,8 +26530,7 @@
       "SID_銀の剣",
       "SID_鋼の剣"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_魔剣マリータ",
@@ -27124,8 +26823,7 @@
       "SID_見切り・追撃効果3",
       "SID_鎮魂の舞"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_マリアベル",
@@ -27158,8 +26856,7 @@
       "SID_痛罵の杖",
       "SID_祈り"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_マリカ",
@@ -27189,8 +26886,7 @@
       "SID_鉄の剣",
       "SID_鋼の剣"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_春祭マリカ",
@@ -27263,8 +26959,7 @@
       "SID_銀の斧",
       "SID_鋼の斧"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_比翼軍師マーク",
@@ -27298,8 +26993,7 @@
       "SID_魔防の混乱2",
       "SID_魔防の混乱3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_マーラ",
@@ -27328,8 +27022,7 @@
       "SID_魔防の混乱2",
       "SID_魔防の混乱3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_マロン",
@@ -27358,8 +27051,7 @@
       "SID_鋼の斧",
       "SID_風の大斧"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_花婿マルス",
@@ -27388,8 +27080,7 @@
       "SID_鉄の斧",
       "SID_鋼の斧"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_マルス",
@@ -27448,8 +27139,7 @@
       "SID_銀の剣",
       "SID_鋼の剣"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_伝承マルス",
@@ -27482,8 +27172,7 @@
       "SID_銀の剣",
       "SID_鋼の剣"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_幼少マルス",
@@ -27557,8 +27246,7 @@
       "SID_銀の剣",
       "SID_鋼の剣"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_紋章マルス",
@@ -27594,8 +27282,7 @@
       "SID_銀の剣",
       "SID_鋼の剣"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_総選挙マルス",
@@ -27670,8 +27357,7 @@
       "SID_銀の弓",
       "SID_鋼の弓"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_マチルダ",
@@ -27778,8 +27464,7 @@
       "SID_鉄の槍",
       "SID_鋼の槍"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_モーヴ",
@@ -27808,8 +27493,7 @@
       "SID_銀の槍",
       "SID_鋼の槍"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_神階メディウス",
@@ -27840,8 +27524,7 @@
       "SID_火炎のブレス",
       "SID_灼熱のブレス"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_若年メディウス",
@@ -27870,8 +27553,7 @@
       "SID_火炎のブレス",
       "SID_灼熱のブレス"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ミレディ",
@@ -27902,8 +27584,41 @@
       "SID_飛竜行空2",
       "SID_飛竜行空3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
+  },
+  {
+    "id": "PID_メリアエ味方",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {},
+    "skill_ids": [
+      "SID_堅固なる獣",
+      "SID_幼獣の化身・重装",
+      "SID_成獣の化身・重装",
+      "SID_攻撃守備の共栄",
+      "SID_攻撃守備の密集1",
+      "SID_攻撃守備の密集2",
+      "SID_攻撃守備の密集3",
+      "SID_正面隊形・自己1",
+      "SID_正面隊形・自己2",
+      "SID_正面隊形・自己3",
+      "SID_正面隊形・自己4",
+      "SID_漂う者の角",
+      "SID_若獣の化身・重装",
+      "SID_華炎",
+      "SID_蛍火",
+      "SID_鎧の護り手・近・茨",
+      "SID_鎧の護り手・近間1",
+      "SID_鎧の護り手・近間2",
+      "SID_鎧の護り手・近間3"
+    ],
+    "divine_codes": {}
   },
   {
     "id": "PID_メルセデス",
@@ -28173,8 +27888,7 @@
       "SID_鬼神飛燕の一撃2",
       "SID_鬼神飛燕の離撃3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_メリン",
@@ -28204,8 +27918,7 @@
       "SID_銀の剣",
       "SID_鋼の剣"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_メトジェイ",
@@ -28234,8 +27947,7 @@
       "SID_魔道の刃2",
       "SID_魔道の刃3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_幼少ワユ",
@@ -28309,8 +28021,7 @@
       "SID_鬼神飛燕の一撃2",
       "SID_鬼神飛燕の一撃3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ワユ",
@@ -28339,8 +28050,7 @@
       "SID_鉄の剣",
       "SID_鋼の剣"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ハロワユ",
@@ -28372,8 +28082,7 @@
       "SID_速さ魔防の絆3",
       "SID_飛刃の鼓舞"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_浴衣ワユ",
@@ -28450,8 +28159,7 @@
       "SID_生命の護符3",
       "SID_癒しの手"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_響心ミカヤ",
@@ -28562,8 +28270,7 @@
       "SID_遠距離防御2",
       "SID_遠距離防御3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_総選挙ミカヤ",
@@ -28594,8 +28301,7 @@
       "SID_献身",
       "SID_癒しの手"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_伝承ミカヤ",
@@ -28632,8 +28338,7 @@
       "SID_遠距離警戒2",
       "SID_遠距離警戒3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_夏祭ミカヤ",
@@ -28741,8 +28446,7 @@
       "SID_銀の斧",
       "SID_鋼の斧"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_春祭ミシェイル",
@@ -28889,8 +28593,7 @@
       "SID_治癒",
       "SID_祈り"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_神階ミラ",
@@ -28926,8 +28629,7 @@
       "SID_金剛明鏡の構え2",
       "SID_金剛明鏡の構え3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_幼少ミネルバ",
@@ -28954,8 +28656,7 @@
       "SID_銀の斧",
       "SID_鋼の斧"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ミネルバ",
@@ -28984,8 +28685,7 @@
       "SID_鋼の斧",
       "SID_飛盾の紋章"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_春祭ミネルバ",
@@ -29014,8 +28714,7 @@
       "SID_鉄の槍",
       "SID_鋼の槍"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_神階ルピナス",
@@ -29053,8 +28752,7 @@
       "SID_鋼の剣",
       "SID_魔防の城塞1"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_春祭ルピナス",
@@ -29254,8 +28952,7 @@
       "SID_祈り",
       "SID_魔防の紋章1"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_愛の祭ミスト",
@@ -29635,8 +29332,7 @@
       "SID_銀の槍",
       "SID_鋼の槍"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_闇ムワリム",
@@ -29665,8 +29361,7 @@
       "SID_竜穿",
       "SID_若獣の化身・歩行"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_マードック",
@@ -29695,8 +29390,7 @@
       "SID_銀の斧",
       "SID_鋼の斧"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ムスペル味方",
@@ -29728,8 +29422,7 @@
       "SID_絶炎のブレス",
       "SID_絶炎結界"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_炎部族ムスペル",
@@ -29883,8 +29576,7 @@
       "SID_闇の樹海の竜神",
       "SID_魔の守備隊形"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ミルラ",
@@ -29959,8 +29651,7 @@
       "SID_闇の樹海の守…・承",
       "SID_闇の樹海の守護竜"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ハロミルラ",
@@ -29992,8 +29683,7 @@
       "SID_重装の行軍2",
       "SID_重装の行軍3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_双界ミルラ",
@@ -30023,8 +29713,7 @@
       "SID_遠距離反撃",
       "SID_陽影"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_海賊ネサラ",
@@ -30095,8 +29784,7 @@
       "SID_鬼神飛燕の一撃2",
       "SID_鴉王の嘴爪"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_神階ナーガ",
@@ -30130,8 +29818,7 @@
       "SID_速さの封印2",
       "SID_速さの封印3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ハロナーガ",
@@ -30161,8 +29848,7 @@
       "SID_火のブレス",
       "SID_火炎のブレス"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_若年ナーガ",
@@ -30195,8 +29881,7 @@
       "SID_神竜王の大牙",
       "SID_竜の咆哮"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ナギ",
@@ -30226,8 +29911,7 @@
       "SID_遠距離反撃",
       "SID_陽影"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_双界ナギ",
@@ -30263,8 +29947,7 @@
       "SID_竜の逆鱗2",
       "SID_竜の逆鱗3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ハロンン",
@@ -30341,8 +30024,7 @@
       "SID_緋炎",
       "SID_蛍火"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_花嫁ニケ",
@@ -30450,8 +30132,7 @@
       "SID_遠距離反撃",
       "SID_邪眼"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_伝承ナンナ",
@@ -30487,8 +30168,7 @@
       "SID_銀の剣",
       "SID_鋼の剣"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_聖祭ナンナ",
@@ -30652,8 +30332,7 @@
       "SID_鋼の斧",
       "SID_雪辱"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ナターシャ",
@@ -30765,8 +30444,7 @@
       "SID_鉄の剣",
       "SID_鋼の剣"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ネイミー",
@@ -30835,8 +30513,7 @@
       "SID_竜石のブーケ",
       "SID_竜石のブーケ＋"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_魔器エル",
@@ -30907,8 +30584,7 @@
       "SID_銀の剣",
       "SID_鋼の剣"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_双界ネフェニー",
@@ -30943,8 +30619,7 @@
       "SID_速さ魔防の牽制2",
       "SID_速さ魔防の牽制3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ネフェニー",
@@ -30974,8 +30649,7 @@
       "SID_鉄の槍",
       "SID_鋼の槍"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_舞踏ネフェニー",
@@ -31046,8 +30720,7 @@
       "SID_近反・強化増幅",
       "SID_近距離反撃"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_水着ネルトゥス",
@@ -31121,8 +30794,7 @@
       "SID_疾風迅雷",
       "SID_若獣の化身・騎馬"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_年明ネルトゥス",
@@ -31155,8 +30827,7 @@
       "SID_速さの紫煙3",
       "SID_速さの紫煙4"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ニザヴェリル味方",
@@ -31187,8 +30858,7 @@
       "SID_鋼の弓",
       "SID_限界死線"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_年明ニーズヘッグ",
@@ -31221,8 +30891,7 @@
       "SID_遠距離警戒2",
       "SID_遠距離警戒3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ニーズヘッグ味方",
@@ -31255,8 +30924,7 @@
       "SID_鎧の護り手・遠間2",
       "SID_鎧の護り手・遠間3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ニフル味方",
@@ -31288,8 +30956,7 @@
       "SID_絶氷のブレス",
       "SID_魔防の応援"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_水着ニフル",
@@ -31401,8 +31068,7 @@
       "SID_魔防の紋章2",
       "SID_魔防の紋章3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ハロゼロ",
@@ -31590,8 +31256,7 @@
       "SID_鉄の弓",
       "SID_鋼の弓"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_比翼エポニーヌ",
@@ -31626,8 +31291,7 @@
       "SID_銀の暗器",
       "SID_鋼の暗器"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_花嫁ニニアン",
@@ -31741,8 +31405,7 @@
       "SID_青への暗闘2",
       "SID_青への暗闘3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ニニアン",
@@ -31770,8 +31433,7 @@
       "SID_離脱の行路2",
       "SID_離脱の行路3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_水着ニノ",
@@ -31804,8 +31466,7 @@
       "SID_陽影",
       "SID_黒い牙の絆"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_響心ニノ",
@@ -31838,8 +31499,7 @@
       "SID_鬼神飛燕の一撃2",
       "SID_鬼神飛燕の柔撃3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_冬祭ニノ",
@@ -31996,8 +31656,7 @@
       "SID_速さの先制3",
       "SID_魔道の寵子の羅針盤"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ノア",
@@ -32027,8 +31686,7 @@
       "SID_銀の槍",
       "SID_鋼の槍"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_忍者ノワール",
@@ -32100,8 +31758,7 @@
       "SID_魔道の刃2",
       "SID_魔道の刃3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_水着ノワール",
@@ -32170,8 +31827,7 @@
       "SID_鍛錬の鼓動・謀策",
       "SID_魔防封じ1"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_水着ノルン",
@@ -32303,8 +31959,7 @@
       "SID_銀の槍",
       "SID_鋼の槍"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ハロノノ",
@@ -32333,8 +31988,7 @@
       "SID_豊穣の喜び",
       "SID_飛刃の鼓舞"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ノノ",
@@ -32405,8 +32059,7 @@
       "SID_鬼神明鏡の掩撃",
       "SID_魔器メデューサ"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ニーナ",
@@ -32517,8 +32170,7 @@
       "SID_鼓動の封緘・奇数2",
       "SID_鼓動の封緘・奇数3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_オボロ",
@@ -32650,8 +32302,7 @@
       "SID_鉄の剣",
       "SID_鋼の剣"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_水着オグマ",
@@ -32760,8 +32411,7 @@
       "SID_鬼神明鏡の一撃1",
       "SID_鬼神明鏡の一撃2"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_オリヴィエ",
@@ -32787,8 +32437,7 @@
       "SID_銀の剣＋",
       "SID_鋼の剣"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_舞踏祭オリヴィエ",
@@ -32857,8 +32506,7 @@
       "SID_銀の剣",
       "SID_鋼の剣"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_水着オリヴィエ",
@@ -32923,8 +32571,7 @@
       "SID_魔防の紋章1",
       "SID_魔防の紋章2"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_オルエン2",
@@ -32998,8 +32645,7 @@
       "SID_魔防の封印2",
       "SID_魔防の封印3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_魔器オフェリア",
@@ -33033,8 +32679,7 @@
       "SID_月光",
       "SID_魔器ルナイクリプス"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_オロチ",
@@ -33107,8 +32752,7 @@
       "SID_銀の槍",
       "SID_鋼の槍"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_オスカー",
@@ -33243,8 +32887,7 @@
       "SID_鬼神金剛の構え1",
       "SID_鬼神金剛の構え2"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_オッテル味方",
@@ -33284,8 +32927,7 @@
       "SID_銀の斧",
       "SID_鋼の斧"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ウード",
@@ -33521,8 +33163,7 @@
       "SID_鬼神明鏡の一撃2",
       "SID_鬼神明鏡の瞬撃3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_水着外伝パオラ",
@@ -33552,8 +33193,7 @@
       "SID_鉄の斧",
       "SID_鋼の斧"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_パンドロ",
@@ -33586,8 +33226,7 @@
       "SID_魔防の大紋章2",
       "SID_魔防の紋章1"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_パネトネ",
@@ -33616,8 +33255,7 @@
       "SID_銀の斧",
       "SID_鋼の斧"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ベルベット",
@@ -33646,8 +33284,7 @@
       "SID_速さの封印2",
       "SID_速さの封印3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_年明ベルベット",
@@ -33676,8 +33313,7 @@
       "SID_速さ守備の凪2",
       "SID_速さ守備の凪3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_パティ",
@@ -33744,8 +33380,7 @@
       "SID_攻撃魔防の信義3",
       "SID_祈り"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_花婿パント",
@@ -33818,8 +33453,7 @@
       "SID_緑の死闘・歩行4",
       "SID_銀の魔道軍将の書"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_比翼ピアニー",
@@ -33853,8 +33487,7 @@
       "SID_魔防の魅了2",
       "SID_魔防の魅了3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ピアニー2味方",
@@ -33890,8 +33523,7 @@
       "SID_鋼の斧",
       "SID_響・攻撃の信義"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_神階ピアニー",
@@ -33929,8 +33561,7 @@
       "SID_魔防の鼓舞3",
       "SID_魔防の鼓舞4"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_パーシバル",
@@ -34002,8 +33633,7 @@
       "SID_魔防2",
       "SID_魔防3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_パーン",
@@ -34032,8 +33662,7 @@
       "SID_銀の暗器",
       "SID_鋼の暗器"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_水着ペトラ",
@@ -34145,8 +33774,7 @@
       "SID_銀の槍",
       "SID_鋼の槍"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_フィレイン",
@@ -34213,8 +33841,7 @@
       "SID_銀の剣",
       "SID_鋼の剣"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_プルメリア味方",
@@ -34249,8 +33876,7 @@
       "SID_速さの混乱2",
       "SID_速さの混乱3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_魔器プルメリア味方",
@@ -34285,8 +33911,7 @@
       "SID_魔防の謀策2",
       "SID_魔防の謀策3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_双界プルメリア",
@@ -34321,8 +33946,7 @@
       "SID_鋼の槍",
       "SID_魔防の城塞1"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_年明プルメリア",
@@ -34435,8 +34059,7 @@
       "SID_治癒",
       "SID_静水の祝福"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_パイソン",
@@ -34611,8 +34234,7 @@
       "SID_邪竜石・屠",
       "SID_重装の大炎"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_花婿ラフィエル",
@@ -34719,8 +34341,7 @@
       "SID_獣盾の紋章",
       "SID_若獣の化身・騎馬"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_砂漠ラファエル",
@@ -34790,8 +34411,7 @@
       "SID_絶対化身・敏捷4",
       "SID_若獣の化身・騎馬"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ラス",
@@ -34938,8 +34558,7 @@
       "SID_飛燕の一撃2",
       "SID_飛燕の一撃3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_年明レギン",
@@ -34971,8 +34590,7 @@
       "SID_鬼神飛燕の一撃3",
       "SID_魔弾"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_レギン",
@@ -35008,8 +34626,7 @@
       "SID_魔弾",
       "SID_魔弾・神"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_レギン2味方",
@@ -35045,8 +34662,7 @@
       "SID_銀の槍",
       "SID_鋼の槍"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_忍者ユウギリ",
@@ -35075,8 +34691,7 @@
       "SID_鉄の弓",
       "SID_鋼の弓"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_舞踏ラインハルト",
@@ -35230,8 +34845,7 @@
       "SID_鬼神の一撃2",
       "SID_鬼神の一撃3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_レナック",
@@ -35261,8 +34875,7 @@
       "SID_鉄の暗器",
       "SID_鋼の暗器"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_リュシオン",
@@ -35290,8 +34903,7 @@
       "SID_魔防の鼓舞1",
       "SID_魔防の鼓舞2"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_シャラ",
@@ -35321,8 +34933,7 @@
       "SID_遠距離防御2",
       "SID_遠距離防御3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_比翼レア",
@@ -35355,8 +34966,7 @@
       "SID_近距離警戒2",
       "SID_近距離警戒3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_暴走レア",
@@ -35387,8 +34997,7 @@
       "SID_金剛明鏡の構え2",
       "SID_金剛明鏡の構え3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_レア",
@@ -35416,8 +35025,7 @@
       "SID_真竜鱗障壁",
       "SID_福音のブレス"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ハロレア",
@@ -35488,8 +35096,7 @@
       "SID_魔防の大紋章2",
       "SID_魔防の紋章1"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_怪盗リカード",
@@ -35595,8 +35202,7 @@
       "SID_氷点",
       "SID_氷華"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_舞踏リネア",
@@ -35624,8 +35230,7 @@
       "SID_銀のゴブレット＋",
       "SID_静水の舞い1"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_炎部族リンカ",
@@ -35653,8 +35258,7 @@
       "SID_鉄の剣",
       "SID_鋼の剣"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_リンカ",
@@ -35684,8 +35288,7 @@
       "SID_銀の斧",
       "SID_鋼の斧"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_総選挙ルフレ男",
@@ -35717,8 +35320,7 @@
       "SID_銀の剣",
       "SID_鋼の剣"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_伝承ルフレ男",
@@ -35749,8 +35351,7 @@
       "SID_華炎",
       "SID_蛍火"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_総選挙ルフレ女",
@@ -35783,8 +35384,7 @@
       "SID_陽光",
       "SID_陽影"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ハロルフレ男",
@@ -35898,8 +35498,7 @@
       "SID_鬼神飛燕の一撃2",
       "SID_鬼神飛燕の柔撃3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_邪竜ルフレ男",
@@ -35967,8 +35566,7 @@
       "SID_邪竜の重鱗",
       "SID_魔器ギムレー"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_伝承ルフレ女",
@@ -36002,8 +35600,7 @@
       "SID_魔防の紫煙2",
       "SID_魔防の紫煙3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_冬祭ルフレ男",
@@ -36031,8 +35628,7 @@
       "SID_鉄の槍",
       "SID_鋼の槍"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ルフレ男",
@@ -36140,8 +35736,7 @@
       "SID_魔防の覚醒2",
       "SID_魔防の覚醒3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_水着ルフレ女",
@@ -36208,8 +35803,7 @@
       "SID_鎧の護り手・遠間2",
       "SID_鎧の護り手・遠間3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_比翼ルフレ女",
@@ -36243,8 +35837,7 @@
       "SID_陽光",
       "SID_陽影"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ロディ",
@@ -36310,8 +35903,7 @@
       "SID_鉄の弓",
       "SID_鋼の弓"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ロナン",
@@ -36343,8 +35935,7 @@
       "SID_飛燕明鏡の構え3",
       "SID_魔防の応援"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ロサード",
@@ -36375,8 +35966,7 @@
       "SID_飛竜行空3",
       "SID_飛竜裂空"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ロシェ",
@@ -36502,8 +36092,7 @@
       "SID_鬼神金剛の一撃2",
       "SID_鬼神金剛の迫撃3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_伝承ロイ",
@@ -36537,8 +36126,7 @@
       "SID_鋼の剣",
       "SID_魔竜封印の剣"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_総選挙ロイ",
@@ -36568,8 +36156,7 @@
       "SID_飛燕金剛の一撃1",
       "SID_飛燕金剛の一撃2"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ロイ",
@@ -36653,8 +36240,7 @@
       "SID_鬼神の一撃2",
       "SID_鬼神の一撃3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_愛の祭ルドルフ",
@@ -36684,8 +36270,7 @@
       "SID_銀の槍",
       "SID_鋼の槍"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ルーン",
@@ -36718,8 +36303,7 @@
       "SID_鬼神明鏡の一撃2",
       "SID_鬼神明鏡の掩撃"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ルトガー",
@@ -36749,8 +36333,7 @@
       "SID_鋼の剣",
       "SID_雪辱"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_夏祭リョウマ",
@@ -36820,8 +36403,7 @@
       "SID_鋼の剣",
       "SID_雷神刀"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_温泉リョウマ",
@@ -36897,8 +36479,7 @@
       "SID_鬼神飛燕の構え1",
       "SID_鬼神飛燕の構え2"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_セーバー",
@@ -36928,8 +36509,7 @@
       "SID_鋼の剣",
       "SID_黄金の短剣"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ジャハナセーバー",
@@ -37040,8 +36620,7 @@
       "SID_離脱の行路2",
       "SID_離脱の行路3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_セイン",
@@ -37072,8 +36651,7 @@
       "SID_銀の槍",
       "SID_鋼の槍"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_サイゾウ",
@@ -37183,8 +36761,7 @@
       "SID_鉄の暗器",
       "SID_鋼の暗器"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_温泉サクラ",
@@ -37263,8 +36840,7 @@
       "SID_祈り",
       "SID_重圧の聖光"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_サクラ",
@@ -37370,8 +36946,7 @@
       "SID_氷点",
       "SID_氷華"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_花嫁サナキ",
@@ -37399,8 +36974,7 @@
       "SID_攻撃魔防の絆2",
       "SID_攻撃魔防の絆3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_サナキ",
@@ -37428,8 +37002,7 @@
       "SID_相性激化2",
       "SID_相性激化3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_比翼サナキ",
@@ -37464,8 +37037,7 @@
       "SID_魔防の混乱2",
       "SID_魔防の混乱3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_サラ",
@@ -37779,8 +37351,7 @@
       "SID_鉄の弓",
       "SID_鋼の弓"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_セイズ",
@@ -37812,8 +37383,7 @@
       "SID_氷蒼",
       "SID_魔防の封印1"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_比翼セイズ",
@@ -37845,8 +37415,7 @@
       "SID_魔防の混乱2",
       "SID_魔防の混乱3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_神階セイロス",
@@ -37882,8 +37451,7 @@
       "SID_鬼神明鏡の一撃2",
       "SID_鬼神明鏡の瞬撃3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_愛の祭セライナ",
@@ -37913,8 +37481,7 @@
       "SID_攻撃魔防の遠影2",
       "SID_攻撃魔防の遠影3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ルーナ",
@@ -38008,8 +37575,7 @@
       "SID_死線3",
       "SID_死線4"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_水着セライナ",
@@ -38038,8 +37604,7 @@
       "SID_速さ魔防の干渉2",
       "SID_速さ魔防の干渉3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_総選挙セリス",
@@ -38070,8 +37635,7 @@
       "SID_銀の剣",
       "SID_鋼の剣"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_セリス",
@@ -38099,8 +37663,7 @@
       "SID_銀の剣",
       "SID_鋼の剣"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_花婿セリス",
@@ -38133,8 +37696,7 @@
       "SID_鋼の斧",
       "SID_霞切り"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_伝承セリス",
@@ -38165,8 +37727,7 @@
       "SID_銀の剣",
       "SID_鋼の剣"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_キヌ",
@@ -38198,8 +37759,7 @@
       "SID_魔防の波・偶数2",
       "SID_魔防の波・偶数3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_年明キヌ",
@@ -38312,8 +37872,7 @@
       "SID_治癒",
       "SID_疾風の祝福"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_セテス",
@@ -38616,8 +38175,7 @@
       "SID_銀の弓",
       "SID_鋼の弓"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_比翼シャミア",
@@ -38652,8 +38210,7 @@
       "SID_鬼神飛燕の一撃2",
       "SID_鬼神飛燕の離撃3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_忍者シャミア",
@@ -38820,8 +38377,7 @@
       "SID_飛燕金剛の構え2",
       "SID_飛燕金剛の構え3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_比翼シャロン",
@@ -38854,8 +38410,7 @@
       "SID_銀の槍",
       "SID_鋼の槍"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_シャロン",
@@ -38867,8 +38422,7 @@
       "ldc": false,
       "foc": false
     },
-    "lowest_rarity": {
-    },
+    "lowest_rarity": {},
     "skill_ids": [
       "SID_フェンサリル",
       "SID_守備の鼓舞1",
@@ -38882,8 +38436,7 @@
       "SID_銀の槍",
       "SID_鋼の槍"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_春祭シャロン",
@@ -38913,8 +38466,7 @@
       "SID_魔防の指揮2",
       "SID_魔防の指揮3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_シーマ",
@@ -38942,8 +38494,7 @@
       "SID_鋼の斧",
       "SID_長盾"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_伝承シェズ男",
@@ -38976,8 +38527,7 @@
       "SID_鼓動の幻煙3",
       "SID_鼓動の暗煙"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_シェズ女",
@@ -39174,8 +38724,7 @@
       "SID_銀の暗器",
       "SID_鋼の暗器"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_冬祭シェズ女",
@@ -39207,8 +38756,7 @@
       "SID_鼓動の幻煙3",
       "SID_鼓動の暗煙"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_舞踏祭シグレ",
@@ -39236,8 +38784,7 @@
       "SID_青魔の技量3",
       "SID_静水の舞い1"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_シグレ",
@@ -39388,8 +38935,7 @@
       "SID_銀の槍",
       "SID_鋼の槍"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ジークベルト",
@@ -39418,8 +38964,7 @@
       "SID_鬼神の一撃3",
       "SID_黒き血の大剣"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_シグルーン",
@@ -39448,8 +38993,7 @@
       "SID_鋼の槍",
       "SID_飛刃の鼓舞"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_花嫁シグルーン",
@@ -39520,8 +39064,7 @@
       "SID_魔防の鼓舞3",
       "SID_黄金のゴブレット"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_伝承シグルド",
@@ -39558,8 +39101,7 @@
       "SID_銀の剣",
       "SID_鋼の剣"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_シグルド",
@@ -39633,8 +39175,7 @@
       "SID_銀の槍",
       "SID_鋼の槍"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_お茶会シグルド",
@@ -39773,8 +39314,7 @@
       "SID_治癒",
       "SID_白百合の杖"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_愛の祭シルク",
@@ -39806,8 +39346,7 @@
       "SID_速さの開放2",
       "SID_速さの開放3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_シルヴィア",
@@ -39880,8 +39419,7 @@
       "SID_鋼の槍",
       "SID_黒騎の孤槍"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ソレイユ",
@@ -39968,8 +39506,7 @@
       "SID_魔防の混乱2",
       "SID_魔防の混乱3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ソーニャ",
@@ -39999,8 +39536,7 @@
       "SID_魔防の城塞1",
       "SID_魔防の威嚇1"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_魔器ソニア",
@@ -40075,8 +39611,7 @@
       "SID_速さ魔防の牽制3",
       "SID_魔防の封印1"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ソニア",
@@ -40105,8 +39640,7 @@
       "SID_魔防の謀策2",
       "SID_魔防の謀策3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ハロソフィーヤ",
@@ -40174,8 +39708,7 @@
       "SID_魔防の鼓舞2",
       "SID_魔防の鼓舞3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_花嫁ソフィーヤ",
@@ -40372,8 +39905,7 @@
       "SID_魔防の鼓舞2",
       "SID_魔防の鼓舞3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_カダインセネリオ",
@@ -40448,8 +39980,7 @@
       "SID_鋼の暗器",
       "SID_魔器・暁風の刃"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_怪盗サザ",
@@ -40578,8 +40109,7 @@
       "SID_竜の魔鱗3",
       "SID_陽影"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_神階ソティス",
@@ -40616,8 +40146,7 @@
       "SID_見切り・反撃不可3",
       "SID_陽影"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_冬祭ソティス",
@@ -40649,8 +40178,7 @@
       "SID_陽影",
       "SID_魔防の威嚇1"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ソール",
@@ -40774,8 +40302,7 @@
       "SID_鬼神飛燕の一撃1",
       "SID_鬼神飛燕の一撃2"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ソワレ",
@@ -40843,8 +40370,7 @@
       "SID_鉄の槍",
       "SID_鋼の槍"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_海賊スルト",
@@ -40916,8 +40442,7 @@
       "SID_銀の斧",
       "SID_鋼の斧"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_シルヴァン",
@@ -41028,8 +40553,7 @@
       "SID_銀の槍",
       "SID_鋼の槍"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_シレーネ",
@@ -41060,8 +40584,7 @@
       "SID_銀の剣",
       "SID_鋼の剣"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_お茶会ティルテュ",
@@ -41186,8 +40709,7 @@
       "SID_鋼の弓",
       "SID_雪辱"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_水着タクミ",
@@ -41298,8 +40820,7 @@
       "SID_飛燕明鏡の構え2",
       "SID_飛燕明鏡の構え3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_タクミ",
@@ -41326,8 +40847,7 @@
       "SID_雪辱",
       "SID_風神弓"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_浴衣タクミ",
@@ -41440,8 +40960,7 @@
       "SID_速さの応援",
       "SID_速さ魔防の応援"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_年明ターナ",
@@ -41469,8 +40988,7 @@
       "SID_銀の剣",
       "SID_鋼の剣"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_魔器ターナ",
@@ -41546,8 +41064,7 @@
       "SID_風薙ぎ2",
       "SID_風薙ぎ3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ターナ",
@@ -41866,8 +41383,7 @@
       "SID_迎撃隊形3",
       "SID_近距離反撃"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_水着サーリャ",
@@ -41895,8 +41411,7 @@
       "SID_速さ魔防の遠影2",
       "SID_速さ魔防の遠影3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_サーリャ",
@@ -41926,8 +41441,7 @@
       "SID_魔防の紋章2",
       "SID_魔防の紋章3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_砂漠サーリャ",
@@ -42001,8 +41515,7 @@
       "SID_速さ魔防の大混乱",
       "SID_響・十字牽制"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_花嫁サーリャ",
@@ -42031,8 +41544,7 @@
       "SID_速さの共謀3",
       "SID_速さの応援"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_忍者サーリャ",
@@ -42067,8 +41579,7 @@
       "SID_魔防の紫煙2",
       "SID_魔防の紫煙3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ティト",
@@ -42179,8 +41690,7 @@
       "SID_神槌大地を穿つ",
       "SID_雷神と戯神の気紛れ"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_トール味方",
@@ -42216,8 +41726,7 @@
       "SID_銀の斧",
       "SID_鋼の斧"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_スラシル味方",
@@ -42253,8 +41762,7 @@
       "SID_死んでほしいの",
       "SID_死んでほしいの・神"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ティバーン",
@@ -42287,8 +41795,7 @@
       "SID_鬼神金剛の一撃3",
       "SID_鷹王の嘴爪"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_海賊ティバーン",
@@ -42363,8 +41870,7 @@
       "SID_速さ魔防の防壁2",
       "SID_速さ魔防の防壁3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_水着チキ",
@@ -42394,8 +41900,7 @@
       "SID_竜の技量2",
       "SID_竜の技量3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_双界チキ覚醒",
@@ -42427,8 +41932,7 @@
       "SID_鬼神明鏡の構え2",
       "SID_鬼神明鏡の構え3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_チキ",
@@ -42458,8 +41962,7 @@
       "SID_金剛の一撃3",
       "SID_霧のブレス"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_響心若年チキ",
@@ -42491,8 +41994,7 @@
       "SID_遠距離反撃",
       "SID_響・魔防の竜眼"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_総選挙覚醒チキ",
@@ -42524,8 +42026,7 @@
       "SID_灼熱のブレス",
       "SID_魔防の威嚇1"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_双界チキ",
@@ -42557,8 +42058,7 @@
       "SID_速さの大応援＋",
       "SID_速さの応援"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_伝承チキ",
@@ -42592,8 +42092,7 @@
       "SID_鬼神の構え1",
       "SID_鬼神の構え2"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_チキ覚醒",
@@ -42662,8 +42161,7 @@
       "SID_鋼の斧",
       "SID_陽影"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_催眠チキ",
@@ -42693,8 +42191,7 @@
       "SID_華炎",
       "SID_蛍火"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_響心ミスティラ",
@@ -42731,8 +42228,7 @@
       "SID_闘いの熱砂の槍",
       "SID_響・始まりの鼓動"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ハロミスティラ",
@@ -42768,8 +42264,7 @@
       "SID_銀の槍",
       "SID_鋼の槍"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ティナ",
@@ -42846,8 +42341,7 @@
       "SID_速さ魔防の遠影3",
       "SID_速さ魔防の遠影4"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ティニー",
@@ -42918,8 +42412,7 @@
       "SID_鉄の斧",
       "SID_鋼の斧"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_愛の祭ティアマト",
@@ -42947,8 +42440,7 @@
       "SID_花輪",
       "SID_花輪＋"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ロビン",
@@ -42977,8 +42469,7 @@
       "SID_鋼の剣",
       "SID_雀躍の剣"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ナバタトパック",
@@ -43007,8 +42498,7 @@
       "SID_速さ魔防の拍節2",
       "SID_速さ魔防の拍節3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_トラバント",
@@ -43038,8 +42528,7 @@
       "SID_飛行の先導2",
       "SID_飛行の先導3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_スカビオサ味方",
@@ -43077,8 +42566,7 @@
       "SID_速さ魔防の牽制2",
       "SID_速さ魔防の牽制3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_スカビオサ2",
@@ -43114,8 +42602,7 @@
       "SID_鋼の剣",
       "SID_響・鬼神の一撃"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_春祭スカビオサ",
@@ -43187,8 +42674,7 @@
       "SID_鋼の槍",
       "SID_飛刃の鼓舞"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_神階ウル",
@@ -43225,8 +42711,7 @@
       "SID_銀の弓",
       "SID_鋼の弓"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_闇ウルスラ",
@@ -43261,8 +42746,7 @@
       "SID_魔防の紫煙2",
       "SID_魔防の紫煙3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ウルスラ",
@@ -43292,8 +42776,7 @@
       "SID_魔防の威嚇2",
       "SID_魔防の威嚇3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_水着ウルスラ",
@@ -43403,8 +42886,7 @@
       "SID_鉄の斧",
       "SID_鋼の斧"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ヴァイダ",
@@ -43433,8 +42915,7 @@
       "SID_飛竜行空2",
       "SID_飛竜行空3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_水着ヴェイク",
@@ -43541,8 +43022,7 @@
       "SID_氷華",
       "SID_禁書ギムレー"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ヴァルター",
@@ -43571,8 +43051,7 @@
       "SID_飛燕の一撃3",
       "SID_魔性の槍"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ヴァネッサ",
@@ -43640,8 +43119,7 @@
       "SID_魔防の開放2",
       "SID_魔防の開放3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_年明ベロア",
@@ -43668,8 +43146,7 @@
       "SID_遠距離反撃",
       "SID_陽影"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ベロア",
@@ -43698,8 +43175,7 @@
       "SID_近距離防御2",
       "SID_近距離防御3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_愛の祭ヴェロニカ",
@@ -43771,8 +43247,7 @@
       "SID_近距離警戒2",
       "SID_近距離警戒3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_双界ヴェロニカ",
@@ -43805,8 +43280,7 @@
       "SID_銀の斧",
       "SID_鋼の斧"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ヴェロニカ2味方",
@@ -43841,8 +43315,7 @@
       "SID_閉界",
       "SID_雪辱"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_春祭ヴェロニカ",
@@ -43913,8 +43386,7 @@
       "SID_邪竜の後継者",
       "SID_邪竜ノ娘の魔書"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_神階ヴェイル",
@@ -43946,8 +43418,7 @@
       "SID_氷蒼",
       "SID_邪竜の救済"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_春祭ヴェイル",
@@ -43979,8 +43450,7 @@
       "SID_氷蒼",
       "SID_邪竜の王女"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ヴィガルド",
@@ -44009,8 +43479,7 @@
       "SID_鉄の槍",
       "SID_鋼の槍"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_愛の祭ヴィガルド",
@@ -44241,8 +43710,7 @@
       "SID_銀の斧",
       "SID_鋼の斧"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ウィル",
@@ -44313,8 +43781,7 @@
       "SID_銀の弓",
       "SID_鋼の弓"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_水着ウォルト",
@@ -44343,8 +43810,7 @@
       "SID_鉄の弓",
       "SID_鋼の弓"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_リフ",
@@ -44450,8 +43916,7 @@
       "SID_銀の剣",
       "SID_鋼の剣"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_伝承マークス",
@@ -44487,8 +43952,7 @@
       "SID_騎士道・承",
       "SID_黒斧ベルヴェルク"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_マークス",
@@ -44517,8 +43981,7 @@
       "SID_銀の剣",
       "SID_鋼の剣"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_春祭マークス",
@@ -44544,8 +44007,7 @@
       "SID_鉄の槍",
       "SID_鋼の槍"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_水着マークス",
@@ -44574,8 +44036,7 @@
       "SID_鉄の斧",
       "SID_鋼の斧"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ハロチェイニー",
@@ -44603,8 +44064,7 @@
       "SID_歩行の魔刃2",
       "SID_歩行の魔刃3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ハタリチェイニー",
@@ -44674,8 +44134,7 @@
       "SID_速さ魔防の拍節2",
       "SID_速さ魔防の拍節3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_年明シャンブレー",
@@ -44748,8 +44207,7 @@
       "SID_離脱の行路2",
       "SID_離脱の行路3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ハロシャンブレー",
@@ -44818,8 +44276,7 @@
       "SID_鬼神飛燕の構え1",
       "SID_鬼神飛燕の構え2"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_水着ユルグ",
@@ -44848,8 +44305,7 @@
       "SID_鉄の斧",
       "SID_鋼の斧"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ユルグ",
@@ -44922,8 +44378,7 @@
       "SID_火炎のブレス",
       "SID_灼熱のブレス"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_比翼ユーミル",
@@ -44955,8 +44410,7 @@
       "SID_生命の静水3",
       "SID_真夏の生命の輝き"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ユキムラ",
@@ -44987,8 +44441,7 @@
       "SID_銀の暗器",
       "SID_鋼の暗器"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ユミナ",
@@ -45064,8 +44517,7 @@
       "SID_露払い3",
       "SID_露払い・攻め立て"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_冬祭ユナカ",
@@ -45100,8 +44552,7 @@
       "SID_鬼神飛燕の一撃2",
       "SID_鬼神飛燕の炎撃3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_神階ユンヌ",
@@ -45133,8 +44584,7 @@
       "SID_魔防の混乱2",
       "SID_魔防の混乱3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ユーリス",
@@ -45166,8 +44616,7 @@
       "SID_銀の暗器",
       "SID_鋼の暗器"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_水着ユーリス",
@@ -45231,8 +44680,7 @@
       "SID_魔道の刃2",
       "SID_魔道の刃3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ツァイス",
@@ -45261,8 +44709,7 @@
       "SID_鉄の槍",
       "SID_鋼の槍"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ジーク",
@@ -45334,8 +44781,7 @@
       "SID_攻撃速さの牽制3",
       "SID_月虹"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ゼルギウス",
@@ -45366,8 +44812,7 @@
       "SID_鬼神の構え3",
       "SID_黒の月光"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_忍者ゼルギウス",
@@ -45400,8 +44845,7 @@
       "SID_銀の槍",
       "SID_鋼の槍"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_花婿ゼロット",
@@ -45469,8 +44913,7 @@
       "SID_風薙ぎ2",
       "SID_風薙ぎ3"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_ゼフィール",
@@ -45499,8 +44942,7 @@
       "SID_鋼の剣",
       "SID_雪辱"
     ],
-    "divine_codes": {
-    }
+    "divine_codes": {}
   },
   {
     "id": "PID_冬祭若ゼフィール",

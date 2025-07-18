@@ -19164,6 +19164,78 @@
     "unlock": 4
   },
   {
+    "unit_id": "PID_ダグダ",
+    "skill_id": "SID_攻撃守備の信義1",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_ダグダ",
+    "skill_id": "SID_攻撃守備の信義2",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_ダグダ",
+    "skill_id": "SID_攻撃守備の信義3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_ダグダ",
+    "skill_id": "SID_強化増幅1",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_ダグダ",
+    "skill_id": "SID_強化増幅2",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_ダグダ",
+    "skill_id": "SID_強化増幅3",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_ダグダ",
+    "skill_id": "SID_蛍火",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_ダグダ",
+    "skill_id": "SID_華炎",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_ダグダ",
+    "skill_id": "SID_鉄の斧",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_ダグダ",
+    "skill_id": "SID_強化反転の斧",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_ダグダ",
+    "skill_id": "SID_強化反転の斧＋",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_ダグダ",
+    "skill_id": "SID_鋼の斧",
+    "default": 2,
+    "unlock": 2
+  },
+  {
     "unit_id": "PID_風部族ダグ",
     "skill_id": "SID_攻撃速さの奮進4",
     "default": 0,
@@ -42162,6 +42234,72 @@
     "unlock": 5
   },
   {
+    "unit_id": "PID_ホメロス",
+    "skill_id": "SID_ブラークラブ",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_ホメロス",
+    "skill_id": "SID_ブラークラブ＋",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_ホメロス",
+    "skill_id": "SID_速さの封印1",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_ホメロス",
+    "skill_id": "SID_速さ魔防の封印1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_ホメロス",
+    "skill_id": "SID_速さ魔防の封印2",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_ホメロス",
+    "skill_id": "SID_引き寄せ",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_ホメロス",
+    "skill_id": "SID_エルサンダー",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_ホメロス",
+    "skill_id": "SID_速さ魔防の信義1",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_ホメロス",
+    "skill_id": "SID_速さ魔防の信義2",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_ホメロス",
+    "skill_id": "SID_速さ魔防の信義3",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_ホメロス",
+    "skill_id": "SID_サンダー",
+    "default": 1,
+    "unlock": 1
+  },
+  {
     "unit_id": "PID_魔器オルテンシア",
     "skill_id": "SID_魔器・愛らしい雪杖",
     "default": 0,
@@ -54156,6 +54294,126 @@
     "unlock": 3
   },
   {
+    "unit_id": "PID_響心リーフ",
+    "skill_id": "SID_強弓・呼吸",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_響心リーフ",
+    "skill_id": "SID_金剛の一撃1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_響心リーフ",
+    "skill_id": "SID_流星",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_響心リーフ",
+    "skill_id": "SID_忠臣との絆の弓",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_響心リーフ",
+    "skill_id": "SID_鉄の弓",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_響心リーフ",
+    "skill_id": "SID_星影",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_響心リーフ",
+    "skill_id": "SID_守備封じ1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_響心リーフ",
+    "skill_id": "SID_守備封じ2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_響心リーフ",
+    "skill_id": "SID_守備封じ3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_響心リーフ",
+    "skill_id": "SID_影助・引き戻し1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_響心リーフ",
+    "skill_id": "SID_影助・引き戻し2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_響心リーフ",
+    "skill_id": "SID_影助・引き戻し3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_響心リーフ",
+    "skill_id": "SID_影助・引き戻し4",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_響心リーフ",
+    "skill_id": "SID_銀の弓",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_響心リーフ",
+    "skill_id": "SID_響・掩撃",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_響心リーフ",
+    "skill_id": "SID_鋼の弓",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_響心リーフ",
+    "skill_id": "SID_鬼神金剛の一撃1",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_響心リーフ",
+    "skill_id": "SID_鬼神金剛の一撃2",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_響心リーフ",
+    "skill_id": "SID_鬼神金剛の炎撃3",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_響心リーフ",
+    "skill_id": "SID_真・ノヴァの聖戦士",
+    "default": 0,
+    "unlock": 5
+  },
+  {
     "unit_id": "PID_伝承リーフ",
     "skill_id": "SID_流星",
     "default": 0,
@@ -57754,6 +58012,102 @@
     "skill_id": "SID_止水3",
     "default": 0,
     "unlock": 5
+  },
+  {
+    "unit_id": "PID_リノアン",
+    "skill_id": "SID_アサルト",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_リノアン",
+    "skill_id": "SID_攻撃魔防の密集1",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_リノアン",
+    "skill_id": "SID_攻撃魔防の密集2",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_リノアン",
+    "skill_id": "SID_攻撃魔防の密集3",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_リノアン",
+    "skill_id": "SID_疾風静水の祝福",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_リノアン",
+    "skill_id": "SID_速さの大紋章1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_リノアン",
+    "skill_id": "SID_速さの大紋章2",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_リノアン",
+    "skill_id": "SID_ライブ",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_リノアン",
+    "skill_id": "SID_治癒",
+    "default": 4,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_リノアン",
+    "skill_id": "SID_グループ",
+    "default": 3,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_リノアン",
+    "skill_id": "SID_グループ＋",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_リノアン",
+    "skill_id": "SID_リライブ",
+    "default": 3,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_リノアン",
+    "skill_id": "SID_リカバー",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_リノアン",
+    "skill_id": "SID_リカバー＋",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_リノアン",
+    "skill_id": "SID_速さの紋章1",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_リノアン",
+    "skill_id": "SID_疾風の祝福",
+    "default": 5,
+    "unlock": 3
   },
   {
     "unit_id": "PID_ライナス",
@@ -62586,6 +62940,90 @@
     "unlock": 1
   },
   {
+    "unit_id": "PID_魔器マチュア",
+    "skill_id": "SID_魔器・マギ団の剣",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_魔器マチュア",
+    "skill_id": "SID_攻撃速さの信念",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_魔器マチュア",
+    "skill_id": "SID_攻撃速さの信義1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_魔器マチュア",
+    "skill_id": "SID_攻撃速さの信義2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_魔器マチュア",
+    "skill_id": "SID_攻撃速さの信義3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_魔器マチュア",
+    "skill_id": "SID_遠反・強化増幅",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_魔器マチュア",
+    "skill_id": "SID_遠距離反撃",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_魔器マチュア",
+    "skill_id": "SID_凶星",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_魔器マチュア",
+    "skill_id": "SID_陣風",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_魔器マチュア",
+    "skill_id": "SID_熱血",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_魔器マチュア",
+    "skill_id": "SID_鉄の剣",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_魔器マチュア",
+    "skill_id": "SID_星影",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_魔器マチュア",
+    "skill_id": "SID_銀の剣",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_魔器マチュア",
+    "skill_id": "SID_鋼の剣",
+    "default": 2,
+    "unlock": 2
+  },
+  {
     "unit_id": "PID_メイ",
     "skill_id": "SID_青魔の経験1",
     "default": 0,
@@ -65848,6 +66286,120 @@
     "skill_id": "SID_飛竜行空3",
     "default": 0,
     "unlock": 4
+  },
+  {
+    "unit_id": "PID_メリアエ味方",
+    "skill_id": "SID_鎧の護り手・近・茨",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_メリアエ味方",
+    "skill_id": "SID_鎧の護り手・近間1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_メリアエ味方",
+    "skill_id": "SID_鎧の護り手・近間2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_メリアエ味方",
+    "skill_id": "SID_鎧の護り手・近間3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_メリアエ味方",
+    "skill_id": "SID_成獣の化身・重装",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_メリアエ味方",
+    "skill_id": "SID_攻撃守備の密集1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_メリアエ味方",
+    "skill_id": "SID_攻撃守備の密集2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_メリアエ味方",
+    "skill_id": "SID_攻撃守備の密集3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_メリアエ味方",
+    "skill_id": "SID_攻撃守備の共栄",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_メリアエ味方",
+    "skill_id": "SID_蛍火",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_メリアエ味方",
+    "skill_id": "SID_華炎",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_メリアエ味方",
+    "skill_id": "SID_正面隊形・自己1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_メリアエ味方",
+    "skill_id": "SID_正面隊形・自己2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_メリアエ味方",
+    "skill_id": "SID_正面隊形・自己3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_メリアエ味方",
+    "skill_id": "SID_正面隊形・自己4",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_メリアエ味方",
+    "skill_id": "SID_堅固なる獣",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_メリアエ味方",
+    "skill_id": "SID_漂う者の角",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_メリアエ味方",
+    "skill_id": "SID_幼獣の化身・重装",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_メリアエ味方",
+    "skill_id": "SID_若獣の化身・重装",
+    "default": 2,
+    "unlock": 2
   },
   {
     "unit_id": "PID_メルセデス",
