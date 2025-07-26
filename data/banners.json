@@ -438,6 +438,15 @@
     ]
   },
   {
+    "name": "Att. & Rea. Heroes & Melíai",
+    "unit_ids": [
+      "PID_メリアエ味方",
+      "PID_リノアン",
+      "PID_響心リーフ",
+      "PID_魔器マチュア"
+    ]
+  },
+  {
     "name": "Attuned Alm & Rearmed Nuibaba",
     "unit_ids": [
       "PID_ジェシー",
@@ -2408,6 +2417,15 @@
     ]
   },
   {
+    "name": "Focus: Hall of Forms (Jul 2025)",
+    "unit_ids": [
+      "PID_ユーミル",
+      "PID_比翼トール",
+      "PID_水着ニフル",
+      "PID_水着フレイヤ"
+    ]
+  },
+  {
     "name": "Focus: Hall of Forms (Jun 2023)",
     "unit_ids": [
       "PID_スカサハ",
@@ -4094,6 +4112,14 @@
       "PID_セティ",
       "PID_ラクチェ",
       "PID_催眠ユリア"
+    ]
+  },
+  {
+    "name": "Focus: Heroes with Smoke Skills (Jul 2025)",
+    "unit_ids": [
+      "PID_フェリクス",
+      "PID_魔器スタルーク",
+      "PID_魔器ラインハルト"
     ]
   },
   {
@@ -10602,6 +10628,19 @@
       "PID_魔器ギンヌン味方",
       "PID_魔器プルメリア味方",
       "PID_魔器ルフレ女"
+    ]
+  },
+  {
+    "name": "New Heroes Return (Jul 2025)",
+    "unit_ids": [
+      "PID_闇魔器ルミエル",
+      "PID_響心ブリギッド",
+      "PID_響心ヘクトル",
+      "PID_響心ミスティラ",
+      "PID_魔器アイト味方",
+      "PID_魔器サザ",
+      "PID_魔器リリーナ",
+      "PID_魔器レイラ"
     ]
   },
   {

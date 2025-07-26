@@ -12010,9 +12010,29 @@
     "game8_grade": "A"
   },
   {
+    "id": "SID_速さ魔防の孤軍1",
+    "game8_rating": null,
+    "game8_grade": null
+  },
+  {
+    "id": "SID_速さ魔防の孤軍2",
+    "game8_rating": null,
+    "game8_grade": null
+  },
+  {
+    "id": "SID_速さ魔防の孤軍3",
+    "game8_rating": "8.5",
+    "game8_grade": "A"
+  },
+  {
     "id": "SID_守備魔防の孤軍1",
     "game8_rating": null,
     "game8_grade": null
+  },
+  {
+    "id": "SID_速さ魔防の孤軍4",
+    "game8_rating": "9.0",
+    "game8_grade": "B"
   },
   {
     "id": "SID_守備魔防の孤軍2",
@@ -12033,11 +12053,6 @@
     "id": "SID_守備魔防の孤軍4",
     "game8_rating": "9.0",
     "game8_grade": "A"
-  },
-  {
-    "id": "SID_速さ魔防の孤軍4",
-    "game8_rating": "9.0",
-    "game8_grade": "B"
   },
   {
     "id": "SID_攻撃速さの連帯4",
@@ -16205,6 +16220,11 @@
     "game8_grade": "A"
   },
   {
+    "id": "SID_ユンヌの囁き",
+    "game8_rating": "9.0",
+    "game8_grade": null
+  },
+  {
     "id": "SID_光と闇と",
     "game8_rating": "9.5",
     "game8_grade": null
@@ -18728,6 +18748,36 @@
     "id": "SID_歩行の見切り追撃4",
     "game8_rating": "9.5",
     "game8_grade": "S"
+  },
+  {
+    "id": "SID_快癒・奇数1",
+    "game8_rating": null,
+    "game8_grade": null
+  },
+  {
+    "id": "SID_快癒・奇数2",
+    "game8_rating": null,
+    "game8_grade": null
+  },
+  {
+    "id": "SID_快癒・奇数3",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_快癒・偶数1",
+    "game8_rating": null,
+    "game8_grade": null
+  },
+  {
+    "id": "SID_快癒・偶数2",
+    "game8_rating": null,
+    "game8_grade": null
+  },
+  {
+    "id": "SID_快癒・偶数3",
+    "game8_rating": "9.5",
+    "game8_grade": "A"
   },
   {
     "id": "SID_盾の護り手・近間1",
