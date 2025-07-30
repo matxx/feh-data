@@ -1482,6 +1482,23 @@
     ]
   },
   {
+    "name": "Focus: Double Mythic Heroes (Baldr & Höðr)",
+    "unit_ids": [
+      "PID_エルム味方",
+      "PID_バルドル味方",
+      "PID_ヘズ味方",
+      "PID_ルーン",
+      "PID_伝承アイラ",
+      "PID_伝承カムイ男",
+      "PID_伝承リュール男",
+      "PID_伝承ルフレ男",
+      "PID_神階アトス",
+      "PID_神階ガトー",
+      "PID_神階ヘイズルーン",
+      "PID_魔器ヌイババ"
+    ]
+  },
+  {
     "name": "Focus: Double Mythic Heroes (Eikþyrnir & Heiðrún)",
     "unit_ids": [
       "PID_エイクスルニル味方",

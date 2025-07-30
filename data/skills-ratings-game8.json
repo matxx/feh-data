@@ -285,11 +285,6 @@
     "game8_grade": null
   },
   {
-    "id": "SID_ファルシオン",
-    "game8_rating": "9.0",
-    "game8_grade": null
-  },
-  {
     "id": "SID_ミストルティン",
     "game8_rating": "9.0",
     "game8_grade": null
@@ -1218,6 +1213,11 @@
     "id": "SID_魔器・マギ団の剣",
     "game8_rating": "9.5",
     "game8_grade": "S"
+  },
+  {
+    "id": "SID_天日の神剣",
+    "game8_rating": "9.9",
+    "game8_grade": "SS"
   },
   {
     "id": "SID_忍の刀",
@@ -3691,6 +3691,11 @@
   },
   {
     "id": "SID_金鹿の愛の弓",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_夕影の神弓",
     "game8_rating": "9.5",
     "game8_grade": "S"
   },
@@ -7335,7 +7340,7 @@
     "game8_grade": null
   },
   {
-    "id": "SID_グループ",
+    "id": "SID_グループ＋",
     "game8_rating": "8.5",
     "game8_grade": "B"
   },
@@ -9526,6 +9531,11 @@
   },
   {
     "id": "SID_敏捷なる獣",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_天風",
     "game8_rating": "9.5",
     "game8_grade": "S"
   },
@@ -12250,6 +12260,11 @@
     "game8_grade": "A"
   },
   {
+    "id": "SID_攻撃魔防の制空",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
     "id": "SID_攻撃速さの万全1",
     "game8_rating": null,
     "game8_grade": null
@@ -14505,8 +14520,8 @@
     "game8_grade": null
   },
   {
-    "id": "SID_守備魔防の不和",
-    "game8_rating": "9.0",
+    "id": "SID_攻撃守備の混乱3",
+    "game8_rating": "9.5",
     "game8_grade": "A"
   },
   {
@@ -14515,9 +14530,19 @@
     "game8_grade": null
   },
   {
+    "id": "SID_守備魔防の不和",
+    "game8_rating": "9.0",
+    "game8_grade": "A"
+  },
+  {
     "id": "SID_魔防の混乱3",
     "game8_rating": "8.0",
     "game8_grade": "B"
+  },
+  {
+    "id": "SID_攻撃守備の不和",
+    "game8_rating": "9.0",
+    "game8_grade": "A"
   },
   {
     "id": "SID_攻撃魔防の混乱3",
@@ -14538,11 +14563,6 @@
     "id": "SID_攻撃魔防の大混乱",
     "game8_rating": "9.5",
     "game8_grade": "S"
-  },
-  {
-    "id": "SID_攻撃守備の混乱3",
-    "game8_rating": "9.5",
-    "game8_grade": "A"
   },
   {
     "id": "SID_攻撃魔防の不和",
@@ -16650,6 +16670,11 @@
     "game8_grade": "S"
   },
   {
+    "id": "SID_正義の執行者",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
     "id": "SID_攻撃の鼓舞1",
     "game8_rating": null,
     "game8_grade": null
@@ -17685,6 +17710,11 @@
     "game8_grade": "S"
   },
   {
+    "id": "SID_攻速大牽制・導き手",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
     "id": "SID_速さ守備の牽制3",
     "game8_rating": "9.5",
     "game8_grade": "A"
@@ -17705,14 +17735,14 @@
     "game8_grade": "S"
   },
   {
-    "id": "SID_速守牽制・運び手",
-    "game8_rating": "9.5",
-    "game8_grade": "S"
-  },
-  {
     "id": "SID_攻撃魔防の牽制2",
     "game8_rating": null,
     "game8_grade": null
+  },
+  {
+    "id": "SID_速守牽制・運び手",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
   },
   {
     "id": "SID_速さ守備の十字牽制",
@@ -17725,14 +17755,14 @@
     "game8_grade": "A"
   },
   {
-    "id": "SID_攻撃守備の牽制1",
-    "game8_rating": null,
-    "game8_grade": null
-  },
-  {
     "id": "SID_攻撃魔防の大牽制",
     "game8_rating": "9.5",
     "game8_grade": "A"
+  },
+  {
+    "id": "SID_攻撃守備の牽制1",
+    "game8_rating": null,
+    "game8_grade": null
   },
   {
     "id": "SID_攻撃魔防の十字牽制",
@@ -17760,14 +17790,14 @@
     "game8_grade": null
   },
   {
-    "id": "SID_速さ魔防の十字牽制",
-    "game8_rating": "9.5",
-    "game8_grade": "S"
-  },
-  {
     "id": "SID_速さ魔防の牽制3",
     "game8_rating": "9.5",
     "game8_grade": "A"
+  },
+  {
+    "id": "SID_速さ魔防の十字牽制",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
   },
   {
     "id": "SID_守備魔防の牽制1",
@@ -19350,12 +19380,17 @@
     "game8_grade": "S"
   },
   {
+    "id": "SID_女神を宿せし者",
+    "game8_rating": "9.0",
+    "game8_grade": "A"
+  },
+  {
     "id": "SID_開神の眷属・神",
     "game8_rating": "9.0",
     "game8_grade": "A"
   },
   {
-    "id": "SID_女神を宿せし者",
+    "id": "SID_地上の最後の女神",
     "game8_rating": "9.0",
     "game8_grade": "A"
   },
@@ -19363,11 +19398,6 @@
     "id": "SID_女神を宿せし者・承",
     "game8_rating": "9.5",
     "game8_grade": "S"
-  },
-  {
-    "id": "SID_地上の最後の女神",
-    "game8_rating": "9.0",
-    "game8_grade": "A"
   },
   {
     "id": "SID_地上の最後の…・神",
@@ -19435,12 +19465,12 @@
     "game8_grade": "A"
   },
   {
-    "id": "SID_理想郷となるように",
+    "id": "SID_神竜王の牙・神",
     "game8_rating": "9.5",
     "game8_grade": "A"
   },
   {
-    "id": "SID_神竜王の牙・神",
+    "id": "SID_理想郷となるように",
     "game8_rating": "9.5",
     "game8_grade": "A"
   },
@@ -19490,14 +19520,14 @@
     "game8_grade": null
   },
   {
-    "id": "SID_盟主の鼓動・承",
-    "game8_rating": "9",
-    "game8_grade": null
-  },
-  {
     "id": "SID_束縛、秩序、…・神",
     "game8_rating": "9.5",
     "game8_grade": "S"
+  },
+  {
+    "id": "SID_盟主の鼓動・承",
+    "game8_rating": "9",
+    "game8_grade": null
   },
   {
     "id": "SID_みんなと一緒に・承",
@@ -19515,12 +19545,12 @@
     "game8_grade": null
   },
   {
-    "id": "SID_メガクェイク・神",
+    "id": "SID_神槌大地を穿つ・神",
     "game8_rating": "9.5",
     "game8_grade": "S"
   },
   {
-    "id": "SID_神槌大地を穿つ・神",
+    "id": "SID_メガクェイク・神",
     "game8_rating": "9.5",
     "game8_grade": "S"
   },
@@ -19535,14 +19565,14 @@
     "game8_grade": "A"
   },
   {
-    "id": "SID_永生結界",
-    "game8_rating": "9.5",
-    "game8_grade": "A"
-  },
-  {
     "id": "SID_闇の樹海の守…・承",
     "game8_rating": "9.5",
     "game8_grade": "S"
+  },
+  {
+    "id": "SID_永生結界",
+    "game8_rating": "9.5",
+    "game8_grade": "A"
   },
   {
     "id": "SID_みんなが繋がる世界",
@@ -19761,6 +19791,11 @@
   },
   {
     "id": "SID_真・ドローミの鎖環",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_真実の弁護者",
     "game8_rating": "9.5",
     "game8_grade": "S"
   },

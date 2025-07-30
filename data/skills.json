@@ -1399,6 +1399,7 @@
   },
   {
     "id": "SID_攻速大牽制・導き手",
+    "game8_id": "539559",
     "name": "A/S Hold Guide",
     "group_name": "A/S Hold Guide",
     "category": "passivec",
@@ -7941,6 +7942,7 @@
   },
   {
     "id": "SID_攻撃守備の不和",
+    "game8_id": "539558",
     "name": "Atk/Def Discord",
     "group_name": "Atk/Def Discord",
     "category": "passiveb",
@@ -10351,6 +10353,7 @@
   },
   {
     "id": "SID_攻撃魔防の制空",
+    "game8_id": "539556",
     "name": "Atk/Res Mastery",
     "group_name": "Atk/Res Mastery",
     "category": "passivea",
@@ -26145,6 +26148,7 @@
   },
   {
     "id": "SID_天風",
+    "game8_id": "539555",
     "name": "Celestial Form",
     "group_name": "Celestial Form",
     "category": "special",
@@ -40897,6 +40901,7 @@
   },
   {
     "id": "SID_夕影の神弓",
+    "game8_id": "539554",
     "name": "Dusk Rifle",
     "group_name": "Dusk Rifle",
     "category": "weapon",
@@ -43255,6 +43260,7 @@
   },
   {
     "id": "SID_快癒・偶数1",
+    "game8_id": "335304",
     "name": "Even Recovery 1",
     "group_name": "Even Recovery",
     "category": "passivec",
@@ -43281,6 +43287,7 @@
   },
   {
     "id": "SID_快癒・偶数2",
+    "game8_id": "335303",
     "name": "Even Recovery 2",
     "group_name": "Even Recovery",
     "category": "passivec",
@@ -43310,6 +43317,7 @@
   },
   {
     "id": "SID_快癒・偶数3",
+    "game8_id": "335302",
     "name": "Even Recovery 3",
     "group_name": "Even Recovery",
     "category": "passivec",
@@ -43727,7 +43735,6 @@
   },
   {
     "id": "SID_神剣ファルシオン",
-    "game8_id": "265642",
     "name": "Exalted Falchion",
     "group_name": "Exalted Falchion",
     "category": "weapon",
@@ -43758,7 +43765,6 @@
   {
     "id": "SID_神剣ファルシオン_一",
     "base_id": "SID_神剣ファルシオン",
-    "game8_id": "265642",
     "name": "Exalted Falchion",
     "group_name": "Exalted Falchion",
     "category": "weapon",
@@ -44236,7 +44242,7 @@
   },
   {
     "id": "SID_ファルシオン覚醒",
-    "name": "Falchion",
+    "name": "Falchion (Awakening)",
     "group_name": "Falchion",
     "category": "weapon",
     "weapon_type": "Red Sword",
@@ -44266,7 +44272,7 @@
   {
     "id": "SID_ファルシオン覚醒_絆",
     "base_id": "SID_ファルシオン覚醒",
-    "name": "Falchion",
+    "name": "Falchion (Awakening)",
     "group_name": "Falchion",
     "category": "weapon",
     "weapon_type": "Red Sword",
@@ -44292,7 +44298,7 @@
   },
   {
     "id": "SID_ファルシオン外伝",
-    "name": "Falchion",
+    "name": "Falchion (Gaiden)",
     "group_name": "Falchion",
     "category": "weapon",
     "weapon_type": "Red Sword",
@@ -44322,7 +44328,7 @@
   {
     "id": "SID_ファルシオン外伝_連",
     "base_id": "SID_ファルシオン外伝",
-    "name": "Falchion",
+    "name": "Falchion (Gaiden)",
     "group_name": "Falchion",
     "category": "weapon",
     "weapon_type": "Red Sword",
@@ -44348,7 +44354,7 @@
   },
   {
     "id": "SID_ファルシオン",
-    "name": "Falchion",
+    "name": "Falchion (Mystery)",
     "group_name": "Falchion",
     "category": "weapon",
     "weapon_type": "Red Sword",
@@ -44378,7 +44384,7 @@
   {
     "id": "SID_ファルシオン_紋",
     "base_id": "SID_ファルシオン",
-    "name": "Falchion",
+    "name": "Falchion (Mystery)",
     "group_name": "Falchion",
     "category": "weapon",
     "weapon_type": "Red Sword",
@@ -53240,7 +53246,6 @@
   },
   {
     "id": "SID_始祖ファルシオン",
-    "game8_id": "339584",
     "name": "Genesis Falchion",
     "group_name": "Genesis Falchion",
     "category": "weapon",
@@ -53270,7 +53275,6 @@
   {
     "id": "SID_始祖ファルシオン_一",
     "base_id": "SID_始祖ファルシオン",
-    "game8_id": "339584",
     "name": "Genesis Falchion",
     "group_name": "Genesis Falchion",
     "category": "weapon",
@@ -63518,7 +63522,7 @@
   },
   {
     "id": "SID_グループ",
-    "game8_id": "537862",
+    "game8_id": "537861",
     "name": "In the Fold",
     "group_name": "In the Fold",
     "category": "weapon",
@@ -63548,6 +63552,7 @@
   },
   {
     "id": "SID_グループ＋",
+    "game8_id": "537862",
     "name": "In The Fold+",
     "group_name": "In The Fold+",
     "category": "weapon",
@@ -63575,6 +63580,7 @@
   {
     "id": "SID_グループ＋_神",
     "base_id": "SID_グループ＋",
+    "game8_id": "537862",
     "name": "In The Fold+",
     "group_name": "In The Fold+",
     "category": "weapon",
@@ -63599,6 +63605,7 @@
   {
     "id": "SID_グループ＋_幻",
     "base_id": "SID_グループ＋",
+    "game8_id": "537862",
     "name": "In The Fold+",
     "group_name": "In The Fold+",
     "category": "weapon",
@@ -66335,6 +66342,7 @@
   },
   {
     "id": "SID_正義の執行者",
+    "game8_id": "539557",
     "name": "Justice Enforcer",
     "group_name": "Justice Enforcer",
     "category": "passiveb",
@@ -73931,7 +73939,6 @@
   },
   {
     "id": "SID_幻影ファルシオン",
-    "game8_id": "276200",
     "name": "Mirage Falchion",
     "group_name": "Mirage Falchion",
     "category": "weapon",
@@ -73962,7 +73969,6 @@
   {
     "id": "SID_幻影ファルシオン_一",
     "base_id": "SID_幻影ファルシオン",
-    "game8_id": "276200",
     "name": "Mirage Falchion",
     "group_name": "Mirage Falchion",
     "category": "weapon",
@@ -78861,6 +78867,7 @@
   },
   {
     "id": "SID_快癒・奇数1",
+    "game8_id": "314400",
     "name": "Odd Recovery 1",
     "group_name": "Odd Recovery",
     "category": "passivec",
@@ -78887,6 +78894,7 @@
   },
   {
     "id": "SID_快癒・奇数2",
+    "game8_id": "314399",
     "name": "Odd Recovery 2",
     "group_name": "Odd Recovery",
     "category": "passivec",
@@ -78916,6 +78924,7 @@
   },
   {
     "id": "SID_快癒・奇数3",
+    "game8_id": "314398",
     "name": "Odd Recovery 3",
     "group_name": "Odd Recovery",
     "category": "passivec",
@@ -96624,7 +96633,6 @@
   },
   {
     "id": "SID_封剣ファルシオン",
-    "game8_id": "265843",
     "name": "Sealed Falchion",
     "group_name": "Sealed Falchion",
     "category": "weapon",
@@ -96655,7 +96663,6 @@
   {
     "id": "SID_封剣ファルシオン_追",
     "base_id": "SID_封剣ファルシオン",
-    "game8_id": "265843",
     "name": "Sealed Falchion",
     "group_name": "Sealed Falchion",
     "category": "weapon",
@@ -106651,6 +106658,7 @@
   },
   {
     "id": "SID_速さ魔防の孤軍1",
+    "game8_id": "275477",
     "name": "Spd/Res Solo 1",
     "group_name": "Spd/Res Solo",
     "category": "passivea",
@@ -106675,6 +106683,7 @@
   },
   {
     "id": "SID_速さ魔防の孤軍2",
+    "game8_id": "275478",
     "name": "Spd/Res Solo 2",
     "group_name": "Spd/Res Solo",
     "category": "passivea",
@@ -106702,6 +106711,7 @@
   },
   {
     "id": "SID_速さ魔防の孤軍3",
+    "game8_id": "275479",
     "name": "Spd/Res Solo 3",
     "group_name": "Spd/Res Solo",
     "category": "passivea",
@@ -112511,6 +112521,7 @@
   },
   {
     "id": "SID_天日の神剣",
+    "game8_id": "539553",
     "name": "Sun Sword",
     "group_name": "Sun Sword",
     "category": "weapon",
@@ -119058,6 +119069,7 @@
   },
   {
     "id": "SID_真実の弁護者",
+    "game8_id": "539560",
     "name": "Truth Keeper",
     "group_name": "Truth Keeper",
     "category": "passivec",
@@ -126595,6 +126607,7 @@
   },
   {
     "id": "SID_ユンヌの囁き",
+    "game8_id": "269108",
     "name": "Yune's Whispers",
     "group_name": "Yune's Whispers",
     "category": "passiveb",

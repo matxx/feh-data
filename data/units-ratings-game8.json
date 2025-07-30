@@ -1,5 +1,12 @@
 [
   {
+    "id": "PID_バルドル味方",
+    "game8_rating": "9.9",
+    "recommended_boon": "Spd",
+    "recommended_bane": "Res",
+    "recommended_plus10": "Spd"
+  },
+  {
     "id": "PID_紋章ミカヤ",
     "game8_rating": "9.9",
     "recommended_boon": "Atk",
@@ -12,13 +19,6 @@
     "recommended_boon": "Atk",
     "recommended_bane": "Spd",
     "recommended_plus10": "Atk"
-  },
-  {
-    "id": "PID_総選挙フェリクス",
-    "game8_rating": "9.9",
-    "recommended_boon": "Spd",
-    "recommended_bane": "Res",
-    "recommended_plus10": "Spd"
   },
   {
     "id": "PID_紋章シグルド",
@@ -194,6 +194,13 @@
     "recommended_boon": "Def",
     "recommended_bane": "Spd",
     "recommended_plus10": "Def"
+  },
+  {
+    "id": "PID_総選挙フェリクス",
+    "game8_rating": "9.9",
+    "recommended_boon": "Spd",
+    "recommended_bane": "Res",
+    "recommended_plus10": "Spd"
   },
   {
     "id": "PID_伝承シェズ男",
@@ -483,18 +490,11 @@
     "recommended_plus10": "Spd"
   },
   {
-    "id": "PID_メリアエ味方",
+    "id": "PID_ヘズ味方",
     "game8_rating": "9.5",
-    "recommended_boon": "Def",
-    "recommended_bane": "Spd",
-    "recommended_plus10": "Def"
-  },
-  {
-    "id": "PID_比翼ハピ",
-    "game8_rating": "9.5",
-    "recommended_boon": "Spd",
+    "recommended_boon": "Res",
     "recommended_bane": "Def",
-    "recommended_plus10": "Spd"
+    "recommended_plus10": "Res"
   },
   {
     "id": "PID_水着ユーリス",
@@ -516,6 +516,20 @@
     "recommended_boon": null,
     "recommended_bane": "Spd",
     "recommended_plus10": null
+  },
+  {
+    "id": "PID_比翼ハピ",
+    "game8_rating": "9.5",
+    "recommended_boon": "Spd",
+    "recommended_bane": "Def",
+    "recommended_plus10": "Spd"
+  },
+  {
+    "id": "PID_メリアエ味方",
+    "game8_rating": "9.5",
+    "recommended_boon": "Def",
+    "recommended_bane": "Spd",
+    "recommended_plus10": "Def"
   },
   {
     "id": "PID_双界外伝カチュア",
@@ -6307,13 +6321,6 @@
     "recommended_plus10": "Spd"
   },
   {
-    "id": "PID_水着外伝パオラ",
-    "game8_rating": "8.0",
-    "recommended_boon": "Atk",
-    "recommended_bane": "Spd",
-    "recommended_plus10": "Atk"
-  },
-  {
     "id": "PID_リノアン",
     "game8_rating": "8.0",
     "recommended_boon": null,
@@ -6333,6 +6340,13 @@
     "recommended_boon": "Def",
     "recommended_bane": "Res",
     "recommended_plus10": "Def"
+  },
+  {
+    "id": "PID_水着外伝パオラ",
+    "game8_rating": "8.0",
+    "recommended_boon": "Atk",
+    "recommended_bane": "Spd",
+    "recommended_plus10": "Atk"
   },
   {
     "id": "PID_夏祭リョウマ",
