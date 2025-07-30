@@ -2017,6 +2017,35 @@
     }
   },
   {
+    "id": "SID_攻速大牽制・導き手",
+    "fodder_ids": [
+      "PID_バルドル味方"
+    ],
+    "fodder": {
+      "g4": 1,
+      "hg": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 1,
+      "shsr": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "flrwo": {
+      "foc": 5
+    },
+    "flrfi": {
+      "foc": 5
+    },
+    "divine_codes": {}
+  },
+  {
     "id": "SID_攻速鼓舞・奮激",
     "fodder_ids": [
       "PID_双界セリカ",
@@ -9790,6 +9819,7 @@
       "PID_アイラ",
       "PID_伝承アイラ",
       "PID_双界アイラ",
+      "PID_バルドル味方",
       "PID_総選挙セリカ",
       "PID_魔器闇クロム",
       "PID_ティアモ",
@@ -12438,6 +12468,35 @@
         }
       ]
     }
+  },
+  {
+    "id": "SID_攻撃守備の不和",
+    "fodder_ids": [
+      "PID_ヘズ味方"
+    ],
+    "fodder": {
+      "g4": 4,
+      "hg": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 1,
+      "shsr": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "flrwo": {
+      "foc": 5
+    },
+    "flrfi": {
+      "foc": 5
+    },
+    "divine_codes": {}
   },
   {
     "id": "SID_攻撃守備の突破",
@@ -15969,6 +16028,7 @@
     "fodder_ids": [
       "PID_氷部族フローラ",
       "PID_ハピ",
+      "PID_ヘズ味方",
       "PID_比翼レーギャルン",
       "PID_レティシア味方",
       "PID_神階ロキ",
@@ -16032,6 +16092,7 @@
     "fodder_ids": [
       "PID_氷部族フローラ",
       "PID_ハピ",
+      "PID_ヘズ味方",
       "PID_比翼レーギャルン",
       "PID_レティシア味方",
       "PID_神階ロキ",
@@ -16095,6 +16156,7 @@
     "fodder_ids": [
       "PID_氷部族フローラ",
       "PID_ハピ",
+      "PID_ヘズ味方",
       "PID_比翼レーギャルン",
       "PID_レティシア味方",
       "PID_神階ロキ",
@@ -17391,6 +17453,35 @@
         }
       ]
     }
+  },
+  {
+    "id": "SID_攻撃魔防の制空",
+    "fodder_ids": [
+      "PID_ヘズ味方"
+    ],
+    "fodder": {
+      "g4": 1,
+      "hg": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 1,
+      "shsr": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "flrwo": {
+      "foc": 5
+    },
+    "flrfi": {
+      "foc": 5
+    },
+    "divine_codes": {}
   },
   {
     "id": "SID_攻撃魔防の脅嚇3",
@@ -23576,6 +23667,7 @@
     "fodder_ids": [
       "PID_双界アンナ",
       "PID_春祭アッシュ",
+      "PID_バルドル味方",
       "PID_伝承シーダ",
       "PID_マトイ",
       "PID_総選挙クロード",
@@ -23652,6 +23744,7 @@
     "fodder_ids": [
       "PID_双界アンナ",
       "PID_春祭アッシュ",
+      "PID_バルドル味方",
       "PID_伝承シーダ",
       "PID_マトイ",
       "PID_総選挙クロード",
@@ -23728,6 +23821,7 @@
     "fodder_ids": [
       "PID_双界アンナ",
       "PID_春祭アッシュ",
+      "PID_バルドル味方",
       "PID_伝承シーダ",
       "PID_マトイ",
       "PID_総選挙クロード",
@@ -33141,6 +33235,7 @@
   {
     "id": "SID_蒼穹1",
     "fodder_ids": [
+      "PID_バルドル味方",
       "PID_紋章エイリーク",
       "PID_比翼マルス2"
     ],
@@ -33173,6 +33268,7 @@
   {
     "id": "SID_蒼穹2",
     "fodder_ids": [
+      "PID_バルドル味方",
       "PID_紋章エイリーク",
       "PID_比翼マルス2"
     ],
@@ -33205,6 +33301,7 @@
   {
     "id": "SID_蒼穹3",
     "fodder_ids": [
+      "PID_バルドル味方",
       "PID_紋章エイリーク",
       "PID_比翼マルス2"
     ],
@@ -33237,6 +33334,7 @@
   {
     "id": "SID_蒼穹4",
     "fodder_ids": [
+      "PID_バルドル味方",
       "PID_紋章エイリーク",
       "PID_比翼マルス2"
     ],
@@ -42839,6 +42937,35 @@
     "divine_codes": {}
   },
   {
+    "id": "SID_天風",
+    "fodder_ids": [
+      "PID_バルドル味方"
+    ],
+    "fodder": {
+      "g4": 1,
+      "hg": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 1,
+      "shsr": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "flrwo": {
+      "foc": 5
+    },
+    "flrfi": {
+      "foc": 5
+    },
+    "divine_codes": {}
+  },
+  {
     "id": "SID_魔継ぐ少女の天球儀",
     "fodder_ids": [
       "PID_双界リンダ"
@@ -44987,6 +45114,7 @@
       "PID_愛の祭ヘンリエッテ",
       "PID_ヘステ",
       "PID_聖戦ヒルダ",
+      "PID_ヘズ味方",
       "PID_愛の祭ヒューベルト",
       "PID_比翼イドゥン",
       "PID_幼少イレース",
@@ -67890,6 +68018,35 @@
     "divine_codes": {}
   },
   {
+    "id": "SID_夕影の神弓",
+    "fodder_ids": [
+      "PID_ヘズ味方"
+    ],
+    "fodder": {
+      "g4": 1,
+      "hg": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 1,
+      "shsr": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "flrwo": {
+      "foc": 5
+    },
+    "flrfi": {
+      "foc": 5
+    },
+    "divine_codes": {}
+  },
+  {
     "id": "SID_宵闇の団扇",
     "fodder_ids": [
       "PID_夏祭マークス"
@@ -88325,6 +88482,7 @@
       "PID_スリーズ",
       "PID_水着ヘイズルーン",
       "PID_聖戦ヒルダ",
+      "PID_ヘズ味方",
       "PID_愛の祭ヒューベルト",
       "PID_幼少イレース",
       "PID_年明ヒーニアス",
@@ -102229,6 +102387,7 @@
     "id": "SID_氷壁",
     "fodder_ids": [
       "PID_水着ヘイズルーン",
+      "PID_ヘズ味方",
       "PID_比翼ユリア",
       "PID_響心サーリャ"
     ],
@@ -106751,6 +106910,7 @@
       "PID_ヒノカ2",
       "PID_比翼ヒノカ",
       "PID_伝承ヒノカ",
+      "PID_ヘズ味方",
       "PID_冬祭イグナーツ",
       "PID_イグレーヌ",
       "PID_双界イグレーヌ",
@@ -108575,6 +108735,7 @@
       "PID_アイラ",
       "PID_伝承アイラ",
       "PID_双界アイラ",
+      "PID_バルドル味方",
       "PID_春祭バアトル",
       "PID_ベウフォレス",
       "PID_伝承漆黒の騎士",
@@ -110737,6 +110898,35 @@
     },
     "flrfi": {
       "gsp": 5
+    },
+    "divine_codes": {}
+  },
+  {
+    "id": "SID_正義の執行者",
+    "fodder_ids": [
+      "PID_バルドル味方"
+    ],
+    "fodder": {
+      "g4": 1,
+      "hg": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 1,
+      "shsr": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "flrwo": {
+      "foc": 5
+    },
+    "flrfi": {
+      "foc": 5
     },
     "divine_codes": {}
   },
@@ -126248,6 +126438,7 @@
       "PID_アイラ",
       "PID_伝承アイラ",
       "PID_双界アイラ",
+      "PID_バルドル味方",
       "PID_ベルカ",
       "PID_忍者カミラ",
       "PID_温泉カミラ",
@@ -154493,6 +154684,7 @@
     "id": "SID_守備の混乱1",
     "fodder_ids": [
       "PID_コルネリア",
+      "PID_ヘズ味方",
       "PID_水着リリーナ",
       "PID_春祭リンハルト",
       "PID_神階ルピナス",
@@ -154557,6 +154749,7 @@
     "id": "SID_守備の混乱2",
     "fodder_ids": [
       "PID_コルネリア",
+      "PID_ヘズ味方",
       "PID_水着リリーナ",
       "PID_春祭リンハルト",
       "PID_神階ルピナス",
@@ -154621,6 +154814,7 @@
     "id": "SID_守備の混乱3",
     "fodder_ids": [
       "PID_コルネリア",
+      "PID_ヘズ味方",
       "PID_水着リリーナ",
       "PID_春祭リンハルト",
       "PID_神階ルピナス",
@@ -162294,6 +162488,7 @@
       "PID_ヒノカ2",
       "PID_比翼ヒノカ",
       "PID_伝承ヒノカ",
+      "PID_ヘズ味方",
       "PID_イグレーヌ",
       "PID_双界イグレーヌ",
       "PID_幼少ヒーニアス",
@@ -163191,6 +163386,7 @@
       "PID_アイラ",
       "PID_伝承アイラ",
       "PID_双界アイラ",
+      "PID_バルドル味方",
       "PID_伝承漆黒の騎士",
       "PID_漆黒の騎士",
       "PID_比翼ベレト",
@@ -182588,6 +182784,7 @@
       "PID_ヒノカ2",
       "PID_比翼ヒノカ",
       "PID_伝承ヒノカ",
+      "PID_ヘズ味方",
       "PID_冬祭イグナーツ",
       "PID_イグレーヌ",
       "PID_双界イグレーヌ",
@@ -184383,6 +184580,7 @@
       "PID_アイラ",
       "PID_伝承アイラ",
       "PID_双界アイラ",
+      "PID_バルドル味方",
       "PID_春祭バアトル",
       "PID_ベウフォレス",
       "PID_伝承漆黒の騎士",
@@ -187304,6 +187502,35 @@
     },
     "flrwo": {},
     "flrfi": {},
+    "divine_codes": {}
+  },
+  {
+    "id": "SID_天日の神剣",
+    "fodder_ids": [
+      "PID_バルドル味方"
+    ],
+    "fodder": {
+      "g4": 1,
+      "hg": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 1,
+      "shsr": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "flrwo": {
+      "foc": 5
+    },
+    "flrfi": {
+      "foc": 5
+    },
     "divine_codes": {}
   },
   {
@@ -197695,6 +197922,35 @@
         }
       ]
     }
+  },
+  {
+    "id": "SID_真実の弁護者",
+    "fodder_ids": [
+      "PID_ヘズ味方"
+    ],
+    "fodder": {
+      "g4": 1,
+      "hg": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 1,
+      "shsr": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "flrwo": {
+      "foc": 5
+    },
+    "flrfi": {
+      "foc": 5
+    },
+    "divine_codes": {}
   },
   {
     "id": "SID_仕方がない子ね",

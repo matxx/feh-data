@@ -1398,6 +1398,36 @@
     ]
   },
   {
+    "id": "SID_攻速大牽制・導き手",
+    "name": "A/S Hold Guide",
+    "group_name": "A/S Hold Guide",
+    "category": "passivec",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/8d/A_S_Hold_Guide.png/revision/latest?cb=20250729070005",
+    "is_prf": false,
+    "sp": 300,
+    "tier": 4,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Flying"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "All Melee",
+          "All Breath",
+          "All Beast"
+        ]
+      }
+    },
+    "addition_date": "2024-12-05",
+    "release_date": "2025-07-29",
+    "downgrade_ids": [
+      "SID_攻撃速さの牽制3"
+    ]
+  },
+  {
     "id": "SID_攻速鼓舞・奮激",
     "game8_id": "498430",
     "name": "A/S Incite Hone",
@@ -6649,6 +6679,7 @@
     "release_date": "2017-02-02",
     "upgrade_ids": [
       "SID_流星群",
+      "SID_天風",
       "SID_剣聖の流星雨",
       "SID_疾風迅雷",
       "SID_剣皇の流星",
@@ -7906,6 +7937,34 @@
     "release_date": "2022-09-16",
     "downgrade_ids": [
       "SID_攻撃守備の激突3"
+    ]
+  },
+  {
+    "id": "SID_攻撃守備の不和",
+    "name": "Atk/Def Discord",
+    "group_name": "Atk/Def Discord",
+    "category": "passiveb",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c5/Atk_Def_Discord.png/revision/latest?cb=20250729065944",
+    "is_prf": false,
+    "sp": 300,
+    "tier": 4,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Infantry",
+          "Flying"
+        ]
+      },
+      "weapons": {
+        "none": true
+      }
+    },
+    "addition_date": "2024-12-05",
+    "release_date": "2025-07-29",
+    "downgrade_ids": [
+      "SID_攻撃の混乱3",
+      "SID_守備の混乱3"
     ]
   },
   {
@@ -9609,7 +9668,8 @@
     "addition_date": "2021-09-17",
     "release_date": "2021-09-17",
     "upgrade_ids": [
-      "SID_攻撃魔防の機先4"
+      "SID_攻撃魔防の機先4",
+      "SID_攻撃魔防の制空"
     ],
     "downgrade_ids": [
       "SID_攻撃魔防の機先2"
@@ -10287,6 +10347,32 @@
     "release_date": "2018-11-09",
     "downgrade_ids": [
       "SID_攻撃魔防の連携2"
+    ]
+  },
+  {
+    "id": "SID_攻撃魔防の制空",
+    "name": "Atk/Res Mastery",
+    "group_name": "Atk/Res Mastery",
+    "category": "passivea",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/8b/Atk_Res_Mastery.png/revision/latest?cb=20250729065924",
+    "is_prf": false,
+    "sp": 300,
+    "tier": 4,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Flying"
+        ]
+      },
+      "weapons": {
+        "none": true
+      }
+    },
+    "addition_date": "2024-12-05",
+    "release_date": "2025-07-29",
+    "downgrade_ids": [
+      "SID_攻撃魔防の機先3"
     ]
   },
   {
@@ -12990,6 +13076,7 @@
     "addition_date": "2018-05-30",
     "release_date": "2018-05-30",
     "upgrade_ids": [
+      "SID_攻速大牽制・導き手",
       "SID_攻速牽制・運び手",
       "SID_攻撃速さの大牽制"
     ],
@@ -19584,7 +19671,7 @@
         ]
       }
     },
-    "addition_date": "2025-03-28",
+    "addition_date": "2024-12-05",
     "release_date": "2025-03-28",
     "upgrade_ids": [
       "SID_蒼穹2"
@@ -19614,7 +19701,7 @@
         ]
       }
     },
-    "addition_date": "2025-03-28",
+    "addition_date": "2024-12-05",
     "release_date": "2025-03-28",
     "upgrade_ids": [
       "SID_蒼穹3"
@@ -19647,7 +19734,7 @@
         ]
       }
     },
-    "addition_date": "2025-03-28",
+    "addition_date": "2024-12-05",
     "release_date": "2025-03-28",
     "upgrade_ids": [
       "SID_蒼穹4"
@@ -19680,7 +19767,7 @@
         ]
       }
     },
-    "addition_date": "2025-03-28",
+    "addition_date": "2024-12-05",
     "release_date": "2025-03-28",
     "downgrade_ids": [
       "SID_蒼穹3"
@@ -26054,6 +26141,35 @@
     "release_date": "2018-02-14",
     "downgrade_ids": [
       "SID_カサブランカ"
+    ]
+  },
+  {
+    "id": "SID_天風",
+    "name": "Celestial Form",
+    "group_name": "Celestial Form",
+    "category": "special",
+    "is_prf": false,
+    "sp": 500,
+    "tier": 3,
+    "cd": 3,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Flying"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "All Melee",
+          "All Breath",
+          "All Beast"
+        ]
+      }
+    },
+    "addition_date": "2024-12-05",
+    "release_date": "2025-07-29",
+    "downgrade_ids": [
+      "SID_流星"
     ]
   },
   {
@@ -40778,6 +40894,34 @@
         ]
       }
     }
+  },
+  {
+    "id": "SID_夕影の神弓",
+    "name": "Dusk Rifle",
+    "group_name": "Dusk Rifle",
+    "category": "weapon",
+    "weapon_type": "All Bow",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "eff": [
+      "flying"
+    ],
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "All Bow"
+        ]
+      }
+    },
+    "addition_date": "2024-12-05",
+    "release_date": "2025-07-29",
+    "downgrade_ids": [
+      "SID_銀の弓"
+    ]
   },
   {
     "id": "SID_宵闇の団扇",
@@ -62726,7 +62870,7 @@
         ]
       }
     },
-    "addition_date": "2025-05-16",
+    "addition_date": "2024-12-05",
     "release_date": "2025-05-16",
     "downgrade_ids": [
       "SID_氷華"
@@ -66188,6 +66332,27 @@
     "downgrade_ids": [
       "SID_銀の弓"
     ]
+  },
+  {
+    "id": "SID_正義の執行者",
+    "name": "Justice Enforcer",
+    "group_name": "Justice Enforcer",
+    "category": "passiveb",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/dd/Justice_Enforcer.png/revision/latest?cb=20250729065933",
+    "is_prf": true,
+    "sp": 300,
+    "tier": 1,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "none": true
+      }
+    },
+    "addition_date": "2024-12-05",
+    "release_date": "2025-07-29"
   },
   {
     "id": "SID_鏑矢",
@@ -93665,6 +93830,7 @@
     "addition_date": "2019-02-20",
     "release_date": "2019-02-20",
     "upgrade_ids": [
+      "SID_攻撃守備の不和",
       "SID_攻撃魔防の不和",
       "SID_攻撃魔防の大混乱",
       "SID_攻撃守備の混乱3",
@@ -93749,6 +93915,7 @@
     "addition_date": "2019-07-08",
     "release_date": "2019-07-09",
     "upgrade_ids": [
+      "SID_攻撃守備の不和",
       "SID_守備魔防の不和",
       "SID_攻撃守備の混乱3"
     ],
@@ -112343,6 +112510,31 @@
     }
   },
   {
+    "id": "SID_天日の神剣",
+    "name": "Sun Sword",
+    "group_name": "Sun Sword",
+    "category": "weapon",
+    "weapon_type": "Red Sword",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Red Sword"
+        ]
+      }
+    },
+    "addition_date": "2024-12-05",
+    "release_date": "2025-07-29",
+    "downgrade_ids": [
+      "SID_銀の剣"
+    ]
+  },
+  {
     "id": "SID_双姫の陽翼",
     "game8_id": "325372",
     "name": "Sun-Twin Wing",
@@ -118863,6 +119055,27 @@
       "SID_トロン",
       "SID_シャイン"
     ]
+  },
+  {
+    "id": "SID_真実の弁護者",
+    "name": "Truth Keeper",
+    "group_name": "Truth Keeper",
+    "category": "passivec",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/cd/Truth_Keeper.png/revision/latest?cb=20250729065954",
+    "is_prf": true,
+    "sp": 300,
+    "tier": 1,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "none": true
+      }
+    },
+    "addition_date": "2024-12-05",
+    "release_date": "2025-07-29"
   },
   {
     "id": "SID_仕方がない子ね",

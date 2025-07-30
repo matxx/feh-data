@@ -6900,6 +6900,102 @@
     "unlock": 1
   },
   {
+    "unit_id": "PID_バルドル味方",
+    "skill_id": "SID_攻速大牽制・導き手",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_バルドル味方",
+    "skill_id": "SID_流星",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_バルドル味方",
+    "skill_id": "SID_攻撃速さの牽制1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_バルドル味方",
+    "skill_id": "SID_攻撃速さの牽制2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_バルドル味方",
+    "skill_id": "SID_攻撃速さの牽制3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_バルドル味方",
+    "skill_id": "SID_蒼穹1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_バルドル味方",
+    "skill_id": "SID_蒼穹2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_バルドル味方",
+    "skill_id": "SID_蒼穹3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_バルドル味方",
+    "skill_id": "SID_蒼穹4",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_バルドル味方",
+    "skill_id": "SID_天風",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_バルドル味方",
+    "skill_id": "SID_鉄の剣",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_バルドル味方",
+    "skill_id": "SID_正義の執行者",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_バルドル味方",
+    "skill_id": "SID_星影",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_バルドル味方",
+    "skill_id": "SID_銀の剣",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_バルドル味方",
+    "skill_id": "SID_鋼の剣",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_バルドル味方",
+    "skill_id": "SID_天日の神剣",
+    "default": 5,
+    "unlock": 5
+  },
+  {
     "unit_id": "PID_バルタザール",
     "skill_id": "SID_攻撃守備の大覚醒1",
     "default": 0,
@@ -42160,6 +42256,102 @@
     "skill_id": "SID_鋼の槍",
     "default": 3,
     "unlock": 2
+  },
+  {
+    "unit_id": "PID_ヘズ味方",
+    "skill_id": "SID_攻撃守備の不和",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_ヘズ味方",
+    "skill_id": "SID_攻撃魔防の機先1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_ヘズ味方",
+    "skill_id": "SID_攻撃魔防の機先2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_ヘズ味方",
+    "skill_id": "SID_攻撃魔防の機先3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_ヘズ味方",
+    "skill_id": "SID_攻撃魔防の制空",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_ヘズ味方",
+    "skill_id": "SID_氷点",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_ヘズ味方",
+    "skill_id": "SID_夕影の神弓",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_ヘズ味方",
+    "skill_id": "SID_氷華",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_ヘズ味方",
+    "skill_id": "SID_氷壁",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_ヘズ味方",
+    "skill_id": "SID_鉄の弓",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_ヘズ味方",
+    "skill_id": "SID_守備の混乱1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_ヘズ味方",
+    "skill_id": "SID_守備の混乱2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_ヘズ味方",
+    "skill_id": "SID_守備の混乱3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_ヘズ味方",
+    "skill_id": "SID_銀の弓",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_ヘズ味方",
+    "skill_id": "SID_鋼の弓",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_ヘズ味方",
+    "skill_id": "SID_真実の弁護者",
+    "default": 0,
+    "unlock": 5
   },
   {
     "unit_id": "PID_ホルスト",
