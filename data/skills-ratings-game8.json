@@ -1220,6 +1220,16 @@
     "game8_grade": "SS"
   },
   {
+    "id": "SID_給仕のナイフ",
+    "game8_rating": null,
+    "game8_grade": null
+  },
+  {
+    "id": "SID_給仕のナイフ＋",
+    "game8_rating": "8.5",
+    "game8_grade": "B"
+  },
+  {
     "id": "SID_忍の刀",
     "game8_rating": null,
     "game8_grade": null
@@ -2118,6 +2128,16 @@
     "id": "SID_枢機卿の書",
     "game8_rating": "9.0",
     "game8_grade": "A"
+  },
+  {
+    "id": "SID_紅茶のポット",
+    "game8_rating": null,
+    "game8_grade": null
+  },
+  {
+    "id": "SID_紅茶のポット＋",
+    "game8_rating": "8.5",
+    "game8_grade": "B"
   },
   {
     "id": "SID_火のブレス",
@@ -3603,6 +3623,11 @@
     "id": "SID_鋭骨の槍＋",
     "game8_rating": "8.5",
     "game8_grade": "B"
+  },
+  {
+    "id": "SID_お茶会の警護の槍",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
   },
   {
     "id": "SID_コウモリの弓",
@@ -5870,6 +5895,11 @@
     "game8_grade": "B"
   },
   {
+    "id": "SID_高貴な淑女のお茶会",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
     "id": "SID_鏑矢",
     "game8_rating": null,
     "game8_grade": null
@@ -5973,6 +6003,11 @@
     "id": "SID_忠臣との絆の弓",
     "game8_rating": "9.5",
     "game8_grade": "S"
+  },
+  {
+    "id": "SID_狼騎士団の弓",
+    "game8_rating": "9.0",
+    "game8_grade": "A"
   },
   {
     "id": "SID_疾弓ミュルグレ",
@@ -8675,6 +8710,11 @@
     "game8_grade": "S"
   },
   {
+    "id": "SID_お茶会の焼き菓子",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
     "id": "SID_邪神のブレス",
     "game8_rating": "9.5",
     "game8_grade": null
@@ -10161,6 +10201,11 @@
   },
   {
     "id": "SID_真・ノヴァの聖戦士",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_真・閉界",
     "game8_rating": "9.5",
     "game8_grade": "S"
   },
@@ -13115,6 +13160,11 @@
     "game8_grade": "S"
   },
   {
+    "id": "SID_女騎士",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
     "id": "SID_差し違え1",
     "game8_rating": null,
     "game8_grade": null
@@ -14290,9 +14340,19 @@
     "game8_grade": "C"
   },
   {
+    "id": "SID_攻撃魔防封じ1",
+    "game8_rating": null,
+    "game8_grade": null
+  },
+  {
     "id": "SID_速さ魔防封じ3",
     "game8_rating": "9.0",
     "game8_grade": "B"
+  },
+  {
+    "id": "SID_攻撃魔防封じ2",
+    "game8_rating": "7.5",
+    "game8_grade": null
   },
   {
     "id": "SID_攻撃魔防封じ3",
@@ -14623,6 +14683,11 @@
     "id": "SID_攻撃守備の干渉1",
     "game8_rating": null,
     "game8_grade": null
+  },
+  {
+    "id": "SID_速さ魔防の看破",
+    "game8_rating": "9.0",
+    "game8_grade": "A"
   },
   {
     "id": "SID_攻撃守備の干渉2",
@@ -16675,6 +16740,11 @@
     "game8_grade": "S"
   },
   {
+    "id": "SID_真・一匹狼",
+    "game8_rating": "9.9",
+    "game8_grade": "SS"
+  },
+  {
     "id": "SID_攻撃の鼓舞1",
     "game8_rating": null,
     "game8_grade": null
@@ -16710,9 +16780,19 @@
     "game8_grade": null
   },
   {
+    "id": "SID_速さの鼓舞4",
+    "game8_rating": "8.5",
+    "game8_grade": "A"
+  },
+  {
     "id": "SID_守備の鼓舞2",
     "game8_rating": null,
     "game8_grade": null
+  },
+  {
+    "id": "SID_速さの相互鼓舞",
+    "game8_rating": "9.0",
+    "game8_grade": "B"
   },
   {
     "id": "SID_守備の鼓舞3",
@@ -16720,9 +16800,19 @@
     "game8_grade": "B"
   },
   {
+    "id": "SID_攻速鼓舞・奮激",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
     "id": "SID_魔防の鼓舞1",
     "game8_rating": null,
     "game8_grade": null
+  },
+  {
+    "id": "SID_攻速鼓譟・強化無効",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
   },
   {
     "id": "SID_魔防の鼓舞2",
@@ -16790,11 +16880,6 @@
     "game8_grade": "A"
   },
   {
-    "id": "SID_速さの鼓舞4",
-    "game8_rating": "8.5",
-    "game8_grade": "A"
-  },
-  {
     "id": "SID_守備の鼓舞4",
     "game8_rating": "8.5",
     "game8_grade": "A"
@@ -16805,11 +16890,6 @@
     "game8_grade": "A"
   },
   {
-    "id": "SID_攻速鼓舞・奮激",
-    "game8_rating": "9.5",
-    "game8_grade": "S"
-  },
-  {
     "id": "SID_攻撃の相互鼓舞",
     "game8_rating": "9.0",
     "game8_grade": "B"
@@ -16818,11 +16898,6 @@
     "id": "SID_攻魔鼓舞・奮激",
     "game8_rating": "9.5",
     "game8_grade": "S"
-  },
-  {
-    "id": "SID_速さの相互鼓舞",
-    "game8_rating": "9.0",
-    "game8_grade": "B"
   },
   {
     "id": "SID_守備の相互鼓舞",
@@ -17276,6 +17351,21 @@
   },
   {
     "id": "SID_速さ守備の信義3",
+    "game8_rating": "9.0",
+    "game8_grade": "C"
+  },
+  {
+    "id": "SID_速さ魔防の信義1",
+    "game8_rating": null,
+    "game8_grade": null
+  },
+  {
+    "id": "SID_速さ魔防の信義2",
+    "game8_rating": null,
+    "game8_grade": null
+  },
+  {
+    "id": "SID_速さ魔防の信義3",
     "game8_rating": "9.0",
     "game8_grade": "C"
   },
@@ -18763,6 +18853,11 @@
     "id": "SID_歩行の見切り追撃1",
     "game8_rating": null,
     "game8_grade": null
+  },
+  {
+    "id": "SID_迅雷風烈・初撃鼓動",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
   },
   {
     "id": "SID_歩行の見切り追撃2",

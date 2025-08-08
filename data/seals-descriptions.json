@@ -936,6 +936,18 @@
     "description": "Grants HP+5, Def/Res+3."
   },
   {
+    "id": "SID_第97迷宮の覇者1",
+    "description": "Grants Atk/Spd/Def+1."
+  },
+  {
+    "id": "SID_第97迷宮の覇者2",
+    "description": "Grants Atk/Spd/Def+2."
+  },
+  {
+    "id": "SID_第97迷宮の覇者3",
+    "description": "Grants Atk/Spd/Def+3."
+  },
+  {
     "id": "SID_第4迷宮の覇者1",
     "description": "Grants Spd+1."
   },
@@ -3304,6 +3316,18 @@
     "description": "At start of turn, if unit is adjacent to an ally, grants Spd/Def+5 to unit for 1 turn."
   },
   {
+    "id": "SID_速さ守備の備え1",
+    "description": "If【Bonus】is active on unit, grants Spd/Def+X to unit during combat (X = number of【Bonus】effects active on unit, excluding stat bonuses, × 2, + 1; max 3).<br><br>【Bonus】<br>All effects that last \"for 1 turn\" or \"that turn only.\" Includes bonuses granted by a skill like Rally or Hone and positive status effects (extra movement or effects like Dominance)."
+  },
+  {
+    "id": "SID_速さ守備の備え2",
+    "description": "If【Bonus】is active on unit, grants Spd/Def+X to unit during combat (X = number of【Bonus】effects active on unit, excluding stat bonuses, × 2, + 1; max 5).<br><br>【Bonus】<br>All effects that last \"for 1 turn\" or \"that turn only.\" Includes bonuses granted by a skill like Rally or Hone and positive status effects (extra movement or effects like Dominance)."
+  },
+  {
+    "id": "SID_速さ守備の備え3",
+    "description": "If【Bonus】is active on unit, grants Spd/Def+X to unit during combat (X = number of【Bonus】effects active on unit, excluding stat bonuses, × 2, + 3; max 7).<br><br>【Bonus】<br>All effects that last \"for 1 turn\" or \"that turn only.\" Includes bonuses granted by a skill like Rally or Hone and positive status effects (extra movement or effects like Dominance)."
+  },
+  {
     "id": "SID_速さ守備の牽制1",
     "description": "Inflicts Spd/Def-2 on foes within 2 spaces during combat."
   },
@@ -3842,6 +3866,18 @@
   {
     "id": "SID_生命の疾風3",
     "description": "At start of combat, if unit's HP ≥ foe's HP+3, grants Spd+6 during combat."
+  },
+  {
+    "id": "SID_怒り1",
+    "description": "At start of turn, if unit's HP ≤ 25% and unit's attack can trigger their Special, grants Special cooldown count-1, and deals +10 damage when Special triggers."
+  },
+  {
+    "id": "SID_怒り2",
+    "description": "At start of turn, if unit's HP ≤ 50% and unit's attack can trigger their Special, grants Special cooldown count-1, and deals +10 damage when Special triggers."
+  },
+  {
+    "id": "SID_怒り3",
+    "description": "At start of turn, if unit's HP ≤ 75% and unit's attack can trigger their Special, grants Special cooldown count-1, and deals +10 damage when Special triggers."
   },
   {
     "id": "SID_神罰の杖1",

@@ -1640,6 +1640,38 @@
     ]
   },
   {
+    "id": "SID_攻速鼓譟・強化無効",
+    "game8_id": "542824",
+    "name": "A/S Outcry Dull",
+    "group_name": "A/S Outcry Dull",
+    "category": "passivec",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d5/A_S_Outcry_Dull.png/revision/latest?cb=20250806044911",
+    "is_prf": false,
+    "sp": 300,
+    "tier": 4,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Cavalry"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "All Melee",
+          "All Breath",
+          "All Beast"
+        ]
+      }
+    },
+    "addition_date": "2025-08-06",
+    "release_date": "2025-08-07",
+    "downgrade_ids": [
+      "SID_攻撃の鼓舞3",
+      "SID_速さの鼓舞3"
+    ]
+  },
+  {
     "id": "SID_攻速牽制・運び手",
     "game8_id": "429067",
     "name": "A/S Rein Snap",
@@ -13683,6 +13715,7 @@
       "SID_正の裁き",
       "SID_幻影の書",
       "SID_敬虔なる信徒の供物",
+      "SID_お茶会の焼き菓子",
       "SID_終端グルヴェイグ",
       "SID_至光アーリアル",
       "SID_魂の秘儀",
@@ -14466,6 +14499,30 @@
     "downgrade_ids": [
       "SID_銀の斧"
     ]
+  },
+  {
+    "id": "SID_絶望の邪斧_一",
+    "base_id": "SID_絶望の邪斧",
+    "game8_id": "330515",
+    "name": "Axe of Despair",
+    "group_name": "Axe of Despair",
+    "category": "weapon",
+    "weapon_type": "Green Axe",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/18/Axe_of_Despair_W.png/revision/latest?cb=20250806044952",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 1,
+    "refine": "skill1",
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Green Axe"
+        ]
+      }
+    }
   },
   {
     "id": "SID_愛の祭の斧",
@@ -42010,6 +42067,7 @@
       "SID_ラウアバルチャー",
       "SID_ウルファラウア",
       "SID_エンゲージリング",
+      "SID_紅茶のポット",
       "SID_トマトの本",
       "SID_平和の花"
     ],
@@ -43626,7 +43684,8 @@
     "upgrade_ids": [
       "SID_迅雷風烈・鬼没",
       "SID_迅雷風烈・無極",
-      "SID_迅雷風烈・追撃鼓動"
+      "SID_迅雷風烈・追撃鼓動",
+      "SID_迅雷風烈・初撃鼓動"
     ],
     "downgrade_ids": [
       "SID_迅雷風烈・偶数2"
@@ -45364,6 +45423,30 @@
       "SID_トロン",
       "SID_シャイン"
     ]
+  },
+  {
+    "id": "SID_仄暗き邪竜の松明_一",
+    "base_id": "SID_仄暗き邪竜の松明",
+    "game8_id": "316310",
+    "name": "Fell Flambeau",
+    "group_name": "Fell Flambeau",
+    "category": "weapon",
+    "weapon_type": "Blue Tome",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f4/Fell_Flambeau_W.png/revision/latest?cb=20250806044931",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 1,
+    "refine": "skill1",
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Blue Tome"
+        ]
+      }
+    }
   },
   {
     "id": "SID_邪竜の王女",
@@ -53918,6 +54001,31 @@
     ]
   },
   {
+    "id": "SID_ギンヌンガガプ_一",
+    "base_id": "SID_ギンヌンガガプ",
+    "game8_id": "337695",
+    "name": "Ginnungagap",
+    "group_name": "Ginnungagap",
+    "category": "weapon",
+    "weapon_type": "Red Tome",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c9/Ginnungagap_weapon_W.png/revision/latest?cb=20250806045003",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 1,
+    "refine": "skill1",
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Red Tome"
+        ]
+      }
+    }
+  },
+  {
     "id": "SID_ギャッラルブルー",
     "game8_id": "267844",
     "name": "Gjallarbrú",
@@ -61199,6 +61307,7 @@
     "upgrade_ids": [
       "SID_攻魔鼓舞・奮激",
       "SID_攻速鼓舞・奮激",
+      "SID_攻速鼓譟・強化無効",
       "SID_攻撃の鼓舞4",
       "SID_攻撃の相互鼓舞"
     ],
@@ -61424,6 +61533,7 @@
     "release_date": "2017-02-02",
     "upgrade_ids": [
       "SID_攻速鼓舞・奮激",
+      "SID_攻速鼓譟・強化無効",
       "SID_速さの鼓舞4",
       "SID_速さの相互鼓舞"
     ],
@@ -61665,6 +61775,85 @@
     "downgrade_ids": [
       "SID_銀の槍"
     ]
+  },
+  {
+    "id": "SID_凄腕の鋭槍_一",
+    "base_id": "SID_凄腕の鋭槍",
+    "game8_id": "327122",
+    "name": "Hotshot Lance",
+    "group_name": "Hotshot Lance",
+    "category": "weapon",
+    "weapon_type": "Blue Lance",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/1f/Hotshot_Lance_W.png/revision/latest?cb=20250806044942",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 1,
+    "refine": "skill1",
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Blue Lance"
+        ]
+      }
+    }
+  },
+  {
+    "id": "SID_狼騎士団の弓",
+    "game8_id": "542987",
+    "name": "Howling Bow",
+    "group_name": "Howling Bow",
+    "category": "weapon",
+    "weapon_type": "All Bow",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 1,
+    "cd": 0,
+    "eff": [
+      "flying"
+    ],
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "All Bow"
+        ]
+      }
+    },
+    "addition_date": "2021-10-18",
+    "release_date": "2021-10-19"
+  },
+  {
+    "id": "SID_狼騎士団の弓_一",
+    "base_id": "SID_狼騎士団の弓",
+    "game8_id": "542987",
+    "name": "Howling Bow",
+    "group_name": "Howling Bow",
+    "category": "weapon",
+    "weapon_type": "All Bow",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/2/2d/Howling_Bow_W.png/revision/latest?cb=20250806045013",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 1,
+    "refine": "skill1",
+    "cd": 0,
+    "eff": [
+      "flying"
+    ],
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "All Bow"
+        ]
+      }
+    }
   },
   {
     "id": "SID_HP1",
@@ -63443,6 +63632,32 @@
         ]
       }
     }
+  },
+  {
+    "id": "SID_真・閉界",
+    "game8_id": "542819",
+    "name": "Immurement",
+    "group_name": "Immurement",
+    "category": "special",
+    "is_prf": true,
+    "sp": 500,
+    "tier": 3,
+    "cd": 5,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_not_use": [
+          "Colorless Staff"
+        ]
+      }
+    },
+    "addition_date": "2025-08-06",
+    "release_date": "2025-08-07",
+    "downgrade_ids": [
+      "SID_血讐"
+    ]
   },
   {
     "id": "SID_見通せぬ深き暗闇",
@@ -68083,6 +68298,28 @@
     "downgrade_ids": [
       "SID_銀の斧"
     ]
+  },
+  {
+    "id": "SID_女騎士",
+    "game8_id": "542820",
+    "name": "Lady Knight",
+    "group_name": "Lady Knight",
+    "category": "passivea",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f2/Lady_Knight.png/revision/latest?cb=20250806044841",
+    "is_prf": true,
+    "sp": 300,
+    "tier": 1,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "none": true
+      }
+    },
+    "addition_date": "2025-08-06",
+    "release_date": "2025-08-07"
   },
   {
     "id": "SID_草原の公女の弓",
@@ -79231,7 +79468,8 @@
     "upgrade_ids": [
       "SID_迅雷風烈・鬼没",
       "SID_迅雷風烈・無極",
-      "SID_迅雷風烈・追撃鼓動"
+      "SID_迅雷風烈・追撃鼓動",
+      "SID_迅雷風烈・初撃鼓動"
     ],
     "downgrade_ids": [
       "SID_迅雷風烈・奇数2"
@@ -83266,6 +83504,32 @@
     "release_date": "2024-06-17",
     "downgrade_ids": [
       "SID_銀の槍"
+    ]
+  },
+  {
+    "id": "SID_お茶会の焼き菓子",
+    "game8_id": "542818",
+    "name": "Princess Teapot",
+    "group_name": "Princess Teapot",
+    "category": "weapon",
+    "weapon_type": "Colorless Tome",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Colorless Tome"
+        ]
+      }
+    },
+    "addition_date": "2025-08-06",
+    "release_date": "2025-08-07",
+    "downgrade_ids": [
+      "SID_アトラース"
     ]
   },
   {
@@ -89512,6 +89776,7 @@
     "release_date": "2017-02-02",
     "upgrade_ids": [
       "SID_閉界",
+      "SID_真・閉界",
       "SID_光は時"
     ],
     "downgrade_ids": [
@@ -92732,6 +92997,7 @@
       "SID_ラウアバルチャー",
       "SID_ウルファラウア",
       "SID_エンゲージリング",
+      "SID_紅茶のポット",
       "SID_トマトの本",
       "SID_平和の花"
     ],
@@ -97373,6 +97639,63 @@
     }
   },
   {
+    "id": "SID_給仕のナイフ",
+    "game8_id": "542812",
+    "name": "Serving Knife",
+    "group_name": "Serving Knife",
+    "category": "weapon",
+    "weapon_type": "Red Sword",
+    "is_prf": false,
+    "sp": 200,
+    "tier": 3,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Red Sword"
+        ]
+      }
+    },
+    "addition_date": "2025-08-06",
+    "release_date": "2025-08-07",
+    "upgrade_ids": [
+      "SID_給仕のナイフ＋"
+    ],
+    "downgrade_ids": [
+      "SID_鋼の剣"
+    ]
+  },
+  {
+    "id": "SID_給仕のナイフ＋",
+    "game8_id": "542813",
+    "name": "Serving Knife+",
+    "group_name": "Serving Knife+",
+    "category": "weapon",
+    "weapon_type": "Red Sword",
+    "is_prf": false,
+    "sp": 300,
+    "tier": 4,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Red Sword"
+        ]
+      }
+    },
+    "addition_date": "2025-08-06",
+    "release_date": "2025-08-07",
+    "downgrade_ids": [
+      "SID_給仕のナイフ"
+    ]
+  },
+  {
     "id": "SID_セツナの緩弓",
     "game8_id": "292515",
     "name": "Setsuna's Yumi",
@@ -99226,6 +99549,7 @@
       "SID_愛の祭器",
       "SID_蒼海割る裂帛の斧",
       "SID_銀の斧＋",
+      "SID_高貴な淑女のお茶会",
       "SID_シンモラ",
       "SID_優しさと強さの絆斧",
       "SID_想い宿す妹達の重斧",
@@ -99661,6 +99985,7 @@
       "SID_海角の星槍",
       "SID_深き海の底の双槍",
       "SID_砂塵貫く蒼き剛槍",
+      "SID_お茶会の警護の槍",
       "SID_薔薇の槍",
       "SID_天馬姉妹の三角槍",
       "SID_二国の花嫁のブーケ",
@@ -99729,6 +100054,32 @@
     "release_date": "2024-06-07",
     "downgrade_ids": [
       "SID_レクスカリバー"
+    ]
+  },
+  {
+    "id": "SID_高貴な淑女のお茶会",
+    "game8_id": "542814",
+    "name": "Silver Spoon",
+    "group_name": "Silver Spoon",
+    "category": "weapon",
+    "weapon_type": "Green Axe",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Green Axe"
+        ]
+      }
+    },
+    "addition_date": "2025-08-06",
+    "release_date": "2025-08-07",
+    "downgrade_ids": [
+      "SID_銀の斧"
     ]
   },
   {
@@ -105546,6 +105897,36 @@
     ]
   },
   {
+    "id": "SID_速さ魔防の看破",
+    "game8_id": "542822",
+    "name": "Spd/Res Detect",
+    "group_name": "Spd/Res Detect",
+    "category": "passiveb",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d2/Spd_Res_Detect.png/revision/latest?cb=20250806044900",
+    "is_prf": false,
+    "sp": 300,
+    "tier": 4,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Cavalry",
+          "Flying"
+        ]
+      },
+      "weapons": {
+        "can_not_use": [
+          "Colorless Staff"
+        ]
+      }
+    },
+    "addition_date": "2025-08-06",
+    "release_date": "2025-08-07",
+    "downgrade_ids": [
+      "SID_速さ魔防の干渉3"
+    ]
+  },
+  {
     "id": "SID_速さ魔防の不和",
     "game8_id": "480312",
     "name": "Spd/Res Discord",
@@ -106652,6 +107033,9 @@
     },
     "addition_date": "2020-06-18",
     "release_date": "2020-06-18",
+    "upgrade_ids": [
+      "SID_速さ魔防の看破"
+    ],
     "downgrade_ids": [
       "SID_速さ魔防の干渉2"
     ]
@@ -111217,6 +111601,7 @@
       "SID_旭日の剣",
       "SID_守りの剣",
       "SID_砂浜のスコップ",
+      "SID_給仕のナイフ",
       "SID_銀の剣",
       "SID_キルソード2",
       "SID_士気旺盛の剣",
@@ -115105,6 +115490,91 @@
     ]
   },
   {
+    "id": "SID_紅茶のポット",
+    "game8_id": "542815",
+    "name": "Teapot",
+    "group_name": "Teapot",
+    "category": "weapon",
+    "weapon_type": "Red Tome",
+    "is_prf": false,
+    "sp": 200,
+    "tier": 3,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Red Tome"
+        ]
+      }
+    },
+    "addition_date": "2025-08-06",
+    "release_date": "2025-08-07",
+    "upgrade_ids": [
+      "SID_紅茶のポット＋"
+    ],
+    "downgrade_ids": [
+      "SID_エルファイアー",
+      "SID_ルイン"
+    ]
+  },
+  {
+    "id": "SID_紅茶のポット＋",
+    "game8_id": "542816",
+    "name": "Teapot+",
+    "group_name": "Teapot+",
+    "category": "weapon",
+    "weapon_type": "Red Tome",
+    "is_prf": false,
+    "sp": 300,
+    "tier": 4,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Red Tome"
+        ]
+      }
+    },
+    "addition_date": "2025-08-06",
+    "release_date": "2025-08-07",
+    "downgrade_ids": [
+      "SID_紅茶のポット"
+    ]
+  },
+  {
+    "id": "SID_お茶会の警護の槍",
+    "game8_id": "542817",
+    "name": "Teatime Lance",
+    "group_name": "Teatime Lance",
+    "category": "weapon",
+    "weapon_type": "Blue Lance",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "cd": -2,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Blue Lance"
+        ]
+      }
+    },
+    "addition_date": "2025-08-06",
+    "release_date": "2025-08-07",
+    "downgrade_ids": [
+      "SID_銀の槍"
+    ]
+  },
+  {
     "id": "SID_ティーポット",
     "game8_id": "420631",
     "name": "Teatime Set",
@@ -115242,6 +115712,38 @@
     "release_date": "2020-01-01",
     "downgrade_ids": [
       "SID_手毬"
+    ]
+  },
+  {
+    "id": "SID_迅雷風烈・初撃鼓動",
+    "game8_id": "542823",
+    "name": "Tempest Burst",
+    "group_name": "Tempest Burst",
+    "category": "passivec",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/10/Tempest_Burst.png/revision/latest?cb=20250806044921",
+    "is_prf": false,
+    "sp": 300,
+    "tier": 4,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Infantry"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "All Melee",
+          "All Breath",
+          "All Beast"
+        ]
+      }
+    },
+    "addition_date": "2025-08-06",
+    "release_date": "2025-08-07",
+    "downgrade_ids": [
+      "SID_迅雷風烈・奇数3",
+      "SID_迅雷風烈・偶数3"
     ]
   },
   {
@@ -118984,6 +119486,28 @@
     },
     "addition_date": "2022-05-09",
     "release_date": "2022-05-10"
+  },
+  {
+    "id": "SID_真・一匹狼",
+    "game8_id": "542821",
+    "name": "True Lone Wolf",
+    "group_name": "True Lone Wolf",
+    "category": "passiveb",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/08/True_Lone_Wolf.png/revision/latest?cb=20250806044850",
+    "is_prf": true,
+    "sp": 300,
+    "tier": 1,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "none": true
+      }
+    },
+    "addition_date": "2025-08-06",
+    "release_date": "2025-08-07"
   },
   {
     "id": "SID_真月光閃",

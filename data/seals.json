@@ -3767,6 +3767,54 @@
     }
   },
   {
+    "id": "SID_第97迷宮の覇者1",
+    "game8_id": null,
+    "name": "Squad Ace CS 1",
+    "group_name": "Squad Ace CS",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/a1/Squad_Ace_BY_1.png/revision/latest?cb=20231206041057",
+    "sp": 120,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "none": true
+      }
+    }
+  },
+  {
+    "id": "SID_第97迷宮の覇者2",
+    "game8_id": null,
+    "name": "Squad Ace CS 2",
+    "group_name": "Squad Ace CS",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/38/Squad_Ace_BY_2.png/revision/latest?cb=20231206041107",
+    "sp": 180,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "none": true
+      }
+    }
+  },
+  {
+    "id": "SID_第97迷宮の覇者3",
+    "game8_id": null,
+    "name": "Squad Ace CS 3",
+    "group_name": "Squad Ace CS",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/2/2f/Squad_Ace_BY_3.png/revision/latest?cb=20231206041118",
+    "sp": 240,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "none": true
+      }
+    }
+  },
+  {
     "id": "SID_第4迷宮の覇者1",
     "game8_id": null,
     "name": "Squad Ace D 1",
@@ -13941,6 +13989,66 @@
     }
   },
   {
+    "id": "SID_速さ守備の備え1",
+    "game8_id": null,
+    "name": "Spd/Def Prime 1",
+    "group_name": "Spd/Def Prime",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e2/Spd_Def_Prime_1.png/revision/latest?cb=20240806073219",
+    "sp": 60,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_not_use": [
+          "Colorless Staff",
+          "All Tome",
+          "All Breath"
+        ]
+      }
+    }
+  },
+  {
+    "id": "SID_速さ守備の備え2",
+    "game8_id": null,
+    "name": "Spd/Def Prime 2",
+    "group_name": "Spd/Def Prime",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c0/Spd_Def_Prime_2.png/revision/latest?cb=20240806073230",
+    "sp": 120,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_not_use": [
+          "Colorless Staff",
+          "All Tome",
+          "All Breath"
+        ]
+      }
+    }
+  },
+  {
+    "id": "SID_速さ守備の備え3",
+    "game8_id": "542941",
+    "name": "Spd/Def Prime 3",
+    "group_name": "Spd/Def Prime",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/1f/Spd_Def_Prime_3.png/revision/latest?cb=20240806073240",
+    "sp": 240,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_not_use": [
+          "Colorless Staff",
+          "All Tome",
+          "All Breath"
+        ]
+      }
+    }
+  },
+  {
     "id": "SID_速さ守備の牽制1",
     "game8_id": null,
     "name": "Spd/Def Rein 1",
@@ -16230,6 +16338,75 @@
       },
       "weapons": {
         "none": true
+      }
+    }
+  },
+  {
+    "id": "SID_怒り1",
+    "game8_id": null,
+    "name": "Wrath 1",
+    "group_name": "Wrath",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/55/Wrath_1.png/revision/latest?cb=20180810072718",
+    "sp": 60,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Infantry",
+          "Armored"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "All Melee",
+          "All Breath",
+          "All Beast"
+        ]
+      }
+    }
+  },
+  {
+    "id": "SID_怒り2",
+    "game8_id": null,
+    "name": "Wrath 2",
+    "group_name": "Wrath",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/2/2d/Wrath_2.png/revision/latest?cb=20180810072721",
+    "sp": 120,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Infantry",
+          "Armored"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "All Melee",
+          "All Breath",
+          "All Beast"
+        ]
+      }
+    }
+  },
+  {
+    "id": "SID_怒り3",
+    "game8_id": null,
+    "name": "Wrath 3",
+    "group_name": "Wrath",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/10/Wrath_3.png/revision/latest?cb=20180810072723",
+    "sp": 240,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Infantry",
+          "Armored"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "All Melee",
+          "All Breath",
+          "All Beast"
+        ]
       }
     }
   },

@@ -14232,6 +14232,90 @@
     "unlock": 2
   },
   {
+    "unit_id": "PID_お茶会セリーヌ",
+    "skill_id": "SID_攻撃速さの機先1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_お茶会セリーヌ",
+    "skill_id": "SID_攻撃速さの機先2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_お茶会セリーヌ",
+    "skill_id": "SID_攻撃速さの機先3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_お茶会セリーヌ",
+    "skill_id": "SID_攻撃速さの制空",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_お茶会セリーヌ",
+    "skill_id": "SID_エルファイアー",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_お茶会セリーヌ",
+    "skill_id": "SID_ファイアー",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_お茶会セリーヌ",
+    "skill_id": "SID_魔防の応援",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_お茶会セリーヌ",
+    "skill_id": "SID_魔防の大応援",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_お茶会セリーヌ",
+    "skill_id": "SID_魔防の大応援＋",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_お茶会セリーヌ",
+    "skill_id": "SID_速さ魔防の牽制1",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_お茶会セリーヌ",
+    "skill_id": "SID_速さ魔防の牽制2",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_お茶会セリーヌ",
+    "skill_id": "SID_速さ魔防の牽制3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_お茶会セリーヌ",
+    "skill_id": "SID_紅茶のポット",
+    "default": 3,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_お茶会セリーヌ",
+    "skill_id": "SID_紅茶のポット＋",
+    "default": 5,
+    "unlock": 5
+  },
+  {
     "unit_id": "PID_セリーヌ",
     "skill_id": "SID_再移動制限1",
     "default": 0,
@@ -31044,6 +31128,102 @@
     "unlock": 2
   },
   {
+    "unit_id": "PID_お茶会フェリクス",
+    "skill_id": "SID_攻撃速さの万全1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_お茶会フェリクス",
+    "skill_id": "SID_攻撃速さの万全2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_お茶会フェリクス",
+    "skill_id": "SID_攻撃速さの万全3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_お茶会フェリクス",
+    "skill_id": "SID_凶星",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_お茶会フェリクス",
+    "skill_id": "SID_陣風",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_お茶会フェリクス",
+    "skill_id": "SID_鉄の槍",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_お茶会フェリクス",
+    "skill_id": "SID_星影",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_お茶会フェリクス",
+    "skill_id": "SID_迅雷風烈・奇数1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_お茶会フェリクス",
+    "skill_id": "SID_迅雷風烈・奇数2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_お茶会フェリクス",
+    "skill_id": "SID_迅雷風烈・奇数3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_お茶会フェリクス",
+    "skill_id": "SID_攻撃速さの完全",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_お茶会フェリクス",
+    "skill_id": "SID_銀の槍",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_お茶会フェリクス",
+    "skill_id": "SID_鋼の槍",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_お茶会フェリクス",
+    "skill_id": "SID_お茶会の警護の槍",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_お茶会フェリクス",
+    "skill_id": "SID_迅雷風烈・初撃鼓動",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_お茶会フェリクス",
+    "skill_id": "SID_真・一匹狼",
+    "default": 0,
+    "unlock": 5
+  },
+  {
     "unit_id": "PID_総選挙フェリクス",
     "skill_id": "SID_攻撃速さの激突1",
     "default": 0,
@@ -31360,6 +31540,72 @@
     "skill_id": "SID_守備の威嚇1",
     "default": 0,
     "unlock": 1
+  },
+  {
+    "unit_id": "PID_お茶会フィン",
+    "skill_id": "SID_鉄の剣",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_お茶会フィン",
+    "skill_id": "SID_給仕のナイフ",
+    "default": 3,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_お茶会フィン",
+    "skill_id": "SID_給仕のナイフ＋",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_お茶会フィン",
+    "skill_id": "SID_体当たり",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_お茶会フィン",
+    "skill_id": "SID_速さ守備の激突1",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_お茶会フィン",
+    "skill_id": "SID_速さ守備の激突2",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_お茶会フィン",
+    "skill_id": "SID_速さ守備の激突3",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_お茶会フィン",
+    "skill_id": "SID_速さ守備の干渉1",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_お茶会フィン",
+    "skill_id": "SID_速さ守備の干渉2",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_お茶会フィン",
+    "skill_id": "SID_速さ守備の干渉3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_お茶会フィン",
+    "skill_id": "SID_鋼の剣",
+    "default": 2,
+    "unlock": 2
   },
   {
     "unit_id": "PID_フィン",
@@ -45182,6 +45428,120 @@
   {
     "unit_id": "PID_魔器イングリット",
     "skill_id": "SID_鋼の槍",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_双界イングリット",
+    "skill_id": "SID_攻速鼓譟・強化無効",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_双界イングリット",
+    "skill_id": "SID_竜裂",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_双界イングリット",
+    "skill_id": "SID_伏竜",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_双界イングリット",
+    "skill_id": "SID_怒涛・再起1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_双界イングリット",
+    "skill_id": "SID_怒涛・再起2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_双界イングリット",
+    "skill_id": "SID_怒涛・再起3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_双界イングリット",
+    "skill_id": "SID_霞切り",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_双界イングリット",
+    "skill_id": "SID_速さの鼓舞1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_双界イングリット",
+    "skill_id": "SID_速さの鼓舞2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_双界イングリット",
+    "skill_id": "SID_速さの鼓舞3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_双界イングリット",
+    "skill_id": "SID_鉄の斧",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_双界イングリット",
+    "skill_id": "SID_女騎士",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_双界イングリット",
+    "skill_id": "SID_強襲・神速",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_双界イングリット",
+    "skill_id": "SID_守備の応援",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_双界イングリット",
+    "skill_id": "SID_守備の大応援",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_双界イングリット",
+    "skill_id": "SID_守備の大応援＋",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_双界イングリット",
+    "skill_id": "SID_銀の斧",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_双界イングリット",
+    "skill_id": "SID_高貴な淑女のお茶会",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_双界イングリット",
+    "skill_id": "SID_鋼の斧",
     "default": 2,
     "unlock": 2
   },
@@ -89077,6 +89437,12 @@
   },
   {
     "unit_id": "PID_ザガロ",
+    "skill_id": "SID_狼騎士団の弓",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_ザガロ",
     "skill_id": "SID_瞬撃の弓",
     "default": 4,
     "unlock": 3
@@ -102986,6 +103352,126 @@
   {
     "unit_id": "PID_ヴェロニカ2味方",
     "skill_id": "SID_速さ魔防の遠影3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_お茶会ヴェロニカ2",
+    "skill_id": "SID_攻速鼓舞・奮激",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_お茶会ヴェロニカ2",
+    "skill_id": "SID_アトラース",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_お茶会ヴェロニカ2",
+    "skill_id": "SID_鬼神の一撃1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_お茶会ヴェロニカ2",
+    "skill_id": "SID_エルロック",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_お茶会ヴェロニカ2",
+    "skill_id": "SID_速さの鼓舞1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_お茶会ヴェロニカ2",
+    "skill_id": "SID_速さの鼓舞2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_お茶会ヴェロニカ2",
+    "skill_id": "SID_速さの鼓舞3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_お茶会ヴェロニカ2",
+    "skill_id": "SID_真・閉界",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_お茶会ヴェロニカ2",
+    "skill_id": "SID_お茶会の焼き菓子",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_お茶会ヴェロニカ2",
+    "skill_id": "SID_引き戻し",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_お茶会ヴェロニカ2",
+    "skill_id": "SID_血讐",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_お茶会ヴェロニカ2",
+    "skill_id": "SID_雪辱",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_お茶会ヴェロニカ2",
+    "skill_id": "SID_鬼神飛燕の掩撃",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_お茶会ヴェロニカ2",
+    "skill_id": "SID_速さ魔防の看破",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_お茶会ヴェロニカ2",
+    "skill_id": "SID_速さ魔防の干渉1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_お茶会ヴェロニカ2",
+    "skill_id": "SID_速さ魔防の干渉2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_お茶会ヴェロニカ2",
+    "skill_id": "SID_速さ魔防の干渉3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_お茶会ヴェロニカ2",
+    "skill_id": "SID_ロック",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_お茶会ヴェロニカ2",
+    "skill_id": "SID_鬼神飛燕の一撃1",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_お茶会ヴェロニカ2",
+    "skill_id": "SID_鬼神飛燕の一撃2",
     "default": 0,
     "unlock": 4
   },

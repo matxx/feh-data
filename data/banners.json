@@ -4613,6 +4613,14 @@
     ]
   },
   {
+    "name": "Focus: Lissa & Owain's Battle",
+    "unit_ids": [
+      "PID_ウード",
+      "PID_オーディン",
+      "PID_リズ"
+    ]
+  },
+  {
     "name": "Focus: Long-Haired Gents",
     "unit_ids": [
       "PID_カレル",
@@ -4952,6 +4960,15 @@
       "PID_セテス",
       "PID_ディーク",
       "PID_比翼ベレス"
+    ]
+  },
+  {
+    "name": "Focus: New Power (Aug 2025)",
+    "unit_ids": [
+      "PID_ニュクス",
+      "PID_ファリナ",
+      "PID_砂漠カタリナ",
+      "PID_闇マーク女"
     ]
   },
   {
@@ -6020,6 +6037,14 @@
     ]
   },
   {
+    "name": "Focus: Tempest Trials (Askr's Kin, Pt. 2)",
+    "unit_ids": [
+      "PID_イングリット",
+      "PID_セリーヌ",
+      "PID_ナンナ"
+    ]
+  },
+  {
     "name": "Focus: Tempest Trials (Becoming Me)",
     "unit_ids": [
       "PID_エフラム",
@@ -7053,6 +7078,14 @@
       "PID_総選挙クロム",
       "PID_総選挙ベレス",
       "PID_闇リリス"
+    ]
+  },
+  {
+    "name": "Focus: Weekly Revival 109",
+    "unit_ids": [
+      "PID_リーヴ2味方",
+      "PID_魔器ガングレト味方",
+      "PID_魔器ルフレ女"
     ]
   },
   {
@@ -8238,6 +8271,15 @@
       "PID_スカビオサ2",
       "PID_冬祭エーデルガルト",
       "PID_比翼リオン"
+    ]
+  },
+  {
+    "name": "Hero Fest (Feh's Summer Celebration 2025)",
+    "unit_ids": [
+      "PID_フレスベルグ味方",
+      "PID_幼少カミラ",
+      "PID_比翼マルス2",
+      "PID_比翼レア"
     ]
   },
   {
@@ -9983,6 +10025,15 @@
       "PID_愛の祭コンラート",
       "PID_愛の祭ルドルフ",
       "PID_比翼アルム"
+    ]
+  },
+  {
+    "name": "Lovely Teatime (Focus)",
+    "unit_ids": [
+      "PID_お茶会セリーヌ",
+      "PID_お茶会フェリクス",
+      "PID_お茶会ヴェロニカ2",
+      "PID_双界イングリット"
     ]
   },
   {

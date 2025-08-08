@@ -490,11 +490,18 @@
     "recommended_plus10": "Spd"
   },
   {
-    "id": "PID_ヘズ味方",
+    "id": "PID_双界イングリット",
     "game8_rating": "9.5",
-    "recommended_boon": "Res",
-    "recommended_bane": "Def",
-    "recommended_plus10": "Res"
+    "recommended_boon": "Spd",
+    "recommended_bane": "Res",
+    "recommended_plus10": "Spd"
+  },
+  {
+    "id": "PID_お茶会フェリクス",
+    "game8_rating": "9.5",
+    "recommended_boon": "Spd",
+    "recommended_bane": "Res",
+    "recommended_plus10": "Spd"
   },
   {
     "id": "PID_水着ユーリス",
@@ -523,6 +530,13 @@
     "recommended_boon": "Spd",
     "recommended_bane": "Def",
     "recommended_plus10": "Spd"
+  },
+  {
+    "id": "PID_ヘズ味方",
+    "game8_rating": "9.5",
+    "recommended_boon": "Res",
+    "recommended_bane": "Def",
+    "recommended_plus10": "Res"
   },
   {
     "id": "PID_メリアエ味方",
@@ -830,6 +844,13 @@
     "game8_rating": "9.0",
     "recommended_boon": "Spd",
     "recommended_bane": "Res",
+    "recommended_plus10": "Spd"
+  },
+  {
+    "id": "PID_お茶会ヴェロニカ2",
+    "game8_rating": "9.0",
+    "recommended_boon": "Spd",
+    "recommended_bane": "Def",
     "recommended_plus10": "Spd"
   },
   {
@@ -3148,6 +3169,20 @@
     "recommended_boon": "Atk",
     "recommended_bane": "Res",
     "recommended_plus10": "Atk"
+  },
+  {
+    "id": "PID_お茶会セリーヌ",
+    "game8_rating": "8.5",
+    "recommended_boon": "Spd",
+    "recommended_bane": "Def",
+    "recommended_plus10": "Spd"
+  },
+  {
+    "id": "PID_お茶会フィン",
+    "game8_rating": "8.5",
+    "recommended_boon": "Spd",
+    "recommended_bane": "Res",
+    "recommended_plus10": "Spd"
   },
   {
     "id": "PID_神階ブラミモンド",
@@ -6314,13 +6349,6 @@
     "recommended_plus10": "Spd"
   },
   {
-    "id": "PID_水着フォガート",
-    "game8_rating": "8.0",
-    "recommended_boon": "Spd",
-    "recommended_bane": "Def",
-    "recommended_plus10": "Spd"
-  },
-  {
     "id": "PID_リノアン",
     "game8_rating": "8.0",
     "recommended_boon": null,
@@ -6340,6 +6368,13 @@
     "recommended_boon": "Def",
     "recommended_bane": "Res",
     "recommended_plus10": "Def"
+  },
+  {
+    "id": "PID_水着フォガート",
+    "game8_rating": "8.0",
+    "recommended_boon": "Spd",
+    "recommended_bane": "Def",
+    "recommended_plus10": "Spd"
   },
   {
     "id": "PID_水着外伝パオラ",

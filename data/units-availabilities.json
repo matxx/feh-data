@@ -199,7 +199,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "gsp": 5
+      "gsp": 4.5
     },
     "skill_ids": [
       "SID_リベラシオン",
@@ -4459,7 +4459,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "gsp": 5
+      "gsp": 4.5
     },
     "skill_ids": [
       "SID_伏竜",
@@ -5490,6 +5490,12 @@
           "month": 4,
           "rarity": 4,
           "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 8,
+          "rarity": 4,
+          "cost": 100
         }
       ]
     }
@@ -5840,6 +5846,37 @@
     "divine_codes": {}
   },
   {
+    "id": "PID_お茶会セリーヌ",
+    "is_in": {
+      "gsp": false,
+      "ssp": true,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {
+      "ssp": 4
+    },
+    "skill_ids": [
+      "SID_エルファイアー",
+      "SID_ファイアー",
+      "SID_攻撃速さの制空",
+      "SID_攻撃速さの機先1",
+      "SID_攻撃速さの機先2",
+      "SID_攻撃速さの機先3",
+      "SID_紅茶のポット",
+      "SID_紅茶のポット＋",
+      "SID_速さ魔防の牽制1",
+      "SID_速さ魔防の牽制2",
+      "SID_速さ魔防の牽制3",
+      "SID_魔防の大応援",
+      "SID_魔防の大応援＋",
+      "SID_魔防の応援"
+    ],
+    "divine_codes": {}
+  },
+  {
     "id": "PID_セリーヌ",
     "is_in": {
       "gsp": true,
@@ -5850,7 +5887,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "gsp": 5,
+      "gsp": 4.5,
       "dc": 5
     },
     "skill_ids": [
@@ -6145,7 +6182,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "gsp": 5
+      "gsp": 4.5
     },
     "skill_ids": [
       "SID_凶星",
@@ -9997,7 +10034,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "gsp": 5
+      "gsp": 4.5
     },
     "skill_ids": [
       "SID_伏竜",
@@ -10708,7 +10745,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "gsp": 5
+      "gsp": 4.5
     },
     "skill_ids": [
       "SID_アサルト",
@@ -12718,6 +12755,39 @@
     "divine_codes": {}
   },
   {
+    "id": "PID_お茶会フェリクス",
+    "is_in": {
+      "gsp": false,
+      "ssp": true,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {
+      "ssp": 5
+    },
+    "skill_ids": [
+      "SID_お茶会の警護の槍",
+      "SID_凶星",
+      "SID_攻撃速さの万全1",
+      "SID_攻撃速さの万全2",
+      "SID_攻撃速さの万全3",
+      "SID_攻撃速さの完全",
+      "SID_星影",
+      "SID_真・一匹狼",
+      "SID_迅雷風烈・初撃鼓動",
+      "SID_迅雷風烈・奇数1",
+      "SID_迅雷風烈・奇数2",
+      "SID_迅雷風烈・奇数3",
+      "SID_鉄の槍",
+      "SID_銀の槍",
+      "SID_鋼の槍",
+      "SID_陣風"
+    ],
+    "divine_codes": {}
+  },
+  {
     "id": "PID_総選挙フェリクス",
     "is_in": {
       "gsp": true,
@@ -12869,6 +12939,34 @@
       "SID_砕雷",
       "SID_鉄の槍",
       "SID_鋼の槍"
+    ],
+    "divine_codes": {}
+  },
+  {
+    "id": "PID_お茶会フィン",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": true,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {
+      "hg": 4
+    },
+    "skill_ids": [
+      "SID_体当たり",
+      "SID_給仕のナイフ",
+      "SID_給仕のナイフ＋",
+      "SID_速さ守備の干渉1",
+      "SID_速さ守備の干渉2",
+      "SID_速さ守備の干渉3",
+      "SID_速さ守備の激突1",
+      "SID_速さ守備の激突2",
+      "SID_速さ守備の激突3",
+      "SID_鉄の剣",
+      "SID_鋼の剣"
     ],
     "divine_codes": {}
   },
@@ -14643,7 +14741,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "gsp": 5
+      "gsp": 4.5
     },
     "skill_ids": [
       "SID_女王の騎士の勇槍",
@@ -15056,7 +15154,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "gsp": 5
+      "gsp": 4.5
     },
     "skill_ids": [
       "SID_不壊1",
@@ -16021,7 +16119,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "gsp": 5
+      "gsp": 4.5
     },
     "skill_ids": [
       "SID_伏竜",
@@ -17013,7 +17111,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "gsp": 5,
+      "gsp": 4.5,
       "ldc": 5
     },
     "skill_ids": [
@@ -17725,11 +17823,12 @@
       "ssp": false,
       "hg": true,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "lowest_rarity": {
-      "hg": 4
+      "hg": 4,
+      "ldc": 4
     },
     "skill_ids": [
       "SID_エルサンダー",
@@ -17745,7 +17844,16 @@
       "SID_氷点",
       "SID_氷華"
     ],
-    "divine_codes": {}
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2025,
+          "month": 8,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "PID_ヒューベルト",
@@ -18532,6 +18640,42 @@
         }
       ]
     }
+  },
+  {
+    "id": "PID_双界イングリット",
+    "is_in": {
+      "gsp": false,
+      "ssp": true,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {
+      "ssp": 5
+    },
+    "skill_ids": [
+      "SID_伏竜",
+      "SID_女騎士",
+      "SID_守備の大応援",
+      "SID_守備の大応援＋",
+      "SID_守備の応援",
+      "SID_強襲・神速",
+      "SID_怒涛・再起1",
+      "SID_怒涛・再起2",
+      "SID_怒涛・再起3",
+      "SID_攻速鼓譟・強化無効",
+      "SID_竜裂",
+      "SID_速さの鼓舞1",
+      "SID_速さの鼓舞2",
+      "SID_速さの鼓舞3",
+      "SID_鉄の斧",
+      "SID_銀の斧",
+      "SID_鋼の斧",
+      "SID_霞切り",
+      "SID_高貴な淑女のお茶会"
+    ],
+    "divine_codes": {}
   },
   {
     "id": "PID_イングリット",
@@ -22763,11 +22907,12 @@
       "ssp": true,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "lowest_rarity": {
-      "ssp": 5
+      "ssp": 5,
+      "ldc": 5
     },
     "skill_ids": [
       "SID_ノスフェラート",
@@ -22785,7 +22930,16 @@
       "SID_魔防の紫煙2",
       "SID_魔防の紫煙3"
     ],
-    "divine_codes": {}
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2025,
+          "month": 8,
+          "rarity": 5,
+          "cost": 300
+        }
+      ]
+    }
   },
   {
     "id": "PID_レイラ",
@@ -24286,14 +24440,16 @@
   {
     "id": "PID_リノアン",
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "lowest_rarity": {},
+    "lowest_rarity": {
+      "gsp": 3
+    },
     "skill_ids": [
       "SID_アサルト",
       "SID_グループ",
@@ -24866,7 +25022,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "gsp": 5
+      "gsp": 4.5
     },
     "skill_ids": [
       "SID_一喝",
@@ -26205,11 +26361,12 @@
       "ssp": true,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "lowest_rarity": {
-      "ssp": 5
+      "ssp": 5,
+      "ldc": 5
     },
     "skill_ids": [
       "SID_アトラース",
@@ -26228,7 +26385,16 @@
       "SID_星影",
       "SID_美味しい焼き菓子"
     ],
-    "divine_codes": {}
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2025,
+          "month": 8,
+          "rarity": 5,
+          "cost": 300
+        }
+      ]
+    }
   },
   {
     "id": "PID_魔器マチュア",
@@ -29074,7 +29240,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "gsp": 5,
+      "gsp": 4.5,
       "dc": 5
     },
     "skill_ids": [
@@ -33268,11 +33434,12 @@
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "lowest_rarity": {
-      "gsp": 3
+      "gsp": 3,
+      "ldc": 4
     },
     "skill_ids": [
       "SID_アサルト",
@@ -33292,7 +33459,16 @@
       "SID_魔防の大紋章2",
       "SID_魔防の紋章1"
     ],
-    "divine_codes": {}
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2025,
+          "month": 8,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "PID_パネトネ",
@@ -37411,6 +37587,7 @@
       "SID_攻撃守備の機先2",
       "SID_攻撃守備の機先3",
       "SID_烈風",
+      "SID_狼騎士団の弓",
       "SID_瞬撃の弓",
       "SID_瞬撃の弓＋",
       "SID_砕風",
@@ -38541,11 +38718,12 @@
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "lowest_rarity": {
-      "gsp": 3
+      "gsp": 3,
+      "ldc": 4
     },
     "skill_ids": [
       "SID_キラーアクス",
@@ -38560,7 +38738,16 @@
       "SID_鋼の斧",
       "SID_長盾"
     ],
-    "divine_codes": {}
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2025,
+          "month": 8,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "PID_伝承シェズ男",
@@ -38732,7 +38919,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "gsp": 5,
+      "gsp": 4.5,
       "dc": 5
     },
     "skill_ids": [
@@ -40285,6 +40472,12 @@
         {
           "year": 2023,
           "month": 2,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 8,
           "rarity": 4,
           "cost": 100
         }
@@ -41918,7 +42111,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "gsp": 5
+      "gsp": 4.5
     },
     "skill_ids": [
       "SID_ずっとみんなと一緒",
@@ -43380,6 +43573,43 @@
       "SID_速さ魔防の遠影3",
       "SID_閉界",
       "SID_雪辱"
+    ],
+    "divine_codes": {}
+  },
+  {
+    "id": "PID_お茶会ヴェロニカ2",
+    "is_in": {
+      "gsp": false,
+      "ssp": true,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {
+      "ssp": 5
+    },
+    "skill_ids": [
+      "SID_お茶会の焼き菓子",
+      "SID_アトラース",
+      "SID_エルロック",
+      "SID_ロック",
+      "SID_引き戻し",
+      "SID_攻速鼓舞・奮激",
+      "SID_真・閉界",
+      "SID_血讐",
+      "SID_速さの鼓舞1",
+      "SID_速さの鼓舞2",
+      "SID_速さの鼓舞3",
+      "SID_速さ魔防の干渉1",
+      "SID_速さ魔防の干渉2",
+      "SID_速さ魔防の干渉3",
+      "SID_速さ魔防の看破",
+      "SID_雪辱",
+      "SID_鬼神の一撃1",
+      "SID_鬼神飛燕の一撃1",
+      "SID_鬼神飛燕の一撃2",
+      "SID_鬼神飛燕の掩撃"
     ],
     "divine_codes": {}
   },
