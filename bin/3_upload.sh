@@ -17,3 +17,4 @@ Dir['data/*.json'].each do |filename|
     .upload_file(filename, content_type: 'application/json')
 end
 
+puts hash
