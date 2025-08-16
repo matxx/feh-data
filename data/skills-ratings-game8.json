@@ -1230,6 +1230,11 @@
     "game8_grade": "B"
   },
   {
+    "id": "SID_真覇天帝の剣",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
     "id": "SID_忍の刀",
     "game8_rating": null,
     "game8_grade": null
@@ -3725,6 +3730,11 @@
     "game8_grade": "S"
   },
   {
+    "id": "SID_天真の神弓",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
     "id": "SID_ソグン",
     "game8_rating": "9.0",
     "game8_grade": null
@@ -3796,6 +3806,11 @@
   },
   {
     "id": "SID_アスラの双刃",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_異邦ヴラスキャルヴ",
     "game8_rating": "9.5",
     "game8_grade": "S"
   },
@@ -6760,6 +6775,11 @@
     "game8_grade": "A"
   },
   {
+    "id": "SID_王書グラズヘイム",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
     "id": "SID_光のブレス",
     "game8_rating": null,
     "game8_grade": null
@@ -8935,6 +8955,11 @@
     "game8_grade": "S"
   },
   {
+    "id": "SID_心身の鍛錬の角",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
     "id": "SID_ライブ",
     "game8_rating": null,
     "game8_grade": null
@@ -9193,6 +9218,11 @@
     "id": "SID_回り込み",
     "game8_rating": "8.5",
     "game8_grade": "A"
+  },
+  {
+    "id": "SID_入れ替え・歩法",
+    "game8_rating": "9.9",
+    "game8_grade": "SS"
   },
   {
     "id": "SID_体当たり",
@@ -9985,14 +10015,14 @@
     "game8_grade": "S"
   },
   {
-    "id": "SID_月光閃・承",
-    "game8_rating": "9.5",
-    "game8_grade": "S"
-  },
-  {
     "id": "SID_光炎の紋章",
     "game8_rating": "9.5",
     "game8_grade": "A"
+  },
+  {
+    "id": "SID_月光閃・承",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
   },
   {
     "id": "SID_鎮魂の舞",
@@ -10206,6 +10236,11 @@
   },
   {
     "id": "SID_真・閉界",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_肉体の咆哮",
     "game8_rating": "9.5",
     "game8_grade": "S"
   },
@@ -11870,14 +11905,29 @@
     "game8_grade": null
   },
   {
+    "id": "SID_攻撃速さの絆4",
+    "game8_rating": "9.0",
+    "game8_grade": "A"
+  },
+  {
     "id": "SID_攻撃守備の絆2",
     "game8_rating": null,
     "game8_grade": null
   },
   {
+    "id": "SID_攻撃速さの連帯4",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
     "id": "SID_攻撃守備の絆3",
     "game8_rating": "8.5",
     "game8_grade": "B"
+  },
+  {
+    "id": "SID_攻撃速さの詠唱",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
   },
   {
     "id": "SID_攻撃魔防の絆1",
@@ -11947,11 +11997,6 @@
   {
     "id": "SID_守備魔防の絆3",
     "game8_rating": "8.5",
-    "game8_grade": "A"
-  },
-  {
-    "id": "SID_攻撃速さの絆4",
-    "game8_rating": "9.0",
     "game8_grade": "A"
   },
   {
@@ -12108,11 +12153,6 @@
     "id": "SID_守備魔防の孤軍4",
     "game8_rating": "9.0",
     "game8_grade": "A"
-  },
-  {
-    "id": "SID_攻撃速さの連帯4",
-    "game8_rating": "9.5",
-    "game8_grade": "S"
   },
   {
     "id": "SID_速さ守備の孤軍4",
@@ -12945,6 +12985,16 @@
     "game8_grade": "B"
   },
   {
+    "id": "SID_師の導き",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_天に代わりて",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
     "id": "SID_邪竜の鱗",
     "game8_rating": "9.0",
     "game8_grade": "B"
@@ -12960,14 +13010,14 @@
     "game8_grade": "A"
   },
   {
-    "id": "SID_オスティアの反撃",
-    "game8_rating": "9.5",
-    "game8_grade": "SS"
-  },
-  {
     "id": "SID_サカの掟・承",
     "game8_rating": "9.0",
     "game8_grade": null
+  },
+  {
+    "id": "SID_オスティアの反撃",
+    "game8_rating": "9.5",
+    "game8_grade": "SS"
   },
   {
     "id": "SID_覇神断竜剣",
@@ -12980,12 +13030,12 @@
     "game8_grade": "A"
   },
   {
-    "id": "SID_女神の三雄",
+    "id": "SID_邪竜の重鱗",
     "game8_rating": "9.0",
     "game8_grade": null
   },
   {
-    "id": "SID_邪竜の重鱗",
+    "id": "SID_女神の三雄",
     "game8_rating": "9.0",
     "game8_grade": null
   },
@@ -13010,14 +13060,14 @@
     "game8_grade": "A"
   },
   {
-    "id": "SID_自己研鑽",
-    "game8_rating": "9.5",
-    "game8_grade": "A"
-  },
-  {
     "id": "SID_連閃",
     "game8_rating": "9.5",
     "game8_grade": "S"
+  },
+  {
+    "id": "SID_自己研鑽",
+    "game8_rating": "9.5",
+    "game8_grade": "A"
   },
   {
     "id": "SID_漆黒の悪夢",
@@ -13473,6 +13523,11 @@
     "id": "SID_見切り・反撃不可4",
     "game8_rating": "9.5",
     "game8_grade": "A"
+  },
+  {
+    "id": "SID_真回避・見切り反撃",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
   },
   {
     "id": "SID_回避・叩き込み1",
@@ -14478,6 +14533,11 @@
     "id": "SID_攻撃守備の封印2",
     "game8_rating": "8.5",
     "game8_grade": "A"
+  },
+  {
+    "id": "SID_速さ魔防の枷",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
   },
   {
     "id": "SID_守備魔防の封印1",
@@ -18405,6 +18465,11 @@
     "game8_grade": "A"
   },
   {
+    "id": "SID_鎧の護り手・理・茨",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
     "id": "SID_近距離警戒1",
     "game8_rating": null,
     "game8_grade": null
@@ -19615,14 +19680,14 @@
     "game8_grade": null
   },
   {
-    "id": "SID_束縛、秩序、…・神",
-    "game8_rating": "9.5",
-    "game8_grade": "S"
-  },
-  {
     "id": "SID_盟主の鼓動・承",
     "game8_rating": "9",
     "game8_grade": null
+  },
+  {
+    "id": "SID_束縛、秩序、…・神",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
   },
   {
     "id": "SID_みんなと一緒に・承",
@@ -19705,12 +19770,12 @@
     "game8_grade": "A"
   },
   {
-    "id": "SID_すべてが閉じ…・神",
+    "id": "SID_共に未来を見つめて",
     "game8_rating": "9.5",
     "game8_grade": "S"
   },
   {
-    "id": "SID_共に未来を見つめて",
+    "id": "SID_すべてが閉じ…・神",
     "game8_rating": "9.5",
     "game8_grade": "S"
   },
@@ -19891,6 +19956,11 @@
   },
   {
     "id": "SID_真実の弁護者",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_お母様みたいに",
     "game8_rating": "9.5",
     "game8_grade": "S"
   },

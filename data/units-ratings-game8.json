@@ -490,11 +490,18 @@
     "recommended_plus10": "Spd"
   },
   {
-    "id": "PID_双界イングリット",
+    "id": "PID_水着エイクスルニル",
     "game8_rating": "9.5",
-    "recommended_boon": "Spd",
-    "recommended_bane": "Res",
-    "recommended_plus10": "Spd"
+    "recommended_boon": null,
+    "recommended_bane": "Spd",
+    "recommended_plus10": null
+  },
+  {
+    "id": "PID_ヘズ味方",
+    "game8_rating": "9.5",
+    "recommended_boon": "Res",
+    "recommended_bane": "Def",
+    "recommended_plus10": "Res"
   },
   {
     "id": "PID_お茶会フェリクス",
@@ -504,7 +511,28 @@
     "recommended_plus10": "Spd"
   },
   {
-    "id": "PID_水着ユーリス",
+    "id": "PID_双界イングリット",
+    "game8_rating": "9.5",
+    "recommended_boon": "Spd",
+    "recommended_bane": "Res",
+    "recommended_plus10": "Spd"
+  },
+  {
+    "id": "PID_メリアエ味方",
+    "game8_rating": "9.5",
+    "recommended_boon": "Def",
+    "recommended_bane": "Spd",
+    "recommended_plus10": "Def"
+  },
+  {
+    "id": "PID_総選挙ベレト",
+    "game8_rating": "9.5",
+    "recommended_boon": "Spd",
+    "recommended_bane": "Res",
+    "recommended_plus10": "Spd"
+  },
+  {
+    "id": "PID_比翼ハピ",
     "game8_rating": "9.5",
     "recommended_boon": "Spd",
     "recommended_bane": "Def",
@@ -518,32 +546,32 @@
     "recommended_plus10": "Res"
   },
   {
-    "id": "PID_水着エイクスルニル",
-    "game8_rating": "9.5",
-    "recommended_boon": null,
-    "recommended_bane": "Spd",
-    "recommended_plus10": null
-  },
-  {
-    "id": "PID_比翼ハピ",
+    "id": "PID_水着ユーリス",
     "game8_rating": "9.5",
     "recommended_boon": "Spd",
     "recommended_bane": "Def",
     "recommended_plus10": "Spd"
   },
   {
-    "id": "PID_ヘズ味方",
+    "id": "PID_総選挙バルドル",
     "game8_rating": "9.5",
-    "recommended_boon": "Res",
-    "recommended_bane": "Def",
-    "recommended_plus10": "Res"
+    "recommended_boon": "Spd",
+    "recommended_bane": "Res",
+    "recommended_plus10": "Spd"
   },
   {
-    "id": "PID_メリアエ味方",
+    "id": "PID_総選挙エイクス",
     "game8_rating": "9.5",
     "recommended_boon": "Def",
     "recommended_bane": "Spd",
     "recommended_plus10": "Def"
+  },
+  {
+    "id": "PID_総選挙シャロン",
+    "game8_rating": "9.5",
+    "recommended_boon": "Spd",
+    "recommended_bane": "Res",
+    "recommended_plus10": "Spd"
   },
   {
     "id": "PID_双界外伝カチュア",
@@ -848,6 +876,13 @@
   },
   {
     "id": "PID_お茶会ヴェロニカ2",
+    "game8_rating": "9.0",
+    "recommended_boon": "Spd",
+    "recommended_bane": "Def",
+    "recommended_plus10": "Spd"
+  },
+  {
+    "id": "PID_ブルーノ味方",
     "game8_rating": "9.0",
     "recommended_boon": "Spd",
     "recommended_bane": "Def",
@@ -3164,13 +3199,6 @@
     "recommended_plus10": "Def"
   },
   {
-    "id": "PID_水着バルタザール",
-    "game8_rating": "8.5",
-    "recommended_boon": "Atk",
-    "recommended_bane": "Res",
-    "recommended_plus10": "Atk"
-  },
-  {
     "id": "PID_お茶会セリーヌ",
     "game8_rating": "8.5",
     "recommended_boon": "Spd",
@@ -3183,6 +3211,13 @@
     "recommended_boon": "Spd",
     "recommended_bane": "Res",
     "recommended_plus10": "Spd"
+  },
+  {
+    "id": "PID_水着バルタザール",
+    "game8_rating": "8.5",
+    "recommended_boon": "Atk",
+    "recommended_bane": "Res",
+    "recommended_plus10": "Atk"
   },
   {
     "id": "PID_神階ブラミモンド",
@@ -3500,6 +3535,13 @@
     "recommended_plus10": "Res"
   },
   {
+    "id": "PID_砂漠カタリナ",
+    "game8_rating": "8.0",
+    "recommended_boon": "Spd",
+    "recommended_bane": "Def",
+    "recommended_plus10": "Spd"
+  },
+  {
     "id": "PID_双界ドロテア",
     "game8_rating": "8.5",
     "recommended_boon": "Spd",
@@ -3568,6 +3610,13 @@
     "recommended_boon": "Atk",
     "recommended_bane": "Spd",
     "recommended_plus10": "Atk"
+  },
+  {
+    "id": "PID_ファリナ",
+    "game8_rating": "8.0",
+    "recommended_boon": "Spd",
+    "recommended_bane": "Res",
+    "recommended_plus10": "Spd"
   },
   {
     "id": "PID_パント",
@@ -3700,6 +3749,13 @@
     "game8_rating": "8.5",
     "recommended_boon": "Spd",
     "recommended_bane": "Res",
+    "recommended_plus10": "Atk"
+  },
+  {
+    "id": "PID_ニュクス",
+    "game8_rating": "8.0",
+    "recommended_boon": "Atk",
+    "recommended_bane": "Def",
     "recommended_plus10": "Atk"
   },
   {
@@ -6146,13 +6202,6 @@
     "recommended_plus10": "Spd"
   },
   {
-    "id": "PID_砂漠カタリナ",
-    "game8_rating": "8.0",
-    "recommended_boon": "Spd",
-    "recommended_bane": "Def",
-    "recommended_plus10": "Spd"
-  },
-  {
     "id": "PID_砂漠ラファエル",
     "game8_rating": "8.0",
     "recommended_boon": "Atk",
@@ -6175,13 +6224,6 @@
   },
   {
     "id": "PID_ディートバ",
-    "game8_rating": "8.0",
-    "recommended_boon": "Spd",
-    "recommended_bane": "Res",
-    "recommended_plus10": "Spd"
-  },
-  {
-    "id": "PID_ファリナ",
     "game8_rating": "8.0",
     "recommended_boon": "Spd",
     "recommended_bane": "Res",
@@ -6242,13 +6284,6 @@
     "recommended_boon": "Spd",
     "recommended_bane": "HP",
     "recommended_plus10": "Spd"
-  },
-  {
-    "id": "PID_ニュクス",
-    "game8_rating": "8.0",
-    "recommended_boon": "Atk",
-    "recommended_bane": "Def",
-    "recommended_plus10": "Atk"
   },
   {
     "id": "PID_海賊ビーゼ",
@@ -6349,11 +6384,11 @@
     "recommended_plus10": "Spd"
   },
   {
-    "id": "PID_リノアン",
+    "id": "PID_ダグダ",
     "game8_rating": "8.0",
-    "recommended_boon": null,
-    "recommended_bane": null,
-    "recommended_plus10": "Res"
+    "recommended_boon": "Def",
+    "recommended_bane": "Res",
+    "recommended_plus10": "Def"
   },
   {
     "id": "PID_ホメロス",
@@ -6363,11 +6398,11 @@
     "recommended_plus10": "Spd"
   },
   {
-    "id": "PID_ダグダ",
+    "id": "PID_リノアン",
     "game8_rating": "8.0",
-    "recommended_boon": "Def",
-    "recommended_bane": "Res",
-    "recommended_plus10": "Def"
+    "recommended_boon": null,
+    "recommended_bane": null,
+    "recommended_plus10": "Res"
   },
   {
     "id": "PID_水着フォガート",

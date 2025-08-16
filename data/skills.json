@@ -83,6 +83,35 @@
     ]
   },
   {
+    "id": "SID_鎧の護り手・理・茨",
+    "game8_id": "543993",
+    "name": "A/D Briar P Save",
+    "group_name": "A/D Briar P Save",
+    "category": "passivec",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d5/A_D_Briar_P_Save.png/revision/latest?cb=20250815092348",
+    "is_prf": false,
+    "sp": 300,
+    "tier": 4,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Armored"
+        ]
+      },
+      "weapons": {
+        "none": true
+      }
+    },
+    "addition_date": "2025-08-15",
+    "release_date": "2025-08-15",
+    "version": "9.5",
+    "downgrade_ids": [
+      "SID_鎧の護り手・近間3",
+      "SID_鎧の護り手・遠間3"
+    ]
+  },
+  {
     "id": "SID_攻撃守備の魅了3",
     "game8_id": "451070",
     "name": "A/D Cantrip 3",
@@ -196,6 +225,7 @@
     "version": "6.2",
     "upgrade_ids": [
       "SID_鎧の護り手・遠・茨",
+      "SID_鎧の護り手・理・茨",
       "SID_鎧の護り手・遠・双"
     ],
     "downgrade_ids": [
@@ -389,6 +419,7 @@
     "version": "5.3",
     "upgrade_ids": [
       "SID_鎧の護り手・近・茨",
+      "SID_鎧の護り手・理・茨",
       "SID_鎧の護り手・近・双"
     ],
     "downgrade_ids": [
@@ -2116,6 +2147,7 @@
       "SID_巳年の毒の牙",
       "SID_心の葬り手の枝",
       "SID_滅びの魔拳",
+      "SID_心身の鍛錬の角",
       "SID_双紋章の力",
       "SID_漂う者の角"
     ],
@@ -5355,6 +5387,34 @@
     "version": "7.8",
     "downgrade_ids": [
       "SID_レクスカリバー"
+    ]
+  },
+  {
+    "id": "SID_角逐",
+    "name": "Archrival",
+    "group_name": "Archrival",
+    "category": "special",
+    "is_prf": false,
+    "sp": 500,
+    "tier": 3,
+    "cd": 5,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "All Melee",
+          "All Bow",
+          "All Dagger"
+        ]
+      }
+    },
+    "addition_date": "2025-08-15",
+    "release_date": "2025-08-15",
+    "version": "9.5",
+    "downgrade_ids": [
+      "SID_竜穿"
     ]
   },
   {
@@ -11782,6 +11842,35 @@
     ]
   },
   {
+    "id": "SID_攻撃速さの詠唱",
+    "game8_id": "543990",
+    "name": "Atk/Spd Aria",
+    "group_name": "Atk/Spd Aria",
+    "category": "passivea",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/4d/Atk_Spd_Aria.png/revision/latest?cb=20250815092305",
+    "is_prf": false,
+    "sp": 300,
+    "tier": 4,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Colorless Staff",
+          "All Tome"
+        ]
+      }
+    },
+    "addition_date": "2025-08-15",
+    "release_date": "2025-08-15",
+    "version": "9.5",
+    "downgrade_ids": [
+      "SID_攻撃速さの絆3"
+    ]
+  },
+  {
     "id": "SID_攻撃速さの絆1",
     "game8_id": "266117",
     "name": "Atk/Spd Bond 1",
@@ -11859,6 +11948,7 @@
     "release_date": "2018-02-09",
     "version": "2.2",
     "upgrade_ids": [
+      "SID_攻撃速さの詠唱",
       "SID_攻撃速さの絆4",
       "SID_攻撃速さの連帯4"
     ],
@@ -28156,7 +28246,8 @@
     "release_date": "2020-07-08",
     "version": "4.7",
     "upgrade_ids": [
-      "SID_速さ魔防の封印3"
+      "SID_速さ魔防の封印3",
+      "SID_速さ魔防の枷"
     ],
     "downgrade_ids": [
       "SID_速さ魔防の封印1"
@@ -31016,6 +31107,34 @@
     "addition_date": "2025-06-05",
     "release_date": "2025-06-06",
     "version": "9.5"
+  },
+  {
+    "id": "SID_異邦ヴラスキャルヴ",
+    "game8_id": "543984",
+    "name": "Cryptic Valaskjálf",
+    "group_name": "Cryptic Valaskjálf",
+    "category": "weapon",
+    "weapon_type": "Blue Tome",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Blue Tome"
+        ]
+      }
+    },
+    "addition_date": "2025-08-15",
+    "release_date": "2025-08-16",
+    "version": "9.5",
+    "downgrade_ids": [
+      "SID_トロン",
+      "SID_シャイン"
+    ]
   },
   {
     "id": "SID_明鏡止水",
@@ -40353,6 +40472,7 @@
     "release_date": "2017-02-02",
     "version": "1.0",
     "upgrade_ids": [
+      "SID_角逐",
       "SID_真竜穿射",
       "SID_竜穿射",
       "SID_猛獣",
@@ -55951,6 +56071,33 @@
     }
   },
   {
+    "id": "SID_王書グラズヘイム",
+    "game8_id": "543983",
+    "name": "Glaðsbók",
+    "group_name": "Glaðsbók",
+    "category": "weapon",
+    "weapon_type": "Green Tome",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Green Tome"
+        ]
+      }
+    },
+    "addition_date": "2025-08-15",
+    "release_date": "2025-08-15",
+    "version": "9.5",
+    "downgrade_ids": [
+      "SID_レクスカリバー"
+    ]
+  },
+  {
     "id": "SID_邪眼",
     "game8_id": "266574",
     "name": "Glare",
@@ -61176,6 +61323,29 @@
     ]
   },
   {
+    "id": "SID_天に代わりて",
+    "game8_id": "543989",
+    "name": "Heaven's Stead",
+    "group_name": "Heaven's Stead",
+    "category": "passivea",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/2/2c/Heavens_Stead.png/revision/latest?cb=20250815092254",
+    "is_prf": true,
+    "sp": 300,
+    "tier": 1,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "none": true
+      }
+    },
+    "addition_date": "2025-08-15",
+    "release_date": "2025-08-15",
+    "version": "9.5"
+  },
+  {
     "id": "SID_四天馬騎士の冷槍",
     "game8_id": "483774",
     "name": "Heavenly Icicle",
@@ -65445,6 +65615,7 @@
     "version": "1.0",
     "upgrade_ids": [
       "SID_竜炎",
+      "SID_肉体の咆哮",
       "SID_砂陣",
       "SID_連魔弾",
       "SID_魔弾",
@@ -68677,6 +68848,29 @@
     "downgrade_ids": [
       "SID_銀の弓"
     ]
+  },
+  {
+    "id": "SID_お母様みたいに",
+    "game8_id": "543994",
+    "name": "Just like Mother",
+    "group_name": "Just like Mother",
+    "category": "passivec",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/4a/Just_like_Mother.png/revision/latest?cb=20250815092337",
+    "is_prf": true,
+    "sp": 300,
+    "tier": 1,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "none": true
+      }
+    },
+    "addition_date": "2025-08-15",
+    "release_date": "2025-08-15",
+    "version": "9.5"
   },
   {
     "id": "SID_正義の執行者",
@@ -76309,6 +76503,33 @@
     ]
   },
   {
+    "id": "SID_肉体の咆哮",
+    "game8_id": "543987",
+    "name": "Mighty Roar",
+    "group_name": "Mighty Roar",
+    "category": "special",
+    "is_prf": true,
+    "sp": 500,
+    "tier": 3,
+    "cd": 3,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_not_use": [
+          "Colorless Staff"
+        ]
+      }
+    },
+    "addition_date": "2025-08-15",
+    "release_date": "2025-08-15",
+    "version": "9.5",
+    "downgrade_ids": [
+      "SID_華炎"
+    ]
+  },
+  {
     "id": "SID_大地母神の聖書",
     "game8_id": "382865",
     "name": "Mila's Testament",
@@ -80319,6 +80540,36 @@
     "version": "8.0",
     "downgrade_ids": [
       "SID_見切り追撃の剣"
+    ]
+  },
+  {
+    "id": "SID_真回避・見切り反撃",
+    "game8_id": "543991",
+    "name": "Null C-Avoid",
+    "group_name": "Null C-Avoid",
+    "category": "passiveb",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/fc/Null_C-Avoid.png/revision/latest?cb=20250815092326",
+    "is_prf": false,
+    "sp": 300,
+    "tier": 4,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Infantry"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "All Melee"
+        ]
+      }
+    },
+    "addition_date": "2025-08-15",
+    "release_date": "2025-08-15",
+    "version": "9.5",
+    "downgrade_ids": [
+      "SID_回避・拍節3"
     ]
   },
   {
@@ -86276,6 +86527,29 @@
     "downgrade_ids": [
       "SID_銀の槍"
     ]
+  },
+  {
+    "id": "SID_師の導き",
+    "game8_id": "543988",
+    "name": "Prof's Guidance",
+    "group_name": "Prof's Guidance",
+    "category": "passivea",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/fc/Profs_Guidance.png/revision/latest?cb=20250815092246",
+    "is_prf": true,
+    "sp": 300,
+    "tier": 1,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "none": true
+      }
+    },
+    "addition_date": "2025-08-15",
+    "release_date": "2025-08-15",
+    "version": "9.5"
   },
   {
     "id": "SID_師の授けの書",
@@ -94312,6 +94586,7 @@
       "SID_不幸の花",
       "SID_フォルセティ",
       "SID_ギガスカリバー",
+      "SID_王書グラズヘイム",
       "SID_ヘイズ敵",
       "SID_グラフカリバー",
       "SID_魔銃ブロック",
@@ -101811,6 +102086,7 @@
       "SID_八神アーリアル",
       "SID_可憐に色づく飾り卵",
       "SID_慈愛の王女の魔力",
+      "SID_異邦ヴラスキャルヴ",
       "SID_白夜の王子の菓子箱",
       "SID_春に揺蕩う白夢の卵",
       "SID_魂なき鴉爪の書",
@@ -102837,6 +103113,7 @@
       "SID_尽きざるもの",
       "SID_ソグン",
       "SID_想い合う絆の弓",
+      "SID_天真の神弓",
       "SID_戦姫の和弓",
       "SID_翠風パルティア",
       "SID_聖王国の父娘の神弓"
@@ -103364,6 +103641,7 @@
       "SID_憧憬の剣",
       "SID_戦神の剛なる鉄剣",
       "SID_珍獣騎士の剣",
+      "SID_真覇天帝の剣",
       "SID_天日の神剣",
       "SID_日長石の剣",
       "SID_深き海の底の双剣",
@@ -110318,6 +110596,39 @@
     ]
   },
   {
+    "id": "SID_速さ魔防の枷",
+    "game8_id": "543992",
+    "name": "Spd/Res Shackle",
+    "group_name": "Spd/Res Shackle",
+    "category": "passiveb",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/a1/Spd_Res_Shackle.png/revision/latest?cb=20250815092315",
+    "is_prf": false,
+    "sp": 300,
+    "tier": 4,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Cavalry",
+          "Flying"
+        ]
+      },
+      "weapons": {
+        "can_not_use": [
+          "All Melee",
+          "All Breath",
+          "All Beast"
+        ]
+      }
+    },
+    "addition_date": "2025-08-15",
+    "release_date": "2025-08-15",
+    "version": "9.5",
+    "downgrade_ids": [
+      "SID_速さ魔防の封印2"
+    ]
+  },
+  {
     "id": "SID_速さ魔防の干渉1",
     "game8_id": "290524",
     "name": "Spd/Res Snag 1",
@@ -116038,6 +116349,33 @@
     ]
   },
   {
+    "id": "SID_真覇天帝の剣",
+    "game8_id": "543980",
+    "name": "Sublime Creator",
+    "group_name": "Sublime Creator",
+    "category": "weapon",
+    "weapon_type": "Red Sword",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Red Sword"
+        ]
+      }
+    },
+    "addition_date": "2025-08-15",
+    "release_date": "2025-08-15",
+    "version": "9.5",
+    "downgrade_ids": [
+      "SID_銀の剣"
+    ]
+  },
+  {
     "id": "SID_覇天",
     "game8_id": "336403",
     "name": "Sublime Heaven",
@@ -117244,7 +117582,38 @@
       "SID_トリック",
       "SID_未来を叶える瞳",
       "SID_未来を変える瞳",
-      "SID_未来を映す瞳"
+      "SID_未来を映す瞳",
+      "SID_入れ替え・歩法"
+    ]
+  },
+  {
+    "id": "SID_入れ替え・歩法",
+    "game8_id": "543985",
+    "name": "Swap Gait",
+    "group_name": "Swap Gait",
+    "category": "assist",
+    "is_prf": false,
+    "sp": 400,
+    "tier": 2,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Infantry",
+          "Armored"
+        ]
+      },
+      "weapons": {
+        "can_not_use": [
+          "Colorless Staff"
+        ]
+      }
+    },
+    "addition_date": "2025-08-15",
+    "release_date": "2025-08-15",
+    "version": "9.5",
+    "downgrade_ids": [
+      "SID_入れ替え"
     ]
   },
   {
@@ -119353,6 +119722,35 @@
     ]
   },
   {
+    "id": "SID_心身の鍛錬の角",
+    "game8_id": "543982",
+    "name": "Tempered Antler",
+    "group_name": "Tempered Antler",
+    "category": "weapon",
+    "weapon_type": "All Beast",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Armored"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "All Beast"
+        ]
+      }
+    },
+    "addition_date": "2025-08-15",
+    "release_date": "2025-08-15",
+    "version": "9.5",
+    "downgrade_ids": [
+      "SID_成獣の化身・重装"
+    ]
+  },
+  {
     "id": "SID_迅雷風烈・初撃鼓動",
     "game8_id": "542823",
     "name": "Tempest Burst",
@@ -120153,6 +120551,7 @@
       "SID_八神アーリアル",
       "SID_可憐に色づく飾り卵",
       "SID_慈愛の王女の魔力",
+      "SID_異邦ヴラスキャルヴ",
       "SID_オーラ外伝",
       "SID_白夜の王子の菓子箱",
       "SID_春に揺蕩う白夢の卵",
@@ -123369,6 +123768,36 @@
     "version": "9.5"
   },
   {
+    "id": "SID_天真の神弓",
+    "game8_id": "543981",
+    "name": "Truth Seeker",
+    "group_name": "Truth Seeker",
+    "category": "weapon",
+    "weapon_type": "All Bow",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "eff": [
+      "flying"
+    ],
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "All Bow"
+        ]
+      }
+    },
+    "addition_date": "2025-08-15",
+    "release_date": "2025-08-15",
+    "version": "9.5",
+    "downgrade_ids": [
+      "SID_銀の弓"
+    ]
+  },
+  {
     "id": "SID_仕方がない子ね",
     "game8_id": "512300",
     "name": "Tut-Tut!",
@@ -124964,6 +125393,9 @@
     "addition_date": "2022-09-16",
     "release_date": "2022-09-16",
     "version": "6.9",
+    "upgrade_ids": [
+      "SID_真回避・見切り反撃"
+    ],
     "downgrade_ids": [
       "SID_回避・拍節2"
     ]

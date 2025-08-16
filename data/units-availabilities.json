@@ -2717,6 +2717,37 @@
     "divine_codes": {}
   },
   {
+    "id": "PID_総選挙バルドル",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {},
+    "skill_ids": [
+      "SID_伏竜",
+      "SID_天に代わりて",
+      "SID_天真の神弓",
+      "SID_死の吐息1",
+      "SID_死の吐息2",
+      "SID_死の吐息3",
+      "SID_死の瘴気",
+      "SID_竜穿",
+      "SID_角逐",
+      "SID_速さの吸収1",
+      "SID_速さの吸収2",
+      "SID_速さの吸収3",
+      "SID_速さの吸収4",
+      "SID_鉄の弓",
+      "SID_銀の弓",
+      "SID_鋼の弓"
+    ],
+    "divine_codes": {}
+  },
+  {
     "id": "PID_バルタザール",
     "is_in": {
       "gsp": true,
@@ -3871,6 +3902,35 @@
     }
   },
   {
+    "id": "PID_ブルーノ味方",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": true,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {
+      "hg": 3
+    },
+    "skill_ids": [
+      "SID_エルサンダー",
+      "SID_サンダー",
+      "SID_トロン",
+      "SID_伏竜",
+      "SID_異邦ヴラスキャルヴ",
+      "SID_竜穿",
+      "SID_蛇毒1",
+      "SID_蛇毒2",
+      "SID_蛇毒3",
+      "SID_赤への暗闘1",
+      "SID_赤への暗闘2",
+      "SID_赤への暗闘3"
+    ],
+    "divine_codes": {}
+  },
+  {
     "id": "PID_冬祭ブルーノ",
     "is_in": {
       "gsp": false,
@@ -3907,6 +3967,37 @@
         }
       ]
     }
+  },
+  {
+    "id": "PID_総選挙ベレト",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {},
+    "skill_ids": [
+      "SID_凶星",
+      "SID_回避・拍節1",
+      "SID_回避・拍節2",
+      "SID_回避・拍節3",
+      "SID_師の導き",
+      "SID_攻撃速さの信念",
+      "SID_攻撃速さの信義1",
+      "SID_攻撃速さの信義2",
+      "SID_攻撃速さの信義3",
+      "SID_星影",
+      "SID_真回避・見切り反撃",
+      "SID_真覇天帝の剣",
+      "SID_鉄の剣",
+      "SID_銀の剣",
+      "SID_鋼の剣",
+      "SID_陣風"
+    ],
+    "divine_codes": {}
   },
   {
     "id": "PID_比翼ベレス",
@@ -10024,6 +10115,42 @@
     "divine_codes": {}
   },
   {
+    "id": "PID_総選挙エイクス",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {},
+    "skill_ids": [
+      "SID_入れ替え",
+      "SID_入れ替え・歩法",
+      "SID_幼獣の化身・重装",
+      "SID_強襲隊形",
+      "SID_心身の鍛錬の角",
+      "SID_成獣の化身・重装",
+      "SID_攻撃守備の共栄",
+      "SID_攻撃守備の密集1",
+      "SID_攻撃守備の密集2",
+      "SID_攻撃守備の密集3",
+      "SID_攻撃隊形1",
+      "SID_攻撃隊形2",
+      "SID_攻撃隊形3",
+      "SID_肉体の咆哮",
+      "SID_若獣の化身・重装",
+      "SID_華炎",
+      "SID_蛍火",
+      "SID_鎧の護り手・理・茨",
+      "SID_鎧の護り手・遠間1",
+      "SID_鎧の護り手・遠間2",
+      "SID_鎧の護り手・遠間3"
+    ],
+    "divine_codes": {}
+  },
+  {
     "id": "PID_開花エイル味方",
     "is_in": {
       "gsp": true,
@@ -15263,7 +15390,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "gsp": 5
+      "gsp": 3
     },
     "skill_ids": [
       "SID_堅牢のブレス",
@@ -38619,6 +38746,37 @@
       "SID_飛燕金剛の構え1",
       "SID_飛燕金剛の構え2",
       "SID_飛燕金剛の構え3"
+    ],
+    "divine_codes": {}
+  },
+  {
+    "id": "PID_総選挙シャロン",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {},
+    "skill_ids": [
+      "SID_お母様みたいに",
+      "SID_ウインド",
+      "SID_エルウインド",
+      "SID_レクスカリバー",
+      "SID_影月",
+      "SID_攻撃速さの絆1",
+      "SID_攻撃速さの絆2",
+      "SID_攻撃速さの絆3",
+      "SID_攻撃速さの詠唱",
+      "SID_月光",
+      "SID_王書グラズヘイム",
+      "SID_速さの封印1",
+      "SID_速さ魔防の封印1",
+      "SID_速さ魔防の封印2",
+      "SID_速さ魔防の枷",
+      "SID_魔光"
     ],
     "divine_codes": {}
   },

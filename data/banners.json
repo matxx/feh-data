@@ -2355,6 +2355,15 @@
     ]
   },
   {
+    "name": "Focus: Hall of Forms (Aug 2025)",
+    "unit_ids": [
+      "PID_双界シーダ",
+      "PID_神階メディウス",
+      "PID_紋章マルス",
+      "PID_風部族カチュア"
+    ]
+  },
+  {
     "name": "Focus: Hall of Forms (Dec 2023)",
     "unit_ids": [
       "PID_ハタリニケ",
@@ -5776,6 +5785,14 @@
     ]
   },
   {
+    "name": "Focus: Safy & Tina's Battle",
+    "unit_ids": [
+      "PID_サフィ",
+      "PID_ティナ",
+      "PID_リノアン"
+    ]
+  },
+  {
     "name": "Focus: Sain & Kent's Battle",
     "unit_ids": [
       "PID_ケント",
@@ -7102,6 +7119,14 @@
       "PID_イシュタル",
       "PID_リーン",
       "PID_邪竜ルフレ男"
+    ]
+  },
+  {
+    "name": "Focus: Weekly Revival 110",
+    "unit_ids": [
+      "PID_マトイ",
+      "PID_開花エイル味方",
+      "PID_魔器オフェリア"
     ]
   },
   {
@@ -11209,6 +11234,15 @@
       "PID_サラ",
       "PID_ミランダ",
       "PID_ロナン"
+    ]
+  },
+  {
+    "name": "New Heroes: Shining Resolve",
+    "unit_ids": [
+      "PID_総選挙エイクス",
+      "PID_総選挙シャロン",
+      "PID_総選挙バルドル",
+      "PID_総選挙ベレト"
     ]
   },
   {
