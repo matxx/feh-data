@@ -519,6 +519,15 @@
     ]
   },
   {
+    "name": "Be Brave, Great Hero! (Focus)",
+    "unit_ids": [
+      "PID_総選挙アルフォンス",
+      "PID_総選挙フェリクス",
+      "PID_総選挙ベルナデッタ",
+      "PID_総選挙ルフレ女"
+    ]
+  },
+  {
     "name": "Bite of Flame (Focus)",
     "unit_ids": [
       "PID_双界ターナ",
@@ -1710,6 +1719,19 @@
     ]
   },
   {
+    "name": "Focus: Double Special Heroes (Aug 2025)",
+    "unit_ids": [
+      "PID_ジャハナアイク",
+      "PID_ジャハナマリス",
+      "PID_双界プルメリア",
+      "PID_年明フレスベルグ",
+      "PID_愛の祭エーデル",
+      "PID_愛の祭ディミトリ",
+      "PID_春祭アイト",
+      "PID_比翼ヘイズルーン"
+    ]
+  },
+  {
     "name": "Focus: Double Special Heroes (Dec 2022)",
     "unit_ids": [
       "PID_双界ターナ",
@@ -2825,6 +2847,14 @@
       "PID_ギネヴィア",
       "PID_サラ",
       "PID_総選挙リシテア"
+    ]
+  },
+  {
+    "name": "Focus: Heroes w/Combat Boosts (Aug 2025)",
+    "unit_ids": [
+      "PID_アッシュ",
+      "PID_フォガート",
+      "PID_ミデェール"
     ]
   },
   {
@@ -5789,7 +5819,7 @@
     "unit_ids": [
       "PID_サフィ",
       "PID_ティナ",
-      "PID_リノアン"
+      "PID_リーフ"
     ]
   },
   {
@@ -9402,6 +9432,23 @@
       "PID_伝承ファ",
       "PID_伝承ミルラ",
       "PID_暴走レア"
+    ]
+  },
+  {
+    "name": "Legendary Heroes - Diamant",
+    "unit_ids": [
+      "PID_レーラズ味方",
+      "PID_伝承ディアマンド",
+      "PID_紋章エイリーク",
+      "PID_紋章シグルド",
+      "PID_紋章セリカ",
+      "PID_紋章ミカヤ",
+      "PID_紋章リン",
+      "PID_闇リュール女",
+      "PID_闇リュール男",
+      "PID_闇レナ",
+      "PID_魔器ノワール",
+      "PID_魔器魔獣ドゥドゥー"
     ]
   },
   {

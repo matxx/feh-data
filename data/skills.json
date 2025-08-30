@@ -31448,6 +31448,38 @@
     }
   },
   {
+    "id": "SID_遠反・有利増幅",
+    "game8_id": "546385",
+    "name": "D Bonus Amp",
+    "group_name": "D Bonus Amp",
+    "category": "passivea",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/10/D_Bonus_Amp.png/revision/latest?cb=20250829092028",
+    "is_prf": false,
+    "sp": 300,
+    "tier": 2,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Infantry"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "All Melee",
+          "All Breath",
+          "All Beast"
+        ]
+      }
+    },
+    "addition_date": "2025-08-29",
+    "release_date": "2025-08-29",
+    "version": "9.5",
+    "downgrade_ids": [
+      "SID_遠距離反撃"
+    ]
+  },
+  {
     "id": "SID_遠反・強化増幅",
     "game8_id": "448052",
     "name": "D Bonus Doubler",
@@ -38391,6 +38423,7 @@
     "release_date": "2017-02-02",
     "version": "1.0",
     "upgrade_ids": [
+      "SID_遠反・有利増幅",
       "SID_遠反・強化増幅",
       "SID_遠反・攻守の密集",
       "SID_遠反・攻速の孤軍",
@@ -45641,6 +45674,29 @@
     }
   },
   {
+    "id": "SID_真っ向勝負",
+    "game8_id": "546388",
+    "name": "Fair Fight",
+    "group_name": "Fair Fight",
+    "category": "passiveb",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/2/22/Fair_Fight.png/revision/latest?cb=20250829045830",
+    "is_prf": true,
+    "sp": 300,
+    "tier": 1,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "none": true
+      }
+    },
+    "addition_date": "2025-08-29",
+    "release_date": "2025-08-29",
+    "version": "9.5"
+  },
+  {
     "id": "SID_真っ向勝負の剛剣",
     "game8_id": "418358",
     "name": "Fair-Fight Blade",
@@ -51780,6 +51836,33 @@
     "version": "8.8",
     "downgrade_ids": [
       "SID_守備魔防の城塞2"
+    ]
+  },
+  {
+    "id": "SID_黒鉄の王の剛斧",
+    "game8_id": "546384",
+    "name": "Fortified Axe",
+    "group_name": "Fortified Axe",
+    "category": "weapon",
+    "weapon_type": "Green Axe",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Green Axe"
+        ]
+      }
+    },
+    "addition_date": "2025-08-29",
+    "release_date": "2025-08-29",
+    "version": "9.5",
+    "downgrade_ids": [
+      "SID_銀の斧"
     ]
   },
   {
@@ -102937,6 +103020,7 @@
       "SID_荒ぶる女子力の斧",
       "SID_紅花オートクレール",
       "SID_親愛の花",
+      "SID_黒鉄の王の剛斧",
       "SID_フライクーゲル",
       "SID_却火フライクーゲル",
       "SID_ガルム",

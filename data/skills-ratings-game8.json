@@ -5915,6 +5915,11 @@
     "game8_grade": "S"
   },
   {
+    "id": "SID_黒鉄の王の剛斧",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
     "id": "SID_鏑矢",
     "game8_rating": null,
     "game8_grade": null
@@ -10675,6 +10680,11 @@
     "game8_grade": null
   },
   {
+    "id": "SID_遠反・有利増幅",
+    "game8_rating": "9.0",
+    "game8_grade": "A"
+  },
+  {
     "id": "SID_攻撃速さの備え3",
     "game8_rating": null,
     "game8_grade": null
@@ -12985,16 +12995,6 @@
     "game8_grade": "B"
   },
   {
-    "id": "SID_師の導き",
-    "game8_rating": "9.5",
-    "game8_grade": "S"
-  },
-  {
-    "id": "SID_天に代わりて",
-    "game8_rating": "9.5",
-    "game8_grade": "S"
-  },
-  {
     "id": "SID_邪竜の鱗",
     "game8_rating": "9.0",
     "game8_grade": "B"
@@ -13010,14 +13010,14 @@
     "game8_grade": "A"
   },
   {
-    "id": "SID_サカの掟・承",
-    "game8_rating": "9.0",
-    "game8_grade": null
-  },
-  {
     "id": "SID_オスティアの反撃",
     "game8_rating": "9.5",
     "game8_grade": "SS"
+  },
+  {
+    "id": "SID_サカの掟・承",
+    "game8_rating": "9.0",
+    "game8_grade": null
   },
   {
     "id": "SID_覇神断竜剣",
@@ -13030,12 +13030,12 @@
     "game8_grade": "A"
   },
   {
-    "id": "SID_邪竜の重鱗",
+    "id": "SID_女神の三雄",
     "game8_rating": "9.0",
     "game8_grade": null
   },
   {
-    "id": "SID_女神の三雄",
+    "id": "SID_邪竜の重鱗",
     "game8_rating": "9.0",
     "game8_grade": null
   },
@@ -13060,14 +13060,14 @@
     "game8_grade": "A"
   },
   {
-    "id": "SID_連閃",
-    "game8_rating": "9.5",
-    "game8_grade": "S"
-  },
-  {
     "id": "SID_自己研鑽",
     "game8_rating": "9.5",
     "game8_grade": "A"
+  },
+  {
+    "id": "SID_連閃",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
   },
   {
     "id": "SID_漆黒の悪夢",
@@ -13211,6 +13211,16 @@
   },
   {
     "id": "SID_女騎士",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_天に代わりて",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_師の導き",
     "game8_rating": "9.5",
     "game8_grade": "S"
   },
@@ -13523,11 +13533,6 @@
     "id": "SID_見切り・反撃不可4",
     "game8_rating": "9.5",
     "game8_grade": "A"
-  },
-  {
-    "id": "SID_真回避・見切り反撃",
-    "game8_rating": "9.5",
-    "game8_grade": "S"
   },
   {
     "id": "SID_回避・叩き込み1",
@@ -14148,6 +14153,11 @@
     "id": "SID_回避・拍節3",
     "game8_rating": "9.5",
     "game8_grade": "A"
+  },
+  {
+    "id": "SID_真回避・見切り反撃",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
   },
   {
     "id": "SID_奥義の螺旋1",
@@ -16805,6 +16815,11 @@
     "game8_grade": "SS"
   },
   {
+    "id": "SID_真っ向勝負",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
     "id": "SID_攻撃の鼓舞1",
     "game8_rating": null,
     "game8_grade": null
@@ -18465,11 +18480,6 @@
     "game8_grade": "A"
   },
   {
-    "id": "SID_鎧の護り手・理・茨",
-    "game8_rating": "9.5",
-    "game8_grade": "S"
-  },
-  {
     "id": "SID_近距離警戒1",
     "game8_rating": null,
     "game8_grade": null
@@ -19111,6 +19121,11 @@
   },
   {
     "id": "SID_刃の護り手・近間3",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_鎧の護り手・理・茨",
     "game8_rating": "9.5",
     "game8_grade": "S"
   },

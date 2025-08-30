@@ -7284,7 +7284,8 @@
   {
     "id": "SID_角逐",
     "fodder_ids": [
-      "PID_総選挙バルドル"
+      "PID_総選挙バルドル",
+      "PID_伝承ディアマンド"
     ],
     "fodder": {
       "g4": 1,
@@ -7300,10 +7301,14 @@
       "hg": false,
       "dc": false,
       "ldc": false,
-      "foc": false
+      "foc": true
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "foc": 5
+    },
+    "flrfi": {
+      "foc": 5
+    },
     "divine_codes": {}
   },
   {
@@ -33466,18 +33471,16 @@
     },
     "is_in": {
       "gsp": false,
-      "ssp": true,
+      "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": true
     },
     "flrwo": {
-      "ssp": 5,
       "foc": 5
     },
     "flrfi": {
-      "ssp": 2,
       "foc": 2
     },
     "divine_codes": {}
@@ -33499,18 +33502,16 @@
     },
     "is_in": {
       "gsp": false,
-      "ssp": true,
+      "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": true
     },
     "flrwo": {
-      "ssp": 5,
       "foc": 5
     },
     "flrfi": {
-      "ssp": 3,
       "foc": 3
     },
     "divine_codes": {}
@@ -33532,18 +33533,16 @@
     },
     "is_in": {
       "gsp": false,
-      "ssp": true,
+      "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": true
     },
     "flrwo": {
-      "ssp": 5,
       "foc": 5
     },
     "flrfi": {
-      "ssp": 4,
       "foc": 4
     },
     "divine_codes": {}
@@ -33565,18 +33564,16 @@
     },
     "is_in": {
       "gsp": false,
-      "ssp": true,
+      "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": true
     },
     "flrwo": {
-      "ssp": 5,
       "foc": 5
     },
     "flrfi": {
-      "ssp": 5,
       "foc": 5
     },
     "divine_codes": {}
@@ -39716,6 +39713,7 @@
     "id": "SID_迅雷風烈・鬼没",
     "fodder_ids": [
       "PID_伝承アイラ",
+      "PID_伝承ディアマンド",
       "PID_花嫁ラクチェ"
     ],
     "fodder": {
@@ -49826,6 +49824,35 @@
     },
     "flrwo": {},
     "flrfi": {},
+    "divine_codes": {}
+  },
+  {
+    "id": "SID_遠反・有利増幅",
+    "fodder_ids": [
+      "PID_伝承ディアマンド"
+    ],
+    "fodder": {
+      "g4": 2,
+      "hg": 2,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 1,
+      "shsr": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "flrwo": {
+      "foc": 5
+    },
+    "flrfi": {
+      "foc": 5
+    },
     "divine_codes": {}
   },
   {
@@ -61093,6 +61120,7 @@
       "PID_クロエ",
       "PID_ハロカムイ男",
       "PID_伝承カムイ女",
+      "PID_伝承ディアマンド",
       "PID_比翼ドーマ",
       "PID_響心エイリーク",
       "PID_伝承ファ",
@@ -64460,6 +64488,7 @@
       "PID_暴走カムイ女",
       "PID_比翼カムイ男",
       "PID_ダグ味方",
+      "PID_伝承ディアマンド",
       "PID_エイクスルニル味方",
       "PID_エイトリ味方",
       "PID_伝承エリンシア",
@@ -64721,6 +64750,7 @@
       "PID_風部族ダグ",
       "PID_ダグ味方",
       "PID_ハロデギンハンザー",
+      "PID_伝承ディアマンド",
       "PID_冬祭ディミトリ",
       "PID_愛の祭ディミトリ",
       "PID_ドルカス",
@@ -73513,6 +73543,7 @@
     "id": "SID_迅雷風烈・偶数1",
     "fodder_ids": [
       "PID_ダグ味方",
+      "PID_伝承ディアマンド",
       "PID_忍者ディアマンド",
       "PID_水着ラピス",
       "PID_リーヴ味方",
@@ -73572,6 +73603,7 @@
     "id": "SID_迅雷風烈・偶数2",
     "fodder_ids": [
       "PID_ダグ味方",
+      "PID_伝承ディアマンド",
       "PID_忍者ディアマンド",
       "PID_水着ラピス",
       "PID_リーヴ味方",
@@ -73631,6 +73663,7 @@
     "id": "SID_迅雷風烈・偶数3",
     "fodder_ids": [
       "PID_ダグ味方",
+      "PID_伝承ディアマンド",
       "PID_忍者ディアマンド",
       "PID_水着ラピス",
       "PID_リーヴ味方",
@@ -74126,6 +74159,35 @@
     },
     "flrwo": {},
     "flrfi": {},
+    "divine_codes": {}
+  },
+  {
+    "id": "SID_真っ向勝負",
+    "fodder_ids": [
+      "PID_伝承ディアマンド"
+    ],
+    "fodder": {
+      "g4": 1,
+      "hg": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 1,
+      "shsr": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "flrwo": {
+      "foc": 5
+    },
+    "flrfi": {
+      "foc": 5
+    },
     "divine_codes": {}
   },
   {
@@ -83050,6 +83112,35 @@
     },
     "flrfi": {
       "gsp": 5
+    },
+    "divine_codes": {}
+  },
+  {
+    "id": "SID_黒鉄の王の剛斧",
+    "fodder_ids": [
+      "PID_伝承ディアマンド"
+    ],
+    "fodder": {
+      "g4": 1,
+      "hg": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 1,
+      "shsr": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "flrwo": {
+      "foc": 5
+    },
+    "flrfi": {
+      "foc": 5
     },
     "divine_codes": {}
   },
@@ -107014,6 +107105,7 @@
       "PID_海賊ダロス",
       "PID_ドゥドゥ―",
       "PID_水着ドゥドゥー",
+      "PID_伝承ディアマンド",
       "PID_忍者ディアマンド",
       "PID_ディーク",
       "PID_冬祭ディミトリ",
@@ -154550,18 +154642,14 @@
     },
     "is_in": {
       "gsp": false,
-      "ssp": true,
+      "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {
-      "ssp": 5
-    },
-    "flrfi": {
-      "ssp": 5
-    },
+    "flrwo": {},
+    "flrfi": {},
     "divine_codes": {}
   },
   {
@@ -161961,18 +162049,14 @@
     },
     "is_in": {
       "gsp": false,
-      "ssp": true,
+      "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {
-      "ssp": 5
-    },
-    "flrfi": {
-      "ssp": 5
-    },
+    "flrwo": {},
+    "flrfi": {},
     "divine_codes": {}
   },
   {
@@ -163362,6 +163446,7 @@
       "PID_シャーロッテ",
       "PID_忍者セルジュ",
       "PID_ダグ味方",
+      "PID_伝承ディアマンド",
       "PID_忍者ディアマンド",
       "PID_ディーク",
       "PID_冬祭ディミトリ",
@@ -183451,6 +183536,7 @@
       "PID_海賊ダロス",
       "PID_ドゥドゥ―",
       "PID_水着ドゥドゥー",
+      "PID_伝承ディアマンド",
       "PID_忍者ディアマンド",
       "PID_ディーク",
       "PID_冬祭ディミトリ",
@@ -191610,18 +191696,14 @@
     },
     "is_in": {
       "gsp": false,
-      "ssp": true,
+      "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {
-      "ssp": 5
-    },
-    "flrfi": {
-      "ssp": 5
-    },
+    "flrwo": {},
+    "flrfi": {},
     "divine_codes": {}
   },
   {
@@ -193633,18 +193715,14 @@
     },
     "is_in": {
       "gsp": false,
-      "ssp": true,
+      "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {
-      "ssp": 5
-    },
-    "flrfi": {
-      "ssp": 5
-    },
+    "flrwo": {},
+    "flrfi": {},
     "divine_codes": {}
   },
   {

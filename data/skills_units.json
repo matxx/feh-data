@@ -21108,6 +21108,90 @@
     "unlock": 5
   },
   {
+    "unit_id": "PID_伝承ディアマンド",
+    "skill_id": "SID_角逐",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_伝承ディアマンド",
+    "skill_id": "SID_迅雷風烈・鬼没",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_伝承ディアマンド",
+    "skill_id": "SID_遠反・有利増幅",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_伝承ディアマンド",
+    "skill_id": "SID_遠距離反撃",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_伝承ディアマンド",
+    "skill_id": "SID_竜穿",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_伝承ディアマンド",
+    "skill_id": "SID_伏竜",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_伝承ディアマンド",
+    "skill_id": "SID_迅雷風烈・偶数1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_伝承ディアマンド",
+    "skill_id": "SID_迅雷風烈・偶数2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_伝承ディアマンド",
+    "skill_id": "SID_迅雷風烈・偶数3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_伝承ディアマンド",
+    "skill_id": "SID_真っ向勝負",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_伝承ディアマンド",
+    "skill_id": "SID_黒鉄の王の剛斧",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_伝承ディアマンド",
+    "skill_id": "SID_鉄の斧",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_伝承ディアマンド",
+    "skill_id": "SID_銀の斧",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_伝承ディアマンド",
+    "skill_id": "SID_鋼の斧",
+    "default": 2,
+    "unlock": 2
+  },
+  {
     "unit_id": "PID_忍者ディアマンド",
     "skill_id": "SID_攻撃守備の刃壁",
     "default": 0,
