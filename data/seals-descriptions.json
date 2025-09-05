@@ -948,6 +948,18 @@
     "description": "Grants Atk/Spd/Def+3."
   },
   {
+    "id": "SID_第98迷宮の覇者1",
+    "description": "Grants Atk/Spd/Res+1."
+  },
+  {
+    "id": "SID_第98迷宮の覇者2",
+    "description": "Grants Atk/Spd/Res+2."
+  },
+  {
+    "id": "SID_第98迷宮の覇者3",
+    "description": "Grants Atk/Spd/Res+3."
+  },
+  {
     "id": "SID_第4迷宮の覇者1",
     "description": "Grants Spd+1."
   },
@@ -2752,6 +2764,18 @@
     "description": "If adjacent infantry allies use sword, lance, axe, bow, or dagger, grants Atk/Spd+2 to those allies and calculates their damage using the lower of foe's Def or Res during combat. (Does not affect damage dealt by Specials that trigger before combat.)"
   },
   {
+    "id": "SID_歩行の見切り追撃1",
+    "description": "At start of turn, if unit's HP ≥ 50%, grants 【Null Follow-Up】to adjacent infantry allies.<br><br>【Null Follow-Up】<br>If unit's Spd > foe's Spd during combat, neutralizes effects that guarantee foe's follow-up attacks and effects that prevent unit's follow-up attacks for 1 turn."
+  },
+  {
+    "id": "SID_歩行の見切り追撃2",
+    "description": "At start of turn, grants【Null Follow-Up】 to adjacent infantry allies.<br><br>【Null Follow-Up】<br>If unit's Spd > foe's Spd during combat, neutralizes effects that guarantee foe's follow-up attacks and effects that prevent unit's follow-up attacks for 1 turn."
+  },
+  {
+    "id": "SID_歩行の見切り追撃3",
+    "description": "At start of turn, grants【Null Follow-Up】 to infantry allies within 2 spaces of unit.<br><br>【Null Follow-Up】<br>If unit's Spd > foe's Spd during combat, neutralizes effects that guarantee foe's follow-up attacks and effects that prevent unit's follow-up attacks for 1 turn."
+  },
+  {
     "id": "SID_歩行の剛撃1",
     "description": "Infantry allies within 2 spaces gain: \"If unit's Atk ≥ foe's Atk+5, grants Special cooldown charge +1 per unit's attack. (Only highest value applied. Does not stack.)\""
   },
@@ -3278,6 +3302,18 @@
   {
     "id": "SID_速さ守備の激突3",
     "description": "If unit or foe initiates combat after moving to a different space, grants bonus to unit's Spd/Def during combat = X + 5. (X = number of spaces from start position to end position of whoever initiated combat; max 3.)"
+  },
+  {
+    "id": "SID_速さ守備の秘奥1",
+    "description": "If unit is within 3 spaces of an ally, grants Spd/Def+2 to unit during combat, and also, if unit's Special is ready or unit's Special triggered before or during this combat, deals +1 damage during combat (except when dealing damage with area-of-effect Specials)."
+  },
+  {
+    "id": "SID_速さ守備の秘奥2",
+    "description": "If unit is within 3 spaces of an ally, grants Spd/Def+4 to unit during combat, and also, if unit's Special is ready or unit's Special triggered before or during this combat, deals +3 damage during combat (except when dealing damage with area-of-effect Specials)."
+  },
+  {
+    "id": "SID_速さ守備の秘奥3",
+    "description": "If unit is within 3 spaces of an ally, grants Spd/Def+6 to unit during combat, and also, if unit's Special is ready or unit's Special triggered before or during this combat, deals +5 damage during combat (except when dealing damage with area-of-effect Specials)."
   },
   {
     "id": "SID_速さ守備の密集1",

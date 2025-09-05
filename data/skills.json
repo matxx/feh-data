@@ -77,7 +77,7 @@
     },
     "addition_date": "2025-07-07",
     "release_date": "2025-07-18",
-    "version": "9.5",
+    "version": "9.7",
     "downgrade_ids": [
       "SID_鎧の護り手・近間3"
     ]
@@ -105,7 +105,7 @@
     },
     "addition_date": "2025-08-15",
     "release_date": "2025-08-15",
-    "version": "9.5",
+    "version": "9.8",
     "downgrade_ids": [
       "SID_鎧の護り手・近間3",
       "SID_鎧の護り手・遠間3"
@@ -559,7 +559,7 @@
     },
     "addition_date": "2025-06-17",
     "release_date": "2025-06-17",
-    "version": "9.5",
+    "version": "9.6",
     "downgrade_ids": [
       "SID_攻撃守備の近影3"
     ]
@@ -675,7 +675,7 @@
     },
     "addition_date": "2025-06-05",
     "release_date": "2025-06-06",
-    "version": "9.5",
+    "version": "9.6",
     "downgrade_ids": [
       "SID_兜の護り手・近間3"
     ]
@@ -1501,7 +1501,7 @@
     },
     "addition_date": "2024-12-05",
     "release_date": "2025-07-29",
-    "version": "9.5",
+    "version": "9.7",
     "downgrade_ids": [
       "SID_攻撃速さの牽制3"
     ]
@@ -1751,7 +1751,7 @@
     },
     "addition_date": "2025-08-06",
     "release_date": "2025-08-07",
-    "version": "9.5",
+    "version": "9.8",
     "downgrade_ids": [
       "SID_攻撃の鼓舞3",
       "SID_速さの鼓舞3"
@@ -2288,6 +2288,7 @@
     "version": "3.1",
     "upgrade_ids": [
       "SID_狼花嫁の牙",
+      "SID_結ぶ者の角",
       "SID_炎虎の爪牙",
       "SID_白鷺花婿の翼",
       "SID_新年を開く角",
@@ -3270,7 +3271,7 @@
     },
     "addition_date": "2025-06-05",
     "release_date": "2025-06-06",
-    "version": "9.5"
+    "version": "9.6"
   },
   {
     "id": "SID_アマツ",
@@ -4583,7 +4584,7 @@
     },
     "addition_date": "2025-07-18",
     "release_date": "2025-07-18",
-    "version": "9.5",
+    "version": "9.7",
     "downgrade_ids": [
       "SID_守備封じ3"
     ]
@@ -5026,7 +5027,7 @@
     },
     "addition_date": "2025-06-05",
     "release_date": "2025-06-06",
-    "version": "9.5",
+    "version": "9.6",
     "downgrade_ids": [
       "SID_銀の弓"
     ]
@@ -5194,7 +5195,7 @@
     },
     "addition_date": "2025-07-18",
     "release_date": "2025-07-18",
-    "version": "9.5",
+    "version": "9.7",
     "downgrade_ids": [
       "SID_銀の剣"
     ]
@@ -5390,6 +5391,30 @@
     ]
   },
   {
+    "id": "SID_大賢者の書_一",
+    "base_id": "SID_大賢者の書",
+    "game8_id": "421750",
+    "name": "Arch-Sage Tome",
+    "group_name": "Arch-Sage Tome",
+    "category": "weapon",
+    "weapon_type": "Green Tome",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/6b/Arch-Sage_Tome_W.png/revision/latest?cb=20250904054209",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 1,
+    "refine": "skill1",
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Green Tome"
+        ]
+      }
+    }
+  },
+  {
     "id": "SID_角逐",
     "name": "Archrival",
     "group_name": "Archrival",
@@ -5412,7 +5437,7 @@
     },
     "addition_date": "2025-08-15",
     "release_date": "2025-08-15",
-    "version": "9.5",
+    "version": "9.8",
     "downgrade_ids": [
       "SID_竜穿"
     ]
@@ -5657,6 +5682,124 @@
         ]
       }
     }
+  },
+  {
+    "id": "SID_闘技の斧",
+    "game8_id": "549083",
+    "name": "Arena Axe",
+    "group_name": "Arena Axe",
+    "category": "weapon",
+    "weapon_type": "Green Axe",
+    "is_prf": false,
+    "sp": 200,
+    "tier": 3,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Green Axe"
+        ]
+      }
+    },
+    "addition_date": "2025-09-04",
+    "release_date": "2025-09-05",
+    "version": "9.9",
+    "upgrade_ids": [
+      "SID_闘技の斧＋"
+    ],
+    "downgrade_ids": [
+      "SID_鋼の斧"
+    ]
+  },
+  {
+    "id": "SID_闘技の斧＋",
+    "game8_id": "549082",
+    "name": "Arena Axe+",
+    "group_name": "Arena Axe+",
+    "category": "weapon",
+    "weapon_type": "Green Axe",
+    "is_prf": false,
+    "sp": 300,
+    "tier": 4,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Green Axe"
+        ]
+      }
+    },
+    "addition_date": "2025-09-04",
+    "release_date": "2025-09-05",
+    "version": "9.9",
+    "downgrade_ids": [
+      "SID_闘技の斧"
+    ]
+  },
+  {
+    "id": "SID_闘技の剣",
+    "game8_id": "549086",
+    "name": "Arena Sword",
+    "group_name": "Arena Sword",
+    "category": "weapon",
+    "weapon_type": "Red Sword",
+    "is_prf": false,
+    "sp": 200,
+    "tier": 3,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Red Sword"
+        ]
+      }
+    },
+    "addition_date": "2025-09-04",
+    "release_date": "2025-09-05",
+    "version": "9.9",
+    "upgrade_ids": [
+      "SID_闘技の剣＋"
+    ],
+    "downgrade_ids": [
+      "SID_鋼の剣"
+    ]
+  },
+  {
+    "id": "SID_闘技の剣＋",
+    "game8_id": "549085",
+    "name": "Arena Sword+",
+    "group_name": "Arena Sword+",
+    "category": "weapon",
+    "weapon_type": "Red Sword",
+    "is_prf": false,
+    "sp": 300,
+    "tier": 4,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Red Sword"
+        ]
+      }
+    },
+    "addition_date": "2025-09-04",
+    "release_date": "2025-09-05",
+    "version": "9.9",
+    "downgrade_ids": [
+      "SID_闘技の剣"
+    ]
   },
   {
     "id": "SID_アルジローレ",
@@ -6058,7 +6201,7 @@
     },
     "addition_date": "2025-06-05",
     "release_date": "2025-06-06",
-    "version": "9.5",
+    "version": "9.6",
     "downgrade_ids": [
       "SID_氷蒼"
     ]
@@ -6992,6 +7135,7 @@
       "SID_天風",
       "SID_剣聖の流星雨",
       "SID_疾風迅雷",
+      "SID_疾風迅雷・霞",
       "SID_剣皇の流星",
       "SID_敏捷なる獣",
       "SID_ノヴァの聖戦士",
@@ -8314,7 +8458,7 @@
     },
     "addition_date": "2024-12-05",
     "release_date": "2025-07-29",
-    "version": "9.5",
+    "version": "9.7",
     "downgrade_ids": [
       "SID_攻撃の混乱3",
       "SID_守備の混乱3"
@@ -8350,6 +8494,34 @@
     "version": "5.9",
     "downgrade_ids": [
       "SID_攻撃守備の激突3"
+    ]
+  },
+  {
+    "id": "SID_攻撃守備の共感",
+    "game8_id": "549091",
+    "name": "Atk/Def Favor",
+    "group_name": "Atk/Def Favor",
+    "category": "passiveb",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/5d/Atk_Def_Favor.png/revision/latest?cb=20250904054104",
+    "is_prf": false,
+    "sp": 300,
+    "tier": 4,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_not_use": [
+          "Colorless Staff"
+        ]
+      }
+    },
+    "addition_date": "2025-09-04",
+    "release_date": "2025-09-05",
+    "version": "9.9",
+    "downgrade_ids": [
+      "SID_攻撃守備の連携3"
     ]
   },
   {
@@ -8896,6 +9068,9 @@
     "addition_date": "2018-07-20",
     "release_date": "2018-07-20",
     "version": "2.7",
+    "upgrade_ids": [
+      "SID_攻撃守備の共感"
+    ],
     "downgrade_ids": [
       "SID_攻撃守備の連携2"
     ]
@@ -9878,7 +10053,7 @@
     },
     "addition_date": "2025-07-07",
     "release_date": "2025-07-08",
-    "version": "9.5",
+    "version": "9.7",
     "downgrade_ids": [
       "SID_攻撃守備の孤軍3"
     ]
@@ -10809,7 +10984,7 @@
     },
     "addition_date": "2024-12-05",
     "release_date": "2025-07-29",
-    "version": "9.5",
+    "version": "9.7",
     "downgrade_ids": [
       "SID_攻撃魔防の機先3"
     ]
@@ -11865,7 +12040,7 @@
     },
     "addition_date": "2025-08-15",
     "release_date": "2025-08-15",
-    "version": "9.5",
+    "version": "9.8",
     "downgrade_ids": [
       "SID_攻撃速さの絆3"
     ]
@@ -12435,9 +12610,37 @@
     },
     "addition_date": "2025-07-18",
     "release_date": "2025-07-18",
-    "version": "9.5",
+    "version": "9.7",
     "downgrade_ids": [
       "SID_攻撃速さの信義3"
+    ]
+  },
+  {
+    "id": "SID_攻撃速さの共感",
+    "game8_id": "549090",
+    "name": "Atk/Spd Favor",
+    "group_name": "Atk/Spd Favor",
+    "category": "passiveb",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f3/Atk_Spd_Favor.png/revision/latest?cb=20250904054054",
+    "is_prf": false,
+    "sp": 300,
+    "tier": 4,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_not_use": [
+          "Colorless Staff"
+        ]
+      }
+    },
+    "addition_date": "2025-09-04",
+    "release_date": "2025-09-05",
+    "version": "9.9",
+    "downgrade_ids": [
+      "SID_攻撃速さの連携3"
     ]
   },
   {
@@ -12812,7 +13015,7 @@
     },
     "addition_date": "2025-06-05",
     "release_date": "2025-06-06",
-    "version": "9.5",
+    "version": "9.6",
     "downgrade_ids": [
       "SID_魔道の刃3"
     ]
@@ -13052,6 +13255,7 @@
     "release_date": "2018-10-10",
     "version": "2.10",
     "upgrade_ids": [
+      "SID_攻撃速さの共感",
       "SID_攻撃速さの連携4"
     ],
     "downgrade_ids": [
@@ -14180,7 +14384,7 @@
     },
     "addition_date": "2025-07-07",
     "release_date": "2025-07-08",
-    "version": "9.5",
+    "version": "9.7",
     "downgrade_ids": [
       "SID_攻撃速さの孤軍3"
     ]
@@ -18572,7 +18776,7 @@
     },
     "addition_date": "2025-06-17",
     "release_date": "2025-06-17",
-    "version": "9.5"
+    "version": "9.6"
   },
   {
     "id": "SID_黒の月光",
@@ -19098,7 +19302,7 @@
     },
     "addition_date": "2025-07-18",
     "release_date": "2025-07-18",
-    "version": "9.5",
+    "version": "9.7",
     "upgrade_ids": [
       "SID_ブラークラブ＋"
     ],
@@ -19130,7 +19334,7 @@
     },
     "addition_date": "2025-07-18",
     "release_date": "2025-07-18",
-    "version": "9.5",
+    "version": "9.7",
     "downgrade_ids": [
       "SID_ブラークラブ"
     ]
@@ -20135,7 +20339,7 @@
     },
     "addition_date": "2025-06-05",
     "release_date": "2025-06-06",
-    "version": "9.5"
+    "version": "9.6"
   },
   {
     "id": "SID_魔王の血書",
@@ -21417,7 +21621,7 @@
     },
     "addition_date": "2025-06-17",
     "release_date": "2025-06-17",
-    "version": "9.5",
+    "version": "9.6",
     "downgrade_ids": [
       "SID_ボルガノン",
       "SID_ノスフェラート"
@@ -21876,7 +22080,7 @@
     },
     "addition_date": "2025-07-18",
     "release_date": "2025-07-18",
-    "version": "9.5",
+    "version": "9.7",
     "downgrade_ids": [
       "SID_銀の弓"
     ]
@@ -27170,7 +27374,7 @@
     },
     "addition_date": "2024-12-05",
     "release_date": "2025-07-29",
-    "version": "9.5",
+    "version": "9.7",
     "downgrade_ids": [
       "SID_流星"
     ]
@@ -29236,6 +29440,54 @@
     ]
   },
   {
+    "id": "SID_仮面の将の剣",
+    "name": "Clouded Blade",
+    "group_name": "Clouded Blade",
+    "category": "weapon",
+    "weapon_type": "Red Sword",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 1,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Red Sword"
+        ]
+      }
+    },
+    "addition_date": "2021-11-17",
+    "release_date": "2021-11-18",
+    "version": "5.11"
+  },
+  {
+    "id": "SID_仮面の将の剣_一",
+    "base_id": "SID_仮面の将の剣",
+    "name": "Clouded Blade",
+    "group_name": "Clouded Blade",
+    "category": "weapon",
+    "weapon_type": "Red Sword",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f3/Clouded_Blade_W.png/revision/latest?cb=20250904054231",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 1,
+    "refine": "skill1",
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Red Sword"
+        ]
+      }
+    }
+  },
+  {
     "id": "SID_あまいみつのゆめ",
     "game8_id": "426136",
     "name": "Cloying Dreams",
@@ -29568,6 +29820,33 @@
     "addition_date": "2024-10-03",
     "release_date": "2024-10-04",
     "version": "8.10"
+  },
+  {
+    "id": "SID_運命に打ち勝つ！",
+    "game8_id": "549088",
+    "name": "Conquering Fate",
+    "group_name": "Conquering Fate",
+    "category": "assist",
+    "is_prf": true,
+    "sp": 500,
+    "tier": 2,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_not_use": [
+          "Colorless Staff"
+        ]
+      }
+    },
+    "addition_date": "2025-09-04",
+    "release_date": "2025-09-05",
+    "version": "9.9",
+    "downgrade_ids": [
+      "SID_引き戻し"
+    ]
   },
   {
     "id": "SID_影身の暗器",
@@ -31106,7 +31385,7 @@
     },
     "addition_date": "2025-06-05",
     "release_date": "2025-06-06",
-    "version": "9.5"
+    "version": "9.6"
   },
   {
     "id": "SID_異邦ヴラスキャルヴ",
@@ -31130,7 +31409,7 @@
     },
     "addition_date": "2025-08-15",
     "release_date": "2025-08-16",
-    "version": "9.5",
+    "version": "9.8",
     "downgrade_ids": [
       "SID_トロン",
       "SID_シャイン"
@@ -31474,7 +31753,7 @@
     },
     "addition_date": "2025-08-29",
     "release_date": "2025-08-29",
-    "version": "9.5",
+    "version": "9.8",
     "downgrade_ids": [
       "SID_遠距離反撃"
     ]
@@ -35417,7 +35696,7 @@
     },
     "addition_date": "2025-07-07",
     "release_date": "2025-07-08",
-    "version": "9.5",
+    "version": "9.7",
     "downgrade_ids": [
       "SID_守備魔防の密集3"
     ]
@@ -37248,6 +37527,31 @@
     ]
   },
   {
+    "id": "SID_聖王の軍師の剣_一",
+    "base_id": "SID_聖王の軍師の剣",
+    "game8_id": "421752",
+    "name": "Deliverer's Brand",
+    "group_name": "Deliverer's Brand",
+    "category": "weapon",
+    "weapon_type": "Red Sword",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/4d/Deliverers_Brand_W.png/revision/latest?cb=20250904054148",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 1,
+    "refine": "skill1",
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Red Sword"
+        ]
+      }
+    }
+  },
+  {
     "id": "SID_冬鍛える体の角",
     "game8_id": "490379",
     "name": "Delivering Antler",
@@ -37613,7 +37917,7 @@
     },
     "addition_date": "2025-06-05",
     "release_date": "2025-06-06",
-    "version": "9.5",
+    "version": "9.6",
     "downgrade_ids": [
       "SID_灼熱のブレス"
     ]
@@ -38337,6 +38641,33 @@
     ]
   },
   {
+    "id": "SID_謎の闘技者の槍",
+    "game8_id": "549079",
+    "name": "Disguise Lance",
+    "group_name": "Disguise Lance",
+    "category": "weapon",
+    "weapon_type": "Blue Lance",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Blue Lance"
+        ]
+      }
+    },
+    "addition_date": "2025-09-04",
+    "release_date": "2025-09-05",
+    "version": "9.9",
+    "downgrade_ids": [
+      "SID_銀の槍"
+    ]
+  },
+  {
     "id": "SID_遠反・攻守の密集",
     "game8_id": "524039",
     "name": "Distant A/D Form",
@@ -39047,7 +39378,7 @@
     },
     "addition_date": "2025-07-07",
     "release_date": "2025-07-08",
-    "version": "9.5"
+    "version": "9.7"
   },
   {
     "id": "SID_神竜王のブレス",
@@ -42470,7 +42801,7 @@
     },
     "addition_date": "2024-12-05",
     "release_date": "2025-07-29",
-    "version": "9.5",
+    "version": "9.7",
     "downgrade_ids": [
       "SID_銀の弓"
     ]
@@ -44060,6 +44391,30 @@
     ]
   },
   {
+    "id": "SID_絶闇エンブラ_一",
+    "base_id": "SID_絶闇エンブラ",
+    "game8_id": "398486",
+    "name": "Enclosing Dark",
+    "group_name": "Enclosing Dark",
+    "category": "weapon",
+    "weapon_type": "Red Tome",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/9f/Enclosing_Dark_W.png/revision/latest?cb=20250904054125",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 1,
+    "refine": "skill1",
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Red Tome"
+        ]
+      }
+    }
+  },
+  {
     "id": "SID_閉界",
     "game8_id": "398488",
     "name": "Enclosure",
@@ -44082,8 +44437,37 @@
     "addition_date": "2022-11-30",
     "release_date": "2022-11-30",
     "version": "6.11",
+    "upgrade_ids": [
+      "SID_閉界・承"
+    ],
     "downgrade_ids": [
       "SID_血讐"
+    ]
+  },
+  {
+    "id": "SID_閉界・承",
+    "name": "Enclosure II",
+    "group_name": "Enclosure II",
+    "category": "special",
+    "is_prf": true,
+    "sp": 500,
+    "tier": 4,
+    "cd": 2,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_not_use": [
+          "Colorless Staff"
+        ]
+      }
+    },
+    "addition_date": "2022-11-30",
+    "release_date": "2022-11-30",
+    "version": "6.11",
+    "downgrade_ids": [
+      "SID_閉界"
     ]
   },
   {
@@ -45694,7 +46078,7 @@
     },
     "addition_date": "2025-08-29",
     "release_date": "2025-08-29",
-    "version": "9.5"
+    "version": "9.8"
   },
   {
     "id": "SID_真っ向勝負の剛剣",
@@ -46258,7 +46642,7 @@
     },
     "addition_date": "2025-06-17",
     "release_date": "2025-06-17",
-    "version": "9.5",
+    "version": "9.6",
     "upgrade_ids": [
       "SID_ヤシの葉＋"
     ],
@@ -46289,7 +46673,7 @@
     },
     "addition_date": "2025-06-17",
     "release_date": "2025-06-17",
-    "version": "9.5",
+    "version": "9.6",
     "downgrade_ids": [
       "SID_ヤシの葉"
     ]
@@ -51860,7 +52244,7 @@
     },
     "addition_date": "2025-08-29",
     "release_date": "2025-08-29",
-    "version": "9.5",
+    "version": "9.8",
     "downgrade_ids": [
       "SID_銀の斧"
     ]
@@ -53736,6 +54120,33 @@
     ]
   },
   {
+    "id": "SID_未来を選ぶ瞳",
+    "game8_id": "549087",
+    "name": "Future Gaze",
+    "group_name": "Future Gaze",
+    "category": "assist",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 2,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_not_use": [
+          "Colorless Staff"
+        ]
+      }
+    },
+    "addition_date": "2025-09-04",
+    "release_date": "2025-09-05",
+    "version": "9.9",
+    "downgrade_ids": [
+      "SID_入れ替え"
+    ]
+  },
+  {
     "id": "SID_未来を変える瞳",
     "game8_id": "435920",
     "name": "Future Sight",
@@ -54795,6 +55206,37 @@
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
     "version": "1.0",
+    "downgrade_ids": [
+      "SID_流星"
+    ]
+  },
+  {
+    "id": "SID_疾風迅雷・霞",
+    "game8_id": "549089",
+    "name": "Galeforce Mist",
+    "group_name": "Galeforce Mist",
+    "category": "special",
+    "is_prf": false,
+    "sp": 500,
+    "tier": 3,
+    "cd": 5,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Cavalry",
+          "Flying"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "All Melee",
+          "All Beast"
+        ]
+      }
+    },
+    "addition_date": "2025-09-04",
+    "release_date": "2025-09-05",
+    "version": "9.9",
     "downgrade_ids": [
       "SID_流星"
     ]
@@ -56154,6 +56596,36 @@
     }
   },
   {
+    "id": "SID_猛き闘技者の弓",
+    "game8_id": "549081",
+    "name": "Gladiator's Bow",
+    "group_name": "Gladiator's Bow",
+    "category": "weapon",
+    "weapon_type": "All Bow",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "eff": [
+      "flying"
+    ],
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "All Bow"
+        ]
+      }
+    },
+    "addition_date": "2025-09-04",
+    "release_date": "2025-09-05",
+    "version": "9.9",
+    "downgrade_ids": [
+      "SID_銀の弓"
+    ]
+  },
+  {
     "id": "SID_王書グラズヘイム",
     "game8_id": "543983",
     "name": "Glaðsbók",
@@ -56175,7 +56647,7 @@
     },
     "addition_date": "2025-08-15",
     "release_date": "2025-08-15",
-    "version": "9.5",
+    "version": "9.8",
     "downgrade_ids": [
       "SID_レクスカリバー"
     ]
@@ -57814,7 +58286,7 @@
     },
     "addition_date": "2025-06-30",
     "release_date": "2025-06-30",
-    "version": "9.5",
+    "version": "9.6",
     "downgrade_ids": [
       "SID_太陽"
     ]
@@ -61046,7 +61518,7 @@
     },
     "addition_date": "2025-06-17",
     "release_date": "2025-06-17",
-    "version": "9.5",
+    "version": "9.6",
     "downgrade_ids": [
       "SID_銀の槍"
     ]
@@ -61426,7 +61898,7 @@
     },
     "addition_date": "2025-08-15",
     "release_date": "2025-08-15",
-    "version": "9.5"
+    "version": "9.8"
   },
   {
     "id": "SID_四天馬騎士の冷槍",
@@ -63108,7 +63580,7 @@
     },
     "addition_date": "2025-06-17",
     "release_date": "2025-06-17",
-    "version": "9.5"
+    "version": "9.6"
   },
   {
     "id": "SID_聖衣",
@@ -63977,7 +64449,7 @@
     },
     "addition_date": "2025-07-18",
     "release_date": "2025-07-18",
-    "version": "9.5"
+    "version": "9.7"
   },
   {
     "id": "SID_凄腕の鋭槍",
@@ -65792,6 +66264,32 @@
     ]
   },
   {
+    "id": "SID_絶光の角_一",
+    "base_id": "SID_絶光の角",
+    "game8_id": "383486",
+    "name": "Illuminating Horn",
+    "group_name": "Illuminating Horn",
+    "category": "weapon",
+    "weapon_type": "All Beast",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b6/Illuminating_Horn_W.png/revision/latest?cb=20250904054136",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 1,
+    "refine": "skill1",
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Infantry"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "All Beast"
+        ]
+      }
+    }
+  },
+  {
     "id": "SID_治癒",
     "game8_id": "266040",
     "name": "Imbue",
@@ -65941,7 +66439,7 @@
     },
     "addition_date": "2025-08-06",
     "release_date": "2025-08-07",
-    "version": "9.5",
+    "version": "9.8",
     "downgrade_ids": [
       "SID_血讐"
     ]
@@ -66048,7 +66546,7 @@
     },
     "addition_date": "2025-07-18",
     "release_date": "2025-07-18",
-    "version": "9.5",
+    "version": "9.7",
     "upgrade_ids": [
       "SID_グループ＋"
     ],
@@ -66079,7 +66577,7 @@
     },
     "addition_date": "2025-07-18",
     "release_date": "2025-07-18",
-    "version": "9.5",
+    "version": "9.7",
     "downgrade_ids": [
       "SID_グループ"
     ]
@@ -68953,7 +69451,7 @@
     },
     "addition_date": "2025-08-15",
     "release_date": "2025-08-15",
-    "version": "9.5"
+    "version": "9.8"
   },
   {
     "id": "SID_正義の執行者",
@@ -68976,7 +69474,7 @@
     },
     "addition_date": "2024-12-05",
     "release_date": "2025-07-29",
-    "version": "9.5"
+    "version": "9.7"
   },
   {
     "id": "SID_鏑矢",
@@ -70098,7 +70596,7 @@
     },
     "addition_date": "2025-06-05",
     "release_date": "2025-06-06",
-    "version": "9.5",
+    "version": "9.6",
     "downgrade_ids": [
       "SID_レクスカリバー"
     ]
@@ -70767,7 +71265,7 @@
     },
     "addition_date": "2025-08-06",
     "release_date": "2025-08-07",
-    "version": "9.5"
+    "version": "9.8"
   },
   {
     "id": "SID_草原の公女の弓",
@@ -75256,7 +75754,7 @@
     },
     "addition_date": "2025-06-17",
     "release_date": "2025-06-17",
-    "version": "9.5",
+    "version": "9.6",
     "downgrade_ids": [
       "SID_月光"
     ]
@@ -75458,7 +75956,7 @@
     },
     "addition_date": "2025-06-30",
     "release_date": "2025-06-30",
-    "version": "9.5",
+    "version": "9.6",
     "downgrade_ids": [
       "SID_アトラース"
     ]
@@ -76607,7 +77105,7 @@
     },
     "addition_date": "2025-08-15",
     "release_date": "2025-08-15",
-    "version": "9.5",
+    "version": "9.8",
     "downgrade_ids": [
       "SID_華炎"
     ]
@@ -80650,7 +81148,7 @@
     },
     "addition_date": "2025-08-15",
     "release_date": "2025-08-15",
-    "version": "9.5",
+    "version": "9.8",
     "downgrade_ids": [
       "SID_回避・拍節3"
     ]
@@ -81395,7 +81893,7 @@
     },
     "addition_date": "2025-06-05",
     "release_date": "2025-06-06",
-    "version": "9.5",
+    "version": "9.6",
     "upgrade_ids": [
       "SID_堅牢のブレス＋"
     ],
@@ -81426,7 +81924,7 @@
     },
     "addition_date": "2025-06-05",
     "release_date": "2025-06-06",
-    "version": "9.5",
+    "version": "9.6",
     "downgrade_ids": [
       "SID_堅牢のブレス"
     ]
@@ -81565,7 +82063,7 @@
     },
     "addition_date": "2025-07-07",
     "release_date": "2025-07-08",
-    "version": "9.5",
+    "version": "9.7",
     "downgrade_ids": [
       "SID_成獣の化身・騎馬"
     ]
@@ -82449,7 +82947,35 @@
     },
     "addition_date": "2022-07-26",
     "release_date": "2022-07-26",
-    "version": "6.7"
+    "version": "6.7",
+    "upgrade_ids": [
+      "SID_みんなが繋がる・神"
+    ]
+  },
+  {
+    "id": "SID_みんなが繋がる・神",
+    "name": "Opened Domain+",
+    "group_name": "Opened Domain",
+    "category": "passivec",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c4/Opened_Domain_Plus.png/revision/latest?cb=20250904054045",
+    "is_prf": true,
+    "sp": 300,
+    "tier": 2,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "none": true
+      }
+    },
+    "addition_date": "2022-07-26",
+    "release_date": "2022-07-26",
+    "version": "6.7",
+    "downgrade_ids": [
+      "SID_みんなが繋がる世界"
+    ]
   },
   {
     "id": "SID_開神の眷属・神",
@@ -82714,7 +83240,7 @@
     },
     "addition_date": "2025-07-07",
     "release_date": "2025-07-08",
-    "version": "9.5",
+    "version": "9.7",
     "upgrade_ids": [
       "SID_鋭骨の槍＋"
     ],
@@ -82745,7 +83271,7 @@
     },
     "addition_date": "2025-07-07",
     "release_date": "2025-07-08",
-    "version": "9.5",
+    "version": "9.7",
     "downgrade_ids": [
       "SID_鋭骨の槍"
     ]
@@ -85250,7 +85776,7 @@
     },
     "addition_date": "2025-06-17",
     "release_date": "2025-06-17",
-    "version": "9.5",
+    "version": "9.6",
     "downgrade_ids": [
       "SID_アトラース"
     ]
@@ -86501,9 +87027,36 @@
     },
     "addition_date": "2025-08-06",
     "release_date": "2025-08-07",
-    "version": "9.5",
+    "version": "9.8",
     "downgrade_ids": [
       "SID_アトラース"
+    ]
+  },
+  {
+    "id": "SID_剣姫親娘の烈剣",
+    "game8_id": "549084",
+    "name": "Princesses' Edge",
+    "group_name": "Princesses' Edge",
+    "category": "weapon",
+    "weapon_type": "Red Sword",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Red Sword"
+        ]
+      }
+    },
+    "addition_date": "2025-09-04",
+    "release_date": "2025-09-05",
+    "version": "9.9",
+    "downgrade_ids": [
+      "SID_銀の剣"
     ]
   },
   {
@@ -86632,7 +87185,7 @@
     },
     "addition_date": "2025-08-15",
     "release_date": "2025-08-15",
-    "version": "9.5"
+    "version": "9.8"
   },
   {
     "id": "SID_師の授けの書",
@@ -87166,7 +87719,7 @@
     },
     "addition_date": "2025-06-17",
     "release_date": "2025-06-17",
-    "version": "9.5",
+    "version": "9.6",
     "downgrade_ids": [
       "SID_迅雷風烈・奇数3",
       "SID_迅雷風烈・偶数3"
@@ -90825,7 +91378,7 @@
     },
     "addition_date": "2025-06-05",
     "release_date": "2025-06-07",
-    "version": "9.5",
+    "version": "9.6",
     "upgrade_ids": [
       "SID_ラウアスパロー＋"
     ],
@@ -90857,7 +91410,7 @@
     },
     "addition_date": "2025-06-05",
     "release_date": "2025-06-07",
-    "version": "9.5",
+    "version": "9.6",
     "downgrade_ids": [
       "SID_ラウアスパロー"
     ]
@@ -92912,6 +93465,7 @@
     "version": "1.0",
     "upgrade_ids": [
       "SID_運命は変わった！",
+      "SID_運命に打ち勝つ！",
       "SID_運命ハ変ワラナイ…",
       "SID_引き戻し・歩法",
       "SID_運命を変える！"
@@ -94466,7 +95020,7 @@
     },
     "addition_date": "2025-07-18",
     "release_date": "2025-07-19",
-    "version": "9.5",
+    "version": "9.7",
     "upgrade_ids": [
       "SID_強化反転の斧＋"
     ],
@@ -94497,7 +95051,7 @@
     },
     "addition_date": "2025-07-18",
     "release_date": "2025-07-19",
-    "version": "9.5",
+    "version": "9.7",
     "downgrade_ids": [
       "SID_強化反転の斧"
     ]
@@ -96852,9 +97406,9 @@
         ]
       }
     },
-    "addition_date": "2025-07-07",
-    "release_date": "2025-07-08",
-    "version": "9.5",
+    "addition_date": "2022-11-30",
+    "release_date": "2022-11-30",
+    "version": "6.11",
     "downgrade_ids": [
       "SID_共鳴の黒魔法3",
       "SID_速さ魔防の遠影3"
@@ -97022,7 +97576,7 @@
     },
     "addition_date": "2025-06-17",
     "release_date": "2025-06-17",
-    "version": "9.5",
+    "version": "9.6",
     "downgrade_ids": [
       "SID_速さ魔防の凪3"
     ]
@@ -101104,7 +101658,7 @@
     },
     "addition_date": "2025-08-06",
     "release_date": "2025-08-07",
-    "version": "9.5",
+    "version": "9.8",
     "upgrade_ids": [
       "SID_給仕のナイフ＋"
     ],
@@ -101135,7 +101689,7 @@
     },
     "addition_date": "2025-08-06",
     "release_date": "2025-08-07",
-    "version": "9.5",
+    "version": "9.8",
     "downgrade_ids": [
       "SID_給仕のナイフ"
     ]
@@ -102726,7 +103280,7 @@
     },
     "addition_date": "2025-06-30",
     "release_date": "2025-06-30",
-    "version": "9.5",
+    "version": "9.6",
     "upgrade_ids": [
       "SID_サイレスガード2"
     ]
@@ -102757,7 +103311,7 @@
     },
     "addition_date": "2025-06-30",
     "release_date": "2025-06-30",
-    "version": "9.5",
+    "version": "9.6",
     "upgrade_ids": [
       "SID_サイレスガード3"
     ],
@@ -102791,7 +103345,7 @@
     },
     "addition_date": "2025-06-30",
     "release_date": "2025-06-30",
-    "version": "9.5",
+    "version": "9.6",
     "upgrade_ids": [
       "SID_サイレスガード4"
     ],
@@ -102825,7 +103379,7 @@
     },
     "addition_date": "2025-06-30",
     "release_date": "2025-06-30",
-    "version": "9.5",
+    "version": "9.6",
     "downgrade_ids": [
       "SID_サイレスガード3"
     ]
@@ -103162,6 +103716,7 @@
       "SID_炎と氷の王女の輝弓",
       "SID_風神弓",
       "SID_風神雷神弓",
+      "SID_猛き闘技者の弓",
       "SID_守護者の烈弓",
       "SID_戦神の風弓",
       "SID_射止める花嫁の花弓",
@@ -103432,6 +103987,7 @@
       "SID_草原の狼の白槍",
       "SID_魔性の槍",
       "SID_闘いの熱砂の槍",
+      "SID_謎の闘技者の槍",
       "SID_耳目集める二人の傘",
       "SID_漁神の恵槍",
       "SID_夢想の翼槍",
@@ -103591,7 +104147,7 @@
     },
     "addition_date": "2025-08-06",
     "release_date": "2025-08-07",
-    "version": "9.5",
+    "version": "9.8",
     "downgrade_ids": [
       "SID_銀の斧"
     ]
@@ -103702,6 +104258,7 @@
       "SID_神竜王の剣",
       "SID_錬磨サンダーソード",
       "SID_ニーウ",
+      "SID_剣姫親娘の烈剣",
       "SID_女王の護衛の怜剣",
       "SID_ラグネル",
       "SID_ラグネル＆エタルド",
@@ -104950,7 +105507,7 @@
     },
     "addition_date": "2025-07-18",
     "release_date": "2025-07-18",
-    "version": "9.5"
+    "version": "9.7"
   },
   {
     "id": "SID_鬼神明鏡の掩撃",
@@ -109620,7 +110177,7 @@
     },
     "addition_date": "2025-08-06",
     "release_date": "2025-08-07",
-    "version": "9.5",
+    "version": "9.8",
     "downgrade_ids": [
       "SID_速さ魔防の干渉3"
     ]
@@ -109959,7 +110516,7 @@
     },
     "addition_date": "2025-06-05",
     "release_date": "2025-06-06",
-    "version": "9.5",
+    "version": "9.6",
     "downgrade_ids": [
       "SID_速さの混乱3",
       "SID_魔防の混乱3"
@@ -110707,7 +111264,7 @@
     },
     "addition_date": "2025-08-15",
     "release_date": "2025-08-15",
-    "version": "9.5",
+    "version": "9.8",
     "downgrade_ids": [
       "SID_速さ魔防の封印2"
     ]
@@ -115134,6 +115691,7 @@
       "SID_共闘の斧",
       "SID_錨の斧",
       "SID_愛のケーキサーバ",
+      "SID_闘技の斧",
       "SID_愛の祭の斧",
       "SID_バリアの斧",
       "SID_ビーチフラッグ",
@@ -115474,6 +116032,7 @@
     "version": "1.0",
     "upgrade_ids": [
       "SID_共闘の剣",
+      "SID_闘技の剣",
       "SID_アーマーキラー",
       "SID_アーマーキラー2",
       "SID_バリアの剣",
@@ -116220,7 +116779,7 @@
     },
     "addition_date": "2025-07-18",
     "release_date": "2025-07-18",
-    "version": "9.5",
+    "version": "9.7",
     "downgrade_ids": [
       "SID_鬼神金剛の一撃2"
     ]
@@ -116454,7 +117013,7 @@
     },
     "addition_date": "2025-08-15",
     "release_date": "2025-08-15",
-    "version": "9.5",
+    "version": "9.8",
     "downgrade_ids": [
       "SID_銀の剣"
     ]
@@ -116685,7 +117244,7 @@
     },
     "addition_date": "2025-07-07",
     "release_date": "2025-07-08",
-    "version": "9.5",
+    "version": "9.7",
     "downgrade_ids": [
       "SID_トロン",
       "SID_シャイン"
@@ -116900,7 +117459,7 @@
     },
     "addition_date": "2024-12-05",
     "release_date": "2025-07-29",
-    "version": "9.5",
+    "version": "9.7",
     "downgrade_ids": [
       "SID_銀の剣"
     ]
@@ -117665,6 +118224,7 @@
     "upgrade_ids": [
       "SID_トリック",
       "SID_未来を叶える瞳",
+      "SID_未来を選ぶ瞳",
       "SID_未来を変える瞳",
       "SID_未来を映す瞳",
       "SID_入れ替え・歩法"
@@ -117695,7 +118255,7 @@
     },
     "addition_date": "2025-08-15",
     "release_date": "2025-08-15",
-    "version": "9.5",
+    "version": "9.8",
     "downgrade_ids": [
       "SID_入れ替え"
     ]
@@ -117834,7 +118394,7 @@
     },
     "addition_date": "2025-07-07",
     "release_date": "2025-07-08",
-    "version": "9.5"
+    "version": "9.7"
   },
   {
     "id": "SID_幸運ぶ冬の聖菓",
@@ -119156,7 +119716,7 @@
     },
     "addition_date": "2025-07-07",
     "release_date": "2025-07-08",
-    "version": "9.5",
+    "version": "9.7",
     "downgrade_ids": [
       "SID_銀の暗器"
     ]
@@ -119595,7 +120155,7 @@
     },
     "addition_date": "2025-08-06",
     "release_date": "2025-08-07",
-    "version": "9.5",
+    "version": "9.8",
     "upgrade_ids": [
       "SID_紅茶のポット＋"
     ],
@@ -119627,7 +120187,7 @@
     },
     "addition_date": "2025-08-06",
     "release_date": "2025-08-07",
-    "version": "9.5",
+    "version": "9.8",
     "downgrade_ids": [
       "SID_紅茶のポット"
     ]
@@ -119655,7 +120215,7 @@
     },
     "addition_date": "2025-08-06",
     "release_date": "2025-08-07",
-    "version": "9.5",
+    "version": "9.8",
     "downgrade_ids": [
       "SID_銀の槍"
     ]
@@ -119829,7 +120389,7 @@
     },
     "addition_date": "2025-08-15",
     "release_date": "2025-08-15",
-    "version": "9.5",
+    "version": "9.8",
     "downgrade_ids": [
       "SID_成獣の化身・重装"
     ]
@@ -119861,7 +120421,7 @@
     },
     "addition_date": "2025-08-06",
     "release_date": "2025-08-07",
-    "version": "9.5",
+    "version": "9.8",
     "downgrade_ids": [
       "SID_迅雷風烈・奇数3",
       "SID_迅雷風烈・偶数3"
@@ -120225,6 +120785,30 @@
     ]
   },
   {
+    "id": "SID_円環の力_一",
+    "base_id": "SID_円環の力",
+    "game8_id": "421751",
+    "name": "The Cycle's Turn",
+    "group_name": "The Cycle's Turn",
+    "category": "weapon",
+    "weapon_type": "Blue Tome",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/55/The_Cycles_Turn_W.png/revision/latest?cb=20250904054159",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 1,
+    "refine": "skill1",
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Blue Tome"
+        ]
+      }
+    }
+  },
+  {
     "id": "SID_真炎の紋章",
     "game8_id": "517569",
     "name": "The Fire Emblem",
@@ -120325,7 +120909,7 @@
     },
     "addition_date": "2025-07-07",
     "release_date": "2025-07-08",
-    "version": "9.5"
+    "version": "9.7"
   },
   {
     "id": "SID_真・ノヴァの聖戦士",
@@ -120349,7 +120933,7 @@
     },
     "addition_date": "2025-07-18",
     "release_date": "2025-07-18",
-    "version": "9.5",
+    "version": "9.7",
     "downgrade_ids": [
       "SID_流星"
     ]
@@ -121977,6 +122561,34 @@
     ]
   },
   {
+    "id": "SID_始まりの鼓動・鎧",
+    "game8_id": "549092",
+    "name": "Time Pulse Arms",
+    "group_name": "Time Pulse Arms",
+    "category": "passivec",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/ea/Time_Pulse_Arms.png/revision/latest?cb=20250904054115",
+    "is_prf": false,
+    "sp": 300,
+    "tier": 4,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Infantry"
+        ]
+      },
+      "weapons": {
+        "none": true
+      }
+    },
+    "addition_date": "2025-09-04",
+    "release_date": "2025-09-05",
+    "version": "9.9",
+    "downgrade_ids": [
+      "SID_始まりの鼓動3"
+    ]
+  },
+  {
     "id": "SID_響・始まりの鼓動",
     "game8_id": "473586",
     "name": "Time Pulse Echo",
@@ -122145,6 +122757,7 @@
       "SID_追撃の鼓動・刃",
       "SID_鍛錬の鼓動・刃",
       "SID_鍛錬の鼓動・謀策",
+      "SID_始まりの鼓動・鎧",
       "SID_始まりの鼓動・刃",
       "SID_始まりの鼓動・兜",
       "SID_始まりの鼓動4"
@@ -123546,7 +124159,7 @@
     },
     "addition_date": "2025-06-17",
     "release_date": "2025-06-17",
-    "version": "9.5",
+    "version": "9.6",
     "upgrade_ids": [
       "SID_南国の果汁＋"
     ],
@@ -123577,7 +124190,7 @@
     },
     "addition_date": "2025-06-17",
     "release_date": "2025-06-17",
-    "version": "9.5",
+    "version": "9.6",
     "downgrade_ids": [
       "SID_南国の果汁"
     ]
@@ -123606,7 +124219,7 @@
     },
     "addition_date": "2025-07-07",
     "release_date": "2025-07-08",
-    "version": "9.5",
+    "version": "9.7",
     "downgrade_ids": [
       "SID_成獣の化身・歩行"
     ]
@@ -123741,7 +124354,7 @@
     },
     "addition_date": "2025-08-06",
     "release_date": "2025-08-07",
-    "version": "9.5"
+    "version": "9.8"
   },
   {
     "id": "SID_真月光閃",
@@ -123849,7 +124462,7 @@
     },
     "addition_date": "2024-12-05",
     "release_date": "2025-07-29",
-    "version": "9.5"
+    "version": "9.7"
   },
   {
     "id": "SID_天真の神弓",
@@ -123876,7 +124489,7 @@
     },
     "addition_date": "2025-08-15",
     "release_date": "2025-08-15",
-    "version": "9.5",
+    "version": "9.8",
     "downgrade_ids": [
       "SID_銀の弓"
     ]
@@ -125066,6 +125679,30 @@
     "downgrade_ids": [
       "SID_灼熱のブレス"
     ]
+  },
+  {
+    "id": "SID_透魔の竜石_一",
+    "base_id": "SID_透魔の竜石",
+    "game8_id": "421749",
+    "name": "Vallastone",
+    "group_name": "Vallastone",
+    "category": "weapon",
+    "weapon_type": "All Breath",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c3/Vallastone_W.png/revision/latest?cb=20250904054220",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 1,
+    "refine": "skill1",
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "All Breath"
+        ]
+      }
+    }
   },
   {
     "id": "SID_守りの槍",
@@ -126982,7 +127619,7 @@
     },
     "addition_date": "2025-07-07",
     "release_date": "2025-07-18",
-    "version": "9.5",
+    "version": "9.7",
     "downgrade_ids": [
       "SID_成獣の化身・重装"
     ]

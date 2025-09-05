@@ -3815,6 +3815,54 @@
     }
   },
   {
+    "id": "SID_第98迷宮の覇者1",
+    "game8_id": null,
+    "name": "Squad Ace CT 1",
+    "group_name": "Squad Ace CT",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f6/Squad_Ace_BZ_1.png/revision/latest?cb=20240109063418",
+    "sp": 120,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "none": true
+      }
+    }
+  },
+  {
+    "id": "SID_第98迷宮の覇者2",
+    "game8_id": null,
+    "name": "Squad Ace CT 2",
+    "group_name": "Squad Ace CT",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/1c/Squad_Ace_BZ_2.png/revision/latest?cb=20240109063428",
+    "sp": 180,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "none": true
+      }
+    }
+  },
+  {
+    "id": "SID_第98迷宮の覇者3",
+    "game8_id": null,
+    "name": "Squad Ace CT 3",
+    "group_name": "Squad Ace CT",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/ec/Squad_Ace_BZ_3.png/revision/latest?cb=20240109063439",
+    "sp": 240,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "none": true
+      }
+    }
+  },
+  {
     "id": "SID_第4迷宮の覇者1",
     "game8_id": null,
     "name": "Squad Ace D 1",
@@ -11512,6 +11560,60 @@
     }
   },
   {
+    "id": "SID_歩行の見切り追撃1",
+    "game8_id": null,
+    "name": "Inf. Null Follow 1",
+    "group_name": "Inf. Null Follow",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/2/28/Inf._Null_Follow_1.png/revision/latest?cb=20220719081015",
+    "sp": 60,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Infantry"
+        ]
+      },
+      "weapons": {
+        "none": true
+      }
+    }
+  },
+  {
+    "id": "SID_歩行の見切り追撃2",
+    "game8_id": null,
+    "name": "Inf. Null Follow 2",
+    "group_name": "Inf. Null Follow",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/2/2e/Inf._Null_Follow_2.png/revision/latest?cb=20220719081025",
+    "sp": 120,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Infantry"
+        ]
+      },
+      "weapons": {
+        "none": true
+      }
+    }
+  },
+  {
+    "id": "SID_歩行の見切り追撃3",
+    "game8_id": null,
+    "name": "Inf. Null Follow 3",
+    "group_name": "Inf. Null Follow",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/54/Inf._Null_Follow_3.png/revision/latest?cb=20220719081035",
+    "sp": 240,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Infantry"
+        ]
+      },
+      "weapons": {
+        "none": true
+      }
+    }
+  },
+  {
     "id": "SID_歩行の剛撃1",
     "game8_id": null,
     "name": "Infantry Rush 1",
@@ -13823,6 +13925,60 @@
           "All Breath",
           "All Beast"
         ]
+      }
+    }
+  },
+  {
+    "id": "SID_速さ守備の秘奥1",
+    "game8_id": null,
+    "name": "Spd/Def Finish 1",
+    "group_name": "Spd/Def Finish",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/0b/Spd_Def_Finish_1.png/revision/latest?cb=20240917072951",
+    "sp": 60,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Infantry"
+        ]
+      },
+      "weapons": {
+        "none": true
+      }
+    }
+  },
+  {
+    "id": "SID_速さ守備の秘奥2",
+    "game8_id": null,
+    "name": "Spd/Def Finish 2",
+    "group_name": "Spd/Def Finish",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/13/Spd_Def_Finish_2.png/revision/latest?cb=20240917073000",
+    "sp": 120,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Infantry"
+        ]
+      },
+      "weapons": {
+        "none": true
+      }
+    }
+  },
+  {
+    "id": "SID_速さ守備の秘奥3",
+    "game8_id": null,
+    "name": "Spd/Def Finish 3",
+    "group_name": "Spd/Def Finish",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/06/Spd_Def_Finish_3.png/revision/latest?cb=20240917073011",
+    "sp": 240,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Infantry"
+        ]
+      },
+      "weapons": {
+        "none": true
       }
     }
   },

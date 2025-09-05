@@ -4993,6 +4993,12 @@
   },
   {
     "unit_id": "PID_神階アスク",
+    "skill_id": "SID_攻撃守備の刃壁",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_神階アスク",
     "skill_id": "SID_成獣の化身・歩行",
     "default": 4,
     "unlock": 3
@@ -5060,6 +5066,12 @@
   {
     "unit_id": "PID_神階アスク",
     "skill_id": "SID_みんなが繋がる世界",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_神階アスク",
+    "skill_id": "SID_みんなが繋がる・神",
     "default": 0,
     "unlock": 5
   },
@@ -8331,6 +8343,12 @@
     "unit_id": "PID_総選挙ベルナデッタ",
     "skill_id": "SID_尽きざるもの",
     "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_ベウフォレス",
+    "skill_id": "SID_仮面の将の剣",
+    "default": 0,
     "unlock": 5
   },
   {
@@ -16032,6 +16050,126 @@
     "unlock": 5
   },
   {
+    "unit_id": "PID_フェリアクロム",
+    "skill_id": "SID_金剛の一撃1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_フェリアクロム",
+    "skill_id": "SID_攻撃守備の共感",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_フェリアクロム",
+    "skill_id": "SID_攻撃守備の連携1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_フェリアクロム",
+    "skill_id": "SID_攻撃守備の連携2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_フェリアクロム",
+    "skill_id": "SID_攻撃守備の連携3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_フェリアクロム",
+    "skill_id": "SID_烈風",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_フェリアクロム",
+    "skill_id": "SID_運命に打ち勝つ！",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_フェリアクロム",
+    "skill_id": "SID_猛き闘技者の弓",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_フェリアクロム",
+    "skill_id": "SID_鉄の弓",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_フェリアクロム",
+    "skill_id": "SID_引き戻し",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_フェリアクロム",
+    "skill_id": "SID_砕風",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_フェリアクロム",
+    "skill_id": "SID_銀の弓",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_フェリアクロム",
+    "skill_id": "SID_鬼神金剛の掩撃",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_フェリアクロム",
+    "skill_id": "SID_鋼の弓",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_フェリアクロム",
+    "skill_id": "SID_鬼神金剛の一撃1",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_フェリアクロム",
+    "skill_id": "SID_鬼神金剛の一撃2",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_フェリアクロム",
+    "skill_id": "SID_始まりの鼓動・鎧",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_フェリアクロム",
+    "skill_id": "SID_始まりの鼓動1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_フェリアクロム",
+    "skill_id": "SID_始まりの鼓動2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_フェリアクロム",
+    "skill_id": "SID_始まりの鼓動3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
     "unit_id": "PID_春祭クロム",
     "skill_id": "SID_攻撃守備1",
     "default": 0,
@@ -16096,6 +16234,84 @@
     "skill_id": "SID_鋼の斧",
     "default": 3,
     "unlock": 2
+  },
+  {
+    "unit_id": "PID_フェリアホリン",
+    "skill_id": "SID_闘技の斧",
+    "default": 3,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_フェリアホリン",
+    "skill_id": "SID_闘技の斧＋",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_フェリアホリン",
+    "skill_id": "SID_攻撃速さの刃壁",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_フェリアホリン",
+    "skill_id": "SID_攻撃速さの防壁1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_フェリアホリン",
+    "skill_id": "SID_攻撃速さの防壁2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_フェリアホリン",
+    "skill_id": "SID_攻撃速さの防壁3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_フェリアホリン",
+    "skill_id": "SID_鉄の斧",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_フェリアホリン",
+    "skill_id": "SID_月光",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_フェリアホリン",
+    "skill_id": "SID_影月",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_フェリアホリン",
+    "skill_id": "SID_鋼の斧",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_フェリアホリン",
+    "skill_id": "SID_始まりの鼓動1",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_フェリアホリン",
+    "skill_id": "SID_始まりの鼓動2",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_フェリアホリン",
+    "skill_id": "SID_始まりの鼓動3",
+    "default": 0,
+    "unlock": 4
   },
   {
     "unit_id": "PID_ホリン",
@@ -32296,6 +32512,120 @@
     "skill_id": "SID_入れ替え",
     "default": 4,
     "unlock": 3
+  },
+  {
+    "unit_id": "PID_双界フィル",
+    "skill_id": "SID_攻速鼓譟・強化無効",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_双界フィル",
+    "skill_id": "SID_流星",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_双界フィル",
+    "skill_id": "SID_蒼穹1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_双界フィル",
+    "skill_id": "SID_蒼穹2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_双界フィル",
+    "skill_id": "SID_蒼穹3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_双界フィル",
+    "skill_id": "SID_蒼穹4",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_双界フィル",
+    "skill_id": "SID_怒涛・再起1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_双界フィル",
+    "skill_id": "SID_怒涛・再起2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_双界フィル",
+    "skill_id": "SID_怒涛・再起3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_双界フィル",
+    "skill_id": "SID_疾風迅雷・霞",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_双界フィル",
+    "skill_id": "SID_速さの鼓舞1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_双界フィル",
+    "skill_id": "SID_速さの鼓舞2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_双界フィル",
+    "skill_id": "SID_速さの鼓舞3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_双界フィル",
+    "skill_id": "SID_鉄の剣",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_双界フィル",
+    "skill_id": "SID_星影",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_双界フィル",
+    "skill_id": "SID_強襲・神速",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_双界フィル",
+    "skill_id": "SID_剣姫親娘の烈剣",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_双界フィル",
+    "skill_id": "SID_銀の剣",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_双界フィル",
+    "skill_id": "SID_鋼の剣",
+    "default": 2,
+    "unlock": 2
   },
   {
     "unit_id": "PID_春祭フィル",
@@ -66480,6 +66810,108 @@
     "unlock": 5
   },
   {
+    "unit_id": "PID_フェリア仮面マルス",
+    "skill_id": "SID_攻撃速さの共感",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_フェリア仮面マルス",
+    "skill_id": "SID_攻撃速さの万全1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_フェリア仮面マルス",
+    "skill_id": "SID_攻撃速さの万全2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_フェリア仮面マルス",
+    "skill_id": "SID_攻撃速さの万全3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_フェリア仮面マルス",
+    "skill_id": "SID_攻撃速さの連携1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_フェリア仮面マルス",
+    "skill_id": "SID_攻撃速さの連携2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_フェリア仮面マルス",
+    "skill_id": "SID_攻撃速さの連携3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_フェリア仮面マルス",
+    "skill_id": "SID_謎の闘技者の槍",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_フェリア仮面マルス",
+    "skill_id": "SID_未来を選ぶ瞳",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_フェリア仮面マルス",
+    "skill_id": "SID_凶星",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_フェリア仮面マルス",
+    "skill_id": "SID_陣風",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_フェリア仮面マルス",
+    "skill_id": "SID_鉄の槍",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_フェリア仮面マルス",
+    "skill_id": "SID_星影",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_フェリア仮面マルス",
+    "skill_id": "SID_攻撃速さの完全",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_フェリア仮面マルス",
+    "skill_id": "SID_銀の槍",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_フェリア仮面マルス",
+    "skill_id": "SID_鋼の槍",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_フェリア仮面マルス",
+    "skill_id": "SID_入れ替え",
+    "default": 4,
+    "unlock": 3
+  },
+  {
     "unit_id": "PID_紋章マルス",
     "skill_id": "SID_攻撃速さの秘奥1",
     "default": 0,
@@ -78334,6 +78766,78 @@
     "skill_id": "SID_トライデント＋",
     "default": 5,
     "unlock": 5
+  },
+  {
+    "unit_id": "PID_フェリアオグマ",
+    "skill_id": "SID_闘技の剣",
+    "default": 3,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_フェリアオグマ",
+    "skill_id": "SID_闘技の剣＋",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_フェリアオグマ",
+    "skill_id": "SID_攻撃速さの信義1",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_フェリアオグマ",
+    "skill_id": "SID_攻撃速さの信義2",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_フェリアオグマ",
+    "skill_id": "SID_攻撃速さの信義3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_フェリアオグマ",
+    "skill_id": "SID_蛍火",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_フェリアオグマ",
+    "skill_id": "SID_華炎",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_フェリアオグマ",
+    "skill_id": "SID_鉄の剣",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_フェリアオグマ",
+    "skill_id": "SID_奥義の螺旋1",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_フェリアオグマ",
+    "skill_id": "SID_奥義の螺旋2",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_フェリアオグマ",
+    "skill_id": "SID_奥義の螺旋3",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_フェリアオグマ",
+    "skill_id": "SID_鋼の剣",
+    "default": 2,
+    "unlock": 2
   },
   {
     "unit_id": "PID_オグマ",
@@ -103855,6 +104359,12 @@
   },
   {
     "unit_id": "PID_ヴェロニカ2味方",
+    "skill_id": "SID_閉界・承",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_ヴェロニカ2味方",
     "skill_id": "SID_ノスフェラート",
     "default": 4,
     "unlock": 3
@@ -103906,6 +104416,12 @@
     "skill_id": "SID_ルイン",
     "default": 2,
     "unlock": 2
+  },
+  {
+    "unit_id": "PID_ヴェロニカ2味方",
+    "skill_id": "SID_共鳴・速魔遠影",
+    "default": 0,
+    "unlock": 5
   },
   {
     "unit_id": "PID_ヴェロニカ2味方",

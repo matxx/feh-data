@@ -528,6 +528,15 @@
     ]
   },
   {
+    "name": "Beside Kin (Focus)",
+    "unit_ids": [
+      "PID_フェリアクロム",
+      "PID_フェリアホリン",
+      "PID_フェリア仮面マルス",
+      "PID_双界フィル"
+    ]
+  },
+  {
     "name": "Bite of Flame (Focus)",
     "unit_ids": [
       "PID_双界ターナ",
@@ -5645,6 +5654,15 @@
     ]
   },
   {
+    "name": "Focus: New Power (Sep 2025)",
+    "unit_ids": [
+      "PID_総選挙カムイ女",
+      "PID_総選挙グルヴェイグ",
+      "PID_総選挙セネリオ",
+      "PID_総選挙ルフレ男"
+    ]
+  },
+  {
     "name": "Focus: New Power 1",
     "unit_ids": [
       "PID_オグマ",
@@ -6089,6 +6107,14 @@
       "PID_イングリット",
       "PID_セリーヌ",
       "PID_ナンナ"
+    ]
+  },
+  {
+    "name": "Focus: Tempest Trials (Askr's Kin, Pt. 3)",
+    "unit_ids": [
+      "PID_カアラ",
+      "PID_クロム",
+      "PID_フィル"
     ]
   },
   {
@@ -7157,6 +7183,14 @@
       "PID_マトイ",
       "PID_開花エイル味方",
       "PID_魔器オフェリア"
+    ]
+  },
+  {
+    "name": "Focus: Weekly Revival 111",
+    "unit_ids": [
+      "PID_セリーヌ",
+      "PID_リュール女",
+      "PID_魔器アルフレッド"
     ]
   },
   {

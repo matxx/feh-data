@@ -1967,6 +1967,7 @@
       "foc": 5
     },
     "skill_ids": [
+      "SID_みんなが繋がる・神",
       "SID_みんなが繋がる世界",
       "SID_幼獣の化身・歩行",
       "SID_成獣の化身・歩行",
@@ -1974,6 +1975,7 @@
       "SID_攻撃守備の万全2",
       "SID_攻撃守備の万全3",
       "SID_攻撃守備の万全4",
+      "SID_攻撃守備の刃壁",
       "SID_攻撃守備の防壁1",
       "SID_攻撃守備の防壁2",
       "SID_攻撃守備の防壁3",
@@ -2719,14 +2721,16 @@
   {
     "id": "PID_総選挙バルドル",
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "lowest_rarity": {},
+    "lowest_rarity": {
+      "gsp": 5
+    },
     "skill_ids": [
       "SID_伏竜",
       "SID_天に代わりて",
@@ -3398,6 +3402,7 @@
       "hg": 3
     },
     "skill_ids": [
+      "SID_仮面の将の剣",
       "SID_強化無効・近距離1",
       "SID_強化無効・近距離2",
       "SID_強化無効・近距離3",
@@ -3971,14 +3976,16 @@
   {
     "id": "PID_総選挙ベレト",
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "lowest_rarity": {},
+    "lowest_rarity": {
+      "gsp": 5
+    },
     "skill_ids": [
       "SID_凶星",
       "SID_回避・拍節1",
@@ -6574,6 +6581,43 @@
     "divine_codes": {}
   },
   {
+    "id": "PID_フェリアクロム",
+    "is_in": {
+      "gsp": false,
+      "ssp": true,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {
+      "ssp": 5
+    },
+    "skill_ids": [
+      "SID_始まりの鼓動1",
+      "SID_始まりの鼓動2",
+      "SID_始まりの鼓動3",
+      "SID_始まりの鼓動・鎧",
+      "SID_引き戻し",
+      "SID_攻撃守備の共感",
+      "SID_攻撃守備の連携1",
+      "SID_攻撃守備の連携2",
+      "SID_攻撃守備の連携3",
+      "SID_烈風",
+      "SID_猛き闘技者の弓",
+      "SID_砕風",
+      "SID_運命に打ち勝つ！",
+      "SID_金剛の一撃1",
+      "SID_鉄の弓",
+      "SID_銀の弓",
+      "SID_鋼の弓",
+      "SID_鬼神金剛の一撃1",
+      "SID_鬼神金剛の一撃2",
+      "SID_鬼神金剛の掩撃"
+    ],
+    "divine_codes": {}
+  },
+  {
     "id": "PID_春祭クロム",
     "is_in": {
       "gsp": false,
@@ -6598,6 +6642,36 @@
       "SID_斧の経験3",
       "SID_鉄の斧",
       "SID_鋼の斧"
+    ],
+    "divine_codes": {}
+  },
+  {
+    "id": "PID_フェリアホリン",
+    "is_in": {
+      "gsp": false,
+      "ssp": true,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {
+      "ssp": 4
+    },
+    "skill_ids": [
+      "SID_始まりの鼓動1",
+      "SID_始まりの鼓動2",
+      "SID_始まりの鼓動3",
+      "SID_影月",
+      "SID_攻撃速さの刃壁",
+      "SID_攻撃速さの防壁1",
+      "SID_攻撃速さの防壁2",
+      "SID_攻撃速さの防壁3",
+      "SID_月光",
+      "SID_鉄の斧",
+      "SID_鋼の斧",
+      "SID_闘技の斧",
+      "SID_闘技の斧＋"
     ],
     "divine_codes": {}
   },
@@ -7727,11 +7801,12 @@
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "lowest_rarity": {
-      "gsp": 3
+      "gsp": 3,
+      "ldc": 4
     },
     "skill_ids": [
       "SID_伏竜",
@@ -7748,7 +7823,16 @@
       "SID_魔防封じ2",
       "SID_魔防封じ3"
     ],
-    "divine_codes": {}
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2025,
+          "month": 9,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "PID_比翼カムイ女",
@@ -8060,11 +8144,12 @@
       "ssp": true,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "lowest_rarity": {
-      "ssp": 5
+      "ssp": 5,
+      "ldc": 5
     },
     "skill_ids": [
       "SID_伏竜",
@@ -8083,7 +8168,16 @@
       "SID_鋼の剣",
       "SID_風神の団扇"
     ],
-    "divine_codes": {}
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2025,
+          "month": 9,
+          "rarity": 5,
+          "cost": 300
+        }
+      ]
+    }
   },
   {
     "id": "PID_比翼ダグ",
@@ -9207,11 +9301,12 @@
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "lowest_rarity": {
-      "gsp": 3
+      "gsp": 3,
+      "ldc": 4
     },
     "skill_ids": [
       "SID_エルサンダー",
@@ -9226,7 +9321,16 @@
       "SID_速さの魅了2",
       "SID_速さの魅了3"
     ],
-    "divine_codes": {}
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2025,
+          "month": 9,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "PID_水着ドロテア",
@@ -10148,14 +10252,16 @@
   {
     "id": "PID_総選挙エイクス",
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "lowest_rarity": {},
+    "lowest_rarity": {
+      "gsp": 5
+    },
     "skill_ids": [
       "SID_入れ替え",
       "SID_入れ替え・歩法",
@@ -10188,11 +10294,12 @@
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "lowest_rarity": {
-      "gsp": 4.5
+      "gsp": 4.5,
+      "ldc": 5
     },
     "skill_ids": [
       "SID_伏竜",
@@ -10211,7 +10318,16 @@
       "SID_銀の暗器",
       "SID_鋼の暗器"
     ],
-    "divine_codes": {}
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2025,
+          "month": 9,
+          "rarity": 5,
+          "cost": 300
+        }
+      ]
+    }
   },
   {
     "id": "PID_神階エイル",
@@ -13226,6 +13342,42 @@
     "divine_codes": {}
   },
   {
+    "id": "PID_双界フィル",
+    "is_in": {
+      "gsp": false,
+      "ssp": true,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {
+      "ssp": 5
+    },
+    "skill_ids": [
+      "SID_剣姫親娘の烈剣",
+      "SID_強襲・神速",
+      "SID_怒涛・再起1",
+      "SID_怒涛・再起2",
+      "SID_怒涛・再起3",
+      "SID_攻速鼓譟・強化無効",
+      "SID_星影",
+      "SID_流星",
+      "SID_疾風迅雷・霞",
+      "SID_蒼穹1",
+      "SID_蒼穹2",
+      "SID_蒼穹3",
+      "SID_蒼穹4",
+      "SID_速さの鼓舞1",
+      "SID_速さの鼓舞2",
+      "SID_速さの鼓舞3",
+      "SID_鉄の剣",
+      "SID_銀の剣",
+      "SID_鋼の剣"
+    ],
+    "divine_codes": {}
+  },
+  {
     "id": "PID_春祭フィル",
     "is_in": {
       "gsp": false,
@@ -13271,11 +13423,12 @@
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "lowest_rarity": {
-      "gsp": 3
+      "gsp": 3,
+      "ldc": 4
     },
     "skill_ids": [
       "SID_すり抜け1",
@@ -13292,7 +13445,16 @@
       "SID_鉄の剣",
       "SID_鋼の剣"
     ],
-    "divine_codes": {}
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2025,
+          "month": 9,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "PID_開花フィル",
@@ -23876,6 +24038,12 @@
           "month": 5,
           "rarity": 4,
           "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 9,
+          "rarity": 4,
+          "cost": 100
         }
       ]
     }
@@ -25018,11 +25186,12 @@
       "ssp": false,
       "hg": true,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "lowest_rarity": {
-      "hg": 4
+      "hg": 4,
+      "ldc": 4
     },
     "skill_ids": [
       "SID_回避・怒り1",
@@ -25038,7 +25207,16 @@
       "SID_鉄の斧",
       "SID_鋼の斧"
     ],
-    "divine_codes": {}
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2025,
+          "month": 9,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "PID_水着ローレンツ",
@@ -27637,6 +27815,40 @@
     "divine_codes": {}
   },
   {
+    "id": "PID_フェリア仮面マルス",
+    "is_in": {
+      "gsp": false,
+      "ssp": true,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {
+      "ssp": 5
+    },
+    "skill_ids": [
+      "SID_入れ替え",
+      "SID_凶星",
+      "SID_攻撃速さの万全1",
+      "SID_攻撃速さの万全2",
+      "SID_攻撃速さの万全3",
+      "SID_攻撃速さの共感",
+      "SID_攻撃速さの完全",
+      "SID_攻撃速さの連携1",
+      "SID_攻撃速さの連携2",
+      "SID_攻撃速さの連携3",
+      "SID_星影",
+      "SID_未来を選ぶ瞳",
+      "SID_謎の闘技者の槍",
+      "SID_鉄の槍",
+      "SID_銀の槍",
+      "SID_鋼の槍",
+      "SID_陣風"
+    ],
+    "divine_codes": {}
+  },
+  {
     "id": "PID_紋章マルス",
     "is_in": {
       "gsp": false,
@@ -27977,14 +28189,16 @@
   {
     "id": "PID_メリアエ味方",
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "lowest_rarity": {},
+    "lowest_rarity": {
+      "gsp": 5
+    },
     "skill_ids": [
       "SID_堅固なる獣",
       "SID_幼獣の化身・重装",
@@ -32730,6 +32944,35 @@
         }
       ]
     }
+  },
+  {
+    "id": "PID_フェリアオグマ",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": true,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {
+      "hg": 4
+    },
+    "skill_ids": [
+      "SID_奥義の螺旋1",
+      "SID_奥義の螺旋2",
+      "SID_奥義の螺旋3",
+      "SID_攻撃速さの信義1",
+      "SID_攻撃速さの信義2",
+      "SID_攻撃速さの信義3",
+      "SID_華炎",
+      "SID_蛍火",
+      "SID_鉄の剣",
+      "SID_鋼の剣",
+      "SID_闘技の剣",
+      "SID_闘技の剣＋"
+    ],
+    "divine_codes": {}
   },
   {
     "id": "PID_オグマ",
@@ -38781,14 +39024,16 @@
   {
     "id": "PID_総選挙シャロン",
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "lowest_rarity": {},
+    "lowest_rarity": {
+      "gsp": 5
+    },
     "skill_ids": [
       "SID_お母様みたいに",
       "SID_ウインド",
@@ -43745,6 +43990,7 @@
       "SID_ノスフェラート",
       "SID_ミィル",
       "SID_ルイン",
+      "SID_共鳴・速魔遠影",
       "SID_恐慌の幻煙1",
       "SID_恐慌の幻煙2",
       "SID_恐慌の幻煙3",
@@ -43759,6 +44005,7 @@
       "SID_速さ魔防の遠影2",
       "SID_速さ魔防の遠影3",
       "SID_閉界",
+      "SID_閉界・承",
       "SID_雪辱"
     ],
     "divine_codes": {}

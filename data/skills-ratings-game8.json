@@ -1235,6 +1235,21 @@
     "game8_grade": "S"
   },
   {
+    "id": "SID_闘技の剣",
+    "game8_rating": null,
+    "game8_grade": null
+  },
+  {
+    "id": "SID_闘技の剣＋",
+    "game8_rating": "8.5",
+    "game8_grade": "B"
+  },
+  {
+    "id": "SID_剣姫親娘の烈剣",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
     "id": "SID_忍の刀",
     "game8_rating": null,
     "game8_grade": null
@@ -3635,6 +3650,11 @@
     "game8_grade": "S"
   },
   {
+    "id": "SID_謎の闘技者の槍",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
     "id": "SID_コウモリの弓",
     "game8_rating": null,
     "game8_grade": null
@@ -5920,6 +5940,16 @@
     "game8_grade": "S"
   },
   {
+    "id": "SID_闘技の斧",
+    "game8_rating": null,
+    "game8_grade": null
+  },
+  {
+    "id": "SID_闘技の斧＋",
+    "game8_rating": "8.5",
+    "game8_grade": "B"
+  },
+  {
     "id": "SID_鏑矢",
     "game8_rating": null,
     "game8_grade": null
@@ -7925,6 +7955,11 @@
     "game8_grade": "A"
   },
   {
+    "id": "SID_猛き闘技者の弓",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
     "id": "SID_パルティア",
     "game8_rating": "8.0",
     "game8_grade": null
@@ -9220,14 +9255,14 @@
     "game8_grade": "S"
   },
   {
-    "id": "SID_回り込み",
-    "game8_rating": "8.5",
-    "game8_grade": "A"
-  },
-  {
     "id": "SID_入れ替え・歩法",
     "game8_rating": "9.9",
     "game8_grade": "SS"
+  },
+  {
+    "id": "SID_回り込み",
+    "game8_rating": "8.5",
+    "game8_grade": "A"
   },
   {
     "id": "SID_体当たり",
@@ -9305,9 +9340,9 @@
     "game8_grade": "S"
   },
   {
-    "id": "SID_やさしいゆめ・神",
-    "game8_rating": "9.9",
-    "game8_grade": "SS"
+    "id": "SID_しろいゆめ",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
   },
   {
     "id": "SID_未来を映す瞳・承",
@@ -9315,7 +9350,12 @@
     "game8_grade": "S"
   },
   {
-    "id": "SID_しろいゆめ",
+    "id": "SID_やさしいゆめ・神",
+    "game8_rating": "9.9",
+    "game8_grade": "SS"
+  },
+  {
+    "id": "SID_しろいゆめ・神",
     "game8_rating": "9.5",
     "game8_grade": "S"
   },
@@ -9325,7 +9365,7 @@
     "game8_grade": "S"
   },
   {
-    "id": "SID_しろいゆめ・神",
+    "id": "SID_あまいゆめ・神",
     "game8_rating": "9.5",
     "game8_grade": "S"
   },
@@ -9335,7 +9375,12 @@
     "game8_grade": "A"
   },
   {
-    "id": "SID_あまいゆめ・神",
+    "id": "SID_癒しの乙女",
+    "game8_rating": "9.0",
+    "game8_grade": null
+  },
+  {
+    "id": "SID_運命を変える！",
     "game8_rating": "9.5",
     "game8_grade": "S"
   },
@@ -9345,27 +9390,17 @@
     "game8_grade": "S"
   },
   {
-    "id": "SID_運命を変える！",
-    "game8_rating": "9.5",
-    "game8_grade": "S"
-  },
-  {
-    "id": "SID_癒しの乙女",
-    "game8_rating": "9.0",
-    "game8_grade": null
-  },
-  {
     "id": "SID_こわいかこのゆめ",
     "game8_rating": "9.5",
     "game8_grade": "S"
   },
   {
-    "id": "SID_運命を変える！・承",
+    "id": "SID_ユラリユルレリ・承",
     "game8_rating": "9.5",
     "game8_grade": "S"
   },
   {
-    "id": "SID_ユラリユルレリ・承",
+    "id": "SID_運命を変える！・承",
     "game8_rating": "9.5",
     "game8_grade": "S"
   },
@@ -9421,6 +9456,16 @@
   },
   {
     "id": "SID_あまいよるのゆめ",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_運命に打ち勝つ！",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_未来を選ぶ瞳",
     "game8_rating": "9.5",
     "game8_grade": "S"
   },
@@ -9753,6 +9798,11 @@
     "id": "SID_疾風迅雷",
     "game8_rating": "9.5",
     "game8_grade": "SS"
+  },
+  {
+    "id": "SID_疾風迅雷・霞",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
   },
   {
     "id": "SID_祈り",
@@ -14195,17 +14245,27 @@
     "game8_grade": "B"
   },
   {
-    "id": "SID_攻撃守備の連携1",
-    "game8_rating": null,
-    "game8_grade": null
-  },
-  {
     "id": "SID_攻撃速さの連携4",
     "game8_rating": "9.0",
     "game8_grade": "A"
   },
   {
+    "id": "SID_攻撃守備の連携1",
+    "game8_rating": null,
+    "game8_grade": null
+  },
+  {
+    "id": "SID_攻撃速さの共感",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
     "id": "SID_攻撃守備の連携2",
+    "game8_rating": null,
+    "game8_grade": null
+  },
+  {
+    "id": "SID_速さ魔防の連携1",
     "game8_rating": null,
     "game8_grade": null
   },
@@ -14215,14 +14275,14 @@
     "game8_grade": "B"
   },
   {
-    "id": "SID_速さ魔防の連携1",
+    "id": "SID_速さ魔防の連携2",
     "game8_rating": null,
     "game8_grade": null
   },
   {
-    "id": "SID_速さ魔防の連携2",
-    "game8_rating": null,
-    "game8_grade": null
+    "id": "SID_攻撃守備の共感",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
   },
   {
     "id": "SID_速さ魔防の連携3",
@@ -18731,6 +18791,11 @@
   },
   {
     "id": "SID_追撃の鼓動・刃",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_始まりの鼓動・鎧",
     "game8_rating": "9.5",
     "game8_grade": "S"
   },
