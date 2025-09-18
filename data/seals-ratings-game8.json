@@ -404,22 +404,6 @@
     "game8_grade": "C"
   },
   {
-    "id": "SID_速さ守備の備え3",
-    "game8_grade": "B"
-  },
-  {
-    "id": "SID_攻撃守備の連携3",
-    "game8_grade": "B"
-  },
-  {
-    "id": "SID_速さ魔防の奮起3",
-    "game8_grade": "B"
-  },
-  {
-    "id": "SID_速さ守備の激突3",
-    "game8_grade": "B"
-  },
-  {
     "id": "SID_攻撃速さの干渉3",
     "game8_grade": "B"
   },
@@ -428,7 +412,27 @@
     "game8_grade": "B"
   },
   {
+    "id": "SID_速さ守備の激突3",
+    "game8_grade": "B"
+  },
+  {
     "id": "SID_守備魔防の威嚇2",
+    "game8_grade": "B"
+  },
+  {
+    "id": "SID_速さ魔防の奮起3",
+    "game8_grade": "B"
+  },
+  {
+    "id": "SID_攻撃守備の連携3",
+    "game8_grade": "B"
+  },
+  {
+    "id": "SID_攻撃速さの奮起3",
+    "game8_grade": "B"
+  },
+  {
+    "id": "SID_速さ守備の備え3",
     "game8_grade": "B"
   },
   {
@@ -436,7 +440,11 @@
     "game8_grade": "B"
   },
   {
-    "id": "SID_攻撃速さの奮起3",
+    "id": "SID_怒り3",
+    "game8_grade": "B"
+  },
+  {
+    "id": "SID_速さ守備の秘奥3",
     "game8_grade": "B"
   },
   {
@@ -1052,23 +1060,7 @@
     "game8_grade": "A"
   },
   {
-    "id": "SID_正面隊形・自己3",
-    "game8_grade": "A"
-  },
-  {
-    "id": "SID_速さ魔防の秘奥3",
-    "game8_grade": "A"
-  },
-  {
-    "id": "SID_攻撃守備の信義3",
-    "game8_grade": "A"
-  },
-  {
     "id": "SID_速さ魔防の牽制3",
-    "game8_grade": "A"
-  },
-  {
-    "id": "SID_第72迷宮の覇者3",
     "game8_grade": "A"
   },
   {
@@ -1080,23 +1072,11 @@
     "game8_grade": "A"
   },
   {
-    "id": "SID_攻撃守備の備え3",
+    "id": "SID_正面隊形・自己3",
     "game8_grade": "A"
   },
   {
-    "id": "SID_攻撃魔防の秘奥3",
-    "game8_grade": "A"
-  },
-  {
-    "id": "SID_第76迷宮の覇者3",
-    "game8_grade": "A"
-  },
-  {
-    "id": "SID_神罰の杖3",
-    "game8_grade": "A"
-  },
-  {
-    "id": "SID_速さ魔防の拍節3",
+    "id": "SID_歩行の見切り追撃3",
     "game8_grade": "A"
   },
   {
@@ -1108,7 +1088,39 @@
     "game8_grade": "A"
   },
   {
+    "id": "SID_攻撃魔防の秘奥3",
+    "game8_grade": "A"
+  },
+  {
     "id": "SID_一斉突撃3",
+    "game8_grade": "A"
+  },
+  {
+    "id": "SID_速さ魔防の拍節3",
+    "game8_grade": "A"
+  },
+  {
+    "id": "SID_神罰の杖3",
+    "game8_grade": "A"
+  },
+  {
+    "id": "SID_第76迷宮の覇者3",
+    "game8_grade": "A"
+  },
+  {
+    "id": "SID_攻撃守備の備え3",
+    "game8_grade": "A"
+  },
+  {
+    "id": "SID_第72迷宮の覇者3",
+    "game8_grade": "A"
+  },
+  {
+    "id": "SID_攻撃守備の信義3",
+    "game8_grade": "A"
+  },
+  {
+    "id": "SID_速さ魔防の秘奥3",
     "game8_grade": "A"
   },
   {

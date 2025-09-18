@@ -984,6 +984,15 @@
     ]
   },
   {
+    "name": "Entwined Ash, Att. & Rea. Heroes",
+    "unit_ids": [
+      "PID_アシュ2味方",
+      "PID_クリムゾン",
+      "PID_響心リョウマ",
+      "PID_魔器ヒノカ"
+    ]
+  },
+  {
     "name": "Familial Festivities (Focus)",
     "unit_ids": [
       "PID_春祭エスト",
@@ -1112,6 +1121,14 @@
       "PID_クロエ",
       "PID_セリーヌ",
       "PID_リュール女"
+    ]
+  },
+  {
+    "name": "Focus: Alfonse & Veronica's Battle",
+    "unit_ids": [
+      "PID_グスタフ味方",
+      "PID_総選挙アルフォンス",
+      "PID_総選挙ヴェロニカ"
     ]
   },
   {
@@ -2611,6 +2628,15 @@
       "PID_ラーラ",
       "PID_伝承ナンナ",
       "PID_魔器ラインハルト"
+    ]
+  },
+  {
+    "name": "Focus: Hall of Forms (Sep 2025)",
+    "unit_ids": [
+      "PID_ヘステ",
+      "PID_伝承セリカ",
+      "PID_双界外伝カチュア",
+      "PID_比翼ドーマ"
     ]
   },
   {
@@ -7194,6 +7220,14 @@
     ]
   },
   {
+    "name": "Focus: Weekly Revival 112",
+    "unit_ids": [
+      "PID_ジョフレ",
+      "PID_ルキノ",
+      "PID_開花エリンシア"
+    ]
+  },
+  {
     "name": "Focus: Weekly Revival 12",
     "unit_ids": [
       "PID_ドルカス",
@@ -8846,6 +8880,19 @@
     ]
   },
   {
+    "name": "Legendary & Mythic Hero Remix 1 (Sep 2025)",
+    "unit_ids": [
+      "PID_ヴェロニカ2味方",
+      "PID_伝承カムイ女",
+      "PID_伝承マークス",
+      "PID_伝承ユリア",
+      "PID_神階ガトー",
+      "PID_神階セイロス",
+      "PID_響心ブリギッド",
+      "PID_響心ヘクトル"
+    ]
+  },
+  {
     "name": "Legendary & Mythic Hero Remix 2 (Aug 2023)",
     "unit_ids": [
       "PID_フレイヤ味方",
@@ -9103,6 +9150,19 @@
       "PID_伝承ベレス",
       "PID_神階ブラミモンド",
       "PID_響心シーダ"
+    ]
+  },
+  {
+    "name": "Legendary & Mythic Hero Remix 2 (Sep 2025)",
+    "unit_ids": [
+      "PID_オッテル味方",
+      "PID_伝承ヒノカ",
+      "PID_伝承ユーリス",
+      "PID_神階アスク",
+      "PID_神階ヘイズ",
+      "PID_魔器エル",
+      "PID_魔器ヌイババ",
+      "PID_魔器レイラ"
     ]
   },
   {
@@ -10854,6 +10914,19 @@
       "PID_魔器ターナ",
       "PID_魔器ラインハルト",
       "PID_魔器闇クロム"
+    ]
+  },
+  {
+    "name": "New Heroes Return (Sep 2025)",
+    "unit_ids": [
+      "PID_スカビオサ2",
+      "PID_レギン2味方",
+      "PID_響心アイビー",
+      "PID_響心アルム",
+      "PID_響心ミカヤ",
+      "PID_魔器シアチ味方",
+      "PID_魔器マリアンヌ",
+      "PID_魔器レイラ"
     ]
   },
   {

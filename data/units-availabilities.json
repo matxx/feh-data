@@ -1727,6 +1727,35 @@
     }
   },
   {
+    "id": "PID_アシュ2味方",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {},
+    "skill_ids": [
+      "SID_不動1",
+      "SID_不動2",
+      "SID_不動3",
+      "SID_不動4",
+      "SID_壁炎",
+      "SID_幼獣の化身・歩行",
+      "SID_成獣の化身・歩行",
+      "SID_結ぶ者の角",
+      "SID_若獣の化身・歩行",
+      "SID_華炎",
+      "SID_蛍火",
+      "SID_遠反・攻守の密集",
+      "SID_遠距離反撃",
+      "SID_開神の娘"
+    ],
+    "divine_codes": {}
+  },
+  {
     "id": "PID_年明アシュ",
     "is_in": {
       "gsp": false,
@@ -16190,6 +16219,35 @@
     }
   },
   {
+    "id": "PID_ハイタカ",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": true,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {
+      "hg": 3
+    },
+    "skill_ids": [
+      "SID_伏竜",
+      "SID_守備の波・奇数1",
+      "SID_守備の波・奇数2",
+      "SID_守備の波・奇数3",
+      "SID_攻撃速さの備え1",
+      "SID_攻撃速さの備え2",
+      "SID_攻撃速さの備え3",
+      "SID_竜穿",
+      "SID_鉄の槍",
+      "SID_鋼の槍",
+      "SID_魔刃の槍",
+      "SID_魔刃の槍＋"
+    ],
+    "divine_codes": {}
+  },
+  {
     "id": "PID_忍者カザハナ",
     "is_in": {
       "gsp": false,
@@ -17775,6 +17833,39 @@
       "SID_銀の弓",
       "SID_鋼の弓",
       "SID_風神雷神弓"
+    ],
+    "divine_codes": {}
+  },
+  {
+    "id": "PID_魔器ヒノカ",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "lowest_rarity": {
+      "foc": 5
+    },
+    "skill_ids": [
+      "SID_伏竜",
+      "SID_天翔ける",
+      "SID_曲技飛行1",
+      "SID_曲技飛行2",
+      "SID_曲技飛行3",
+      "SID_竜裂",
+      "SID_蒼穹1",
+      "SID_蒼穹2",
+      "SID_蒼穹3",
+      "SID_蒼穹4",
+      "SID_鉄の槍",
+      "SID_銀の槍",
+      "SID_鋼の槍",
+      "SID_霞切り",
+      "SID_魔器・真紅薙刀",
+      "SID_鼓舞激励"
     ],
     "divine_codes": {}
   },
@@ -37123,6 +37214,40 @@
     "divine_codes": {}
   },
   {
+    "id": "PID_響心リョウマ",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "lowest_rarity": {
+      "foc": 5
+    },
+    "skill_ids": [
+      "SID_凶星",
+      "SID_攻撃速さの信念",
+      "SID_攻撃速さの信義1",
+      "SID_攻撃速さの信義2",
+      "SID_攻撃速さの信義3",
+      "SID_星影",
+      "SID_武士道と云ふは",
+      "SID_清流の一撃",
+      "SID_白夜雷神刀",
+      "SID_鉄の剣",
+      "SID_銀の剣",
+      "SID_鋼の剣",
+      "SID_陣風",
+      "SID_響・迅雷風烈・鬼没",
+      "SID_飛燕の一撃1",
+      "SID_飛燕の一撃2",
+      "SID_飛燕の一撃3"
+    ],
+    "divine_codes": {}
+  },
+  {
     "id": "PID_セーバー",
     "is_in": {
       "gsp": true,
@@ -37888,6 +38013,33 @@
         }
       ]
     }
+  },
+  {
+    "id": "PID_クリムゾン",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {},
+    "skill_ids": [
+      "SID_強化増幅の斧",
+      "SID_強化増幅の斧＋",
+      "SID_怒涛・飛竜行空1",
+      "SID_怒涛・飛竜行空2",
+      "SID_怒涛・飛竜行空3",
+      "SID_華炎",
+      "SID_蛍火",
+      "SID_速さ守備の機先1",
+      "SID_速さ守備の機先2",
+      "SID_速さ守備の機先3",
+      "SID_鉄の斧",
+      "SID_鋼の斧"
+    ],
+    "divine_codes": {}
   },
   {
     "id": "PID_スカサハ",
@@ -39619,6 +39771,33 @@
       "SID_鉄の槍",
       "SID_銀の槍",
       "SID_鋼の槍"
+    ],
+    "divine_codes": {}
+  },
+  {
+    "id": "PID_アシュラ",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {},
+    "skill_ids": [
+      "SID_不和の弓",
+      "SID_不和の弓＋",
+      "SID_氷点",
+      "SID_氷華",
+      "SID_速さの謀策1",
+      "SID_速さの謀策2",
+      "SID_速さの謀策3",
+      "SID_速さ守備の拍節1",
+      "SID_速さ守備の拍節2",
+      "SID_速さ守備の拍節3",
+      "SID_鉄の弓",
+      "SID_鋼の弓"
     ],
     "divine_codes": {}
   },

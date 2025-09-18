@@ -11597,7 +11597,7 @@
   },
   {
     "id": "SID_歩行の見切り追撃3",
-    "game8_id": null,
+    "game8_id": "550368",
     "name": "Inf. Null Follow 3",
     "group_name": "Inf. Null Follow",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/54/Inf._Null_Follow_3.png/revision/latest?cb=20220719081035",
@@ -13966,7 +13966,7 @@
   },
   {
     "id": "SID_速さ守備の秘奥3",
-    "game8_id": null,
+    "game8_id": "550365",
     "name": "Spd/Def Finish 3",
     "group_name": "Spd/Def Finish",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/06/Spd_Def_Finish_3.png/revision/latest?cb=20240917073011",
@@ -16545,7 +16545,7 @@
   },
   {
     "id": "SID_怒り3",
-    "game8_id": null,
+    "game8_id": "542944",
     "name": "Wrath 3",
     "group_name": "Wrath",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/10/Wrath_3.png/revision/latest?cb=20180810072723",

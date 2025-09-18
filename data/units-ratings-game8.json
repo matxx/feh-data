@@ -84,6 +84,13 @@
     "recommended_plus10": "Spd"
   },
   {
+    "id": "PID_双界フィル",
+    "game8_rating": "9.9",
+    "recommended_boon": null,
+    "recommended_bane": null,
+    "recommended_plus10": null
+  },
+  {
     "id": "PID_双界外伝カチュア",
     "game8_rating": "9.5",
     "recommended_boon": null,
@@ -600,6 +607,20 @@
     "recommended_boon": "Def",
     "recommended_bane": "Res",
     "recommended_plus10": "Def"
+  },
+  {
+    "id": "PID_フェリア仮面マルス",
+    "game8_rating": "9.5",
+    "recommended_boon": null,
+    "recommended_bane": null,
+    "recommended_plus10": null
+  },
+  {
+    "id": "PID_フェリアクロム",
+    "game8_rating": "9.5",
+    "recommended_boon": null,
+    "recommended_bane": null,
+    "recommended_plus10": null
   },
   {
     "id": "PID_アーダン",
@@ -1202,6 +1223,13 @@
     "recommended_boon": "Res",
     "recommended_bane": "Def",
     "recommended_plus10": "Res"
+  },
+  {
+    "id": "PID_総選挙グルヴェイグ",
+    "game8_rating": "8.5",
+    "recommended_boon": "Spd",
+    "recommended_bane": "Res",
+    "recommended_plus10": "Spd"
   },
   {
     "id": "PID_総選挙ルフレ男",
@@ -2968,6 +2996,13 @@
     "recommended_plus10": "Spd"
   },
   {
+    "id": "PID_ベウフォレス",
+    "game8_rating": "7.5",
+    "recommended_boon": "Def",
+    "recommended_bane": "Spd",
+    "recommended_plus10": "Def"
+  },
+  {
     "id": "PID_エイトリ味方",
     "game8_rating": "8.5",
     "recommended_boon": "Atk",
@@ -3948,13 +3983,6 @@
     "recommended_plus10": "Atk"
   },
   {
-    "id": "PID_総選挙グルヴェイグ",
-    "game8_rating": "8.5",
-    "recommended_boon": "Spd",
-    "recommended_bane": "Res",
-    "recommended_plus10": "Spd"
-  },
-  {
     "id": "PID_ツィリル",
     "game8_rating": "8.5",
     "recommended_boon": "Spd",
@@ -4436,6 +4464,20 @@
     "recommended_boon": "Spd",
     "recommended_bane": "Res",
     "recommended_plus10": "Spd"
+  },
+  {
+    "id": "PID_フェリアホリン",
+    "game8_rating": "8.5",
+    "recommended_boon": null,
+    "recommended_bane": null,
+    "recommended_plus10": null
+  },
+  {
+    "id": "PID_フェリアオグマ",
+    "game8_rating": "8.5",
+    "recommended_boon": null,
+    "recommended_bane": null,
+    "recommended_plus10": null
   },
   {
     "id": "PID_舞踏祭黒アクア",
@@ -7427,13 +7469,6 @@
     "recommended_plus10": "Spd"
   },
   {
-    "id": "PID_ベウフォレス",
-    "game8_rating": "7.5",
-    "recommended_boon": "Def",
-    "recommended_bane": "Spd",
-    "recommended_plus10": "Def"
-  },
-  {
     "id": "PID_ミリエル",
     "game8_rating": "7.5",
     "recommended_boon": "Spd",
@@ -8974,38 +9009,45 @@
     "recommended_plus10": "Atk"
   },
   {
-    "id": "PID_フェリア仮面マルス",
+    "id": "PID_響心リョウマ",
     "game8_rating": "9.5",
-    "recommended_boon": null,
-    "recommended_bane": null,
-    "recommended_plus10": null
+    "recommended_boon": "Spd",
+    "recommended_bane": "Res",
+    "recommended_plus10": "Spd"
   },
   {
-    "id": "PID_フェリアクロム",
+    "id": "PID_魔器ヒノカ",
+    "game8_rating": "9.0",
+    "recommended_boon": "Spd",
+    "recommended_bane": "Res",
+    "recommended_plus10": "Spd"
+  },
+  {
+    "id": "PID_クリムゾン",
+    "game8_rating": "8.5",
+    "recommended_boon": "Spd",
+    "recommended_bane": "Res",
+    "recommended_plus10": "Spd"
+  },
+  {
+    "id": "PID_アシュ2味方",
     "game8_rating": "9.5",
-    "recommended_boon": null,
-    "recommended_bane": null,
-    "recommended_plus10": null
+    "recommended_boon": "Def",
+    "recommended_bane": "Spd",
+    "recommended_plus10": "Def"
   },
   {
-    "id": "PID_フェリアホリン",
+    "id": "PID_ハイタカ",
     "game8_rating": "8.5",
-    "recommended_boon": null,
-    "recommended_bane": null,
-    "recommended_plus10": null
+    "recommended_boon": "Spd",
+    "recommended_bane": "Res",
+    "recommended_plus10": "Spd"
   },
   {
-    "id": "PID_双界フィル",
-    "game8_rating": "9.9",
-    "recommended_boon": null,
-    "recommended_bane": null,
-    "recommended_plus10": null
-  },
-  {
-    "id": "PID_フェリアオグマ",
+    "id": "PID_アシュラ",
     "game8_rating": "8.5",
-    "recommended_boon": null,
-    "recommended_bane": null,
-    "recommended_plus10": null
+    "recommended_boon": "Spd",
+    "recommended_bane": "Def",
+    "recommended_plus10": "Spd"
   }
 ]

@@ -4344,6 +4344,90 @@
     "unlock": 1
   },
   {
+    "unit_id": "PID_アシュ2味方",
+    "skill_id": "SID_成獣の化身・歩行",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_アシュ2味方",
+    "skill_id": "SID_遠反・攻守の密集",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_アシュ2味方",
+    "skill_id": "SID_遠距離反撃",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_アシュ2味方",
+    "skill_id": "SID_結ぶ者の角",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_アシュ2味方",
+    "skill_id": "SID_壁炎",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_アシュ2味方",
+    "skill_id": "SID_蛍火",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_アシュ2味方",
+    "skill_id": "SID_開神の娘",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_アシュ2味方",
+    "skill_id": "SID_華炎",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_アシュ2味方",
+    "skill_id": "SID_不動1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_アシュ2味方",
+    "skill_id": "SID_不動2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_アシュ2味方",
+    "skill_id": "SID_不動3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_アシュ2味方",
+    "skill_id": "SID_不動4",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_アシュ2味方",
+    "skill_id": "SID_幼獣の化身・歩行",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_アシュ2味方",
+    "skill_id": "SID_若獣の化身・歩行",
+    "default": 2,
+    "unlock": 2
+  },
+  {
     "unit_id": "PID_年明アシュ",
     "skill_id": "SID_成獣の化身・歩行",
     "default": 4,
@@ -39546,6 +39630,78 @@
     "unlock": 5
   },
   {
+    "unit_id": "PID_ハイタカ",
+    "skill_id": "SID_攻撃速さの備え1",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_ハイタカ",
+    "skill_id": "SID_攻撃速さの備え2",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_ハイタカ",
+    "skill_id": "SID_攻撃速さの備え3",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_ハイタカ",
+    "skill_id": "SID_竜穿",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_ハイタカ",
+    "skill_id": "SID_伏竜",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_ハイタカ",
+    "skill_id": "SID_魔刃の槍",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_ハイタカ",
+    "skill_id": "SID_魔刃の槍＋",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_ハイタカ",
+    "skill_id": "SID_鉄の槍",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_ハイタカ",
+    "skill_id": "SID_守備の波・奇数1",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_ハイタカ",
+    "skill_id": "SID_守備の波・奇数2",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_ハイタカ",
+    "skill_id": "SID_守備の波・奇数3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_ハイタカ",
+    "skill_id": "SID_鋼の槍",
+    "default": 2,
+    "unlock": 2
+  },
+  {
     "unit_id": "PID_忍者カザハナ",
     "skill_id": "SID_凶星",
     "default": 0,
@@ -43228,6 +43384,102 @@
     "skill_id": "SID_救援の行路4",
     "default": 0,
     "unlock": 5
+  },
+  {
+    "unit_id": "PID_魔器ヒノカ",
+    "skill_id": "SID_曲技飛行1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_魔器ヒノカ",
+    "skill_id": "SID_曲技飛行2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_魔器ヒノカ",
+    "skill_id": "SID_曲技飛行3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_魔器ヒノカ",
+    "skill_id": "SID_天翔ける",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_魔器ヒノカ",
+    "skill_id": "SID_魔器・真紅薙刀",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_魔器ヒノカ",
+    "skill_id": "SID_蒼穹1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_魔器ヒノカ",
+    "skill_id": "SID_蒼穹2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_魔器ヒノカ",
+    "skill_id": "SID_蒼穹3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_魔器ヒノカ",
+    "skill_id": "SID_蒼穹4",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_魔器ヒノカ",
+    "skill_id": "SID_竜裂",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_魔器ヒノカ",
+    "skill_id": "SID_伏竜",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_魔器ヒノカ",
+    "skill_id": "SID_鼓舞激励",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_魔器ヒノカ",
+    "skill_id": "SID_霞切り",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_魔器ヒノカ",
+    "skill_id": "SID_鉄の槍",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_魔器ヒノカ",
+    "skill_id": "SID_銀の槍",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_魔器ヒノカ",
+    "skill_id": "SID_鋼の槍",
+    "default": 2,
+    "unlock": 2
   },
   {
     "unit_id": "PID_ヒノカ",
@@ -88470,6 +88722,108 @@
     "unlock": 2
   },
   {
+    "unit_id": "PID_響心リョウマ",
+    "skill_id": "SID_攻撃速さの信念",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_響心リョウマ",
+    "skill_id": "SID_攻撃速さの信義1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_響心リョウマ",
+    "skill_id": "SID_攻撃速さの信義2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_響心リョウマ",
+    "skill_id": "SID_攻撃速さの信義3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_響心リョウマ",
+    "skill_id": "SID_武士道と云ふは",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_響心リョウマ",
+    "skill_id": "SID_飛燕の一撃1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_響心リョウマ",
+    "skill_id": "SID_飛燕の一撃2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_響心リョウマ",
+    "skill_id": "SID_飛燕の一撃3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_響心リョウマ",
+    "skill_id": "SID_清流の一撃",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_響心リョウマ",
+    "skill_id": "SID_凶星",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_響心リョウマ",
+    "skill_id": "SID_陣風",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_響心リョウマ",
+    "skill_id": "SID_白夜雷神刀",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_響心リョウマ",
+    "skill_id": "SID_鉄の剣",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_響心リョウマ",
+    "skill_id": "SID_星影",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_響心リョウマ",
+    "skill_id": "SID_銀の剣",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_響心リョウマ",
+    "skill_id": "SID_鋼の剣",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_響心リョウマ",
+    "skill_id": "SID_響・迅雷風烈・鬼没",
+    "default": 0,
+    "unlock": 5
+  },
+  {
     "unit_id": "PID_セーバー",
     "skill_id": "SID_聖盾",
     "default": 0,
@@ -90230,6 +90584,78 @@
   {
     "unit_id": "PID_花嫁サイリ",
     "skill_id": "SID_鋼の槍",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_クリムゾン",
+    "skill_id": "SID_強化増幅の斧",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_クリムゾン",
+    "skill_id": "SID_強化増幅の斧＋",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_クリムゾン",
+    "skill_id": "SID_怒涛・飛竜行空1",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_クリムゾン",
+    "skill_id": "SID_怒涛・飛竜行空2",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_クリムゾン",
+    "skill_id": "SID_怒涛・飛竜行空3",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_クリムゾン",
+    "skill_id": "SID_蛍火",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_クリムゾン",
+    "skill_id": "SID_華炎",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_クリムゾン",
+    "skill_id": "SID_鉄の斧",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_クリムゾン",
+    "skill_id": "SID_速さ守備の機先1",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_クリムゾン",
+    "skill_id": "SID_速さ守備の機先2",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_クリムゾン",
+    "skill_id": "SID_速さ守備の機先3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_クリムゾン",
+    "skill_id": "SID_鋼の斧",
     "default": 2,
     "unlock": 2
   },
@@ -94138,6 +94564,78 @@
     "skill_id": "SID_入れ替え",
     "default": 4,
     "unlock": 3
+  },
+  {
+    "unit_id": "PID_アシュラ",
+    "skill_id": "SID_氷点",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_アシュラ",
+    "skill_id": "SID_不和の弓",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_アシュラ",
+    "skill_id": "SID_不和の弓＋",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_アシュラ",
+    "skill_id": "SID_氷華",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_アシュラ",
+    "skill_id": "SID_鉄の弓",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_アシュラ",
+    "skill_id": "SID_速さの謀策1",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_アシュラ",
+    "skill_id": "SID_速さの謀策2",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_アシュラ",
+    "skill_id": "SID_速さの謀策3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_アシュラ",
+    "skill_id": "SID_速さ守備の拍節1",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_アシュラ",
+    "skill_id": "SID_速さ守備の拍節2",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_アシュラ",
+    "skill_id": "SID_速さ守備の拍節3",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_アシュラ",
+    "skill_id": "SID_鋼の弓",
+    "default": 2,
+    "unlock": 2
   },
   {
     "unit_id": "PID_ジークベルト",

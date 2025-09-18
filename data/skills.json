@@ -2504,6 +2504,9 @@
     "addition_date": "2018-06-08",
     "release_date": "2018-06-08",
     "version": "2.6",
+    "upgrade_ids": [
+      "SID_天翔ける"
+    ],
     "downgrade_ids": [
       "SID_曲技飛行2"
     ]
@@ -2818,6 +2821,36 @@
     "version": "8.9",
     "downgrade_ids": [
       "SID_先導の伝令・天3"
+    ]
+  },
+  {
+    "id": "SID_天翔ける",
+    "name": "Air Superiority",
+    "group_name": "Air Superiority",
+    "category": "passiveb",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/ab/Air_Superiority.png/revision/latest?cb=20250916070333",
+    "is_prf": false,
+    "sp": 300,
+    "tier": 4,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Flying"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "All Melee"
+        ]
+      }
+    },
+    "addition_date": "2025-09-16",
+    "release_date": "2025-09-16",
+    "version": "9.9",
+    "downgrade_ids": [
+      "SID_編隊飛行3",
+      "SID_曲技飛行3"
     ]
   },
   {
@@ -4728,6 +4761,33 @@
     ]
   },
   {
+    "id": "SID_魔器・真紅薙刀",
+    "game8_id": "551226",
+    "name": "Arcane Crimson",
+    "group_name": "Arcane Crimson",
+    "category": "weapon",
+    "weapon_type": "Blue Lance",
+    "is_prf": false,
+    "sp": 300,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Blue Lance"
+        ]
+      }
+    },
+    "addition_date": "2025-09-16",
+    "release_date": "2025-09-16",
+    "version": "9.9",
+    "downgrade_ids": [
+      "SID_銀の槍"
+    ]
+  },
+  {
     "id": "SID_魔器・優しさの影弓",
     "game8_id": "418356",
     "name": "Arcane Darkbow",
@@ -5416,6 +5476,7 @@
   },
   {
     "id": "SID_角逐",
+    "game8_id": "543986",
     "name": "Archrival",
     "group_name": "Archrival",
     "category": "special",
@@ -25178,6 +25239,29 @@
     ]
   },
   {
+    "id": "SID_武士道と云ふは",
+    "game8_id": "551234",
+    "name": "Bushido Tenet",
+    "group_name": "Bushido Tenet",
+    "category": "passiveb",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/50/Bushido_Tenet.png/revision/latest?cb=20250916070322",
+    "is_prf": true,
+    "sp": 300,
+    "tier": 1,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "none": true
+      }
+    },
+    "addition_date": "2025-09-16",
+    "release_date": "2025-09-16",
+    "version": "9.9"
+  },
+  {
     "id": "SID_ビューレイスト",
     "game8_id": "265500",
     "name": "Býleistr",
@@ -29441,6 +29525,7 @@
   },
   {
     "id": "SID_仮面の将の剣",
+    "game8_id": "550066",
     "name": "Clouded Blade",
     "group_name": "Clouded Blade",
     "category": "weapon",
@@ -29466,6 +29551,7 @@
   {
     "id": "SID_仮面の将の剣_一",
     "base_id": "SID_仮面の将の剣",
+    "game8_id": "550066",
     "name": "Clouded Blade",
     "group_name": "Clouded Blade",
     "category": "weapon",
@@ -33414,7 +33500,8 @@
     "release_date": "2017-02-02",
     "version": "1.0",
     "upgrade_ids": [
-      "SID_飛燕の一撃4"
+      "SID_飛燕の一撃4",
+      "SID_清流の一撃"
     ],
     "downgrade_ids": [
       "SID_飛燕の一撃2"
@@ -38641,6 +38728,71 @@
     ]
   },
   {
+    "id": "SID_不和の弓",
+    "game8_id": "551223",
+    "name": "Discord Bow",
+    "group_name": "Discord Bow",
+    "category": "weapon",
+    "weapon_type": "All Bow",
+    "is_prf": false,
+    "sp": 200,
+    "tier": 3,
+    "cd": 0,
+    "eff": [
+      "flying"
+    ],
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "All Bow"
+        ]
+      }
+    },
+    "addition_date": "2025-09-16",
+    "release_date": "2025-09-16",
+    "version": "9.9",
+    "upgrade_ids": [
+      "SID_不和の弓＋"
+    ],
+    "downgrade_ids": [
+      "SID_鋼の弓"
+    ]
+  },
+  {
+    "id": "SID_不和の弓＋",
+    "game8_id": "551224",
+    "name": "Discord Bow+",
+    "group_name": "Discord Bow+",
+    "category": "weapon",
+    "weapon_type": "All Bow",
+    "is_prf": false,
+    "sp": 300,
+    "tier": 4,
+    "cd": 0,
+    "eff": [
+      "flying"
+    ],
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "All Bow"
+        ]
+      }
+    },
+    "addition_date": "2025-09-16",
+    "release_date": "2025-09-16",
+    "version": "9.9",
+    "downgrade_ids": [
+      "SID_不和の弓"
+    ]
+  },
+  {
     "id": "SID_謎の闘技者の槍",
     "game8_id": "549079",
     "name": "Disguise Lance",
@@ -40229,6 +40381,65 @@
     "addition_date": "2018-08-21",
     "release_date": "2018-08-21",
     "version": "2.8"
+  },
+  {
+    "id": "SID_強化増幅の斧",
+    "game8_id": "551227",
+    "name": "Doubler Axe",
+    "group_name": "Doubler Axe",
+    "category": "weapon",
+    "weapon_type": "Green Axe",
+    "is_prf": false,
+    "sp": 200,
+    "tier": 3,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Green Axe"
+        ]
+      }
+    },
+    "addition_date": "2025-09-16",
+    "release_date": "2025-09-16",
+    "version": "9.9",
+    "upgrade_ids": [
+      "SID_強化増幅の斧＋"
+    ],
+    "downgrade_ids": [
+      "SID_鋼の斧"
+    ]
+  },
+  {
+    "id": "SID_強化増幅の斧＋",
+    "game8_id": "551228",
+    "name": "Doubler Axe+",
+    "group_name": "Doubler Axe+",
+    "category": "weapon",
+    "weapon_type": "Green Axe",
+    "is_prf": false,
+    "sp": 300,
+    "tier": 4,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Green Axe"
+        ]
+      }
+    },
+    "addition_date": "2025-09-16",
+    "release_date": "2025-09-16",
+    "version": "9.9",
+    "downgrade_ids": [
+      "SID_強化増幅の斧"
+    ]
   },
   {
     "id": "SID_強化増幅の弓",
@@ -42500,6 +42711,38 @@
     ]
   },
   {
+    "id": "SID_清流の一撃",
+    "name": "Duelist's Blow",
+    "group_name": "Duelist's Blow",
+    "category": "passivea",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/0c/Duelists_Blow.png/revision/latest?cb=20250916070313",
+    "is_prf": false,
+    "sp": 300,
+    "tier": 4,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Infantry"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "All Melee",
+          "All Breath",
+          "All Beast"
+        ]
+      }
+    },
+    "addition_date": "2025-09-16",
+    "release_date": "2025-09-16",
+    "version": "9.9",
+    "downgrade_ids": [
+      "SID_飛燕の一撃3",
+      "SID_明鏡の一撃3"
+    ]
+  },
+  {
     "id": "SID_強化無効・近距離1",
     "game8_id": "266409",
     "name": "Dull Close 1",
@@ -44446,6 +44689,7 @@
   },
   {
     "id": "SID_閉界・承",
+    "game8_id": "549766",
     "name": "Enclosure II",
     "group_name": "Enclosure II",
     "category": "special",
@@ -44469,6 +44713,29 @@
     "downgrade_ids": [
       "SID_閉界"
     ]
+  },
+  {
+    "id": "SID_鼓舞激励",
+    "game8_id": "551232",
+    "name": "Encouragement",
+    "group_name": "Encouragement",
+    "category": "passivec",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/36/Encouragement.png/revision/latest?cb=20250916070344",
+    "is_prf": true,
+    "sp": 300,
+    "tier": 1,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "none": true
+      }
+    },
+    "addition_date": "2025-09-16",
+    "release_date": "2025-09-16",
+    "version": "9.9"
   },
   {
     "id": "SID_迅雷風烈・無極",
@@ -44531,6 +44798,35 @@
     "version": "8.11",
     "downgrade_ids": [
       "SID_成獣の化身・重装"
+    ]
+  },
+  {
+    "id": "SID_結ぶ者の角",
+    "game8_id": "551229",
+    "name": "Entwining Horn",
+    "group_name": "Entwining Horn",
+    "category": "weapon",
+    "weapon_type": "All Beast",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Infantry"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "All Beast"
+        ]
+      }
+    },
+    "addition_date": "2025-09-04",
+    "release_date": "2025-09-16",
+    "version": "9.9",
+    "downgrade_ids": [
+      "SID_成獣の化身・歩行"
     ]
   },
   {
@@ -49535,6 +49831,32 @@
     }
   },
   {
+    "id": "SID_壁炎",
+    "name": "Flame Wall",
+    "group_name": "Flame Wall",
+    "category": "special",
+    "is_prf": false,
+    "sp": 500,
+    "tier": 3,
+    "cd": 4,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_not_use": [
+          "Colorless Staff"
+        ]
+      }
+    },
+    "addition_date": "2025-09-04",
+    "release_date": "2025-09-16",
+    "version": "9.9",
+    "downgrade_ids": [
+      "SID_華炎"
+    ]
+  },
+  {
     "id": "SID_炎と氷の王女の輝弓",
     "game8_id": "395448",
     "name": "Flamefrost Bow",
@@ -50285,6 +50607,9 @@
     "addition_date": "2017-09-15",
     "release_date": "2017-09-15",
     "version": "1.7",
+    "upgrade_ids": [
+      "SID_天翔ける"
+    ],
     "downgrade_ids": [
       "SID_編隊飛行2"
     ]
@@ -62238,6 +62563,29 @@
     ]
   },
   {
+    "id": "SID_開神の娘",
+    "game8_id": "551231",
+    "name": "Heir of Openness",
+    "group_name": "Heir of Openness",
+    "category": "passivec",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/06/Heir_of_Openness.png/revision/latest?cb=20250916070354",
+    "is_prf": true,
+    "sp": 300,
+    "tier": 1,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "none": true
+      }
+    },
+    "addition_date": "2025-09-04",
+    "release_date": "2025-09-16",
+    "version": "9.9"
+  },
+  {
     "id": "SID_光をつぐもの",
     "game8_id": "385552",
     "name": "Heir to Light",
@@ -62800,6 +63148,65 @@
         ]
       }
     }
+  },
+  {
+    "id": "SID_魔刃の槍",
+    "game8_id": "551393",
+    "name": "Hexblade Lance",
+    "group_name": "Hexblade Lance",
+    "category": "weapon",
+    "weapon_type": "Blue Lance",
+    "is_prf": false,
+    "sp": 200,
+    "tier": 3,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Blue Lance"
+        ]
+      }
+    },
+    "addition_date": "2025-09-16",
+    "release_date": "2025-09-17",
+    "version": "9.9",
+    "upgrade_ids": [
+      "SID_魔刃の槍＋"
+    ],
+    "downgrade_ids": [
+      "SID_鋼の槍"
+    ]
+  },
+  {
+    "id": "SID_魔刃の槍＋",
+    "game8_id": "551394",
+    "name": "Hexblade Lance+",
+    "group_name": "Hexblade Lance+",
+    "category": "weapon",
+    "weapon_type": "Blue Lance",
+    "is_prf": false,
+    "sp": 300,
+    "tier": 4,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Blue Lance"
+        ]
+      }
+    },
+    "addition_date": "2025-09-16",
+    "release_date": "2025-09-17",
+    "version": "9.9",
+    "downgrade_ids": [
+      "SID_魔刃の槍"
+    ]
   },
   {
     "id": "SID_魔刃の剣",
@@ -64399,6 +64806,33 @@
     "version": "7.4",
     "downgrade_ids": [
       "SID_成獣の化身・騎馬"
+    ]
+  },
+  {
+    "id": "SID_白夜雷神刀",
+    "game8_id": "551225",
+    "name": "Hoshido Raijinto",
+    "group_name": "Hoshido Raijinto",
+    "category": "weapon",
+    "weapon_type": "Red Sword",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Red Sword"
+        ]
+      }
+    },
+    "addition_date": "2025-09-16",
+    "release_date": "2025-09-16",
+    "version": "9.9",
+    "downgrade_ids": [
+      "SID_銀の剣"
     ]
   },
   {
@@ -66170,6 +66604,7 @@
     "version": "1.0",
     "upgrade_ids": [
       "SID_竜炎",
+      "SID_壁炎",
       "SID_肉体の咆哮",
       "SID_砂陣",
       "SID_連魔弾",
@@ -82954,6 +83389,7 @@
   },
   {
     "id": "SID_みんなが繋がる・神",
+    "game8_id": "549767",
     "name": "Opened Domain+",
     "group_name": "Opened Domain",
     "category": "passivec",
@@ -102723,6 +103159,7 @@
       "SID_八神アーリアル",
       "SID_可憐に色づく飾り卵",
       "SID_慈愛の王女の魔力",
+      "SID_天上グングニル",
       "SID_異邦ヴラスキャルヴ",
       "SID_白夜の王子の菓子箱",
       "SID_春に揺蕩う白夢の卵",
@@ -103974,6 +104411,7 @@
     "version": "1.0",
     "upgrade_ids": [
       "SID_裏の五連闘の宝槍",
+      "SID_魔器・真紅薙刀",
       "SID_魔器・魔槍ルーン",
       "SID_魔器・鍛錬の花槍",
       "SID_アラドヴァル",
@@ -104238,6 +104676,7 @@
       "SID_氷神刀",
       "SID_師の聖夜の剣",
       "SID_聖日ティルフィング",
+      "SID_白夜雷神刀",
       "SID_氷海の剣",
       "SID_イリアの吹雪の剣",
       "SID_レディソード",
@@ -115699,6 +116138,7 @@
       "SID_ニンジンの斧",
       "SID_デッキブラシ",
       "SID_守備逆用の斧",
+      "SID_強化増幅の斧",
       "SID_深緑の斧",
       "SID_祝祭の斧",
       "SID_ヤシの葉",
@@ -115795,6 +116235,7 @@
       "SID_キューピッドの矢",
       "SID_守備逆用の弓",
       "SID_コウモリの弓",
+      "SID_不和の弓",
       "SID_強化増幅の弓",
       "SID_弦楽器の弓",
       "SID_火薙ぎの弓",
@@ -115965,6 +116406,7 @@
       "SID_黒兎の槍",
       "SID_倭鉾",
       "SID_貫きの槍",
+      "SID_魔刃の槍",
       "SID_瞬撃の槍",
       "SID_のれん",
       "SID_ジャハナの槍",
@@ -121219,6 +121661,7 @@
       "SID_八神アーリアル",
       "SID_可憐に色づく飾り卵",
       "SID_慈愛の王女の魔力",
+      "SID_天上グングニル",
       "SID_異邦ヴラスキャルヴ",
       "SID_オーラ外伝",
       "SID_白夜の王子の菓子箱",
@@ -124493,6 +124936,36 @@
     "downgrade_ids": [
       "SID_銀の弓"
     ]
+  },
+  {
+    "id": "SID_響・迅雷風烈・鬼没",
+    "game8_id": "551236",
+    "name": "Tumultuous Echo",
+    "group_name": "Tumultuous Echo",
+    "category": "passivex",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/2/2f/Tumultuous_Echo.png/revision/latest?cb=20250916070405",
+    "is_prf": false,
+    "sp": 0,
+    "tier": 1,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Infantry",
+          "Flying"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "All Melee",
+          "All Breath",
+          "All Beast"
+        ]
+      }
+    },
+    "addition_date": "2025-09-16",
+    "release_date": "2025-09-16",
+    "version": "9.9"
   },
   {
     "id": "SID_仕方がない子ね",
@@ -127912,6 +128385,9 @@
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
     "version": "1.0",
+    "upgrade_ids": [
+      "SID_清流の一撃"
+    ],
     "downgrade_ids": [
       "SID_明鏡の一撃2"
     ]
