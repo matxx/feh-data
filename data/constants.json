@@ -2,7 +2,7 @@
   "skills_max_tier": 4,
   "skills_max_sp": 500,
   "skills_max_cd": 5,
-  "units_count": 1293,
+  "units_count": 1295,
   "units_max_hp": 60,
   "units_max_hp_ids": [
     "PID_アーダン"
@@ -18,6 +18,8 @@
   "units_max_spd_ids": [
     "PID_フェリア仮面マルス",
     "PID_双界フィル",
+    "PID_獣人リン",
+    "PID_紋章カムイ女",
     "PID_総選挙シャロン"
   ],
   "units_max_def": 50,
@@ -29,10 +31,8 @@
   "units_max_res_ids": [
     "PID_比翼レア"
   ],
-  "units_max_bst": 212,
+  "units_max_bst": 213,
   "units_max_bst_ids": [
-    "PID_ハロンン",
-    "PID_比翼カムイ男",
-    "PID_総選挙エイクス"
+    "PID_紋章カムイ女"
   ]
 }

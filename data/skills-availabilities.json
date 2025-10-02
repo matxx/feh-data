@@ -1060,6 +1060,7 @@
     "id": "SID_兜の護り手・遠間1",
     "fodder_ids": [
       "PID_比翼ベレト",
+      "PID_紋章カムイ女",
       "PID_開花フィヨルム味方",
       "PID_愛の祭ヘンリエッテ",
       "PID_双界ナギ",
@@ -1079,17 +1080,19 @@
       "hg": false,
       "dc": true,
       "ldc": false,
-      "foc": false
+      "foc": true
     },
     "flrwo": {
       "gsp": 4.5,
       "ssp": 4.5,
-      "dc": 5
+      "dc": 5,
+      "foc": 5
     },
     "flrfi": {
       "gsp": 3,
       "ssp": 1,
-      "dc": 3
+      "dc": 3,
+      "foc": 2
     },
     "divine_codes": {
       "normal": [
@@ -1110,6 +1113,7 @@
     "id": "SID_兜の護り手・遠間2",
     "fodder_ids": [
       "PID_比翼ベレト",
+      "PID_紋章カムイ女",
       "PID_開花フィヨルム味方",
       "PID_愛の祭ヘンリエッテ",
       "PID_双界ナギ",
@@ -1129,17 +1133,19 @@
       "hg": false,
       "dc": true,
       "ldc": false,
-      "foc": false
+      "foc": true
     },
     "flrwo": {
       "gsp": 4.5,
       "ssp": 4.5,
-      "dc": 5
+      "dc": 5,
+      "foc": 5
     },
     "flrfi": {
       "gsp": 4,
       "ssp": 2,
-      "dc": 4
+      "dc": 4,
+      "foc": 3
     },
     "divine_codes": {
       "normal": [
@@ -1160,6 +1166,7 @@
     "id": "SID_兜の護り手・遠間3",
     "fodder_ids": [
       "PID_比翼ベレト",
+      "PID_紋章カムイ女",
       "PID_開花フィヨルム味方",
       "PID_愛の祭ヘンリエッテ",
       "PID_双界ナギ",
@@ -1179,17 +1186,19 @@
       "hg": false,
       "dc": true,
       "ldc": false,
-      "foc": false
+      "foc": true
     },
     "flrwo": {
       "gsp": 4.5,
       "ssp": 4.5,
-      "dc": 5
+      "dc": 5,
+      "foc": 5
     },
     "flrfi": {
       "gsp": 5,
       "ssp": 4,
-      "dc": 5
+      "dc": 5,
+      "foc": 4
     },
     "divine_codes": {
       "normal": [
@@ -2874,6 +2883,7 @@
       "PID_ハロレテ",
       "PID_レテ",
       "PID_年明レテ",
+      "PID_獣人リン",
       "PID_年明リィレ",
       "PID_水着ネルトゥス",
       "PID_ネルトゥス味方",
@@ -10169,6 +10179,7 @@
       "PID_伝承リーフ",
       "PID_リン",
       "PID_紋章リン",
+      "PID_獣人リン",
       "PID_開花マリータ",
       "PID_ネルトゥス味方",
       "PID_ベルベット",
@@ -29219,6 +29230,7 @@
       "PID_エルム味方",
       "PID_エンブラ味方",
       "PID_年明フレスベルグ",
+      "PID_獣人リン",
       "PID_ラタトスク"
     ],
     "fodder": {
@@ -29264,6 +29276,7 @@
       "PID_エルム味方",
       "PID_エンブラ味方",
       "PID_年明フレスベルグ",
+      "PID_獣人リン",
       "PID_ラタトスク"
     ],
     "fodder": {
@@ -29309,6 +29322,7 @@
       "PID_エルム味方",
       "PID_エンブラ味方",
       "PID_年明フレスベルグ",
+      "PID_獣人リン",
       "PID_ラタトスク"
     ],
     "fodder": {
@@ -30682,7 +30696,8 @@
     "id": "SID_獣影・敏捷",
     "fodder_ids": [
       "PID_春祭アイト",
-      "PID_エルム味方"
+      "PID_エルム味方",
+      "PID_獣人リン"
     ],
     "fodder": {
       "g4": 4,
@@ -41612,6 +41627,7 @@
       "PID_年明エルム",
       "PID_エルム味方",
       "PID_比翼カゲロウ",
+      "PID_獣人リン",
       "PID_双界リシテア",
       "PID_比翼エポニーヌ",
       "PID_伝承マークス"
@@ -41660,6 +41676,7 @@
       "PID_年明エルム",
       "PID_エルム味方",
       "PID_比翼カゲロウ",
+      "PID_獣人リン",
       "PID_双界リシテア",
       "PID_比翼エポニーヌ",
       "PID_伝承マークス"
@@ -41708,6 +41725,7 @@
       "PID_年明エルム",
       "PID_エルム味方",
       "PID_比翼カゲロウ",
+      "PID_獣人リン",
       "PID_双界リシテア",
       "PID_比翼エポニーヌ",
       "PID_伝承マークス"
@@ -51931,6 +51949,35 @@
     },
     "flrwo": {},
     "flrfi": {},
+    "divine_codes": {}
+  },
+  {
+    "id": "SID_暗獣・不屈",
+    "fodder_ids": [
+      "PID_獣人リン"
+    ],
+    "fodder": {
+      "g4": 4,
+      "hg": 4,
+      "dc": 4,
+      "sh4": 4,
+      "gsr": 4,
+      "shsr": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "flrwo": {
+      "foc": 5
+    },
+    "flrfi": {
+      "foc": 5
+    },
     "divine_codes": {}
   },
   {
@@ -65271,6 +65318,7 @@
       "PID_夢カムイ男",
       "PID_カムイ男",
       "PID_水着カムイ女",
+      "PID_紋章カムイ女",
       "PID_ハロカムイ女",
       "PID_暴走カムイ女",
       "PID_比翼カムイ男",
@@ -65532,6 +65580,7 @@
       "PID_カムイ男",
       "PID_カムイ女",
       "PID_水着カムイ女",
+      "PID_紋章カムイ女",
       "PID_ハロカムイ女",
       "PID_暴走カムイ女",
       "PID_比翼カムイ男",
@@ -110987,6 +111036,7 @@
       "PID_ホリン",
       "PID_愛の祭コンラート",
       "PID_カムイ男",
+      "PID_紋章カムイ女",
       "PID_風部族ダグ",
       "PID_ダグ2味方",
       "PID_ディアマンド",
@@ -128989,6 +129039,7 @@
       "PID_リュート",
       "PID_リン",
       "PID_紋章リン",
+      "PID_獣人リン",
       "PID_お茶会リシテア",
       "PID_魔器マチュア",
       "PID_ジャハナマリス",
@@ -129608,7 +129659,8 @@
       "PID_春祭アイト",
       "PID_エルム味方",
       "PID_フレスベルグ味方",
-      "PID_年明フレスベルグ"
+      "PID_年明フレスベルグ",
+      "PID_獣人リン"
     ],
     "fodder": {
       "g4": 1,
@@ -134993,6 +135045,122 @@
     },
     "flrwo": {},
     "flrfi": {},
+    "divine_codes": {}
+  },
+  {
+    "id": "SID_防陣1",
+    "fodder_ids": [
+      "PID_紋章カムイ女"
+    ],
+    "fodder": {
+      "g4": 1,
+      "hg": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 1,
+      "shsr": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "flrwo": {
+      "foc": 5
+    },
+    "flrfi": {
+      "foc": 2
+    },
+    "divine_codes": {}
+  },
+  {
+    "id": "SID_防陣2",
+    "fodder_ids": [
+      "PID_紋章カムイ女"
+    ],
+    "fodder": {
+      "g4": 2,
+      "hg": 2,
+      "dc": 2,
+      "sh4": 2,
+      "gsr": 2,
+      "shsr": 2
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "flrwo": {
+      "foc": 5
+    },
+    "flrfi": {
+      "foc": 3
+    },
+    "divine_codes": {}
+  },
+  {
+    "id": "SID_防陣3",
+    "fodder_ids": [
+      "PID_紋章カムイ女"
+    ],
+    "fodder": {
+      "g4": 3,
+      "hg": 3,
+      "dc": 3,
+      "sh4": 3,
+      "gsr": 3,
+      "shsr": 3
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "flrwo": {
+      "foc": 5
+    },
+    "flrfi": {
+      "foc": 4
+    },
+    "divine_codes": {}
+  },
+  {
+    "id": "SID_防陣4",
+    "fodder_ids": [
+      "PID_紋章カムイ女"
+    ],
+    "fodder": {
+      "g4": 4,
+      "hg": 4,
+      "dc": 4,
+      "sh4": 4,
+      "gsr": 4,
+      "shsr": 4
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "flrwo": {
+      "foc": 5
+    },
+    "flrfi": {
+      "foc": 5
+    },
     "divine_codes": {}
   },
   {
@@ -148538,6 +148706,35 @@
     }
   },
   {
+    "id": "SID_暴虐への怒り",
+    "fodder_ids": [
+      "PID_獣人リン"
+    ],
+    "fodder": {
+      "g4": 1,
+      "hg": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 1,
+      "shsr": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "flrwo": {
+      "foc": 5
+    },
+    "flrfi": {
+      "foc": 5
+    },
+    "divine_codes": {}
+  },
+  {
     "id": "SID_悠遠のブレス",
     "fodder_ids": [
       "PID_総選挙覚醒チキ"
@@ -156585,6 +156782,35 @@
     },
     "flrfi": {
       "gsp": 5
+    },
+    "divine_codes": {}
+  },
+  {
+    "id": "SID_衣の護り手・魔・茨",
+    "fodder_ids": [
+      "PID_紋章カムイ女"
+    ],
+    "fodder": {
+      "g4": 4,
+      "hg": 4,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 1,
+      "shsr": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "flrwo": {
+      "foc": 5
+    },
+    "flrfi": {
+      "foc": 5
     },
     "divine_codes": {}
   },
@@ -166356,6 +166582,7 @@
       "PID_魔器闇クロム",
       "PID_クロム2",
       "PID_カムイ男",
+      "PID_紋章カムイ女",
       "PID_風部族ダグ",
       "PID_ダグ2味方",
       "PID_ディアマンド",
@@ -187821,6 +188048,7 @@
       "PID_ホリン",
       "PID_愛の祭コンラート",
       "PID_カムイ男",
+      "PID_紋章カムイ女",
       "PID_風部族ダグ",
       "PID_ダグ2味方",
       "PID_ディアマンド",
@@ -193467,6 +193695,35 @@
     },
     "flrfi": {
       "hg": 5
+    },
+    "divine_codes": {}
+  },
+  {
+    "id": "SID_未来を選びし者の剣",
+    "fodder_ids": [
+      "PID_紋章カムイ女"
+    ],
+    "fodder": {
+      "g4": 1,
+      "hg": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 1,
+      "shsr": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "flrwo": {
+      "foc": 5
+    },
+    "flrfi": {
+      "foc": 5
     },
     "divine_codes": {}
   },
@@ -200420,6 +200677,64 @@
     },
     "flrfi": {
       "hg": 5
+    },
+    "divine_codes": {}
+  },
+  {
+    "id": "SID_火風水の命脈",
+    "fodder_ids": [
+      "PID_紋章カムイ女"
+    ],
+    "fodder": {
+      "g4": 1,
+      "hg": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 1,
+      "shsr": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "flrwo": {
+      "foc": 5
+    },
+    "flrfi": {
+      "foc": 5
+    },
+    "divine_codes": {}
+  },
+  {
+    "id": "SID_竜穿砲",
+    "fodder_ids": [
+      "PID_紋章カムイ女"
+    ],
+    "fodder": {
+      "g4": 1,
+      "hg": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 1,
+      "shsr": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "flrwo": {
+      "foc": 5
+    },
+    "flrfi": {
+      "foc": 5
     },
     "divine_codes": {}
   },
@@ -207779,6 +208094,7 @@
       "PID_ハロレテ",
       "PID_レテ",
       "PID_年明レテ",
+      "PID_獣人リン",
       "PID_年明リィレ",
       "PID_水着ネルトゥス",
       "PID_ネルトゥス味方",
@@ -209240,6 +209556,7 @@
       "PID_響心アクア",
       "PID_花嫁シャーロッテ",
       "PID_ホリン",
+      "PID_紋章カムイ女",
       "PID_春祭フラン",
       "PID_グレイ",
       "PID_ジェルド",
@@ -209293,6 +209610,7 @@
       "PID_響心アクア",
       "PID_花嫁シャーロッテ",
       "PID_ホリン",
+      "PID_紋章カムイ女",
       "PID_春祭フラン",
       "PID_グレイ",
       "PID_ジェルド",
@@ -209346,6 +209664,7 @@
       "PID_響心アクア",
       "PID_花嫁シャーロッテ",
       "PID_ホリン",
+      "PID_紋章カムイ女",
       "PID_春祭フラン",
       "PID_グレイ",
       "PID_ジェルド",
@@ -209763,6 +210082,35 @@
     },
     "flrwo": {},
     "flrfi": {},
+    "divine_codes": {}
+  },
+  {
+    "id": "SID_光と闇の疾風",
+    "fodder_ids": [
+      "PID_獣人リン"
+    ],
+    "fodder": {
+      "g4": 4,
+      "hg": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 1,
+      "shsr": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "flrwo": {
+      "foc": 5
+    },
+    "flrfi": {
+      "foc": 5
+    },
     "divine_codes": {}
   },
   {
@@ -212752,6 +213100,7 @@
       "PID_ハロレテ",
       "PID_レテ",
       "PID_年明レテ",
+      "PID_獣人リン",
       "PID_年明リィレ",
       "PID_水着ネルトゥス",
       "PID_ネルトゥス味方",

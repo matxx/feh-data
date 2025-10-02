@@ -826,7 +826,8 @@
     "release_date": "2021-02-05",
     "version": "5.2",
     "upgrade_ids": [
-      "SID_兜の護り手・遠・双"
+      "SID_兜の護り手・遠・双",
+      "SID_衣の護り手・魔・茨"
     ],
     "downgrade_ids": [
       "SID_兜の護り手・遠間2"
@@ -1085,7 +1086,8 @@
     "version": "5.10",
     "upgrade_ids": [
       "SID_兜の護り手・近・茨",
-      "SID_兜の護り手・近・双"
+      "SID_兜の護り手・近・双",
+      "SID_衣の護り手・魔・茨"
     ],
     "downgrade_ids": [
       "SID_兜の護り手・近間2"
@@ -2208,6 +2210,7 @@
       "SID_賀正の妹猫の爪牙",
       "SID_タグエルの爪牙",
       "SID_賀正の子兎の爪牙",
+      "SID_光と闇の疾風",
       "SID_世界樹の栗鼠の尻尾"
     ],
     "downgrade_ids": [
@@ -2825,6 +2828,7 @@
   },
   {
     "id": "SID_天翔ける",
+    "game8_id": "551233",
     "name": "Air Superiority",
     "group_name": "Air Superiority",
     "category": "passiveb",
@@ -25802,6 +25806,7 @@
     "release_date": "2021-12-16",
     "version": "6.0",
     "upgrade_ids": [
+      "SID_暗獣・不屈",
       "SID_暗獣・初撃の鼓動"
     ],
     "downgrade_ids": [
@@ -32833,6 +32838,34 @@
         ]
       }
     }
+  },
+  {
+    "id": "SID_暗獣・不屈",
+    "game8_id": "554526",
+    "name": "Dark Beast Force",
+    "group_name": "Dark Beast Force",
+    "category": "passivec",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/57/Dark_Beast_Force.png/revision/latest?cb=20250930062625",
+    "is_prf": false,
+    "sp": 300,
+    "tier": 4,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "All Beast"
+        ]
+      }
+    },
+    "addition_date": "2025-09-30",
+    "release_date": "2025-09-30",
+    "version": "9.9",
+    "downgrade_ids": [
+      "SID_無への暗闘3"
+    ]
   },
   {
     "id": "SID_闇のブレス",
@@ -41051,7 +41084,8 @@
       "SID_真竜穿射",
       "SID_竜穿射",
       "SID_猛獣",
-      "SID_反竜穿"
+      "SID_反竜穿",
+      "SID_竜穿砲"
     ],
     "downgrade_ids": [
       "SID_伏竜"
@@ -42712,6 +42746,7 @@
   },
   {
     "id": "SID_清流の一撃",
+    "game8_id": "551235",
     "name": "Duelist's Blow",
     "group_name": "Duelist's Blow",
     "category": "passivea",
@@ -48730,7 +48765,8 @@
     "upgrade_ids": [
       "SID_生命の業火大地3",
       "SID_生命の業火静水3",
-      "SID_生命の業火疾風3"
+      "SID_生命の業火疾風3",
+      "SID_火風水の命脈"
     ],
     "downgrade_ids": [
       "SID_生命の業火2"
@@ -49832,6 +49868,7 @@
   },
   {
     "id": "SID_壁炎",
+    "game8_id": "551230",
     "name": "Flame Wall",
     "group_name": "Flame Wall",
     "category": "special",
@@ -84204,6 +84241,128 @@
     }
   },
   {
+    "id": "SID_防陣1",
+    "game8_id": "554521",
+    "name": "Pair Up 1",
+    "group_name": "Pair Up",
+    "category": "passiveb",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/88/Pair_Up_1.png/revision/latest?cb=20250930062531",
+    "is_prf": false,
+    "sp": 60,
+    "tier": 1,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Infantry",
+          "Armored"
+        ]
+      },
+      "weapons": {
+        "none": true
+      }
+    },
+    "addition_date": "2025-09-30",
+    "release_date": "2025-09-30",
+    "version": "9.9",
+    "upgrade_ids": [
+      "SID_防陣2"
+    ]
+  },
+  {
+    "id": "SID_防陣2",
+    "game8_id": "554522",
+    "name": "Pair Up 2",
+    "group_name": "Pair Up",
+    "category": "passiveb",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/1f/Pair_Up_2.png/revision/latest?cb=20250930062542",
+    "is_prf": false,
+    "sp": 120,
+    "tier": 2,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Infantry",
+          "Armored"
+        ]
+      },
+      "weapons": {
+        "none": true
+      }
+    },
+    "addition_date": "2025-09-30",
+    "release_date": "2025-09-30",
+    "version": "9.9",
+    "upgrade_ids": [
+      "SID_防陣3"
+    ],
+    "downgrade_ids": [
+      "SID_防陣1"
+    ]
+  },
+  {
+    "id": "SID_防陣3",
+    "game8_id": "554523",
+    "name": "Pair Up 3",
+    "group_name": "Pair Up",
+    "category": "passiveb",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/6f/Pair_Up_3.png/revision/latest?cb=20250930062553",
+    "is_prf": false,
+    "sp": 240,
+    "tier": 3,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Infantry",
+          "Armored"
+        ]
+      },
+      "weapons": {
+        "none": true
+      }
+    },
+    "addition_date": "2025-09-30",
+    "release_date": "2025-09-30",
+    "version": "9.9",
+    "upgrade_ids": [
+      "SID_防陣4"
+    ],
+    "downgrade_ids": [
+      "SID_防陣2"
+    ]
+  },
+  {
+    "id": "SID_防陣4",
+    "game8_id": "554524",
+    "name": "Pair Up 4",
+    "group_name": "Pair Up",
+    "category": "passiveb",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/11/Pair_Up_4.png/revision/latest?cb=20250930062603",
+    "is_prf": false,
+    "sp": 300,
+    "tier": 4,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Infantry",
+          "Armored"
+        ]
+      },
+      "weapons": {
+        "none": true
+      }
+    },
+    "addition_date": "2025-09-30",
+    "release_date": "2025-09-30",
+    "version": "9.9",
+    "downgrade_ids": [
+      "SID_防陣3"
+    ]
+  },
+  {
     "id": "SID_仄明のブレス",
     "game8_id": "304942",
     "name": "Pale Breath",
@@ -93355,6 +93514,29 @@
     ]
   },
   {
+    "id": "SID_暴虐への怒り",
+    "game8_id": "554520",
+    "name": "Reject Tyranny",
+    "group_name": "Reject Tyranny",
+    "category": "passivea",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/fd/Reject_Tyranny.png/revision/latest?cb=20250930062512",
+    "is_prf": true,
+    "sp": 300,
+    "tier": 1,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "none": true
+      }
+    },
+    "addition_date": "2025-09-30",
+    "release_date": "2025-09-30",
+    "version": "9.9"
+  },
+  {
     "id": "SID_悠遠のブレス",
     "game8_id": "385532",
     "name": "Remote Breath",
@@ -97815,6 +97997,35 @@
     "version": "9.5",
     "downgrade_ids": [
       "SID_速さ守備の防壁3"
+    ]
+  },
+  {
+    "id": "SID_衣の護り手・魔・茨",
+    "game8_id": "554525",
+    "name": "S/R Briar M Save",
+    "group_name": "S/R Briar M Save",
+    "category": "passivec",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/bc/S_R_Briar_M_Save.png/revision/latest?cb=20250930062614",
+    "is_prf": false,
+    "sp": 300,
+    "tier": 4,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Armored"
+        ]
+      },
+      "weapons": {
+        "none": true
+      }
+    },
+    "addition_date": "2025-09-30",
+    "release_date": "2025-09-30",
+    "version": "9.9",
+    "downgrade_ids": [
+      "SID_兜の護り手・近間3",
+      "SID_兜の護り手・遠間3"
     ]
   },
   {
@@ -104727,6 +104938,7 @@
       "SID_深き海の底の双剣",
       "SID_砂塵に舞う曲刀",
       "SID_戦神の闇夜の剣",
+      "SID_未来を選びし者の剣",
       "SID_イザークの守護剣",
       "SID_平和の願いの剣",
       "SID_淑女のお茶会の鋭剣",
@@ -119453,6 +119665,33 @@
     ]
   },
   {
+    "id": "SID_未来を選びし者の剣",
+    "game8_id": "554516",
+    "name": "Sword of Fate",
+    "group_name": "Sword of Fate",
+    "category": "weapon",
+    "weapon_type": "Red Sword",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Red Sword"
+        ]
+      }
+    },
+    "addition_date": "2025-09-30",
+    "release_date": "2025-09-30",
+    "version": "9.9",
+    "downgrade_ids": [
+      "SID_銀の剣"
+    ]
+  },
+  {
     "id": "SID_イザークの守護剣",
     "game8_id": "495522",
     "name": "Sword of Isaach",
@@ -124124,6 +124363,62 @@
     "version": "2.11",
     "downgrade_ids": [
       "SID_静水の舞い2"
+    ]
+  },
+  {
+    "id": "SID_火風水の命脈",
+    "game8_id": "554519",
+    "name": "Torrential Boost",
+    "group_name": "Torrential Boost",
+    "category": "passivea",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/2/26/Torrential_Boost.png/revision/latest?cb=20250930062521",
+    "is_prf": false,
+    "sp": 300,
+    "tier": 4,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Armored"
+        ]
+      },
+      "weapons": {
+        "none": true
+      }
+    },
+    "addition_date": "2025-09-30",
+    "release_date": "2025-09-30",
+    "version": "9.9",
+    "downgrade_ids": [
+      "SID_生命の業火3",
+      "SID_生命の疾風3"
+    ]
+  },
+  {
+    "id": "SID_竜穿砲",
+    "game8_id": "554518",
+    "name": "Torrential Roar",
+    "group_name": "Torrential Roar",
+    "category": "special",
+    "is_prf": true,
+    "sp": 500,
+    "tier": 3,
+    "cd": 3,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_not_use": [
+          "Colorless Staff"
+        ]
+      }
+    },
+    "addition_date": "2025-09-30",
+    "release_date": "2025-09-30",
+    "version": "9.9",
+    "downgrade_ids": [
+      "SID_竜穿"
     ]
   },
   {
@@ -130174,7 +130469,8 @@
     "upgrade_ids": [
       "SID_生命の疾風静水3",
       "SID_生命の疾風大地3",
-      "SID_生命の業火疾風3"
+      "SID_生命の業火疾風3",
+      "SID_火風水の命脈"
     ],
     "downgrade_ids": [
       "SID_生命の疾風2"
@@ -130488,6 +130784,38 @@
         ]
       }
     }
+  },
+  {
+    "id": "SID_光と闇の疾風",
+    "game8_id": "554517",
+    "name": "Winds of Duality",
+    "group_name": "Winds of Duality",
+    "category": "weapon",
+    "weapon_type": "All Beast",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "eff": [
+      "flying"
+    ],
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Cavalry"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "All Beast"
+        ]
+      }
+    },
+    "addition_date": "2025-09-30",
+    "release_date": "2025-09-30",
+    "version": "9.9",
+    "downgrade_ids": [
+      "SID_成獣の化身・騎馬"
+    ]
   },
   {
     "id": "SID_シレジアの風",

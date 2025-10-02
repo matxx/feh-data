@@ -19374,6 +19374,120 @@
     "unlock": 1
   },
   {
+    "unit_id": "PID_紋章カムイ女",
+    "skill_id": "SID_兜の護り手・遠間1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_紋章カムイ女",
+    "skill_id": "SID_兜の護り手・遠間2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_紋章カムイ女",
+    "skill_id": "SID_兜の護り手・遠間3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_紋章カムイ女",
+    "skill_id": "SID_竜穿",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_紋章カムイ女",
+    "skill_id": "SID_伏竜",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_紋章カムイ女",
+    "skill_id": "SID_鉄の剣",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_紋章カムイ女",
+    "skill_id": "SID_防陣1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_紋章カムイ女",
+    "skill_id": "SID_防陣2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_紋章カムイ女",
+    "skill_id": "SID_防陣3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_紋章カムイ女",
+    "skill_id": "SID_防陣4",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_紋章カムイ女",
+    "skill_id": "SID_銀の剣",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_紋章カムイ女",
+    "skill_id": "SID_衣の護り手・魔・茨",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_紋章カムイ女",
+    "skill_id": "SID_鋼の剣",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_紋章カムイ女",
+    "skill_id": "SID_未来を選びし者の剣",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_紋章カムイ女",
+    "skill_id": "SID_火風水の命脈",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_紋章カムイ女",
+    "skill_id": "SID_竜穿砲",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_紋章カムイ女",
+    "skill_id": "SID_生命の疾風1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_紋章カムイ女",
+    "skill_id": "SID_生命の疾風2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_紋章カムイ女",
+    "skill_id": "SID_生命の疾風3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
     "unit_id": "PID_総選挙カムイ女",
     "skill_id": "SID_重装の聖氷",
     "default": 0,
@@ -63608,6 +63722,102 @@
   {
     "unit_id": "PID_紋章リン",
     "skill_id": "SID_鋼の弓",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_獣人リン",
+    "skill_id": "SID_成獣の化身・騎馬",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_獣人リン",
+    "skill_id": "SID_流星",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_獣人リン",
+    "skill_id": "SID_絶対化身・敏捷1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_獣人リン",
+    "skill_id": "SID_絶対化身・敏捷2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_獣人リン",
+    "skill_id": "SID_絶対化身・敏捷3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_獣人リン",
+    "skill_id": "SID_獣影・敏捷",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_獣人リン",
+    "skill_id": "SID_無への暗闘1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_獣人リン",
+    "skill_id": "SID_無への暗闘2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_獣人リン",
+    "skill_id": "SID_無への暗闘3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_獣人リン",
+    "skill_id": "SID_暗獣・不屈",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_獣人リン",
+    "skill_id": "SID_星影",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_獣人リン",
+    "skill_id": "SID_敏捷なる獣",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_獣人リン",
+    "skill_id": "SID_暴虐への怒り",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_獣人リン",
+    "skill_id": "SID_幼獣の化身・騎馬",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_獣人リン",
+    "skill_id": "SID_光と闇の疾風",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_獣人リン",
+    "skill_id": "SID_若獣の化身・騎馬",
     "default": 2,
     "unlock": 2
   },

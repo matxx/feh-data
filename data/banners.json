@@ -882,6 +882,23 @@
     ]
   },
   {
+    "name": "Emblem Corrin & Mythic Lyn",
+    "unit_ids": [
+      "PID_ギムレー女",
+      "PID_フレスベルグ味方",
+      "PID_伝承漆黒の騎士",
+      "PID_獣人リン",
+      "PID_神階アトス",
+      "PID_神階ルミエル",
+      "PID_神階ロキ",
+      "PID_紋章カムイ女",
+      "PID_若年ナーガ",
+      "PID_響心サーリャ",
+      "PID_響心若年チキ",
+      "PID_魔器マチュア"
+    ]
+  },
+  {
     "name": "Emblem Eirika: Of the Sacred",
     "unit_ids": [
       "PID_伝承ギネヴィア",
@@ -990,6 +1007,40 @@
       "PID_クリムゾン",
       "PID_響心リョウマ",
       "PID_魔器ヒノカ"
+    ]
+  },
+  {
+    "name": "Entwined Hero \"12 Luminaries\" 1",
+    "unit_ids": [
+      "PID_双界セリカ",
+      "PID_愛の祭クロード",
+      "PID_愛の祭ディミトリ",
+      "PID_春祭メイ",
+      "PID_春祭ヴェイル",
+      "PID_比翼ユリア",
+      "PID_比翼レア",
+      "PID_水着ニノ",
+      "PID_水着ラピス",
+      "PID_水着外伝パオラ",
+      "PID_花婿セリス",
+      "PID_花嫁ラクチェ"
+    ]
+  },
+  {
+    "name": "Entwined Hero \"12 Luminaries\" 2",
+    "unit_ids": [
+      "PID_双界プルメリア",
+      "PID_幼少エリーゼ",
+      "PID_幼少カミラ",
+      "PID_幼少レオン",
+      "PID_愛の祭エーデル",
+      "PID_春祭アイト",
+      "PID_比翼カムイ男",
+      "PID_比翼ハピ",
+      "PID_水着エイクスルニル",
+      "PID_水着ヘイズルーン",
+      "PID_水着ユーリス",
+      "PID_花嫁ティニー"
     ]
   },
   {
@@ -1126,7 +1177,7 @@
   {
     "name": "Focus: Alfonse & Veronica's Battle",
     "unit_ids": [
-      "PID_グスタフ味方",
+      "PID_リーヴ2味方",
       "PID_総選挙アルフォンス",
       "PID_総選挙ヴェロニカ"
     ]
@@ -2172,6 +2223,13 @@
       "PID_魔器ガングレト味方",
       "PID_魔器ターナ",
       "PID_魔器闇クロム"
+    ]
+  },
+  {
+    "name": "Focus: En Garde!",
+    "unit_ids": [
+      "PID_バジーリオ",
+      "PID_フラヴィア"
     ]
   },
   {
@@ -4131,6 +4189,14 @@
       "PID_ウルフ",
       "PID_ファリナ",
       "PID_リリス"
+    ]
+  },
+  {
+    "name": "Focus: Heroes with Reposition (Sep 2025)",
+    "unit_ids": [
+      "PID_イサドラ",
+      "PID_キャス",
+      "PID_メリン"
     ]
   },
   {
@@ -7228,6 +7294,14 @@
     ]
   },
   {
+    "name": "Focus: Weekly Revival 113",
+    "unit_ids": [
+      "PID_シェズ男",
+      "PID_モニカ",
+      "PID_開花ヒルダ"
+    ]
+  },
+  {
     "name": "Focus: Weekly Revival 12",
     "unit_ids": [
       "PID_ドルカス",
@@ -10056,7 +10130,7 @@
     ]
   },
   {
-    "name": "Legendary Heroes - Shez (Sep 2024)",
+    "name": "Legendary Heroes - Shez (Aug 2024)",
     "unit_ids": [
       "PID_エルレーン",
       "PID_ネルトゥス味方",

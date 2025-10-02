@@ -7930,6 +7930,42 @@
     "divine_codes": {}
   },
   {
+    "id": "PID_紋章カムイ女",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "lowest_rarity": {
+      "foc": 5
+    },
+    "skill_ids": [
+      "SID_伏竜",
+      "SID_兜の護り手・遠間1",
+      "SID_兜の護り手・遠間2",
+      "SID_兜の護り手・遠間3",
+      "SID_未来を選びし者の剣",
+      "SID_火風水の命脈",
+      "SID_生命の疾風1",
+      "SID_生命の疾風2",
+      "SID_生命の疾風3",
+      "SID_竜穿",
+      "SID_竜穿砲",
+      "SID_衣の護り手・魔・茨",
+      "SID_鉄の剣",
+      "SID_銀の剣",
+      "SID_鋼の剣",
+      "SID_防陣1",
+      "SID_防陣2",
+      "SID_防陣3",
+      "SID_防陣4"
+    ],
+    "divine_codes": {}
+  },
+  {
     "id": "PID_総選挙カムイ女",
     "is_in": {
       "gsp": true,
@@ -26450,6 +26486,39 @@
       "SID_鉄の弓",
       "SID_銀の弓",
       "SID_鋼の弓"
+    ],
+    "divine_codes": {}
+  },
+  {
+    "id": "PID_獣人リン",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "lowest_rarity": {
+      "foc": 5
+    },
+    "skill_ids": [
+      "SID_光と闇の疾風",
+      "SID_幼獣の化身・騎馬",
+      "SID_成獣の化身・騎馬",
+      "SID_敏捷なる獣",
+      "SID_星影",
+      "SID_暗獣・不屈",
+      "SID_暴虐への怒り",
+      "SID_流星",
+      "SID_無への暗闘1",
+      "SID_無への暗闘2",
+      "SID_無への暗闘3",
+      "SID_獣影・敏捷",
+      "SID_絶対化身・敏捷1",
+      "SID_絶対化身・敏捷2",
+      "SID_絶対化身・敏捷3",
+      "SID_若獣の化身・騎馬"
     ],
     "divine_codes": {}
   },
