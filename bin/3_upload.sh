@@ -10,11 +10,15 @@ Aws.config[:credentials] = Aws::Credentials.new(
 
 hash = `git rev-parse HEAD`.strip
 
-bucket = Aws::S3::Bucket.new(ENV.fetch('FEH_S3_BUCKET_NAME'))
+bucket_name = ENV.fetch('FEH_S3_BUCKET_NAME')
+tm = Aws::S3::TransferManager.new
 Dir['data/*.json'].each do |filename|
-  bucket
-    .object("commits/#{hash}/#{filename.gsub(%r{\Adata/}, '')}")
-    .upload_file(filename, content_type: 'application/json')
+  tm.upload_file(
+    filename,
+    bucket: bucket_name,
+    key: "commits/#{hash}/#{filename.gsub(%r{\Adata/}, '')}",
+    content_type: 'application/json',
+  )
 end
 
 puts hash
