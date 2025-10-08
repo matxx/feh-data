@@ -1647,13 +1647,18 @@
       "SID_攻撃魔防の信義2",
       "SID_攻撃魔防の信義3",
       "SID_攻撃魔防の信義4",
+      "SID_攻撃魔防の大混乱",
       "SID_攻撃魔防の拍節1",
       "SID_攻撃魔防の拍節2",
       "SID_攻撃魔防の拍節3",
       "SID_氷点",
       "SID_氷華",
       "SID_陰陽の法則",
-      "SID_魂の秘儀"
+      "SID_陰陽の法則・神",
+      "SID_魂の秘儀",
+      "SID_魔防の混乱1",
+      "SID_魔防の混乱2",
+      "SID_魔防の混乱3"
     ],
     "divine_codes": {}
   },
@@ -5164,11 +5169,12 @@
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "lowest_rarity": {
-      "gsp": 3
+      "gsp": 3,
+      "ldc": 4
     },
     "skill_ids": [
       "SID_差し違え1",
@@ -5184,7 +5190,16 @@
       "SID_鉄の斧",
       "SID_鋼の斧"
     ],
-    "divine_codes": {}
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2025,
+          "month": 10,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "PID_水着カスパル",
@@ -10175,6 +10190,12 @@
           "month": 4,
           "rarity": 4,
           "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 10,
+          "rarity": 4,
+          "cost": 100
         }
       ]
     }
@@ -14588,6 +14609,38 @@
     "divine_codes": {}
   },
   {
+    "id": "PID_比翼フレイヤ",
+    "is_in": {
+      "gsp": false,
+      "ssp": true,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {
+      "ssp": 5
+    },
+    "skill_ids": [
+      "SID_エルロック",
+      "SID_ロック",
+      "SID_始まりの鼓動1",
+      "SID_始まりの鼓動2",
+      "SID_始まりの鼓動3",
+      "SID_彗星",
+      "SID_悪夢の女王の魔杖",
+      "SID_攻撃速さの絆1",
+      "SID_攻撃速さの絆2",
+      "SID_攻撃速さの絆3",
+      "SID_攻撃速さの詠唱",
+      "SID_星影",
+      "SID_流星",
+      "SID_追憶の首飾り",
+      "SID_追撃の鼓動・刃"
+    ],
+    "divine_codes": {}
+  },
+  {
     "id": "PID_フロージ味方",
     "is_in": {
       "gsp": false,
@@ -15537,11 +15590,12 @@
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "lowest_rarity": {
-      "gsp": 4.5
+      "gsp": 4.5,
+      "ldc": 5
     },
     "skill_ids": [
       "SID_不壊1",
@@ -15558,7 +15612,16 @@
       "SID_銀の剣",
       "SID_鋼の剣"
     ],
-    "divine_codes": {}
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2025,
+          "month": 10,
+          "rarity": 5,
+          "cost": 300
+        }
+      ]
+    }
   },
   {
     "id": "PID_愛の祭グレイル",
@@ -19781,11 +19844,12 @@
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "lowest_rarity": {
-      "gsp": 3
+      "gsp": 3,
+      "ldc": 4
     },
     "skill_ids": [
       "SID_古強者の槍",
@@ -19802,7 +19866,16 @@
       "SID_魔防の鼓舞1",
       "SID_魔防の鼓舞2"
     ],
-    "divine_codes": {}
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2025,
+          "month": 10,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "PID_ハロジョーカー",
@@ -20354,7 +20427,6 @@
     "skill_ids": [
       "SID_ウインド",
       "SID_エルウインド",
-      "SID_ナーガ",
       "SID_レクスカリバー",
       "SID_伏竜",
       "SID_生の息吹1",
@@ -31528,6 +31600,39 @@
     }
   },
   {
+    "id": "PID_ハロネルトゥス",
+    "is_in": {
+      "gsp": false,
+      "ssp": true,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {
+      "ssp": 5
+    },
+    "skill_ids": [
+      "SID_地の女神の祝祭",
+      "SID_幼獣の化身・騎馬",
+      "SID_成獣の化身・騎馬",
+      "SID_攻撃速さの激突1",
+      "SID_攻撃速さの激突2",
+      "SID_攻撃速さの激突3",
+      "SID_攻撃速さの突破",
+      "SID_攻速鼓譟・呼吸",
+      "SID_星影",
+      "SID_月を浴び地に眠る",
+      "SID_流星",
+      "SID_疾風迅雷・霞",
+      "SID_若獣の化身・騎馬",
+      "SID_速さの鼓舞1",
+      "SID_速さの鼓舞2",
+      "SID_速さの鼓舞3"
+    ],
+    "divine_codes": {}
+  },
+  {
     "id": "PID_ネルトゥス味方",
     "is_in": {
       "gsp": false,
@@ -32152,11 +32257,13 @@
       "foc": 5
     },
     "skill_ids": [
+      "SID_尊き竜の血を…・承",
       "SID_尊き竜の血を継ぐ娘",
       "SID_攻撃速さの機先1",
       "SID_攻撃速さの機先2",
       "SID_攻撃速さの機先3",
       "SID_攻撃速さの機先4",
+      "SID_攻撃魔防の魅了3",
       "SID_火のブレス",
       "SID_火炎のブレス",
       "SID_灼熱のブレス",
@@ -32167,7 +32274,10 @@
       "SID_速さ魔防の近影3",
       "SID_青への暗闘1",
       "SID_青への暗闘2",
-      "SID_青への暗闘3"
+      "SID_青への暗闘3",
+      "SID_魔防の魅了1",
+      "SID_魔防の魅了2",
+      "SID_魔防の魅了3"
     ],
     "divine_codes": {}
   },
@@ -34329,6 +34439,37 @@
     "divine_codes": {}
   },
   {
+    "id": "PID_ハロピアニー",
+    "is_in": {
+      "gsp": false,
+      "ssp": true,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {
+      "ssp": 5
+    },
+    "skill_ids": [
+      "SID_やさしいよるのゆめ",
+      "SID_エルライト",
+      "SID_シャイン",
+      "SID_ライト",
+      "SID_妖精の悪戯の明かり",
+      "SID_守備魔防の魅了3",
+      "SID_影助・体当たり1",
+      "SID_影助・体当たり2",
+      "SID_影助・体当たり3",
+      "SID_影助・体当たり4",
+      "SID_踊る",
+      "SID_魔防の魅了1",
+      "SID_魔防の魅了2",
+      "SID_魔防の魅了3"
+    ],
+    "divine_codes": {}
+  },
+  {
     "id": "PID_神階ピアニー",
     "is_in": {
       "gsp": false,
@@ -35115,6 +35256,35 @@
         }
       ]
     }
+  },
+  {
+    "id": "PID_ハロライ",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": true,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {
+      "hg": 4
+    },
+    "skill_ids": [
+      "SID_夜駆ける戦猫の爪牙",
+      "SID_幼獣の化身・騎馬",
+      "SID_成獣の化身・騎馬",
+      "SID_星影",
+      "SID_流星",
+      "SID_絶対化身・敏捷1",
+      "SID_絶対化身・敏捷2",
+      "SID_絶対化身・敏捷3",
+      "SID_若獣の化身・騎馬",
+      "SID_速さの指揮1",
+      "SID_速さの指揮2",
+      "SID_速さの指揮3"
+    ],
+    "divine_codes": {}
   },
   {
     "id": "PID_ライ",
@@ -38088,14 +38258,16 @@
   {
     "id": "PID_クリムゾン",
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "lowest_rarity": {},
+    "lowest_rarity": {
+      "gsp": 3
+    },
     "skill_ids": [
       "SID_強化増幅の斧",
       "SID_強化増幅の斧＋",
@@ -38717,11 +38889,12 @@
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "lowest_rarity": {
-      "gsp": 3
+      "gsp": 3,
+      "ldc": 4
     },
     "skill_ids": [
       "SID_アサルト",
@@ -38737,7 +38910,16 @@
       "SID_治癒",
       "SID_疾風の祝福"
     ],
-    "divine_codes": {}
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2025,
+          "month": 10,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "PID_セテス",
@@ -39848,14 +40030,16 @@
   {
     "id": "PID_アシュラ",
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "lowest_rarity": {},
+    "lowest_rarity": {
+      "gsp": 3
+    },
     "skill_ids": [
       "SID_不和の弓",
       "SID_不和の弓＋",
@@ -40353,6 +40537,36 @@
       "SID_銀の槍",
       "SID_鋼の槍",
       "SID_黒騎の孤槍"
+    ],
+    "divine_codes": {}
+  },
+  {
+    "id": "PID_ハロスクリミル",
+    "is_in": {
+      "gsp": false,
+      "ssp": true,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {
+      "ssp": 4
+    },
+    "skill_ids": [
+      "SID_幼獣の化身・重装",
+      "SID_成獣の化身・重装",
+      "SID_正面隊形・敵方1",
+      "SID_正面隊形・敵方2",
+      "SID_正面隊形・敵方3",
+      "SID_正面隊形・敵方4",
+      "SID_肉食らう獅子の爪牙",
+      "SID_若獣の化身・重装",
+      "SID_華炎",
+      "SID_蛍火",
+      "SID_鎧の護り手・遠間1",
+      "SID_鎧の護り手・遠間2",
+      "SID_鎧の護り手・遠間3"
     ],
     "divine_codes": {}
   },
@@ -42194,6 +42408,7 @@
       "SID_攻撃の開放3",
       "SID_明鏡の構え1",
       "SID_献身",
+      "SID_聖女の慈愛の書",
       "SID_飛燕明鏡の構え1",
       "SID_飛燕明鏡の構え2"
     ],
@@ -43178,11 +43393,12 @@
       "ssp": true,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "lowest_rarity": {
-      "ssp": 5
+      "ssp": 5,
+      "ldc": 5
     },
     "skill_ids": [
       "SID_回避・怒り1",
@@ -43205,7 +43421,16 @@
       "SID_銀の槍",
       "SID_鋼の槍"
     ],
-    "divine_codes": {}
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2025,
+          "month": 10,
+          "rarity": 5,
+          "cost": 300
+        }
+      ]
+    }
   },
   {
     "id": "PID_ティナ",
@@ -44876,11 +45101,12 @@
       "ssp": false,
       "hg": true,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "lowest_rarity": {
-      "hg": 4
+      "hg": 4,
+      "ldc": 4
     },
     "skill_ids": [
       "SID_戦神の闇夜の剣",
@@ -44896,7 +45122,16 @@
       "SID_銀の剣",
       "SID_鋼の剣"
     ],
-    "divine_codes": {}
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2025,
+          "month": 10,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "PID_伝承マークス",

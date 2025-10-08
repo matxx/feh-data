@@ -3860,11 +3860,6 @@
     "game8_grade": "S"
   },
   {
-    "id": "SID_異邦ヴラスキャルヴ",
-    "game8_rating": "9.5",
-    "game8_grade": "S"
-  },
-  {
     "id": "SID_サンダー",
     "game8_rating": null,
     "game8_grade": null
@@ -4498,6 +4493,11 @@
     "id": "SID_神宿りの独楽",
     "game8_rating": "9.0",
     "game8_grade": null
+  },
+  {
+    "id": "SID_異邦ヴラスキャルヴ",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
   },
   {
     "id": "SID_父の戦術書",

@@ -91,6 +91,20 @@
     "recommended_plus10": null
   },
   {
+    "id": "PID_紋章カムイ女",
+    "game8_rating": "9.5",
+    "recommended_boon": "Res",
+    "recommended_bane": "Def",
+    "recommended_plus10": "Res"
+  },
+  {
+    "id": "PID_獣人リン",
+    "game8_rating": "9.5",
+    "recommended_boon": "Spd",
+    "recommended_bane": "Res",
+    "recommended_plus10": "Spd"
+  },
+  {
     "id": "PID_双界外伝カチュア",
     "game8_rating": "9.5",
     "recommended_boon": null,
@@ -635,20 +649,6 @@
     "recommended_boon": "Def",
     "recommended_bane": "Spd",
     "recommended_plus10": "Def"
-  },
-  {
-    "id": "PID_紋章カムイ女",
-    "game8_rating": "9.5",
-    "recommended_boon": "Res",
-    "recommended_bane": "Def",
-    "recommended_plus10": "Res"
-  },
-  {
-    "id": "PID_獣人リン",
-    "game8_rating": "9.5",
-    "recommended_boon": "Spd",
-    "recommended_bane": "Res",
-    "recommended_plus10": "Spd"
   },
   {
     "id": "PID_アーダン",

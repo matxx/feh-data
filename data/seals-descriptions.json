@@ -960,6 +960,18 @@
     "description": "Grants Atk/Spd/Res+3."
   },
   {
+    "id": "SID_第99迷宮の覇者1",
+    "description": "Grants Atk/Def/Res+1."
+  },
+  {
+    "id": "SID_第99迷宮の覇者2",
+    "description": "Grants Atk/Def/Res+2."
+  },
+  {
+    "id": "SID_第99迷宮の覇者3",
+    "description": "Grants Atk/Def/Res+3."
+  },
+  {
     "id": "SID_第4迷宮の覇者1",
     "description": "Grants Spd+1."
   },
@@ -2050,6 +2062,18 @@
   {
     "id": "SID_近距離警戒3",
     "description": "Allies within 2 spaces gain: \"If foe uses sword, lance, axe, dragonstone, or beast damage, grants Def/Res+4 during combat.\""
+  },
+  {
+    "id": "SID_反撃の咆哮1",
+    "description": "Reduces damage from foe's first attack during combat by 10% and unit's next attack deals damage = 10% of foe's attack damage prior to reductions (resets at end of combat; only highest value applied; does not stack)."
+  },
+  {
+    "id": "SID_反撃の咆哮2",
+    "description": "Reduces damage from foe's first attack during combat by 20% and unit's next attack deals damage = 20% of foe's attack damage prior to reductions (resets at end of combat; only highest value applied; does not stack)."
+  },
+  {
+    "id": "SID_反撃の咆哮3",
+    "description": "Reduces damage from foe's first attack during combat by 30% and unit's next attack deals damage = 30% of foe's attack damage prior to reductions (resets at end of combat; only highest value applied; does not stack)."
   },
   {
     "id": "SID_飛燕の一撃1",
@@ -3490,6 +3514,18 @@
   {
     "id": "SID_速さ魔防の牽制3",
     "description": "Inflicts Spd/Res-4 on foes within 2 spaces during combat."
+  },
+  {
+    "id": "SID_速さ魔防の干渉1",
+    "description": "If a movement Assist skill (like Reposition, Shove, Pivot, etc.) is used by unit or targets unit, inflicts Spd/Res-2 on nearest foes within 4 spaces of both unit and target through their next actions."
+  },
+  {
+    "id": "SID_速さ魔防の干渉2",
+    "description": "If a movement Assist skill (like Reposition, Shove, Pivot, etc.) is used by unit or targets unit, inflicts Spd/Res-4 on nearest foes within 4 spaces of both unit and target through their next actions."
+  },
+  {
+    "id": "SID_速さ魔防の干渉3",
+    "description": "If a movement Assist skill (like Reposition, Shove, Pivot, etc.) is used by unit or targets unit, inflicts Spd/Res-6 on nearest foes within 4 spaces of both unit and target through their next actions."
   },
   {
     "id": "SID_速さ魔防の孤軍1",

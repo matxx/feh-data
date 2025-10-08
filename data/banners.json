@@ -399,6 +399,15 @@
     ]
   },
   {
+    "name": "Altered Future (Focus)",
+    "unit_ids": [
+      "PID_ハロスクリミル",
+      "PID_ハロネルトゥス",
+      "PID_ハロピアニー",
+      "PID_比翼フレイヤ"
+    ]
+  },
+  {
     "name": "Ascendant, Rearmed & Attuned (Jul 2024)",
     "unit_ids": [
       "PID_スカビオサ2",
@@ -5684,6 +5693,15 @@
     ]
   },
   {
+    "name": "Focus: New Power (Oct 2025)",
+    "unit_ids": [
+      "PID_シャーロッテ",
+      "PID_ティータ",
+      "PID_ユーリス",
+      "PID_比翼リーヴ"
+    ]
+  },
+  {
     "name": "Focus: New Power (Sep 2018)",
     "unit_ids": [
       "PID_オーディン",
@@ -6207,6 +6225,14 @@
       "PID_カアラ",
       "PID_クロム",
       "PID_フィル"
+    ]
+  },
+  {
+    "name": "Focus: Tempest Trials (Askr's Kin, Pt. 4)",
+    "unit_ids": [
+      "PID_ライ",
+      "PID_レテ",
+      "PID_魔器アイト味方"
     ]
   },
   {

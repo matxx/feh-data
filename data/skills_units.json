@@ -4105,6 +4105,12 @@
   },
   {
     "unit_id": "PID_神階ラルヴァ",
+    "skill_id": "SID_攻撃魔防の大混乱",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_神階ラルヴァ",
     "skill_id": "SID_攻撃魔防の信義1",
     "default": 0,
     "unlock": 2
@@ -4165,6 +4171,12 @@
   },
   {
     "unit_id": "PID_神階ラルヴァ",
+    "skill_id": "SID_陰陽の法則・神",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_神階ラルヴァ",
     "skill_id": "SID_エルロック",
     "default": 2,
     "unlock": 2
@@ -4180,6 +4192,24 @@
     "skill_id": "SID_魂の秘儀",
     "default": 5,
     "unlock": 5
+  },
+  {
+    "unit_id": "PID_神階ラルヴァ",
+    "skill_id": "SID_魔防の混乱1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_神階ラルヴァ",
+    "skill_id": "SID_魔防の混乱2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_神階ラルヴァ",
+    "skill_id": "SID_魔防の混乱3",
+    "default": 0,
+    "unlock": 4
   },
   {
     "unit_id": "PID_神階ラルヴァ",
@@ -35682,6 +35712,96 @@
     "unlock": 2
   },
   {
+    "unit_id": "PID_比翼フレイヤ",
+    "skill_id": "SID_流星",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_比翼フレイヤ",
+    "skill_id": "SID_攻撃速さの詠唱",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_比翼フレイヤ",
+    "skill_id": "SID_攻撃速さの絆1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_比翼フレイヤ",
+    "skill_id": "SID_攻撃速さの絆2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_比翼フレイヤ",
+    "skill_id": "SID_攻撃速さの絆3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_比翼フレイヤ",
+    "skill_id": "SID_彗星",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_比翼フレイヤ",
+    "skill_id": "SID_エルロック",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_比翼フレイヤ",
+    "skill_id": "SID_追憶の首飾り",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_比翼フレイヤ",
+    "skill_id": "SID_星影",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_比翼フレイヤ",
+    "skill_id": "SID_悪夢の女王の魔杖",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_比翼フレイヤ",
+    "skill_id": "SID_追撃の鼓動・刃",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_比翼フレイヤ",
+    "skill_id": "SID_ロック",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_比翼フレイヤ",
+    "skill_id": "SID_始まりの鼓動1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_比翼フレイヤ",
+    "skill_id": "SID_始まりの鼓動2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_比翼フレイヤ",
+    "skill_id": "SID_始まりの鼓動3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
     "unit_id": "PID_フロージ味方",
     "skill_id": "SID_成獣の化身・騎馬",
     "default": 4,
@@ -49588,12 +49708,6 @@
     "skill_id": "SID_エルウインド",
     "default": 3,
     "unlock": 2
-  },
-  {
-    "unit_id": "PID_ユリア",
-    "skill_id": "SID_ナーガ",
-    "default": 5,
-    "unlock": 5
   },
   {
     "unit_id": "PID_ユリア",
@@ -75660,6 +75774,102 @@
     "unlock": 2
   },
   {
+    "unit_id": "PID_ハロネルトゥス",
+    "skill_id": "SID_成獣の化身・騎馬",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_ハロネルトゥス",
+    "skill_id": "SID_攻速鼓譟・呼吸",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_ハロネルトゥス",
+    "skill_id": "SID_流星",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_ハロネルトゥス",
+    "skill_id": "SID_攻撃速さの激突1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_ハロネルトゥス",
+    "skill_id": "SID_攻撃速さの激突2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_ハロネルトゥス",
+    "skill_id": "SID_攻撃速さの激突3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_ハロネルトゥス",
+    "skill_id": "SID_攻撃速さの突破",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_ハロネルトゥス",
+    "skill_id": "SID_疾風迅雷・霞",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_ハロネルトゥス",
+    "skill_id": "SID_地の女神の祝祭",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_ハロネルトゥス",
+    "skill_id": "SID_速さの鼓舞1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_ハロネルトゥス",
+    "skill_id": "SID_速さの鼓舞2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_ハロネルトゥス",
+    "skill_id": "SID_速さの鼓舞3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_ハロネルトゥス",
+    "skill_id": "SID_月を浴び地に眠る",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_ハロネルトゥス",
+    "skill_id": "SID_星影",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_ハロネルトゥス",
+    "skill_id": "SID_幼獣の化身・騎馬",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_ハロネルトゥス",
+    "skill_id": "SID_若獣の化身・騎馬",
+    "default": 2,
+    "unlock": 2
+  },
+  {
     "unit_id": "PID_ネルトゥス味方",
     "skill_id": "SID_成獣の化身・騎馬",
     "default": 4,
@@ -77125,6 +77335,12 @@
   },
   {
     "unit_id": "PID_伝承ニニアン",
+    "skill_id": "SID_攻撃魔防の魅了3",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_伝承ニニアン",
     "skill_id": "SID_攻撃速さの機先1",
     "default": 0,
     "unlock": 2
@@ -77179,6 +77395,12 @@
   },
   {
     "unit_id": "PID_伝承ニニアン",
+    "skill_id": "SID_尊き竜の血を…・承",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_伝承ニニアン",
     "skill_id": "SID_神舞のブレス",
     "default": 5,
     "unlock": 5
@@ -77200,6 +77422,24 @@
     "skill_id": "SID_灼熱のブレス",
     "default": 4,
     "unlock": 3
+  },
+  {
+    "unit_id": "PID_伝承ニニアン",
+    "skill_id": "SID_魔防の魅了1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_伝承ニニアン",
+    "skill_id": "SID_魔防の魅了2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_伝承ニニアン",
+    "skill_id": "SID_魔防の魅了3",
+    "default": 0,
+    "unlock": 4
   },
   {
     "unit_id": "PID_伝承ニニアン",
@@ -82032,6 +82272,90 @@
     "unlock": 5
   },
   {
+    "unit_id": "PID_ハロピアニー",
+    "skill_id": "SID_踊る",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_ハロピアニー",
+    "skill_id": "SID_守備魔防の魅了3",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_ハロピアニー",
+    "skill_id": "SID_エルライト",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_ハロピアニー",
+    "skill_id": "SID_ライト",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_ハロピアニー",
+    "skill_id": "SID_やさしいよるのゆめ",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_ハロピアニー",
+    "skill_id": "SID_魔防の魅了1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_ハロピアニー",
+    "skill_id": "SID_魔防の魅了2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_ハロピアニー",
+    "skill_id": "SID_魔防の魅了3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_ハロピアニー",
+    "skill_id": "SID_影助・体当たり1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_ハロピアニー",
+    "skill_id": "SID_影助・体当たり2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_ハロピアニー",
+    "skill_id": "SID_影助・体当たり3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_ハロピアニー",
+    "skill_id": "SID_影助・体当たり4",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_ハロピアニー",
+    "skill_id": "SID_シャイン",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_ハロピアニー",
+    "skill_id": "SID_妖精の悪戯の明かり",
+    "default": 5,
+    "unlock": 5
+  },
+  {
     "unit_id": "PID_神階ピアニー",
     "skill_id": "SID_曲技飛行1",
     "default": 0,
@@ -83854,6 +84178,78 @@
     "skill_id": "SID_魔防封じ3",
     "default": 0,
     "unlock": 4
+  },
+  {
+    "unit_id": "PID_ハロライ",
+    "skill_id": "SID_成獣の化身・騎馬",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_ハロライ",
+    "skill_id": "SID_流星",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_ハロライ",
+    "skill_id": "SID_絶対化身・敏捷1",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_ハロライ",
+    "skill_id": "SID_絶対化身・敏捷2",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_ハロライ",
+    "skill_id": "SID_絶対化身・敏捷3",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_ハロライ",
+    "skill_id": "SID_星影",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_ハロライ",
+    "skill_id": "SID_夜駆ける戦猫の爪牙",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_ハロライ",
+    "skill_id": "SID_速さの指揮1",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_ハロライ",
+    "skill_id": "SID_速さの指揮2",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_ハロライ",
+    "skill_id": "SID_速さの指揮3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_ハロライ",
+    "skill_id": "SID_幼獣の化身・騎馬",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_ハロライ",
+    "skill_id": "SID_若獣の化身・騎馬",
+    "default": 2,
+    "unlock": 2
   },
   {
     "unit_id": "PID_ライ",
@@ -95958,6 +96354,84 @@
     "unlock": 2
   },
   {
+    "unit_id": "PID_ハロスクリミル",
+    "skill_id": "SID_鎧の護り手・遠間1",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_ハロスクリミル",
+    "skill_id": "SID_鎧の護り手・遠間2",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_ハロスクリミル",
+    "skill_id": "SID_鎧の護り手・遠間3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_ハロスクリミル",
+    "skill_id": "SID_成獣の化身・重装",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_ハロスクリミル",
+    "skill_id": "SID_蛍火",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_ハロスクリミル",
+    "skill_id": "SID_華炎",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_ハロスクリミル",
+    "skill_id": "SID_肉食らう獅子の爪牙",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_ハロスクリミル",
+    "skill_id": "SID_幼獣の化身・重装",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_ハロスクリミル",
+    "skill_id": "SID_正面隊形・敵方1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_ハロスクリミル",
+    "skill_id": "SID_正面隊形・敵方2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_ハロスクリミル",
+    "skill_id": "SID_正面隊形・敵方3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_ハロスクリミル",
+    "skill_id": "SID_正面隊形・敵方4",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_ハロスクリミル",
+    "skill_id": "SID_若獣の化身・重装",
+    "default": 2,
+    "unlock": 2
+  },
+  {
     "unit_id": "PID_ソレイユ",
     "skill_id": "SID_烈風",
     "default": 0,
@@ -99940,6 +100414,12 @@
     "skill_id": "SID_ライト",
     "default": 1,
     "unlock": 1
+  },
+  {
+    "unit_id": "PID_ティータ",
+    "skill_id": "SID_聖女の慈愛の書",
+    "default": 0,
+    "unlock": 5
   },
   {
     "unit_id": "PID_ティータ",

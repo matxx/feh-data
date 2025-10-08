@@ -3863,6 +3863,54 @@
     }
   },
   {
+    "id": "SID_第99迷宮の覇者1",
+    "game8_id": null,
+    "name": "Squad Ace CU 1",
+    "group_name": "Squad Ace CU",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/a6/Squad_Ace_CA_1.png/revision/latest?cb=20240206044431",
+    "sp": 120,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "none": true
+      }
+    }
+  },
+  {
+    "id": "SID_第99迷宮の覇者2",
+    "game8_id": null,
+    "name": "Squad Ace CU 2",
+    "group_name": "Squad Ace CU",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d5/Squad_Ace_CA_2.png/revision/latest?cb=20240206044440",
+    "sp": 180,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "none": true
+      }
+    }
+  },
+  {
+    "id": "SID_第99迷宮の覇者3",
+    "game8_id": null,
+    "name": "Squad Ace CU 3",
+    "group_name": "Squad Ace CU",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/79/Squad_Ace_CA_3.png/revision/latest?cb=20240206044450",
+    "sp": 240,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "none": true
+      }
+    }
+  },
+  {
     "id": "SID_第4迷宮の覇者1",
     "game8_id": null,
     "name": "Squad Ace D 1",
@@ -8487,6 +8535,63 @@
       },
       "weapons": {
         "none": true
+      }
+    }
+  },
+  {
+    "id": "SID_反撃の咆哮1",
+    "game8_id": null,
+    "name": "Counter Roar 1",
+    "group_name": "Counter Roar",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/71/Counter_Roar_1.png/revision/latest?cb=20230816044812",
+    "sp": 60,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "All Breath",
+          "All Beast"
+        ]
+      }
+    }
+  },
+  {
+    "id": "SID_反撃の咆哮2",
+    "game8_id": null,
+    "name": "Counter Roar 2",
+    "group_name": "Counter Roar",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/af/Counter_Roar_2.png/revision/latest?cb=20230816044823",
+    "sp": 120,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "All Breath",
+          "All Beast"
+        ]
+      }
+    }
+  },
+  {
+    "id": "SID_反撃の咆哮3",
+    "game8_id": null,
+    "name": "Counter Roar 3",
+    "group_name": "Counter Roar",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b9/Counter_Roar_3.png/revision/latest?cb=20230816044834",
+    "sp": 240,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "All Breath",
+          "All Beast"
+        ]
       }
     }
   },
@@ -14764,6 +14869,69 @@
       },
       "weapons": {
         "none": true
+      }
+    }
+  },
+  {
+    "id": "SID_速さ魔防の干渉1",
+    "game8_id": null,
+    "name": "Spd/Res Snag 1",
+    "group_name": "Spd/Res Snag",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c2/Spd_Res_Snag_1.png/revision/latest?cb=20200618081733",
+    "sp": 60,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Cavalry",
+          "Flying"
+        ]
+      },
+      "weapons": {
+        "can_not_use": [
+          "Colorless Staff"
+        ]
+      }
+    }
+  },
+  {
+    "id": "SID_速さ魔防の干渉2",
+    "game8_id": null,
+    "name": "Spd/Res Snag 2",
+    "group_name": "Spd/Res Snag",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/fb/Spd_Res_Snag_2.png/revision/latest?cb=20200618081743",
+    "sp": 120,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Cavalry",
+          "Flying"
+        ]
+      },
+      "weapons": {
+        "can_not_use": [
+          "Colorless Staff"
+        ]
+      }
+    }
+  },
+  {
+    "id": "SID_速さ魔防の干渉3",
+    "game8_id": null,
+    "name": "Spd/Res Snag 3",
+    "group_name": "Spd/Res Snag",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/7a/Spd_Res_Snag_3.png/revision/latest?cb=20200618081753",
+    "sp": 240,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Cavalry",
+          "Flying"
+        ]
+      },
+      "weapons": {
+        "can_not_use": [
+          "Colorless Staff"
+        ]
       }
     }
   },
