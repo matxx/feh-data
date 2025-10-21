@@ -28112,9 +28112,11 @@
       "hg": false,
       "dc": false,
       "ldc": false,
-      "foc": false
+      "foc": true
     },
-    "lowest_rarity": {},
+    "lowest_rarity": {
+      "foc": 5
+    },
     "skill_ids": [
       "SID_人と竜との盾",
       "SID_伏竜",

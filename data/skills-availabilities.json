@@ -2656,7 +2656,12 @@
   },
   {
     "id": "SID_アブゾーブ＋_神",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_ラケシス",
+      "PID_ナンナ",
+      "PID_ナターシャ",
+      "PID_セーラ"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -2666,20 +2671,64 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
-    "divine_codes": {}
+    "flrwo": {
+      "gsp": 3,
+      "ldc": 4
+    },
+    "flrfi": {
+      "gsp": 3,
+      "ldc": 3
+    },
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2021,
+          "month": 5,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2022,
+          "month": 5,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2023,
+          "month": 6,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2023,
+          "month": 7,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 10,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_アブゾーブ＋_幻",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_ラケシス",
+      "PID_ナンナ",
+      "PID_ナターシャ",
+      "PID_セーラ"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -2689,16 +2738,55 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
-    "divine_codes": {}
+    "flrwo": {
+      "gsp": 3,
+      "ldc": 4
+    },
+    "flrfi": {
+      "gsp": 3,
+      "ldc": 3
+    },
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2021,
+          "month": 5,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2022,
+          "month": 5,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2023,
+          "month": 6,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2023,
+          "month": 7,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 10,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_薄闇の王の刃",
@@ -3852,7 +3940,9 @@
   },
   {
     "id": "SID_エイド＋_神",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_ディーア"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -3862,20 +3952,37 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
-    "divine_codes": {}
+    "flrwo": {
+      "gsp": 3,
+      "ldc": 4
+    },
+    "flrfi": {
+      "gsp": 3,
+      "ldc": 3
+    },
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2023,
+          "month": 12,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_エイド＋_幻",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_ディーア"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -3885,16 +3992,31 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
-    "divine_codes": {}
+    "flrwo": {
+      "gsp": 3,
+      "ldc": 4
+    },
+    "flrfi": {
+      "gsp": 3,
+      "ldc": 3
+    },
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2023,
+          "month": 12,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_先導の伝令・天1",
@@ -7646,7 +7768,9 @@
   },
   {
     "id": "SID_アーダンの固剣_消",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_アーダン"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -7658,13 +7782,17 @@
     "is_in": {
       "gsp": false,
       "ssp": false,
-      "hg": false,
+      "hg": true,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "hg": 4
+    },
+    "flrfi": {
+      "hg": 5
+    },
     "divine_codes": {}
   },
   {
@@ -9521,7 +9649,9 @@
   },
   {
     "id": "SID_ハロルドの雄斧_強",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_ハロルド"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -9531,16 +9661,43 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
-    "divine_codes": {}
+    "flrwo": {
+      "gsp": 3,
+      "ldc": 4
+    },
+    "flrfi": {
+      "gsp": 5,
+      "ldc": 5
+    },
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2021,
+          "month": 8,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2022,
+          "month": 8,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2024,
+          "month": 2,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_花開く心技の剣",
@@ -26071,7 +26228,9 @@
   },
   {
     "id": "SID_アトラース＋",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_比翼フレイヤ"
+    ],
     "fodder": {
       "g4": 2,
       "hg": 2,
@@ -26082,14 +26241,18 @@
     },
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "ssp": 5
+    },
+    "flrfi": {
+      "ssp": 3
+    },
     "divine_codes": {}
   },
   {
@@ -26965,7 +27128,9 @@
   },
   {
     "id": "SID_機斧ロヴンヘイズ_一",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_オッテル味方"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -26980,10 +27145,14 @@
       "hg": false,
       "dc": false,
       "ldc": false,
-      "foc": false
+      "foc": true
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "foc": 5
+    },
+    "flrfi": {
+      "foc": 5
+    },
     "divine_codes": {}
   },
   {
@@ -27017,7 +27186,9 @@
   },
   {
     "id": "SID_インバースの暗闇_一",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_インバース"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -27029,13 +27200,17 @@
     "is_in": {
       "gsp": false,
       "ssp": false,
-      "hg": false,
+      "hg": true,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "hg": 3
+    },
+    "flrfi": {
+      "hg": 5
+    },
     "divine_codes": {}
   },
   {
@@ -27911,7 +28086,9 @@
   },
   {
     "id": "SID_瞬閃アイラの剣_軽",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_アイラ"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -27921,15 +28098,19 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "gsp": 4.5
+    },
+    "flrfi": {
+      "gsp": 5
+    },
     "divine_codes": {}
   },
   {
@@ -31200,7 +31381,9 @@
   },
   {
     "id": "SID_ベルカの殺斧_消",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_ベルカ"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -31210,15 +31393,19 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "gsp": 3
+    },
+    "flrfi": {
+      "gsp": 5
+    },
     "divine_codes": {}
   },
   {
@@ -36385,7 +36572,9 @@
   },
   {
     "id": "SID_花嫁の杖＋_神",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_花嫁ラナ"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -36397,18 +36586,24 @@
     "is_in": {
       "gsp": false,
       "ssp": false,
-      "hg": false,
+      "hg": true,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "hg": 4
+    },
+    "flrfi": {
+      "hg": 3
+    },
     "divine_codes": {}
   },
   {
     "id": "SID_花嫁の杖＋_幻",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_花嫁ラナ"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -36420,13 +36615,17 @@
     "is_in": {
       "gsp": false,
       "ssp": false,
-      "hg": false,
+      "hg": true,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "hg": 4
+    },
+    "flrfi": {
+      "hg": 3
+    },
     "divine_codes": {}
   },
   {
@@ -40525,7 +40724,9 @@
   },
   {
     "id": "SID_狼花嫁の牙_一",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_花嫁ニケ"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -40536,15 +40737,29 @@
     },
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
-      "dc": false,
+      "dc": true,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
-    "divine_codes": {}
+    "flrwo": {
+      "ssp": 4.5,
+      "dc": 5
+    },
+    "flrfi": {
+      "ssp": 5,
+      "dc": 5
+    },
+    "divine_codes": {
+      "normal": [
+        {
+          "number": 2,
+          "title": "Path of Radiance / Radiant Dawn",
+          "cost": 1200
+        }
+      ]
+    }
   },
   {
     "id": "SID_白き血の薙刀",
@@ -42118,7 +42333,9 @@
   },
   {
     "id": "SID_ビューレイスト_一",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_ヘルビンディ味方"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -42128,15 +42345,19 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "gsp": 4.5
+    },
+    "flrfi": {
+      "gsp": 5
+    },
     "divine_codes": {}
   },
   {
@@ -43204,7 +43425,9 @@
   },
   {
     "id": "SID_カミラの艶斧_紋",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_カミラ"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -43214,16 +43437,37 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
-    "divine_codes": {}
+    "flrwo": {
+      "gsp": 3,
+      "ldc": 4
+    },
+    "flrfi": {
+      "gsp": 5,
+      "ldc": 5
+    },
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2022,
+          "month": 1,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2022,
+          "month": 11,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_継戦の斧",
@@ -43765,7 +44009,9 @@
   },
   {
     "id": "SID_キャンドル＋_神",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_花嫁リン"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -43776,19 +44022,25 @@
     },
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "ssp": 4.5
+    },
+    "flrfi": {
+      "ssp": 3
+    },
     "divine_codes": {}
   },
   {
     "id": "SID_キャンドル＋_幻",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_花嫁リン"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -43799,14 +44051,18 @@
     },
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "ssp": 4.5
+    },
+    "flrfi": {
+      "ssp": 3
+    },
     "divine_codes": {}
   },
   {
@@ -44183,7 +44439,9 @@
   },
   {
     "id": "SID_枢機卿の書_一",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_アルファルド"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -44195,13 +44453,17 @@
     "is_in": {
       "gsp": false,
       "ssp": false,
-      "hg": false,
+      "hg": true,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "hg": 3
+    },
+    "flrfi": {
+      "hg": 5
+    },
     "divine_codes": {}
   },
   {
@@ -45173,7 +45435,9 @@
   },
   {
     "id": "SID_セルジュの恐斧_恐",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_セルジュ"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -45183,15 +45447,19 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "gsp": 3
+    },
+    "flrfi": {
+      "gsp": 5
+    },
     "divine_codes": {}
   },
   {
@@ -49598,7 +49866,9 @@
   },
   {
     "id": "SID_ティアモの愛槍_強",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_ティアモ"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -49608,15 +49878,19 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "gsp": 3
+    },
+    "flrfi": {
+      "gsp": 5
+    },
     "divine_codes": {}
   },
   {
@@ -50644,7 +50918,9 @@
   },
   {
     "id": "SID_放浪の賢者の書_一",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_イレース"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -50654,16 +50930,31 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
-    "divine_codes": {}
+    "flrwo": {
+      "gsp": 3,
+      "ldc": 4
+    },
+    "flrfi": {
+      "gsp": 5,
+      "ldc": 5
+    },
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2021,
+          "month": 6,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_開闢の鼓動",
@@ -61594,7 +61885,9 @@
   },
   {
     "id": "SID_聖王の軍師の剣_一",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_総選挙ルフレ男"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -61604,15 +61897,19 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "gsp": 5
+    },
+    "flrfi": {
+      "gsp": 5
+    },
     "divine_codes": {}
   },
   {
@@ -71493,7 +71790,9 @@
   },
   {
     "id": "SID_ヴェズルの妖卵_一",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_春祭エスト"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -71504,15 +71803,29 @@
     },
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
-      "dc": false,
+      "dc": true,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
-    "divine_codes": {}
+    "flrwo": {
+      "ssp": 4.5,
+      "dc": 5
+    },
+    "flrfi": {
+      "ssp": 5,
+      "dc": 5
+    },
+    "divine_codes": {
+      "normal": [
+        {
+          "number": 2,
+          "title": "Mystery of the Emblem / Echoes",
+          "cost": 1600
+        }
+      ]
+    }
   },
   {
     "id": "SID_黒鷲の愛の斧",
@@ -72028,7 +72341,9 @@
   },
   {
     "id": "SID_地槍ゲイボルグ_一",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_アルテナ"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -72038,16 +72353,37 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
-    "divine_codes": {}
+    "flrwo": {
+      "gsp": 3,
+      "ldc": 4
+    },
+    "flrfi": {
+      "gsp": 5,
+      "ldc": 5
+    },
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2021,
+          "month": 1,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2024,
+          "month": 8,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_大地静水の祝福",
@@ -72251,7 +72587,9 @@
   },
   {
     "id": "SID_黒斧ベルヴェルク_一",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_伝承マークス"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -72266,10 +72604,14 @@
       "hg": false,
       "dc": false,
       "ldc": false,
-      "foc": false
+      "foc": true
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "foc": 5
+    },
+    "flrfi": {
+      "foc": 5
+    },
     "divine_codes": {}
   },
   {
@@ -72492,7 +72834,9 @@
   },
   {
     "id": "SID_エルフィの大槍_無",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_エルフィ"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -72502,16 +72846,43 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
-    "divine_codes": {}
+    "flrwo": {
+      "gsp": 3,
+      "ldc": 4
+    },
+    "flrfi": {
+      "gsp": 5,
+      "ldc": 5
+    },
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2020,
+          "month": 4,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2023,
+          "month": 4,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 10,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_エルドフリムニル",
@@ -72555,7 +72926,9 @@
   },
   {
     "id": "SID_エルドフリムニル_一",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_行楽フェリシア"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -72566,15 +72939,30 @@
     },
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
-    "divine_codes": {}
+    "flrwo": {
+      "ssp": 4.5,
+      "ldc": 5
+    },
+    "flrfi": {
+      "ssp": 5,
+      "ldc": 5
+    },
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2022,
+          "month": 4,
+          "rarity": 5,
+          "cost": 300
+        }
+      ]
+    }
   },
   {
     "id": "SID_エルナの杖",
@@ -72607,7 +72995,9 @@
   },
   {
     "id": "SID_エルナの杖_恐",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_ミスト"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -72617,15 +73007,19 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "gsp": 4.5
+    },
+    "flrfi": {
+      "gsp": 5
+    },
     "divine_codes": {}
   },
   {
@@ -72851,7 +73245,9 @@
   },
   {
     "id": "SID_エリーゼの幼杖_周",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_エリーゼ"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -72861,15 +73257,19 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "gsp": 4.5
+    },
+    "flrfi": {
+      "gsp": 5
+    },
     "divine_codes": {}
   },
   {
@@ -78367,7 +78767,9 @@
   },
   {
     "id": "SID_父の戦術書_紋",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_マーク女"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -78377,16 +78779,31 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
-    "divine_codes": {}
+    "flrwo": {
+      "gsp": 4.5,
+      "ldc": 5
+    },
+    "flrfi": {
+      "gsp": 5,
+      "ldc": 5
+    },
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2021,
+          "month": 3,
+          "rarity": 5,
+          "cost": 300
+        }
+      ]
+    }
   },
   {
     "id": "SID_ガルシアの子の斧",
@@ -78442,7 +78859,9 @@
   },
   {
     "id": "SID_ガルシアの子の斧_一",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_ロス"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -78452,16 +78871,43 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
-    "divine_codes": {}
+    "flrwo": {
+      "gsp": 3,
+      "ldc": 4
+    },
+    "flrfi": {
+      "gsp": 5,
+      "ldc": 5
+    },
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2020,
+          "month": 12,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2022,
+          "month": 4,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2024,
+          "month": 10,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_フィアー",
@@ -78567,7 +79013,12 @@
   },
   {
     "id": "SID_フィアー＋_神",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_クラリーネ",
+      "PID_エメリナ",
+      "PID_エスリン",
+      "PID_サクラ"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -78577,20 +79028,48 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
-      "hg": false,
+      "hg": true,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
-    "divine_codes": {}
+    "flrwo": {
+      "gsp": 3,
+      "hg": 4,
+      "ldc": 4
+    },
+    "flrfi": {
+      "gsp": 3,
+      "hg": 3,
+      "ldc": 3
+    },
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2023,
+          "month": 5,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2021,
+          "month": 11,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_フィアー＋_幻",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_クラリーネ",
+      "PID_エメリナ",
+      "PID_エスリン",
+      "PID_サクラ"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -78600,16 +79079,39 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
-      "hg": false,
+      "hg": true,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
-    "divine_codes": {}
+    "flrwo": {
+      "gsp": 3,
+      "hg": 4,
+      "ldc": 4
+    },
+    "flrfi": {
+      "gsp": 3,
+      "hg": 3,
+      "ldc": 3
+    },
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2023,
+          "month": 5,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2021,
+          "month": 11,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_フェザーソード",
@@ -78717,7 +79219,9 @@
   },
   {
     "id": "SID_フェリシアの氷皿_奥",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_フェリシア"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -78727,16 +79231,37 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
-    "divine_codes": {}
+    "flrwo": {
+      "gsp": 3,
+      "ldc": 4
+    },
+    "flrfi": {
+      "gsp": 5,
+      "ldc": 5
+    },
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2021,
+          "month": 10,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2022,
+          "month": 9,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_邪竜破",
@@ -83109,7 +83634,9 @@
   },
   {
     "id": "SID_フラッシュ＋_神",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_夢ミコト"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -83119,20 +83646,26 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "gsp": 4.5
+    },
+    "flrfi": {
+      "gsp": 3
+    },
     "divine_codes": {}
   },
   {
     "id": "SID_フラッシュ＋_幻",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_夢ミコト"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -83142,15 +83675,19 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "gsp": 4.5
+    },
+    "flrfi": {
+      "gsp": 3
+    },
     "divine_codes": {}
   },
   {
@@ -84297,7 +84834,9 @@
   },
   {
     "id": "SID_フロリーナの誓槍_構",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_フロリーナ"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -84307,15 +84846,19 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "gsp": 3
+    },
+    "flrfi": {
+      "gsp": 5
+    },
     "divine_codes": {}
   },
   {
@@ -85873,7 +86416,9 @@
   },
   {
     "id": "SID_フォルクヴァング_相",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_アルフォンス"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -87871,7 +88416,9 @@
   },
   {
     "id": "SID_フレデリクの堅斧_一",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_フレデリク"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -87881,15 +88428,19 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "gsp": 3
+    },
+    "flrfi": {
+      "gsp": 5
+    },
     "divine_codes": {}
   },
   {
@@ -87923,7 +88474,9 @@
   },
   {
     "id": "SID_義勇軍の正剣_一",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_エーヴェル"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -87933,15 +88486,19 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "gsp": 4.5
+    },
+    "flrfi": {
+      "gsp": 5
+    },
     "divine_codes": {}
   },
   {
@@ -88676,7 +89233,9 @@
   },
   {
     "id": "SID_イズンの果実_一",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_水着ターナ"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -88687,14 +89246,18 @@
     },
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "ssp": 4.5
+    },
+    "flrfi": {
+      "ssp": 5
+    },
     "divine_codes": {}
   },
   {
@@ -90697,7 +91260,9 @@
   },
   {
     "id": "SID_ゲイボルグ_騎",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_キュアン"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -90707,16 +91272,31 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
-    "divine_codes": {}
+    "flrwo": {
+      "gsp": 4.5,
+      "ldc": 5
+    },
+    "flrfi": {
+      "gsp": 5,
+      "ldc": 5
+    },
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2020,
+          "month": 9,
+          "rarity": 5,
+          "cost": 300
+        }
+      ]
+    }
   },
   {
     "id": "SID_有利状態の弓",
@@ -91408,7 +91988,9 @@
   },
   {
     "id": "SID_ゲイルスケグル_周",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_総選挙ルキナ"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -91418,15 +92000,19 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "gsp": 4.5
+    },
+    "flrfi": {
+      "gsp": 5
+    },
     "divine_codes": {}
   },
   {
@@ -92551,7 +93137,9 @@
   },
   {
     "id": "SID_ギャッラルブルー_一",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_花嫁フィヨルム"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -92562,15 +93150,29 @@
     },
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
-      "dc": false,
+      "dc": true,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
-    "divine_codes": {}
+    "flrwo": {
+      "ssp": 4.5,
+      "dc": 5
+    },
+    "flrfi": {
+      "ssp": 5,
+      "dc": 5
+    },
+    "divine_codes": {
+      "normal": [
+        {
+          "number": 2,
+          "title": "Heroes / Awakening / Fates",
+          "cost": 800
+        }
+      ]
+    }
   },
   {
     "id": "SID_ギョッル",
@@ -92603,7 +93205,9 @@
   },
   {
     "id": "SID_ギョッル_一",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_フリーズ"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -92618,10 +93222,14 @@
       "hg": false,
       "dc": false,
       "ldc": false,
-      "foc": false
+      "foc": true
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "foc": 5
+    },
+    "flrfi": {
+      "foc": 5
+    },
     "divine_codes": {}
   },
   {
@@ -92871,7 +93479,9 @@
   },
   {
     "id": "SID_剣闘士の剛剣_絆",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_オグマ"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -92881,16 +93491,31 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
-    "divine_codes": {}
+    "flrwo": {
+      "gsp": 3,
+      "ldc": 4
+    },
+    "flrfi": {
+      "gsp": 5,
+      "ldc": 5
+    },
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2024,
+          "month": 11,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_猛き闘技者の弓",
@@ -95325,7 +95950,9 @@
   },
   {
     "id": "SID_孫の手＋_神",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_温泉サクラ"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -95336,19 +95963,36 @@
     },
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
-    "divine_codes": {}
+    "flrwo": {
+      "ssp": 4.5,
+      "ldc": 5
+    },
+    "flrfi": {
+      "ssp": 3,
+      "ldc": 3
+    },
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2022,
+          "month": 1,
+          "rarity": 5,
+          "cost": 300
+        }
+      ]
+    }
   },
   {
     "id": "SID_孫の手＋_幻",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_温泉サクラ"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -95359,15 +96003,30 @@
     },
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
-    "divine_codes": {}
+    "flrwo": {
+      "ssp": 4.5,
+      "ldc": 5
+    },
+    "flrfi": {
+      "ssp": 3,
+      "ldc": 3
+    },
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2022,
+          "month": 1,
+          "rarity": 5,
+          "cost": 300
+        }
+      ]
+    }
   },
   {
     "id": "SID_グラニの盾",
@@ -95571,7 +96230,13 @@
   },
   {
     "id": "SID_グラビティ＋_神",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_エリーゼ",
+      "PID_ジェニー",
+      "PID_レナ",
+      "PID_リズ",
+      "PID_メルセデス"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -95581,20 +96246,53 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
-    "divine_codes": {}
+    "flrwo": {
+      "gsp": 3,
+      "ldc": 4
+    },
+    "flrfi": {
+      "gsp": 3,
+      "ldc": 3
+    },
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2021,
+          "month": 5,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2020,
+          "month": 5,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2021,
+          "month": 10,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_グラビティ＋_幻",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_エリーゼ",
+      "PID_ジェニー",
+      "PID_レナ",
+      "PID_リズ",
+      "PID_メルセデス"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -95604,16 +96302,43 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
-    "divine_codes": {}
+    "flrwo": {
+      "gsp": 3,
+      "ldc": 4
+    },
+    "flrfi": {
+      "gsp": 3,
+      "ldc": 3
+    },
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2021,
+          "month": 5,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2020,
+          "month": 5,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2021,
+          "month": 10,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_鈍色の迷夢",
@@ -96227,7 +96952,9 @@
   },
   {
     "id": "SID_魔書ギムレー_弱",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_マーク男"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -96237,16 +96964,37 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
-    "divine_codes": {}
+    "flrwo": {
+      "gsp": 3,
+      "ldc": 4
+    },
+    "flrfi": {
+      "gsp": 5,
+      "ldc": 5
+    },
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2022,
+          "month": 2,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2023,
+          "month": 11,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_禁書ギムレー",
@@ -98629,7 +99377,9 @@
   },
   {
     "id": "SID_守護者の巨斧_凪",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_ホークアイ"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -98639,16 +99389,31 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
-    "divine_codes": {}
+    "flrwo": {
+      "gsp": 3,
+      "ldc": 4
+    },
+    "flrfi": {
+      "gsp": 5,
+      "ldc": 5
+    },
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2025,
+          "month": 5,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_守護者の烈弓",
@@ -98681,7 +99446,9 @@
   },
   {
     "id": "SID_守護者の烈弓_一",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_イグレーヌ"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -98691,15 +99458,19 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "gsp": 4.5
+    },
+    "flrfi": {
+      "gsp": 5
+    },
     "divine_codes": {}
   },
   {
@@ -99702,7 +100473,9 @@
   },
   {
     "id": "SID_カザハナの麗刀_一",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_カザハナ"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -99712,15 +100485,19 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "gsp": 3
+    },
+    "flrfi": {
+      "gsp": 5
+    },
     "divine_codes": {}
   },
   {
@@ -102136,7 +102913,9 @@
   },
   {
     "id": "SID_死鎌ヘル_一",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_ヘル味方"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -102151,10 +102930,14 @@
       "hg": false,
       "dc": false,
       "ldc": false,
-      "foc": false
+      "foc": true
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "foc": 5
+    },
+    "flrfi": {
+      "foc": 5
+    },
     "divine_codes": {}
   },
   {
@@ -102444,7 +103227,9 @@
   },
   {
     "id": "SID_山の隠者の書_梟",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_レイ"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -102454,16 +103239,31 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
-    "divine_codes": {}
+    "flrwo": {
+      "gsp": 3,
+      "ldc": 4
+    },
+    "flrfi": {
+      "gsp": 5,
+      "ldc": 5
+    },
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2025,
+          "month": 6,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_英雄王の剣",
@@ -103116,7 +103916,9 @@
   },
   {
     "id": "SID_ヒナタの猛刀_獅",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_ヒナタ"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -103126,16 +103928,49 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
-    "divine_codes": {}
+    "flrwo": {
+      "gsp": 3,
+      "ldc": 4
+    },
+    "flrfi": {
+      "gsp": 5,
+      "ldc": 5
+    },
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2020,
+          "month": 4,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2020,
+          "month": 10,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2021,
+          "month": 4,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2022,
+          "month": 4,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_ヒノカの紅薙刀",
@@ -103168,7 +104003,9 @@
   },
   {
     "id": "SID_ヒノカの紅薙刀_先",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_ヒノカ"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -103178,15 +104015,19 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "gsp": 4.5
+    },
+    "flrfi": {
+      "gsp": 5
+    },
     "divine_codes": {}
   },
   {
@@ -103285,7 +104126,9 @@
   },
   {
     "id": "SID_フリズスキャルヴ_紋",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_総選挙ヴェロニカ"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -103295,15 +104138,19 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "gsp": 4.5
+    },
+    "flrfi": {
+      "gsp": 5
+    },
     "divine_codes": {}
   },
   {
@@ -106379,7 +107226,9 @@
   },
   {
     "id": "SID_フリムファクシ_一",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_ノート味方"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -106394,10 +107243,14 @@
       "hg": false,
       "dc": false,
       "ldc": false,
-      "foc": false
+      "foc": true
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "foc": 5
+    },
+    "flrfi": {
+      "foc": 5
+    },
     "divine_codes": {}
   },
   {
@@ -106567,7 +107420,9 @@
   },
   {
     "id": "SID_フギンの魔卵_軽",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_春祭カチュア"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -106578,14 +107433,18 @@
     },
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "ssp": 4.5
+    },
+    "flrfi": {
+      "ssp": 5
+    },
     "divine_codes": {}
   },
   {
@@ -107145,7 +108004,9 @@
   },
   {
     "id": "SID_マクベスの惑書_一",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_マクベス"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -107157,13 +108018,17 @@
     "is_in": {
       "gsp": false,
       "ssp": false,
-      "hg": false,
+      "hg": true,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "hg": 3
+    },
+    "flrfi": {
+      "hg": 5
+    },
     "divine_codes": {}
   },
   {
@@ -108160,7 +109025,9 @@
   },
   {
     "id": "SID_イーヴィングル_一",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_スラシル味方"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -108175,10 +109042,14 @@
       "hg": false,
       "dc": false,
       "ldc": false,
-      "foc": false
+      "foc": true
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "foc": 5
+    },
+    "flrfi": {
+      "foc": 5
+    },
     "divine_codes": {}
   },
   {
@@ -109430,7 +110301,9 @@
   },
   {
     "id": "SID_インキュアブル＋_神",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_サウル"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -109440,20 +110313,37 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
-    "divine_codes": {}
+    "flrwo": {
+      "gsp": 3,
+      "ldc": 4
+    },
+    "flrfi": {
+      "gsp": 3,
+      "ldc": 3
+    },
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2024,
+          "month": 5,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_インキュアブル＋_幻",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_サウル"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -109463,16 +110353,31 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
-    "divine_codes": {}
+    "flrwo": {
+      "gsp": 3,
+      "ldc": 4
+    },
+    "flrfi": {
+      "gsp": 3,
+      "ldc": 3
+    },
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2024,
+          "month": 5,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_義憤の強弓",
@@ -111526,7 +112431,9 @@
   },
   {
     "id": "SID_アイリスの書_波",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_ニノ"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -111536,16 +112443,31 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
-    "divine_codes": {}
+    "flrwo": {
+      "gsp": 3,
+      "ldc": 4
+    },
+    "flrfi": {
+      "gsp": 5,
+      "ldc": 5
+    },
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2021,
+          "month": 6,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_鉄の斧",
@@ -115123,7 +116045,9 @@
   },
   {
     "id": "SID_ジョーカーの食器_強",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_ジョーカー"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -115133,15 +116057,19 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "gsp": 3
+    },
+    "flrfi": {
+      "gsp": 5
+    },
     "divine_codes": {}
   },
   {
@@ -116079,7 +117007,9 @@
   },
   {
     "id": "SID_ランタンの杖＋_神",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_冬祭エイリーク"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -116090,19 +117020,36 @@
     },
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
-    "divine_codes": {}
+    "flrwo": {
+      "ssp": 4.5,
+      "ldc": 5
+    },
+    "flrfi": {
+      "ssp": 3,
+      "ldc": 3
+    },
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2021,
+          "month": 12,
+          "rarity": 5,
+          "cost": 300
+        }
+      ]
+    }
   },
   {
     "id": "SID_ランタンの杖＋_幻",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_冬祭エイリーク"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -116113,15 +117060,30 @@
     },
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
-    "divine_codes": {}
+    "flrwo": {
+      "ssp": 4.5,
+      "ldc": 5
+    },
+    "flrfi": {
+      "ssp": 3,
+      "ldc": 3
+    },
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2021,
+          "month": 12,
+          "rarity": 5,
+          "cost": 300
+        }
+      ]
+    }
   },
   {
     "id": "SID_幸福の良書",
@@ -116713,7 +117675,9 @@
   },
   {
     "id": "SID_カゲロウの眩惑針_軽",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_カゲロウ"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -116723,16 +117687,43 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
-    "divine_codes": {}
+    "flrwo": {
+      "gsp": 3,
+      "ldc": 4
+    },
+    "flrfi": {
+      "gsp": 5,
+      "ldc": 5
+    },
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2020,
+          "month": 10,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2023,
+          "month": 1,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2024,
+          "month": 1,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_スズカゼの疾風針",
@@ -116776,7 +117767,9 @@
   },
   {
     "id": "SID_スズカゼの疾風針_一",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_スズカゼ"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -116786,16 +117779,31 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
-    "divine_codes": {}
+    "flrwo": {
+      "gsp": 3,
+      "ldc": 4
+    },
+    "flrfi": {
+      "gsp": 5,
+      "ldc": 5
+    },
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2020,
+          "month": 6,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_ブラーウルフ2",
@@ -116955,7 +117963,9 @@
   },
   {
     "id": "SID_グルンウルフ2＋_無",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_シャラ"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -116965,15 +117975,19 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "gsp": 4.5
+    },
+    "flrfi": {
+      "gsp": 3
+    },
     "divine_codes": {}
   },
   {
@@ -118468,7 +119482,9 @@
   },
   {
     "id": "SID_熊手＋_神",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_年明レーヴァテイン"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -118479,19 +119495,36 @@
     },
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
-    "divine_codes": {}
+    "flrwo": {
+      "ssp": 4.5,
+      "ldc": 5
+    },
+    "flrfi": {
+      "ssp": 3,
+      "ldc": 3
+    },
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2020,
+          "month": 12,
+          "rarity": 5,
+          "cost": 300
+        }
+      ]
+    }
   },
   {
     "id": "SID_熊手＋_幻",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_年明レーヴァテイン"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -118502,15 +119535,30 @@
     },
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
-    "divine_codes": {}
+    "flrwo": {
+      "ssp": 4.5,
+      "ldc": 5
+    },
+    "flrfi": {
+      "ssp": 3,
+      "ldc": 3
+    },
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2020,
+          "month": 12,
+          "rarity": 5,
+          "cost": 300
+        }
+      ]
+    }
   },
   {
     "id": "SID_白夜忍の薙刀",
@@ -119930,7 +120978,9 @@
   },
   {
     "id": "SID_ラクチェの流剣_一",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_ラクチェ"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -119940,15 +120990,19 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "gsp": 4.5
+    },
+    "flrfi": {
+      "gsp": 5
+    },
     "divine_codes": {}
   },
   {
@@ -120045,7 +121099,9 @@
   },
   {
     "id": "SID_ラズワルドの舞剣_連",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_ラズワルド"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -120055,16 +121111,43 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
-    "divine_codes": {}
+    "flrwo": {
+      "gsp": 3,
+      "ldc": 4
+    },
+    "flrfi": {
+      "gsp": 5,
+      "ldc": 5
+    },
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2020,
+          "month": 8,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2022,
+          "month": 11,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2023,
+          "month": 11,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_サカの掟",
@@ -123457,7 +124540,9 @@
   },
   {
     "id": "SID_ルーン_一",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_イングリット"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -123467,15 +124552,19 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "gsp": 4.5
+    },
+    "flrfi": {
+      "gsp": 5
+    },
     "divine_codes": {}
   },
   {
@@ -125535,7 +126624,9 @@
   },
   {
     "id": "SID_リュングヘイズ_一",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_レギン"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -125550,10 +126641,14 @@
       "hg": false,
       "dc": false,
       "ldc": false,
-      "foc": false
+      "foc": true
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "foc": 5
+    },
+    "flrfi": {
+      "foc": 5
+    },
     "divine_codes": {}
   },
   {
@@ -126233,7 +127328,9 @@
   },
   {
     "id": "SID_マリータの剣_一",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_マリータ"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -126243,15 +127340,19 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "gsp": 4.5
+    },
+    "flrfi": {
+      "gsp": 5
+    },
     "divine_codes": {}
   },
   {
@@ -126904,7 +128005,9 @@
   },
   {
     "id": "SID_メランコリー＋_神",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_シルク"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -126914,20 +128017,26 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "gsp": 4.5
+    },
+    "flrfi": {
+      "gsp": 3
+    },
     "divine_codes": {}
   },
   {
     "id": "SID_メランコリー＋_幻",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_シルク"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -126937,15 +128046,19 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "gsp": 4.5
+    },
+    "flrfi": {
+      "gsp": 3
+    },
     "divine_codes": {}
   },
   {
@@ -128889,7 +130002,9 @@
   },
   {
     "id": "SID_トールハンマー_無",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_イシュタル"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -128899,16 +130014,31 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
-    "divine_codes": {}
+    "flrwo": {
+      "gsp": 4.5,
+      "ldc": 5
+    },
+    "flrfi": {
+      "gsp": 5,
+      "ldc": 5
+    },
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2021,
+          "month": 5,
+          "rarity": 5,
+          "cost": 300
+        }
+      ]
+    }
   },
   {
     "id": "SID_メグスラシル",
@@ -130218,7 +131348,9 @@
   },
   {
     "id": "SID_ムニンの魔卵_回",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_春祭シャロン"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -130229,14 +131361,18 @@
     },
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "ssp": 4.5
+    },
+    "flrfi": {
+      "ssp": 5
+    },
     "divine_codes": {}
   },
   {
@@ -130309,7 +131445,9 @@
   },
   {
     "id": "SID_ムスペルの炎花_一",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_花嫁サーリャ"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -130320,14 +131458,18 @@
     },
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "ssp": 4.5
+    },
+    "flrfi": {
+      "ssp": 5
+    },
     "divine_codes": {}
   },
   {
@@ -133358,7 +134500,9 @@
   },
   {
     "id": "SID_ゼロの虐弓_柔",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_ゼロ"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -133368,15 +134512,19 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "gsp": 3
+    },
+    "flrfi": {
+      "gsp": 5
+    },
     "divine_codes": {}
   },
   {
@@ -133455,7 +134603,9 @@
   },
   {
     "id": "SID_氷精ニニスの槍_一",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_総選挙エリウッド"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -133465,15 +134615,19 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "gsp": 4.5
+    },
+    "flrfi": {
+      "gsp": 5
+    },
     "divine_codes": {}
   },
   {
@@ -133932,7 +135086,9 @@
   },
   {
     "id": "SID_ニーウ_見",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_レーギャルン味方"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -133942,15 +135098,19 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "gsp": 4.5
+    },
+    "flrfi": {
+      "gsp": 5
+    },
     "divine_codes": {}
   },
   {
@@ -134083,7 +135243,9 @@
   },
   {
     "id": "SID_ノーアトゥーン_従",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_アンナ"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -135508,7 +136670,9 @@
   },
   {
     "id": "SID_オボロの漆薙刀_防",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_オボロ"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -135518,16 +136682,31 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
-    "divine_codes": {}
+    "flrwo": {
+      "gsp": 3,
+      "ldc": 4
+    },
+    "flrfi": {
+      "gsp": 5,
+      "ldc": 5
+    },
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2025,
+          "month": 2,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_オヴスキュリテ",
@@ -135640,7 +136819,9 @@
   },
   {
     "id": "SID_立会人の杖＋_神",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_立会人サウル"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -135651,19 +136832,36 @@
     },
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
-    "divine_codes": {}
+    "flrwo": {
+      "ssp": 4.5,
+      "ldc": 5
+    },
+    "flrfi": {
+      "ssp": 3,
+      "ldc": 3
+    },
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2024,
+          "month": 5,
+          "rarity": 5,
+          "cost": 300
+        }
+      ]
+    }
   },
   {
     "id": "SID_立会人の杖＋_幻",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_立会人サウル"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -135674,15 +136872,30 @@
     },
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
-    "divine_codes": {}
+    "flrwo": {
+      "ssp": 4.5,
+      "ldc": 5
+    },
+    "flrfi": {
+      "ssp": 3,
+      "ldc": 3
+    },
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2024,
+          "month": 5,
+          "rarity": 5,
+          "cost": 300
+        }
+      ]
+    }
   },
   {
     "id": "SID_執着",
@@ -137811,7 +139024,9 @@
   },
   {
     "id": "SID_オーディンの黒書_連",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_オーディン"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -137821,16 +139036,55 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
-    "divine_codes": {}
+    "flrwo": {
+      "gsp": 3,
+      "ldc": 4
+    },
+    "flrfi": {
+      "gsp": 5,
+      "ldc": 5
+    },
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2020,
+          "month": 7,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2021,
+          "month": 2,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2022,
+          "month": 12,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2023,
+          "month": 12,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 7,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_創世の文字の力",
@@ -138076,7 +139330,9 @@
   },
   {
     "id": "SID_神託のブレス_一",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_ンン"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -138086,15 +139342,19 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "gsp": 4.5
+    },
+    "flrfi": {
+      "gsp": 5
+    },
     "divine_codes": {}
   },
   {
@@ -138186,7 +139446,9 @@
   },
   {
     "id": "SID_正の裁き_一",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_神階アスタルテ"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -138201,10 +139463,14 @@
       "hg": false,
       "dc": false,
       "ldc": false,
-      "foc": false
+      "foc": true
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "foc": 5
+    },
+    "flrfi": {
+      "foc": 5
+    },
     "divine_codes": {}
   },
   {
@@ -138558,7 +139824,9 @@
   },
   {
     "id": "SID_卵の杖＋_神",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_春祭ブルーノ"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -138569,19 +139837,35 @@
     },
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
-      "dc": false,
+      "dc": true,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
-    "divine_codes": {}
+    "flrwo": {
+      "ssp": 4.5,
+      "dc": 5
+    },
+    "flrfi": {
+      "ssp": 3,
+      "dc": 3
+    },
+    "divine_codes": {
+      "normal": [
+        {
+          "number": 1,
+          "title": "Heroes",
+          "cost": 1200
+        }
+      ]
+    }
   },
   {
     "id": "SID_卵の杖＋_幻",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_春祭ブルーノ"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -138592,15 +139876,29 @@
     },
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
-      "dc": false,
+      "dc": true,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
-    "divine_codes": {}
+    "flrwo": {
+      "ssp": 4.5,
+      "dc": 5
+    },
+    "flrfi": {
+      "ssp": 3,
+      "dc": 3
+    },
+    "divine_codes": {
+      "normal": [
+        {
+          "number": 1,
+          "title": "Heroes",
+          "cost": 1200
+        }
+      ]
+    }
   },
   {
     "id": "SID_四狗頭領の魔書",
@@ -138809,7 +140107,11 @@
   },
   {
     "id": "SID_ペイン＋_神",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_アサマ",
+      "PID_リンハルト",
+      "PID_ルセア"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -138819,20 +140121,45 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
-    "divine_codes": {}
+    "flrwo": {
+      "gsp": 3,
+      "ldc": 4
+    },
+    "flrfi": {
+      "gsp": 3,
+      "ldc": 3
+    },
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2021,
+          "month": 12,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2023,
+          "month": 4,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_ペイン＋_幻",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_アサマ",
+      "PID_リンハルト",
+      "PID_ルセア"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -138842,16 +140169,37 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
-    "divine_codes": {}
+    "flrwo": {
+      "gsp": 3,
+      "ldc": 4
+    },
+    "flrfi": {
+      "gsp": 3,
+      "ldc": 3
+    },
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2021,
+          "month": 12,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2023,
+          "month": 4,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_防陣1",
@@ -139109,7 +140457,9 @@
   },
   {
     "id": "SID_ヤシの木の杖＋_神",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_水着キルロイ"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -139121,18 +140471,24 @@
     "is_in": {
       "gsp": false,
       "ssp": false,
-      "hg": false,
+      "hg": true,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "hg": 4
+    },
+    "flrfi": {
+      "hg": 3
+    },
     "divine_codes": {}
   },
   {
     "id": "SID_ヤシの木の杖＋_幻",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_水着キルロイ"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -139144,13 +140500,17 @@
     "is_in": {
       "gsp": false,
       "ssp": false,
-      "hg": false,
+      "hg": true,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "hg": 4
+    },
+    "flrfi": {
+      "hg": 3
+    },
     "divine_codes": {}
   },
   {
@@ -139757,7 +141117,12 @@
   },
   {
     "id": "SID_パニック＋_神",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_エレミヤ",
+      "PID_フォレオ",
+      "PID_マリア",
+      "PID_プリシラ"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -139767,20 +141132,54 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
-      "hg": false,
+      "hg": true,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
-    "divine_codes": {}
+    "flrwo": {
+      "gsp": 3,
+      "hg": 3,
+      "ldc": 4
+    },
+    "flrfi": {
+      "gsp": 3,
+      "hg": 3,
+      "ldc": 3
+    },
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2021,
+          "month": 3,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2022,
+          "month": 2,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 4,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_パニック＋_幻",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_エレミヤ",
+      "PID_フォレオ",
+      "PID_マリア",
+      "PID_プリシラ"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -139790,16 +141189,45 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
-      "hg": false,
+      "hg": true,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
-    "divine_codes": {}
+    "flrwo": {
+      "gsp": 3,
+      "hg": 3,
+      "ldc": 4
+    },
+    "flrfi": {
+      "gsp": 3,
+      "hg": 3,
+      "ldc": 3
+    },
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2021,
+          "month": 3,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2022,
+          "month": 2,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 4,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_黒豹の槍",
@@ -141187,7 +142615,9 @@
   },
   {
     "id": "SID_ピエリの小槍_殺",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_ピエリ"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -141197,15 +142627,19 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "gsp": 3
+    },
+    "flrfi": {
+      "gsp": 5
+    },
     "divine_codes": {}
   },
   {
@@ -143239,7 +144673,9 @@
   },
   {
     "id": "SID_ポールアクス＋_無",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_ジェローム"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -143251,13 +144687,17 @@
     "is_in": {
       "gsp": false,
       "ssp": false,
-      "hg": false,
+      "hg": true,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "hg": 4
+    },
+    "flrfi": {
+      "hg": 3
+    },
     "divine_codes": {}
   },
   {
@@ -145184,7 +146624,9 @@
   },
   {
     "id": "SID_見習い魔道士の書_一",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_ユアン"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -145194,16 +146636,31 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
-    "divine_codes": {}
+    "flrwo": {
+      "gsp": 4.5,
+      "ldc": 5
+    },
+    "flrfi": {
+      "gsp": 5,
+      "ldc": 5
+    },
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2022,
+          "month": 11,
+          "rarity": 5,
+          "cost": 300
+        }
+      ]
+    }
   },
   {
     "id": "SID_正真無惨",
@@ -147559,7 +149016,10 @@
   },
   {
     "id": "SID_ラグネル＆エタルド_一",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_双界オルティナ",
+      "PID_神階オルティナ"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -147570,14 +149030,20 @@
     },
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
       "ldc": false,
-      "foc": false
+      "foc": true
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "ssp": 4.5,
+      "foc": 5
+    },
+    "flrfi": {
+      "ssp": 5,
+      "foc": 5
+    },
     "divine_codes": {}
   },
   {
@@ -149607,7 +151073,9 @@
   },
   {
     "id": "SID_ランドグリーズ_一",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_伝承クロム"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -149622,10 +151090,14 @@
       "hg": false,
       "dc": false,
       "ldc": false,
-      "foc": false
+      "foc": true
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "foc": 5
+    },
+    "flrfi": {
+      "foc": 5
+    },
     "divine_codes": {}
   },
   {
@@ -149771,7 +151243,9 @@
   },
   {
     "id": "SID_友情の花の杖＋_神",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_愛の祭シルク"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -149783,18 +151257,24 @@
     "is_in": {
       "gsp": false,
       "ssp": false,
-      "hg": false,
+      "hg": true,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "hg": 4
+    },
+    "flrfi": {
+      "hg": 3
+    },
     "divine_codes": {}
   },
   {
     "id": "SID_友情の花の杖＋_幻",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_愛の祭シルク"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -149806,13 +151286,17 @@
     "is_in": {
       "gsp": false,
       "ssp": false,
-      "hg": false,
+      "hg": true,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "hg": 4
+    },
+    "flrfi": {
+      "hg": 3
+    },
     "divine_codes": {}
   },
   {
@@ -151199,7 +152683,9 @@
   },
   {
     "id": "SID_レベッカの猟弓_強",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_レベッカ"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -151209,15 +152695,19 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "gsp": 3
+    },
+    "flrfi": {
+      "gsp": 5
+    },
     "divine_codes": {}
   },
   {
@@ -151381,7 +152871,9 @@
   },
   {
     "id": "SID_隠遁者の書_一",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_リュート"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -151391,16 +152883,31 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
-    "divine_codes": {}
+    "flrwo": {
+      "gsp": 3,
+      "ldc": 4
+    },
+    "flrfi": {
+      "gsp": 5,
+      "ldc": 5
+    },
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2022,
+          "month": 4,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_ヒール",
@@ -152062,7 +153569,9 @@
   },
   {
     "id": "SID_カタリナの書_謀",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_カタリナ"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -152072,15 +153581,19 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "gsp": 4.5
+    },
+    "flrfi": {
+      "gsp": 5
+    },
     "divine_codes": {}
   },
   {
@@ -156282,7 +157795,10 @@
   },
   {
     "id": "SID_サンクチュアリ＋_神",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_ニーナ",
+      "PID_パンドロ"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -156292,20 +157808,44 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
-    "divine_codes": {}
+    "flrwo": {
+      "gsp": 3,
+      "ldc": 4
+    },
+    "flrfi": {
+      "gsp": 3,
+      "ldc": 3
+    },
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2023,
+          "month": 9,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 8,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_サンクチュアリ＋_幻",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_ニーナ",
+      "PID_パンドロ"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -156315,16 +157855,37 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
-    "divine_codes": {}
+    "flrwo": {
+      "gsp": 3,
+      "ldc": 4
+    },
+    "flrfi": {
+      "gsp": 3,
+      "ldc": 3
+    },
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2023,
+          "month": 9,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 8,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_レスト",
@@ -156554,7 +158115,9 @@
   },
   {
     "id": "SID_参謀役の書_一",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_ヒューベルト"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -156564,16 +158127,31 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
-    "divine_codes": {}
+    "flrwo": {
+      "gsp": 4.5,
+      "ldc": 5
+    },
+    "flrfi": {
+      "gsp": 5,
+      "ldc": 5
+    },
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2021,
+          "month": 8,
+          "rarity": 5,
+          "cost": 300
+        }
+      ]
+    }
   },
   {
     "id": "SID_雪辱",
@@ -157521,7 +159099,10 @@
   },
   {
     "id": "SID_ホースキラー＋_無",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_ヒース",
+      "PID_マチルダ"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -157531,16 +159112,33 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
-      "hg": false,
+      "hg": true,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
-    "divine_codes": {}
+    "flrwo": {
+      "gsp": 3,
+      "hg": 3,
+      "ldc": 4
+    },
+    "flrfi": {
+      "gsp": 3,
+      "hg": 3,
+      "ldc": 3
+    },
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2021,
+          "month": 9,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_強く気高き魂の槍",
@@ -157722,7 +159320,9 @@
   },
   {
     "id": "SID_リンカの鬼金棒_一",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_リンカ"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -157732,15 +159332,19 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "gsp": 4.5
+    },
+    "flrfi": {
+      "gsp": 5
+    },
     "divine_codes": {}
   },
   {
@@ -160787,10 +162391,14 @@
       "hg": false,
       "dc": false,
       "ldc": false,
-      "foc": false
+      "foc": true
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "foc": 5
+    },
+    "flrfi": {
+      "foc": 5
+    },
     "divine_codes": {}
   },
   {
@@ -163479,7 +165087,9 @@
   },
   {
     "id": "SID_サイゾウの爆炎針_強",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_サイゾウ"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -163489,16 +165099,31 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
-    "divine_codes": {}
+    "flrwo": {
+      "gsp": 3,
+      "ldc": 4
+    },
+    "flrfi": {
+      "gsp": 5,
+      "ldc": 5
+    },
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2023,
+          "month": 2,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_七難即滅",
@@ -163756,7 +165381,9 @@
   },
   {
     "id": "SID_サングリズル_一",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_総選挙カミラ"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -163766,15 +165393,19 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "gsp": 4.5
+    },
+    "flrfi": {
+      "gsp": 5
+    },
     "divine_codes": {}
   },
   {
@@ -164404,7 +166035,9 @@
   },
   {
     "id": "SID_セーフリムニル_一",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_行楽フローラ"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -164415,14 +166048,18 @@
     },
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "ssp": 4.5
+    },
+    "flrfi": {
+      "ssp": 5
+    },
     "divine_codes": {}
   },
   {
@@ -166878,7 +168515,9 @@
   },
   {
     "id": "SID_海辺の日傘＋_神",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_水着ラーチェル"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -166889,19 +168528,25 @@
     },
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "ssp": 4
+    },
+    "flrfi": {
+      "ssp": 3
+    },
     "divine_codes": {}
   },
   {
     "id": "SID_海辺の日傘＋_幻",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_水着ラーチェル"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -166912,19 +168557,25 @@
     },
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "ssp": 4
+    },
+    "flrfi": {
+      "ssp": 3
+    },
     "divine_codes": {}
   },
   {
     "id": "SID_セイズ",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_セイズ"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -166939,10 +168590,14 @@
       "hg": false,
       "dc": false,
       "ldc": false,
-      "foc": false
+      "foc": true
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "foc": 5
+    },
+    "flrfi": {
+      "foc": 5
+    },
     "divine_codes": {}
   },
   {
@@ -167101,7 +168756,9 @@
   },
   {
     "id": "SID_ルーナの鋭剣_奥",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_ルーナ"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -167111,16 +168768,55 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
-    "divine_codes": {}
+    "flrwo": {
+      "gsp": 3,
+      "ldc": 4
+    },
+    "flrfi": {
+      "gsp": 5,
+      "ldc": 5
+    },
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2020,
+          "month": 5,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2021,
+          "month": 5,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2022,
+          "month": 3,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2023,
+          "month": 5,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2024,
+          "month": 9,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_自己研鑽",
@@ -167347,7 +169043,9 @@
   },
   {
     "id": "SID_蛇の杖＋_神",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_ハタリチェイニー"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -167358,19 +169056,35 @@
     },
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
-      "dc": false,
+      "dc": true,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
-    "divine_codes": {}
+    "flrwo": {
+      "ssp": 4,
+      "dc": 5
+    },
+    "flrfi": {
+      "ssp": 3,
+      "dc": 3
+    },
+    "divine_codes": {
+      "normal": [
+        {
+          "number": 4,
+          "title": "Heroes / Mystery / Echoes",
+          "cost": 400
+        }
+      ]
+    }
   },
   {
     "id": "SID_蛇の杖＋_幻",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_ハタリチェイニー"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -167381,15 +169095,29 @@
     },
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
-      "dc": false,
+      "dc": true,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
-    "divine_codes": {}
+    "flrwo": {
+      "ssp": 4,
+      "dc": 5
+    },
+    "flrfi": {
+      "ssp": 3,
+      "dc": 3
+    },
+    "divine_codes": {
+      "normal": [
+        {
+          "number": 4,
+          "title": "Heroes / Mystery / Echoes",
+          "cost": 400
+        }
+      ]
+    }
   },
   {
     "id": "SID_給仕のナイフ",
@@ -167509,7 +169237,9 @@
   },
   {
     "id": "SID_セツナの緩弓_無",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_セツナ"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -167519,16 +169249,49 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
-    "divine_codes": {}
+    "flrwo": {
+      "gsp": 3,
+      "ldc": 4
+    },
+    "flrfi": {
+      "gsp": 5,
+      "ldc": 5
+    },
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2020,
+          "month": 9,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2022,
+          "month": 10,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2023,
+          "month": 10,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 5,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_皆への七つの贈り物",
@@ -168313,7 +170076,9 @@
   },
   {
     "id": "SID_シャニーの誓槍_奥",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_シャニー"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -168323,16 +170088,43 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
-    "divine_codes": {}
+    "flrwo": {
+      "gsp": 3,
+      "ldc": 4
+    },
+    "flrfi": {
+      "gsp": 5,
+      "ldc": 5
+    },
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2020,
+          "month": 3,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2021,
+          "month": 3,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2022,
+          "month": 3,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_戦神の鋭剣",
@@ -168590,10 +170382,14 @@
       "hg": false,
       "dc": false,
       "ldc": false,
-      "foc": false
+      "foc": true
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "foc": 5
+    },
+    "flrfi": {
+      "foc": 5
+    },
     "divine_codes": {}
   },
   {
@@ -172934,7 +174730,11 @@
   },
   {
     "id": "SID_貫きの槍2＋_無",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_総選挙エイリーク",
+      "PID_比翼エフラム",
+      "PID_サイラス"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -172944,16 +174744,55 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
-    "divine_codes": {}
+    "flrwo": {
+      "gsp": 3,
+      "ldc": 4
+    },
+    "flrfi": {
+      "gsp": 3,
+      "ldc": 3
+    },
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2020,
+          "month": 7,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2021,
+          "month": 7,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2022,
+          "month": 7,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2023,
+          "month": 9,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 1,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_正面隊形・自己1",
@@ -173283,7 +175122,11 @@
   },
   {
     "id": "SID_スロウ＋_神",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_ブレディ",
+      "PID_ミスト",
+      "PID_リフ"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -173293,20 +175136,45 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
-    "divine_codes": {}
+    "flrwo": {
+      "gsp": 3,
+      "ldc": 4
+    },
+    "flrfi": {
+      "gsp": 3,
+      "ldc": 3
+    },
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2020,
+          "month": 11,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2024,
+          "month": 10,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_スロウ＋_幻",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_ブレディ",
+      "PID_ミスト",
+      "PID_リフ"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -173316,16 +175184,37 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
-    "divine_codes": {}
+    "flrwo": {
+      "gsp": 3,
+      "ldc": 4
+    },
+    "flrfi": {
+      "gsp": 3,
+      "ldc": 3
+    },
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2020,
+          "month": 11,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2024,
+          "month": 10,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_響・掩撃",
@@ -174173,7 +176062,9 @@
   },
   {
     "id": "SID_狙撃手の弓_抑",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_クライネ"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -174185,13 +176076,17 @@
     "is_in": {
       "gsp": false,
       "ssp": false,
-      "hg": false,
+      "hg": true,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "hg": 3
+    },
+    "flrfi": {
+      "hg": 5
+    },
     "divine_codes": {}
   },
   {
@@ -174283,7 +176178,9 @@
   },
   {
     "id": "SID_神祖の恵み_一",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_冬祭ソティス"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -174294,14 +176191,18 @@
     },
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "ssp": 4.5
+    },
+    "flrfi": {
+      "ssp": 5
+    },
     "divine_codes": {}
   },
   {
@@ -174471,7 +176372,9 @@
   },
   {
     "id": "SID_セクヴァベク_一",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_リーヴ味方"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -174486,10 +176389,14 @@
       "hg": false,
       "dc": false,
       "ldc": false,
-      "foc": false
+      "foc": true
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "foc": 5
+    },
+    "flrfi": {
+      "foc": 5
+    },
     "divine_codes": {}
   },
   {
@@ -174855,7 +176762,9 @@
   },
   {
     "id": "SID_ソレイユの陽剣_一",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_ソレイユ"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -174865,16 +176774,49 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
-    "divine_codes": {}
+    "flrwo": {
+      "gsp": 3,
+      "ldc": 4
+    },
+    "flrfi": {
+      "gsp": 5,
+      "ldc": 5
+    },
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2020,
+          "month": 3,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2021,
+          "month": 7,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2022,
+          "month": 7,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2023,
+          "month": 8,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_荘厳なる祝福の聖斧",
@@ -188484,7 +190426,9 @@
   },
   {
     "id": "SID_密偵の暗器_撃",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_マシュー"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -188494,16 +190438,31 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
-    "divine_codes": {}
+    "flrwo": {
+      "gsp": 3,
+      "ldc": 4
+    },
+    "flrfi": {
+      "gsp": 5,
+      "ldc": 5
+    },
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2025,
+          "month": 1,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_密偵忍者の手裏剣",
@@ -188868,7 +190827,9 @@
   },
   {
     "id": "SID_感謝の花の杖＋_神",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_愛の祭リズ"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -188880,18 +190841,35 @@
     "is_in": {
       "gsp": false,
       "ssp": false,
-      "hg": false,
+      "hg": true,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
-    "divine_codes": {}
+    "flrwo": {
+      "hg": 4,
+      "ldc": 4
+    },
+    "flrfi": {
+      "hg": 3,
+      "ldc": 3
+    },
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2022,
+          "month": 8,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_感謝の花の杖＋_幻",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_愛の祭リズ"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -188903,14 +190881,29 @@
     "is_in": {
       "gsp": false,
       "ssp": false,
-      "hg": false,
+      "hg": true,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
-    "divine_codes": {}
+    "flrwo": {
+      "hg": 4,
+      "ldc": 4
+    },
+    "flrfi": {
+      "hg": 3,
+      "ldc": 3
+    },
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2022,
+          "month": 8,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_聖祭の杖",
@@ -188994,7 +190987,9 @@
   },
   {
     "id": "SID_聖祭の杖＋_神",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_聖祭ナンナ"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -189006,18 +191001,35 @@
     "is_in": {
       "gsp": false,
       "ssp": false,
-      "hg": false,
+      "hg": true,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
-    "divine_codes": {}
+    "flrwo": {
+      "hg": 4,
+      "ldc": 4
+    },
+    "flrfi": {
+      "hg": 3,
+      "ldc": 3
+    },
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2022,
+          "month": 3,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_聖祭の杖＋_幻",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_聖祭ナンナ"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -189029,14 +191041,29 @@
     "is_in": {
       "gsp": false,
       "ssp": false,
-      "hg": false,
+      "hg": true,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
-    "divine_codes": {}
+    "flrwo": {
+      "hg": 4,
+      "ldc": 4
+    },
+    "flrfi": {
+      "hg": 3,
+      "ldc": 3
+    },
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2022,
+          "month": 3,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_ユングヴィの聖杖",
@@ -196160,7 +198187,9 @@
   },
   {
     "id": "SID_真夏のブレス_一",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_水着チキ"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -196171,14 +198200,18 @@
     },
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "ssp": 4.5
+    },
+    "flrfi": {
+      "ssp": 5
+    },
     "divine_codes": {}
   },
   {
@@ -196421,7 +198454,9 @@
   },
   {
     "id": "SID_盛夏の神宝_一",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_比翼ベレス"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -196432,14 +198467,18 @@
     },
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "ssp": 4.5
+    },
+    "flrfi": {
+      "ssp": 5
+    },
     "divine_codes": {}
   },
   {
@@ -196633,7 +198672,9 @@
   },
   {
     "id": "SID_サンライト＋_神",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_ユミナ"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -196643,20 +198684,37 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
-    "divine_codes": {}
+    "flrwo": {
+      "gsp": 3,
+      "ldc": 4
+    },
+    "flrfi": {
+      "gsp": 3,
+      "ldc": 3
+    },
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2025,
+          "month": 4,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_サンライト＋_幻",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_ユミナ"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -196666,16 +198724,31 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
-    "divine_codes": {}
+    "flrwo": {
+      "gsp": 3,
+      "ldc": 4
+    },
+    "flrfi": {
+      "gsp": 3,
+      "ldc": 3
+    },
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2025,
+          "month": 4,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_華日の腕輪・護",
@@ -199091,10 +201164,14 @@
       "hg": false,
       "dc": false,
       "ldc": false,
-      "foc": false
+      "foc": true
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "foc": 5
+    },
+    "flrfi": {
+      "foc": 5
+    },
     "divine_codes": {}
   },
   {
@@ -200115,7 +202192,9 @@
   },
   {
     "id": "SID_聖樹の杖＋_神",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_冬祭セフェラン"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -200126,19 +202205,35 @@
     },
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
-      "dc": false,
+      "dc": true,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
-    "divine_codes": {}
+    "flrwo": {
+      "ssp": 4.5,
+      "dc": 5
+    },
+    "flrfi": {
+      "ssp": 3,
+      "dc": 3
+    },
+    "divine_codes": {
+      "normal": [
+        {
+          "number": 3,
+          "title": "Path of Radiance / Radiant Dawn",
+          "cost": 1200
+        }
+      ]
+    }
   },
   {
     "id": "SID_聖樹の杖＋_幻",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_冬祭セフェラン"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -200149,15 +202244,29 @@
     },
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
-      "dc": false,
+      "dc": true,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
-    "divine_codes": {}
+    "flrwo": {
+      "ssp": 4.5,
+      "dc": 5
+    },
+    "flrfi": {
+      "ssp": 3,
+      "dc": 3
+    },
+    "divine_codes": {
+      "normal": [
+        {
+          "number": 3,
+          "title": "Path of Radiance / Radiant Dawn",
+          "cost": 1200
+        }
+      ]
+    }
   },
   {
     "id": "SID_小さな聖樹",
@@ -200836,7 +202945,9 @@
   },
   {
     "id": "SID_黒疾風の爪斧_一",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_ハール"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -200848,13 +202959,17 @@
     "is_in": {
       "gsp": false,
       "ssp": false,
-      "hg": false,
+      "hg": true,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "hg": 3
+    },
+    "flrfi": {
+      "hg": 5
+    },
     "divine_codes": {}
   },
   {
@@ -201072,7 +203187,9 @@
   },
   {
     "id": "SID_サーリャの禁呪_呪",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_サーリャ"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -201082,15 +203199,19 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "gsp": 3
+    },
+    "flrfi": {
+      "gsp": 5
+    },
     "divine_codes": {}
   },
   {
@@ -201230,7 +203351,9 @@
   },
   {
     "id": "SID_円環の力_一",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_総選挙グルヴェイグ"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -201240,15 +203363,19 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "gsp": 5
+    },
+    "flrfi": {
+      "gsp": 5
+    },
     "divine_codes": {}
   },
   {
@@ -201270,10 +203397,14 @@
       "hg": false,
       "dc": false,
       "ldc": false,
-      "foc": false
+      "foc": true
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "foc": 5
+    },
+    "flrfi": {
+      "foc": 5
+    },
     "divine_codes": {}
   },
   {
@@ -201462,7 +203593,9 @@
   },
   {
     "id": "SID_辺境の盗賊の暗器_一",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_ジュリアン"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -201472,15 +203605,19 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "gsp": 4.5
+    },
+    "flrfi": {
+      "gsp": 5
+    },
     "divine_codes": {}
   },
   {
@@ -201514,7 +203651,9 @@
   },
   {
     "id": "SID_ソグン_一",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_伝承ルキナ"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -201529,10 +203668,14 @@
       "hg": false,
       "dc": false,
       "ldc": false,
-      "foc": false
+      "foc": true
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "foc": 5
+    },
+    "flrfi": {
+      "foc": 5
+    },
     "divine_codes": {}
   },
   {
@@ -201566,7 +203709,9 @@
   },
   {
     "id": "SID_セック_一",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_ロキ味方"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -201576,15 +203721,19 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "gsp": 4.5
+    },
+    "flrfi": {
+      "gsp": 5
+    },
     "divine_codes": {}
   },
   {
@@ -201782,7 +203931,40 @@
   },
   {
     "id": "SID_トロン＋",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_ブルーニャ",
+      "PID_ブルーノ味方",
+      "PID_カダインベレト",
+      "PID_怪盗キャス",
+      "PID_春祭カチュア",
+      "PID_デューテ",
+      "PID_春祭デューテ",
+      "PID_催眠デューテ",
+      "PID_春祭エスト",
+      "PID_ハピ",
+      "PID_比翼ハピ",
+      "PID_開花イシュタル",
+      "PID_イシュタル",
+      "PID_響心アイビー",
+      "PID_砂漠カタリナ",
+      "PID_リンダ",
+      "PID_ルーテ",
+      "PID_幼少リオン",
+      "PID_マリアンヌ",
+      "PID_春祭ルピナス",
+      "PID_魔器ヌイババ",
+      "PID_オルエン",
+      "PID_魔器プルメリア味方",
+      "PID_年明レギン",
+      "PID_魔器ラインハルト",
+      "PID_ラインハルト",
+      "PID_比翼ルフレ女",
+      "PID_セライナ",
+      "PID_魔器セネリオ",
+      "PID_比翼トール",
+      "PID_闇ウルスラ",
+      "PID_神階ヴェイル"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -201792,16 +203974,95 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
-      "ssp": false,
-      "hg": false,
-      "dc": false,
-      "ldc": false,
-      "foc": false
+      "gsp": true,
+      "ssp": true,
+      "hg": true,
+      "dc": true,
+      "ldc": true,
+      "foc": true
     },
-    "flrwo": {},
-    "flrfi": {},
-    "divine_codes": {}
+    "flrwo": {
+      "gsp": 3,
+      "ssp": 4,
+      "hg": 3,
+      "dc": 5,
+      "ldc": 4,
+      "foc": 5
+    },
+    "flrfi": {
+      "gsp": 3,
+      "ssp": 3,
+      "hg": 3,
+      "dc": 3,
+      "ldc": 3,
+      "foc": 3
+    },
+    "divine_codes": {
+      "normal": [
+        {
+          "number": 2,
+          "title": "Mystery of the Emblem / Echoes",
+          "cost": 1600
+        },
+        {
+          "number": 3,
+          "title": "Heroes / Mystery / Shadows",
+          "cost": 800
+        },
+        {
+          "number": 4,
+          "title": "Genealogy / Thracia 776",
+          "cost": 1600
+        },
+        {
+          "number": 4,
+          "title": "Heroes / Mystery / Echoes",
+          "cost": 1600
+        },
+        {
+          "number": 5,
+          "title": "Genealogy / Thracia 776",
+          "cost": 2000
+        },
+        {
+          "number": 6,
+          "title": "Heroes / Genealogy / Thracia 776",
+          "cost": 400
+        }
+      ],
+      "limited": [
+        {
+          "year": 2020,
+          "month": 11,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2024,
+          "month": 8,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
+          "year": 2023,
+          "month": 9,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
+          "year": 2021,
+          "month": 5,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
+          "year": 2024,
+          "month": 8,
+          "rarity": 5,
+          "cost": 300
+        }
+      ]
+    }
   },
   {
     "id": "SID_トラキアの王槍",
@@ -205355,7 +207616,9 @@
   },
   {
     "id": "SID_マシュマロの杖＋_神",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_行楽ジェニー"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -205366,19 +207629,35 @@
     },
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
-      "dc": false,
+      "dc": true,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
-    "divine_codes": {}
+    "flrwo": {
+      "ssp": 4.5,
+      "dc": 5
+    },
+    "flrfi": {
+      "ssp": 3,
+      "dc": 3
+    },
+    "divine_codes": {
+      "normal": [
+        {
+          "number": 1,
+          "title": "Mystery / Shadows",
+          "cost": 1200
+        }
+      ]
+    }
   },
   {
     "id": "SID_マシュマロの杖＋_幻",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_行楽ジェニー"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -205389,15 +207668,29 @@
     },
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
-      "dc": false,
+      "dc": true,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
-    "divine_codes": {}
+    "flrwo": {
+      "ssp": 4.5,
+      "dc": 5
+    },
+    "flrfi": {
+      "ssp": 3,
+      "dc": 3
+    },
+    "divine_codes": {
+      "normal": [
+        {
+          "number": 1,
+          "title": "Mystery / Shadows",
+          "cost": 1200
+        }
+      ]
+    }
   },
   {
     "id": "SID_トマトの本",
@@ -207052,7 +209345,10 @@
   },
   {
     "id": "SID_トリレンマ＋_神",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_エリス",
+      "PID_マリアベル"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -207062,20 +209358,38 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
-    "divine_codes": {}
+    "flrwo": {
+      "gsp": 3,
+      "ldc": 4
+    },
+    "flrfi": {
+      "gsp": 3,
+      "ldc": 3
+    },
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2023,
+          "month": 10,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_トリレンマ＋_幻",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_エリス",
+      "PID_マリアベル"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -207085,16 +209399,31 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
-    "divine_codes": {}
+    "flrwo": {
+      "gsp": 3,
+      "ldc": 4
+    },
+    "flrfi": {
+      "gsp": 3,
+      "ldc": 3
+    },
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2023,
+          "month": 10,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_南国のホラ貝",
@@ -208977,7 +211306,9 @@
   },
   {
     "id": "SID_バルボの勇槍_一",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_バルボ"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -208987,16 +211318,31 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
-    "divine_codes": {}
+    "flrwo": {
+      "gsp": 3,
+      "ldc": 4
+    },
+    "flrfi": {
+      "gsp": 5,
+      "ldc": 5
+    },
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2021,
+          "month": 8,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "SID_ファラフレイム",
@@ -209595,7 +211941,9 @@
   },
   {
     "id": "SID_剣姫の刀_見",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_カアラ"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -209605,15 +211953,19 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "gsp": 4.5
+    },
+    "flrfi": {
+      "gsp": 5
+    },
     "divine_codes": {}
   },
   {
@@ -209687,7 +212039,9 @@
   },
   {
     "id": "SID_フェルニルの妖卵_一",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_春祭ヴェロニカ"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -209698,15 +212052,30 @@
     },
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
-    "divine_codes": {}
+    "flrwo": {
+      "ssp": 4.5,
+      "ldc": 5
+    },
+    "flrfi": {
+      "ssp": 5,
+      "ldc": 5
+    },
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2022,
+          "month": 3,
+          "rarity": 5,
+          "cost": 300
+        }
+      ]
+    }
   },
   {
     "id": "SID_始祖の炎翼",
@@ -212015,7 +214384,9 @@
   },
   {
     "id": "SID_神槌ミョルニル_一",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_トール味方"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -212030,10 +214401,14 @@
       "hg": false,
       "dc": false,
       "ldc": false,
-      "foc": false
+      "foc": true
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "foc": 5
+    },
+    "flrfi": {
+      "foc": 5
+    },
     "divine_codes": {}
   },
   {
@@ -212811,7 +215186,9 @@
   },
   {
     "id": "SID_軍神の書_撃",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_サイアス"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -212823,13 +215200,17 @@
     "is_in": {
       "gsp": false,
       "ssp": false,
-      "hg": false,
+      "hg": true,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "hg": 3
+    },
+    "flrfi": {
+      "hg": 5
+    },
     "divine_codes": {}
   },
   {
@@ -216074,7 +218455,9 @@
   },
   {
     "id": "SID_深き印の風_梟",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_セネリオ"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -216084,15 +218467,19 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "gsp": 3
+    },
+    "flrfi": {
+      "gsp": 5
+    },
     "divine_codes": {}
   },
   {
@@ -217456,7 +219843,9 @@
   },
   {
     "id": "SID_キャンディの杖＋_神",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_ハロワユ"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -217467,19 +219856,25 @@
     },
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "ssp": 4.5
+    },
+    "flrfi": {
+      "ssp": 3
+    },
     "divine_codes": {}
   },
   {
     "id": "SID_キャンディの杖＋_幻",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_ハロワユ"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -217490,14 +219885,18 @@
     },
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "ssp": 4.5
+    },
+    "flrfi": {
+      "ssp": 3
+    },
     "divine_codes": {}
   },
   {
@@ -219882,7 +222281,9 @@
   },
   {
     "id": "SID_斬馬刀＋_無",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_グレイ"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -219892,15 +222293,19 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "gsp": 4.5
+    },
+    "flrfi": {
+      "gsp": 3
+    },
     "divine_codes": {}
   },
   {
@@ -219992,7 +222397,9 @@
   },
   {
     "id": "SID_シャールヴィ_一",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_比翼リーヴ"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -220003,14 +222410,18 @@
     },
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "ssp": 4.5
+    },
+    "flrfi": {
+      "ssp": 5
+    },
     "divine_codes": {}
   }
 ]
