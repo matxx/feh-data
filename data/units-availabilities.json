@@ -3686,6 +3686,34 @@
     }
   },
   {
+    "id": "PID_ボーレ",
+    "is_in": {
+      "gsp": true,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {
+      "gsp": 3
+    },
+    "skill_ids": [
+      "SID_体当たり",
+      "SID_攻撃の波・偶数1",
+      "SID_攻撃の波・偶数2",
+      "SID_攻撃の波・偶数3",
+      "SID_攻撃速さの連携1",
+      "SID_攻撃速さの連携2",
+      "SID_攻撃速さの連携3",
+      "SID_継戦の斧",
+      "SID_継戦の斧＋",
+      "SID_鉄の斧",
+      "SID_鋼の斧"
+    ],
+    "divine_codes": {}
+  },
+  {
     "id": "PID_ブレディ",
     "is_in": {
       "gsp": true,
@@ -11175,6 +11203,34 @@
     }
   },
   {
+    "id": "PID_比翼エリンシア",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {},
+    "skill_ids": [
+      "SID_クリミアの絆",
+      "SID_乳姉妹の絆の剣",
+      "SID_回避・拍節1",
+      "SID_回避・拍節2",
+      "SID_回避・拍節3",
+      "SID_引き寄せ",
+      "SID_引き寄せ・歩法",
+      "SID_真回避・見切り反撃",
+      "SID_遠反・有利増幅",
+      "SID_遠距離反撃",
+      "SID_鉄の剣",
+      "SID_銀の剣",
+      "SID_鋼の剣"
+    ],
+    "divine_codes": {}
+  },
+  {
     "id": "PID_エリンシア",
     "is_in": {
       "gsp": true,
@@ -14622,6 +14678,7 @@
       "ssp": 5
     },
     "skill_ids": [
+      "SID_アトラース",
       "SID_エルロック",
       "SID_ロック",
       "SID_始まりの鼓動1",
@@ -15757,6 +15814,35 @@
       "SID_氷華",
       "SID_鬼神明鏡の一撃1",
       "SID_鬼神明鏡の一撃2"
+    ],
+    "divine_codes": {}
+  },
+  {
+    "id": "PID_グローメル",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": true,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {
+      "hg": 3
+    },
+    "skill_ids": [
+      "SID_ボルトアクス",
+      "SID_怒涛・不屈1",
+      "SID_怒涛・不屈2",
+      "SID_怒涛・不屈3",
+      "SID_攻撃守備の大覚醒1",
+      "SID_攻撃守備の大覚醒2",
+      "SID_攻撃守備の大覚醒3",
+      "SID_華炎",
+      "SID_蛍火",
+      "SID_鉄の斧",
+      "SID_銀の斧",
+      "SID_鋼の斧"
     ],
     "divine_codes": {}
   },
@@ -20427,6 +20513,7 @@
     "skill_ids": [
       "SID_ウインド",
       "SID_エルウインド",
+      "SID_ナーガ",
       "SID_レクスカリバー",
       "SID_伏竜",
       "SID_生の息吹1",
@@ -39427,6 +39514,39 @@
     "divine_codes": {}
   },
   {
+    "id": "PID_シャロン22025味方",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "lowest_rarity": {
+      "foc": 5
+    },
+    "skill_ids": [
+      "SID_あなたとのつながり",
+      "SID_伏竜",
+      "SID_強襲・助走",
+      "SID_怒涛・再起1",
+      "SID_怒涛・再起2",
+      "SID_怒涛・再起3",
+      "SID_攻撃速さの激突1",
+      "SID_攻撃速さの激突2",
+      "SID_攻撃速さの激突3",
+      "SID_攻撃速さの突破",
+      "SID_竜穿",
+      "SID_角逐",
+      "SID_鉄の槍",
+      "SID_銀の槍",
+      "SID_鋼の槍",
+      "SID_開神の加護宿す刃"
+    ],
+    "divine_codes": {}
+  },
+  {
     "id": "PID_総選挙シャロン",
     "is_in": {
       "gsp": true,
@@ -40985,6 +41105,39 @@
     }
   },
   {
+    "id": "PID_魔器セネリオ",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "lowest_rarity": {
+      "foc": 5
+    },
+    "skill_ids": [
+      "SID_エルサンダー",
+      "SID_サンダー",
+      "SID_トロン",
+      "SID_初撃の鼓動・謀策",
+      "SID_始まりの鼓動1",
+      "SID_始まりの鼓動2",
+      "SID_始まりの鼓動3",
+      "SID_攻撃魔防の大混乱",
+      "SID_氷壁",
+      "SID_氷点",
+      "SID_氷華",
+      "SID_研鑽重ねし魔道の力",
+      "SID_魔器レクスボルト",
+      "SID_魔防の混乱1",
+      "SID_魔防の混乱2",
+      "SID_魔防の混乱3"
+    ],
+    "divine_codes": {}
+  },
+  {
     "id": "PID_総選挙セネリオ",
     "is_in": {
       "gsp": true,
@@ -41379,6 +41532,36 @@
         }
       ]
     }
+  },
+  {
+    "id": "PID_ソーンバルケ",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {},
+    "skill_ids": [
+      "SID_ヴァーグ・カティ",
+      "SID_凶星",
+      "SID_回避・一撃離脱1",
+      "SID_回避・一撃離脱2",
+      "SID_回避・一撃離脱3",
+      "SID_星影",
+      "SID_真回避・一撃離脱",
+      "SID_迅雷風烈・偶数1",
+      "SID_迅雷風烈・偶数2",
+      "SID_迅雷風烈・偶数3",
+      "SID_迅雷風烈・鬼没",
+      "SID_鉄の剣",
+      "SID_銀の剣",
+      "SID_鋼の剣",
+      "SID_陣風"
+    ],
+    "divine_codes": {}
   },
   {
     "id": "PID_ツバキ",

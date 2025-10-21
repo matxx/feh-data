@@ -1289,6 +1289,7 @@
   },
   {
     "id": "SID_攻速鼓譟・呼吸",
+    "game8_id": "556376",
     "name": "A/S Bellow",
     "group_name": "A/S Bellow",
     "category": "passivec",
@@ -2425,8 +2426,11 @@
         "can_use": [
           "Red Sword"
         ]
-      }
     }
+    },
+    "addition_date": "2021-02-16",
+    "release_date": "2021-02-16",
+    "version": "5.2"
   },
   {
     "id": "SID_空からの猛襲4",
@@ -2939,8 +2943,11 @@
         "can_use": [
           "Blue Lance"
         ]
-      }
     }
+    },
+    "addition_date": "2020-02-17",
+    "release_date": "2020-02-17",
+    "version": "4.2"
   },
   {
     "id": "SID_攻撃守備の奮進4",
@@ -3319,8 +3326,11 @@
         "can_use": [
           "Red Sword"
         ]
-      }
     }
+    },
+    "addition_date": "2017-09-15",
+    "release_date": "2017-09-23",
+    "version": "1.7"
   },
   {
     "id": "SID_あの世行きよ…",
@@ -3393,8 +3403,11 @@
         "can_use": [
           "Red Sword"
         ]
-      }
     }
+    },
+    "addition_date": "2020-06-05",
+    "release_date": "2020-06-05",
+    "version": "4.6"
   },
   {
     "id": "SID_アミーテ",
@@ -3446,8 +3459,11 @@
         "can_use": [
           "Red Sword"
         ]
-      }
     }
+    },
+    "addition_date": "2017-09-15",
+    "release_date": "2017-09-15",
+    "version": "1.7"
   },
   {
     "id": "SID_共感の花",
@@ -3642,8 +3658,11 @@
         "can_use": [
           "Red Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2018-06-08",
+    "release_date": "2018-06-16",
+    "version": "2.6"
   },
   {
     "id": "SID_古の神竜王のブレス",
@@ -3812,8 +3831,11 @@
         "can_use": [
           "Blue Lance"
         ]
-      }
     }
+    },
+    "addition_date": "2020-06-05",
+    "release_date": "2020-06-05",
+    "version": "4.6"
   },
   {
     "id": "SID_良成長の弓",
@@ -5300,6 +5322,34 @@
     ]
   },
   {
+    "id": "SID_魔器レクスボルト",
+    "game8_id": "558464",
+    "name": "Arcane Rexbolt",
+    "group_name": "Arcane Rexbolt",
+    "category": "weapon",
+    "weapon_type": "Blue Tome",
+    "is_prf": false,
+    "sp": 300,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Blue Tome"
+        ]
+      }
+    },
+    "addition_date": "2025-10-17",
+    "release_date": "2025-10-17",
+    "version": "9.10",
+    "downgrade_ids": [
+      "SID_トロン",
+      "SID_シャイン"
+    ]
+  },
+  {
     "id": "SID_魔器・姿なき影刃",
     "game8_id": "488052",
     "name": "Arcane Sly Knife",
@@ -5510,8 +5560,11 @@
         "can_use": [
           "Green Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2023-08-16",
+    "release_date": "2023-08-16",
+    "version": "7.8"
   },
   {
     "id": "SID_角逐",
@@ -5642,8 +5695,11 @@
         "can_use": [
           "Red Sword"
         ]
-      }
     }
+    },
+    "addition_date": "2019-06-28",
+    "release_date": "2019-06-28",
+    "version": "3.6"
   },
   {
     "id": "SID_献身",
@@ -5780,8 +5836,11 @@
         "can_use": [
           "Blue Lance"
         ]
-      }
     }
+    },
+    "addition_date": "2020-10-30",
+    "release_date": "2020-10-30",
+    "version": "4.10"
   },
   {
     "id": "SID_闘技の斧",
@@ -5982,8 +6041,11 @@
         "can_use": [
           "All Bow"
         ]
-      }
     }
+    },
+    "addition_date": "2017-02-27",
+    "release_date": "2017-02-27",
+    "version": "1.0"
   },
   {
     "id": "SID_アルマーズ",
@@ -6827,6 +6889,33 @@
     ]
   },
   {
+    "id": "SID_開神の加護宿す刃",
+    "game8_id": "558461",
+    "name": "Ásjá of Askr",
+    "group_name": "Ásjá of Askr",
+    "category": "weapon",
+    "weapon_type": "Blue Lance",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Blue Lance"
+        ]
+      }
+    },
+    "addition_date": "2025-10-06",
+    "release_date": "2025-10-17",
+    "version": "9.10",
+    "downgrade_ids": [
+      "SID_銀の槍"
+    ]
+  },
+  {
     "id": "SID_暗器殺しの弓",
     "game8_id": "265432",
     "name": "Assassin's Bow",
@@ -7061,6 +7150,36 @@
     "version": "9.1",
     "downgrade_ids": [
       "SID_怒涛・不屈3"
+    ]
+  },
+  {
+    "id": "SID_強襲・助走",
+    "name": "Assault Impetus",
+    "group_name": "Assault Impetus",
+    "category": "passiveb",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/4c/Assault_Impetus.png/revision/latest?cb=20251017062642",
+    "is_prf": false,
+    "sp": 300,
+    "tier": 4,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Cavalry",
+          "Flying"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "All Melee"
+        ]
+      }
+    },
+    "addition_date": "2025-10-06",
+    "release_date": "2025-10-17",
+    "version": "9.10",
+    "downgrade_ids": [
+      "SID_怒涛・再起3"
     ]
   },
   {
@@ -7299,8 +7418,11 @@
         "can_use": [
           "Red Sword"
         ]
-      }
     }
+    },
+    "addition_date": "2019-10-21",
+    "release_date": "2019-10-21",
+    "version": "3.10"
   },
   {
     "id": "SID_流星群",
@@ -7379,8 +7501,11 @@
         "can_use": [
           "All Breath"
         ]
-      }
     }
+    },
+    "addition_date": "2020-04-07",
+    "release_date": "2020-04-08",
+    "version": "4.4"
   },
   {
     "id": "SID_アスラの双刃",
@@ -7460,8 +7585,11 @@
         "can_use": [
           "All Dagger"
         ]
-      }
     }
+    },
+    "addition_date": "2019-07-21",
+    "release_date": "2019-08-03",
+    "version": "3.7"
   },
   {
     "id": "SID_攻撃の魅了1",
@@ -14903,8 +15031,11 @@
         "can_use": [
           "Red Sword"
         ]
-      }
     }
+    },
+    "addition_date": "2017-11-15",
+    "release_date": "2017-11-21",
+    "version": "1.8"
   },
   {
     "id": "SID_オーラ",
@@ -14956,8 +15087,11 @@
         "can_use": [
           "Blue Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2017-02-02",
+    "release_date": "2017-02-02",
+    "version": "1.0"
   },
   {
     "id": "SID_アーリアル",
@@ -15016,8 +15150,11 @@
         "can_use": [
           "Blue Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2020-11-17",
+    "release_date": "2020-11-17",
+    "version": "4.11"
   },
   {
     "id": "SID_アウルゲルミル",
@@ -15096,8 +15233,11 @@
         "can_use": [
           "All Breath"
         ]
-      }
     }
+    },
+    "addition_date": "2021-01-28",
+    "release_date": "2021-01-28",
+    "version": "5.1"
   },
   {
     "id": "SID_機斧ロヴンヘイズ",
@@ -15397,8 +15537,11 @@
         "can_use": [
           "Green Axe"
         ]
-      }
     }
+    },
+    "addition_date": "2021-05-06",
+    "release_date": "2021-05-07",
+    "version": "5.5"
   },
   {
     "id": "SID_愛の祭の斧",
@@ -15539,8 +15682,11 @@
         "can_use": [
           "Green Axe"
         ]
-      }
     }
+    },
+    "addition_date": "2017-02-02",
+    "release_date": "2017-02-02",
+    "version": "1.0"
   },
   {
     "id": "SID_斧の技量1",
@@ -15766,8 +15912,11 @@
         "can_use": [
           "Green Axe"
         ]
-      }
     }
+    },
+    "addition_date": "2020-04-30",
+    "release_date": "2020-04-30",
+    "version": "4.4"
   },
   {
     "id": "SID_瞬閃アイラの剣",
@@ -15868,8 +16017,11 @@
         "can_use": [
           "Blue Lance"
         ]
-      }
     }
+    },
+    "addition_date": "2018-04-24",
+    "release_date": "2018-04-24",
+    "version": "2.4"
   },
   {
     "id": "SID_碧き風空の剣",
@@ -16641,8 +16793,11 @@
         "can_use": [
           "Red Sword"
         ]
-      }
     }
+    },
+    "addition_date": "2020-01-08",
+    "release_date": "2020-01-09",
+    "version": "4.1"
   },
   {
     "id": "SID_瞬殺",
@@ -17057,8 +17212,11 @@
         "can_use": [
           "Green Axe"
         ]
-      }
     }
+    },
+    "addition_date": "2017-02-02",
+    "release_date": "2017-02-02",
+    "version": "1.0"
   },
   {
     "id": "SID_戦神の闇夜の杖",
@@ -18128,8 +18286,11 @@
         "can_use": [
           "Red Sword"
         ]
-      }
     }
+    },
+    "addition_date": "2018-02-22",
+    "release_date": "2018-02-22",
+    "version": "2.2"
   },
   {
     "id": "SID_ベオクの加護",
@@ -18204,8 +18365,11 @@
         "can_use": [
           "Blue Lance"
         ]
-      }
     }
+    },
+    "addition_date": "2021-05-06",
+    "release_date": "2021-05-08",
+    "version": "5.5"
   },
   {
     "id": "SID_ベルクトの槍",
@@ -18337,8 +18501,11 @@
         "can_use": [
           "Green Axe"
         ]
-      }
     }
+    },
+    "addition_date": "2018-02-09",
+    "release_date": "2018-02-09",
+    "version": "2.2"
   },
   {
     "id": "SID_ベルセルクの斧",
@@ -18664,8 +18831,11 @@
         "can_use": [
           "Red Sword"
         ]
-      }
     }
+    },
+    "addition_date": "2017-02-02",
+    "release_date": "2017-02-02",
+    "version": "1.0"
   },
   {
     "id": "SID_束縛の首飾り",
@@ -18775,8 +18945,11 @@
         "can_use": [
           "Blue Lance"
         ]
-      }
     }
+    },
+    "addition_date": "2021-08-17",
+    "release_date": "2021-08-17",
+    "version": "5.8"
   },
   {
     "id": "SID_封印の盾",
@@ -19149,8 +19322,11 @@
         "can_use": [
           "Red Sword"
         ]
-      }
     }
+    },
+    "addition_date": "2020-07-20",
+    "release_date": "2020-07-20",
+    "version": "4.7"
   },
   {
     "id": "SID_王者の刃",
@@ -20127,8 +20303,11 @@
         "can_use": [
           "Red Sword"
         ]
-      }
     }
+    },
+    "addition_date": "2017-08-31",
+    "release_date": "2017-08-31",
+    "version": "1.6"
   },
   {
     "id": "SID_烈火",
@@ -20417,8 +20596,11 @@
         "can_use": [
           "Green Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2017-12-28",
+    "release_date": "2017-12-28",
+    "version": "2.0"
   },
   {
     "id": "SID_あの世に行くが良い",
@@ -20493,8 +20675,11 @@
         "can_use": [
           "Green Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2020-05-07",
+    "release_date": "2020-05-08",
+    "version": "4.5"
   },
   {
     "id": "SID_青の卵",
@@ -20963,8 +21148,11 @@
         "can_use": [
           "Blue Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2017-02-02",
+    "release_date": "2017-03-10",
+    "version": "1.1"
   },
   {
     "id": "SID_攻撃隊形1",
@@ -21193,6 +21381,34 @@
     ]
   },
   {
+    "id": "SID_ボルトアクス",
+    "game8_id": "558458",
+    "name": "Bolt Axe",
+    "group_name": "Bolt Axe",
+    "category": "weapon",
+    "weapon_type": "Green Axe",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Green Axe"
+        ]
+      }
+    },
+    "addition_date": "2025-10-17",
+    "release_date": "2025-10-18",
+    "version": "9.10",
+    "downgrade_ids": [
+      "SID_銀の斧"
+    ]
+  },
+  {
     "id": "SID_絆・神竜破2",
     "game8_id": "460111",
     "name": "Bond Blast",
@@ -21268,6 +21484,34 @@
     "version": "5.0",
     "downgrade_ids": [
       "SID_レクスカリバー"
+    ]
+  },
+  {
+    "id": "SID_乳姉妹の絆の剣",
+    "game8_id": "558462",
+    "name": "Bonded Blades",
+    "group_name": "Bonded Blades",
+    "category": "weapon",
+    "weapon_type": "Red Sword",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Red Sword"
+        ]
+      }
+    },
+    "addition_date": "2025-10-17",
+    "release_date": "2025-10-17",
+    "version": "9.10",
+    "downgrade_ids": [
+      "SID_銀の剣"
     ]
   },
   {
@@ -21532,8 +21776,11 @@
         "can_use": [
           "Red Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2018-11-08",
+    "release_date": "2018-11-09",
+    "version": "2.11"
   },
   {
     "id": "SID_金蘭の書",
@@ -21582,8 +21829,11 @@
         "can_use": [
           "Blue Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2017-05-15",
+    "release_date": "2017-05-15",
+    "version": "1.3"
   },
   {
     "id": "SID_泡影の書",
@@ -22041,8 +22291,11 @@
         "can_use": [
           "All Bow"
         ]
-      }
     }
+    },
+    "addition_date": "2017-07-13",
+    "release_date": "2017-07-13",
+    "version": "1.5"
   },
   {
     "id": "SID_盲愛の弓",
@@ -22097,8 +22350,11 @@
         "can_use": [
           "All Bow"
         ]
-      }
     }
+    },
+    "addition_date": "2017-04-14",
+    "release_date": "2017-04-14",
+    "version": "1.2"
   },
   {
     "id": "SID_フレリアの玉弓",
@@ -22154,8 +22410,11 @@
         "can_use": [
           "All Bow"
         ]
-      }
     }
+    },
+    "addition_date": "2021-04-19",
+    "release_date": "2021-04-20",
+    "version": "5.4"
   },
   {
     "id": "SID_忠臣との絆の弓",
@@ -22298,8 +22557,11 @@
         "can_use": [
           "All Bow"
         ]
-      }
     }
+    },
+    "addition_date": "2018-08-28",
+    "release_date": "2018-09-04",
+    "version": "2.8"
   },
   {
     "id": "SID_弓の技量1",
@@ -23305,8 +23567,11 @@
         "can_use": [
           "All Beast"
         ]
-      }
     }
+    },
+    "addition_date": "2019-04-09",
+    "release_date": "2019-04-10",
+    "version": "3.4"
   },
   {
     "id": "SID_剛なる戦猫の爪牙_一",
@@ -23332,8 +23597,11 @@
         "can_use": [
           "All Beast"
         ]
-      }
     }
+    },
+    "addition_date": "2019-04-09",
+    "release_date": "2019-04-10",
+    "version": "3.4"
   },
   {
     "id": "SID_守備魔防の大覚醒1",
@@ -23687,8 +23955,11 @@
         "can_use": [
           "All Breath"
         ]
-      }
     }
+    },
+    "addition_date": "2018-09-14",
+    "release_date": "2018-09-20",
+    "version": "2.9"
   },
   {
     "id": "SID_炎祭のブレス",
@@ -23770,8 +24041,11 @@
         "can_use": [
           "All Breath"
         ]
-      }
     }
+    },
+    "addition_date": "2017-02-02",
+    "release_date": "2017-02-02",
+    "version": "1.0"
   },
   {
     "id": "SID_生の息吹1",
@@ -24254,8 +24528,11 @@
         "can_use": [
           "Blue Lance"
         ]
-      }
     }
+    },
+    "addition_date": "2017-11-28",
+    "release_date": "2017-12-04",
+    "version": "2.0"
   },
   {
     "id": "SID_可憐に色づく飾り卵",
@@ -24424,8 +24701,11 @@
         "can_use": [
           "Red Sword"
         ]
-      }
     }
+    },
+    "addition_date": "2020-04-20",
+    "release_date": "2020-04-20",
+    "version": "4.4"
   },
   {
     "id": "SID_聖光スターライト",
@@ -24563,8 +24843,11 @@
         "can_use": [
           "All Breath"
         ]
-      }
     }
+    },
+    "addition_date": "2020-05-07",
+    "release_date": "2020-05-08",
+    "version": "4.5"
   },
   {
     "id": "SID_獰猛かつ残忍",
@@ -24731,8 +25014,11 @@
         "can_use": [
           "Red Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2017-02-02",
+    "release_date": "2017-02-02",
+    "version": "1.0"
   },
   {
     "id": "SID_小盾",
@@ -24906,8 +25192,11 @@
         "can_use": [
           "Red Sword"
         ]
-      }
     }
+    },
+    "addition_date": "2017-02-02",
+    "release_date": "2017-02-02",
+    "version": "1.0"
   },
   {
     "id": "SID_若き猛牛の槍",
@@ -24956,8 +25245,11 @@
         "can_use": [
           "Blue Lance"
         ]
-      }
     }
+    },
+    "addition_date": "2017-02-02",
+    "release_date": "2017-02-02",
+    "version": "1.0"
   },
   {
     "id": "SID_ウカノミタマ",
@@ -25013,8 +25305,11 @@
         "can_use": [
           "Green Axe"
         ]
-      }
     }
+    },
+    "addition_date": "2020-03-18",
+    "release_date": "2020-03-18",
+    "version": "4.3"
   },
   {
     "id": "SID_タグエルの子の爪牙",
@@ -25076,8 +25371,11 @@
         "can_use": [
           "All Beast"
         ]
-      }
     }
+    },
+    "addition_date": "2019-06-10",
+    "release_date": "2019-06-11",
+    "version": "3.6"
   },
   {
     "id": "SID_タグエルの子の爪牙_一",
@@ -25106,8 +25404,11 @@
         "can_use": [
           "All Beast"
         ]
-      }
     }
+    },
+    "addition_date": "2019-06-10",
+    "release_date": "2019-06-11",
+    "version": "3.6"
   },
   {
     "id": "SID_白兎の卵",
@@ -25900,8 +26201,11 @@
         "can_use": [
           "Colorless Staff"
         ]
-      }
     }
+    },
+    "addition_date": "2020-10-19",
+    "release_date": "2020-10-19",
+    "version": "4.10"
   },
   {
     "id": "SID_ケーキナイフ",
@@ -26220,6 +26524,65 @@
     }
   },
   {
+    "id": "SID_継戦の斧",
+    "game8_id": "558460",
+    "name": "Campaign Axe",
+    "group_name": "Campaign Axe",
+    "category": "weapon",
+    "weapon_type": "Green Axe",
+    "is_prf": false,
+    "sp": 200,
+    "tier": 3,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Green Axe"
+        ]
+      }
+    },
+    "addition_date": "2025-10-17",
+    "release_date": "2025-10-17",
+    "version": "9.10",
+    "upgrade_ids": [
+      "SID_継戦の斧＋"
+    ],
+    "downgrade_ids": [
+      "SID_鋼の斧"
+    ]
+  },
+  {
+    "id": "SID_継戦の斧＋",
+    "game8_id": "558459",
+    "name": "Campaign Axe+",
+    "group_name": "Campaign Axe+",
+    "category": "weapon",
+    "weapon_type": "Green Axe",
+    "is_prf": false,
+    "sp": 300,
+    "tier": 4,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Green Axe"
+        ]
+      }
+    },
+    "addition_date": "2025-10-17",
+    "release_date": "2025-10-17",
+    "version": "9.10",
+    "downgrade_ids": [
+      "SID_継戦の斧"
+    ]
+  },
+  {
     "id": "SID_継戦の剣",
     "game8_id": "492784",
     "name": "Campaign Blade",
@@ -26531,8 +26894,11 @@
         "can_use": [
           "All Dagger"
         ]
-      }
     }
+    },
+    "addition_date": "2017-02-02",
+    "release_date": "2017-02-02",
+    "version": "1.0"
   },
   {
     "id": "SID_キャンドルサービス",
@@ -27071,8 +27437,11 @@
         "can_use": [
           "Red Sword"
         ]
-      }
     }
+    },
+    "addition_date": "2021-12-06",
+    "release_date": "2021-12-07",
+    "version": "6.0"
   },
   {
     "id": "SID_ニンジンの斧",
@@ -27635,8 +28004,11 @@
         "can_use": [
           "Green Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2019-03-29",
+    "release_date": "2019-03-29",
+    "version": "3.3"
   },
   {
     "id": "SID_我が名は混沌",
@@ -27740,8 +28112,11 @@
         "can_use": [
           "Red Sword"
         ]
-      }
     }
+    },
+    "addition_date": "2020-05-07",
+    "release_date": "2020-05-08",
+    "version": "4.5"
   },
   {
     "id": "SID_突撃の角笛",
@@ -27793,8 +28168,11 @@
         "can_use": [
           "Green Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2021-08-17",
+    "release_date": "2021-08-17",
+    "version": "5.8"
   },
   {
     "id": "SID_セルジュの恐斧",
@@ -29117,7 +29495,8 @@
     "release_date": "2019-12-06",
     "version": "4.0",
     "upgrade_ids": [
-      "SID_回避・一撃離脱4"
+      "SID_回避・一撃離脱4",
+      "SID_真回避・一撃離脱"
     ],
     "downgrade_ids": [
       "SID_回避・一撃離脱2"
@@ -29637,8 +30016,11 @@
         "can_use": [
           "Red Sword"
         ]
-      }
     }
+    },
+    "addition_date": "2021-11-17",
+    "release_date": "2021-11-18",
+    "version": "5.11"
   },
   {
     "id": "SID_あまいみつのゆめ",
@@ -29734,6 +30116,7 @@
   },
   {
     "id": "SID_彗星",
+    "game8_id": "556372",
     "name": "Comet",
     "group_name": "Comet",
     "category": "special",
@@ -29808,8 +30191,11 @@
         "can_use": [
           "Blue Lance"
         ]
-      }
     }
+    },
+    "addition_date": "2019-08-16",
+    "release_date": "2019-08-17",
+    "version": "3.8"
   },
   {
     "id": "SID_異邦の秘剣",
@@ -29858,8 +30244,11 @@
         "can_use": [
           "Red Sword"
         ]
-      }
     }
+    },
+    "addition_date": "2017-06-14",
+    "release_date": "2017-06-14",
+    "version": "1.4"
   },
   {
     "id": "SID_ほら貝のブーケ",
@@ -29977,8 +30366,11 @@
         "can_use": [
           "Red Sword"
         ]
-      }
     }
+    },
+    "addition_date": "2019-10-08",
+    "release_date": "2019-10-09",
+    "version": "3.10"
   },
   {
     "id": "SID_人と神が繋がる世界",
@@ -30080,8 +30472,11 @@
         "can_use": [
           "All Dagger"
         ]
-      }
     }
+    },
+    "addition_date": "2020-02-17",
+    "release_date": "2020-02-17",
+    "version": "4.2"
   },
   {
     "id": "SID_輸送隊の暗器",
@@ -30130,8 +30525,11 @@
         "can_use": [
           "All Dagger"
         ]
-      }
     }
+    },
+    "addition_date": "2020-11-17",
+    "release_date": "2020-11-17",
+    "version": "4.11"
   },
   {
     "id": "SID_サンゴの弓",
@@ -30404,8 +30802,11 @@
         "can_use": [
           "Red Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2017-02-02",
+    "release_date": "2017-02-02",
+    "version": "1.0"
   },
   {
     "id": "SID_反攻隊形",
@@ -30853,8 +31254,11 @@
         "can_use": [
           "All Beast"
         ]
-      }
     }
+    },
+    "addition_date": "2019-04-09",
+    "release_date": "2019-04-10",
+    "version": "3.4"
   },
   {
     "id": "SID_柔なる戦猫の爪牙_一",
@@ -30880,8 +31284,11 @@
         "can_use": [
           "All Beast"
         ]
-      }
     }
+    },
+    "addition_date": "2019-04-09",
+    "release_date": "2019-04-10",
+    "version": "3.4"
   },
   {
     "id": "SID_草原の狼の白槍",
@@ -31123,8 +31530,11 @@
         "can_use": [
           "Red Sword"
         ]
-      }
     }
+    },
+    "addition_date": "2019-07-21",
+    "release_date": "2019-07-22",
+    "version": "3.7"
   },
   {
     "id": "SID_クリミア女王の王笏",
@@ -31198,8 +31608,11 @@
         "can_use": [
           "Green Axe"
         ]
-      }
     }
+    },
+    "addition_date": "2017-02-02",
+    "release_date": "2017-02-02",
+    "version": "1.0"
   },
   {
     "id": "SID_朱傭兵の双剣",
@@ -31276,8 +31689,11 @@
         "can_use": [
           "Blue Lance"
         ]
-      }
     }
+    },
+    "addition_date": "2020-11-17",
+    "release_date": "2020-11-17",
+    "version": "4.11"
   },
   {
     "id": "SID_朱傭兵の戦斧",
@@ -31541,8 +31957,11 @@
         "can_use": [
           "Green Axe"
         ]
-      }
     }
+    },
+    "addition_date": "2020-03-05",
+    "release_date": "2020-03-06",
+    "version": "4.3"
   },
   {
     "id": "SID_響・十字牽制",
@@ -31679,8 +32098,11 @@
         "can_use": [
           "All Bow"
         ]
-      }
     }
+    },
+    "addition_date": "2019-07-21",
+    "release_date": "2019-07-22",
+    "version": "3.7"
   },
   {
     "id": "SID_キューピッドの矢",
@@ -31795,8 +32217,11 @@
         "can_use": [
           "Blue Lance"
         ]
-      }
     }
+    },
+    "addition_date": "2017-08-15",
+    "release_date": "2017-08-21",
+    "version": "1.6"
   },
   {
     "id": "SID_曲射",
@@ -31905,8 +32330,11 @@
         "can_use": [
           "Red Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2017-02-27",
+    "release_date": "2017-02-27",
+    "version": "1.0"
   },
   {
     "id": "SID_遠反・有利増幅",
@@ -32001,6 +32429,7 @@
   },
   {
     "id": "SID_守備魔防の魅了3",
+    "game8_id": "556374",
     "name": "D/R Cantrip 3",
     "group_name": "D/R Cantrip",
     "category": "passiveb",
@@ -32816,8 +33245,11 @@
         "can_use": [
           "All Bow"
         ]
-      }
     }
+    },
+    "addition_date": "2020-08-18",
+    "release_date": "2020-08-19",
+    "version": "4.8"
   },
   {
     "id": "SID_急襲隊形1",
@@ -32956,8 +33388,11 @@
         "can_use": [
           "Blue Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2017-07-13",
+    "release_date": "2017-07-13",
+    "version": "1.5"
   },
   {
     "id": "SID_暗獣・不屈",
@@ -33096,8 +33531,11 @@
         "can_use": [
           "Red Sword"
         ]
-      }
     }
+    },
+    "addition_date": "2020-10-19",
+    "release_date": "2020-10-20",
+    "version": "4.10"
   },
   {
     "id": "SID_エクスカリバー外伝",
@@ -33149,8 +33587,11 @@
         "can_use": [
           "Green Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2017-07-13",
+    "release_date": "2017-07-13",
+    "version": "1.5"
   },
   {
     "id": "SID_黒き血の大剣",
@@ -33202,8 +33643,11 @@
         "can_use": [
           "Red Sword"
         ]
-      }
     }
+    },
+    "addition_date": "2017-11-28",
+    "release_date": "2017-12-04",
+    "version": "2.0"
   },
   {
     "id": "SID_闇魔道の研究書",
@@ -33252,8 +33696,11 @@
         "can_use": [
           "Red Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2020-12-08",
+    "release_date": "2020-12-08",
+    "version": "5.0"
   },
   {
     "id": "SID_魔剣ミストルティン",
@@ -33303,8 +33750,11 @@
         "can_use": [
           "Red Sword"
         ]
-      }
     }
+    },
+    "addition_date": "2018-05-09",
+    "release_date": "2018-05-10",
+    "version": "2.5"
   },
   {
     "id": "SID_暗香疎影",
@@ -33376,8 +33826,11 @@
         "can_use": [
           "Blue Lance"
         ]
-      }
     }
+    },
+    "addition_date": "2017-07-13",
+    "release_date": "2017-07-18",
+    "version": "1.5"
   },
   {
     "id": "SID_暗黒の聖書",
@@ -33429,8 +33882,11 @@
         "can_use": [
           "Red Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2020-05-07",
+    "release_date": "2020-05-08",
+    "version": "4.5"
   },
   {
     "id": "SID_ダークスパイクΤ",
@@ -33863,8 +34319,11 @@
         "can_use": [
           "Blue Lance"
         ]
-      }
     }
+    },
+    "addition_date": "2017-09-15",
+    "release_date": "2017-09-15",
+    "version": "1.7"
   },
   {
     "id": "SID_暁天の神楽鈴",
@@ -33972,8 +34431,11 @@
         "can_use": [
           "Blue Lance"
         ]
-      }
     }
+    },
+    "addition_date": "2017-04-14",
+    "release_date": "2017-04-14",
+    "version": "1.2"
   },
   {
     "id": "SID_春に揺蕩う白夢の卵",
@@ -34113,8 +34575,11 @@
         "can_use": [
           "All Breath"
         ]
-      }
     }
+    },
+    "addition_date": "2021-10-29",
+    "release_date": "2021-10-29",
+    "version": "5.10"
   },
   {
     "id": "SID_幻惑・不和の烙印",
@@ -34505,8 +34970,11 @@
         "can_use": [
           "Blue Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2019-05-09",
+    "release_date": "2019-05-12",
+    "version": "3.5"
   },
   {
     "id": "SID_鬼神の一撃1",
@@ -34704,8 +35172,11 @@
         "can_use": [
           "All Dagger"
         ]
-      }
     }
+    },
+    "addition_date": "2017-03-14",
+    "release_date": "2017-03-14",
+    "version": "1.1"
   },
   {
     "id": "SID_デッキブラシ",
@@ -34846,8 +35317,11 @@
         "can_use": [
           "All Bow"
         ]
-      }
     }
+    },
+    "addition_date": "2019-07-08",
+    "release_date": "2019-07-09",
+    "version": "3.7"
   },
   {
     "id": "SID_金鹿の愛の弓",
@@ -38023,8 +38497,11 @@
         "can_use": [
           "All Breath"
         ]
-      }
     }
+    },
+    "addition_date": "2019-03-07",
+    "release_date": "2019-03-08",
+    "version": "3.3"
   },
   {
     "id": "SID_魔獣の書",
@@ -38132,8 +38609,11 @@
         "can_use": [
           "Green Axe"
         ]
-      }
     }
+    },
+    "addition_date": "2019-11-06",
+    "release_date": "2019-11-07",
+    "version": "3.11"
   },
   {
     "id": "SID_深き絶望のブレス",
@@ -38375,8 +38855,11 @@
         "can_use": [
           "Green Axe"
         ]
-      }
     }
+    },
+    "addition_date": "2017-02-02",
+    "release_date": "2017-02-02",
+    "version": "1.0"
   },
   {
     "id": "SID_コウモリの弓",
@@ -38673,8 +39156,11 @@
         "can_use": [
           "All Bow"
         ]
-      }
     }
+    },
+    "addition_date": "2017-02-02",
+    "release_date": "2017-02-02",
+    "version": "1.0"
   },
   {
     "id": "SID_火地水の命脈",
@@ -39742,8 +40228,11 @@
         "can_use": [
           "All Breath"
         ]
-      }
     }
+    },
+    "addition_date": "2019-05-30",
+    "release_date": "2019-05-30",
+    "version": "3.5"
   },
   {
     "id": "SID_神杖天空を偽る",
@@ -39926,8 +40415,11 @@
         "can_use": [
           "All Breath"
         ]
-      }
     }
+    },
+    "addition_date": "2018-09-28",
+    "release_date": "2018-09-28",
+    "version": "2.9"
   },
   {
     "id": "SID_聖書ナーガ",
@@ -39985,8 +40477,11 @@
         "can_use": [
           "Green Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2017-10-16",
+    "release_date": "2017-10-16",
+    "version": "1.8"
   },
   {
     "id": "SID_神獣の蜜",
@@ -40264,8 +40759,11 @@
         "can_use": [
           "Red Sword"
         ]
-      }
     }
+    },
+    "addition_date": "2017-10-16",
+    "release_date": "2017-10-16",
+    "version": "1.8"
   },
   {
     "id": "SID_雷神と戯神の気紛れ",
@@ -40451,8 +40949,11 @@
         "can_use": [
           "Colorless Staff"
         ]
-      }
     }
+    },
+    "addition_date": "2018-11-08",
+    "release_date": "2018-11-09",
+    "version": "2.11"
   },
   {
     "id": "SID_バルフレチェ",
@@ -40508,8 +41009,11 @@
         "can_use": [
           "All Bow"
         ]
-      }
     }
+    },
+    "addition_date": "2020-09-18",
+    "release_date": "2020-09-18",
+    "version": "4.9"
   },
   {
     "id": "SID_獅子連斬",
@@ -40834,8 +41338,11 @@
         "can_use": [
           "Red Sword"
         ]
-      }
     }
+    },
+    "addition_date": "2019-08-16",
+    "release_date": "2019-08-16",
+    "version": "3.8"
   },
   {
     "id": "SID_竜裂",
@@ -40953,8 +41460,11 @@
         "can_use": [
           "Green Axe"
         ]
-      }
     }
+    },
+    "addition_date": "2017-04-26",
+    "release_date": "2017-04-26",
+    "version": "1.2"
   },
   {
     "id": "SID_水の飛沫",
@@ -41004,8 +41514,11 @@
         "can_use": [
           "All Breath"
         ]
-      }
     }
+    },
+    "addition_date": "2018-11-08",
+    "release_date": "2018-11-09",
+    "version": "2.11"
   },
   {
     "id": "SID_引き込み",
@@ -42012,8 +42525,11 @@
         "can_use": [
           "Red Sword"
         ]
-      }
     }
+    },
+    "addition_date": "2019-02-27",
+    "release_date": "2019-02-27",
+    "version": "3.2"
   },
   {
     "id": "SID_竜石のブーケ",
@@ -42285,8 +42801,11 @@
         "can_use": [
           "Green Axe"
         ]
-      }
     }
+    },
+    "addition_date": "2020-04-20",
+    "release_date": "2020-04-21",
+    "version": "4.4"
   },
   {
     "id": "SID_赤い竜騎士の盾",
@@ -42333,7 +42852,40 @@
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
-    "version": "1.0"
+    "version": "1.0",
+    "upgrade_ids": [
+      "SID_引き寄せ・歩法"
+    ]
+  },
+  {
+    "id": "SID_引き寄せ・歩法",
+    "game8_id": "558465",
+    "name": "Draw Back Gait",
+    "group_name": "Draw Back Gait",
+    "category": "assist",
+    "is_prf": false,
+    "sp": 400,
+    "tier": 2,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Infantry",
+          "Armored"
+        ]
+      },
+      "weapons": {
+        "can_not_use": [
+          "Colorless Staff"
+        ]
+      }
+    },
+    "addition_date": "2025-10-17",
+    "release_date": "2025-10-17",
+    "version": "9.10",
+    "downgrade_ids": [
+      "SID_引き寄せ"
+    ]
   },
   {
     "id": "SID_人に安らかな夢を",
@@ -43179,8 +43731,11 @@
         "can_use": [
           "Red Sword"
         ]
-      }
     }
+    },
+    "addition_date": "2017-02-02",
+    "release_date": "2017-02-02",
+    "version": "1.0"
   },
   {
     "id": "SID_暗夜の竜石",
@@ -43229,8 +43784,11 @@
         "can_use": [
           "All Breath"
         ]
-      }
     }
+    },
+    "addition_date": "2018-04-24",
+    "release_date": "2018-05-03",
+    "version": "2.4"
   },
   {
     "id": "SID_夕影の神弓",
@@ -44108,8 +44666,11 @@
         "can_use": [
           "Red Sword"
         ]
-      }
     }
+    },
+    "addition_date": "2017-02-02",
+    "release_date": "2017-04-20",
+    "version": "1.2"
   },
   {
     "id": "SID_竜の鋭鱗",
@@ -44815,8 +45376,11 @@
         "can_use": [
           "All Beast"
         ]
-      }
     }
+    },
+    "addition_date": "2022-11-18",
+    "release_date": "2022-11-30",
+    "version": "6.11"
   },
   {
     "id": "SID_絶闇エンブラ",
@@ -44867,8 +45431,11 @@
         "can_use": [
           "Red Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2022-11-30",
+    "release_date": "2022-11-30",
+    "version": "6.11"
   },
   {
     "id": "SID_閉界",
@@ -45012,6 +45579,29 @@
     "downgrade_ids": [
       "SID_成獣の化身・重装"
     ]
+  },
+  {
+    "id": "SID_あなたとのつながり",
+    "game8_id": "558471",
+    "name": "Entwined Onrush",
+    "group_name": "Entwined Onrush",
+    "category": "passivec",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e3/Entwined_Onrush.png/revision/latest?cb=20251017062652",
+    "is_prf": true,
+    "sp": 300,
+    "tier": 1,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "none": true
+      }
+    },
+    "addition_date": "2025-10-06",
+    "release_date": "2025-10-17",
+    "version": "9.10"
   },
   {
     "id": "SID_結ぶ者の角",
@@ -45286,8 +45876,11 @@
         "can_use": [
           "All Breath"
         ]
-      }
     }
+    },
+    "addition_date": "2017-02-02",
+    "release_date": "2017-02-02",
+    "version": "1.0"
   },
   {
     "id": "SID_悠久の書",
@@ -45336,8 +45929,11 @@
         "can_use": [
           "Red Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2017-02-02",
+    "release_date": "2017-02-02",
+    "version": "1.0"
   },
   {
     "id": "SID_異空のブレス",
@@ -45393,8 +45989,11 @@
         "can_use": [
           "All Breath"
         ]
-      }
     }
+    },
+    "addition_date": "2019-09-19",
+    "release_date": "2019-09-19",
+    "version": "3.9"
   },
   {
     "id": "SID_攻撃の波・偶数1",
@@ -46315,8 +46914,11 @@
         "can_use": [
           "Red Sword"
         ]
-      }
     }
+    },
+    "addition_date": "2018-08-28",
+    "release_date": "2018-08-28",
+    "version": "2.8"
   },
   {
     "id": "SID_エクスカリバー",
@@ -46373,8 +46975,11 @@
         "can_use": [
           "Green Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2017-02-02",
+    "release_date": "2017-02-02",
+    "version": "1.0"
   },
   {
     "id": "SID_楽園の果汁",
@@ -46426,8 +47031,11 @@
         "can_use": [
           "Green Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2020-06-18",
+    "release_date": "2020-06-18",
+    "version": "4.6"
   },
   {
     "id": "SID_邪竜のブレス",
@@ -46479,8 +47087,11 @@
         "can_use": [
           "All Breath"
         ]
-      }
     }
+    },
+    "addition_date": "2018-02-22",
+    "release_date": "2018-02-22",
+    "version": "2.2"
   },
   {
     "id": "SID_過去の女神の扇子",
@@ -46563,8 +47174,11 @@
         "can_use": [
           "All Bow"
         ]
-      }
     }
+    },
+    "addition_date": "2021-02-26",
+    "release_date": "2021-02-26",
+    "version": "5.2"
   },
   {
     "id": "SID_真っ向勝負",
@@ -46664,8 +47278,11 @@
         "can_use": [
           "Green Axe"
         ]
-      }
     }
+    },
+    "addition_date": "2021-07-19",
+    "release_date": "2021-07-19",
+    "version": "5.7"
   },
   {
     "id": "SID_人の可能性を信じる",
@@ -46799,8 +47416,11 @@
         "can_use": [
           "All Breath"
         ]
-      }
     }
+    },
+    "addition_date": "2022-09-29",
+    "release_date": "2022-09-29",
+    "version": "6.9"
   },
   {
     "id": "SID_信じつづける誓い",
@@ -47151,8 +47771,11 @@
         "can_use": [
           "Green Axe"
         ]
-      }
     }
+    },
+    "addition_date": "2018-06-08",
+    "release_date": "2018-06-12",
+    "version": "2.6"
   },
   {
     "id": "SID_牙の絆",
@@ -47739,8 +48362,11 @@
         "can_use": [
           "Red Sword"
         ]
-      }
     }
+    },
+    "addition_date": "2020-04-20",
+    "release_date": "2020-04-20",
+    "version": "4.4"
   },
   {
     "id": "SID_フェリシアの氷皿",
@@ -47869,8 +48495,11 @@
         "can_use": [
           "All Breath"
         ]
-      }
     }
+    },
+    "addition_date": "2019-01-30",
+    "release_date": "2019-01-30",
+    "version": "3.1"
   },
   {
     "id": "SID_仄暗き邪痕の燭台",
@@ -48031,8 +48660,11 @@
         "can_use": [
           "Blue Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2021-01-18",
+    "release_date": "2021-01-18",
+    "version": "5.1"
   },
   {
     "id": "SID_邪竜の王女",
@@ -48375,8 +49007,11 @@
         "can_use": [
           "Blue Lance"
         ]
-      }
     }
+    },
+    "addition_date": "2017-02-02",
+    "release_date": "2017-02-02",
+    "version": "1.0"
   },
   {
     "id": "SID_業槍ジークムント",
@@ -48426,8 +49061,11 @@
         "can_use": [
           "Blue Lance"
         ]
-      }
     }
+    },
+    "addition_date": "2018-12-18",
+    "release_date": "2018-12-18",
+    "version": "3.0"
   },
   {
     "id": "SID_ドローミの鎖環",
@@ -48804,8 +49442,11 @@
         "can_use": [
           "Blue Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2019-11-19",
+    "release_date": "2019-11-22",
+    "version": "3.11"
   },
   {
     "id": "SID_造物フィンブル",
@@ -48854,8 +49495,11 @@
         "can_use": [
           "Blue Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2021-04-05",
+    "release_date": "2021-04-07",
+    "version": "5.4"
   },
   {
     "id": "SID_終着の剣",
@@ -49889,8 +50533,11 @@
         "can_use": [
           "Green Axe"
         ]
-      }
     }
+    },
+    "addition_date": "2020-03-05",
+    "release_date": "2020-03-09",
+    "version": "4.3"
   },
   {
     "id": "SID_炎の軍配",
@@ -50007,8 +50654,11 @@
         "can_use": [
           "Blue Lance"
         ]
-      }
     }
+    },
+    "addition_date": "2020-09-18",
+    "release_date": "2020-09-19",
+    "version": "4.9"
   },
   {
     "id": "SID_絶炎ムスペル",
@@ -50090,8 +50740,11 @@
         "can_use": [
           "Blue Lance"
         ]
-      }
     }
+    },
+    "addition_date": "2018-02-28",
+    "release_date": "2018-02-28",
+    "version": "2.2"
   },
   {
     "id": "SID_壁炎",
@@ -51870,6 +52523,7 @@
     "release_date": "2019-06-28",
     "version": "3.6",
     "upgrade_ids": [
+      "SID_強襲・助走",
       "SID_怒涛・再起4",
       "SID_強襲・神速"
     ],
@@ -51956,8 +52610,11 @@
         "can_use": [
           "Green Axe"
         ]
-      }
     }
+    },
+    "addition_date": "2020-08-18",
+    "release_date": "2020-08-18",
+    "version": "4.8"
   },
   {
     "id": "SID_スミアの花槍",
@@ -52006,8 +52663,11 @@
         "can_use": [
           "Blue Lance"
         ]
-      }
     }
+    },
+    "addition_date": "2018-07-20",
+    "release_date": "2018-07-20",
+    "version": "2.7"
   },
   {
     "id": "SID_親愛の花",
@@ -52086,8 +52746,11 @@
         "can_use": [
           "Red Sword"
         ]
-      }
     }
+    },
+    "addition_date": "2020-06-05",
+    "release_date": "2020-06-05",
+    "version": "4.6"
   },
   {
     "id": "SID_幸福の花",
@@ -52139,8 +52802,11 @@
         "can_use": [
           "Blue Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2019-12-05",
+    "release_date": "2019-12-06",
+    "version": "4.0"
   },
   {
     "id": "SID_豊潤の花",
@@ -52193,8 +52859,11 @@
         "can_use": [
           "Red Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2020-09-30",
+    "release_date": "2020-09-30",
+    "version": "4.9"
   },
   {
     "id": "SID_不幸の花",
@@ -52246,8 +52915,11 @@
         "can_use": [
           "Green Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2019-12-05",
+    "release_date": "2020-11-27",
+    "version": "4.11"
   },
   {
     "id": "SID_犠牲の花",
@@ -52615,8 +53287,11 @@
         "can_use": [
           "Red Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2017-02-02",
+    "release_date": "2017-02-02",
+    "version": "1.0"
   },
   {
     "id": "SID_あなたのシャロン",
@@ -52691,8 +53366,11 @@
         "can_use": [
           "Green Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2018-09-06",
+    "release_date": "2018-09-07",
+    "version": "2.9"
   },
   {
     "id": "SID_守備魔防の城塞1",
@@ -53526,8 +54204,11 @@
         "can_use": [
           "All Beast"
         ]
-      }
     }
+    },
+    "addition_date": "2019-02-20",
+    "release_date": "2019-02-20",
+    "version": "3.2"
   },
   {
     "id": "SID_妖狐娘の爪牙_一",
@@ -53553,8 +54234,11 @@
         "can_use": [
           "All Beast"
         ]
-      }
     }
+    },
+    "addition_date": "2019-02-20",
+    "release_date": "2019-02-20",
+    "version": "3.2"
   },
   {
     "id": "SID_フレデリクの堅斧",
@@ -53764,8 +54448,11 @@
         "can_use": [
           "Green Axe"
         ]
-      }
     }
+    },
+    "addition_date": "2019-08-06",
+    "release_date": "2019-08-07",
+    "version": "3.8"
   },
   {
     "id": "SID_フレリアの麗剣",
@@ -54199,8 +54886,11 @@
         "can_use": [
           "All Breath"
         ]
-      }
     }
+    },
+    "addition_date": "2020-10-07",
+    "release_date": "2020-10-08",
+    "version": "4.10"
   },
   {
     "id": "SID_真夏の涼の氷菓子",
@@ -54388,8 +55078,11 @@
         "can_use": [
           "All Bow"
         ]
-      }
     }
+    },
+    "addition_date": "2017-02-02",
+    "release_date": "2017-02-02",
+    "version": "1.0"
   },
   {
     "id": "SID_風神雷神弓",
@@ -55998,8 +56691,11 @@
         "can_use": [
           "Green Axe"
         ]
-      }
     }
+    },
+    "addition_date": "2018-08-21",
+    "release_date": "2018-08-21",
+    "version": "2.8"
   },
   {
     "id": "SID_波閉ざす錨の斧",
@@ -56049,8 +56745,11 @@
         "can_use": [
           "Green Axe"
         ]
-      }
     }
+    },
+    "addition_date": "2020-08-06",
+    "release_date": "2020-08-07",
+    "version": "4.8"
   },
   {
     "id": "SID_ゲイルドリヴル",
@@ -56106,8 +56805,11 @@
         "can_use": [
           "Blue Lance"
         ]
-      }
     }
+    },
+    "addition_date": "2022-08-17",
+    "release_date": "2022-08-17",
+    "version": "6.8"
   },
   {
     "id": "SID_ゲイルスケグル",
@@ -56271,8 +56973,11 @@
         "can_use": [
           "Red Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2021-04-05",
+    "release_date": "2021-04-06",
+    "version": "5.4"
   },
   {
     "id": "SID_始祖ファルシオン",
@@ -56326,8 +57031,11 @@
         "can_use": [
           "Red Sword"
         ]
-      }
     }
+    },
+    "addition_date": "2021-08-17",
+    "release_date": "2021-08-17",
+    "version": "5.8"
   },
   {
     "id": "SID_やさしいゆめ",
@@ -56850,8 +57558,11 @@
         "can_use": [
           "Green Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2018-06-08",
+    "release_date": "2018-06-08",
+    "version": "2.6"
   },
   {
     "id": "SID_黄金のフォーク",
@@ -57268,6 +57979,7 @@
   },
   {
     "id": "SID_地の女神の祝祭",
+    "game8_id": "556370",
     "name": "Glee of the Land",
     "group_name": "Glee of the Land",
     "category": "weapon",
@@ -57345,8 +58057,11 @@
         "can_use": [
           "Red Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2018-01-25",
+    "release_date": "2018-01-25",
+    "version": "2.1"
   },
   {
     "id": "SID_凶星",
@@ -57541,8 +58256,11 @@
         "can_use": [
           "All Breath"
         ]
-      }
     }
+    },
+    "addition_date": "2017-02-02",
+    "release_date": "2017-02-02",
+    "version": "1.0"
   },
   {
     "id": "SID_蛍火",
@@ -57767,8 +58485,11 @@
         "can_use": [
           "Green Axe"
         ]
-      }
     }
+    },
+    "addition_date": "2021-02-16",
+    "release_date": "2021-02-16",
+    "version": "5.2"
   },
   {
     "id": "SID_女神を宿せし者",
@@ -57927,8 +58648,11 @@
         "can_use": [
           "All Breath"
         ]
-      }
     }
+    },
+    "addition_date": "2022-05-31",
+    "release_date": "2022-05-31",
+    "version": "6.5"
   },
   {
     "id": "SID_黄金の蛇",
@@ -58025,8 +58749,11 @@
         "can_use": [
           "Red Sword"
         ]
-      }
     }
+    },
+    "addition_date": "2017-07-13",
+    "release_date": "2017-07-13",
+    "version": "1.5"
   },
   {
     "id": "SID_ツバキの金薙刀",
@@ -58073,8 +58800,11 @@
         "can_use": [
           "Blue Lance"
         ]
-      }
     }
+    },
+    "addition_date": "2017-02-02",
+    "release_date": "2017-02-02",
+    "version": "1.0"
   },
   {
     "id": "SID_魔女と女神の夏光",
@@ -58305,8 +59035,11 @@
         "can_use": [
           "Blue Lance"
         ]
-      }
     }
+    },
+    "addition_date": "2017-02-02",
+    "release_date": "2017-06-02",
+    "version": "1.3"
   },
   {
     "id": "SID_グラドの戦斧",
@@ -58353,8 +59086,11 @@
         "can_use": [
           "Green Axe"
         ]
-      }
     }
+    },
+    "addition_date": "2017-08-15",
+    "release_date": "2017-08-15",
+    "version": "1.6"
   },
   {
     "id": "SID_グラフカリバー",
@@ -58410,8 +59146,11 @@
         "can_use": [
           "Green Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2021-01-07",
+    "release_date": "2021-01-08",
+    "version": "5.1"
   },
   {
     "id": "SID_孫の手",
@@ -58879,8 +59618,11 @@
         "can_use": [
           "All Breath"
         ]
-      }
     }
+    },
+    "addition_date": "2018-01-25",
+    "release_date": "2018-01-25",
+    "version": "2.1"
   },
   {
     "id": "SID_大いなる癒しの手",
@@ -59164,8 +59906,11 @@
         "can_use": [
           "Green Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2021-11-17",
+    "release_date": "2021-11-30",
+    "version": "5.11"
   },
   {
     "id": "SID_魔書ギムレー",
@@ -59299,8 +60044,11 @@
         "can_use": [
           "Red Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2017-10-30",
+    "release_date": "2017-10-30",
+    "version": "1.8"
   },
   {
     "id": "SID_スレッダグラン",
@@ -60738,8 +61486,11 @@
         "can_use": [
           "All Beast"
         ]
-      }
     }
+    },
+    "addition_date": "2019-12-25",
+    "release_date": "2020-01-01",
+    "version": "4.0"
   },
   {
     "id": "SID_新年の戦猫の爪牙_一",
@@ -60765,8 +61516,11 @@
         "can_use": [
           "All Beast"
         ]
-      }
     }
+    },
+    "addition_date": "2019-12-25",
+    "release_date": "2020-01-01",
+    "version": "4.0"
   },
   {
     "id": "SID_守護者の巨斧",
@@ -61124,8 +61878,11 @@
         "can_use": [
           "Red Sword"
         ]
-      }
     }
+    },
+    "addition_date": "2020-05-07",
+    "release_date": "2020-05-09",
+    "version": "4.5"
   },
   {
     "id": "SID_陣風",
@@ -61405,8 +62162,11 @@
         "can_use": [
           "Red Sword"
         ]
-      }
     }
+    },
+    "addition_date": "2021-04-28",
+    "release_date": "2021-04-28",
+    "version": "5.4"
   },
   {
     "id": "SID_制止の弓",
@@ -62004,6 +62764,36 @@
     ]
   },
   {
+    "id": "SID_真回避・一撃離脱",
+    "game8_id": "558468",
+    "name": "Harrowing Call",
+    "group_name": "Harrowing Call",
+    "category": "passiveb",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/5c/Harrowing_Call.png/revision/latest?cb=20251017062631",
+    "is_prf": false,
+    "sp": 300,
+    "tier": 4,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Infantry"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "All Melee"
+        ]
+      }
+    },
+    "addition_date": "2025-10-17",
+    "release_date": "2025-10-17",
+    "version": "9.10",
+    "downgrade_ids": [
+      "SID_回避・一撃離脱3"
+    ]
+  },
+  {
     "id": "SID_こわいかこのゆめ",
     "game8_id": "430302",
     "name": "Harrowing Dream",
@@ -62143,6 +62933,7 @@
   },
   {
     "id": "SID_追憶の首飾り",
+    "game8_id": "556373",
     "name": "Haunting Choker",
     "group_name": "Haunting Choker",
     "category": "passiveb",
@@ -62211,8 +63002,11 @@
         "can_use": [
           "Green Axe"
         ]
-      }
     }
+    },
+    "addition_date": "2017-02-02",
+    "release_date": "2017-02-02",
+    "version": "1.0"
   },
   {
     "id": "SID_鷹王の嘴爪",
@@ -62268,8 +63062,11 @@
         "can_use": [
           "All Beast"
         ]
-      }
     }
+    },
+    "addition_date": "2019-01-10",
+    "release_date": "2019-01-11",
+    "version": "3.1"
   },
   {
     "id": "SID_霞切り",
@@ -62484,8 +63281,11 @@
         "can_use": [
           "Blue Lance"
         ]
-      }
     }
+    },
+    "addition_date": "2019-06-10",
+    "release_date": "2019-06-11",
+    "version": "3.6"
   },
   {
     "id": "SID_射止める花嫁の花弓",
@@ -62587,8 +63387,11 @@
         "can_use": [
           "Blue Lance"
         ]
-      }
     }
+    },
+    "addition_date": "2021-02-16",
+    "release_date": "2021-02-17",
+    "version": "5.2"
   },
   {
     "id": "SID_天照",
@@ -63461,8 +64264,11 @@
         "can_use": [
           "Blue Lance"
         ]
-      }
     }
+    },
+    "addition_date": "2017-02-02",
+    "release_date": "2017-02-02",
+    "version": "1.0"
   },
   {
     "id": "SID_魔刃の槍",
@@ -63837,8 +64643,11 @@
         "can_use": [
           "Red Sword"
         ]
-      }
     }
+    },
+    "addition_date": "2018-12-28",
+    "release_date": "2019-01-01",
+    "version": "3.0"
   },
   {
     "id": "SID_ヒナタの猛刀",
@@ -64092,8 +64901,11 @@
         "can_use": [
           "All Dagger"
         ]
-      }
     }
+    },
+    "addition_date": "2018-09-14",
+    "release_date": "2018-09-14",
+    "version": "2.9"
   },
   {
     "id": "SID_ヘズルの聖戦士",
@@ -64440,8 +65252,11 @@
         "can_use": [
           "All Bow"
         ]
-      }
     }
+    },
+    "addition_date": "2021-07-29",
+    "release_date": "2021-07-29",
+    "version": "5.7"
   },
   {
     "id": "SID_師の聖夜の剣",
@@ -64598,8 +65413,11 @@
         "can_use": [
           "Red Sword"
         ]
-      }
     }
+    },
+    "addition_date": "2022-08-17",
+    "release_date": "2022-08-17",
+    "version": "6.8"
   },
   {
     "id": "SID_重刃の鼓舞",
@@ -65033,8 +65851,11 @@
         "can_use": [
           "All Dagger"
         ]
-      }
     }
+    },
+    "addition_date": "2021-09-17",
+    "release_date": "2021-09-17",
+    "version": "5.9"
   },
   {
     "id": "SID_開かれし祭の角",
@@ -65117,8 +65938,11 @@
         "can_use": [
           "All Beast"
         ]
-      }
     }
+    },
+    "addition_date": "2021-12-06",
+    "release_date": "2021-12-07",
+    "version": "6.0"
   },
   {
     "id": "SID_地の女神の角",
@@ -65274,8 +66098,11 @@
         "can_use": [
           "Blue Lance"
         ]
-      }
     }
+    },
+    "addition_date": "2021-04-05",
+    "release_date": "2021-04-06",
+    "version": "5.4"
   },
   {
     "id": "SID_狼騎士団の弓",
@@ -65330,8 +66157,11 @@
         "can_use": [
           "All Bow"
         ]
-      }
     }
+    },
+    "addition_date": "2021-10-18",
+    "release_date": "2021-10-19",
+    "version": "5.10"
   },
   {
     "id": "SID_HP1",
@@ -65745,8 +66575,11 @@
         "can_use": [
           "Green Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2020-12-17",
+    "release_date": "2020-12-17",
+    "version": "5.0"
   },
   {
     "id": "SID_大きな扇子",
@@ -65995,8 +66828,11 @@
         "can_use": [
           "All Dagger"
         ]
-      }
     }
+    },
+    "addition_date": "2019-08-06",
+    "release_date": "2019-08-07",
+    "version": "3.8"
   },
   {
     "id": "SID_疾風の暗器",
@@ -66045,8 +66881,11 @@
         "can_use": [
           "All Dagger"
         ]
-      }
     }
+    },
+    "addition_date": "2018-06-08",
+    "release_date": "2018-06-08",
+    "version": "2.6"
   },
   {
     "id": "SID_ヒータディア",
@@ -66219,8 +67058,11 @@
         "can_use": [
           "Blue Lance"
         ]
-      }
     }
+    },
+    "addition_date": "2020-02-17",
+    "release_date": "2020-02-17",
+    "version": "4.2"
   },
   {
     "id": "SID_記憶が蘇る…",
@@ -66780,8 +67622,11 @@
         "can_use": [
           "Blue Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2021-03-04",
+    "release_date": "2021-03-05",
+    "version": "5.3"
   },
   {
     "id": "SID_氷槍マルテ",
@@ -66830,8 +67675,11 @@
         "can_use": [
           "Blue Lance"
         ]
-      }
     }
+    },
+    "addition_date": "2019-03-07",
+    "release_date": "2019-03-08",
+    "version": "3.3"
   },
   {
     "id": "SID_冬氷の魔拳",
@@ -67062,8 +67910,11 @@
         "can_use": [
           "All Beast"
         ]
-      }
     }
+    },
+    "addition_date": "2022-07-26",
+    "release_date": "2022-07-26",
+    "version": "6.7"
   },
   {
     "id": "SID_治癒",
@@ -67137,8 +67988,11 @@
         "can_use": [
           "Blue Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2019-12-25",
+    "release_date": "2020-01-01",
+    "version": "4.0"
   },
   {
     "id": "SID_マフー",
@@ -67190,8 +68044,11 @@
         "can_use": [
           "Red Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2018-11-21",
+    "release_date": "2018-11-23",
+    "version": "2.11"
   },
   {
     "id": "SID_真・閉界",
@@ -67710,8 +68567,11 @@
         "can_use": [
           "All Bow"
         ]
-      }
     }
+    },
+    "addition_date": "2021-01-07",
+    "release_date": "2021-01-08",
+    "version": "5.1"
   },
   {
     "id": "SID_死からは逃れられぬ",
@@ -68429,8 +69289,11 @@
         "can_use": [
           "Colorless Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2022-08-17",
+    "release_date": "2022-08-17",
+    "version": "6.8"
   },
   {
     "id": "SID_金石の書",
@@ -68479,8 +69342,11 @@
         "can_use": [
           "Green Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2017-05-15",
+    "release_date": "2017-05-15",
+    "version": "1.3"
   },
   {
     "id": "SID_母娘の静やかな祝福",
@@ -68825,8 +69691,11 @@
         "can_use": [
           "Green Axe"
         ]
-      }
     }
+    },
+    "addition_date": "2017-02-02",
+    "release_date": "2017-02-02",
+    "version": "1.0"
   },
   {
     "id": "SID_美僧の戦斧",
@@ -68875,8 +69744,11 @@
         "can_use": [
           "Green Axe"
         ]
-      }
     }
+    },
+    "addition_date": "2018-07-20",
+    "release_date": "2018-07-20",
+    "version": "2.7"
   },
   {
     "id": "SID_アイオテの盾",
@@ -69233,8 +70105,11 @@
         "can_use": [
           "Blue Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2018-01-25",
+    "release_date": "2018-01-25",
+    "version": "2.1"
   },
   {
     "id": "SID_ジョーカーの食器",
@@ -69743,8 +70618,11 @@
         "can_use": [
           "Colorless Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2020-10-07",
+    "release_date": "2020-10-08",
+    "version": "4.10"
   },
   {
     "id": "SID_お調子者の碧槍",
@@ -69862,8 +70740,11 @@
         "can_use": [
           "Colorless Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2020-05-20",
+    "release_date": "2020-05-20",
+    "version": "4.5"
   },
   {
     "id": "SID_ランタンの杖",
@@ -70054,8 +70935,11 @@
         "can_use": [
           "Red Sword"
         ]
-      }
     }
+    },
+    "addition_date": "2017-07-07",
+    "release_date": "2017-07-07",
+    "version": "1.5"
   },
   {
     "id": "SID_夏野菜の桶",
@@ -71004,8 +71888,11 @@
         "can_use": [
           "Colorless Staff"
         ]
-      }
     }
+    },
+    "addition_date": "2021-01-07",
+    "release_date": "2021-01-08",
+    "version": "5.1"
   },
   {
     "id": "SID_キラーアクス",
@@ -71431,8 +72318,11 @@
         "can_use": [
           "All Beast"
         ]
-      }
     }
+    },
+    "addition_date": "2019-02-20",
+    "release_date": "2019-02-20",
+    "version": "3.2"
   },
   {
     "id": "SID_妖狐王の爪牙_一",
@@ -71458,8 +72348,11 @@
         "can_use": [
           "All Beast"
         ]
-      }
     }
+    },
+    "addition_date": "2019-02-20",
+    "release_date": "2019-02-20",
+    "version": "3.2"
   },
   {
     "id": "SID_猫の暗器",
@@ -71621,8 +72514,11 @@
         "can_use": [
           "Blue Lance"
         ]
-      }
     }
+    },
+    "addition_date": "2017-07-13",
+    "release_date": "2017-07-13",
+    "version": "1.5"
   },
   {
     "id": "SID_聖騎士の嗜み",
@@ -71757,8 +72653,11 @@
         "can_use": [
           "Blue Lance"
         ]
-      }
     }
+    },
+    "addition_date": "2019-05-09",
+    "release_date": "2019-05-10",
+    "version": "3.5"
   },
   {
     "id": "SID_熊手",
@@ -72123,8 +73022,11 @@
         "can_use": [
           "Red Sword"
         ]
-      }
     }
+    },
+    "addition_date": "2021-06-07",
+    "release_date": "2021-06-08",
+    "version": "5.6"
   },
   {
     "id": "SID_レーヴァテイン",
@@ -72379,8 +73281,11 @@
         "can_use": [
           "Red Sword"
         ]
-      }
     }
+    },
+    "addition_date": "2017-07-13",
+    "release_date": "2017-07-13",
+    "version": "1.5"
   },
   {
     "id": "SID_槍の経験1",
@@ -72570,8 +73475,11 @@
         "can_use": [
           "Blue Lance"
         ]
-      }
     }
+    },
+    "addition_date": "2019-06-10",
+    "release_date": "2019-06-13",
+    "version": "3.6"
   },
   {
     "id": "SID_槍の技量1",
@@ -72797,8 +73705,11 @@
         "can_use": [
           "Red Sword"
         ]
-      }
     }
+    },
+    "addition_date": "2022-03-31",
+    "release_date": "2022-03-31",
+    "version": "6.3"
   },
   {
     "id": "SID_提灯の竜石",
@@ -73199,8 +74110,11 @@
         "can_use": [
           "Blue Lance"
         ]
-      }
     }
+    },
+    "addition_date": "2017-11-28",
+    "release_date": "2017-11-28",
+    "version": "2.0"
   },
   {
     "id": "SID_ベビーキャロット",
@@ -73338,8 +74252,11 @@
         "can_use": [
           "All Dagger"
         ]
-      }
     }
+    },
+    "addition_date": "2020-06-05",
+    "release_date": "2020-06-06",
+    "version": "4.6"
   },
   {
     "id": "SID_リベラシオン",
@@ -73669,8 +74586,11 @@
         "can_use": [
           "Red Sword"
         ]
-      }
     }
+    },
+    "addition_date": "2018-04-11",
+    "release_date": "2018-04-11",
+    "version": "2.4"
   },
   {
     "id": "SID_光のブレス",
@@ -73816,8 +74736,11 @@
         "can_use": [
           "Green Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2019-08-16",
+    "release_date": "2019-08-16",
+    "version": "3.8"
   },
   {
     "id": "SID_エトルリアの光",
@@ -74127,8 +75050,11 @@
         "can_use": [
           "All Beast"
         ]
-      }
     }
+    },
+    "addition_date": "2019-04-09",
+    "release_date": "2019-04-10",
+    "version": "3.4"
   },
   {
     "id": "SID_蒼獅子の愛の剣",
@@ -74654,8 +75580,11 @@
         "can_use": [
           "Red Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2018-05-09",
+    "release_date": "2018-05-14",
+    "version": "2.5"
   },
   {
     "id": "SID_華冑の槍",
@@ -74710,8 +75639,11 @@
         "can_use": [
           "Blue Lance"
         ]
-      }
     }
+    },
+    "addition_date": "2017-07-13",
+    "release_date": "2017-08-11",
+    "version": "1.6"
   },
   {
     "id": "SID_愛情のブーケ",
@@ -75018,8 +75950,11 @@
         "can_use": [
           "Blue Lance"
         ]
-      }
     }
+    },
+    "addition_date": "2017-09-15",
+    "release_date": "2017-09-15",
+    "version": "1.7"
   },
   {
     "id": "SID_花輪",
@@ -75155,8 +76090,11 @@
         "can_use": [
           "Blue Lance"
         ]
-      }
     }
+    },
+    "addition_date": "2018-04-11",
+    "release_date": "2018-04-21",
+    "version": "2.4"
   },
   {
     "id": "SID_おまじないの弓",
@@ -75211,8 +76149,11 @@
         "can_use": [
           "All Bow"
         ]
-      }
     }
+    },
+    "addition_date": "2020-04-07",
+    "release_date": "2020-04-08",
+    "version": "4.4"
   },
   {
     "id": "SID_ルーン",
@@ -75995,8 +76936,11 @@
         "can_use": [
           "All Bow"
         ]
-      }
     }
+    },
+    "addition_date": "2019-04-26",
+    "release_date": "2019-04-27",
+    "version": "3.4"
   },
   {
     "id": "SID_月の腕輪",
@@ -76243,8 +77187,11 @@
         "can_use": [
           "All Dagger"
         ]
-      }
     }
+    },
+    "addition_date": "2018-12-11",
+    "release_date": "2018-12-11",
+    "version": "3.0"
   },
   {
     "id": "SID_リュングヘイズ",
@@ -76839,8 +77786,11 @@
         "can_use": [
           "Blue Lance"
         ]
-      }
     }
+    },
+    "addition_date": "2018-08-21",
+    "release_date": "2018-08-21",
+    "version": "2.8"
   },
   {
     "id": "SID_マリータの剣",
@@ -77051,8 +78001,11 @@
         "can_use": [
           "Blue Lance"
         ]
-      }
     }
+    },
+    "addition_date": "2019-10-21",
+    "release_date": "2019-10-24",
+    "version": "3.10"
   },
   {
     "id": "SID_鉄面の斧",
@@ -77107,8 +78060,11 @@
         "can_use": [
           "Green Axe"
         ]
-      }
     }
+    },
+    "addition_date": "2018-03-09",
+    "release_date": "2018-03-15",
+    "version": "2.3"
   },
   {
     "id": "SID_神軍師の書",
@@ -77244,8 +78200,11 @@
         "can_use": [
           "All Bow"
         ]
-      }
     }
+    },
+    "addition_date": "2019-10-29",
+    "release_date": "2019-10-29",
+    "version": "3.10"
   },
   {
     "id": "SID_マスターソード",
@@ -77297,8 +78256,11 @@
         "can_use": [
           "Red Sword"
         ]
-      }
     }
+    },
+    "addition_date": "2018-04-11",
+    "release_date": "2018-04-11",
+    "version": "2.4"
   },
   {
     "id": "SID_メランコリー",
@@ -77689,8 +78651,11 @@
         "can_use": [
           "Blue Lance"
         ]
-      }
     }
+    },
+    "addition_date": "2020-09-18",
+    "release_date": "2020-09-18",
+    "version": "4.9"
   },
   {
     "id": "SID_メリクル",
@@ -77742,8 +78707,11 @@
         "can_use": [
           "Red Sword"
         ]
-      }
     }
+    },
+    "addition_date": "2019-09-19",
+    "release_date": "2019-09-23",
+    "version": "3.9"
   },
   {
     "id": "SID_響・救援の行路",
@@ -78103,8 +79071,11 @@
         "can_use": [
           "Green Axe"
         ]
-      }
     }
+    },
+    "addition_date": "2020-01-17",
+    "release_date": "2020-01-20",
+    "version": "4.1"
   },
   {
     "id": "SID_幻影ファルシオン",
@@ -78160,8 +79131,11 @@
         "can_use": [
           "Red Sword"
         ]
-      }
     }
+    },
+    "addition_date": "2020-01-17",
+    "release_date": "2020-01-20",
+    "version": "4.1"
   },
   {
     "id": "SID_幻影フェザー",
@@ -78221,8 +79195,11 @@
         "can_use": [
           "Blue Lance"
         ]
-      }
     }
+    },
+    "addition_date": "2020-01-17",
+    "release_date": "2020-01-20",
+    "version": "4.1"
   },
   {
     "id": "SID_幻影ロングボウ",
@@ -78279,8 +79256,11 @@
         "can_use": [
           "All Bow"
         ]
-      }
     }
+    },
+    "addition_date": "2020-01-17",
+    "release_date": "2020-01-20",
+    "version": "4.1"
   },
   {
     "id": "SID_幻影ロッド",
@@ -78333,8 +79313,11 @@
         "can_use": [
           "Red Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2020-01-17",
+    "release_date": "2020-01-20",
+    "version": "4.1"
   },
   {
     "id": "SID_鬼神明鏡の瞬撃3",
@@ -78985,8 +79968,11 @@
         "can_use": [
           "Blue Lance"
         ]
-      }
     }
+    },
+    "addition_date": "2020-08-18",
+    "release_date": "2020-08-18",
+    "version": "4.8"
   },
   {
     "id": "SID_双姫の月翼",
@@ -79123,8 +80109,11 @@
         "can_use": [
           "All Breath"
         ]
-      }
     }
+    },
+    "addition_date": "2020-10-07",
+    "release_date": "2020-10-08",
+    "version": "4.10"
   },
   {
     "id": "SID_華月の腕輪",
@@ -79255,6 +80244,7 @@
   },
   {
     "id": "SID_月を浴び地に眠る",
+    "game8_id": "556375",
     "name": "Moonlit Slumber",
     "group_name": "Moonlit Slumber",
     "category": "passiveb",
@@ -79409,8 +80399,11 @@
         "can_use": [
           "All Bow"
         ]
-      }
     }
+    },
+    "addition_date": "2017-08-31",
+    "release_date": "2017-08-31",
+    "version": "1.6"
   },
   {
     "id": "SID_ムニンの魔卵",
@@ -79727,8 +80720,11 @@
         "can_use": [
           "Red Sword"
         ]
-      }
     }
+    },
+    "addition_date": "2017-02-27",
+    "release_date": "2017-02-27",
+    "version": "1.0"
   },
   {
     "id": "SID_ナバタの燭台",
@@ -79901,6 +80897,9 @@
         ]
       }
     },
+    "addition_date": "2017-02-15",
+    "release_date": "2017-02-15",
+    "version": "1.0",
     "downgrade_ids": [
       "SID_レクスカリバー"
     ]
@@ -79930,8 +80929,11 @@
         "can_use": [
           "Green Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2017-02-15",
+    "release_date": "2017-02-15",
+    "version": "1.0"
   },
   {
     "id": "SID_ナグルファル",
@@ -79983,8 +80985,11 @@
         "can_use": [
           "Red Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2018-01-25",
+    "release_date": "2018-01-26",
+    "version": "2.1"
   },
   {
     "id": "SID_無銘の一門の剣",
@@ -80031,8 +81036,11 @@
         "can_use": [
           "Red Sword"
         ]
-      }
     }
+    },
+    "addition_date": "2017-02-02",
+    "release_date": "2017-02-02",
+    "version": "1.0"
   },
   {
     "id": "SID_薬の癒し手の角",
@@ -80200,8 +81208,11 @@
         "can_use": [
           "Colorless Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2021-08-31",
+    "release_date": "2021-08-31",
+    "version": "5.8"
   },
   {
     "id": "SID_新たなる神竜王",
@@ -80278,8 +81289,11 @@
         "can_use": [
           "All Beast"
         ]
-      }
     }
+    },
+    "addition_date": "2019-12-25",
+    "release_date": "2020-01-01",
+    "version": "4.0"
   },
   {
     "id": "SID_新年の妖狐娘の爪牙_一",
@@ -80304,8 +81318,11 @@
         "can_use": [
           "All Beast"
         ]
-      }
     }
+    },
+    "addition_date": "2019-12-25",
+    "release_date": "2020-01-01",
+    "version": "4.0"
   },
   {
     "id": "SID_錬磨サンダーソード",
@@ -80643,8 +81660,11 @@
         "can_use": [
           "All Bow"
         ]
-      }
     }
+    },
+    "addition_date": "2017-08-15",
+    "release_date": "2017-08-15",
+    "version": "1.6"
   },
   {
     "id": "SID_ニザヴェリルの弩弓",
@@ -80783,8 +81803,11 @@
         "can_use": [
           "Green Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2018-05-21",
+    "release_date": "2018-05-21",
+    "version": "2.5"
   },
   {
     "id": "SID_絶氷ニフル",
@@ -80917,11 +81940,15 @@
         "can_use": [
           "All Beast"
         ]
-      }
     }
+    },
+    "addition_date": "2020-07-20",
+    "release_date": "2020-11-27",
+    "version": "4.11"
   },
   {
     "id": "SID_悪夢の女王の魔杖",
+    "game8_id": "556367",
     "name": "Nightmare Staff",
     "group_name": "Nightmare Staff",
     "category": "weapon",
@@ -81713,8 +82740,11 @@
         "can_use": [
           "All Bow"
         ]
-      }
     }
+    },
+    "addition_date": "2021-04-05",
+    "release_date": "2021-04-06",
+    "version": "5.4"
   },
   {
     "id": "SID_高潔の戦槍",
@@ -81766,11 +82796,15 @@
         "can_use": [
           "Blue Lance"
         ]
-      }
     }
+    },
+    "addition_date": "2019-07-21",
+    "release_date": "2019-07-22",
+    "version": "3.7"
   },
   {
     "id": "SID_夜駆ける戦猫の爪牙",
+    "game8_id": "556366",
     "name": "Nocturnal Fang",
     "group_name": "Nocturnal Fang",
     "category": "weapon",
@@ -82345,8 +83379,11 @@
         "can_use": [
           "All Breath"
         ]
-      }
     }
+    },
+    "addition_date": "2020-05-29",
+    "release_date": "2020-05-29",
+    "version": "4.5"
   },
   {
     "id": "SID_オスティアの血盟",
@@ -82640,8 +83677,11 @@
         "can_use": [
           "Green Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2017-11-28",
+    "release_date": "2017-12-02",
+    "version": "2.0"
   },
   {
     "id": "SID_黒曜の槍",
@@ -82693,8 +83733,11 @@
         "can_use": [
           "Blue Lance"
         ]
-      }
     }
+    },
+    "addition_date": "2020-12-08",
+    "release_date": "2020-12-08",
+    "version": "5.0"
   },
   {
     "id": "SID_黒曜石の教え",
@@ -85262,8 +86305,11 @@
         "can_use": [
           "Blue Lance"
         ]
-      }
     }
+    },
+    "addition_date": "2017-02-02",
+    "release_date": "2017-02-02",
+    "version": "1.0"
   },
   {
     "id": "SID_若き黒豹の剣",
@@ -85312,8 +86358,11 @@
         "can_use": [
           "Red Sword"
         ]
-      }
     }
+    },
+    "addition_date": "2017-02-02",
+    "release_date": "2017-02-02",
+    "version": "1.0"
   },
   {
     "id": "SID_被害妄想",
@@ -85417,8 +86466,11 @@
         "can_use": [
           "All Bow"
         ]
-      }
     }
+    },
+    "addition_date": "2017-02-02",
+    "release_date": "2017-02-02",
+    "version": "1.0"
   },
   {
     "id": "SID_生涯の相棒の鋭弓",
@@ -86183,8 +87235,11 @@
         "can_use": [
           "All Bow"
         ]
-      }
     }
+    },
+    "addition_date": "2020-03-05",
+    "release_date": "2020-03-06",
+    "version": "4.3"
   },
   {
     "id": "SID_軍略伝授の刃",
@@ -86263,8 +87318,11 @@
         "can_use": [
           "All Dagger"
         ]
-      }
     }
+    },
+    "addition_date": "2018-01-12",
+    "release_date": "2018-01-12",
+    "version": "2.1"
   },
   {
     "id": "SID_日傘",
@@ -86523,8 +87581,11 @@
         "can_use": [
           "Red Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2021-01-07",
+    "release_date": "2021-01-09",
+    "version": "5.1"
   },
   {
     "id": "SID_幻影の書",
@@ -86575,8 +87636,11 @@
         "can_use": [
           "Colorless Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2021-08-17",
+    "release_date": "2021-08-17",
+    "version": "5.8"
   },
   {
     "id": "SID_理の見切り・追撃",
@@ -86857,6 +87921,7 @@
   },
   {
     "id": "SID_やさしいよるのゆめ",
+    "game8_id": "556371",
     "name": "Pleasant Night",
     "group_name": "Pleasant Night",
     "category": "assist",
@@ -87170,8 +88235,11 @@
         "can_use": [
           "Green Axe"
         ]
-      }
     }
+    },
+    "addition_date": "2020-06-05",
+    "release_date": "2020-06-05",
+    "version": "4.6"
   },
   {
     "id": "SID_神罰・因果応報",
@@ -87807,8 +88875,11 @@
         "can_use": [
           "Blue Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2018-12-28",
+    "release_date": "2018-12-28",
+    "version": "3.0"
   },
   {
     "id": "SID_暗獣・初撃の鼓動",
@@ -87838,6 +88909,33 @@
     "version": "9.4",
     "downgrade_ids": [
       "SID_無への暗闘3"
+    ]
+  },
+  {
+    "id": "SID_初撃の鼓動・謀策",
+    "name": "Preempt: Ploy",
+    "group_name": "Preempt: Ploy",
+    "category": "passivec",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/93/Preempt_Ploy.png/revision/latest?cb=20251017062713",
+    "is_prf": false,
+    "sp": 300,
+    "tier": 4,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Infantry"
+        ]
+      },
+      "weapons": {
+        "none": true
+      }
+    },
+    "addition_date": "2025-10-17",
+    "release_date": "2025-10-17",
+    "version": "9.10",
+    "downgrade_ids": [
+      "SID_始まりの鼓動3"
     ]
   },
   {
@@ -87898,6 +88996,7 @@
   },
   {
     "id": "SID_肉食らう獅子の爪牙",
+    "game8_id": "556368",
     "name": "Preying Fang",
     "group_name": "Preying Fang",
     "category": "weapon",
@@ -88001,8 +89100,11 @@
         "can_use": [
           "All Breath"
         ]
-      }
     }
+    },
+    "addition_date": "2020-08-31",
+    "release_date": "2020-08-31",
+    "version": "4.8"
   },
   {
     "id": "SID_荒波制す氷王の槍",
@@ -88160,8 +89262,11 @@
         "can_use": [
           "Blue Lance"
         ]
-      }
     }
+    },
+    "addition_date": "2019-11-19",
+    "release_date": "2019-11-19",
+    "version": "3.11"
   },
   {
     "id": "SID_天才肌の薄薙刀",
@@ -88262,8 +89367,11 @@
         "can_use": [
           "Blue Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2021-12-24",
+    "release_date": "2021-12-24",
+    "version": "6.0"
   },
   {
     "id": "SID_師の導きの書",
@@ -88313,8 +89421,11 @@
         "can_use": [
           "Green Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2021-06-30",
+    "release_date": "2021-06-30",
+    "version": "5.6"
   },
   {
     "id": "SID_守護の弓",
@@ -88569,8 +89680,11 @@
         "can_use": [
           "Blue Lance"
         ]
-      }
     }
+    },
+    "addition_date": "2021-06-07",
+    "release_date": "2021-06-09",
+    "version": "5.6"
   },
   {
     "id": "SID_追撃の鼓動・刃",
@@ -88973,8 +90087,11 @@
         "can_use": [
           "Colorless Staff"
         ]
-      }
     }
+    },
+    "addition_date": "2018-07-20",
+    "release_date": "2018-07-20",
+    "version": "2.7"
   },
   {
     "id": "SID_見習い魔道士の書",
@@ -89196,8 +90313,11 @@
         "can_use": [
           "All Breath"
         ]
-      }
     }
+    },
+    "addition_date": "2017-02-02",
+    "release_date": "2017-02-02",
+    "version": "1.0"
   },
   {
     "id": "SID_追撃の斧",
@@ -89484,8 +90604,11 @@
         "can_use": [
           "All Bow"
         ]
-      }
     }
+    },
+    "addition_date": "2019-03-07",
+    "release_date": "2019-03-08",
+    "version": "3.3"
   },
   {
     "id": "SID_切り返し1",
@@ -90614,8 +91737,11 @@
         "can_use": [
           "Red Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2017-05-15",
+    "release_date": "2017-05-15",
+    "version": "1.3"
   },
   {
     "id": "SID_ラグネル",
@@ -90666,8 +91792,11 @@
         "can_use": [
           "Red Sword"
         ]
-      }
     }
+    },
+    "addition_date": "2017-04-26",
+    "release_date": "2017-04-26",
+    "version": "1.2"
   },
   {
     "id": "SID_ラグネル＆エタルド",
@@ -90772,8 +91901,11 @@
         "can_use": [
           "Red Sword"
         ]
-      }
     }
+    },
+    "addition_date": "2017-02-02",
+    "release_date": "2017-02-02",
+    "version": "1.0"
   },
   {
     "id": "SID_攻撃守備の応援",
@@ -92650,8 +93782,11 @@
         "can_use": [
           "All Beast"
         ]
-      }
     }
+    },
+    "addition_date": "2019-01-10",
+    "release_date": "2019-01-11",
+    "version": "3.1"
   },
   {
     "id": "SID_夏夜の夢の角",
@@ -92739,8 +93874,11 @@
         "can_use": [
           "All Breath"
         ]
-      }
     }
+    },
+    "addition_date": "2019-05-09",
+    "release_date": "2019-05-10",
+    "version": "3.5"
   },
   {
     "id": "SID_白夜と暗夜と共に",
@@ -93291,6 +94429,29 @@
     }
   },
   {
+    "id": "SID_研鑽重ねし魔道の力",
+    "game8_id": "558466",
+    "name": "Refined Magic",
+    "group_name": "Refined Magic",
+    "category": "passivea",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/0e/Refined_Magic.png/revision/latest?cb=20251017062622",
+    "is_prf": true,
+    "sp": 300,
+    "tier": 1,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "none": true
+      }
+    },
+    "addition_date": "2025-10-17",
+    "release_date": "2025-10-17",
+    "version": "9.10"
+  },
+  {
     "id": "SID_賀正の妖狐王の爪牙",
     "game8_id": "315230",
     "name": "Refreshed Fang",
@@ -93344,8 +94505,11 @@
         "can_use": [
           "All Beast"
         ]
-      }
     }
+    },
+    "addition_date": "2020-12-28",
+    "release_date": "2021-01-01",
+    "version": "5.0"
   },
   {
     "id": "SID_氷菓子の弓",
@@ -93462,8 +94626,11 @@
         "can_use": [
           "Red Sword"
         ]
-      }
     }
+    },
+    "addition_date": "2017-05-15",
+    "release_date": "2017-05-19",
+    "version": "1.3"
   },
   {
     "id": "SID_強靭なる女王の大傘",
@@ -93550,8 +94717,11 @@
         "can_use": [
           "Blue Lance"
         ]
-      }
     }
+    },
+    "addition_date": "2019-11-06",
+    "release_date": "2019-11-07",
+    "version": "3.11"
   },
   {
     "id": "SID_剣姫の流星",
@@ -94021,8 +95191,11 @@
         "can_use": [
           "All Breath"
         ]
-      }
     }
+    },
+    "addition_date": "2022-08-17",
+    "release_date": "2022-08-17",
+    "version": "6.8"
   },
   {
     "id": "SID_鬼神明鏡の離撃3",
@@ -94247,8 +95420,11 @@
         "can_use": [
           "All Beast"
         ]
-      }
     }
+    },
+    "addition_date": "2020-12-28",
+    "release_date": "2021-01-01",
+    "version": "5.0"
   },
   {
     "id": "SID_弓騎士の名弓",
@@ -94303,8 +95479,11 @@
         "can_use": [
           "All Bow"
         ]
-      }
     }
+    },
+    "addition_date": "2017-02-02",
+    "release_date": "2017-02-02",
+    "version": "1.0"
   },
   {
     "id": "SID_一新",
@@ -95487,8 +96666,11 @@
         "can_use": [
           "Red Sword"
         ]
-      }
     }
+    },
+    "addition_date": "2017-11-15",
+    "release_date": "2017-11-15",
+    "version": "1.8"
   },
   {
     "id": "SID_賀正の人狼王の爪牙",
@@ -95544,8 +96726,11 @@
         "can_use": [
           "All Beast"
         ]
-      }
     }
+    },
+    "addition_date": "2020-12-28",
+    "release_date": "2021-01-01",
+    "version": "5.0"
   },
   {
     "id": "SID_共鳴の黒魔法1",
@@ -96044,8 +97229,11 @@
         "can_use": [
           "Blue Lance"
         ]
-      }
     }
+    },
+    "addition_date": "2019-11-06",
+    "release_date": "2019-11-11",
+    "version": "3.11"
   },
   {
     "id": "SID_強化反転の斧",
@@ -96399,8 +97587,11 @@
         "can_use": [
           "Blue Lance"
         ]
-      }
     }
+    },
+    "addition_date": "2017-04-14",
+    "release_date": "2017-04-14",
+    "version": "1.2"
   },
   {
     "id": "SID_ホースキラー",
@@ -96820,8 +98011,11 @@
         "can_use": [
           "Colorless Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2022-10-31",
+    "release_date": "2022-10-31",
+    "version": "6.10"
   },
   {
     "id": "SID_疾風大地の舞い1",
@@ -97728,8 +98922,11 @@
         "can_use": [
           "Red Sword"
         ]
-      }
     }
+    },
+    "addition_date": "2017-06-14",
+    "release_date": "2017-06-14",
+    "version": "1.4"
   },
   {
     "id": "SID_砂漠の狼女王の牙",
@@ -97810,8 +99007,11 @@
         "can_use": [
           "Red Sword"
         ]
-      }
     }
+    },
+    "addition_date": "2018-08-21",
+    "release_date": "2018-08-21",
+    "version": "2.8"
   },
   {
     "id": "SID_旭日の剣",
@@ -98028,8 +99228,11 @@
         "can_use": [
           "Green Axe"
         ]
-      }
     }
+    },
+    "addition_date": "2017-02-02",
+    "release_date": "2017-02-10",
+    "version": "1.0"
   },
   {
     "id": "SID_破天",
@@ -98908,8 +100111,11 @@
         "can_use": [
           "All Beast"
         ]
-      }
     }
+    },
+    "addition_date": "2019-04-09",
+    "release_date": "2019-04-10",
+    "version": "3.4"
   },
   {
     "id": "SID_黒騎の孤槍",
@@ -98959,8 +100165,11 @@
         "can_use": [
           "Blue Lance"
         ]
-      }
     }
+    },
+    "addition_date": "2019-09-19",
+    "release_date": "2019-09-19",
+    "version": "3.9"
   },
   {
     "id": "SID_攻撃守備の混乱3",
@@ -99467,8 +100676,11 @@
         "can_use": [
           "All Bow"
         ]
-      }
     }
+    },
+    "addition_date": "2020-02-17",
+    "release_date": "2020-02-17",
+    "version": "4.2"
   },
   {
     "id": "SID_プレゼント袋",
@@ -99753,8 +100965,11 @@
         "can_use": [
           "Blue Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2018-10-23",
+    "release_date": "2018-10-23",
+    "version": "2.10"
   },
   {
     "id": "SID_天聖エンジェル",
@@ -99806,11 +101021,15 @@
         "can_use": [
           "Green Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2019-12-25",
+    "release_date": "2019-12-25",
+    "version": "4.0"
   },
   {
     "id": "SID_聖女の慈愛の書",
+    "game8_id": "557622",
     "name": "Saintship Tome",
     "group_name": "Saintship Tome",
     "category": "weapon",
@@ -99836,6 +101055,7 @@
   {
     "id": "SID_聖女の慈愛の書_一",
     "base_id": "SID_聖女の慈愛の書",
+    "game8_id": "557622",
     "name": "Saintship Tome",
     "group_name": "Saintship Tome",
     "category": "weapon",
@@ -99854,8 +101074,11 @@
         "can_use": [
           "Blue Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2021-06-07",
+    "release_date": "2021-06-08",
+    "version": "5.6"
   },
   {
     "id": "SID_サイゾウの爆炎針",
@@ -100355,8 +101578,11 @@
         "can_use": [
           "All Breath"
         ]
-      }
     }
+    },
+    "addition_date": "2019-05-09",
+    "release_date": "2019-05-10",
+    "version": "3.5"
   },
   {
     "id": "SID_慧眼隊形1",
@@ -100667,8 +101893,11 @@
         "can_use": [
           "Red Sword"
         ]
-      }
     }
+    },
+    "addition_date": "2017-02-02",
+    "release_date": "2017-04-04",
+    "version": "1.1"
   },
   {
     "id": "SID_覇神断竜剣",
@@ -100745,8 +101974,11 @@
         "can_use": [
           "Green Axe"
         ]
-      }
     }
+    },
+    "addition_date": "2020-02-06",
+    "release_date": "2020-02-06",
+    "version": "4.2"
   },
   {
     "id": "SID_奥義隊形・竜眼",
@@ -100882,8 +102114,11 @@
         "can_use": [
           "Blue Lance"
         ]
-      }
     }
+    },
+    "addition_date": "2019-08-06",
+    "release_date": "2019-08-12",
+    "version": "3.8"
   },
   {
     "id": "SID_南国の楽器",
@@ -102078,8 +103313,11 @@
         "can_use": [
           "Red Sword"
         ]
-      }
     }
+    },
+    "addition_date": "2018-03-09",
+    "release_date": "2018-03-09",
+    "version": "2.3"
   },
   {
     "id": "SID_熱帯魚の本",
@@ -102389,9 +103627,6 @@
         ]
       }
     },
-    "addition_date": "2022-12-05",
-    "release_date": "2022-12-07",
-    "version": "7.0",
     "downgrade_ids": [
       "SID_レクスカリバー"
     ]
@@ -103134,6 +104369,7 @@
   },
   {
     "id": "SID_影助・体当たり1",
+    "game8_id": "556377",
     "name": "Shadow Shove 1",
     "group_name": "Shadow Shove",
     "category": "passivec",
@@ -103162,6 +104398,7 @@
   },
   {
     "id": "SID_影助・体当たり2",
+    "game8_id": "556378",
     "name": "Shadow Shove 2",
     "group_name": "Shadow Shove",
     "category": "passivec",
@@ -103193,6 +104430,7 @@
   },
   {
     "id": "SID_影助・体当たり3",
+    "game8_id": "556379",
     "name": "Shadow Shove 3",
     "group_name": "Shadow Shove",
     "category": "passivec",
@@ -103224,6 +104462,7 @@
   },
   {
     "id": "SID_影助・体当たり4",
+    "game8_id": "556380",
     "name": "Shadow Shove 4",
     "group_name": "Shadow Shove",
     "category": "passivec",
@@ -103443,8 +104682,11 @@
         "can_use": [
           "Red Sword"
         ]
-      }
     }
+    },
+    "addition_date": "2019-05-09",
+    "release_date": "2019-05-10",
+    "version": "3.5"
   },
   {
     "id": "SID_双夜舞う怪盗の羽根",
@@ -103519,8 +104761,11 @@
         "can_use": [
           "Red Sword"
         ]
-      }
     }
+    },
+    "addition_date": "2018-01-25",
+    "release_date": "2018-01-31",
+    "version": "2.1"
   },
   {
     "id": "SID_シャニーの誓槍",
@@ -103986,6 +105231,7 @@
       "SID_古の変身の書",
       "SID_魔器・恍惚の花",
       "SID_魔器メデューサ",
+      "SID_魔器レクスボルト",
       "SID_魔器・雷公の書",
       "SID_アルジローレ",
       "SID_アーリアル",
@@ -104416,8 +105662,11 @@
         "can_use": [
           "Red Sword"
         ]
-      }
     }
+    },
+    "addition_date": "2017-02-02",
+    "release_date": "2017-05-02",
+    "version": "1.2"
   },
   {
     "id": "SID_ジークリンデ",
@@ -104469,8 +105718,11 @@
         "can_use": [
           "Red Sword"
         ]
-      }
     }
+    },
+    "addition_date": "2017-02-15",
+    "release_date": "2017-02-15",
+    "version": "1.0"
   },
   {
     "id": "SID_ジークムント",
@@ -104522,8 +105774,11 @@
         "can_use": [
           "Blue Lance"
         ]
-      }
     }
+    },
+    "addition_date": "2017-02-15",
+    "release_date": "2017-02-15",
+    "version": "1.0"
   },
   {
     "id": "SID_サイレスガード1",
@@ -104787,8 +106042,11 @@
         "can_use": [
           "Blue Lance"
         ]
-      }
     }
+    },
+    "addition_date": "2021-02-16",
+    "release_date": "2021-02-16",
+    "version": "5.2"
   },
   {
     "id": "SID_銀の斧",
@@ -104831,6 +106089,7 @@
       "SID_紅炎の親子の聖斧",
       "SID_青獅子の聖夜の斧",
       "SID_黒鉄忍者の鎖鎌",
+      "SID_ボルトアクス",
       "SID_ウカノミタマ",
       "SID_ビューレイスト",
       "SID_海賊の長の大斧",
@@ -105471,6 +106730,7 @@
       "SID_砂漠の天馬騎士の剣",
       "SID_影の英雄の剣",
       "SID_烈剣デュランダル",
+      "SID_乳姉妹の絆の剣",
       "SID_カラドボルグ",
       "SID_白銀の剣",
       "SID_修羅アマツ",
@@ -105569,6 +106829,7 @@
       "SID_雷霆",
       "SID_影の勇者の黒剣",
       "SID_ティルフィング",
+      "SID_ヴァーグ・カティ",
       "SID_始祖の巨人の剣",
       "SID_毒の剣",
       "SID_至聖ティルフィング",
@@ -105656,8 +106917,11 @@
         "can_use": [
           "Red Sword"
         ]
-      }
     }
+    },
+    "addition_date": "2017-08-15",
+    "release_date": "2017-08-15",
+    "version": "1.6"
   },
   {
     "id": "SID_歌う",
@@ -105882,8 +107146,11 @@
         "can_use": [
           "All Bow"
         ]
-      }
     }
+    },
+    "addition_date": "2018-02-22",
+    "release_date": "2018-02-24",
+    "version": "2.2"
   },
   {
     "id": "SID_スキンファクシ",
@@ -105935,8 +107202,11 @@
         "can_use": [
           "Green Axe"
         ]
-      }
     }
+    },
+    "addition_date": "2021-02-16",
+    "release_date": "2021-03-30",
+    "version": "5.3"
   },
   {
     "id": "SID_スクルド",
@@ -106111,8 +107381,11 @@
         "can_use": [
           "All Beast"
         ]
-      }
     }
+    },
+    "addition_date": "2020-08-06",
+    "release_date": "2020-08-07",
+    "version": "4.8"
   },
   {
     "id": "SID_キラーアクス2",
@@ -107149,8 +108422,11 @@
         "can_use": [
           "Green Axe"
         ]
-      }
     }
+    },
+    "addition_date": "2017-06-14",
+    "release_date": "2017-06-16",
+    "version": "1.4"
   },
   {
     "id": "SID_冷笑の遊弓",
@@ -107205,8 +108481,11 @@
         "can_use": [
           "All Bow"
         ]
-      }
     }
+    },
+    "addition_date": "2019-10-21",
+    "release_date": "2019-10-21",
+    "version": "3.10"
   },
   {
     "id": "SID_狙撃手の弓",
@@ -107616,8 +108895,11 @@
         "can_use": [
           "Red Sword"
         ]
-      }
     }
+    },
+    "addition_date": "2017-02-02",
+    "release_date": "2017-02-02",
+    "version": "1.0"
   },
   {
     "id": "SID_太陽槍",
@@ -107669,8 +108951,11 @@
         "can_use": [
           "Blue Lance"
         ]
-      }
     }
+    },
+    "addition_date": "2019-10-21",
+    "release_date": "2019-10-21",
+    "version": "3.10"
   },
   {
     "id": "SID_太陽の腕輪",
@@ -107985,8 +109270,11 @@
         "can_use": [
           "Red Sword"
         ]
-      }
     }
+    },
+    "addition_date": "2017-02-02",
+    "release_date": "2017-02-02",
+    "version": "1.0"
   },
   {
     "id": "SID_ひとりぼっちのゆめ",
@@ -108246,8 +109534,11 @@
         "can_use": [
           "Red Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2021-02-16",
+    "release_date": "2021-02-16",
+    "version": "5.2"
   },
   {
     "id": "SID_生命の輝き",
@@ -112952,8 +114243,11 @@
         "can_use": [
           "Blue Lance"
         ]
-      }
     }
+    },
+    "addition_date": "2020-10-19",
+    "release_date": "2020-10-19",
+    "version": "4.10"
   },
   {
     "id": "SID_影の英雄の槍",
@@ -113003,8 +114297,11 @@
         "can_use": [
           "Blue Lance"
         ]
-      }
     }
+    },
+    "addition_date": "2020-07-20",
+    "release_date": "2020-07-20",
+    "version": "4.7"
   },
   {
     "id": "SID_奥義隊形1",
@@ -113739,8 +115036,11 @@
         "can_use": [
           "All Breath"
         ]
-      }
     }
+    },
+    "addition_date": "2018-10-09",
+    "release_date": "2018-10-10",
+    "version": "2.10"
   },
   {
     "id": "SID_精霊の森の秘本",
@@ -113797,8 +115097,11 @@
         "can_use": [
           "Blue Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2022-08-31",
+    "release_date": "2022-08-31",
+    "version": "6.8"
   },
   {
     "id": "SID_士気旺盛の斧",
@@ -114127,6 +115430,7 @@
   },
   {
     "id": "SID_妖精の悪戯の明かり",
+    "game8_id": "556369",
     "name": "Spooky Lantern",
     "group_name": "Spooky Lantern",
     "category": "weapon",
@@ -114373,8 +115677,11 @@
         "can_use": [
           "Colorless Staff"
         ]
-      }
     }
+    },
+    "addition_date": "2017-05-15",
+    "release_date": "2017-05-15",
+    "version": "1.3"
   },
   {
     "id": "SID_春兎の斧",
@@ -115441,8 +116748,11 @@
         "can_use": [
           "All Bow"
         ]
-      }
     }
+    },
+    "addition_date": "2018-09-14",
+    "release_date": "2018-09-14",
+    "version": "2.9"
   },
   {
     "id": "SID_密偵の暗器",
@@ -115655,8 +116965,11 @@
         "can_use": [
           "Colorless Staff"
         ]
-      }
     }
+    },
+    "addition_date": "2019-10-21",
+    "release_date": "2019-10-21",
+    "version": "3.10"
   },
   {
     "id": "SID_ロストンの霊杖",
@@ -115736,8 +117049,11 @@
         "can_use": [
           "Colorless Staff"
         ]
-      }
     }
+    },
+    "addition_date": "2022-01-28",
+    "release_date": "2022-01-28",
+    "version": "6.1"
   },
   {
     "id": "SID_感謝の花の杖",
@@ -116264,8 +117580,11 @@
         "can_use": [
           "Red Sword"
         ]
-      }
     }
+    },
+    "addition_date": "2017-02-02",
+    "release_date": "2017-02-02",
+    "version": "1.0"
   },
   {
     "id": "SID_ヒトデ",
@@ -116402,8 +117721,11 @@
         "can_use": [
           "Blue Lance"
         ]
-      }
     }
+    },
+    "addition_date": "2020-07-06",
+    "release_date": "2020-07-08",
+    "version": "4.7"
   },
   {
     "id": "SID_護衛の斧",
@@ -116756,8 +118078,11 @@
         "can_use": [
           "Blue Lance"
         ]
-      }
     }
+    },
+    "addition_date": "2017-06-14",
+    "release_date": "2017-06-14",
+    "version": "1.4"
   },
   {
     "id": "SID_飛燕金剛の構え1",
@@ -116999,6 +118324,7 @@
       "SID_バリアの斧",
       "SID_ビーチフラッグ",
       "SID_勇者の斧",
+      "SID_継戦の斧",
       "SID_ニンジンの斧",
       "SID_デッキブラシ",
       "SID_守備逆用の斧",
@@ -117636,8 +118962,11 @@
         "can_use": [
           "Red Sword"
         ]
-      }
     }
+    },
+    "addition_date": "2018-10-31",
+    "release_date": "2018-10-31",
+    "version": "2.10"
   },
   {
     "id": "SID_堅固の斧",
@@ -117807,8 +119136,11 @@
         "can_use": [
           "Green Axe"
         ]
-      }
     }
+    },
+    "addition_date": "2017-11-15",
+    "release_date": "2017-11-15",
+    "version": "1.8"
   },
   {
     "id": "SID_自信家の長槍",
@@ -117857,8 +119189,11 @@
         "can_use": [
           "Blue Lance"
         ]
-      }
     }
+    },
+    "addition_date": "2020-03-05",
+    "release_date": "2020-03-06",
+    "version": "4.3"
   },
   {
     "id": "SID_憧憬の剣",
@@ -117962,8 +119297,11 @@
         "can_use": [
           "Red Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2020-12-25",
+    "release_date": "2020-12-25",
+    "version": "5.0"
   },
   {
     "id": "SID_堅固なる獣",
@@ -118431,8 +119769,11 @@
         "can_use": [
           "All Breath"
         ]
-      }
     }
+    },
+    "addition_date": "2019-07-30",
+    "release_date": "2019-07-31",
+    "version": "3.7"
   },
   {
     "id": "SID_恐慌の惑乱1",
@@ -118604,8 +119945,11 @@
         "can_use": [
           "All Dagger"
         ]
-      }
     }
+    },
+    "addition_date": "2020-06-18",
+    "release_date": "2020-06-18",
+    "version": "4.6"
   },
   {
     "id": "SID_真夏のブレス",
@@ -118740,8 +120084,11 @@
         "can_use": [
           "All Breath"
         ]
-      }
     }
+    },
+    "addition_date": "2018-04-24",
+    "release_date": "2018-04-24",
+    "version": "2.4"
   },
   {
     "id": "SID_天日の神剣",
@@ -119476,8 +120823,11 @@
         "can_use": [
           "All Bow"
         ]
-      }
     }
+    },
+    "addition_date": "2020-10-19",
+    "release_date": "2020-10-19",
+    "version": "4.10"
   },
   {
     "id": "SID_スヴェルの盾",
@@ -119839,8 +121189,11 @@
         "can_use": [
           "All Bow"
         ]
-      }
     }
+    },
+    "addition_date": "2018-04-27",
+    "release_date": "2018-05-01",
+    "version": "2.4"
   },
   {
     "id": "SID_連閃",
@@ -120624,8 +121977,11 @@
         "can_use": [
           "Blue Lance"
         ]
-      }
     }
+    },
+    "addition_date": "2018-09-14",
+    "release_date": "2018-09-14",
+    "version": "2.9"
   },
   {
     "id": "SID_シュルグ",
@@ -120677,8 +122033,11 @@
         "can_use": [
           "All Dagger"
         ]
-      }
     }
+    },
+    "addition_date": "2018-11-21",
+    "release_date": "2018-11-21",
+    "version": "2.11"
   },
   {
     "id": "SID_寡黙なる忠義の斧",
@@ -120727,8 +122086,11 @@
         "can_use": [
           "Green Axe"
         ]
-      }
     }
+    },
+    "addition_date": "2021-03-04",
+    "release_date": "2021-03-05",
+    "version": "5.3"
   },
   {
     "id": "SID_軍師の雷書",
@@ -120777,8 +122139,11 @@
         "can_use": [
           "Blue Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2017-02-02",
+    "release_date": "2017-02-02",
+    "version": "1.0"
   },
   {
     "id": "SID_軍師の風書",
@@ -120827,8 +122192,11 @@
         "can_use": [
           "Green Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2017-02-02",
+    "release_date": "2017-02-23",
+    "version": "1.0"
   },
   {
     "id": "SID_タグエルの爪牙",
@@ -120890,8 +122258,11 @@
         "can_use": [
           "All Beast"
         ]
-      }
     }
+    },
+    "addition_date": "2019-02-20",
+    "release_date": "2019-02-24",
+    "version": "3.2"
   },
   {
     "id": "SID_タグエルの爪牙_一",
@@ -120920,8 +122291,11 @@
         "can_use": [
           "All Beast"
         ]
-      }
     }
+    },
+    "addition_date": "2019-02-20",
+    "release_date": "2019-02-24",
+    "version": "3.2"
   },
   {
     "id": "SID_疾風の双手裏剣",
@@ -120973,8 +122347,11 @@
         "can_use": [
           "All Dagger"
         ]
-      }
     }
+    },
+    "addition_date": "2020-11-05",
+    "release_date": "2020-11-06",
+    "version": "4.11"
   },
   {
     "id": "SID_ダルレカの激斧",
@@ -121024,8 +122401,11 @@
         "can_use": [
           "Green Axe"
         ]
-      }
     }
+    },
+    "addition_date": "2020-09-18",
+    "release_date": "2020-09-18",
+    "version": "4.9"
   },
   {
     "id": "SID_冷涼な果の氷菓子",
@@ -121403,8 +122783,11 @@
         "can_use": [
           "All Bow"
         ]
-      }
     }
+    },
+    "addition_date": "2019-12-16",
+    "release_date": "2019-12-16",
+    "version": "4.0"
   },
   {
     "id": "SID_お茶菓子",
@@ -121977,8 +123360,11 @@
         "can_use": [
           "Blue Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2018-01-12",
+    "release_date": "2018-01-12",
+    "version": "2.1"
   },
   {
     "id": "SID_サーリャの禁呪",
@@ -122514,8 +123900,11 @@
         "can_use": [
           "Blue Lance"
         ]
-      }
     }
+    },
+    "addition_date": "2020-02-06",
+    "release_date": "2020-02-06",
+    "version": "4.2"
   },
   {
     "id": "SID_トロン",
@@ -122545,6 +123934,7 @@
       "SID_古の変身の書",
       "SID_魔器・恍惚の花",
       "SID_魔器メデューサ",
+      "SID_魔器レクスボルト",
       "SID_魔器・雷公の書",
       "SID_アルジローレ",
       "SID_オーラ",
@@ -122670,8 +124060,11 @@
         "can_use": [
           "Blue Lance"
         ]
-      }
     }
+    },
+    "addition_date": "2020-01-08",
+    "release_date": "2020-01-12",
+    "version": "4.1"
   },
   {
     "id": "SID_攻撃守備の威嚇1",
@@ -123525,8 +124918,11 @@
         "can_use": [
           "Green Axe"
         ]
-      }
     }
+    },
+    "addition_date": "2018-06-28",
+    "release_date": "2018-06-28",
+    "version": "2.6"
   },
   {
     "id": "SID_雷神の右腕",
@@ -123629,8 +125025,11 @@
         "can_use": [
           "Red Sword"
         ]
-      }
     }
+    },
+    "addition_date": "2020-10-19",
+    "release_date": "2020-10-19",
+    "version": "4.10"
   },
   {
     "id": "SID_怒雷の紫書",
@@ -123710,7 +125109,33 @@
           "Green Tome"
         ]
       }
-    }
+    },
+    "addition_date": "2018-04-11",
+    "release_date": "2018-04-11",
+    "version": "2.4"
+  },
+  {
+    "id": "SID_クリミアの絆",
+    "game8_id": "558470",
+    "name": "Ties of Crimea",
+    "group_name": "Ties of Crimea",
+    "category": "passivec",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/3d/Ties_of_Crimea.png/revision/latest?cb=20251017062702",
+    "is_prf": true,
+    "sp": 300,
+    "tier": 1,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "none": true
+      }
+    },
+    "addition_date": "2025-10-17",
+    "release_date": "2025-10-17",
+    "version": "9.10"
   },
   {
     "id": "SID_虎神・寅",
@@ -123787,8 +125212,11 @@
         "can_use": [
           "Green Axe"
         ]
-      }
     }
+    },
+    "addition_date": "2020-12-08",
+    "release_date": "2020-12-08",
+    "version": "5.0"
   },
   {
     "id": "SID_虎の剛斧",
@@ -123838,8 +125266,11 @@
         "can_use": [
           "Green Axe"
         ]
-      }
     }
+    },
+    "addition_date": "2020-11-17",
+    "release_date": "2020-11-17",
+    "version": "4.11"
   },
   {
     "id": "SID_時と光",
@@ -124089,6 +125520,7 @@
     "version": "3.4",
     "upgrade_ids": [
       "SID_開闢の鼓動",
+      "SID_初撃の鼓動・謀策",
       "SID_追撃の鼓動・刃",
       "SID_鍛錬の鼓動・刃",
       "SID_鍛錬の鼓動・謀策",
@@ -124429,8 +125861,11 @@
         "can_use": [
           "Red Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2021-05-06",
+    "release_date": "2021-05-07",
+    "version": "5.5"
   },
   {
     "id": "SID_戦神の闇夜の書",
@@ -124507,8 +125942,11 @@
         "can_use": [
           "Blue Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2018-01-12",
+    "release_date": "2018-01-14",
+    "version": "2.1"
   },
   {
     "id": "SID_激情の炎の書",
@@ -124557,8 +125995,11 @@
         "can_use": [
           "Red Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2021-01-07",
+    "release_date": "2021-01-08",
+    "version": "5.1"
   },
   {
     "id": "SID_グラドの史書",
@@ -124636,8 +126077,11 @@
         "can_use": [
           "Red Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2021-07-19",
+    "release_date": "2021-07-20",
+    "version": "5.7"
   },
   {
     "id": "SID_豪奢な富書",
@@ -124719,8 +126163,11 @@
         "can_use": [
           "Green Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2017-02-02",
+    "release_date": "2017-02-02",
+    "version": "1.0"
   },
   {
     "id": "SID_純理の書",
@@ -124769,8 +126216,11 @@
         "can_use": [
           "Green Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2019-03-07",
+    "release_date": "2019-03-08",
+    "version": "3.3"
   },
   {
     "id": "SID_銀の魔道軍将の書",
@@ -124822,8 +126272,11 @@
         "can_use": [
           "Green Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2021-04-05",
+    "release_date": "2021-04-06",
+    "version": "5.4"
   },
   {
     "id": "SID_万雷の書",
@@ -124875,8 +126328,11 @@
         "can_use": [
           "Blue Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2020-12-08",
+    "release_date": "2020-12-08",
+    "version": "5.0"
   },
   {
     "id": "SID_トローン",
@@ -124925,8 +126381,11 @@
         "can_use": [
           "Blue Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2017-10-16",
+    "release_date": "2017-10-16",
+    "version": "1.8"
   },
   {
     "id": "SID_静水の舞い1",
@@ -126045,8 +127504,11 @@
         "can_use": [
           "Green Axe"
         ]
-      }
     }
+    },
+    "addition_date": "2020-11-05",
+    "release_date": "2020-11-06",
+    "version": "4.11"
   },
   {
     "id": "SID_ツインストライク",
@@ -126127,8 +127589,11 @@
         "can_use": [
           "All Beast"
         ]
-      }
     }
+    },
+    "addition_date": "2021-05-06",
+    "release_date": "2021-05-07",
+    "version": "5.5"
   },
   {
     "id": "SID_双姫の天翼",
@@ -126226,8 +127691,11 @@
         "can_use": [
           "Red Sword"
         ]
-      }
     }
+    },
+    "addition_date": "2017-02-15",
+    "release_date": "2017-02-15",
+    "version": "1.0"
   },
   {
     "id": "SID_孤絶の斧",
@@ -126913,8 +128381,11 @@
         "can_use": [
           "Green Axe"
         ]
-      }
     }
+    },
+    "addition_date": "2017-08-31",
+    "release_date": "2017-08-31",
+    "version": "1.6"
   },
   {
     "id": "SID_ヴァフスルーズニル",
@@ -126942,6 +128413,33 @@
     "version": "3.9",
     "downgrade_ids": [
       "SID_レクスカリバー"
+    ]
+  },
+  {
+    "id": "SID_ヴァーグ・カティ",
+    "game8_id": "558463",
+    "name": "Vague Katti",
+    "group_name": "Vague Katti",
+    "category": "weapon",
+    "weapon_type": "Red Sword",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Red Sword"
+        ]
+      }
+    },
+    "addition_date": "2025-10-17",
+    "release_date": "2025-10-17",
+    "version": "9.10",
+    "downgrade_ids": [
+      "SID_銀の剣"
     ]
   },
   {
@@ -127044,8 +128542,11 @@
         "can_use": [
           "Red Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2017-10-16",
+    "release_date": "2017-10-18",
+    "version": "1.8"
   },
   {
     "id": "SID_戦神の勇斧",
@@ -127122,8 +128623,11 @@
         "can_use": [
           "All Breath"
         ]
-      }
     }
+    },
+    "addition_date": "2023-08-16",
+    "release_date": "2023-08-16",
+    "version": "7.8"
   },
   {
     "id": "SID_守りの槍",
@@ -127741,8 +129245,11 @@
         "can_use": [
           "Blue Lance"
         ]
-      }
     }
+    },
+    "addition_date": "2021-05-06",
+    "release_date": "2021-05-07",
+    "version": "5.5"
   },
   {
     "id": "SID_毒の剣",
@@ -127794,8 +129301,11 @@
         "can_use": [
           "Red Sword"
         ]
-      }
     }
+    },
+    "addition_date": "2019-12-05",
+    "release_date": "2019-12-11",
+    "version": "4.0"
   },
   {
     "id": "SID_大いなるサカの掟",
@@ -127983,8 +129493,11 @@
         "can_use": [
           "Blue Lance"
         ]
-      }
     }
+    },
+    "addition_date": "2017-02-02",
+    "release_date": "2017-02-02",
+    "version": "1.0"
   },
   {
     "id": "SID_猛攻の暗器",
@@ -128152,8 +129665,11 @@
         "can_use": [
           "Green Axe"
         ]
-      }
     }
+    },
+    "addition_date": "2019-07-21",
+    "release_date": "2019-07-22",
+    "version": "3.7"
   },
   {
     "id": "SID_翼槍ヴィドフニル",
@@ -128205,8 +129721,11 @@
         "can_use": [
           "Blue Lance"
         ]
-      }
     }
+    },
+    "addition_date": "2017-08-15",
+    "release_date": "2017-08-15",
+    "version": "1.6"
   },
   {
     "id": "SID_紫竜山の荒弓",
@@ -128261,8 +129780,11 @@
         "can_use": [
           "All Bow"
         ]
-      }
     }
+    },
+    "addition_date": "2019-12-05",
+    "release_date": "2019-12-06",
+    "version": "4.0"
   },
   {
     "id": "SID_至聖ナーガ",
@@ -128320,8 +129842,11 @@
         "can_use": [
           "Blue Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2019-08-28",
+    "release_date": "2019-08-28",
+    "version": "3.8"
   },
   {
     "id": "SID_至聖ティルフィング",
@@ -128373,8 +129898,11 @@
         "can_use": [
           "Red Sword"
         ]
-      }
     }
+    },
+    "addition_date": "2020-06-30",
+    "release_date": "2020-06-30",
+    "version": "4.6"
   },
   {
     "id": "SID_理想郷となるように",
@@ -128475,8 +130003,11 @@
         "can_use": [
           "Red Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2021-08-17",
+    "release_date": "2021-08-18",
+    "version": "5.8"
   },
   {
     "id": "SID_心流星",
@@ -128557,8 +130088,11 @@
         "can_use": [
           "Colorless Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2020-03-31",
+    "release_date": "2020-03-31",
+    "version": "4.3"
   },
   {
     "id": "SID_義勇兵の弓",
@@ -128613,8 +130147,11 @@
         "can_use": [
           "All Bow"
         ]
-      }
     }
+    },
+    "addition_date": "2019-09-19",
+    "release_date": "2019-09-19",
+    "version": "3.9"
   },
   {
     "id": "SID_プージ",
@@ -128664,8 +130201,11 @@
         "can_use": [
           "Green Axe"
         ]
-      }
     }
+    },
+    "addition_date": "2019-12-05",
+    "release_date": "2019-12-06",
+    "version": "4.0"
   },
   {
     "id": "SID_禿鷹の斧",
@@ -129013,8 +130553,11 @@
         "can_use": [
           "Red Sword"
         ]
-      }
     }
+    },
+    "addition_date": "2019-03-07",
+    "release_date": "2019-03-11",
+    "version": "3.3"
   },
   {
     "id": "SID_漂う者の角",
@@ -129650,8 +131193,11 @@
         "can_use": [
           "All Bow"
         ]
-      }
     }
+    },
+    "addition_date": "2018-04-24",
+    "release_date": "2018-04-24",
+    "version": "2.4"
   },
   {
     "id": "SID_武人の鉄剣",
@@ -130145,8 +131691,11 @@
         "can_use": [
           "Blue Lance"
         ]
-      }
     }
+    },
+    "addition_date": "2017-02-02",
+    "release_date": "2017-02-02",
+    "version": "1.0"
   },
   {
     "id": "SID_奇異ルーテの書",
@@ -130198,8 +131747,11 @@
         "can_use": [
           "Blue Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2017-11-15",
+    "release_date": "2017-11-15",
+    "version": "1.8"
   },
   {
     "id": "SID_西方の勇者の斧",
@@ -130248,8 +131800,11 @@
         "can_use": [
           "Green Axe"
         ]
-      }
     }
+    },
+    "addition_date": "2019-11-19",
+    "release_date": "2019-11-19",
+    "version": "3.11"
   },
   {
     "id": "SID_幼獣の化身・重装",
@@ -130540,8 +132095,11 @@
         "can_use": [
           "Blue Lance"
         ]
-      }
     }
+    },
+    "addition_date": "2020-04-20",
+    "release_date": "2020-04-20",
+    "version": "4.4"
   },
   {
     "id": "SID_白き風の弓",
@@ -130655,8 +132213,11 @@
         "can_use": [
           "Red Sword"
         ]
-      }
     }
+    },
+    "addition_date": "2017-02-02",
+    "release_date": "2017-02-02",
+    "version": "1.0"
   },
   {
     "id": "SID_白騎の直槍",
@@ -130703,8 +132264,11 @@
         "can_use": [
           "Blue Lance"
         ]
-      }
     }
+    },
+    "addition_date": "2017-02-02",
+    "release_date": "2017-02-02",
+    "version": "1.0"
   },
   {
     "id": "SID_白騎の短槍",
@@ -130759,8 +132323,11 @@
         "can_use": [
           "Blue Lance"
         ]
-      }
     }
+    },
+    "addition_date": "2017-02-02",
+    "release_date": "2017-02-02",
+    "version": "1.0"
   },
   {
     "id": "SID_暴走の虎の爪牙",
@@ -130866,8 +132433,11 @@
         "can_use": [
           "All Dagger"
         ]
-      }
     }
+    },
+    "addition_date": "2019-11-19",
+    "release_date": "2019-11-19",
+    "version": "3.11"
   },
   {
     "id": "SID_野花の花嫁の大剣",
@@ -131211,8 +132781,11 @@
         "can_use": [
           "All Bow"
         ]
-      }
     }
+    },
+    "addition_date": "2020-08-18",
+    "release_date": "2020-08-18",
+    "version": "4.8"
   },
   {
     "id": "SID_風の部族の金棒",
@@ -131435,8 +133008,11 @@
         "can_use": [
           "Green Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2020-04-20",
+    "release_date": "2020-04-20",
+    "version": "4.4"
   },
   {
     "id": "SID_光と闇の疾風",
@@ -131520,8 +133096,11 @@
         "can_use": [
           "Green Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2020-01-08",
+    "release_date": "2020-01-09",
+    "version": "4.1"
   },
   {
     "id": "SID_風薙ぎ1",
@@ -131693,8 +133272,11 @@
         "can_use": [
           "Red Sword"
         ]
-      }
     }
+    },
+    "addition_date": "2017-02-02",
+    "release_date": "2017-02-02",
+    "version": "1.0"
   },
   {
     "id": "SID_扶翼ウイングスピア",
@@ -131754,8 +133336,11 @@
         "can_use": [
           "Blue Lance"
         ]
-      }
     }
+    },
+    "addition_date": "2022-02-25",
+    "release_date": "2022-02-28",
+    "version": "6.2"
   },
   {
     "id": "SID_光輝く翼",
@@ -132243,8 +133828,11 @@
         "can_use": [
           "All Breath"
         ]
-      }
     }
+    },
+    "addition_date": "2019-09-19",
+    "release_date": "2019-09-19",
+    "version": "3.9"
   },
   {
     "id": "SID_倭刀",
@@ -132440,8 +134028,11 @@
         "can_use": [
           "Green Axe"
         ]
-      }
     }
+    },
+    "addition_date": "2018-07-20",
+    "release_date": "2018-07-29",
+    "version": "2.7"
   },
   {
     "id": "SID_狼女王の牙",
@@ -132495,8 +134086,11 @@
         "can_use": [
           "All Beast"
         ]
-      }
     }
+    },
+    "addition_date": "2019-01-10",
+    "release_date": "2019-01-11",
+    "version": "3.1"
   },
   {
     "id": "SID_人狼娘の爪牙",
@@ -132552,8 +134146,11 @@
         "can_use": [
           "All Beast"
         ]
-      }
     }
+    },
+    "addition_date": "2019-02-20",
+    "release_date": "2019-02-20",
+    "version": "3.2"
   },
   {
     "id": "SID_人狼王の爪牙",
@@ -132609,8 +134206,11 @@
         "can_use": [
           "All Beast"
         ]
-      }
     }
+    },
+    "addition_date": "2019-02-20",
+    "release_date": "2019-02-20",
+    "version": "3.2"
   },
   {
     "id": "SID_木の漁具",
@@ -132829,8 +134429,11 @@
         "can_use": [
           "Blue Tome"
         ]
-      }
     }
+    },
+    "addition_date": "2019-06-20",
+    "release_date": "2019-06-20",
+    "version": "3.6"
   },
   {
     "id": "SID_怒り1",
@@ -133285,8 +134888,11 @@
         "can_use": [
           "Blue Lance"
         ]
-      }
     }
+    },
+    "addition_date": "2020-11-17",
+    "release_date": "2020-11-18",
+    "version": "4.11"
   },
   {
     "id": "SID_愛竜への情の竜斧",
@@ -133462,8 +135068,11 @@
         "can_use": [
           "Red Sword"
         ]
-      }
     }
+    },
+    "addition_date": "2017-02-02",
+    "release_date": "2017-02-02",
+    "version": "1.0"
   },
   {
     "id": "SID_若獣の化身・重装",
@@ -133893,8 +135502,11 @@
         "can_use": [
           "All Breath"
         ]
-      }
     }
+    },
+    "addition_date": "2020-03-18",
+    "release_date": "2020-03-18",
+    "version": "4.3"
   },
   {
     "id": "SID_シャールヴィ",

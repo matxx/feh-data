@@ -9096,6 +9096,72 @@
     "unlock": 2
   },
   {
+    "unit_id": "PID_ボーレ",
+    "skill_id": "SID_攻撃速さの連携1",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_ボーレ",
+    "skill_id": "SID_攻撃速さの連携2",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_ボーレ",
+    "skill_id": "SID_攻撃速さの連携3",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_ボーレ",
+    "skill_id": "SID_継戦の斧",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_ボーレ",
+    "skill_id": "SID_継戦の斧＋",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_ボーレ",
+    "skill_id": "SID_攻撃の波・偶数1",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_ボーレ",
+    "skill_id": "SID_攻撃の波・偶数2",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_ボーレ",
+    "skill_id": "SID_攻撃の波・偶数3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_ボーレ",
+    "skill_id": "SID_鉄の斧",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_ボーレ",
+    "skill_id": "SID_体当たり",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_ボーレ",
+    "skill_id": "SID_鋼の斧",
+    "default": 2,
+    "unlock": 2
+  },
+  {
     "unit_id": "PID_ブレディ",
     "skill_id": "SID_アサルト",
     "default": 0,
@@ -27288,6 +27354,84 @@
     "unlock": 2
   },
   {
+    "unit_id": "PID_比翼エリンシア",
+    "skill_id": "SID_乳姉妹の絆の剣",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_比翼エリンシア",
+    "skill_id": "SID_遠反・有利増幅",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_比翼エリンシア",
+    "skill_id": "SID_遠距離反撃",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_比翼エリンシア",
+    "skill_id": "SID_引き寄せ",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_比翼エリンシア",
+    "skill_id": "SID_引き寄せ・歩法",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_比翼エリンシア",
+    "skill_id": "SID_鉄の剣",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_比翼エリンシア",
+    "skill_id": "SID_真回避・見切り反撃",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_比翼エリンシア",
+    "skill_id": "SID_銀の剣",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_比翼エリンシア",
+    "skill_id": "SID_鋼の剣",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_比翼エリンシア",
+    "skill_id": "SID_クリミアの絆",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_比翼エリンシア",
+    "skill_id": "SID_回避・拍節1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_比翼エリンシア",
+    "skill_id": "SID_回避・拍節2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_比翼エリンシア",
+    "skill_id": "SID_回避・拍節3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
     "unit_id": "PID_エリンシア",
     "skill_id": "SID_アミーテ",
     "default": 5,
@@ -35743,6 +35887,12 @@
   },
   {
     "unit_id": "PID_比翼フレイヤ",
+    "skill_id": "SID_アトラース",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_比翼フレイヤ",
     "skill_id": "SID_彗星",
     "default": 0,
     "unlock": 5
@@ -38524,6 +38674,78 @@
     "skill_id": "SID_ウインド",
     "default": 1,
     "unlock": 1
+  },
+  {
+    "unit_id": "PID_グローメル",
+    "skill_id": "SID_ボルトアクス",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_グローメル",
+    "skill_id": "SID_攻撃守備の大覚醒1",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_グローメル",
+    "skill_id": "SID_攻撃守備の大覚醒2",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_グローメル",
+    "skill_id": "SID_攻撃守備の大覚醒3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_グローメル",
+    "skill_id": "SID_怒涛・不屈1",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_グローメル",
+    "skill_id": "SID_怒涛・不屈2",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_グローメル",
+    "skill_id": "SID_怒涛・不屈3",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_グローメル",
+    "skill_id": "SID_蛍火",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_グローメル",
+    "skill_id": "SID_華炎",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_グローメル",
+    "skill_id": "SID_鉄の斧",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_グローメル",
+    "skill_id": "SID_銀の斧",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_グローメル",
+    "skill_id": "SID_鋼の斧",
+    "default": 2,
+    "unlock": 2
   },
   {
     "unit_id": "PID_ギネヴィア",
@@ -49708,6 +49930,12 @@
     "skill_id": "SID_エルウインド",
     "default": 3,
     "unlock": 2
+  },
+  {
+    "unit_id": "PID_ユリア",
+    "skill_id": "SID_ナーガ",
+    "default": 5,
+    "unlock": 5
   },
   {
     "unit_id": "PID_ユリア",
@@ -93786,6 +94014,102 @@
     "unlock": 5
   },
   {
+    "unit_id": "PID_シャロン22025味方",
+    "skill_id": "SID_角逐",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_シャロン22025味方",
+    "skill_id": "SID_開神の加護宿す刃",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_シャロン22025味方",
+    "skill_id": "SID_強襲・助走",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_シャロン22025味方",
+    "skill_id": "SID_攻撃速さの激突1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_シャロン22025味方",
+    "skill_id": "SID_攻撃速さの激突2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_シャロン22025味方",
+    "skill_id": "SID_攻撃速さの激突3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_シャロン22025味方",
+    "skill_id": "SID_攻撃速さの突破",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_シャロン22025味方",
+    "skill_id": "SID_竜穿",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_シャロン22025味方",
+    "skill_id": "SID_伏竜",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_シャロン22025味方",
+    "skill_id": "SID_あなたとのつながり",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_シャロン22025味方",
+    "skill_id": "SID_怒涛・再起1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_シャロン22025味方",
+    "skill_id": "SID_怒涛・再起2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_シャロン22025味方",
+    "skill_id": "SID_怒涛・再起3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_シャロン22025味方",
+    "skill_id": "SID_鉄の槍",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_シャロン22025味方",
+    "skill_id": "SID_銀の槍",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_シャロン22025味方",
+    "skill_id": "SID_鋼の槍",
+    "default": 2,
+    "unlock": 2
+  },
+  {
     "unit_id": "PID_総選挙シャロン",
     "skill_id": "SID_攻撃速さの詠唱",
     "default": 0,
@@ -97332,6 +97656,102 @@
     "unlock": 2
   },
   {
+    "unit_id": "PID_魔器セネリオ",
+    "skill_id": "SID_魔器レクスボルト",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_魔器セネリオ",
+    "skill_id": "SID_攻撃魔防の大混乱",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_魔器セネリオ",
+    "skill_id": "SID_氷点",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_魔器セネリオ",
+    "skill_id": "SID_エルサンダー",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_魔器セネリオ",
+    "skill_id": "SID_氷華",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_魔器セネリオ",
+    "skill_id": "SID_氷壁",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_魔器セネリオ",
+    "skill_id": "SID_初撃の鼓動・謀策",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_魔器セネリオ",
+    "skill_id": "SID_研鑽重ねし魔道の力",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_魔器セネリオ",
+    "skill_id": "SID_魔防の混乱1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_魔器セネリオ",
+    "skill_id": "SID_魔防の混乱2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_魔器セネリオ",
+    "skill_id": "SID_魔防の混乱3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_魔器セネリオ",
+    "skill_id": "SID_トロン",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_魔器セネリオ",
+    "skill_id": "SID_サンダー",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_魔器セネリオ",
+    "skill_id": "SID_始まりの鼓動1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_魔器セネリオ",
+    "skill_id": "SID_始まりの鼓動2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_魔器セネリオ",
+    "skill_id": "SID_始まりの鼓動3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
     "unit_id": "PID_総選挙セネリオ",
     "skill_id": "SID_大賢者の書",
     "default": 5,
@@ -98218,6 +98638,96 @@
     "skill_id": "SID_入れ替え",
     "default": 4,
     "unlock": 3
+  },
+  {
+    "unit_id": "PID_ソーンバルケ",
+    "skill_id": "SID_迅雷風烈・鬼没",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_ソーンバルケ",
+    "skill_id": "SID_回避・一撃離脱1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_ソーンバルケ",
+    "skill_id": "SID_回避・一撃離脱2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_ソーンバルケ",
+    "skill_id": "SID_回避・一撃離脱3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_ソーンバルケ",
+    "skill_id": "SID_迅雷風烈・偶数1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_ソーンバルケ",
+    "skill_id": "SID_迅雷風烈・偶数2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_ソーンバルケ",
+    "skill_id": "SID_迅雷風烈・偶数3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_ソーンバルケ",
+    "skill_id": "SID_凶星",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_ソーンバルケ",
+    "skill_id": "SID_陣風",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_ソーンバルケ",
+    "skill_id": "SID_真回避・一撃離脱",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_ソーンバルケ",
+    "skill_id": "SID_鉄の剣",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_ソーンバルケ",
+    "skill_id": "SID_星影",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_ソーンバルケ",
+    "skill_id": "SID_銀の剣",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_ソーンバルケ",
+    "skill_id": "SID_鋼の剣",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_ソーンバルケ",
+    "skill_id": "SID_ヴァーグ・カティ",
+    "default": 5,
+    "unlock": 5
   },
   {
     "unit_id": "PID_ツバキ",

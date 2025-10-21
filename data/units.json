@@ -775,8 +775,8 @@
     "game8_name": "Valentine's Alfonse",
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/71/Alfonse_Uplifting_Love_Face_FC.webp/revision/latest?cb=20210204074016",
     "bst": 174,
-    "visible_bst": 180,
-    "max_score": 754
+    "visible_bst": 178,
+    "max_score": 752
   },
   {
     "id": "PID_魔器アルフレッド",
@@ -1325,8 +1325,8 @@
     "game8_name": "Amelia",
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/04/Amelia_Rose_of_the_War_Face_FC.webp/revision/latest?cb=20190920210732",
     "bst": 173,
-    "visible_bst": 180,
-    "max_score": 758
+    "visible_bst": 177,
+    "max_score": 756
   },
   {
     "id": "PID_闇ハイドラ",
@@ -1780,8 +1780,8 @@
     "game8_name": "Arden",
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/2/27/Arden_Strong_and_Tough_Face_FC.webp/revision/latest?cb=20190920211651",
     "bst": 169,
-    "visible_bst": 180,
-    "max_score": 758
+    "visible_bst": 172,
+    "max_score": 754
   },
   {
     "id": "PID_アレス",
@@ -4608,8 +4608,8 @@
     "game8_name": "Black Knight",
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/1c/Black_Knight_Sinister_General_Face_FC.webp/revision/latest?cb=20190920211240",
     "bst": 169,
-    "visible_bst": 180,
-    "max_score": 758
+    "visible_bst": 172,
+    "max_score": 754
   },
   {
     "id": "PID_冬祭漆黒の騎士",
@@ -4792,6 +4792,51 @@
     "bst": 181,
     "visible_bst": 185,
     "max_score": 760
+  },
+  {
+    "id": "PID_ボーレ",
+    "name": "Boyd",
+    "title": "Intrepid Warrior",
+    "full_name": "Boyd: Intrepid Warrior",
+    "abbreviated_name": "Boyd",
+    "gender": "Male",
+    "move_type": "Infantry",
+    "weapon_type": "Green Axe",
+    "games": [
+      "Fire Emblem: Path of Radiance"
+    ],
+    "id_int": 1304,
+    "origin": "080000100600",
+    "book": 9,
+    "max_df": 5,
+    "has_respl": false,
+    "is_brave": false,
+    "is_fallen": false,
+    "is_story": false,
+    "is_tt": false,
+    "is_ghb": false,
+    "is_special": false,
+    "is_generic_pool": true,
+    "is_legendary": false,
+    "is_mythic": false,
+    "is_duo": false,
+    "is_harmonized": false,
+    "is_rearmed": false,
+    "is_attuned": false,
+    "is_ascended": false,
+    "is_emblem": false,
+    "is_aided": false,
+    "is_entwined": false,
+    "is_refresher": false,
+    "addition_date": "2025-10-17",
+    "release_date": "2025-10-17",
+    "version": "9.10",
+    "game8_id": "558476",
+    "game8_name": "Boyd",
+    "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/60/Boyd_Intrepid_Warrior_Face_FC.webp/revision/latest?cb=20251017043542",
+    "bst": 203,
+    "visible_bst": 207,
+    "max_score": 766
   },
   {
     "id": "PID_ブレディ",
@@ -6118,8 +6163,8 @@
     "game8_name": "Caineghis",
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f2/Caineghis_Gallias_Lion_King_Face_FC.webp/revision/latest?cb=20190920223901",
     "bst": 174,
-    "visible_bst": 180,
-    "max_score": 756
+    "visible_bst": 178,
+    "max_score": 754
   },
   {
     "id": "PID_伝承カミラ",
@@ -7349,8 +7394,8 @@
     "game8_name": "Winter Cecilia",
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/79/Cecilia_Festive_Instructor_Face_FC.webp/revision/latest?cb=20190920222024",
     "bst": 165,
-    "visible_bst": 180,
-    "max_score": 754
+    "visible_bst": 168,
+    "max_score": 748
   },
   {
     "id": "PID_セティ",
@@ -8311,7 +8356,7 @@
     "bst": 168,
     "duel_score": 180,
     "visible_bst": 184,
-    "max_score": 756
+    "max_score": 758
   },
   {
     "id": "PID_クロム",
@@ -8403,7 +8448,7 @@
     "bst": 177,
     "duel_score": 195,
     "visible_bst": 199,
-    "max_score": 762
+    "max_score": 764
   },
   {
     "id": "PID_総選挙クロム",
@@ -8448,7 +8493,7 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/61/Chrom_Fated_Honor_Face_FC.webp/revision/latest?cb=20220817054452",
     "bst": 179,
     "visible_bst": 183,
-    "max_score": 758
+    "max_score": 760
   },
   {
     "id": "PID_魔器闇クロム",
@@ -8493,7 +8538,7 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/ea/Chrom_Fell_Exalt_Face_FC.webp/revision/latest?cb=20230508074906",
     "bst": 179,
     "visible_bst": 183,
-    "max_score": 756
+    "max_score": 758
   },
   {
     "id": "PID_冬祭クロム",
@@ -8538,8 +8583,8 @@
     "game8_name": "Winter Chrom",
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/fa/Chrom_Gifted_Leader_Face_FC.webp/revision/latest?cb=20190920212318",
     "bst": 174,
-    "visible_bst": 180,
-    "max_score": 756
+    "visible_bst": 177,
+    "max_score": 754
   },
   {
     "id": "PID_クロム2",
@@ -8630,7 +8675,7 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/16/Chrom_Pivotal_Blow_Face_FC.webp/revision/latest?cb=20250904052706",
     "bst": 199,
     "visible_bst": 203,
-    "max_score": 764
+    "max_score": 766
   },
   {
     "id": "PID_春祭クロム",
@@ -12195,8 +12240,8 @@
     "game8_name": "Halloween Dorcas",
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/8b/Dorcas_Pumpkin_Smasher_Face_FC.webp/revision/latest?cb=20190920221145",
     "bst": 173,
-    "visible_bst": 180,
-    "max_score": 756
+    "visible_bst": 177,
+    "max_score": 754
   },
   {
     "id": "PID_ドルカス",
@@ -12515,8 +12560,8 @@
     "game8_name": "Dozla",
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f6/Dozla_Harvest_Attendant_Face_FC.webp/revision/latest?cb=20191008161237",
     "bst": 174,
-    "visible_bst": 180,
-    "max_score": 754
+    "visible_bst": 178,
+    "max_score": 752
   },
   {
     "id": "PID_ドーガ",
@@ -12560,8 +12605,8 @@
     "game8_name": "Draug",
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/35/Draug_Gentle_Giant_Face_FC.webp/revision/latest?cb=20190920194906",
     "bst": 169,
-    "visible_bst": 180,
-    "max_score": 758
+    "visible_bst": 172,
+    "max_score": 754
   },
   {
     "id": "PID_デュッセル",
@@ -12652,8 +12697,8 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b0/Duma_God_of_Strength_Face_FC.webp/revision/latest?cb=20190920222544",
     "image_url_for_icon_mythic": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/db/Mythic_Effect_Anima.png/revision/latest?cb=20181212191129",
     "bst": 174,
-    "visible_bst": 180,
-    "max_score": 760
+    "visible_bst": 178,
+    "max_score": 758
   },
   {
     "id": "PID_比翼ドーマ",
@@ -13246,8 +13291,8 @@
     "game8_name": "Effie",
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/50/Effie_Army_of_One_Face_FC.webp/revision/latest?cb=20190920195342",
     "bst": 168,
-    "visible_bst": 180,
-    "max_score": 758
+    "visible_bst": 172,
+    "max_score": 754
   },
   {
     "id": "PID_愛の祭エルフィ",
@@ -13751,8 +13796,8 @@
     "game8_name": "Winter Eirika",
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/89/Eirika_Gentle_as_Snow_Face_FC.webp/revision/latest?cb=20190920221902",
     "bst": 165,
-    "visible_bst": 180,
-    "max_score": 754
+    "visible_bst": 168,
+    "max_score": 748
   },
   {
     "id": "PID_伝承エイリーク",
@@ -14533,6 +14578,52 @@
     "max_score": 754
   },
   {
+    "id": "PID_比翼エリンシア",
+    "name": "Elincia",
+    "title": "Hearts of Purity",
+    "full_name": "Elincia: Hearts of Purity",
+    "abbreviated_name": "Duo Elincia",
+    "gender": "FF",
+    "move_type": "Infantry",
+    "weapon_type": "Red Sword",
+    "games": [
+      "Fire Emblem: Path of Radiance"
+    ],
+    "id_int": 1303,
+    "origin": "080000200100",
+    "book": 9,
+    "max_df": 5,
+    "has_respl": false,
+    "is_brave": false,
+    "is_fallen": false,
+    "is_story": false,
+    "is_tt": false,
+    "is_ghb": false,
+    "is_special": false,
+    "is_generic_pool": false,
+    "is_legendary": false,
+    "is_mythic": false,
+    "is_duo": true,
+    "is_harmonized": false,
+    "is_rearmed": false,
+    "is_attuned": false,
+    "is_ascended": false,
+    "is_emblem": false,
+    "is_aided": false,
+    "is_entwined": false,
+    "is_refresher": false,
+    "addition_date": "2025-10-17",
+    "release_date": "2025-10-17",
+    "version": "9.10",
+    "game8_id": "558474",
+    "game8_name": "Duo Elincia",
+    "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/05/Elincia_Hearts_of_Purity_Face_FC.webp/revision/latest?cb=20251017043459",
+    "bst": 204,
+    "duel_score": 220,
+    "visible_bst": 224,
+    "max_score": 774
+  },
+  {
     "id": "PID_エリンシア",
     "name": "Elincia",
     "title": "Lost Princess",
@@ -14992,8 +15083,8 @@
     "game8_name": "Valentine's Eliwood",
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/5c/Eliwood_Devoted_Love_Face_FC.webp/revision/latest?cb=20190920213413",
     "bst": 175,
-    "visible_bst": 180,
-    "max_score": 756
+    "visible_bst": 178,
+    "max_score": 754
   },
   {
     "id": "PID_エリウッド",
@@ -15680,8 +15771,8 @@
     "game8_name": "Brave Ephraim",
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/db/Ephraim_Sacred_Twin_Lord_Face_FC.webp/revision/latest?cb=20190920220244",
     "bst": 174,
-    "visible_bst": 180,
-    "max_score": 758
+    "visible_bst": 178,
+    "max_score": 756
   },
   {
     "id": "PID_冬祭エフラム",
@@ -15726,8 +15817,8 @@
     "game8_name": "Winter Ephraim",
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/56/Ephraim_Sparkling_Gallantly_Face_FC.webp/revision/latest?cb=20190920221926",
     "bst": 174,
-    "visible_bst": 180,
-    "max_score": 758
+    "visible_bst": 178,
+    "max_score": 756
   },
   {
     "id": "PID_水着エフラム",
@@ -16952,8 +17043,8 @@
     "game8_name": "Picnic Felicia",
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c1/Felicia_Off_the_Menu_Face_FC.webp/revision/latest?cb=20190920224106",
     "bst": 175,
-    "visible_bst": 180,
-    "max_score": 758
+    "visible_bst": 178,
+    "max_score": 756
   },
   {
     "id": "PID_冬祭フェリクス",
@@ -18276,8 +18367,8 @@
     "game8_name": "Picnic Flora",
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/6b/Flora_Signature_Dish_Face_FC.webp/revision/latest?cb=20190920224128",
     "bst": 170,
-    "visible_bst": 180,
-    "max_score": 756
+    "visible_bst": 173,
+    "max_score": 752
   },
   {
     "id": "PID_開花フロリーナ",
@@ -19003,6 +19094,8 @@
     "addition_date": "2025-10-06",
     "release_date": "2025-10-07",
     "version": "9.10",
+    "game8_id": "556384",
+    "game8_name": "Halloween Freyja",
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e7/Freyja_Parallel_Hearts_Face_FC.webp/revision/latest?cb=20251006041747",
     "bst": 194,
     "duel_score": 220,
@@ -20368,8 +20461,8 @@
     "game8_name": "Valentine's Greil",
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/7e/Greil_Heroic_Exemplar_Face_FC.webp/revision/latest?cb=20190920222844",
     "bst": 174,
-    "visible_bst": 180,
-    "max_score": 756
+    "visible_bst": 178,
+    "max_score": 754
   },
   {
     "id": "PID_ギムレー女",
@@ -20505,6 +20598,51 @@
     "bst": 188,
     "visible_bst": 192,
     "max_score": 760
+  },
+  {
+    "id": "PID_グローメル",
+    "name": "Gromell",
+    "title": "Bolt Axe General",
+    "full_name": "Gromell: Bolt Axe General",
+    "abbreviated_name": "Gromell",
+    "gender": "Male",
+    "move_type": "Flying",
+    "weapon_type": "Green Axe",
+    "games": [
+      "Fire Emblem: Path of Radiance"
+    ],
+    "id_int": 1306,
+    "origin": "080004900400",
+    "book": 9,
+    "max_df": 5,
+    "has_respl": false,
+    "is_brave": false,
+    "is_fallen": false,
+    "is_story": false,
+    "is_tt": false,
+    "is_ghb": true,
+    "is_special": false,
+    "is_generic_pool": false,
+    "is_legendary": false,
+    "is_mythic": false,
+    "is_duo": false,
+    "is_harmonized": false,
+    "is_rearmed": false,
+    "is_attuned": false,
+    "is_ascended": false,
+    "is_emblem": false,
+    "is_aided": false,
+    "is_entwined": false,
+    "is_refresher": false,
+    "addition_date": "2025-10-17",
+    "release_date": "2025-10-18",
+    "version": "9.10",
+    "game8_id": "558477",
+    "game8_name": "Gromell",
+    "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/df/Gromell_Bolt_Axe_General_Face_FC.webp/revision/latest?cb=20251017043722",
+    "bst": 200,
+    "visible_bst": 204,
+    "max_score": 766
   },
   {
     "id": "PID_ギネヴィア",
@@ -21100,8 +21238,8 @@
     "game8_name": "Gwendolyn",
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/42/Gwendolyn_Adorable_Knight_Face_FC.webp/revision/latest?cb=20190920195316",
     "bst": 169,
-    "visible_bst": 180,
-    "max_score": 758
+    "visible_bst": 173,
+    "max_score": 754
   },
   {
     "id": "PID_ハール",
@@ -21555,8 +21693,8 @@
     "game8_name": "Fallen Hardin",
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/70/Hardin_Dark_Emperor_Face_FC.webp/revision/latest?cb=20190920213627",
     "bst": 175,
-    "visible_bst": 180,
-    "max_score": 758
+    "visible_bst": 178,
+    "max_score": 756
   },
   {
     "id": "PID_ハーディン",
@@ -21963,8 +22101,8 @@
     "game8_name": "Brave Hector",
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/87/Hector_Brave_Warrior_Face_FC.webp/revision/latest?cb=20190920220213",
     "bst": 174,
-    "visible_bst": 180,
-    "max_score": 758
+    "visible_bst": 178,
+    "max_score": 756
   },
   {
     "id": "PID_比翼ヘクトル",
@@ -22055,8 +22193,8 @@
     "game8_name": "Hector",
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/8b/Hector_General_of_Ostia_Face_FC.webp/revision/latest?cb=20190920200016",
     "bst": 168,
-    "visible_bst": 180,
-    "max_score": 758
+    "visible_bst": 172,
+    "max_score": 754
   },
   {
     "id": "PID_愛の祭ヘクトル",
@@ -22101,8 +22239,8 @@
     "game8_name": "Valentine's Hector",
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/9c/Hector_Just_Here_to_Fight_Face_FC.webp/revision/latest?cb=20190920213310",
     "bst": 173,
-    "visible_bst": 180,
-    "max_score": 758
+    "visible_bst": 177,
+    "max_score": 756
   },
   {
     "id": "PID_伝承ヘクトル",
@@ -22148,8 +22286,8 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/6b/Hector_Marquess_of_Ostia_Face_FC.webp/revision/latest?cb=20190920215530",
     "image_url_for_icon_legendary": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/ab/Legendary_Effect_Fire.png/revision/latest?cb=20171130004141",
     "bst": 174,
-    "visible_bst": 180,
-    "max_score": 758
+    "visible_bst": 178,
+    "max_score": 756
   },
   {
     "id": "PID_響心ヘクトル",
@@ -22610,8 +22748,8 @@
     "game8_name": "Valentine's Henriette",
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/36/Henriette_Overflowing_Love_Face_FC.webp/revision/latest?cb=20210204073906",
     "bst": 175,
-    "visible_bst": 180,
-    "max_score": 754
+    "visible_bst": 179,
+    "max_score": 752
   },
   {
     "id": "PID_ハロヘンリー",
@@ -22656,8 +22794,8 @@
     "game8_name": "Halloween Henry",
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/73/Henry_Happy_Vampire_Face_FC.webp/revision/latest?cb=20190920211739",
     "bst": 165,
-    "visible_bst": 180,
-    "max_score": 754
+    "visible_bst": 169,
+    "max_score": 748
   },
   {
     "id": "PID_春祭ヘンリー",
@@ -24579,8 +24717,8 @@
     "game8_name": "Valentine's Ike",
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/4b/Ike_Stalwart_Heart_Face_FC.webp/revision/latest?cb=20190920222817",
     "bst": 174,
-    "visible_bst": 180,
-    "max_score": 756
+    "visible_bst": 177,
+    "max_score": 754
   },
   {
     "id": "PID_伝承アイク",
@@ -24853,8 +24991,8 @@
     "game8_name": "Halloween Ilyana",
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/5d/Ilyana_Treat_Harvester_Face_FC.webp/revision/latest?cb=20191008161244",
     "bst": 169,
-    "visible_bst": 180,
-    "max_score": 754
+    "visible_bst": 173,
+    "max_score": 750
   },
   {
     "id": "PID_魔器イングリット",
@@ -25764,8 +25902,8 @@
     "game8_name": "Winter Jaffar",
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/40/Jaffar_Angel_of_Night_Face_FC.webp/revision/latest?cb=20191216163426",
     "bst": 174,
-    "visible_bst": 180,
-    "max_score": 754
+    "visible_bst": 178,
+    "max_score": 752
   },
   {
     "id": "PID_ジェイガン",
@@ -25855,8 +25993,8 @@
     "game8_name": "Halloween Jakob",
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/75/Jakob_Devoted_Monster_Face_FC.webp/revision/latest?cb=20190920211826",
     "bst": 165,
-    "visible_bst": 180,
-    "max_score": 754
+    "visible_bst": 168,
+    "max_score": 748
   },
   {
     "id": "PID_ジョーカー",
@@ -26582,7 +26720,7 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b8/Julia_Nagas_Blood_Face_FC.webp/revision/latest?cb=20190920201725",
     "bst": 148,
     "visible_bst": 180,
-    "max_score": 752
+    "max_score": 756
   },
   {
     "id": "PID_聖祭ユリア",
@@ -26946,8 +27084,8 @@
     "game8_name": "Halloween Kagero",
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/85/Kagero_Beverage_Ninja_Face_FC.webp/revision/latest?cb=20190920221011",
     "bst": 165,
-    "visible_bst": 180,
-    "max_score": 754
+    "visible_bst": 168,
+    "max_score": 748
   },
   {
     "id": "PID_比翼カゲロウ",
@@ -28082,8 +28220,8 @@
     "game8_name": "Kjelle",
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/bd/Kjelle_Fair_Fighter_Face_FC.webp/revision/latest?cb=20190920224802",
     "bst": 174,
-    "visible_bst": 180,
-    "max_score": 758
+    "visible_bst": 178,
+    "max_score": 756
   },
   {
     "id": "PID_クレイン",
@@ -32325,8 +32463,8 @@
     "game8_name": "Winter Lissa",
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/a1/Lissa_Pure_Joy_Face_FC.webp/revision/latest?cb=20190920212436",
     "bst": 175,
-    "visible_bst": 180,
-    "max_score": 756
+    "visible_bst": 178,
+    "max_score": 754
   },
   {
     "id": "PID_リズ",
@@ -32480,7 +32618,7 @@
     "origin": "060002900500",
     "book": 1,
     "max_df": 40,
-    "has_respl": false,
+    "has_respl": true,
     "is_brave": false,
     "is_fallen": false,
     "is_story": false,
@@ -33511,8 +33649,8 @@
     "game8_name": "Picnic Lukas",
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/ee/Lukas_Buffet_for_One_Face_FC.webp/revision/latest?cb=20190920224044",
     "bst": 173,
-    "visible_bst": 180,
-    "max_score": 756
+    "visible_bst": 177,
+    "max_score": 754
   },
   {
     "id": "PID_ルカ",
@@ -34382,8 +34520,8 @@
     "game8_name": "Valentine's Lyn",
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/aa/Lyn_Winds_Embrace_Face_FC.webp/revision/latest?cb=20190920213338",
     "bst": 165,
-    "visible_bst": 180,
-    "max_score": 754
+    "visible_bst": 169,
+    "max_score": 748
   },
   {
     "id": "PID_魔王リオン",
@@ -40674,6 +40812,8 @@
     "addition_date": "2025-10-06",
     "release_date": "2025-10-07",
     "version": "9.10",
+    "game8_id": "556381",
+    "game8_name": "Halloween Nerþuz",
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e9/Nerthuz_Divine_Abundance_Face_FC.webp/revision/latest?cb=20251006041822",
     "bst": 195,
     "visible_bst": 199,
@@ -41134,8 +41274,8 @@
     "game8_name": "Halloween Niles",
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f3/Niles_Forbidden_Tease_Face_FC.webp/revision/latest?cb=20190920221036",
     "bst": 164,
-    "visible_bst": 180,
-    "max_score": 754
+    "visible_bst": 168,
+    "max_score": 748
   },
   {
     "id": "PID_ニルス",
@@ -41683,8 +41823,8 @@
     "game8_name": "Winter Nino",
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/69/Nino_Flower_of_Frost_Face_FC.webp/revision/latest?cb=20191216162840",
     "bst": 169,
-    "visible_bst": 180,
-    "max_score": 754
+    "visible_bst": 173,
+    "max_score": 750
   },
   {
     "id": "PID_ニノ2",
@@ -44223,6 +44363,8 @@
     "addition_date": "2025-10-06",
     "release_date": "2025-10-07",
     "version": "9.10",
+    "game8_id": "556382",
+    "game8_name": "Halloween Peony",
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/9c/Peony_Fruitful_Dream_Face_FC.webp/revision/latest?cb=20251006041712",
     "bst": 179,
     "visible_bst": 183,
@@ -45222,6 +45364,8 @@
     "addition_date": "2025-10-06",
     "release_date": "2025-10-07",
     "version": "9.10",
+    "game8_id": "556385",
+    "game8_name": "Halloween Ranulf",
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/2/29/Ranulf_Considerate_Gaze_Face_FC.webp/revision/latest?cb=20251006041932",
     "bst": 195,
     "visible_bst": 199,
@@ -46865,8 +47009,8 @@
     "game8_name": "Fallen Robin (M)",
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/9d/Robin_Fell_Reincarnation_Face_FC.webp/revision/latest?cb=20190920213556",
     "bst": 174,
-    "visible_bst": 180,
-    "max_score": 760
+    "visible_bst": 178,
+    "max_score": 758
   },
   {
     "id": "PID_魔器ルフレ女",
@@ -47003,8 +47147,8 @@
     "game8_name": "Winter Robin",
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/36/Robin_Festive_Tactician_Face_FC.webp/revision/latest?cb=20190920212341",
     "bst": 174,
-    "visible_bst": 180,
-    "max_score": 756
+    "visible_bst": 178,
+    "max_score": 754
   },
   {
     "id": "PID_ルフレ男",
@@ -49930,8 +50074,8 @@
     "game8_name": "Winter Sephiran",
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/a7/Sephiran_Hoary_Sovereign_Face_FC.webp/revision/latest?cb=20201217064755",
     "bst": 175,
-    "visible_bst": 180,
-    "max_score": 754
+    "visible_bst": 179,
+    "max_score": 752
   },
   {
     "id": "PID_セーラ",
@@ -50525,6 +50669,51 @@
     "max_score": 758
   },
   {
+    "id": "PID_シャロン22025味方",
+    "name": "Sharena",
+    "title": "Borrowed Divinity",
+    "full_name": "Sharena: Borrowed Divinity",
+    "abbreviated_name": "Et!Sharena",
+    "gender": "F",
+    "move_type": "Cavalry",
+    "weapon_type": "Blue Lance",
+    "games": [
+      "Fire Emblem Heroes"
+    ],
+    "id_int": 1301,
+    "origin": "000000100200",
+    "book": 9,
+    "max_df": 5,
+    "has_respl": false,
+    "is_brave": false,
+    "is_fallen": false,
+    "is_story": false,
+    "is_tt": false,
+    "is_ghb": false,
+    "is_special": false,
+    "is_generic_pool": false,
+    "is_legendary": false,
+    "is_mythic": false,
+    "is_duo": false,
+    "is_harmonized": false,
+    "is_rearmed": false,
+    "is_attuned": false,
+    "is_ascended": false,
+    "is_emblem": false,
+    "is_aided": false,
+    "is_entwined": true,
+    "is_refresher": false,
+    "addition_date": "2025-10-06",
+    "release_date": "2025-10-17",
+    "version": "9.10",
+    "game8_id": "558475",
+    "game8_name": "Entwined Sharena",
+    "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d3/Sharena_Borrowed_Divinity_Face_FC.webp/revision/latest?cb=20251006041607",
+    "bst": 195,
+    "visible_bst": 199,
+    "max_score": 764
+  },
+  {
     "id": "PID_総選挙シャロン",
     "name": "Sharena",
     "title": "Hopeful Princess",
@@ -50749,8 +50938,8 @@
     "game8_name": "Sheena",
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/2/2d/Sheena_Princess_of_Gra_Face_FC.webp/revision/latest?cb=20190920195958",
     "bst": 169,
-    "visible_bst": 180,
-    "max_score": 758
+    "visible_bst": 173,
+    "max_score": 754
   },
   {
     "id": "PID_伝承シェズ男",
@@ -51981,6 +52170,8 @@
     "addition_date": "2025-10-06",
     "release_date": "2025-10-07",
     "version": "9.10",
+    "game8_id": "556383",
+    "game8_name": "Halloween Skrimir",
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/da/Skrimir_Echoing_Howl_Face_FC.webp/revision/latest?cb=20251006042007",
     "bst": 211,
     "visible_bst": 215,
@@ -52488,6 +52679,51 @@
     "max_score": 756
   },
   {
+    "id": "PID_魔器セネリオ",
+    "name": "Soren",
+    "title": "Isolated Strategist",
+    "full_name": "Soren: Isolated Strategist",
+    "abbreviated_name": "R!Soren",
+    "gender": "Male",
+    "move_type": "Infantry",
+    "weapon_type": "Blue Tome",
+    "games": [
+      "Fire Emblem: Path of Radiance"
+    ],
+    "id_int": 1302,
+    "origin": "080000100300",
+    "book": 9,
+    "max_df": 5,
+    "has_respl": false,
+    "is_brave": false,
+    "is_fallen": false,
+    "is_story": false,
+    "is_tt": false,
+    "is_ghb": false,
+    "is_special": false,
+    "is_generic_pool": false,
+    "is_legendary": false,
+    "is_mythic": false,
+    "is_duo": false,
+    "is_harmonized": false,
+    "is_rearmed": true,
+    "is_attuned": false,
+    "is_ascended": false,
+    "is_emblem": false,
+    "is_aided": false,
+    "is_entwined": false,
+    "is_refresher": false,
+    "addition_date": "2025-10-17",
+    "release_date": "2025-10-17",
+    "version": "9.10",
+    "game8_id": "558472",
+    "game8_name": "Rearmed Soren",
+    "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/bb/Soren_Isolated_Strategist_Face_FC.webp/revision/latest?cb=20251017043415",
+    "bst": 193,
+    "visible_bst": 197,
+    "max_score": 760
+  },
+  {
     "id": "PID_総選挙セネリオ",
     "name": "Soren",
     "title": "Radiant Confidant",
@@ -52942,6 +53178,51 @@
     "bst": 154,
     "visible_bst": 180,
     "max_score": 758
+  },
+  {
+    "id": "PID_ソーンバルケ",
+    "name": "Stefan",
+    "title": "No-Man's-Blade",
+    "full_name": "Stefan: No-Man's-Blade",
+    "abbreviated_name": "Stefan",
+    "gender": "Male",
+    "move_type": "Infantry",
+    "weapon_type": "Red Sword",
+    "games": [
+      "Fire Emblem: Path of Radiance"
+    ],
+    "id_int": 1305,
+    "origin": "080001900500",
+    "book": 9,
+    "max_df": 5,
+    "has_respl": false,
+    "is_brave": false,
+    "is_fallen": false,
+    "is_story": false,
+    "is_tt": false,
+    "is_ghb": false,
+    "is_special": false,
+    "is_generic_pool": false,
+    "is_legendary": false,
+    "is_mythic": false,
+    "is_duo": false,
+    "is_harmonized": false,
+    "is_rearmed": false,
+    "is_attuned": false,
+    "is_ascended": false,
+    "is_emblem": false,
+    "is_aided": false,
+    "is_entwined": false,
+    "is_refresher": false,
+    "addition_date": "2025-10-17",
+    "release_date": "2025-10-17",
+    "version": "9.10",
+    "game8_id": "558473",
+    "game8_name": "Stefan",
+    "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/70/Stefan_No-Mans-Blade_Face_FC.webp/revision/latest?cb=20251017043635",
+    "bst": 204,
+    "visible_bst": 208,
+    "max_score": 768
   },
   {
     "id": "PID_ツバキ",
@@ -54351,8 +54632,8 @@
     "game8_name": "Winter Tharja",
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c4/Tharja_Normal_Girl_Face_FC.webp/revision/latest?cb=20190920212406",
     "bst": 165,
-    "visible_bst": 180,
-    "max_score": 754
+    "visible_bst": 168,
+    "max_score": 748
   },
   {
     "id": "PID_水着サーリャ",
@@ -56498,8 +56779,8 @@
     "game8_name": "Valbar",
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/39/Valbar_Open_and_Honest_Face_FC.webp/revision/latest?cb=20191021045240",
     "bst": 173,
-    "visible_bst": 180,
-    "max_score": 758
+    "visible_bst": 177,
+    "max_score": 756
   },
   {
     "id": "PID_ファウダー",
@@ -59009,8 +59290,8 @@
     "game8_name": "Zelgius",
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/ee/Zelgius_Jet-Black_General_Face_FC.webp/revision/latest?cb=20190920212756",
     "bst": 174,
-    "visible_bst": 180,
-    "max_score": 758
+    "visible_bst": 177,
+    "max_score": 756
   },
   {
     "id": "PID_忍者ゼルギウス",
@@ -59191,8 +59472,8 @@
     "game8_name": "Zephiel",
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f6/Zephiel_The_Liberator_Face_FC.webp/revision/latest?cb=20190920194926",
     "bst": 168,
-    "visible_bst": 180,
-    "max_score": 758
+    "visible_bst": 172,
+    "max_score": 754
   },
   {
     "id": "PID_冬祭若ゼフィール",

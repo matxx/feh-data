@@ -865,6 +865,15 @@
     ]
   },
   {
+    "name": "Duo, Rea. Heroes & Etw. Sharena",
+    "unit_ids": [
+      "PID_シャロン22025味方",
+      "PID_ソーンバルケ",
+      "PID_比翼エリンシア",
+      "PID_魔器セネリオ"
+    ]
+  },
+  {
     "name": "Dust Storm Mercs (Focus)",
     "unit_ids": [
       "PID_ジャハナアイク",
@@ -2169,6 +2178,19 @@
     ]
   },
   {
+    "name": "Focus: Double Special Heroes (Oct 2025)",
+    "unit_ids": [
+      "PID_双界イングリット",
+      "PID_年明ターナ",
+      "PID_愛の祭クロード",
+      "PID_比翼カムイ男",
+      "PID_比翼ユリア",
+      "PID_水着ヘイズルーン",
+      "PID_水着ユーリス",
+      "PID_花嫁ティニー"
+    ]
+  },
+  {
     "name": "Focus: Dragoon Duels",
     "unit_ids": [
       "PID_アルテナ",
@@ -2238,7 +2260,8 @@
     "name": "Focus: En Garde!",
     "unit_ids": [
       "PID_バジーリオ",
-      "PID_フラヴィア"
+      "PID_フラヴィア",
+      "PID_ロンクー"
     ]
   },
   {
@@ -2680,6 +2703,14 @@
     ]
   },
   {
+    "name": "Focus: Hall of Forms (Oct 2025)",
+    "unit_ids": [
+      "PID_お茶会シグルド",
+      "PID_双界アイラ",
+      "PID_総選挙セリス"
+    ]
+  },
+  {
     "name": "Focus: Hall of Forms (Sep 2023)",
     "unit_ids": [
       "PID_ハタリカアラ",
@@ -3093,6 +3124,14 @@
       "PID_シノン",
       "PID_パント",
       "PID_フォルカ"
+    ]
+  },
+  {
+    "name": "Focus: Heroes w/Time's Pulse (Oct 2025)",
+    "unit_ids": [
+      "PID_ノーマ",
+      "PID_若年ガトー",
+      "PID_闇レナ"
     ]
   },
   {
@@ -7022,6 +7061,14 @@
     ]
   },
   {
+    "name": "Focus: Timerra & Fogado's Battle",
+    "unit_ids": [
+      "PID_パンドロ",
+      "PID_フォガート",
+      "PID_響心ミスティラ"
+    ]
+  },
+  {
     "name": "Focus: Titania and Mist's Battle",
     "unit_ids": [
       "PID_アイク",
@@ -7325,6 +7372,14 @@
       "PID_シェズ男",
       "PID_モニカ",
       "PID_開花ヒルダ"
+    ]
+  },
+  {
+    "name": "Focus: Weekly Revival 114",
+    "unit_ids": [
+      "PID_グレゴ",
+      "PID_開花エイル味方",
+      "PID_魔器ルフレ女"
     ]
   },
   {
@@ -8954,6 +9009,19 @@
     ]
   },
   {
+    "name": "Legendary & Mythic Hero Remix 1 (Oct 2025)",
+    "unit_ids": [
+      "PID_お供ユナカ",
+      "PID_スカビオサ味方",
+      "PID_ネルトゥス味方",
+      "PID_フレイヤ味方",
+      "PID_プルメリア味方",
+      "PID_伝承ディアドラ",
+      "PID_伝承ロイ",
+      "PID_神階ラルヴァ"
+    ]
+  },
+  {
     "name": "Legendary & Mythic Hero Remix 1 (Sep 2023)",
     "unit_ids": [
       "PID_フリーズ",
@@ -9224,6 +9292,19 @@
       "PID_神階アスタルテ",
       "PID_神階セイロス",
       "PID_響心アクア"
+    ]
+  },
+  {
+    "name": "Legendary & Mythic Hero Remix 2 (Oct 2025)",
+    "unit_ids": [
+      "PID_伝承ギネヴィア",
+      "PID_伝承クロム",
+      "PID_伝承シーダ",
+      "PID_伝承ニニアン",
+      "PID_神階エイル",
+      "PID_神階オルティナ",
+      "PID_神階ルピナス",
+      "PID_響心若年チキ"
     ]
   },
   {
