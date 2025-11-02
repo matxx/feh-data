@@ -124,10 +124,6 @@
     "description": "Enables【Canto (Rem.; Min １)】.<br><br>Inflicts Atk/Res-4 on foe during combat and unit deals +7 damage, including when dealing damage with a Special triggered before combat.<br><br>【Canto (Rem.; Min １)】<br>After an attack, Assist skill, or structure destruction, unit can move spaces = any movement not already used that turn (min. １; if unit used a movement skill that warped them, unit can move １ space(s)).<br><br>(Unit moves according to movement type. Once per turn. Cannot attack or assist. Only highest value applied. Does not stack. After moving, if a skill that grants another action would be triggered (like with Galeforce), Canto will trigger after the granted action. Unit's base movement has no effect on movement granted. Cannot warp (using skills like Wings of Mercy) a distance greater than unit would be able to move with normal Canto movement.)"
   },
   {
-    "id": "SID_攻魔鼓舞・強襲",
-    "description": "At start of turn, if unit is within 2 spaces of an ally, grants Atk/Res+6 and \"reduces the percentage of foe's non-Special 'reduce damage by X%' skills by 50% during combat (excluding area-of-effect Specials)\" to unit and allies within 2 spaces of unit for 1 turn.<br><br>Grants bonus to unit's Atk/Res during combat = 2 + number of allies on the map with the \"reduces the percentage of foe's non-Special 'reduce damage by X%' skills by 50% during combat (excluding area-of-effect Specials)\" status effect active, excluding unit (max 5)."
-  },
-  {
     "id": "SID_攻魔鼓舞・奮激",
     "description": "At start of turn, if unit is within 2 spaces of an ally, grants Atk/Res+6 and【Incited】to unit and allies within 2 spaces of unit for 1 turn.<br><br>Grants bonus to unit's Atk/Res during combat = number of allies on the map with the【Incited】 effect + 2 (excluding unit; max 5).<br><br>【Incited】<br>If unit initiates combat, grants bonus to unit's Atk/Spd/Def/Res = number of spaces from start position to end position of unit during combat (max 3; that turn only)."
   },
@@ -462,10 +458,6 @@
   {
     "id": "SID_共感の花＋",
     "description": "If unit is within 2 spaces of an ally, inflicts Atk/Res-5 on foe during combat, and when unit deals damage to foe during combat, restores 4 HP to unit. (Triggers even if 0 damage is dealt.)"
-  },
-  {
-    "id": "SID_すべて読めていた",
-    "description": "Enables【Canto (Rem.; Min １)】.<br><br>At start of player phase or enemy phase, inflicts【Exposure】,【Discord】, and【Stall】 on foes with Res < unit's Res and that are within 2 spaces of another foe through their next actions.<br><br>At start of combat, if unit's HP ≥ 25%, inflicts Atk/Res-5 on foe, foe cannot make a follow-up attack, inflicts Special cooldown charge -1 on foe per attack (only highest value applied; does not stack), deals damage = 20% of unit's Res (excluding area-of-effect Specials), reduces damage from foe's attacks by 20% of unit's Res (excluding area-of-effect Specials), and grants Special cooldown count-1 to unit before unit's first attack during combat.<br><br>【Canto (Rem.; Min １)】<br>After an attack, Assist skill, or structure destruction, unit can move spaces = any movement not already used that turn (min. １; if unit used a movement skill that warped them, unit can move １ space(s)). (Once per turn. Only highest value applied. Does not stack.)<br><br>【Exposure】<br>Foe's attacks deal +10 damage.<br><br>【Discord】<br>Inflicts Atk/Spd/Def/Res-X on unit during combat (X = 2 + number of allies within 2 spaces of unit; max 5).<br><br>【Stall】<br>If unit has \"unit can move 1 extra space,\" converts that effect into \"restricts movement to 1 space.\""
   },
   {
     "id": "SID_錨の斧",
@@ -1398,10 +1390,6 @@
   {
     "id": "SID_攻撃守備の野性",
     "description": "If number of adjacent allies other than beast or dragon allies ≤ 1, or if unit is transformed, grants Atk/Def+7 to unit during combat and grants Special cooldown charge +1 to unit per attack during combat (only highest value applied; does not stack), and restores 7 HP to unit after combat."
-  },
-  {
-    "id": "SID_攻撃魔防の詠唱",
-    "description": "If unit initiates combat or is within 3 spaces of an ally, grants bonus to unit's Atk/Res = unit's maximum Special cooldown count + 7 during combat, and also, when unit's Special triggers, deals damage = unit's maximum Special cooldown count × X (excluding area-of-effect Specials; if unit triggers the \"unit attacks twice\" effect, X = 3; otherwise, X = 5)."
   },
   {
     "id": "SID_攻撃魔防の絆1",
@@ -11182,10 +11170,6 @@
   {
     "id": "SID_生命の護符4",
     "description": "Inflicts Atk-5 on foe during combat. Disables foe's skills that \"calculate damage using the lower of foe's Def or Res\" and \"calculate damage from staff like other weapons.\" If foe uses staff, neutralizes effects that prevent unit's counterattacks during combat. Restores 10 HP to unit after combat."
-  },
-  {
-    "id": "SID_魔笛ギャラルホルン",
-    "description": "Accelerates Special trigger (cooldown count-1).<br><br>At start of turn, grants Special cooldown count-1 to unit.<br><br>If defending in Aether Raids, at the start of enemy phase, grants【Foresight Snare】 to allies closest to the bottom of the map within 3 columns centered on unit for 1 turn.<br><br>If not defending in Aether Raids, at the start of enemy phase, if there is only one ally (excluding unit) with the highest Def among allies closest to foe, grants【Foresight Snare】 to that ally for 1 turn.<br><br>For foes within 3 rows or 3 columns centered on unit, inflicts Atk/Def/Res-5 and neutralizes foe's bonuses to Atk/Def/Res during combat.<br><br>At start of combat, if unit's HP ≥ 25%, inflicts penalty on foe's Atk/Res = 20% of unit's Res at start of combat, unit deals +X damage (excluding area-of-effect Specials), and reduces damage from foe's attacks by X during combat (excluding area-of-effect Specials; X = number of allies within 3 rows or 3 columns centered on unit × 5; max 15), and restores 7 HP to unit after combat.<br><br>【Foresight Snare】<br>If foe initiates combat and there were no combat instances on the current turn yet (player phase and enemy phase are counted separately), triggers the following effects:<br>- Cancels foe's attack, completing their action.<br>- Inflicts【Isolation】and status preventing counterattacks on foe through foe's next action.<br>- Cancels Foresight Snare granted to your army.<br><br>(These effect trigger after Aether Raids traps but before Savior; does not trigger in Pawns of Loki).<br><br>【Isolation】<br>Target cannot use or be the target of Assist skills through its next action. (Target can neither use nor be the target of skills like Dance and Sing, skills that neutralize penalties, like Restore and Harsh Command+, etc.)"
   },
   {
     "id": "SID_戦神の天杖",

@@ -1443,35 +1443,6 @@
     "divine_codes": {}
   },
   {
-    "id": "SID_攻魔鼓舞・強襲",
-    "fodder_ids": [
-      "PID_ヘイムダル味方"
-    ],
-    "fodder": {
-      "g4": 1,
-      "hg": 1,
-      "dc": 1,
-      "sh4": 1,
-      "gsr": 1,
-      "shsr": 1
-    },
-    "is_in": {
-      "gsp": false,
-      "ssp": false,
-      "hg": false,
-      "dc": false,
-      "ldc": false,
-      "foc": true
-    },
-    "flrwo": {
-      "foc": 5
-    },
-    "flrfi": {
-      "foc": 5
-    },
-    "divine_codes": {}
-  },
-  {
     "id": "SID_攻魔鼓舞・奮激",
     "fodder_ids": [
       "PID_幼少レオン"
@@ -5144,35 +5115,6 @@
         }
       ]
     }
-  },
-  {
-    "id": "SID_すべて読めていた",
-    "fodder_ids": [
-      "PID_ヘイムダル味方"
-    ],
-    "fodder": {
-      "g4": 1,
-      "hg": 1,
-      "dc": 1,
-      "sh4": 1,
-      "gsr": 1,
-      "shsr": 1
-    },
-    "is_in": {
-      "gsp": false,
-      "ssp": false,
-      "hg": false,
-      "dc": false,
-      "ldc": false,
-      "foc": true
-    },
-    "flrwo": {
-      "foc": 5
-    },
-    "flrfi": {
-      "foc": 5
-    },
-    "divine_codes": {}
   },
   {
     "id": "SID_錨の斧",
@@ -16692,35 +16634,6 @@
     "divine_codes": {}
   },
   {
-    "id": "SID_攻撃魔防の詠唱",
-    "fodder_ids": [
-      "PID_ヘイムダル味方"
-    ],
-    "fodder": {
-      "g4": 1,
-      "hg": 1,
-      "dc": 1,
-      "sh4": 1,
-      "gsr": 1,
-      "shsr": 1
-    },
-    "is_in": {
-      "gsp": false,
-      "ssp": false,
-      "hg": false,
-      "dc": false,
-      "ldc": false,
-      "foc": true
-    },
-    "flrwo": {
-      "foc": 5
-    },
-    "flrfi": {
-      "foc": 5
-    },
-    "divine_codes": {}
-  },
-  {
     "id": "SID_攻撃魔防の絆1",
     "fodder_ids": [
       "PID_双界オルティナ",
@@ -16729,7 +16642,6 @@
       "PID_冬祭セシリア",
       "PID_神階エイル",
       "PID_ハロフレン",
-      "PID_ヘイムダル味方",
       "PID_総選挙ミカヤ",
       "PID_夏祭ミカヤ",
       "PID_ハロノノ",
@@ -16818,7 +16730,6 @@
       "PID_冬祭セシリア",
       "PID_神階エイル",
       "PID_ハロフレン",
-      "PID_ヘイムダル味方",
       "PID_総選挙ミカヤ",
       "PID_夏祭ミカヤ",
       "PID_ハロノノ",
@@ -16907,7 +16818,6 @@
       "PID_冬祭セシリア",
       "PID_神階エイル",
       "PID_ハロフレン",
-      "PID_ヘイムダル味方",
       "PID_総選挙ミカヤ",
       "PID_夏祭ミカヤ",
       "PID_ハロノノ",
@@ -26218,7 +26128,6 @@
       "PID_双界セリカ",
       "PID_開花セリカ",
       "PID_エルフィン",
-      "PID_比翼フレイヤ",
       "PID_神階ガトー",
       "PID_伝承ギネヴィア",
       "PID_グルヴェイグ味方",
@@ -26319,7 +26228,9 @@
   },
   {
     "id": "SID_アトラース＋",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_比翼フレイヤ"
+    ],
     "fodder": {
       "g4": 2,
       "hg": 2,
@@ -26330,14 +26241,18 @@
     },
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "ssp": 5
+    },
+    "flrfi": {
+      "ssp": 3
+    },
     "divine_codes": {}
   },
   {
@@ -47362,7 +47277,6 @@
       "PID_伝承ギネヴィア",
       "PID_スリーズ",
       "PID_水着ヘイズルーン",
-      "PID_ヘイムダル味方",
       "PID_愛の祭ヘンリエッテ",
       "PID_ヘステ",
       "PID_聖戦ヒルダ",
@@ -73370,7 +73284,6 @@
       "PID_伝承ディアドラ",
       "PID_ギネヴィア",
       "PID_総選挙グルヴェイグ",
-      "PID_ヘイムダル味方",
       "PID_ハロイレース",
       "PID_伝承ユリア",
       "PID_クリフ",
@@ -87587,7 +87500,6 @@
       "PID_アクア",
       "PID_シーダ",
       "PID_水着カムイ女",
-      "PID_ヘイムダル味方",
       "PID_ジェイガン",
       "PID_クリフ",
       "PID_幼少レオン",
@@ -87678,7 +87590,6 @@
       "PID_アクア",
       "PID_シーダ",
       "PID_水着カムイ女",
-      "PID_ヘイムダル味方",
       "PID_ジェイガン",
       "PID_クリフ",
       "PID_幼少レオン",
@@ -87767,7 +87678,6 @@
     "id": "SID_魔防の鼓舞3",
     "fodder_ids": [
       "PID_アクア",
-      "PID_ヘイムダル味方",
       "PID_クリフ",
       "PID_幼少レオン",
       "PID_リンダ",
@@ -93348,7 +93258,6 @@
       "PID_グリ",
       "PID_スリーズ",
       "PID_水着ヘイズルーン",
-      "PID_ヘイムダル味方",
       "PID_聖戦ヒルダ",
       "PID_ヘズ味方",
       "PID_愛の祭ヒューベルト",
@@ -108428,7 +108337,6 @@
     "id": "SID_氷壁",
     "fodder_ids": [
       "PID_水着ヘイズルーン",
-      "PID_ヘイムダル味方",
       "PID_ヘズ味方",
       "PID_比翼ユリア",
       "PID_魔器セネリオ",
@@ -122308,7 +122216,6 @@
       "PID_伝承ディアドラ",
       "PID_ギネヴィア",
       "PID_総選挙グルヴェイグ",
-      "PID_ヘイムダル味方",
       "PID_ハロイレース",
       "PID_伝承ユリア",
       "PID_クリフ",
@@ -131780,35 +131687,6 @@
     }
   },
   {
-    "id": "SID_魔笛ギャラルホルン",
-    "fodder_ids": [
-      "PID_ヘイムダル味方"
-    ],
-    "fodder": {
-      "g4": 1,
-      "hg": 1,
-      "dc": 1,
-      "sh4": 1,
-      "gsr": 1,
-      "shsr": 1
-    },
-    "is_in": {
-      "gsp": false,
-      "ssp": false,
-      "hg": false,
-      "dc": false,
-      "ldc": false,
-      "foc": true
-    },
-    "flrwo": {
-      "foc": 5
-    },
-    "flrfi": {
-      "foc": 5
-    },
-    "divine_codes": {}
-  },
-  {
     "id": "SID_戦神の天杖",
     "fodder_ids": [
       "PID_幼少ルセア"
@@ -132115,7 +131993,9 @@
   },
   {
     "id": "SID_ナーガ_特",
-    "fodder_ids": [],
+    "fodder_ids": [
+      "PID_ユリア"
+    ],
     "fodder": {
       "g4": 1,
       "hg": 1,
@@ -132125,15 +132005,19 @@
       "shsr": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "gsp": 4.5
+    },
+    "flrfi": {
+      "gsp": 5
+    },
     "divine_codes": {}
   },
   {
@@ -162507,10 +162391,14 @@
       "hg": false,
       "dc": false,
       "ldc": false,
-      "foc": false
+      "foc": true
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "foc": 5
+    },
+    "flrfi": {
+      "foc": 5
+    },
     "divine_codes": {}
   },
   {
@@ -170494,10 +170382,14 @@
       "hg": false,
       "dc": false,
       "ldc": false,
-      "foc": false
+      "foc": true
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "foc": 5
+    },
+    "flrfi": {
+      "foc": 5
+    },
     "divine_codes": {}
   },
   {
@@ -170812,7 +170704,6 @@
       "PID_伝承ディアドラ",
       "PID_ギネヴィア",
       "PID_総選挙グルヴェイグ",
-      "PID_ヘイムダル味方",
       "PID_伝承ユリア",
       "PID_クリフ",
       "PID_ラーチェル",
@@ -201273,10 +201164,14 @@
       "hg": false,
       "dc": false,
       "ldc": false,
-      "foc": false
+      "foc": true
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "foc": 5
+    },
+    "flrfi": {
+      "foc": 5
+    },
     "divine_codes": {}
   },
   {
@@ -203502,10 +203397,14 @@
       "hg": false,
       "dc": false,
       "ldc": false,
-      "foc": false
+      "foc": true
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "foc": 5
+    },
+    "flrfi": {
+      "foc": 5
+    },
     "divine_codes": {}
   },
   {
