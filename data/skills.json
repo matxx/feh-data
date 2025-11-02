@@ -72,7 +72,7 @@
         ]
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2025-07-07",
@@ -100,7 +100,7 @@
         ]
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2025-08-15",
@@ -614,7 +614,7 @@
         ]
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2024-03-15",
@@ -642,7 +642,7 @@
         ]
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2024-11-05",
@@ -696,9 +696,7 @@
         "none": true
       },
       "weapons": {
-        "can_not_use": [
-          "Colorless Staff"
-        ]
+        "can_use": []
       }
     },
     "addition_date": "2022-09-29",
@@ -973,6 +971,35 @@
     ]
   },
   {
+    "id": "SID_攻魔鼓舞・強襲",
+    "game8_id": "561613",
+    "name": "A/R Hone Assault",
+    "group_name": "A/R Hone Assault",
+    "category": "passivec",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e1/A_R_Hone_Assault.png/revision/latest?cb=20251030072631",
+    "is_prf": false,
+    "sp": 300,
+    "tier": 4,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Cavalry"
+        ]
+      },
+      "weapons": {
+        "can_use": []
+      }
+    },
+    "addition_date": "2025-06-05",
+    "release_date": "2025-10-30",
+    "version": "9.10",
+    "downgrade_ids": [
+      "SID_攻撃の鼓舞3",
+      "SID_魔防の鼓舞3"
+    ]
+  },
+  {
     "id": "SID_攻魔鼓舞・奮激",
     "game8_id": "512301",
     "name": "A/R Incite Hone",
@@ -990,7 +1017,7 @@
         ]
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2025-04-03",
@@ -1249,7 +1276,7 @@
         ]
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2024-10-03",
@@ -1277,7 +1304,7 @@
         ]
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2025-02-17",
@@ -1559,7 +1586,7 @@
         ]
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2025-02-06",
@@ -2015,7 +2042,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -2432,7 +2459,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2021-02-16",
     "release_date": "2021-02-16",
@@ -2487,7 +2514,7 @@
         ]
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2018-06-08",
@@ -2515,7 +2542,7 @@
         ]
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2018-06-08",
@@ -2546,7 +2573,7 @@
         ]
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2018-06-08",
@@ -2602,9 +2629,7 @@
         "none": true
       },
       "weapons": {
-        "can_not_use": [
-          "Colorless Staff"
-        ]
+        "can_use": []
       }
     },
     "addition_date": "2025-01-17",
@@ -2725,7 +2750,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2022-12-05",
     "release_date": "2022-12-07",
@@ -2753,7 +2778,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2022-12-05",
     "release_date": "2022-12-07",
@@ -2955,7 +2980,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2020-02-17",
     "release_date": "2020-02-17",
@@ -3338,7 +3363,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-09-15",
     "release_date": "2017-09-23",
@@ -3415,7 +3440,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2020-06-05",
     "release_date": "2020-06-05",
@@ -3471,7 +3496,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-09-15",
     "release_date": "2017-09-15",
@@ -3535,6 +3560,29 @@
     "downgrade_ids": [
       "SID_共感の花"
     ]
+  },
+  {
+    "id": "SID_すべて読めていた",
+    "game8_id": "561612",
+    "name": "An Open Book",
+    "group_name": "An Open Book",
+    "category": "passiveb",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/0a/An_Open_Book.png/revision/latest?cb=20251030072620",
+    "is_prf": true,
+    "sp": 300,
+    "tier": 1,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": []
+      }
+    },
+    "addition_date": "2025-06-05",
+    "release_date": "2025-10-30",
+    "version": "9.10"
   },
   {
     "id": "SID_錨の斧",
@@ -3670,7 +3718,7 @@
         "can_use": [
           "Red Tome"
         ]
-    }
+      }
     },
     "addition_date": "2018-06-08",
     "release_date": "2018-06-16",
@@ -3843,7 +3891,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2020-06-05",
     "release_date": "2020-06-05",
@@ -5572,7 +5620,7 @@
         "can_use": [
           "Green Tome"
         ]
-    }
+      }
     },
     "addition_date": "2023-08-16",
     "release_date": "2023-08-16",
@@ -5654,7 +5702,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-10-16",
     "release_date": "2017-10-23",
@@ -5710,7 +5758,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2019-06-28",
     "release_date": "2019-06-28",
@@ -5851,7 +5899,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2020-10-30",
     "release_date": "2020-10-30",
@@ -6056,7 +6104,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-27",
     "release_date": "2017-02-27",
@@ -6251,9 +6299,7 @@
         "none": true
       },
       "weapons": {
-        "can_not_use": [
-          "Colorless Staff"
-        ]
+        "can_use": []
       }
     },
     "addition_date": "2017-02-02",
@@ -6282,9 +6328,7 @@
         "none": true
       },
       "weapons": {
-        "can_not_use": [
-          "Colorless Staff"
-        ]
+        "can_use": []
       }
     },
     "addition_date": "2017-02-02",
@@ -6313,9 +6357,7 @@
         "none": true
       },
       "weapons": {
-        "can_not_use": [
-          "Colorless Staff"
-        ]
+        "can_use": []
       }
     },
     "addition_date": "2017-02-02",
@@ -6793,7 +6835,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -7129,7 +7171,7 @@
         ]
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2025-05-07",
@@ -7172,6 +7214,7 @@
   },
   {
     "id": "SID_強襲・助走",
+    "game8_id": "558467",
     "name": "Assault Impetus",
     "group_name": "Assault Impetus",
     "category": "passiveb",
@@ -7436,7 +7479,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2019-10-21",
     "release_date": "2019-10-21",
@@ -7519,7 +7562,7 @@
         "can_use": [
           "All Breath"
         ]
-    }
+      }
     },
     "addition_date": "2020-04-07",
     "release_date": "2020-04-08",
@@ -7603,7 +7646,7 @@
         "can_use": [
           "All Dagger"
         ]
-    }
+      }
     },
     "addition_date": "2019-07-21",
     "release_date": "2019-08-03",
@@ -8700,7 +8743,7 @@
         ]
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2024-12-05",
@@ -8759,9 +8802,7 @@
         "none": true
       },
       "weapons": {
-        "can_not_use": [
-          "Colorless Staff"
-        ]
+        "can_use": []
       }
     },
     "addition_date": "2025-09-04",
@@ -10306,6 +10347,35 @@
     ]
   },
   {
+    "id": "SID_攻撃魔防の詠唱",
+    "game8_id": "561611",
+    "name": "Atk/Res Aria",
+    "group_name": "Atk/Res Aria",
+    "category": "passivea",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/72/Atk_Res_Aria.png/revision/latest?cb=20251030072611",
+    "is_prf": false,
+    "sp": 300,
+    "tier": 4,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Colorless Staff",
+          "All Tome"
+        ]
+      }
+    },
+    "addition_date": "2025-06-05",
+    "release_date": "2025-10-30",
+    "version": "9.10",
+    "downgrade_ids": [
+      "SID_攻撃魔防の絆3"
+    ]
+  },
+  {
     "id": "SID_攻撃魔防の絆1",
     "game8_id": "266109",
     "name": "Atk/Res Bond 1",
@@ -10321,7 +10391,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2017-10-30",
@@ -10347,7 +10417,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2017-10-30",
@@ -10376,13 +10446,14 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2017-10-30",
     "release_date": "2017-10-30",
     "version": "1.8",
     "upgrade_ids": [
+      "SID_攻撃魔防の詠唱",
       "SID_攻撃魔防の絆4",
       "SID_攻撃魔防の連帯4"
     ],
@@ -10406,7 +10477,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2019-08-16",
@@ -10586,9 +10657,7 @@
         ]
       },
       "weapons": {
-        "can_not_use": [
-          "Colorless Staff"
-        ]
+        "can_use": []
       }
     },
     "addition_date": "2025-04-03",
@@ -10617,7 +10686,7 @@
         ]
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2022-08-31",
@@ -10960,7 +11029,7 @@
         ]
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2022-10-31",
@@ -11226,7 +11295,7 @@
         ]
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2024-12-05",
@@ -12878,9 +12947,7 @@
         "none": true
       },
       "weapons": {
-        "can_not_use": [
-          "Colorless Staff"
-        ]
+        "can_use": []
       }
     },
     "addition_date": "2025-09-04",
@@ -13610,7 +13677,7 @@
         ]
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2019-12-25",
@@ -13639,7 +13706,7 @@
         ]
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2019-12-25",
@@ -13671,7 +13738,7 @@
         ]
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2019-12-25",
@@ -13705,7 +13772,7 @@
         ]
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2021-06-30",
@@ -14748,9 +14815,6 @@
         ]
       }
     },
-    "addition_date": "2025-10-06",
-    "release_date": "2025-10-07",
-    "version": "9.10",
     "downgrade_ids": [
       "SID_アトラース"
     ]
@@ -15052,7 +15116,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-11-15",
     "release_date": "2017-11-21",
@@ -15108,7 +15172,7 @@
         "can_use": [
           "Blue Tome"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -15171,7 +15235,7 @@
         "can_use": [
           "Blue Tome"
         ]
-    }
+      }
     },
     "addition_date": "2020-11-17",
     "release_date": "2020-11-17",
@@ -15254,7 +15318,7 @@
         "can_use": [
           "All Breath"
         ]
-    }
+      }
     },
     "addition_date": "2021-01-28",
     "release_date": "2021-01-28",
@@ -15310,7 +15374,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2020-12-08",
     "release_date": "2021-09-30",
@@ -15366,7 +15430,7 @@
         "can_use": [
           "Red Tome"
         ]
-    }
+      }
     },
     "addition_date": "2018-10-23",
     "release_date": "2018-10-25",
@@ -15564,7 +15628,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2021-05-06",
     "release_date": "2021-05-07",
@@ -15709,7 +15773,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -15939,7 +16003,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2020-04-30",
     "release_date": "2020-04-30",
@@ -15994,7 +16058,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-10-16",
     "release_date": "2017-10-19",
@@ -16047,7 +16111,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2018-04-24",
     "release_date": "2018-04-24",
@@ -16761,9 +16825,7 @@
         "none": true
       },
       "weapons": {
-        "can_not_use": [
-          "Colorless Staff"
-        ]
+        "can_use": []
       }
     },
     "addition_date": "2022-08-31",
@@ -16823,7 +16885,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2020-01-08",
     "release_date": "2020-01-09",
@@ -17242,7 +17304,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -18316,7 +18378,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2018-02-22",
     "release_date": "2018-02-22",
@@ -18395,7 +18457,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2021-05-06",
     "release_date": "2021-05-08",
@@ -18531,7 +18593,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2018-02-09",
     "release_date": "2018-02-09",
@@ -18609,7 +18671,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -18716,7 +18778,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2025-01-28",
@@ -18864,7 +18926,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -18978,7 +19040,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2021-08-17",
     "release_date": "2021-08-17",
@@ -19079,7 +19141,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2025-06-17",
@@ -19355,7 +19417,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2020-07-20",
     "release_date": "2020-07-20",
@@ -19405,7 +19467,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2020-01-17",
@@ -19431,7 +19493,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2020-01-17",
@@ -19460,7 +19522,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2020-01-17",
@@ -20336,7 +20398,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-08-31",
     "release_date": "2017-08-31",
@@ -20629,7 +20691,7 @@
         "can_use": [
           "Green Tome"
         ]
-    }
+      }
     },
     "addition_date": "2017-12-28",
     "release_date": "2017-12-28",
@@ -20708,7 +20770,7 @@
         "can_use": [
           "Green Tome"
         ]
-    }
+      }
     },
     "addition_date": "2020-05-07",
     "release_date": "2020-05-08",
@@ -21181,7 +21243,7 @@
         "can_use": [
           "Blue Tome"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-03-10",
@@ -21484,7 +21546,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2025-05-07",
@@ -21809,7 +21871,7 @@
         "can_use": [
           "Red Tome"
         ]
-    }
+      }
     },
     "addition_date": "2018-11-08",
     "release_date": "2018-11-09",
@@ -21862,7 +21924,7 @@
         "can_use": [
           "Blue Tome"
         ]
-    }
+      }
     },
     "addition_date": "2017-05-15",
     "release_date": "2017-05-15",
@@ -22093,7 +22155,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2025-05-16",
     "release_date": "2025-05-16",
@@ -22121,7 +22183,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2025-05-16",
     "release_date": "2025-05-16",
@@ -22330,7 +22392,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2017-07-13",
     "release_date": "2017-07-13",
@@ -22389,7 +22451,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2017-04-14",
     "release_date": "2017-04-14",
@@ -22449,7 +22511,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2021-04-19",
     "release_date": "2021-04-20",
@@ -22596,7 +22658,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2018-08-28",
     "release_date": "2018-09-04",
@@ -23606,7 +23668,7 @@
         "can_use": [
           "All Beast"
         ]
-    }
+      }
     },
     "addition_date": "2019-04-09",
     "release_date": "2019-04-10",
@@ -23636,7 +23698,7 @@
         "can_use": [
           "All Beast"
         ]
-    }
+      }
     },
     "addition_date": "2019-04-09",
     "release_date": "2019-04-10",
@@ -23994,7 +24056,7 @@
         "can_use": [
           "All Breath"
         ]
-    }
+      }
     },
     "addition_date": "2018-09-14",
     "release_date": "2018-09-20",
@@ -24080,7 +24142,7 @@
         "can_use": [
           "All Breath"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -24514,7 +24576,7 @@
         "can_use": [
           "All Beast"
         ]
-    }
+      }
     },
     "addition_date": "2020-05-20",
     "release_date": "2020-05-20",
@@ -24570,7 +24632,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2017-11-28",
     "release_date": "2017-12-04",
@@ -24743,7 +24805,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2020-04-20",
     "release_date": "2020-04-20",
@@ -24885,7 +24947,7 @@
         "can_use": [
           "All Breath"
         ]
-    }
+      }
     },
     "addition_date": "2020-05-07",
     "release_date": "2020-05-08",
@@ -24907,7 +24969,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2024-11-05",
@@ -24959,9 +25021,7 @@
         "none": true
       },
       "weapons": {
-        "can_not_use": [
-          "Colorless Staff"
-        ]
+        "can_use": []
       }
     },
     "addition_date": "2020-12-08",
@@ -25056,7 +25116,7 @@
         "can_use": [
           "Red Tome"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -25234,7 +25294,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -25287,7 +25347,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -25347,7 +25407,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2020-03-18",
     "release_date": "2020-03-18",
@@ -25413,7 +25473,7 @@
         "can_use": [
           "All Beast"
         ]
-    }
+      }
     },
     "addition_date": "2019-06-10",
     "release_date": "2019-06-11",
@@ -25446,7 +25506,7 @@
         "can_use": [
           "All Beast"
         ]
-    }
+      }
     },
     "addition_date": "2019-06-10",
     "release_date": "2019-06-11",
@@ -25638,7 +25698,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2025-09-16",
@@ -25695,7 +25755,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2018-09-14",
     "release_date": "2018-09-21",
@@ -26246,7 +26306,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2020-10-19",
     "release_date": "2020-10-19",
@@ -26565,7 +26625,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -26942,7 +27002,7 @@
         "can_use": [
           "All Dagger"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -27029,7 +27089,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2017-05-30",
     "release_date": "2017-05-30",
@@ -27057,7 +27117,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2017-05-30",
     "release_date": "2017-05-30",
@@ -27383,7 +27443,7 @@
         "can_use": [
           "Red Tome"
         ]
-    }
+      }
     },
     "addition_date": "2021-09-17",
     "release_date": "2021-09-18",
@@ -27494,7 +27554,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2021-12-06",
     "release_date": "2021-12-07",
@@ -28061,7 +28121,7 @@
         "can_use": [
           "Green Tome"
         ]
-    }
+      }
     },
     "addition_date": "2019-03-29",
     "release_date": "2019-03-29",
@@ -28169,7 +28229,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2020-05-07",
     "release_date": "2020-05-08",
@@ -28225,7 +28285,7 @@
         "can_use": [
           "Green Tome"
         ]
-    }
+      }
     },
     "addition_date": "2021-08-17",
     "release_date": "2021-08-17",
@@ -28278,7 +28338,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -29166,9 +29226,7 @@
         "none": true
       },
       "weapons": {
-        "can_not_use": [
-          "Colorless Staff"
-        ]
+        "can_use": []
       }
     },
     "addition_date": "2017-02-02",
@@ -30076,7 +30134,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2021-11-17",
     "release_date": "2021-11-18",
@@ -30192,9 +30250,7 @@
         ]
       },
       "weapons": {
-        "can_not_use": [
-          "Colorless Staff"
-        ]
+        "can_use": []
       }
     },
     "addition_date": "2025-10-06",
@@ -30251,7 +30307,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2019-08-16",
     "release_date": "2019-08-17",
@@ -30304,7 +30360,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-06-14",
     "release_date": "2017-06-14",
@@ -30426,7 +30482,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2019-10-08",
     "release_date": "2019-10-09",
@@ -30448,7 +30504,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2024-10-03",
@@ -30470,9 +30526,7 @@
         "none": true
       },
       "weapons": {
-        "can_not_use": [
-          "Colorless Staff"
-        ]
+        "can_use": []
       }
     },
     "addition_date": "2025-09-04",
@@ -30532,7 +30586,7 @@
         "can_use": [
           "All Dagger"
         ]
-    }
+      }
     },
     "addition_date": "2020-02-17",
     "release_date": "2020-02-17",
@@ -30585,7 +30639,7 @@
         "can_use": [
           "All Dagger"
         ]
-    }
+      }
     },
     "addition_date": "2020-11-17",
     "release_date": "2020-11-17",
@@ -30762,7 +30816,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -30784,7 +30838,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2024-05-07",
@@ -30865,7 +30919,7 @@
         "can_use": [
           "Red Tome"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -31317,7 +31371,7 @@
         "can_use": [
           "All Beast"
         ]
-    }
+      }
     },
     "addition_date": "2019-04-09",
     "release_date": "2019-04-10",
@@ -31347,7 +31401,7 @@
         "can_use": [
           "All Beast"
         ]
-    }
+      }
     },
     "addition_date": "2019-04-09",
     "release_date": "2019-04-10",
@@ -31514,7 +31568,7 @@
         "can_use": [
           "Blue Tome"
         ]
-    }
+      }
     },
     "addition_date": "2020-09-19",
     "release_date": "2020-09-19",
@@ -31596,7 +31650,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2019-07-21",
     "release_date": "2019-07-22",
@@ -31674,7 +31728,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -31755,7 +31809,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2020-11-17",
     "release_date": "2020-11-17",
@@ -31938,9 +31992,7 @@
         "none": true
       },
       "weapons": {
-        "can_not_use": [
-          "Colorless Staff"
-        ]
+        "can_use": []
       }
     },
     "addition_date": "2025-01-28",
@@ -32023,7 +32075,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2020-03-05",
     "release_date": "2020-03-06",
@@ -32047,7 +32099,7 @@
         ]
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2025-06-05",
@@ -32164,7 +32216,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2019-07-21",
     "release_date": "2019-07-22",
@@ -32283,7 +32335,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2017-08-15",
     "release_date": "2017-08-21",
@@ -32396,7 +32448,7 @@
         "can_use": [
           "Red Tome"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-27",
     "release_date": "2017-02-27",
@@ -32509,9 +32561,7 @@
         "none": true
       },
       "weapons": {
-        "can_not_use": [
-          "Colorless Staff"
-        ]
+        "can_use": []
       }
     },
     "addition_date": "2025-10-06",
@@ -32717,7 +32767,7 @@
         ]
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2024-10-03",
@@ -33311,7 +33361,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2020-08-18",
     "release_date": "2020-08-19",
@@ -33454,7 +33504,7 @@
         "can_use": [
           "Blue Tome"
         ]
-    }
+      }
     },
     "addition_date": "2017-07-13",
     "release_date": "2017-07-13",
@@ -33597,7 +33647,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2020-10-19",
     "release_date": "2020-10-20",
@@ -33653,7 +33703,7 @@
         "can_use": [
           "Green Tome"
         ]
-    }
+      }
     },
     "addition_date": "2017-07-13",
     "release_date": "2017-07-13",
@@ -33709,7 +33759,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-11-28",
     "release_date": "2017-12-04",
@@ -33762,7 +33812,7 @@
         "can_use": [
           "Red Tome"
         ]
-    }
+      }
     },
     "addition_date": "2020-12-08",
     "release_date": "2020-12-08",
@@ -33816,7 +33866,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2018-05-09",
     "release_date": "2018-05-10",
@@ -33838,7 +33888,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2024-12-06",
@@ -33892,7 +33942,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2017-07-13",
     "release_date": "2017-07-18",
@@ -33948,7 +33998,7 @@
         "can_use": [
           "Red Tome"
         ]
-    }
+      }
     },
     "addition_date": "2020-05-07",
     "release_date": "2020-05-08",
@@ -34385,7 +34435,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2017-09-15",
     "release_date": "2017-09-15",
@@ -34497,7 +34547,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2017-04-14",
     "release_date": "2017-04-14",
@@ -34641,7 +34691,7 @@
         "can_use": [
           "All Breath"
         ]
-    }
+      }
     },
     "addition_date": "2021-10-29",
     "release_date": "2021-10-29",
@@ -35036,7 +35086,7 @@
         "can_use": [
           "Blue Tome"
         ]
-    }
+      }
     },
     "addition_date": "2019-05-09",
     "release_date": "2019-05-12",
@@ -35238,7 +35288,7 @@
         "can_use": [
           "All Dagger"
         ]
-    }
+      }
     },
     "addition_date": "2017-03-14",
     "release_date": "2017-03-14",
@@ -35383,7 +35433,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2019-07-08",
     "release_date": "2019-07-09",
@@ -36241,7 +36291,7 @@
         ]
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2025-03-06",
@@ -38329,7 +38379,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2023-08-16",
     "release_date": "2023-08-16",
@@ -38439,7 +38489,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2024-09-05",
@@ -38566,7 +38616,7 @@
         "can_use": [
           "All Breath"
         ]
-    }
+      }
     },
     "addition_date": "2019-03-07",
     "release_date": "2019-03-08",
@@ -38678,7 +38728,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2019-11-06",
     "release_date": "2019-11-07",
@@ -38924,7 +38974,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -39225,7 +39275,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -39249,7 +39299,7 @@
         ]
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2025-05-07",
@@ -40234,7 +40284,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2025-07-07",
@@ -40297,7 +40347,7 @@
         "can_use": [
           "All Breath"
         ]
-    }
+      }
     },
     "addition_date": "2019-05-30",
     "release_date": "2019-05-30",
@@ -40421,7 +40471,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2025-04-15",
@@ -40484,7 +40534,7 @@
         "can_use": [
           "All Breath"
         ]
-    }
+      }
     },
     "addition_date": "2018-09-28",
     "release_date": "2018-09-28",
@@ -40546,7 +40596,7 @@
         "can_use": [
           "Green Tome"
         ]
-    }
+      }
     },
     "addition_date": "2017-10-16",
     "release_date": "2017-10-16",
@@ -40748,7 +40798,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2024-01-09",
@@ -40771,7 +40821,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2024-03-15",
@@ -40828,7 +40878,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-10-16",
     "release_date": "2017-10-16",
@@ -41018,7 +41068,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2018-11-08",
     "release_date": "2018-11-09",
@@ -41078,7 +41128,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2020-09-18",
     "release_date": "2020-09-18",
@@ -41407,7 +41457,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2019-08-16",
     "release_date": "2019-08-16",
@@ -41529,7 +41579,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2017-04-26",
     "release_date": "2017-04-26",
@@ -41583,7 +41633,7 @@
         "can_use": [
           "All Breath"
         ]
-    }
+      }
     },
     "addition_date": "2018-11-08",
     "release_date": "2018-11-09",
@@ -41774,9 +41824,7 @@
         "none": true
       },
       "weapons": {
-        "can_not_use": [
-          "Colorless Staff"
-        ]
+        "can_use": []
       }
     },
     "addition_date": "2017-02-02",
@@ -41809,9 +41857,7 @@
         "none": true
       },
       "weapons": {
-        "can_not_use": [
-          "Colorless Staff"
-        ]
+        "can_use": []
       }
     },
     "addition_date": "2025-04-03",
@@ -41890,9 +41936,7 @@
         "none": true
       },
       "weapons": {
-        "can_not_use": [
-          "Colorless Staff"
-        ]
+        "can_use": []
       }
     },
     "addition_date": "2017-02-02",
@@ -42135,6 +42179,7 @@
   },
   {
     "id": "SID_尊き竜の血を…・承",
+    "game8_id": "560165",
     "name": "Dragon's Dance II",
     "group_name": "Dragon's Dance II",
     "category": "assist",
@@ -42147,9 +42192,7 @@
         "none": true
       },
       "weapons": {
-        "can_not_use": [
-          "Colorless Staff"
-        ]
+        "can_use": []
       }
     },
     "addition_date": "2022-09-29",
@@ -42594,7 +42637,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2019-02-27",
     "release_date": "2019-02-27",
@@ -42870,7 +42913,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2020-04-20",
     "release_date": "2020-04-21",
@@ -42914,9 +42957,7 @@
         "none": true
       },
       "weapons": {
-        "can_not_use": [
-          "Colorless Staff"
-        ]
+        "can_use": []
       }
     },
     "addition_date": "2017-02-02",
@@ -42944,9 +42985,7 @@
         ]
       },
       "weapons": {
-        "can_not_use": [
-          "Colorless Staff"
-        ]
+        "can_use": []
       }
     },
     "addition_date": "2025-10-17",
@@ -43078,9 +43117,7 @@
         "none": true
       },
       "weapons": {
-        "can_not_use": [
-          "Colorless Staff"
-        ]
+        "can_use": []
       }
     },
     "addition_date": "2025-03-06",
@@ -43481,7 +43518,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2022-10-31",
@@ -43493,6 +43530,7 @@
   },
   {
     "id": "SID_陰陽の法則・神",
+    "game8_id": "560164",
     "name": "Duality+",
     "group_name": "Duality",
     "category": "passivea",
@@ -43506,7 +43544,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2022-10-31",
@@ -43800,7 +43838,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -43853,7 +43891,7 @@
         "can_use": [
           "All Breath"
         ]
-    }
+      }
     },
     "addition_date": "2018-04-24",
     "release_date": "2018-05-03",
@@ -44116,7 +44154,7 @@
         "can_use": [
           "Blue Tome"
         ]
-    }
+      }
     },
     "addition_date": "2020-03-18",
     "release_date": "2020-03-18",
@@ -44461,7 +44499,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2020-01-08",
     "release_date": "2020-01-09",
@@ -44658,7 +44696,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2022-06-30",
     "release_date": "2022-06-30",
@@ -44744,7 +44782,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-04-20",
@@ -44852,7 +44890,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -44914,7 +44952,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2019-04-19",
     "release_date": "2019-04-19",
@@ -44967,7 +45005,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2017-04-26",
     "release_date": "2017-04-26",
@@ -45079,7 +45117,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -45466,7 +45504,7 @@
         "can_use": [
           "All Beast"
         ]
-    }
+      }
     },
     "addition_date": "2022-11-18",
     "release_date": "2022-11-30",
@@ -45521,7 +45559,7 @@
         "can_use": [
           "Red Tome"
         ]
-    }
+      }
     },
     "addition_date": "2022-11-30",
     "release_date": "2022-11-30",
@@ -45572,9 +45610,7 @@
         "none": true
       },
       "weapons": {
-        "can_not_use": [
-          "Colorless Staff"
-        ]
+        "can_use": []
       }
     },
     "addition_date": "2022-11-30",
@@ -45600,7 +45636,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2025-09-16",
@@ -45686,7 +45722,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2025-10-06",
@@ -45966,7 +46002,7 @@
         "can_use": [
           "All Breath"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -46019,7 +46055,7 @@
         "can_use": [
           "Red Tome"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -46079,7 +46115,7 @@
         "can_use": [
           "All Breath"
         ]
-    }
+      }
     },
     "addition_date": "2019-09-19",
     "release_date": "2019-09-19",
@@ -47004,7 +47040,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2018-08-28",
     "release_date": "2018-08-28",
@@ -47065,7 +47101,7 @@
         "can_use": [
           "Green Tome"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -47121,7 +47157,7 @@
         "can_use": [
           "Green Tome"
         ]
-    }
+      }
     },
     "addition_date": "2020-06-18",
     "release_date": "2020-06-18",
@@ -47177,7 +47213,7 @@
         "can_use": [
           "All Breath"
         ]
-    }
+      }
     },
     "addition_date": "2018-02-22",
     "release_date": "2018-02-22",
@@ -47264,7 +47300,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2021-02-26",
     "release_date": "2021-02-26",
@@ -47286,7 +47322,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2025-08-29",
@@ -47368,7 +47404,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2021-07-19",
     "release_date": "2021-07-19",
@@ -47506,7 +47542,7 @@
         "can_use": [
           "All Breath"
         ]
-    }
+      }
     },
     "addition_date": "2022-09-29",
     "release_date": "2022-09-29",
@@ -47861,7 +47897,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2018-06-08",
     "release_date": "2018-06-12",
@@ -48230,7 +48266,7 @@
         "can_use": [
           "Blue Tome"
         ]
-    }
+      }
     },
     "addition_date": "2018-03-09",
     "release_date": "2018-03-09",
@@ -48283,7 +48319,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2019-11-06",
     "release_date": "2019-11-07",
@@ -48370,7 +48406,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -48398,7 +48434,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -48464,7 +48500,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2020-04-20",
     "release_date": "2020-04-20",
@@ -48517,7 +48553,7 @@
         "can_use": [
           "All Dagger"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -48538,9 +48574,7 @@
         "none": true
       },
       "weapons": {
-        "can_not_use": [
-          "Colorless Staff"
-        ]
+        "can_use": []
       }
     },
     "addition_date": "2025-05-07",
@@ -48600,7 +48634,7 @@
         "can_use": [
           "All Breath"
         ]
-    }
+      }
     },
     "addition_date": "2019-01-30",
     "release_date": "2019-01-30",
@@ -48765,7 +48799,7 @@
         "can_use": [
           "Blue Tome"
         ]
-    }
+      }
     },
     "addition_date": "2021-01-18",
     "release_date": "2021-01-18",
@@ -48787,7 +48821,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2025-03-06",
@@ -48863,7 +48897,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2024-05-07",
@@ -49112,7 +49146,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -49166,7 +49200,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2018-12-18",
     "release_date": "2018-12-18",
@@ -49547,7 +49581,7 @@
         "can_use": [
           "Blue Tome"
         ]
-    }
+      }
     },
     "addition_date": "2019-11-19",
     "release_date": "2019-11-22",
@@ -49600,7 +49634,7 @@
         "can_use": [
           "Blue Tome"
         ]
-    }
+      }
     },
     "addition_date": "2021-04-05",
     "release_date": "2021-04-07",
@@ -50638,7 +50672,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2020-03-05",
     "release_date": "2020-03-09",
@@ -50759,7 +50793,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2020-09-18",
     "release_date": "2020-09-19",
@@ -50845,7 +50879,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2018-02-28",
     "release_date": "2018-02-28",
@@ -50866,9 +50900,7 @@
         "none": true
       },
       "weapons": {
-        "can_not_use": [
-          "Colorless Staff"
-        ]
+        "can_use": []
       }
     },
     "addition_date": "2025-09-04",
@@ -51268,7 +51300,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2018-11-08",
     "release_date": "2018-11-09",
@@ -51296,7 +51328,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2018-11-08",
     "release_date": "2018-11-09",
@@ -51990,7 +52022,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -52724,7 +52756,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2020-08-18",
     "release_date": "2020-08-18",
@@ -52777,7 +52809,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2018-07-20",
     "release_date": "2018-07-20",
@@ -52860,7 +52892,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2020-06-05",
     "release_date": "2020-06-05",
@@ -52916,7 +52948,7 @@
         "can_use": [
           "Blue Tome"
         ]
-    }
+      }
     },
     "addition_date": "2019-12-05",
     "release_date": "2019-12-06",
@@ -52973,7 +53005,7 @@
         "can_use": [
           "Red Tome"
         ]
-    }
+      }
     },
     "addition_date": "2020-09-30",
     "release_date": "2020-09-30",
@@ -53029,7 +53061,7 @@
         "can_use": [
           "Green Tome"
         ]
-    }
+      }
     },
     "addition_date": "2019-12-05",
     "release_date": "2020-11-27",
@@ -53255,7 +53287,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -53300,7 +53332,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2024-12-06",
@@ -53323,7 +53355,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2025-05-07",
@@ -53404,7 +53436,7 @@
         "can_use": [
           "Red Tome"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -53483,7 +53515,7 @@
         "can_use": [
           "Green Tome"
         ]
-    }
+      }
     },
     "addition_date": "2018-09-06",
     "release_date": "2018-09-07",
@@ -53651,7 +53683,7 @@
         ]
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2017-02-02",
@@ -53709,7 +53741,7 @@
         ]
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2017-02-02",
@@ -53736,7 +53768,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2017-02-02",
@@ -53762,7 +53794,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2017-02-02",
@@ -53796,7 +53828,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2017-02-02",
@@ -53826,7 +53858,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2020-06-18",
@@ -53883,7 +53915,7 @@
         ]
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2017-02-02",
@@ -53910,7 +53942,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2017-02-02",
@@ -53936,7 +53968,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2017-02-02",
@@ -53970,13 +54002,14 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
     "version": "1.0",
     "upgrade_ids": [
+      "SID_攻魔鼓舞・強襲",
       "SID_攻魔鼓舞・奮激",
       "SID_魔防の鼓舞4",
       "SID_魔防の相互鼓舞"
@@ -54001,7 +54034,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2019-12-05",
@@ -54321,7 +54354,7 @@
         "can_use": [
           "All Beast"
         ]
-    }
+      }
     },
     "addition_date": "2019-02-20",
     "release_date": "2019-02-20",
@@ -54351,7 +54384,7 @@
         "can_use": [
           "All Beast"
         ]
-    }
+      }
     },
     "addition_date": "2019-02-20",
     "release_date": "2019-02-20",
@@ -54410,7 +54443,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -54463,7 +54496,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2019-12-05",
     "release_date": "2019-12-06",
@@ -54571,7 +54604,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2019-08-06",
     "release_date": "2019-08-07",
@@ -55009,7 +55042,7 @@
         "can_use": [
           "All Breath"
         ]
-    }
+      }
     },
     "addition_date": "2020-10-07",
     "release_date": "2020-10-08",
@@ -55092,7 +55125,7 @@
         "can_use": [
           "Red Tome"
         ]
-    }
+      }
     },
     "addition_date": "2018-06-21",
     "release_date": "2018-06-21",
@@ -55204,7 +55237,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -55287,7 +55320,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2025-05-16",
@@ -55515,9 +55548,7 @@
         "none": true
       },
       "weapons": {
-        "can_not_use": [
-          "Colorless Staff"
-        ]
+        "can_use": []
       }
     },
     "addition_date": "2024-11-05",
@@ -55542,9 +55573,7 @@
         "none": true
       },
       "weapons": {
-        "can_not_use": [
-          "Colorless Staff"
-        ]
+        "can_use": []
       }
     },
     "addition_date": "2025-09-04",
@@ -55654,7 +55683,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2022-12-05",
@@ -55677,7 +55706,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2023-12-28",
@@ -56373,7 +56402,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2018-09-06",
     "release_date": "2018-09-07",
@@ -56820,7 +56849,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2018-08-21",
     "release_date": "2018-08-21",
@@ -56874,7 +56903,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2020-08-06",
     "release_date": "2020-08-07",
@@ -56934,7 +56963,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2022-08-17",
     "release_date": "2022-08-17",
@@ -56993,7 +57022,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2017-08-31",
     "release_date": "2017-08-31",
@@ -57105,7 +57134,7 @@
         "can_use": [
           "Red Tome"
         ]
-    }
+      }
     },
     "addition_date": "2021-04-05",
     "release_date": "2021-04-06",
@@ -57163,7 +57192,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2021-08-17",
     "release_date": "2021-08-17",
@@ -57525,9 +57554,7 @@
         "none": true
       },
       "weapons": {
-        "can_not_use": [
-          "Colorless Staff"
-        ]
+        "can_use": []
       }
     },
     "addition_date": "2024-11-15",
@@ -57553,7 +57580,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2025-04-15",
@@ -57690,7 +57717,7 @@
         "can_use": [
           "Green Tome"
         ]
-    }
+      }
     },
     "addition_date": "2018-06-08",
     "release_date": "2018-06-08",
@@ -57888,7 +57915,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2019-05-21",
     "release_date": "2019-05-21",
@@ -57944,7 +57971,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2018-11-28",
     "release_date": "2018-11-28",
@@ -57965,9 +57992,7 @@
         "none": true
       },
       "weapons": {
-        "can_not_use": [
-          "Colorless Staff"
-        ]
+        "can_use": []
       }
     },
     "addition_date": "2017-02-02",
@@ -58030,7 +58055,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -58198,7 +58223,7 @@
         "can_use": [
           "Red Tome"
         ]
-    }
+      }
     },
     "addition_date": "2018-01-25",
     "release_date": "2018-01-25",
@@ -58219,9 +58244,7 @@
         "none": true
       },
       "weapons": {
-        "can_not_use": [
-          "Colorless Staff"
-        ]
+        "can_use": []
       }
     },
     "addition_date": "2017-02-02",
@@ -58397,7 +58420,7 @@
         "can_use": [
           "All Breath"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -58626,7 +58649,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2021-02-16",
     "release_date": "2021-02-16",
@@ -58789,7 +58812,7 @@
         "can_use": [
           "All Breath"
         ]
-    }
+      }
     },
     "addition_date": "2022-05-31",
     "release_date": "2022-05-31",
@@ -58890,7 +58913,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-07-13",
     "release_date": "2017-07-13",
@@ -58941,7 +58964,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -59176,7 +59199,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-06-02",
@@ -59227,7 +59250,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2017-08-15",
     "release_date": "2017-08-15",
@@ -59287,7 +59310,7 @@
         "can_use": [
           "Green Tome"
         ]
-    }
+      }
     },
     "addition_date": "2021-01-07",
     "release_date": "2021-01-08",
@@ -59374,7 +59397,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2019-01-23",
     "release_date": "2019-01-23",
@@ -59402,7 +59425,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2019-01-23",
     "release_date": "2019-01-23",
@@ -59579,7 +59602,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -59607,7 +59630,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -59771,7 +59794,7 @@
         "can_use": [
           "All Breath"
         ]
-    }
+      }
     },
     "addition_date": "2018-01-25",
     "release_date": "2018-01-25",
@@ -59792,9 +59815,7 @@
         "none": true
       },
       "weapons": {
-        "can_not_use": [
-          "Colorless Staff"
-        ]
+        "can_use": []
       }
     },
     "addition_date": "2025-06-30",
@@ -60059,7 +60080,7 @@
         "can_use": [
           "Green Tome"
         ]
-    }
+      }
     },
     "addition_date": "2021-11-17",
     "release_date": "2021-11-30",
@@ -60115,7 +60136,7 @@
         "can_use": [
           "Red Tome"
         ]
-    }
+      }
     },
     "addition_date": "2018-03-09",
     "release_date": "2018-03-09",
@@ -60200,7 +60221,7 @@
         "can_use": [
           "Red Tome"
         ]
-    }
+      }
     },
     "addition_date": "2017-10-30",
     "release_date": "2017-10-30",
@@ -61642,7 +61663,7 @@
         "can_use": [
           "All Beast"
         ]
-    }
+      }
     },
     "addition_date": "2019-12-25",
     "release_date": "2020-01-01",
@@ -61672,7 +61693,7 @@
         "can_use": [
           "All Beast"
         ]
-    }
+      }
     },
     "addition_date": "2019-12-25",
     "release_date": "2020-01-01",
@@ -61723,7 +61744,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -61783,7 +61804,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2019-11-19",
     "release_date": "2019-11-19",
@@ -62040,7 +62061,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2020-05-07",
     "release_date": "2020-05-09",
@@ -62324,7 +62345,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2021-04-28",
     "release_date": "2021-04-28",
@@ -62578,7 +62599,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -63112,7 +63133,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2025-10-06",
@@ -63167,7 +63188,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -63227,7 +63248,7 @@
         "can_use": [
           "All Beast"
         ]
-    }
+      }
     },
     "addition_date": "2019-01-10",
     "release_date": "2019-01-11",
@@ -63446,7 +63467,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2019-06-10",
     "release_date": "2019-06-11",
@@ -63498,7 +63519,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2025-08-15",
@@ -63552,7 +63573,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2021-02-16",
     "release_date": "2021-02-17",
@@ -63598,7 +63619,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2024-12-27",
@@ -63861,7 +63882,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2025-09-04",
@@ -63884,7 +63905,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2022-08-17",
@@ -64024,7 +64045,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2020-07-30",
     "release_date": "2020-07-30",
@@ -64295,7 +64316,7 @@
         "can_use": [
           "Red Tome"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -64435,7 +64456,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -64814,7 +64835,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2018-12-28",
     "release_date": "2019-01-01",
@@ -64867,7 +64888,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -64920,7 +64941,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -65030,7 +65051,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2018-08-21",
     "release_date": "2018-08-21",
@@ -65081,7 +65102,7 @@
         "can_use": [
           "All Dagger"
         ]
-    }
+      }
     },
     "addition_date": "2018-09-14",
     "release_date": "2018-09-14",
@@ -65289,7 +65310,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2025-06-17",
@@ -65432,7 +65453,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2021-07-29",
     "release_date": "2021-07-29",
@@ -65593,7 +65614,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2022-08-17",
     "release_date": "2022-08-17",
@@ -65617,7 +65638,7 @@
         ]
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2017-02-02",
@@ -65644,7 +65665,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2017-02-02",
@@ -65670,7 +65691,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2017-02-02",
@@ -65704,13 +65725,14 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
     "version": "1.0",
     "upgrade_ids": [
+      "SID_攻魔鼓舞・強襲",
       "SID_攻魔鼓舞・奮激",
       "SID_攻速鼓譟・呼吸",
       "SID_攻速鼓舞・奮激",
@@ -65738,7 +65760,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2018-12-28",
@@ -65795,7 +65817,7 @@
         ]
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2017-02-02",
@@ -65853,7 +65875,7 @@
         ]
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2017-02-02",
@@ -65880,7 +65902,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2017-02-02",
@@ -65906,7 +65928,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2017-02-02",
@@ -65940,7 +65962,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2017-02-02",
@@ -65973,7 +65995,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2019-03-07",
@@ -66031,7 +66053,7 @@
         "can_use": [
           "All Dagger"
         ]
-    }
+      }
     },
     "addition_date": "2021-09-17",
     "release_date": "2021-09-17",
@@ -66118,7 +66140,7 @@
         "can_use": [
           "All Beast"
         ]
-    }
+      }
     },
     "addition_date": "2021-12-06",
     "release_date": "2021-12-07",
@@ -66223,7 +66245,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2025-07-18",
@@ -66278,7 +66300,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2021-04-05",
     "release_date": "2021-04-06",
@@ -66337,7 +66359,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2021-10-18",
     "release_date": "2021-10-19",
@@ -66702,7 +66724,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2021-03-04",
     "release_date": "2021-06-08",
@@ -66758,7 +66780,7 @@
         "can_use": [
           "Green Tome"
         ]
-    }
+      }
     },
     "addition_date": "2020-12-17",
     "release_date": "2020-12-17",
@@ -66873,7 +66895,7 @@
         "can_use": [
           "Blue Tome"
         ]
-    }
+      }
     },
     "addition_date": "2018-03-22",
     "release_date": "2018-03-22",
@@ -67014,7 +67036,7 @@
         "can_use": [
           "All Dagger"
         ]
-    }
+      }
     },
     "addition_date": "2019-08-06",
     "release_date": "2019-08-07",
@@ -67067,7 +67089,7 @@
         "can_use": [
           "All Dagger"
         ]
-    }
+      }
     },
     "addition_date": "2018-06-08",
     "release_date": "2018-06-08",
@@ -67244,7 +67266,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2020-02-17",
     "release_date": "2020-02-17",
@@ -67266,7 +67288,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2025-01-06",
@@ -67324,7 +67346,7 @@
         "can_use": [
           "Red Tome"
         ]
-    }
+      }
     },
     "addition_date": "2020-04-07",
     "release_date": "2020-04-12",
@@ -67604,9 +67626,7 @@
         "none": true
       },
       "weapons": {
-        "can_not_use": [
-          "Colorless Staff"
-        ]
+        "can_use": []
       }
     },
     "addition_date": "2024-12-05",
@@ -67811,7 +67831,7 @@
         "can_use": [
           "Blue Tome"
         ]
-    }
+      }
     },
     "addition_date": "2021-03-04",
     "release_date": "2021-03-05",
@@ -67864,7 +67884,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2019-03-07",
     "release_date": "2019-03-08",
@@ -67954,7 +67974,7 @@
         "can_use": [
           "Green Tome"
         ]
-    }
+      }
     },
     "addition_date": "2019-09-30",
     "release_date": "2019-09-30",
@@ -68102,7 +68122,7 @@
         "can_use": [
           "All Beast"
         ]
-    }
+      }
     },
     "addition_date": "2022-07-26",
     "release_date": "2022-07-26",
@@ -68180,7 +68200,7 @@
         "can_use": [
           "Blue Tome"
         ]
-    }
+      }
     },
     "addition_date": "2019-12-25",
     "release_date": "2020-01-01",
@@ -68236,7 +68256,7 @@
         "can_use": [
           "Red Tome"
         ]
-    }
+      }
     },
     "addition_date": "2018-11-21",
     "release_date": "2018-11-23",
@@ -68257,9 +68277,7 @@
         "none": true
       },
       "weapons": {
-        "can_not_use": [
-          "Colorless Staff"
-        ]
+        "can_use": []
       }
     },
     "addition_date": "2025-08-06",
@@ -68585,7 +68603,7 @@
         ]
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2025-01-06",
@@ -68676,7 +68694,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2023-06-07",
     "release_date": "2023-06-08",
@@ -68704,7 +68722,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2023-06-07",
     "release_date": "2023-06-08",
@@ -68765,7 +68783,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2021-01-07",
     "release_date": "2021-01-08",
@@ -69487,7 +69505,7 @@
         "can_use": [
           "Colorless Tome"
         ]
-    }
+      }
     },
     "addition_date": "2022-08-17",
     "release_date": "2022-08-17",
@@ -69540,7 +69558,7 @@
         "can_use": [
           "Green Tome"
         ]
-    }
+      }
     },
     "addition_date": "2017-05-15",
     "release_date": "2017-05-15",
@@ -69889,7 +69907,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -69942,7 +69960,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2018-07-20",
     "release_date": "2018-07-20",
@@ -70020,7 +70038,7 @@
         "can_use": [
           "Green Tome"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -70306,7 +70324,7 @@
         "can_use": [
           "Blue Tome"
         ]
-    }
+      }
     },
     "addition_date": "2018-01-25",
     "release_date": "2018-01-25",
@@ -70359,7 +70377,7 @@
         "can_use": [
           "All Dagger"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -70684,7 +70702,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2019-09-05",
@@ -70710,7 +70728,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2019-10-21",
@@ -70736,7 +70754,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2020-09-07",
@@ -70762,7 +70780,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2018-12-28",
@@ -70822,7 +70840,7 @@
         "can_use": [
           "Colorless Tome"
         ]
-    }
+      }
     },
     "addition_date": "2020-10-07",
     "release_date": "2020-10-08",
@@ -70944,7 +70962,7 @@
         "can_use": [
           "Colorless Tome"
         ]
-    }
+      }
     },
     "addition_date": "2020-05-20",
     "release_date": "2020-05-20",
@@ -71031,7 +71049,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2018-12-18",
     "release_date": "2018-12-18",
@@ -71059,7 +71077,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2018-12-18",
     "release_date": "2018-12-18",
@@ -71145,7 +71163,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-07-07",
     "release_date": "2017-07-07",
@@ -71316,7 +71334,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2025-08-15",
@@ -71339,7 +71357,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2024-12-05",
@@ -71574,7 +71592,7 @@
         "can_use": [
           "All Dagger"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -71625,7 +71643,7 @@
         "can_use": [
           "All Dagger"
         ]
-    }
+      }
     },
     "addition_date": "2018-04-24",
     "release_date": "2018-05-02",
@@ -71840,7 +71858,7 @@
         "can_use": [
           "Green Tome"
         ]
-    }
+      }
     },
     "addition_date": "2017-11-28",
     "release_date": "2017-12-02",
@@ -72107,7 +72125,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2021-01-07",
     "release_date": "2021-01-08",
@@ -72537,7 +72555,7 @@
         "can_use": [
           "All Beast"
         ]
-    }
+      }
     },
     "addition_date": "2019-02-20",
     "release_date": "2019-02-20",
@@ -72567,7 +72585,7 @@
         "can_use": [
           "All Beast"
         ]
-    }
+      }
     },
     "addition_date": "2019-02-20",
     "release_date": "2019-02-20",
@@ -72733,7 +72751,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2017-07-13",
     "release_date": "2017-07-13",
@@ -72872,7 +72890,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2019-05-09",
     "release_date": "2019-05-10",
@@ -72959,7 +72977,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2018-12-28",
     "release_date": "2019-01-01",
@@ -72987,7 +73005,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2018-12-28",
     "release_date": "2019-01-01",
@@ -73160,7 +73178,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2025-08-06",
@@ -73247,7 +73265,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2021-06-07",
     "release_date": "2021-06-08",
@@ -73443,7 +73461,7 @@
         ]
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2025-01-17",
@@ -73506,7 +73524,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-07-13",
     "release_date": "2017-07-13",
@@ -73700,7 +73718,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2019-06-10",
     "release_date": "2019-06-13",
@@ -73930,7 +73948,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2022-03-31",
     "release_date": "2022-03-31",
@@ -74043,7 +74061,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2020-01-08",
     "release_date": "2020-01-09",
@@ -74124,7 +74142,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -74198,7 +74216,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2024-12-13",
@@ -74341,7 +74359,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2017-11-28",
     "release_date": "2017-11-28",
@@ -74483,7 +74501,7 @@
         "can_use": [
           "All Dagger"
         ]
-    }
+      }
     },
     "addition_date": "2020-06-05",
     "release_date": "2020-06-06",
@@ -74678,7 +74696,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2021-10-29",
@@ -74817,7 +74835,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2018-04-11",
     "release_date": "2018-04-11",
@@ -74967,7 +74985,7 @@
         "can_use": [
           "Green Tome"
         ]
-    }
+      }
     },
     "addition_date": "2019-08-16",
     "release_date": "2019-08-16",
@@ -75281,7 +75299,7 @@
         "can_use": [
           "All Beast"
         ]
-    }
+      }
     },
     "addition_date": "2019-04-09",
     "release_date": "2019-04-10",
@@ -75811,7 +75829,7 @@
         "can_use": [
           "Red Tome"
         ]
-    }
+      }
     },
     "addition_date": "2018-05-09",
     "release_date": "2018-05-14",
@@ -75870,7 +75888,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2017-07-13",
     "release_date": "2017-08-11",
@@ -76011,7 +76029,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2025-04-15",
@@ -76181,7 +76199,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2017-09-15",
     "release_date": "2017-09-15",
@@ -76321,7 +76339,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2018-04-11",
     "release_date": "2018-04-21",
@@ -76380,7 +76398,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2020-04-07",
     "release_date": "2020-04-08",
@@ -76434,7 +76452,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2021-03-04",
     "release_date": "2021-03-05",
@@ -76761,7 +76779,7 @@
         ]
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2025-03-18",
@@ -77170,7 +77188,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2019-04-26",
     "release_date": "2019-04-27",
@@ -77421,7 +77439,7 @@
         "can_use": [
           "All Dagger"
         ]
-    }
+      }
     },
     "addition_date": "2018-12-11",
     "release_date": "2018-12-11",
@@ -77477,7 +77495,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2020-12-08",
     "release_date": "2020-12-08",
@@ -78023,7 +78041,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2018-08-21",
     "release_date": "2018-08-21",
@@ -78077,7 +78095,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2019-12-05",
     "release_date": "2019-12-06",
@@ -78241,7 +78259,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2019-10-21",
     "release_date": "2019-10-24",
@@ -78300,7 +78318,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2018-03-09",
     "release_date": "2018-03-15",
@@ -78440,7 +78458,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2019-10-29",
     "release_date": "2019-10-29",
@@ -78496,7 +78514,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2018-04-11",
     "release_date": "2018-04-11",
@@ -78583,7 +78601,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2019-10-21",
     "release_date": "2019-10-21",
@@ -78611,7 +78629,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2019-10-21",
     "release_date": "2019-10-21",
@@ -78897,7 +78915,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2020-09-18",
     "release_date": "2020-09-18",
@@ -78953,7 +78971,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2019-09-19",
     "release_date": "2019-09-23",
@@ -79088,9 +79106,7 @@
         "none": true
       },
       "weapons": {
-        "can_not_use": [
-          "Colorless Staff"
-        ]
+        "can_use": []
       }
     },
     "addition_date": "2025-08-15",
@@ -79317,7 +79333,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2020-01-17",
     "release_date": "2020-01-20",
@@ -79377,7 +79393,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2020-01-17",
     "release_date": "2020-01-20",
@@ -79441,7 +79457,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2020-01-17",
     "release_date": "2020-01-20",
@@ -79502,7 +79518,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2020-01-17",
     "release_date": "2020-01-20",
@@ -79559,7 +79575,7 @@
         "can_use": [
           "Red Tome"
         ]
-    }
+      }
     },
     "addition_date": "2020-01-17",
     "release_date": "2020-01-20",
@@ -79879,7 +79895,7 @@
         "can_use": [
           "Blue Tome"
         ]
-    }
+      }
     },
     "addition_date": "2018-05-09",
     "release_date": "2018-05-10",
@@ -80217,7 +80233,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2020-08-18",
     "release_date": "2020-08-18",
@@ -80358,7 +80374,7 @@
         "can_use": [
           "All Breath"
         ]
-    }
+      }
     },
     "addition_date": "2020-10-07",
     "release_date": "2020-10-08",
@@ -80507,7 +80523,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2025-10-06",
@@ -80585,7 +80601,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2025-03-18",
@@ -80648,7 +80664,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2017-08-31",
     "release_date": "2017-08-31",
@@ -80704,7 +80720,7 @@
         "can_use": [
           "Green Tome"
         ]
-    }
+      }
     },
     "addition_date": "2018-03-22",
     "release_date": "2018-03-22",
@@ -80783,7 +80799,7 @@
         "can_use": [
           "Red Tome"
         ]
-    }
+      }
     },
     "addition_date": "2018-05-21",
     "release_date": "2018-05-21",
@@ -80900,6 +80916,34 @@
     ]
   },
   {
+    "id": "SID_魔笛ギャラルホルン",
+    "game8_id": "561610",
+    "name": "Mystic Gjallarhorn",
+    "group_name": "Mystic Gjallarhorn",
+    "category": "weapon",
+    "weapon_type": "Blue Tome",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Blue Tome"
+        ]
+      }
+    },
+    "addition_date": "2025-06-05",
+    "release_date": "2025-10-30",
+    "version": "9.10",
+    "downgrade_ids": [
+      "SID_トロン",
+      "SID_シャイン"
+    ]
+  },
+  {
     "id": "SID_戦神の天杖",
     "game8_id": "409482",
     "name": "Mystic War Staff",
@@ -80975,7 +81019,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-27",
     "release_date": "2017-02-27",
@@ -81184,11 +81228,8 @@
         "can_use": [
           "Green Tome"
         ]
+      }
     }
-    },
-    "addition_date": "2017-02-15",
-    "release_date": "2017-02-15",
-    "version": "1.0"
   },
   {
     "id": "SID_ナグルファル",
@@ -81240,7 +81281,7 @@
         "can_use": [
           "Red Tome"
         ]
-    }
+      }
     },
     "addition_date": "2018-01-25",
     "release_date": "2018-01-26",
@@ -81291,7 +81332,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -81342,7 +81383,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2024-12-27",
@@ -81394,9 +81435,7 @@
         "none": true
       },
       "weapons": {
-        "can_not_use": [
-          "Colorless Staff"
-        ]
+        "can_use": []
       }
     },
     "addition_date": "2020-08-31",
@@ -81463,7 +81502,7 @@
         "can_use": [
           "Colorless Tome"
         ]
-    }
+      }
     },
     "addition_date": "2021-08-31",
     "release_date": "2021-08-31",
@@ -81544,7 +81583,7 @@
         "can_use": [
           "All Beast"
         ]
-    }
+      }
     },
     "addition_date": "2019-12-25",
     "release_date": "2020-01-01",
@@ -81573,7 +81612,7 @@
         "can_use": [
           "All Beast"
         ]
-    }
+      }
     },
     "addition_date": "2019-12-25",
     "release_date": "2020-01-01",
@@ -81651,7 +81690,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2021-12-06",
@@ -81915,7 +81954,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2017-08-15",
     "release_date": "2017-08-15",
@@ -82058,7 +82097,7 @@
         "can_use": [
           "Green Tome"
         ]
-    }
+      }
     },
     "addition_date": "2018-05-21",
     "release_date": "2018-05-21",
@@ -82106,9 +82145,7 @@
         "none": true
       },
       "weapons": {
-        "can_not_use": [
-          "Colorless Staff"
-        ]
+        "can_use": []
       }
     },
     "addition_date": "2017-02-02",
@@ -82195,7 +82232,7 @@
         "can_use": [
           "All Beast"
         ]
-    }
+      }
     },
     "addition_date": "2020-07-20",
     "release_date": "2020-11-27",
@@ -82272,7 +82309,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2025-03-06",
@@ -82330,7 +82367,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -82421,7 +82458,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2019-08-16",
     "release_date": "2019-08-16",
@@ -82806,7 +82843,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2018-09-14",
     "release_date": "2018-09-21",
@@ -82948,7 +82985,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -83007,7 +83044,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2021-04-05",
     "release_date": "2021-04-06",
@@ -83063,7 +83100,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2019-07-21",
     "release_date": "2019-07-22",
@@ -83646,7 +83683,7 @@
         "can_use": [
           "All Breath"
         ]
-    }
+      }
     },
     "addition_date": "2020-05-29",
     "release_date": "2020-05-29",
@@ -83668,7 +83705,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2024-12-06",
@@ -83728,7 +83765,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -83843,7 +83880,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2021-05-20",
     "release_date": "2021-05-20",
@@ -83871,7 +83908,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2021-05-20",
     "release_date": "2021-05-20",
@@ -83953,7 +83990,7 @@
         "can_use": [
           "Green Tome"
         ]
-    }
+      }
     },
     "addition_date": "2017-11-28",
     "release_date": "2017-12-02",
@@ -84009,7 +84046,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2020-12-08",
     "release_date": "2020-12-08",
@@ -85037,7 +85074,7 @@
         "can_use": [
           "Blue Tome"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -85281,7 +85318,7 @@
         "can_use": [
           "All Breath"
         ]
-    }
+      }
     },
     "addition_date": "2019-06-10",
     "release_date": "2019-06-11",
@@ -85389,7 +85426,7 @@
         "can_use": [
           "Colorless Tome"
         ]
-    }
+      }
     },
     "addition_date": "2021-05-31",
     "release_date": "2021-05-31",
@@ -85626,9 +85663,7 @@
         "none": true
       },
       "weapons": {
-        "can_not_use": [
-          "Colorless Staff"
-        ]
+        "can_use": []
       }
     },
     "addition_date": "2024-09-27",
@@ -85719,7 +85754,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2019-03-19",
     "release_date": "2019-03-19",
@@ -85747,7 +85782,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2019-03-19",
     "release_date": "2019-03-19",
@@ -85923,7 +85958,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -85951,7 +85986,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -85976,7 +86011,7 @@
         ]
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2025-09-30",
@@ -86005,7 +86040,7 @@
         ]
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2025-09-30",
@@ -86037,7 +86072,7 @@
         ]
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2025-09-30",
@@ -86069,7 +86104,7 @@
         ]
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2025-09-30",
@@ -86219,7 +86254,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2020-06-18",
     "release_date": "2020-06-18",
@@ -86247,7 +86282,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2020-06-18",
     "release_date": "2020-06-18",
@@ -86533,7 +86568,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -86561,7 +86596,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -86614,7 +86649,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -86667,7 +86702,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -86775,7 +86810,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -87430,7 +87465,7 @@
         ]
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2025-01-06",
@@ -87485,7 +87520,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -87547,7 +87582,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2020-03-05",
     "release_date": "2020-03-06",
@@ -87630,7 +87665,7 @@
         "can_use": [
           "All Dagger"
         ]
-    }
+      }
     },
     "addition_date": "2018-01-12",
     "release_date": "2018-01-12",
@@ -87893,7 +87928,7 @@
         "can_use": [
           "Red Tome"
         ]
-    }
+      }
     },
     "addition_date": "2021-01-07",
     "release_date": "2021-01-09",
@@ -87948,7 +87983,7 @@
         "can_use": [
           "Colorless Tome"
         ]
-    }
+      }
     },
     "addition_date": "2021-08-17",
     "release_date": "2021-08-17",
@@ -88171,9 +88206,7 @@
         "none": true
       },
       "weapons": {
-        "can_not_use": [
-          "Colorless Staff"
-        ]
+        "can_use": []
       }
     },
     "addition_date": "2017-02-02",
@@ -88246,9 +88279,7 @@
         "none": true
       },
       "weapons": {
-        "can_not_use": [
-          "Colorless Staff"
-        ]
+        "can_use": []
       }
     },
     "addition_date": "2025-10-06",
@@ -88547,7 +88578,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2020-06-05",
     "release_date": "2020-06-05",
@@ -88827,7 +88858,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2018-03-09",
     "release_date": "2018-03-15",
@@ -89190,7 +89221,7 @@
         "can_use": [
           "Blue Tome"
         ]
-    }
+      }
     },
     "addition_date": "2018-12-28",
     "release_date": "2018-12-28",
@@ -89228,6 +89259,7 @@
   },
   {
     "id": "SID_初撃の鼓動・謀策",
+    "game8_id": "558469",
     "name": "Preempt: Ploy",
     "group_name": "Preempt: Ploy",
     "category": "passivec",
@@ -89243,7 +89275,7 @@
         ]
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2025-10-17",
@@ -89356,7 +89388,7 @@
         ]
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2025-04-03",
@@ -89415,7 +89447,7 @@
         "can_use": [
           "All Breath"
         ]
-    }
+      }
     },
     "addition_date": "2020-08-31",
     "release_date": "2020-08-31",
@@ -89577,7 +89609,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2019-11-19",
     "release_date": "2019-11-19",
@@ -89682,7 +89714,7 @@
         "can_use": [
           "Blue Tome"
         ]
-    }
+      }
     },
     "addition_date": "2021-12-24",
     "release_date": "2021-12-24",
@@ -89736,7 +89768,7 @@
         "can_use": [
           "Green Tome"
         ]
-    }
+      }
     },
     "addition_date": "2021-06-30",
     "release_date": "2021-06-30",
@@ -89941,7 +89973,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2025-02-17",
@@ -89995,7 +90027,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2021-06-07",
     "release_date": "2021-06-09",
@@ -90019,7 +90051,7 @@
         ]
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2025-03-18",
@@ -90226,7 +90258,7 @@
         ]
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2024-12-06",
@@ -90402,7 +90434,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2018-07-20",
     "release_date": "2018-07-20",
@@ -90455,7 +90487,7 @@
         "can_use": [
           "Red Tome"
         ]
-    }
+      }
     },
     "addition_date": "2019-11-06",
     "release_date": "2019-11-07",
@@ -90477,7 +90509,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2025-02-06",
@@ -90500,7 +90532,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2025-02-06",
@@ -90523,7 +90555,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2025-02-06",
@@ -90546,7 +90578,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2025-02-06",
@@ -90631,7 +90663,7 @@
         "can_use": [
           "All Breath"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -90922,7 +90954,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2019-03-07",
     "release_date": "2019-03-08",
@@ -91054,7 +91086,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2025-02-28",
@@ -92055,7 +92087,7 @@
         "can_use": [
           "Red Tome"
         ]
-    }
+      }
     },
     "addition_date": "2017-05-15",
     "release_date": "2017-05-15",
@@ -92110,7 +92142,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-04-26",
     "release_date": "2017-04-26",
@@ -92166,7 +92198,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2019-11-28",
     "release_date": "2019-11-28",
@@ -92222,7 +92254,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -92301,9 +92333,7 @@
         "none": true
       },
       "weapons": {
-        "can_not_use": [
-          "Colorless Staff"
-        ]
+        "can_use": []
       }
     },
     "addition_date": "2017-07-28",
@@ -92448,9 +92478,7 @@
         "none": true
       },
       "weapons": {
-        "can_not_use": [
-          "Colorless Staff"
-        ]
+        "can_use": []
       }
     },
     "addition_date": "2017-06-14",
@@ -92566,9 +92594,7 @@
         "none": true
       },
       "weapons": {
-        "can_not_use": [
-          "Colorless Staff"
-        ]
+        "can_use": []
       }
     },
     "addition_date": "2017-09-15",
@@ -92597,9 +92623,7 @@
         "none": true
       },
       "weapons": {
-        "can_not_use": [
-          "Colorless Staff"
-        ]
+        "can_use": []
       }
     },
     "addition_date": "2018-09-06",
@@ -92624,9 +92648,7 @@
         "none": true
       },
       "weapons": {
-        "can_not_use": [
-          "Colorless Staff"
-        ]
+        "can_use": []
       }
     },
     "addition_date": "2017-10-16",
@@ -92742,9 +92764,7 @@
         "none": true
       },
       "weapons": {
-        "can_not_use": [
-          "Colorless Staff"
-        ]
+        "can_use": []
       }
     },
     "addition_date": "2018-09-14",
@@ -93036,7 +93056,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2020-02-27",
     "release_date": "2020-02-27",
@@ -93186,7 +93206,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2020-02-06",
     "release_date": "2020-02-06",
@@ -93214,7 +93234,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2020-02-06",
     "release_date": "2020-02-06",
@@ -93236,7 +93256,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2023-08-16",
@@ -94112,7 +94132,7 @@
         "can_use": [
           "All Beast"
         ]
-    }
+      }
     },
     "addition_date": "2019-01-10",
     "release_date": "2019-01-11",
@@ -94204,7 +94224,7 @@
         "can_use": [
           "All Breath"
         ]
-    }
+      }
     },
     "addition_date": "2019-05-09",
     "release_date": "2019-05-10",
@@ -94343,7 +94363,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2017-03-14",
     "release_date": "2017-03-14",
@@ -94420,7 +94440,7 @@
         "can_use": [
           "Green Tome"
         ]
-    }
+      }
     },
     "addition_date": "2021-06-07",
     "release_date": "2021-06-08",
@@ -94761,7 +94781,7 @@
         "can_use": [
           "Red Tome"
         ]
-    }
+      }
     },
     "addition_date": "2017-06-14",
     "release_date": "2017-06-14",
@@ -94783,7 +94803,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2025-10-17",
@@ -94844,7 +94864,7 @@
         "can_use": [
           "All Beast"
         ]
-    }
+      }
     },
     "addition_date": "2020-12-28",
     "release_date": "2021-01-01",
@@ -94965,7 +94985,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-05-15",
     "release_date": "2017-05-19",
@@ -95056,7 +95076,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2019-11-06",
     "release_date": "2019-11-07",
@@ -95469,7 +95489,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2025-09-30",
@@ -95530,7 +95550,7 @@
         "can_use": [
           "All Breath"
         ]
-    }
+      }
     },
     "addition_date": "2022-08-17",
     "release_date": "2022-08-17",
@@ -95759,7 +95779,7 @@
         "can_use": [
           "All Beast"
         ]
-    }
+      }
     },
     "addition_date": "2020-12-28",
     "release_date": "2021-01-01",
@@ -95818,7 +95838,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -96056,9 +96076,7 @@
         ]
       },
       "weapons": {
-        "can_not_use": [
-          "Colorless Staff"
-        ]
+        "can_use": []
       }
     },
     "addition_date": "2024-10-03",
@@ -96260,9 +96278,7 @@
         "none": true
       },
       "weapons": {
-        "can_not_use": [
-          "Colorless Staff"
-        ]
+        "can_use": []
       }
     },
     "addition_date": "2024-10-15",
@@ -97005,7 +97021,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-11-15",
     "release_date": "2017-11-15",
@@ -97065,7 +97081,7 @@
         "can_use": [
           "All Beast"
         ]
-    }
+      }
     },
     "addition_date": "2020-12-28",
     "release_date": "2021-01-01",
@@ -97276,7 +97292,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2022-11-18",
     "release_date": "2022-11-18",
@@ -97304,7 +97320,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2022-11-18",
     "release_date": "2022-11-18",
@@ -97414,7 +97430,7 @@
         "can_use": [
           "Red Tome"
         ]
-    }
+      }
     },
     "addition_date": "2019-08-06",
     "release_date": "2019-08-07",
@@ -97577,7 +97593,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2019-11-06",
     "release_date": "2019-11-11",
@@ -97935,7 +97951,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2017-04-14",
     "release_date": "2017-04-14",
@@ -98031,7 +98047,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2017-07-13",
     "release_date": "2017-07-13",
@@ -98199,7 +98215,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2020-04-07",
     "release_date": "2020-04-08",
@@ -98365,7 +98381,7 @@
         "can_use": [
           "Colorless Tome"
         ]
-    }
+      }
     },
     "addition_date": "2022-10-31",
     "release_date": "2022-10-31",
@@ -99276,7 +99292,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-06-14",
     "release_date": "2017-06-14",
@@ -99361,7 +99377,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2018-08-21",
     "release_date": "2018-08-21",
@@ -99582,7 +99598,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-10",
@@ -100030,7 +100046,7 @@
         ]
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2025-09-30",
@@ -100231,7 +100247,7 @@
         ]
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2025-06-17",
@@ -100465,7 +100481,7 @@
         "can_use": [
           "All Beast"
         ]
-    }
+      }
     },
     "addition_date": "2019-04-09",
     "release_date": "2019-04-10",
@@ -100519,7 +100535,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2019-09-19",
     "release_date": "2019-09-19",
@@ -100769,7 +100785,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2019-03-29",
@@ -100795,7 +100811,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2019-03-29",
@@ -100824,7 +100840,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2019-03-29",
@@ -100886,7 +100902,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2019-11-06",
@@ -100912,7 +100928,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2019-11-06",
@@ -100941,7 +100957,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2019-11-06",
@@ -101030,7 +101046,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2020-02-17",
     "release_date": "2020-02-17",
@@ -101319,7 +101335,7 @@
         "can_use": [
           "Blue Tome"
         ]
-    }
+      }
     },
     "addition_date": "2018-10-23",
     "release_date": "2018-10-23",
@@ -101375,7 +101391,7 @@
         "can_use": [
           "Green Tome"
         ]
-    }
+      }
     },
     "addition_date": "2019-12-25",
     "release_date": "2019-12-25",
@@ -101428,7 +101444,7 @@
         "can_use": [
           "Blue Tome"
         ]
-    }
+      }
     },
     "addition_date": "2021-06-07",
     "release_date": "2021-06-08",
@@ -101481,7 +101497,7 @@
         "can_use": [
           "All Dagger"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -101618,9 +101634,7 @@
         "none": true
       },
       "weapons": {
-        "can_not_use": [
-          "Colorless Staff"
-        ]
+        "can_use": []
       }
     },
     "addition_date": "2024-09-17",
@@ -101739,7 +101753,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2019-08-16",
     "release_date": "2019-08-16",
@@ -101938,7 +101952,7 @@
         "can_use": [
           "All Breath"
         ]
-    }
+      }
     },
     "addition_date": "2019-05-09",
     "release_date": "2019-05-10",
@@ -102119,7 +102133,7 @@
         "can_use": [
           "All Dagger"
         ]
-    }
+      }
     },
     "addition_date": "2019-04-19",
     "release_date": "2019-04-19",
@@ -102256,7 +102270,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-04-04",
@@ -102337,7 +102351,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2020-02-06",
     "release_date": "2020-02-06",
@@ -102477,7 +102491,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2019-08-06",
     "release_date": "2019-08-12",
@@ -103676,7 +103690,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2018-03-09",
     "release_date": "2018-03-09",
@@ -103942,7 +103956,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2023-06-19",
     "release_date": "2023-06-19",
@@ -103970,7 +103984,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2023-06-19",
     "release_date": "2023-06-19",
@@ -104018,9 +104032,7 @@
         "none": true
       },
       "weapons": {
-        "can_not_use": [
-          "Colorless Staff"
-        ]
+        "can_use": []
       }
     },
     "addition_date": "2024-09-05",
@@ -104140,7 +104152,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -104368,7 +104380,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2022-01-17",
     "release_date": "2022-01-17",
@@ -104396,7 +104408,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2022-01-17",
     "release_date": "2022-01-17",
@@ -104514,7 +104526,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -104648,7 +104660,7 @@
         ]
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2024-09-05",
@@ -104677,7 +104689,7 @@
         ]
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2024-09-05",
@@ -104709,7 +104721,7 @@
         ]
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2024-09-05",
@@ -104741,7 +104753,7 @@
         ]
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2024-09-05",
@@ -104770,7 +104782,7 @@
         ]
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2025-10-06",
@@ -104799,7 +104811,7 @@
         ]
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2025-10-06",
@@ -104831,7 +104843,7 @@
         ]
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2025-10-06",
@@ -104863,7 +104875,7 @@
         ]
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2025-10-06",
@@ -104889,7 +104901,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2024-08-30",
@@ -104915,7 +104927,7 @@
         ]
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2025-03-06",
@@ -104944,7 +104956,7 @@
         ]
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2025-03-06",
@@ -104976,7 +104988,7 @@
         ]
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2025-03-06",
@@ -105008,7 +105020,7 @@
         ]
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2025-03-06",
@@ -105066,7 +105078,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2019-05-09",
     "release_date": "2019-05-10",
@@ -105145,7 +105157,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2018-01-25",
     "release_date": "2018-01-31",
@@ -105196,7 +105208,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -105395,9 +105407,7 @@
         "none": true
       },
       "weapons": {
-        "can_not_use": [
-          "Colorless Staff"
-        ]
+        "can_use": []
       }
     },
     "addition_date": "2025-04-28",
@@ -105525,7 +105535,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2020-01-17",
@@ -105551,7 +105561,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2020-01-17",
@@ -105580,7 +105590,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2020-01-17",
@@ -105646,6 +105656,7 @@
       "SID_聖騎士の嗜み",
       "SID_気高き怪盗の予告状",
       "SID_魔書ミステルトィン",
+      "SID_魔笛ギャラルホルン",
       "SID_ニザヴェリルの箱",
       "SID_オヴスキュリテ",
       "SID_清冷の法具",
@@ -105931,9 +105942,7 @@
         "none": true
       },
       "weapons": {
-        "can_not_use": [
-          "Colorless Staff"
-        ]
+        "can_use": []
       }
     },
     "addition_date": "2017-02-02",
@@ -106049,7 +106058,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-05-02",
@@ -106105,7 +106114,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-15",
     "release_date": "2017-02-15",
@@ -106161,7 +106170,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-15",
     "release_date": "2017-02-15",
@@ -106429,7 +106438,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2021-02-16",
     "release_date": "2021-02-16",
@@ -107304,7 +107313,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-08-15",
     "release_date": "2017-08-15",
@@ -107533,7 +107542,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2018-02-22",
     "release_date": "2018-02-24",
@@ -107589,7 +107598,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2021-02-16",
     "release_date": "2021-03-30",
@@ -107768,7 +107777,7 @@
         "can_use": [
           "All Beast"
         ]
-    }
+      }
     },
     "addition_date": "2020-08-06",
     "release_date": "2020-08-07",
@@ -108189,7 +108198,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2018-09-14",
     "release_date": "2018-09-14",
@@ -108394,7 +108403,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -108422,7 +108431,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -108444,9 +108453,7 @@
         "none": true
       },
       "weapons": {
-        "can_not_use": [
-          "Colorless Staff"
-        ]
+        "can_use": []
       }
     },
     "addition_date": "2025-07-18",
@@ -108469,9 +108476,7 @@
         "none": true
       },
       "weapons": {
-        "can_not_use": [
-          "Colorless Staff"
-        ]
+        "can_use": []
       }
     },
     "addition_date": "2024-11-15",
@@ -108497,9 +108502,7 @@
         "none": true
       },
       "weapons": {
-        "can_not_use": [
-          "Colorless Staff"
-        ]
+        "can_use": []
       }
     },
     "addition_date": "2025-02-06",
@@ -108525,9 +108528,7 @@
         "none": true
       },
       "weapons": {
-        "can_not_use": [
-          "Colorless Staff"
-        ]
+        "can_use": []
       }
     },
     "addition_date": "2024-11-05",
@@ -108818,7 +108819,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2017-06-14",
     "release_date": "2017-06-16",
@@ -108877,7 +108878,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2019-10-21",
     "release_date": "2019-10-21",
@@ -108936,7 +108937,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2017-06-14",
     "release_date": "2017-06-28",
@@ -109051,7 +109052,7 @@
         "can_use": [
           "All Breath"
         ]
-    }
+      }
     },
     "addition_date": "2019-12-16",
     "release_date": "2019-12-16",
@@ -109209,7 +109210,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2020-01-30",
     "release_date": "2020-01-30",
@@ -109300,7 +109301,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -109356,7 +109357,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2019-10-21",
     "release_date": "2019-10-21",
@@ -109461,7 +109462,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-11-28",
     "release_date": "2017-12-04",
@@ -109678,7 +109679,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -109942,7 +109943,7 @@
         "can_use": [
           "Red Tome"
         ]
-    }
+      }
     },
     "addition_date": "2021-02-16",
     "release_date": "2021-02-16",
@@ -111264,9 +111265,7 @@
         ]
       },
       "weapons": {
-        "can_not_use": [
-          "Colorless Staff"
-        ]
+        "can_use": []
       }
     },
     "addition_date": "2024-11-05",
@@ -111294,7 +111293,7 @@
         ]
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2024-09-17",
@@ -111322,7 +111321,7 @@
         ]
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2024-09-17",
@@ -111353,7 +111352,7 @@
         ]
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2024-09-17",
@@ -111384,7 +111383,7 @@
         ]
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2024-09-17",
@@ -113144,9 +113143,7 @@
         ]
       },
       "weapons": {
-        "can_not_use": [
-          "Colorless Staff"
-        ]
+        "can_use": []
       }
     },
     "addition_date": "2025-08-06",
@@ -113175,7 +113172,7 @@
         ]
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2022-01-28",
@@ -113485,7 +113482,7 @@
         ]
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2025-06-05",
@@ -113894,7 +113891,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2024-11-05",
@@ -114651,7 +114648,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2020-10-19",
     "release_date": "2020-10-19",
@@ -114705,7 +114702,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2020-07-20",
     "release_date": "2020-07-20",
@@ -115444,7 +115441,7 @@
         "can_use": [
           "All Breath"
         ]
-    }
+      }
     },
     "addition_date": "2018-10-09",
     "release_date": "2018-10-10",
@@ -115505,7 +115502,7 @@
         "can_use": [
           "Blue Tome"
         ]
-    }
+      }
     },
     "addition_date": "2022-08-31",
     "release_date": "2022-08-31",
@@ -116085,7 +116082,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2017-05-15",
     "release_date": "2017-05-15",
@@ -117156,7 +117153,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2018-09-14",
     "release_date": "2018-09-14",
@@ -117209,7 +117206,7 @@
         "can_use": [
           "All Dagger"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -117376,7 +117373,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2019-10-21",
     "release_date": "2019-10-21",
@@ -117460,7 +117457,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2022-01-28",
     "release_date": "2022-01-28",
@@ -117547,7 +117544,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2022-02-08",
     "release_date": "2022-02-08",
@@ -117575,7 +117572,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2022-02-08",
     "release_date": "2022-02-08",
@@ -117662,7 +117659,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2021-09-06",
     "release_date": "2021-09-07",
@@ -117690,7 +117687,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2021-09-06",
     "release_date": "2021-09-07",
@@ -118003,7 +118000,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -118144,7 +118141,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2020-07-06",
     "release_date": "2020-07-08",
@@ -118501,7 +118498,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2017-06-14",
     "release_date": "2017-06-14",
@@ -119385,7 +119382,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2018-10-31",
     "release_date": "2018-10-31",
@@ -119559,7 +119556,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2017-11-15",
     "release_date": "2017-11-15",
@@ -119612,7 +119609,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2020-03-05",
     "release_date": "2020-03-06",
@@ -119720,7 +119717,7 @@
         "can_use": [
           "Red Tome"
         ]
-    }
+      }
     },
     "addition_date": "2020-12-25",
     "release_date": "2020-12-25",
@@ -119769,9 +119766,7 @@
         "none": true
       },
       "weapons": {
-        "can_not_use": [
-          "Colorless Staff"
-        ]
+        "can_use": []
       }
     },
     "addition_date": "2017-06-14",
@@ -119801,9 +119796,7 @@
         "none": true
       },
       "weapons": {
-        "can_not_use": [
-          "Colorless Staff"
-        ]
+        "can_use": []
       }
     },
     "addition_date": "2017-06-14",
@@ -119839,9 +119832,7 @@
         ]
       },
       "weapons": {
-        "can_not_use": [
-          "Colorless Staff"
-        ]
+        "can_use": []
       }
     },
     "addition_date": "2025-07-18",
@@ -120192,7 +120183,7 @@
         "can_use": [
           "All Breath"
         ]
-    }
+      }
     },
     "addition_date": "2019-07-30",
     "release_date": "2019-07-31",
@@ -120368,7 +120359,7 @@
         "can_use": [
           "All Dagger"
         ]
-    }
+      }
     },
     "addition_date": "2020-06-18",
     "release_date": "2020-06-18",
@@ -120430,7 +120421,7 @@
         "can_use": [
           "All Breath"
         ]
-    }
+      }
     },
     "addition_date": "2018-07-10",
     "release_date": "2018-07-10",
@@ -120510,7 +120501,7 @@
         "can_use": [
           "All Breath"
         ]
-    }
+      }
     },
     "addition_date": "2018-04-24",
     "release_date": "2018-04-24",
@@ -120644,7 +120635,7 @@
         "can_use": [
           "Red Tome"
         ]
-    }
+      }
     },
     "addition_date": "2020-07-06",
     "release_date": "2020-07-08",
@@ -120819,7 +120810,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2024-03-15",
     "release_date": "2024-03-15",
@@ -120847,7 +120838,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2024-03-15",
     "release_date": "2024-03-15",
@@ -120947,9 +120938,7 @@
         "none": true
       },
       "weapons": {
-        "can_not_use": [
-          "Colorless Staff"
-        ]
+        "can_use": []
       }
     },
     "addition_date": "2023-08-07",
@@ -121258,7 +121247,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2020-10-19",
     "release_date": "2020-10-19",
@@ -121339,9 +121328,7 @@
         ]
       },
       "weapons": {
-        "can_not_use": [
-          "Colorless Staff"
-        ]
+        "can_use": []
       }
     },
     "addition_date": "2025-08-15",
@@ -121480,7 +121467,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2025-07-07",
@@ -121530,7 +121517,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2024-12-13",
@@ -121624,7 +121611,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2018-04-27",
     "release_date": "2018-05-01",
@@ -122412,7 +122399,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2018-09-14",
     "release_date": "2018-09-14",
@@ -122468,7 +122455,7 @@
         "can_use": [
           "All Dagger"
         ]
-    }
+      }
     },
     "addition_date": "2018-11-21",
     "release_date": "2018-11-21",
@@ -122521,7 +122508,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2021-03-04",
     "release_date": "2021-03-05",
@@ -122574,7 +122561,7 @@
         "can_use": [
           "Blue Tome"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -122627,7 +122614,7 @@
         "can_use": [
           "Green Tome"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-23",
@@ -122693,7 +122680,7 @@
         "can_use": [
           "All Beast"
         ]
-    }
+      }
     },
     "addition_date": "2019-02-20",
     "release_date": "2019-02-24",
@@ -122726,7 +122713,7 @@
         "can_use": [
           "All Beast"
         ]
-    }
+      }
     },
     "addition_date": "2019-02-20",
     "release_date": "2019-02-24",
@@ -122782,7 +122769,7 @@
         "can_use": [
           "All Dagger"
         ]
-    }
+      }
     },
     "addition_date": "2020-11-05",
     "release_date": "2020-11-06",
@@ -122836,7 +122823,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2020-09-18",
     "release_date": "2020-09-18",
@@ -122950,7 +122937,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2020-12-17",
     "release_date": "2020-12-17",
@@ -122978,7 +122965,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2020-12-17",
     "release_date": "2020-12-17",
@@ -123224,7 +123211,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2019-12-16",
     "release_date": "2019-12-16",
@@ -123631,7 +123618,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2019-04-09",
     "release_date": "2019-04-11",
@@ -123655,7 +123642,7 @@
         ]
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2025-01-06",
@@ -123804,7 +123791,7 @@
         "can_use": [
           "Blue Tome"
         ]
-    }
+      }
     },
     "addition_date": "2018-01-12",
     "release_date": "2018-01-12",
@@ -123857,7 +123844,7 @@
         "can_use": [
           "Red Tome"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -123971,7 +123958,7 @@
         "can_use": [
           "Blue Tome"
         ]
-    }
+      }
     },
     "addition_date": "2023-08-16",
     "release_date": "2023-08-16",
@@ -123992,9 +123979,7 @@
         "none": true
       },
       "weapons": {
-        "can_not_use": [
-          "Colorless Staff"
-        ]
+        "can_use": []
       }
     },
     "addition_date": "2025-04-28",
@@ -124020,7 +124005,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2025-05-16",
@@ -124073,7 +124058,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2025-07-07",
@@ -124095,9 +124080,7 @@
         "none": true
       },
       "weapons": {
-        "can_not_use": [
-          "Colorless Staff"
-        ]
+        "can_use": []
       }
     },
     "addition_date": "2025-07-18",
@@ -124187,7 +124170,7 @@
         "can_use": [
           "All Dagger"
         ]
-    }
+      }
     },
     "addition_date": "2020-07-20",
     "release_date": "2020-07-20",
@@ -124249,7 +124232,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2018-07-31",
     "release_date": "2018-07-31",
@@ -124305,7 +124288,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2018-10-23",
     "release_date": "2018-10-23",
@@ -124359,7 +124342,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2020-02-06",
     "release_date": "2020-02-06",
@@ -124424,6 +124407,7 @@
       "SID_聖騎士の嗜み",
       "SID_気高き怪盗の予告状",
       "SID_トールハンマー",
+      "SID_魔笛ギャラルホルン",
       "SID_ニザヴェリルの箱",
       "SID_オヴスキュリテ",
       "SID_師の授けの書",
@@ -124522,7 +124506,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2020-01-08",
     "release_date": "2020-01-12",
@@ -125380,7 +125364,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2018-06-28",
     "release_date": "2018-06-28",
@@ -125487,7 +125471,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2020-10-19",
     "release_date": "2020-10-19",
@@ -125592,7 +125576,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2025-10-17",
@@ -125674,7 +125658,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2020-12-08",
     "release_date": "2020-12-08",
@@ -125728,7 +125712,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2020-11-17",
     "release_date": "2020-11-17",
@@ -125806,7 +125790,7 @@
         ]
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2025-09-04",
@@ -125834,7 +125818,7 @@
         ]
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2024-09-17",
@@ -125859,7 +125843,7 @@
         ]
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2025-01-17",
@@ -125887,7 +125871,7 @@
         ]
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2025-03-18",
@@ -126184,7 +126168,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2019-04-19",
     "release_date": "2019-04-19",
@@ -126212,7 +126196,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2019-04-19",
     "release_date": "2019-04-19",
@@ -126329,7 +126313,7 @@
         "can_use": [
           "Red Tome"
         ]
-    }
+      }
     },
     "addition_date": "2021-05-06",
     "release_date": "2021-05-07",
@@ -126410,7 +126394,7 @@
         "can_use": [
           "Blue Tome"
         ]
-    }
+      }
     },
     "addition_date": "2018-01-12",
     "release_date": "2018-01-14",
@@ -126463,7 +126447,7 @@
         "can_use": [
           "Red Tome"
         ]
-    }
+      }
     },
     "addition_date": "2021-01-07",
     "release_date": "2021-01-08",
@@ -126545,7 +126529,7 @@
         "can_use": [
           "Red Tome"
         ]
-    }
+      }
     },
     "addition_date": "2021-07-19",
     "release_date": "2021-07-20",
@@ -126631,7 +126615,7 @@
         "can_use": [
           "Green Tome"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -126684,7 +126668,7 @@
         "can_use": [
           "Green Tome"
         ]
-    }
+      }
     },
     "addition_date": "2019-03-07",
     "release_date": "2019-03-08",
@@ -126740,7 +126724,7 @@
         "can_use": [
           "Green Tome"
         ]
-    }
+      }
     },
     "addition_date": "2021-04-05",
     "release_date": "2021-04-06",
@@ -126796,7 +126780,7 @@
         "can_use": [
           "Blue Tome"
         ]
-    }
+      }
     },
     "addition_date": "2020-12-08",
     "release_date": "2020-12-08",
@@ -126849,7 +126833,7 @@
         "can_use": [
           "Blue Tome"
         ]
-    }
+      }
     },
     "addition_date": "2017-10-16",
     "release_date": "2017-10-16",
@@ -126963,7 +126947,7 @@
         ]
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2025-09-30",
@@ -126989,9 +126973,7 @@
         "none": true
       },
       "weapons": {
-        "can_not_use": [
-          "Colorless Staff"
-        ]
+        "can_use": []
       }
     },
     "addition_date": "2025-09-30",
@@ -127045,7 +127027,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2025-02-17",
@@ -127367,7 +127349,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2018-07-20",
     "release_date": "2018-07-20",
@@ -127395,7 +127377,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2018-07-20",
     "release_date": "2018-07-20",
@@ -127673,7 +127655,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2025-08-06",
@@ -127695,9 +127677,7 @@
         "none": true
       },
       "weapons": {
-        "can_not_use": [
-          "Colorless Staff"
-        ]
+        "can_use": []
       }
     },
     "addition_date": "2025-03-18",
@@ -127781,7 +127761,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2024-12-05",
@@ -127864,7 +127844,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2025-04-03",
@@ -127978,7 +127958,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2020-11-05",
     "release_date": "2020-11-06",
@@ -128063,7 +128043,7 @@
         "can_use": [
           "All Beast"
         ]
-    }
+      }
     },
     "addition_date": "2021-05-06",
     "release_date": "2021-05-07",
@@ -128108,7 +128088,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2024-12-13",
@@ -128165,7 +128145,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-15",
     "release_date": "2017-02-15",
@@ -128855,7 +128835,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2017-08-31",
     "release_date": "2017-08-31",
@@ -128963,7 +128943,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2019-10-21",
     "release_date": "2019-10-21",
@@ -129019,7 +128999,7 @@
         "can_use": [
           "Red Tome"
         ]
-    }
+      }
     },
     "addition_date": "2017-10-16",
     "release_date": "2017-10-18",
@@ -129100,7 +129080,7 @@
         "can_use": [
           "All Breath"
         ]
-    }
+      }
     },
     "addition_date": "2023-08-16",
     "release_date": "2023-08-16",
@@ -129321,7 +129301,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2018-06-08",
     "release_date": "2018-06-08",
@@ -129404,7 +129384,7 @@
         "can_use": [
           "Green Tome"
         ]
-    }
+      }
     },
     "addition_date": "2019-03-19",
     "release_date": "2019-03-19",
@@ -129426,7 +129406,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2024-10-03",
@@ -129728,7 +129708,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2021-05-06",
     "release_date": "2021-05-07",
@@ -129784,7 +129764,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2019-12-05",
     "release_date": "2019-12-11",
@@ -129976,7 +129956,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -130148,7 +130128,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2019-07-21",
     "release_date": "2019-07-22",
@@ -130204,7 +130184,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2017-08-15",
     "release_date": "2017-08-15",
@@ -130263,7 +130243,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2019-12-05",
     "release_date": "2019-12-06",
@@ -130325,7 +130305,7 @@
         "can_use": [
           "Blue Tome"
         ]
-    }
+      }
     },
     "addition_date": "2019-08-28",
     "release_date": "2019-08-28",
@@ -130381,7 +130361,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2020-06-30",
     "release_date": "2020-06-30",
@@ -130486,7 +130466,7 @@
         "can_use": [
           "Red Tome"
         ]
-    }
+      }
     },
     "addition_date": "2021-08-17",
     "release_date": "2021-08-18",
@@ -130571,7 +130551,7 @@
         "can_use": [
           "Colorless Tome"
         ]
-    }
+      }
     },
     "addition_date": "2020-03-31",
     "release_date": "2020-03-31",
@@ -130630,7 +130610,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2019-09-19",
     "release_date": "2019-09-19",
@@ -130684,7 +130664,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2019-12-05",
     "release_date": "2019-12-06",
@@ -131036,7 +131016,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2019-03-07",
     "release_date": "2019-03-11",
@@ -131125,7 +131105,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2021-11-04",
     "release_date": "2021-11-30",
@@ -131568,7 +131548,7 @@
         "can_use": [
           "Blue Tome"
         ]
-    }
+      }
     },
     "addition_date": "2018-04-11",
     "release_date": "2018-04-17",
@@ -131682,7 +131662,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2018-04-24",
     "release_date": "2018-04-24",
@@ -132180,7 +132160,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -132236,7 +132216,7 @@
         "can_use": [
           "Blue Tome"
         ]
-    }
+      }
     },
     "addition_date": "2017-11-15",
     "release_date": "2017-11-15",
@@ -132289,7 +132269,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2019-11-19",
     "release_date": "2019-11-19",
@@ -132584,7 +132564,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2020-04-20",
     "release_date": "2020-04-20",
@@ -132702,7 +132682,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -132753,7 +132733,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -132812,7 +132792,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -132922,7 +132902,7 @@
         "can_use": [
           "All Dagger"
         ]
-    }
+      }
     },
     "addition_date": "2019-11-19",
     "release_date": "2019-11-19",
@@ -133270,7 +133250,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2020-08-18",
     "release_date": "2020-08-18",
@@ -133382,7 +133362,7 @@
         "can_use": [
           "Green Tome"
         ]
-    }
+      }
     },
     "addition_date": "2017-04-26",
     "release_date": "2017-04-26",
@@ -133500,7 +133480,7 @@
         "can_use": [
           "Green Tome"
         ]
-    }
+      }
     },
     "addition_date": "2020-04-20",
     "release_date": "2020-04-20",
@@ -133588,7 +133568,7 @@
         "can_use": [
           "Green Tome"
         ]
-    }
+      }
     },
     "addition_date": "2020-01-08",
     "release_date": "2020-01-09",
@@ -133764,7 +133744,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -133828,7 +133808,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2022-02-25",
     "release_date": "2022-02-28",
@@ -134191,7 +134171,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2018-10-09",
     "release_date": "2018-10-10",
@@ -134219,7 +134199,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2018-10-09",
     "release_date": "2018-10-10",
@@ -134326,7 +134306,7 @@
         "can_use": [
           "All Breath"
         ]
-    }
+      }
     },
     "addition_date": "2019-09-19",
     "release_date": "2019-09-19",
@@ -134526,7 +134506,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2018-07-20",
     "release_date": "2018-07-29",
@@ -134584,7 +134564,7 @@
         "can_use": [
           "All Beast"
         ]
-    }
+      }
     },
     "addition_date": "2019-01-10",
     "release_date": "2019-01-11",
@@ -134644,7 +134624,7 @@
         "can_use": [
           "All Beast"
         ]
-    }
+      }
     },
     "addition_date": "2019-02-20",
     "release_date": "2019-02-20",
@@ -134704,7 +134684,7 @@
         "can_use": [
           "All Beast"
         ]
-    }
+      }
     },
     "addition_date": "2019-02-20",
     "release_date": "2019-02-20",
@@ -134927,7 +134907,7 @@
         "can_use": [
           "Blue Tome"
         ]
-    }
+      }
     },
     "addition_date": "2019-06-20",
     "release_date": "2019-06-20",
@@ -135386,7 +135366,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2020-11-17",
     "release_date": "2020-11-18",
@@ -135566,7 +135546,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -135687,7 +135667,7 @@
         "none": true
       },
       "weapons": {
-        "none": true
+        "can_use": []
       }
     },
     "addition_date": "2024-08-16",
@@ -135941,7 +135921,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-07-13",
     "release_date": "2017-07-13",
@@ -136003,7 +135983,7 @@
         "can_use": [
           "All Breath"
         ]
-    }
+      }
     },
     "addition_date": "2020-03-18",
     "release_date": "2020-03-18",

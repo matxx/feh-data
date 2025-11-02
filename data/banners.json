@@ -5037,6 +5037,19 @@
     ]
   },
   {
+    "name": "Focus: New Heroes Return (Oct 2025)",
+    "unit_ids": [
+      "PID_ダグ2味方",
+      "PID_響心アクア",
+      "PID_響心エイリーク",
+      "PID_響心ヘクトル",
+      "PID_魔器エル",
+      "PID_魔器ギンヌン味方",
+      "PID_魔器ターナ",
+      "PID_魔器ヌイババ"
+    ]
+  },
+  {
     "name": "Focus: New Power (Apr 2019)",
     "unit_ids": [
       "PID_アベル",
@@ -7063,8 +7076,8 @@
   {
     "name": "Focus: Timerra & Fogado's Battle",
     "unit_ids": [
-      "PID_パンドロ",
       "PID_フォガート",
+      "PID_メリン",
       "PID_響心ミスティラ"
     ]
   },
@@ -7380,6 +7393,14 @@
       "PID_グレゴ",
       "PID_開花エイル味方",
       "PID_魔器ルフレ女"
+    ]
+  },
+  {
+    "name": "Focus: Weekly Revival 115",
+    "unit_ids": [
+      "PID_リーヴ2味方",
+      "PID_開花ヒルダ",
+      "PID_魔器アルフレッド"
     ]
   },
   {
@@ -10570,6 +10591,23 @@
       "PID_神階メディウス",
       "PID_神階ラルヴァ",
       "PID_魔器イングリット"
+    ]
+  },
+  {
+    "name": "Mythic Heroes - Heimdallr",
+    "unit_ids": [
+      "PID_エイクスルニル味方",
+      "PID_バルドル味方",
+      "PID_ヘイムダル味方",
+      "PID_ヘズ味方",
+      "PID_メリアエ味方",
+      "PID_伝承サクラ",
+      "PID_比翼マルス2",
+      "PID_神階ヘイズルーン",
+      "PID_紋章アイク",
+      "PID_紋章シグルド",
+      "PID_紋章ミカヤ",
+      "PID_響心リーフ"
     ]
   },
   {

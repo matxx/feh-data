@@ -91,13 +91,6 @@
     "recommended_plus10": null
   },
   {
-    "id": "PID_紋章カムイ女",
-    "game8_rating": "9.5",
-    "recommended_boon": "Res",
-    "recommended_bane": "Def",
-    "recommended_plus10": "Res"
-  },
-  {
     "id": "PID_獣人リン",
     "game8_rating": "9.5",
     "recommended_boon": "Spd",
@@ -525,6 +518,13 @@
     "recommended_plus10": "Spd"
   },
   {
+    "id": "PID_ヘイムダル味方",
+    "game8_rating": "9.5",
+    "recommended_boon": "Res",
+    "recommended_bane": "Spd",
+    "recommended_plus10": "Res"
+  },
+  {
     "id": "PID_紋章ミカヤ",
     "game8_rating": "9.9",
     "recommended_boon": "Atk",
@@ -651,6 +651,13 @@
     "recommended_plus10": "Def"
   },
   {
+    "id": "PID_紋章カムイ女",
+    "game8_rating": "9.5",
+    "recommended_boon": "Res",
+    "recommended_bane": "Def",
+    "recommended_plus10": "Res"
+  },
+  {
     "id": "PID_ハロネルトゥス",
     "game8_rating": "9.5",
     "recommended_boon": "Spd",
@@ -670,6 +677,20 @@
     "recommended_boon": "Spd",
     "recommended_bane": "Res",
     "recommended_plus10": "Spd"
+  },
+  {
+    "id": "PID_比翼エリンシア",
+    "game8_rating": "9.5",
+    "recommended_boon": "Spd",
+    "recommended_bane": "Def",
+    "recommended_plus10": null
+  },
+  {
+    "id": "PID_シャロン22025味方",
+    "game8_rating": "9.5",
+    "recommended_boon": "Spd",
+    "recommended_bane": "Res",
+    "recommended_plus10": null
   },
   {
     "id": "PID_アーダン",
@@ -1860,6 +1881,27 @@
     "recommended_boon": "Spd",
     "recommended_bane": "Res",
     "recommended_plus10": "Spd"
+  },
+  {
+    "id": "PID_魔器セネリオ",
+    "game8_rating": "9.0",
+    "recommended_boon": "Res",
+    "recommended_bane": "Def",
+    "recommended_plus10": null
+  },
+  {
+    "id": "PID_ソーンバルケ",
+    "game8_rating": "9.0",
+    "recommended_boon": "Spd",
+    "recommended_bane": "Res",
+    "recommended_plus10": null
+  },
+  {
+    "id": "PID_グローメル",
+    "game8_rating": "9.0",
+    "recommended_boon": "Def",
+    "recommended_bane": "Spd",
+    "recommended_plus10": null
   },
   {
     "id": "PID_インバース",
@@ -4576,6 +4618,13 @@
     "recommended_boon": "Spd",
     "recommended_bane": "Def",
     "recommended_plus10": "Spd"
+  },
+  {
+    "id": "PID_ボーレ",
+    "game8_rating": "8.5",
+    "recommended_boon": "Atk",
+    "recommended_bane": "Res",
+    "recommended_plus10": null
   },
   {
     "id": "PID_舞踏祭黒アクア",
@@ -9098,47 +9147,5 @@
     "recommended_boon": "Atk",
     "recommended_bane": "Spd",
     "recommended_plus10": "Atk"
-  },
-  {
-    "id": "PID_魔器セネリオ",
-    "game8_rating": "9.0",
-    "recommended_boon": "Res",
-    "recommended_bane": "Def",
-    "recommended_plus10": null
-  },
-  {
-    "id": "PID_ソーンバルケ",
-    "game8_rating": "9.0",
-    "recommended_boon": "Spd",
-    "recommended_bane": "Res",
-    "recommended_plus10": null
-  },
-  {
-    "id": "PID_比翼エリンシア",
-    "game8_rating": "9.5",
-    "recommended_boon": "Spd",
-    "recommended_bane": "Def",
-    "recommended_plus10": null
-  },
-  {
-    "id": "PID_シャロン22025味方",
-    "game8_rating": "9.5",
-    "recommended_boon": "Spd",
-    "recommended_bane": "Res",
-    "recommended_plus10": null
-  },
-  {
-    "id": "PID_ボーレ",
-    "game8_rating": "8.5",
-    "recommended_boon": "Atk",
-    "recommended_bane": "Res",
-    "recommended_plus10": null
-  },
-  {
-    "id": "PID_グローメル",
-    "game8_rating": "9.0",
-    "recommended_boon": "Def",
-    "recommended_bane": "Spd",
-    "recommended_plus10": null
   }
 ]
