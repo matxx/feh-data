@@ -989,7 +989,9 @@
           "Cavalry"
         ]
       },
-      "weapons": null
+      "weapons": {
+        "none": true
+      }
     },
     "addition_date": "2025-06-05",
     "release_date": "2025-10-30",
@@ -1585,7 +1587,9 @@
           "Cavalry"
         ]
       },
-      "weapons": null
+      "weapons": {
+        "none": true
+      }
     },
     "addition_date": "2025-11-05",
     "release_date": "2025-11-06",
@@ -3633,7 +3637,9 @@
       "moves": {
         "none": true
       },
-      "weapons": null
+      "weapons": {
+        "none": true
+      }
     },
     "addition_date": "2025-06-05",
     "release_date": "2025-10-30",
@@ -7465,7 +7471,9 @@
       "moves": {
         "none": true
       },
-      "weapons": null
+      "weapons": {
+        "none": true
+      }
     },
     "addition_date": "2022-04-28",
     "release_date": "2022-04-28",
@@ -55790,7 +55798,11 @@
       "moves": {
         "none": true
       },
-      "weapons": null
+      "weapons": {
+        "can_not_use": [
+          "Colorless Staff"
+        ]
+      }
     },
     "addition_date": "2025-11-05",
     "release_date": "2025-11-06",
@@ -58291,7 +58303,9 @@
       "moves": {
         "none": true
       },
-      "weapons": null
+      "weapons": {
+        "none": true
+      }
     },
     "addition_date": "2025-11-05",
     "release_date": "2025-11-06",
@@ -83262,7 +83276,9 @@
       "moves": {
         "none": true
       },
-      "weapons": null
+      "weapons": {
+        "none": true
+      }
     },
     "addition_date": "2025-11-05",
     "release_date": "2025-11-06",
@@ -93632,7 +93648,9 @@
       "moves": {
         "none": true
       },
-      "weapons": null
+      "weapons": {
+        "none": true
+      }
     },
     "addition_date": "2025-11-05",
     "release_date": "2025-11-06",
@@ -100423,7 +100441,9 @@
           "Infantry"
         ]
       },
-      "weapons": null
+      "weapons": {
+        "none": true
+      }
     },
     "addition_date": "2025-11-05",
     "release_date": "2025-11-06",
@@ -105921,7 +105941,9 @@
       "moves": {
         "none": true
       },
-      "weapons": null
+      "weapons": {
+        "none": true
+      }
     },
     "addition_date": "2025-11-05",
     "release_date": "2025-11-06",
@@ -122437,7 +122459,9 @@
       "moves": {
         "none": true
       },
-      "weapons": null
+      "weapons": {
+        "none": true
+      }
     },
     "addition_date": "2022-12-23",
     "release_date": "2022-12-23",

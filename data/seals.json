@@ -3921,7 +3921,9 @@
       "moves": {
         "none": true
       },
-      "weapons": null
+      "weapons": {
+        "none": true
+      }
     }
   },
   {
@@ -3935,7 +3937,9 @@
       "moves": {
         "none": true
       },
-      "weapons": null
+      "weapons": {
+        "none": true
+      }
     }
   },
   {
@@ -3949,7 +3953,9 @@
       "moves": {
         "none": true
       },
-      "weapons": null
+      "weapons": {
+        "none": true
+      }
     }
   },
   {
@@ -8255,7 +8261,9 @@
       "moves": {
         "none": true
       },
-      "weapons": null
+      "weapons": {
+        "none": true
+      }
     }
   },
   {
@@ -8269,7 +8277,9 @@
       "moves": {
         "none": true
       },
-      "weapons": null
+      "weapons": {
+        "none": true
+      }
     }
   },
   {
@@ -12546,7 +12556,11 @@
       "moves": {
         "none": true
       },
-      "weapons": null
+      "weapons": {
+        "can_not_use": [
+          "Colorless Staff"
+        ]
+      }
     }
   },
   {
@@ -12560,7 +12574,11 @@
       "moves": {
         "none": true
       },
-      "weapons": null
+      "weapons": {
+        "can_not_use": [
+          "Colorless Staff"
+        ]
+      }
     }
   },
   {
@@ -12574,7 +12592,11 @@
       "moves": {
         "none": true
       },
-      "weapons": null
+      "weapons": {
+        "can_not_use": [
+          "Colorless Staff"
+        ]
+      }
     }
   },
   {
