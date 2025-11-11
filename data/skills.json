@@ -973,6 +973,33 @@
     ]
   },
   {
+    "id": "SID_攻魔鼓舞・強襲",
+    "game8_id": "561613",
+    "name": "A/R Hone Assault",
+    "group_name": "A/R Hone Assault",
+    "category": "passivec",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e1/A_R_Hone_Assault.png/revision/latest?cb=20251030072631",
+    "is_prf": false,
+    "sp": 300,
+    "tier": 4,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Cavalry"
+        ]
+      },
+      "weapons": null
+    },
+    "addition_date": "2025-06-05",
+    "release_date": "2025-10-30",
+    "version": "9.10",
+    "downgrade_ids": [
+      "SID_攻撃の鼓舞3",
+      "SID_魔防の鼓舞3"
+    ]
+  },
+  {
     "id": "SID_攻魔鼓舞・奮激",
     "game8_id": "512301",
     "name": "A/R Incite Hone",
@@ -1542,6 +1569,33 @@
     ]
   },
   {
+    "id": "SID_攻速鼓舞・強襲",
+    "game8_id": "563642",
+    "name": "A/S Hone Assault",
+    "group_name": "A/S Hone Assault",
+    "category": "passivec",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/2/2d/A_S_Hone_Assault.png/revision/latest?cb=20251105161945",
+    "is_prf": false,
+    "sp": 300,
+    "tier": 4,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Cavalry"
+        ]
+      },
+      "weapons": null
+    },
+    "addition_date": "2025-11-05",
+    "release_date": "2025-11-06",
+    "version": "9.11",
+    "downgrade_ids": [
+      "SID_攻撃の鼓舞3",
+      "SID_速さの鼓舞3"
+    ]
+  },
+  {
     "id": "SID_攻速鼓舞・奮激",
     "game8_id": "498430",
     "name": "A/S Incite Hone",
@@ -2015,7 +2069,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -2432,7 +2486,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2021-02-16",
     "release_date": "2021-02-16",
@@ -2645,6 +2699,34 @@
     ]
   },
   {
+    "id": "SID_アグネアの矢_一",
+    "base_id": "SID_アグネアの矢",
+    "game8_id": "342526",
+    "name": "Agnea's Arrow",
+    "group_name": "Agnea's Arrow",
+    "category": "weapon",
+    "weapon_type": "Red Tome",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/44/Agneas_Arrow_W.png/revision/latest?cb=20251105162048",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 1,
+    "refine": "skill1",
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Red Tome"
+        ]
+      }
+    },
+    "addition_date": "2021-09-17",
+    "release_date": "2021-09-17",
+    "version": "5.9"
+  },
+  {
     "id": "SID_エイド",
     "game8_id": "398847",
     "name": "Aid",
@@ -2725,7 +2807,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2022-12-05",
     "release_date": "2022-12-07",
@@ -2753,7 +2835,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2022-12-05",
     "release_date": "2022-12-07",
@@ -2955,7 +3037,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2020-02-17",
     "release_date": "2020-02-17",
@@ -3338,7 +3420,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-09-15",
     "release_date": "2017-09-23",
@@ -3415,7 +3497,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2020-06-05",
     "release_date": "2020-06-05",
@@ -3471,7 +3553,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-09-15",
     "release_date": "2017-09-15",
@@ -3535,6 +3617,27 @@
     "downgrade_ids": [
       "SID_共感の花"
     ]
+  },
+  {
+    "id": "SID_すべて読めていた",
+    "game8_id": "561612",
+    "name": "An Open Book",
+    "group_name": "An Open Book",
+    "category": "passiveb",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/0a/An_Open_Book.png/revision/latest?cb=20251030072620",
+    "is_prf": true,
+    "sp": 300,
+    "tier": 1,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": null
+    },
+    "addition_date": "2025-06-05",
+    "release_date": "2025-10-30",
+    "version": "9.10"
   },
   {
     "id": "SID_錨の斧",
@@ -3670,7 +3773,7 @@
         "can_use": [
           "Red Tome"
         ]
-    }
+      }
     },
     "addition_date": "2018-06-08",
     "release_date": "2018-06-16",
@@ -3843,7 +3946,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2020-06-05",
     "release_date": "2020-06-05",
@@ -5572,7 +5675,7 @@
         "can_use": [
           "Green Tome"
         ]
-    }
+      }
     },
     "addition_date": "2023-08-16",
     "release_date": "2023-08-16",
@@ -5654,7 +5757,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-10-16",
     "release_date": "2017-10-23",
@@ -5710,7 +5813,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2019-06-28",
     "release_date": "2019-06-28",
@@ -5851,7 +5954,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2020-10-30",
     "release_date": "2020-10-30",
@@ -6056,7 +6159,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-27",
     "release_date": "2017-02-27",
@@ -6793,7 +6896,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -7172,6 +7275,7 @@
   },
   {
     "id": "SID_強襲・助走",
+    "game8_id": "558467",
     "name": "Assault Impetus",
     "group_name": "Assault Impetus",
     "category": "passiveb",
@@ -7342,7 +7446,33 @@
     },
     "addition_date": "2022-04-28",
     "release_date": "2022-04-28",
-    "version": "6.4"
+    "version": "6.4",
+    "upgrade_ids": [
+      "SID_我が復活は成…・神"
+    ]
+  },
+  {
+    "id": "SID_我が復活は成…・神",
+    "name": "Assured Rebirth+",
+    "group_name": "Assured Rebirth",
+    "category": "passiveb",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/9f/Assured_Rebirth_Plus.png/revision/latest?cb=20251105161832",
+    "is_prf": true,
+    "sp": 300,
+    "tier": 2,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": null
+    },
+    "addition_date": "2022-04-28",
+    "release_date": "2022-04-28",
+    "version": "6.4",
+    "downgrade_ids": [
+      "SID_我が復活は成った"
+    ]
   },
   {
     "id": "SID_流星",
@@ -7436,7 +7566,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2019-10-21",
     "release_date": "2019-10-21",
@@ -7519,7 +7649,7 @@
         "can_use": [
           "All Breath"
         ]
-    }
+      }
     },
     "addition_date": "2020-04-07",
     "release_date": "2020-04-08",
@@ -7552,6 +7682,34 @@
     "downgrade_ids": [
       "SID_銀の暗器"
     ]
+  },
+  {
+    "id": "SID_アスラの双刃_一",
+    "base_id": "SID_アスラの双刃",
+    "game8_id": "401320",
+    "name": "Asura Blades",
+    "group_name": "Asura Blades",
+    "category": "weapon",
+    "weapon_type": "All Dagger",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/51/Asura_Blades_W.png/revision/latest?cb=20251105162006",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 1,
+    "refine": "skill1",
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "All Dagger"
+        ]
+      }
+    },
+    "addition_date": "2022-12-23",
+    "release_date": "2022-12-23",
+    "version": "7.0"
   },
   {
     "id": "SID_アサメイの短剣",
@@ -7603,7 +7761,7 @@
         "can_use": [
           "All Dagger"
         ]
-    }
+      }
     },
     "addition_date": "2019-07-21",
     "release_date": "2019-08-03",
@@ -10306,6 +10464,35 @@
     ]
   },
   {
+    "id": "SID_攻撃魔防の詠唱",
+    "game8_id": "561611",
+    "name": "Atk/Res Aria",
+    "group_name": "Atk/Res Aria",
+    "category": "passivea",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/72/Atk_Res_Aria.png/revision/latest?cb=20251030072611",
+    "is_prf": false,
+    "sp": 300,
+    "tier": 4,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Colorless Staff",
+          "All Tome"
+        ]
+      }
+    },
+    "addition_date": "2025-06-05",
+    "release_date": "2025-10-30",
+    "version": "9.10",
+    "downgrade_ids": [
+      "SID_攻撃魔防の絆3"
+    ]
+  },
+  {
     "id": "SID_攻撃魔防の絆1",
     "game8_id": "266109",
     "name": "Atk/Res Bond 1",
@@ -10383,6 +10570,7 @@
     "release_date": "2017-10-30",
     "version": "1.8",
     "upgrade_ids": [
+      "SID_攻撃魔防の詠唱",
       "SID_攻撃魔防の絆4",
       "SID_攻撃魔防の連帯4"
     ],
@@ -14719,6 +14907,7 @@
       "SID_終端グルヴェイグ",
       "SID_至光アーリアル",
       "SID_魂の秘儀",
+      "SID_未来と過去の忍法帖",
       "SID_真夏の生命の輝き",
       "SID_幸運ぶ冬の聖菓",
       "SID_怒雷の紫書",
@@ -14748,9 +14937,6 @@
         ]
       }
     },
-    "addition_date": "2025-10-06",
-    "release_date": "2025-10-07",
-    "version": "9.10",
     "downgrade_ids": [
       "SID_アトラース"
     ]
@@ -15052,7 +15238,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-11-15",
     "release_date": "2017-11-21",
@@ -15108,7 +15294,7 @@
         "can_use": [
           "Blue Tome"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -15171,7 +15357,7 @@
         "can_use": [
           "Blue Tome"
         ]
-    }
+      }
     },
     "addition_date": "2020-11-17",
     "release_date": "2020-11-17",
@@ -15254,7 +15440,7 @@
         "can_use": [
           "All Breath"
         ]
-    }
+      }
     },
     "addition_date": "2021-01-28",
     "release_date": "2021-01-28",
@@ -15310,7 +15496,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2020-12-08",
     "release_date": "2021-09-30",
@@ -15366,7 +15552,7 @@
         "can_use": [
           "Red Tome"
         ]
-    }
+      }
     },
     "addition_date": "2018-10-23",
     "release_date": "2018-10-25",
@@ -15564,7 +15750,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2021-05-06",
     "release_date": "2021-05-07",
@@ -15709,7 +15895,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -15939,7 +16125,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2020-04-30",
     "release_date": "2020-04-30",
@@ -15994,7 +16180,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-10-16",
     "release_date": "2017-10-19",
@@ -16047,7 +16233,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2018-04-24",
     "release_date": "2018-04-24",
@@ -16823,7 +17009,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2020-01-08",
     "release_date": "2020-01-09",
@@ -17242,7 +17428,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -18316,7 +18502,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2018-02-22",
     "release_date": "2018-02-22",
@@ -18395,7 +18581,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2021-05-06",
     "release_date": "2021-05-08",
@@ -18531,7 +18717,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2018-02-09",
     "release_date": "2018-02-09",
@@ -18609,7 +18795,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -18864,7 +19050,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -18978,7 +19164,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2021-08-17",
     "release_date": "2021-08-17",
@@ -19355,7 +19541,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2020-07-20",
     "release_date": "2020-07-20",
@@ -20336,7 +20522,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-08-31",
     "release_date": "2017-08-31",
@@ -20629,7 +20815,7 @@
         "can_use": [
           "Green Tome"
         ]
-    }
+      }
     },
     "addition_date": "2017-12-28",
     "release_date": "2017-12-28",
@@ -20708,7 +20894,7 @@
         "can_use": [
           "Green Tome"
         ]
-    }
+      }
     },
     "addition_date": "2020-05-07",
     "release_date": "2020-05-08",
@@ -21181,7 +21367,7 @@
         "can_use": [
           "Blue Tome"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-03-10",
@@ -21809,7 +21995,7 @@
         "can_use": [
           "Red Tome"
         ]
-    }
+      }
     },
     "addition_date": "2018-11-08",
     "release_date": "2018-11-09",
@@ -21862,7 +22048,7 @@
         "can_use": [
           "Blue Tome"
         ]
-    }
+      }
     },
     "addition_date": "2017-05-15",
     "release_date": "2017-05-15",
@@ -22093,7 +22279,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2025-05-16",
     "release_date": "2025-05-16",
@@ -22121,7 +22307,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2025-05-16",
     "release_date": "2025-05-16",
@@ -22330,7 +22516,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2017-07-13",
     "release_date": "2017-07-13",
@@ -22389,7 +22575,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2017-04-14",
     "release_date": "2017-04-14",
@@ -22449,7 +22635,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2021-04-19",
     "release_date": "2021-04-20",
@@ -22511,6 +22697,36 @@
     "addition_date": "2023-03-06",
     "release_date": "2023-03-07",
     "version": "7.3",
+    "downgrade_ids": [
+      "SID_銀の弓"
+    ]
+  },
+  {
+    "id": "SID_見えざる忍の暗殺弓",
+    "game8_id": "563629",
+    "name": "Bow of Stealth",
+    "group_name": "Bow of Stealth",
+    "category": "weapon",
+    "weapon_type": "All Bow",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "eff": [
+      "flying"
+    ],
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "All Bow"
+        ]
+      }
+    },
+    "addition_date": "2025-11-05",
+    "release_date": "2025-11-06",
+    "version": "9.11",
     "downgrade_ids": [
       "SID_銀の弓"
     ]
@@ -22596,7 +22812,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2018-08-28",
     "release_date": "2018-09-04",
@@ -23606,7 +23822,7 @@
         "can_use": [
           "All Beast"
         ]
-    }
+      }
     },
     "addition_date": "2019-04-09",
     "release_date": "2019-04-10",
@@ -23636,7 +23852,7 @@
         "can_use": [
           "All Beast"
         ]
-    }
+      }
     },
     "addition_date": "2019-04-09",
     "release_date": "2019-04-10",
@@ -23994,7 +24210,7 @@
         "can_use": [
           "All Breath"
         ]
-    }
+      }
     },
     "addition_date": "2018-09-14",
     "release_date": "2018-09-20",
@@ -24080,7 +24296,7 @@
         "can_use": [
           "All Breath"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -24514,7 +24730,7 @@
         "can_use": [
           "All Beast"
         ]
-    }
+      }
     },
     "addition_date": "2020-05-20",
     "release_date": "2020-05-20",
@@ -24570,7 +24786,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2017-11-28",
     "release_date": "2017-12-04",
@@ -24743,7 +24959,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2020-04-20",
     "release_date": "2020-04-20",
@@ -24885,7 +25101,7 @@
         "can_use": [
           "All Breath"
         ]
-    }
+      }
     },
     "addition_date": "2020-05-07",
     "release_date": "2020-05-08",
@@ -25056,7 +25272,7 @@
         "can_use": [
           "Red Tome"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -25234,7 +25450,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -25287,7 +25503,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -25347,7 +25563,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2020-03-18",
     "release_date": "2020-03-18",
@@ -25413,7 +25629,7 @@
         "can_use": [
           "All Beast"
         ]
-    }
+      }
     },
     "addition_date": "2019-06-10",
     "release_date": "2019-06-11",
@@ -25446,7 +25662,7 @@
         "can_use": [
           "All Beast"
         ]
-    }
+      }
     },
     "addition_date": "2019-06-10",
     "release_date": "2019-06-11",
@@ -25695,7 +25911,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2018-09-14",
     "release_date": "2018-09-21",
@@ -26246,7 +26462,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2020-10-19",
     "release_date": "2020-10-19",
@@ -26565,7 +26781,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -26942,7 +27158,7 @@
         "can_use": [
           "All Dagger"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -27029,7 +27245,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2017-05-30",
     "release_date": "2017-05-30",
@@ -27057,7 +27273,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2017-05-30",
     "release_date": "2017-05-30",
@@ -27383,7 +27599,7 @@
         "can_use": [
           "Red Tome"
         ]
-    }
+      }
     },
     "addition_date": "2021-09-17",
     "release_date": "2021-09-18",
@@ -27494,7 +27710,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2021-12-06",
     "release_date": "2021-12-07",
@@ -28061,7 +28277,7 @@
         "can_use": [
           "Green Tome"
         ]
-    }
+      }
     },
     "addition_date": "2019-03-29",
     "release_date": "2019-03-29",
@@ -28169,7 +28385,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2020-05-07",
     "release_date": "2020-05-08",
@@ -28225,7 +28441,7 @@
         "can_use": [
           "Green Tome"
         ]
-    }
+      }
     },
     "addition_date": "2021-08-17",
     "release_date": "2021-08-17",
@@ -28278,7 +28494,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -30076,7 +30292,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2021-11-17",
     "release_date": "2021-11-18",
@@ -30251,7 +30467,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2019-08-16",
     "release_date": "2019-08-17",
@@ -30304,7 +30520,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-06-14",
     "release_date": "2017-06-14",
@@ -30426,11 +30642,40 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2019-10-08",
     "release_date": "2019-10-09",
     "version": "3.10"
+  },
+  {
+    "id": "SID_魔の蛇毒・呼吸",
+    "game8_id": "563640",
+    "name": "Conjuring Breath",
+    "group_name": "Conjuring Breath",
+    "category": "passiveb",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/6a/Conjuring_Breath.png/revision/latest?cb=20251105161924",
+    "is_prf": false,
+    "sp": 400,
+    "tier": 4,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "All Tome",
+          "All Breath"
+        ]
+      }
+    },
+    "addition_date": "2025-11-05",
+    "release_date": "2025-11-06",
+    "version": "9.11",
+    "downgrade_ids": [
+      "SID_蛇毒3"
+    ]
   },
   {
     "id": "SID_人と神が繋がる世界",
@@ -30532,7 +30777,7 @@
         "can_use": [
           "All Dagger"
         ]
-    }
+      }
     },
     "addition_date": "2020-02-17",
     "release_date": "2020-02-17",
@@ -30585,7 +30830,7 @@
         "can_use": [
           "All Dagger"
         ]
-    }
+      }
     },
     "addition_date": "2020-11-17",
     "release_date": "2020-11-17",
@@ -30762,7 +31007,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -30865,7 +31110,7 @@
         "can_use": [
           "Red Tome"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -31317,7 +31562,7 @@
         "can_use": [
           "All Beast"
         ]
-    }
+      }
     },
     "addition_date": "2019-04-09",
     "release_date": "2019-04-10",
@@ -31347,11 +31592,38 @@
         "can_use": [
           "All Beast"
         ]
-    }
+      }
     },
     "addition_date": "2019-04-09",
     "release_date": "2019-04-10",
     "version": "3.4"
+  },
+  {
+    "id": "SID_傭兵忍の双刃",
+    "game8_id": "563628",
+    "name": "Covert Duality",
+    "group_name": "Covert Duality",
+    "category": "weapon",
+    "weapon_type": "All Dagger",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "All Dagger"
+        ]
+      }
+    },
+    "addition_date": "2025-11-05",
+    "release_date": "2025-11-06",
+    "version": "9.11",
+    "downgrade_ids": [
+      "SID_銀の暗器"
+    ]
   },
   {
     "id": "SID_草原の狼の白槍",
@@ -31514,7 +31786,7 @@
         "can_use": [
           "Blue Tome"
         ]
-    }
+      }
     },
     "addition_date": "2020-09-19",
     "release_date": "2020-09-19",
@@ -31596,7 +31868,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2019-07-21",
     "release_date": "2019-07-22",
@@ -31674,7 +31946,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -31755,7 +32027,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2020-11-17",
     "release_date": "2020-11-17",
@@ -32023,7 +32295,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2020-03-05",
     "release_date": "2020-03-06",
@@ -32164,7 +32436,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2019-07-21",
     "release_date": "2019-07-22",
@@ -32283,7 +32555,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2017-08-15",
     "release_date": "2017-08-21",
@@ -32396,7 +32668,7 @@
         "can_use": [
           "Red Tome"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-27",
     "release_date": "2017-02-27",
@@ -33311,7 +33583,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2020-08-18",
     "release_date": "2020-08-19",
@@ -33454,7 +33726,7 @@
         "can_use": [
           "Blue Tome"
         ]
-    }
+      }
     },
     "addition_date": "2017-07-13",
     "release_date": "2017-07-13",
@@ -33597,7 +33869,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2020-10-19",
     "release_date": "2020-10-20",
@@ -33653,7 +33925,7 @@
         "can_use": [
           "Green Tome"
         ]
-    }
+      }
     },
     "addition_date": "2017-07-13",
     "release_date": "2017-07-13",
@@ -33709,7 +33981,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-11-28",
     "release_date": "2017-12-04",
@@ -33762,7 +34034,7 @@
         "can_use": [
           "Red Tome"
         ]
-    }
+      }
     },
     "addition_date": "2020-12-08",
     "release_date": "2020-12-08",
@@ -33816,7 +34088,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2018-05-09",
     "release_date": "2018-05-10",
@@ -33892,7 +34164,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2017-07-13",
     "release_date": "2017-07-18",
@@ -33948,7 +34220,7 @@
         "can_use": [
           "Red Tome"
         ]
-    }
+      }
     },
     "addition_date": "2020-05-07",
     "release_date": "2020-05-08",
@@ -34385,7 +34657,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2017-09-15",
     "release_date": "2017-09-15",
@@ -34497,7 +34769,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2017-04-14",
     "release_date": "2017-04-14",
@@ -34641,7 +34913,7 @@
         "can_use": [
           "All Breath"
         ]
-    }
+      }
     },
     "addition_date": "2021-10-29",
     "release_date": "2021-10-29",
@@ -35036,7 +35308,7 @@
         "can_use": [
           "Blue Tome"
         ]
-    }
+      }
     },
     "addition_date": "2019-05-09",
     "release_date": "2019-05-12",
@@ -35238,7 +35510,7 @@
         "can_use": [
           "All Dagger"
         ]
-    }
+      }
     },
     "addition_date": "2017-03-14",
     "release_date": "2017-03-14",
@@ -35383,7 +35655,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2019-07-08",
     "release_date": "2019-07-09",
@@ -38329,7 +38601,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2023-08-16",
     "release_date": "2023-08-16",
@@ -38566,7 +38838,7 @@
         "can_use": [
           "All Breath"
         ]
-    }
+      }
     },
     "addition_date": "2019-03-07",
     "release_date": "2019-03-08",
@@ -38678,7 +38950,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2019-11-06",
     "release_date": "2019-11-07",
@@ -38924,7 +39196,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -39225,7 +39497,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -40297,7 +40569,7 @@
         "can_use": [
           "All Breath"
         ]
-    }
+      }
     },
     "addition_date": "2019-05-30",
     "release_date": "2019-05-30",
@@ -40484,7 +40756,7 @@
         "can_use": [
           "All Breath"
         ]
-    }
+      }
     },
     "addition_date": "2018-09-28",
     "release_date": "2018-09-28",
@@ -40546,7 +40818,7 @@
         "can_use": [
           "Green Tome"
         ]
-    }
+      }
     },
     "addition_date": "2017-10-16",
     "release_date": "2017-10-16",
@@ -40828,7 +41100,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-10-16",
     "release_date": "2017-10-16",
@@ -41018,7 +41290,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2018-11-08",
     "release_date": "2018-11-09",
@@ -41078,7 +41350,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2020-09-18",
     "release_date": "2020-09-18",
@@ -41407,7 +41679,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2019-08-16",
     "release_date": "2019-08-16",
@@ -41529,7 +41801,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2017-04-26",
     "release_date": "2017-04-26",
@@ -41583,7 +41855,7 @@
         "can_use": [
           "All Breath"
         ]
-    }
+      }
     },
     "addition_date": "2018-11-08",
     "release_date": "2018-11-09",
@@ -42135,6 +42407,7 @@
   },
   {
     "id": "SID_尊き竜の血を…・承",
+    "game8_id": "560165",
     "name": "Dragon's Dance II",
     "group_name": "Dragon's Dance II",
     "category": "assist",
@@ -42594,7 +42867,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2019-02-27",
     "release_date": "2019-02-27",
@@ -42870,7 +43143,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2020-04-20",
     "release_date": "2020-04-21",
@@ -43493,6 +43766,7 @@
   },
   {
     "id": "SID_陰陽の法則・神",
+    "game8_id": "560164",
     "name": "Duality+",
     "group_name": "Duality",
     "category": "passivea",
@@ -43800,7 +44074,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -43853,7 +44127,7 @@
         "can_use": [
           "All Breath"
         ]
-    }
+      }
     },
     "addition_date": "2018-04-24",
     "release_date": "2018-05-03",
@@ -44116,7 +44390,7 @@
         "can_use": [
           "Blue Tome"
         ]
-    }
+      }
     },
     "addition_date": "2020-03-18",
     "release_date": "2020-03-18",
@@ -44461,7 +44735,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2020-01-08",
     "release_date": "2020-01-09",
@@ -44658,7 +44932,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2022-06-30",
     "release_date": "2022-06-30",
@@ -44744,7 +45018,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-04-20",
@@ -44852,7 +45126,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -44914,7 +45188,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2019-04-19",
     "release_date": "2019-04-19",
@@ -44967,7 +45241,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2017-04-26",
     "release_date": "2017-04-26",
@@ -45079,7 +45353,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -45466,7 +45740,7 @@
         "can_use": [
           "All Beast"
         ]
-    }
+      }
     },
     "addition_date": "2022-11-18",
     "release_date": "2022-11-30",
@@ -45521,7 +45795,7 @@
         "can_use": [
           "Red Tome"
         ]
-    }
+      }
     },
     "addition_date": "2022-11-30",
     "release_date": "2022-11-30",
@@ -45966,7 +46240,7 @@
         "can_use": [
           "All Breath"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -46019,7 +46293,7 @@
         "can_use": [
           "Red Tome"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -46079,7 +46353,7 @@
         "can_use": [
           "All Breath"
         ]
-    }
+      }
     },
     "addition_date": "2019-09-19",
     "release_date": "2019-09-19",
@@ -47004,7 +47278,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2018-08-28",
     "release_date": "2018-08-28",
@@ -47065,7 +47339,7 @@
         "can_use": [
           "Green Tome"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -47121,7 +47395,7 @@
         "can_use": [
           "Green Tome"
         ]
-    }
+      }
     },
     "addition_date": "2020-06-18",
     "release_date": "2020-06-18",
@@ -47177,7 +47451,7 @@
         "can_use": [
           "All Breath"
         ]
-    }
+      }
     },
     "addition_date": "2018-02-22",
     "release_date": "2018-02-22",
@@ -47264,7 +47538,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2021-02-26",
     "release_date": "2021-02-26",
@@ -47368,7 +47642,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2021-07-19",
     "release_date": "2021-07-19",
@@ -47506,7 +47780,7 @@
         "can_use": [
           "All Breath"
         ]
-    }
+      }
     },
     "addition_date": "2022-09-29",
     "release_date": "2022-09-29",
@@ -47861,7 +48135,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2018-06-08",
     "release_date": "2018-06-12",
@@ -48230,7 +48504,7 @@
         "can_use": [
           "Blue Tome"
         ]
-    }
+      }
     },
     "addition_date": "2018-03-09",
     "release_date": "2018-03-09",
@@ -48283,7 +48557,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2019-11-06",
     "release_date": "2019-11-07",
@@ -48370,7 +48644,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -48398,7 +48672,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -48464,7 +48738,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2020-04-20",
     "release_date": "2020-04-20",
@@ -48517,7 +48791,7 @@
         "can_use": [
           "All Dagger"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -48600,7 +48874,7 @@
         "can_use": [
           "All Breath"
         ]
-    }
+      }
     },
     "addition_date": "2019-01-30",
     "release_date": "2019-01-30",
@@ -48765,7 +49039,7 @@
         "can_use": [
           "Blue Tome"
         ]
-    }
+      }
     },
     "addition_date": "2021-01-18",
     "release_date": "2021-01-18",
@@ -49112,7 +49386,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -49166,7 +49440,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2018-12-18",
     "release_date": "2018-12-18",
@@ -49547,7 +49821,7 @@
         "can_use": [
           "Blue Tome"
         ]
-    }
+      }
     },
     "addition_date": "2019-11-19",
     "release_date": "2019-11-22",
@@ -49600,7 +49874,7 @@
         "can_use": [
           "Blue Tome"
         ]
-    }
+      }
     },
     "addition_date": "2021-04-05",
     "release_date": "2021-04-07",
@@ -50429,9 +50703,9 @@
         "none": true
       }
     },
-    "addition_date": "2024-08-06",
-    "release_date": "2024-08-07",
-    "version": "8.8",
+    "addition_date": "2022-04-28",
+    "release_date": "2022-04-28",
+    "version": "6.4",
     "downgrade_ids": [
       "SID_再移動制限3"
     ]
@@ -50638,7 +50912,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2020-03-05",
     "release_date": "2020-03-09",
@@ -50759,7 +51033,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2020-09-18",
     "release_date": "2020-09-19",
@@ -50845,7 +51119,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2018-02-28",
     "release_date": "2018-02-28",
@@ -50967,6 +51241,7 @@
       "SID_魔器・邪竜石",
       "SID_魔器・歪神竜の竜石",
       "SID_魔器ギムレー",
+      "SID_魔器・幼神のブレス",
       "SID_極光のブレス",
       "SID_目覚めし竜のブレス",
       "SID_暗夜竜のブレス",
@@ -51268,7 +51543,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2018-11-08",
     "release_date": "2018-11-09",
@@ -51296,7 +51571,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2018-11-08",
     "release_date": "2018-11-09",
@@ -51990,7 +52265,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -52724,7 +52999,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2020-08-18",
     "release_date": "2020-08-18",
@@ -52777,7 +53052,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2018-07-20",
     "release_date": "2018-07-20",
@@ -52860,7 +53135,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2020-06-05",
     "release_date": "2020-06-05",
@@ -52916,7 +53191,7 @@
         "can_use": [
           "Blue Tome"
         ]
-    }
+      }
     },
     "addition_date": "2019-12-05",
     "release_date": "2019-12-06",
@@ -52973,7 +53248,7 @@
         "can_use": [
           "Red Tome"
         ]
-    }
+      }
     },
     "addition_date": "2020-09-30",
     "release_date": "2020-09-30",
@@ -53029,7 +53304,7 @@
         "can_use": [
           "Green Tome"
         ]
-    }
+      }
     },
     "addition_date": "2019-12-05",
     "release_date": "2020-11-27",
@@ -53255,7 +53530,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -53404,7 +53679,7 @@
         "can_use": [
           "Red Tome"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -53483,7 +53758,7 @@
         "can_use": [
           "Green Tome"
         ]
-    }
+      }
     },
     "addition_date": "2018-09-06",
     "release_date": "2018-09-07",
@@ -53977,6 +54252,7 @@
     "release_date": "2017-02-02",
     "version": "1.0",
     "upgrade_ids": [
+      "SID_攻魔鼓舞・強襲",
       "SID_攻魔鼓舞・奮激",
       "SID_魔防の鼓舞4",
       "SID_魔防の相互鼓舞"
@@ -54321,7 +54597,7 @@
         "can_use": [
           "All Beast"
         ]
-    }
+      }
     },
     "addition_date": "2019-02-20",
     "release_date": "2019-02-20",
@@ -54351,7 +54627,7 @@
         "can_use": [
           "All Beast"
         ]
-    }
+      }
     },
     "addition_date": "2019-02-20",
     "release_date": "2019-02-20",
@@ -54410,7 +54686,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -54463,7 +54739,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2019-12-05",
     "release_date": "2019-12-06",
@@ -54571,7 +54847,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2019-08-06",
     "release_date": "2019-08-07",
@@ -55009,7 +55285,7 @@
         "can_use": [
           "All Breath"
         ]
-    }
+      }
     },
     "addition_date": "2020-10-07",
     "release_date": "2020-10-08",
@@ -55092,7 +55368,7 @@
         "can_use": [
           "Red Tome"
         ]
-    }
+      }
     },
     "addition_date": "2018-06-21",
     "release_date": "2018-06-21",
@@ -55204,7 +55480,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -55498,6 +55774,29 @@
     "version": "3.1",
     "downgrade_ids": [
       "SID_獅子奮迅3"
+    ]
+  },
+  {
+    "id": "SID_未来と過去",
+    "game8_id": "563634",
+    "name": "Future and Past",
+    "group_name": "Future and Past",
+    "category": "special",
+    "is_prf": true,
+    "sp": 500,
+    "tier": 3,
+    "cd": 4,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": null
+    },
+    "addition_date": "2025-11-05",
+    "release_date": "2025-11-06",
+    "version": "9.11",
+    "downgrade_ids": [
+      "SID_復讐"
     ]
   },
   {
@@ -56373,7 +56672,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2018-09-06",
     "release_date": "2018-09-07",
@@ -56820,7 +57119,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2018-08-21",
     "release_date": "2018-08-21",
@@ -56874,7 +57173,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2020-08-06",
     "release_date": "2020-08-07",
@@ -56934,7 +57233,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2022-08-17",
     "release_date": "2022-08-17",
@@ -56993,7 +57292,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2017-08-31",
     "release_date": "2017-08-31",
@@ -57105,7 +57404,7 @@
         "can_use": [
           "Red Tome"
         ]
-    }
+      }
     },
     "addition_date": "2021-04-05",
     "release_date": "2021-04-06",
@@ -57163,7 +57462,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2021-08-17",
     "release_date": "2021-08-17",
@@ -57690,7 +57989,7 @@
         "can_use": [
           "Green Tome"
         ]
-    }
+      }
     },
     "addition_date": "2018-06-08",
     "release_date": "2018-06-08",
@@ -57888,7 +58187,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2019-05-21",
     "release_date": "2019-05-21",
@@ -57944,11 +58243,59 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2018-11-28",
     "release_date": "2018-11-28",
     "version": "2.11"
+  },
+  {
+    "id": "SID_氷雪の大斧",
+    "game8_id": "563630",
+    "name": "Glacial Greataxe",
+    "group_name": "Glacial Greataxe",
+    "category": "weapon",
+    "weapon_type": "Green Axe",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Green Axe"
+        ]
+      }
+    },
+    "addition_date": "2025-11-05",
+    "release_date": "2025-11-06",
+    "version": "9.11",
+    "downgrade_ids": [
+      "SID_銀の斧"
+    ]
+  },
+  {
+    "id": "SID_真氷王の封印",
+    "game8_id": "563639",
+    "name": "Glacial Seal",
+    "group_name": "Glacial Seal",
+    "category": "passiveb",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/4f/Glacial_Seal.png/revision/latest?cb=20251105161914",
+    "is_prf": true,
+    "sp": 300,
+    "tier": 1,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": null
+    },
+    "addition_date": "2025-11-05",
+    "release_date": "2025-11-06",
+    "version": "9.11"
   },
   {
     "id": "SID_氷華",
@@ -58030,7 +58377,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -58198,7 +58545,7 @@
         "can_use": [
           "Red Tome"
         ]
-    }
+      }
     },
     "addition_date": "2018-01-25",
     "release_date": "2018-01-25",
@@ -58397,7 +58744,7 @@
         "can_use": [
           "All Breath"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -58626,7 +58973,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2021-02-16",
     "release_date": "2021-02-16",
@@ -58789,7 +59136,7 @@
         "can_use": [
           "All Breath"
         ]
-    }
+      }
     },
     "addition_date": "2022-05-31",
     "release_date": "2022-05-31",
@@ -58890,7 +59237,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-07-13",
     "release_date": "2017-07-13",
@@ -58941,7 +59288,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -59176,7 +59523,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-06-02",
@@ -59227,7 +59574,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2017-08-15",
     "release_date": "2017-08-15",
@@ -59287,7 +59634,7 @@
         "can_use": [
           "Green Tome"
         ]
-    }
+      }
     },
     "addition_date": "2021-01-07",
     "release_date": "2021-01-08",
@@ -59374,7 +59721,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2019-01-23",
     "release_date": "2019-01-23",
@@ -59402,7 +59749,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2019-01-23",
     "release_date": "2019-01-23",
@@ -59579,7 +59926,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -59607,7 +59954,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -59771,7 +60118,7 @@
         "can_use": [
           "All Breath"
         ]
-    }
+      }
     },
     "addition_date": "2018-01-25",
     "release_date": "2018-01-25",
@@ -60059,7 +60406,7 @@
         "can_use": [
           "Green Tome"
         ]
-    }
+      }
     },
     "addition_date": "2021-11-17",
     "release_date": "2021-11-30",
@@ -60115,7 +60462,7 @@
         "can_use": [
           "Red Tome"
         ]
-    }
+      }
     },
     "addition_date": "2018-03-09",
     "release_date": "2018-03-09",
@@ -60200,7 +60547,7 @@
         "can_use": [
           "Red Tome"
         ]
-    }
+      }
     },
     "addition_date": "2017-10-30",
     "release_date": "2017-10-30",
@@ -61642,7 +61989,7 @@
         "can_use": [
           "All Beast"
         ]
-    }
+      }
     },
     "addition_date": "2019-12-25",
     "release_date": "2020-01-01",
@@ -61672,7 +62019,7 @@
         "can_use": [
           "All Beast"
         ]
-    }
+      }
     },
     "addition_date": "2019-12-25",
     "release_date": "2020-01-01",
@@ -61723,7 +62070,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -61783,7 +62130,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2019-11-19",
     "release_date": "2019-11-19",
@@ -62040,7 +62387,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2020-05-07",
     "release_date": "2020-05-09",
@@ -62324,7 +62671,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2021-04-28",
     "release_date": "2021-04-28",
@@ -62578,7 +62925,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -63167,7 +63514,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -63227,7 +63574,7 @@
         "can_use": [
           "All Beast"
         ]
-    }
+      }
     },
     "addition_date": "2019-01-10",
     "release_date": "2019-01-11",
@@ -63446,7 +63793,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2019-06-10",
     "release_date": "2019-06-11",
@@ -63552,7 +63899,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2021-02-16",
     "release_date": "2021-02-17",
@@ -64024,7 +64371,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2020-07-30",
     "release_date": "2020-07-30",
@@ -64295,7 +64642,7 @@
         "can_use": [
           "Red Tome"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -64435,7 +64782,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -64814,7 +65161,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2018-12-28",
     "release_date": "2019-01-01",
@@ -64867,7 +65214,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -64920,7 +65267,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -65030,7 +65377,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2018-08-21",
     "release_date": "2018-08-21",
@@ -65081,7 +65428,7 @@
         "can_use": [
           "All Dagger"
         ]
-    }
+      }
     },
     "addition_date": "2018-09-14",
     "release_date": "2018-09-14",
@@ -65166,6 +65513,34 @@
     "downgrade_ids": [
       "SID_銀の槍"
     ]
+  },
+  {
+    "id": "SID_聖槍グラディウス_一",
+    "base_id": "SID_聖槍グラディウス",
+    "game8_id": "333459",
+    "name": "Holy Gradivus",
+    "group_name": "Holy Gradivus",
+    "category": "weapon",
+    "weapon_type": "Blue Lance",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/5e/Holy_Gradivus_W.png/revision/latest?cb=20251105162037",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 1,
+    "refine": "skill1",
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Blue Lance"
+        ]
+      }
+    },
+    "addition_date": "2021-06-07",
+    "release_date": "2021-06-08",
+    "version": "5.6"
   },
   {
     "id": "SID_地上の最後の女神",
@@ -65432,7 +65807,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2021-07-29",
     "release_date": "2021-07-29",
@@ -65593,7 +65968,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2022-08-17",
     "release_date": "2022-08-17",
@@ -65711,8 +66086,10 @@
     "release_date": "2017-02-02",
     "version": "1.0",
     "upgrade_ids": [
+      "SID_攻魔鼓舞・強襲",
       "SID_攻魔鼓舞・奮激",
       "SID_攻速鼓譟・呼吸",
+      "SID_攻速鼓舞・強襲",
       "SID_攻速鼓舞・奮激",
       "SID_攻速鼓譟・強化無効",
       "SID_攻撃の鼓舞4",
@@ -65948,6 +66325,7 @@
     "version": "1.0",
     "upgrade_ids": [
       "SID_攻速鼓譟・呼吸",
+      "SID_攻速鼓舞・強襲",
       "SID_攻速鼓舞・奮激",
       "SID_攻速鼓譟・強化無効",
       "SID_速さの鼓舞4",
@@ -66031,7 +66409,7 @@
         "can_use": [
           "All Dagger"
         ]
-    }
+      }
     },
     "addition_date": "2021-09-17",
     "release_date": "2021-09-17",
@@ -66118,7 +66496,7 @@
         "can_use": [
           "All Beast"
         ]
-    }
+      }
     },
     "addition_date": "2021-12-06",
     "release_date": "2021-12-07",
@@ -66278,7 +66656,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2021-04-05",
     "release_date": "2021-04-06",
@@ -66337,7 +66715,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2021-10-18",
     "release_date": "2021-10-19",
@@ -66702,7 +67080,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2021-03-04",
     "release_date": "2021-06-08",
@@ -66758,7 +67136,7 @@
         "can_use": [
           "Green Tome"
         ]
-    }
+      }
     },
     "addition_date": "2020-12-17",
     "release_date": "2020-12-17",
@@ -66873,7 +67251,7 @@
         "can_use": [
           "Blue Tome"
         ]
-    }
+      }
     },
     "addition_date": "2018-03-22",
     "release_date": "2018-03-22",
@@ -67014,7 +67392,7 @@
         "can_use": [
           "All Dagger"
         ]
-    }
+      }
     },
     "addition_date": "2019-08-06",
     "release_date": "2019-08-07",
@@ -67067,7 +67445,7 @@
         "can_use": [
           "All Dagger"
         ]
-    }
+      }
     },
     "addition_date": "2018-06-08",
     "release_date": "2018-06-08",
@@ -67244,7 +67622,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2020-02-17",
     "release_date": "2020-02-17",
@@ -67324,7 +67702,7 @@
         "can_use": [
           "Red Tome"
         ]
-    }
+      }
     },
     "addition_date": "2020-04-07",
     "release_date": "2020-04-12",
@@ -67811,7 +68189,7 @@
         "can_use": [
           "Blue Tome"
         ]
-    }
+      }
     },
     "addition_date": "2021-03-04",
     "release_date": "2021-03-05",
@@ -67864,7 +68242,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2019-03-07",
     "release_date": "2019-03-08",
@@ -67954,7 +68332,7 @@
         "can_use": [
           "Green Tome"
         ]
-    }
+      }
     },
     "addition_date": "2019-09-30",
     "release_date": "2019-09-30",
@@ -68102,7 +68480,7 @@
         "can_use": [
           "All Beast"
         ]
-    }
+      }
     },
     "addition_date": "2022-07-26",
     "release_date": "2022-07-26",
@@ -68180,7 +68558,7 @@
         "can_use": [
           "Blue Tome"
         ]
-    }
+      }
     },
     "addition_date": "2019-12-25",
     "release_date": "2020-01-01",
@@ -68236,7 +68614,7 @@
         "can_use": [
           "Red Tome"
         ]
-    }
+      }
     },
     "addition_date": "2018-11-21",
     "release_date": "2018-11-23",
@@ -68676,7 +69054,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2023-06-07",
     "release_date": "2023-06-08",
@@ -68704,7 +69082,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2023-06-07",
     "release_date": "2023-06-08",
@@ -68765,7 +69143,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2021-01-07",
     "release_date": "2021-01-08",
@@ -69487,7 +69865,7 @@
         "can_use": [
           "Colorless Tome"
         ]
-    }
+      }
     },
     "addition_date": "2022-08-17",
     "release_date": "2022-08-17",
@@ -69540,7 +69918,7 @@
         "can_use": [
           "Green Tome"
         ]
-    }
+      }
     },
     "addition_date": "2017-05-15",
     "release_date": "2017-05-15",
@@ -69889,7 +70267,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -69942,7 +70320,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2018-07-20",
     "release_date": "2018-07-20",
@@ -70020,7 +70398,7 @@
         "can_use": [
           "Green Tome"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -70306,7 +70684,7 @@
         "can_use": [
           "Blue Tome"
         ]
-    }
+      }
     },
     "addition_date": "2018-01-25",
     "release_date": "2018-01-25",
@@ -70359,7 +70737,7 @@
         "can_use": [
           "All Dagger"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -70822,7 +71200,7 @@
         "can_use": [
           "Colorless Tome"
         ]
-    }
+      }
     },
     "addition_date": "2020-10-07",
     "release_date": "2020-10-08",
@@ -70944,7 +71322,7 @@
         "can_use": [
           "Colorless Tome"
         ]
-    }
+      }
     },
     "addition_date": "2020-05-20",
     "release_date": "2020-05-20",
@@ -71031,7 +71409,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2018-12-18",
     "release_date": "2018-12-18",
@@ -71059,7 +71437,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2018-12-18",
     "release_date": "2018-12-18",
@@ -71145,7 +71523,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-07-07",
     "release_date": "2017-07-07",
@@ -71574,7 +71952,7 @@
         "can_use": [
           "All Dagger"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -71625,7 +72003,7 @@
         "can_use": [
           "All Dagger"
         ]
-    }
+      }
     },
     "addition_date": "2018-04-24",
     "release_date": "2018-05-02",
@@ -71840,7 +72218,7 @@
         "can_use": [
           "Green Tome"
         ]
-    }
+      }
     },
     "addition_date": "2017-11-28",
     "release_date": "2017-12-02",
@@ -72107,7 +72485,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2021-01-07",
     "release_date": "2021-01-08",
@@ -72537,7 +72915,7 @@
         "can_use": [
           "All Beast"
         ]
-    }
+      }
     },
     "addition_date": "2019-02-20",
     "release_date": "2019-02-20",
@@ -72567,7 +72945,7 @@
         "can_use": [
           "All Beast"
         ]
-    }
+      }
     },
     "addition_date": "2019-02-20",
     "release_date": "2019-02-20",
@@ -72733,7 +73111,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2017-07-13",
     "release_date": "2017-07-13",
@@ -72872,7 +73250,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2019-05-09",
     "release_date": "2019-05-10",
@@ -72959,7 +73337,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2018-12-28",
     "release_date": "2019-01-01",
@@ -72987,7 +73365,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2018-12-28",
     "release_date": "2019-01-01",
@@ -73247,7 +73625,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2021-06-07",
     "release_date": "2021-06-08",
@@ -73506,7 +73884,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-07-13",
     "release_date": "2017-07-13",
@@ -73700,7 +74078,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2019-06-10",
     "release_date": "2019-06-13",
@@ -73930,7 +74308,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2022-03-31",
     "release_date": "2022-03-31",
@@ -74043,7 +74421,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2020-01-08",
     "release_date": "2020-01-09",
@@ -74124,7 +74502,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -74341,7 +74719,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2017-11-28",
     "release_date": "2017-11-28",
@@ -74483,7 +74861,7 @@
         "can_use": [
           "All Dagger"
         ]
-    }
+      }
     },
     "addition_date": "2020-06-05",
     "release_date": "2020-06-06",
@@ -74817,7 +75195,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2018-04-11",
     "release_date": "2018-04-11",
@@ -74967,7 +75345,7 @@
         "can_use": [
           "Green Tome"
         ]
-    }
+      }
     },
     "addition_date": "2019-08-16",
     "release_date": "2019-08-16",
@@ -75281,7 +75659,7 @@
         "can_use": [
           "All Beast"
         ]
-    }
+      }
     },
     "addition_date": "2019-04-09",
     "release_date": "2019-04-10",
@@ -75727,7 +76105,8 @@
     "version": "9.0",
     "upgrade_ids": [
       "SID_露払い・攻め立て",
-      "SID_露払い・不屈"
+      "SID_露払い・不屈",
+      "SID_露払い・暗煙"
     ],
     "downgrade_ids": [
       "SID_露払い2"
@@ -75757,6 +76136,34 @@
     "addition_date": "2024-12-06",
     "release_date": "2024-12-06",
     "version": "9.0",
+    "downgrade_ids": [
+      "SID_露払い3"
+    ]
+  },
+  {
+    "id": "SID_露払い・暗煙",
+    "game8_id": "563641",
+    "name": "Lookout Smog",
+    "group_name": "Lookout Smog",
+    "category": "passivec",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/81/Lookout_Smog.png/revision/latest?cb=20251105161955",
+    "is_prf": false,
+    "sp": 300,
+    "tier": 4,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "All Dagger"
+        ]
+      }
+    },
+    "addition_date": "2025-11-05",
+    "release_date": "2025-11-06",
+    "version": "9.11",
     "downgrade_ids": [
       "SID_露払い3"
     ]
@@ -75811,7 +76218,7 @@
         "can_use": [
           "Red Tome"
         ]
-    }
+      }
     },
     "addition_date": "2018-05-09",
     "release_date": "2018-05-14",
@@ -75870,7 +76277,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2017-07-13",
     "release_date": "2017-08-11",
@@ -76181,7 +76588,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2017-09-15",
     "release_date": "2017-09-15",
@@ -76275,6 +76682,33 @@
     ]
   },
   {
+    "id": "SID_護国の堅斧_一",
+    "base_id": "SID_護国の堅斧",
+    "game8_id": "317391",
+    "name": "Loyalist Axe",
+    "group_name": "Loyalist Axe",
+    "category": "weapon",
+    "weapon_type": "Green Axe",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/19/Loyalist_Axe_W.png/revision/latest?cb=20251105162027",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 1,
+    "refine": "skill1",
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Green Axe"
+        ]
+      }
+    },
+    "addition_date": "2021-02-04",
+    "release_date": "2021-02-05",
+    "version": "5.2"
+  },
+  {
     "id": "SID_忠誠の槍",
     "game8_id": "338801",
     "name": "Loyalty Spear",
@@ -76321,7 +76755,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2018-04-11",
     "release_date": "2018-04-21",
@@ -76380,7 +76814,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2020-04-07",
     "release_date": "2020-04-08",
@@ -76434,7 +76868,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2021-03-04",
     "release_date": "2021-03-05",
@@ -76855,7 +77289,8 @@
     "release_date": "2019-07-22",
     "version": "3.7",
     "upgrade_ids": [
-      "SID_速さ守備の凪4"
+      "SID_速さ守備の凪4",
+      "SID_秘奥・速守凪"
     ],
     "downgrade_ids": [
       "SID_速さ守備の凪2"
@@ -77170,7 +77605,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2019-04-26",
     "release_date": "2019-04-27",
@@ -77421,7 +77856,7 @@
         "can_use": [
           "All Dagger"
         ]
-    }
+      }
     },
     "addition_date": "2018-12-11",
     "release_date": "2018-12-11",
@@ -77477,7 +77912,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2020-12-08",
     "release_date": "2020-12-08",
@@ -78023,7 +78458,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2018-08-21",
     "release_date": "2018-08-21",
@@ -78077,7 +78512,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2019-12-05",
     "release_date": "2019-12-06",
@@ -78241,7 +78676,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2019-10-21",
     "release_date": "2019-10-24",
@@ -78300,7 +78735,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2018-03-09",
     "release_date": "2018-03-15",
@@ -78440,7 +78875,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2019-10-29",
     "release_date": "2019-10-29",
@@ -78496,7 +78931,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2018-04-11",
     "release_date": "2018-04-11",
@@ -78583,7 +79018,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2019-10-21",
     "release_date": "2019-10-21",
@@ -78611,7 +79046,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2019-10-21",
     "release_date": "2019-10-21",
@@ -78897,7 +79332,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2020-09-18",
     "release_date": "2020-09-18",
@@ -78953,7 +79388,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2019-09-19",
     "release_date": "2019-09-23",
@@ -79317,7 +79752,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2020-01-17",
     "release_date": "2020-01-20",
@@ -79377,7 +79812,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2020-01-17",
     "release_date": "2020-01-20",
@@ -79441,7 +79876,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2020-01-17",
     "release_date": "2020-01-20",
@@ -79502,7 +79937,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2020-01-17",
     "release_date": "2020-01-20",
@@ -79559,7 +79994,7 @@
         "can_use": [
           "Red Tome"
         ]
-    }
+      }
     },
     "addition_date": "2020-01-17",
     "release_date": "2020-01-20",
@@ -79879,7 +80314,7 @@
         "can_use": [
           "Blue Tome"
         ]
-    }
+      }
     },
     "addition_date": "2018-05-09",
     "release_date": "2018-05-10",
@@ -80217,7 +80652,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2020-08-18",
     "release_date": "2020-08-18",
@@ -80358,7 +80793,7 @@
         "can_use": [
           "All Breath"
         ]
-    }
+      }
     },
     "addition_date": "2020-10-07",
     "release_date": "2020-10-08",
@@ -80648,7 +81083,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2017-08-31",
     "release_date": "2017-08-31",
@@ -80704,7 +81139,7 @@
         "can_use": [
           "Green Tome"
         ]
-    }
+      }
     },
     "addition_date": "2018-03-22",
     "release_date": "2018-03-22",
@@ -80783,7 +81218,7 @@
         "can_use": [
           "Red Tome"
         ]
-    }
+      }
     },
     "addition_date": "2018-05-21",
     "release_date": "2018-05-21",
@@ -80900,6 +81335,34 @@
     ]
   },
   {
+    "id": "SID_魔笛ギャラルホルン",
+    "game8_id": "561610",
+    "name": "Mystic Gjallarhorn",
+    "group_name": "Mystic Gjallarhorn",
+    "category": "weapon",
+    "weapon_type": "Blue Tome",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Blue Tome"
+        ]
+      }
+    },
+    "addition_date": "2025-06-05",
+    "release_date": "2025-10-30",
+    "version": "9.10",
+    "downgrade_ids": [
+      "SID_トロン",
+      "SID_シャイン"
+    ]
+  },
+  {
     "id": "SID_戦神の天杖",
     "game8_id": "409482",
     "name": "Mystic War Staff",
@@ -80975,7 +81438,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-27",
     "release_date": "2017-02-27",
@@ -81184,11 +81647,8 @@
         "can_use": [
           "Green Tome"
         ]
+      }
     }
-    },
-    "addition_date": "2017-02-15",
-    "release_date": "2017-02-15",
-    "version": "1.0"
   },
   {
     "id": "SID_ナグルファル",
@@ -81240,7 +81700,7 @@
         "can_use": [
           "Red Tome"
         ]
-    }
+      }
     },
     "addition_date": "2018-01-25",
     "release_date": "2018-01-26",
@@ -81291,7 +81751,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -81463,7 +81923,7 @@
         "can_use": [
           "Colorless Tome"
         ]
-    }
+      }
     },
     "addition_date": "2021-08-31",
     "release_date": "2021-08-31",
@@ -81544,7 +82004,7 @@
         "can_use": [
           "All Beast"
         ]
-    }
+      }
     },
     "addition_date": "2019-12-25",
     "release_date": "2020-01-01",
@@ -81573,7 +82033,7 @@
         "can_use": [
           "All Beast"
         ]
-    }
+      }
     },
     "addition_date": "2019-12-25",
     "release_date": "2020-01-01",
@@ -81915,7 +82375,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2017-08-15",
     "release_date": "2017-08-15",
@@ -82058,7 +82518,7 @@
         "can_use": [
           "Green Tome"
         ]
-    }
+      }
     },
     "addition_date": "2018-05-21",
     "release_date": "2018-05-21",
@@ -82195,7 +82655,7 @@
         "can_use": [
           "All Beast"
         ]
-    }
+      }
     },
     "addition_date": "2020-07-20",
     "release_date": "2020-11-27",
@@ -82330,7 +82790,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -82421,11 +82881,70 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2019-08-16",
     "release_date": "2019-08-16",
     "version": "3.8"
+  },
+  {
+    "id": "SID_忍の戦輪",
+    "game8_id": "563632",
+    "name": "Ninja Chakrams",
+    "group_name": "Ninja Chakrams",
+    "category": "weapon",
+    "weapon_type": "Green Axe",
+    "is_prf": false,
+    "sp": 200,
+    "tier": 3,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Green Axe"
+        ]
+      }
+    },
+    "addition_date": "2025-11-05",
+    "release_date": "2025-11-06",
+    "version": "9.11",
+    "upgrade_ids": [
+      "SID_忍の戦輪＋"
+    ],
+    "downgrade_ids": [
+      "SID_鋼の斧"
+    ]
+  },
+  {
+    "id": "SID_忍の戦輪＋",
+    "game8_id": "563633",
+    "name": "Ninja Chakrams+",
+    "group_name": "Ninja Chakrams+",
+    "category": "weapon",
+    "weapon_type": "Green Axe",
+    "is_prf": false,
+    "sp": 300,
+    "tier": 4,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Green Axe"
+        ]
+      }
+    },
+    "addition_date": "2025-11-05",
+    "release_date": "2025-11-06",
+    "version": "9.11",
+    "downgrade_ids": [
+      "SID_忍の戦輪"
+    ]
   },
   {
     "id": "SID_忍の刀",
@@ -82729,6 +83248,27 @@
     ]
   },
   {
+    "id": "SID_忍びの技術",
+    "game8_id": "563636",
+    "name": "Ninja-Zap",
+    "group_name": "Ninja-Zap",
+    "category": "passivea",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/72/Ninja-Zap.png/revision/latest?cb=20251105161842",
+    "is_prf": true,
+    "sp": 300,
+    "tier": 1,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": null
+    },
+    "addition_date": "2025-11-05",
+    "release_date": "2025-11-06",
+    "version": "9.11"
+  },
+  {
     "id": "SID_双風忍法帳",
     "game8_id": "348396",
     "name": "Ninjutsu Scrolls",
@@ -82806,7 +83346,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2018-09-14",
     "release_date": "2018-09-21",
@@ -82948,7 +83488,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -83007,7 +83547,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2021-04-05",
     "release_date": "2021-04-06",
@@ -83063,7 +83603,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2019-07-21",
     "release_date": "2019-07-22",
@@ -83646,7 +84186,7 @@
         "can_use": [
           "All Breath"
         ]
-    }
+      }
     },
     "addition_date": "2020-05-29",
     "release_date": "2020-05-29",
@@ -83728,7 +84268,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -83843,7 +84383,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2021-05-20",
     "release_date": "2021-05-20",
@@ -83871,7 +84411,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2021-05-20",
     "release_date": "2021-05-20",
@@ -83953,7 +84493,7 @@
         "can_use": [
           "Green Tome"
         ]
-    }
+      }
     },
     "addition_date": "2017-11-28",
     "release_date": "2017-12-02",
@@ -84009,7 +84549,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2020-12-08",
     "release_date": "2020-12-08",
@@ -85037,7 +85577,7 @@
         "can_use": [
           "Blue Tome"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -85281,7 +85821,7 @@
         "can_use": [
           "All Breath"
         ]
-    }
+      }
     },
     "addition_date": "2019-06-10",
     "release_date": "2019-06-11",
@@ -85389,7 +85929,7 @@
         "can_use": [
           "Colorless Tome"
         ]
-    }
+      }
     },
     "addition_date": "2021-05-31",
     "release_date": "2021-05-31",
@@ -85719,7 +86259,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2019-03-19",
     "release_date": "2019-03-19",
@@ -85747,7 +86287,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2019-03-19",
     "release_date": "2019-03-19",
@@ -85923,7 +86463,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -85951,7 +86491,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -86219,7 +86759,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2020-06-18",
     "release_date": "2020-06-18",
@@ -86247,7 +86787,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2020-06-18",
     "release_date": "2020-06-18",
@@ -86533,7 +87073,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -86561,7 +87101,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -86614,7 +87154,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -86667,7 +87207,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -86775,7 +87315,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -87485,7 +88025,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -87547,7 +88087,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2020-03-05",
     "release_date": "2020-03-06",
@@ -87630,7 +88170,7 @@
         "can_use": [
           "All Dagger"
         ]
-    }
+      }
     },
     "addition_date": "2018-01-12",
     "release_date": "2018-01-12",
@@ -87893,7 +88433,7 @@
         "can_use": [
           "Red Tome"
         ]
-    }
+      }
     },
     "addition_date": "2021-01-07",
     "release_date": "2021-01-09",
@@ -87948,7 +88488,7 @@
         "can_use": [
           "Colorless Tome"
         ]
-    }
+      }
     },
     "addition_date": "2021-08-17",
     "release_date": "2021-08-17",
@@ -88547,7 +89087,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2020-06-05",
     "release_date": "2020-06-05",
@@ -88731,6 +89271,7 @@
     "version": "1.0",
     "upgrade_ids": [
       "SID_理の蛇毒",
+      "SID_魔の蛇毒・呼吸",
       "SID_魔の蛇毒"
     ],
     "downgrade_ids": [
@@ -88827,7 +89368,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2018-03-09",
     "release_date": "2018-03-15",
@@ -88862,6 +89403,36 @@
     "downgrade_ids": [
       "SID_成獣の化身・歩行"
     ]
+  },
+  {
+    "id": "SID_賀正の銀虎の爪牙_一",
+    "base_id": "SID_賀正の銀虎の爪牙",
+    "game8_id": "353246",
+    "name": "Polished Fang",
+    "group_name": "Polished Fang",
+    "category": "weapon",
+    "weapon_type": "All Beast",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/77/Polished_Fang_W.png/revision/latest?cb=20251105162058",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 1,
+    "refine": "skill1",
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Infantry"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "All Beast"
+        ]
+      }
+    },
+    "addition_date": "2021-12-28",
+    "release_date": "2022-01-01",
+    "version": "6.0"
   },
   {
     "id": "SID_神速1",
@@ -89190,7 +89761,7 @@
         "can_use": [
           "Blue Tome"
         ]
-    }
+      }
     },
     "addition_date": "2018-12-28",
     "release_date": "2018-12-28",
@@ -89228,6 +89799,7 @@
   },
   {
     "id": "SID_初撃の鼓動・謀策",
+    "game8_id": "558469",
     "name": "Preempt: Ploy",
     "group_name": "Preempt: Ploy",
     "category": "passivec",
@@ -89415,7 +89987,7 @@
         "can_use": [
           "All Breath"
         ]
-    }
+      }
     },
     "addition_date": "2020-08-31",
     "release_date": "2020-08-31",
@@ -89577,7 +90149,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2019-11-19",
     "release_date": "2019-11-19",
@@ -89682,7 +90254,7 @@
         "can_use": [
           "Blue Tome"
         ]
-    }
+      }
     },
     "addition_date": "2021-12-24",
     "release_date": "2021-12-24",
@@ -89736,7 +90308,7 @@
         "can_use": [
           "Green Tome"
         ]
-    }
+      }
     },
     "addition_date": "2021-06-30",
     "release_date": "2021-06-30",
@@ -89995,7 +90567,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2021-06-07",
     "release_date": "2021-06-09",
@@ -90402,7 +90974,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2018-07-20",
     "release_date": "2018-07-20",
@@ -90455,7 +91027,7 @@
         "can_use": [
           "Red Tome"
         ]
-    }
+      }
     },
     "addition_date": "2019-11-06",
     "release_date": "2019-11-07",
@@ -90631,7 +91203,7 @@
         "can_use": [
           "All Breath"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -90922,7 +91494,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2019-03-07",
     "release_date": "2019-03-08",
@@ -92055,7 +92627,7 @@
         "can_use": [
           "Red Tome"
         ]
-    }
+      }
     },
     "addition_date": "2017-05-15",
     "release_date": "2017-05-15",
@@ -92110,7 +92682,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-04-26",
     "release_date": "2017-04-26",
@@ -92166,7 +92738,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2019-11-28",
     "release_date": "2019-11-28",
@@ -92222,7 +92794,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -93036,11 +93608,35 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2020-02-27",
     "release_date": "2020-02-27",
     "version": "4.2"
+  },
+  {
+    "id": "SID_正真連閃",
+    "game8_id": "563635",
+    "name": "Rapid Slice",
+    "group_name": "Rapid Slice",
+    "category": "passivea",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/13/Rapid_Slice.png/revision/latest?cb=20251105161852",
+    "is_prf": true,
+    "sp": 300,
+    "tier": 1,
+    "cd": 0,
+    "eff": [
+      "all"
+    ],
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": null
+    },
+    "addition_date": "2025-11-05",
+    "release_date": "2025-11-06",
+    "version": "9.11"
   },
   {
     "id": "SID_涙目の速射弓",
@@ -93186,7 +93782,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2020-02-06",
     "release_date": "2020-02-06",
@@ -93214,7 +93810,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2020-02-06",
     "release_date": "2020-02-06",
@@ -94112,7 +94708,7 @@
         "can_use": [
           "All Beast"
         ]
-    }
+      }
     },
     "addition_date": "2019-01-10",
     "release_date": "2019-01-11",
@@ -94204,7 +94800,7 @@
         "can_use": [
           "All Breath"
         ]
-    }
+      }
     },
     "addition_date": "2019-05-09",
     "release_date": "2019-05-10",
@@ -94343,7 +94939,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2017-03-14",
     "release_date": "2017-03-14",
@@ -94420,7 +95016,7 @@
         "can_use": [
           "Green Tome"
         ]
-    }
+      }
     },
     "addition_date": "2021-06-07",
     "release_date": "2021-06-08",
@@ -94761,7 +95357,7 @@
         "can_use": [
           "Red Tome"
         ]
-    }
+      }
     },
     "addition_date": "2017-06-14",
     "release_date": "2017-06-14",
@@ -94844,7 +95440,7 @@
         "can_use": [
           "All Beast"
         ]
-    }
+      }
     },
     "addition_date": "2020-12-28",
     "release_date": "2021-01-01",
@@ -94965,7 +95561,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-05-15",
     "release_date": "2017-05-19",
@@ -95056,7 +95652,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2019-11-06",
     "release_date": "2019-11-07",
@@ -95530,7 +96126,7 @@
         "can_use": [
           "All Breath"
         ]
-    }
+      }
     },
     "addition_date": "2022-08-17",
     "release_date": "2022-08-17",
@@ -95759,7 +96355,7 @@
         "can_use": [
           "All Beast"
         ]
-    }
+      }
     },
     "addition_date": "2020-12-28",
     "release_date": "2021-01-01",
@@ -95818,7 +96414,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -97005,7 +97601,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-11-15",
     "release_date": "2017-11-15",
@@ -97065,7 +97661,7 @@
         "can_use": [
           "All Beast"
         ]
-    }
+      }
     },
     "addition_date": "2020-12-28",
     "release_date": "2021-01-01",
@@ -97276,7 +97872,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2022-11-18",
     "release_date": "2022-11-18",
@@ -97304,7 +97900,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2022-11-18",
     "release_date": "2022-11-18",
@@ -97414,7 +98010,7 @@
         "can_use": [
           "Red Tome"
         ]
-    }
+      }
     },
     "addition_date": "2019-08-06",
     "release_date": "2019-08-07",
@@ -97577,7 +98173,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2019-11-06",
     "release_date": "2019-11-11",
@@ -97935,7 +98531,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2017-04-14",
     "release_date": "2017-04-14",
@@ -98031,7 +98627,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2017-07-13",
     "release_date": "2017-07-13",
@@ -98199,7 +98795,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2020-04-07",
     "release_date": "2020-04-08",
@@ -98365,7 +98961,7 @@
         "can_use": [
           "Colorless Tome"
         ]
-    }
+      }
     },
     "addition_date": "2022-10-31",
     "release_date": "2022-10-31",
@@ -99276,7 +99872,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-06-14",
     "release_date": "2017-06-14",
@@ -99361,7 +99957,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2018-08-21",
     "release_date": "2018-08-21",
@@ -99582,7 +100178,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-10",
@@ -99808,6 +100404,32 @@
     "version": "9.4",
     "downgrade_ids": [
       "SID_速さ守備の牽制3"
+    ]
+  },
+  {
+    "id": "SID_秘奥・速守凪",
+    "game8_id": "563638",
+    "name": "S/D Lull Finish",
+    "group_name": "S/D Lull Finish",
+    "category": "passiveb",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/6d/S_D_Lull_Finish.png/revision/latest?cb=20251105161934",
+    "is_prf": false,
+    "sp": 300,
+    "tier": 4,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Infantry"
+        ]
+      },
+      "weapons": null
+    },
+    "addition_date": "2025-11-05",
+    "release_date": "2025-11-06",
+    "version": "9.11",
+    "downgrade_ids": [
+      "SID_速さ守備の凪3"
     ]
   },
   {
@@ -100465,7 +101087,7 @@
         "can_use": [
           "All Beast"
         ]
-    }
+      }
     },
     "addition_date": "2019-04-09",
     "release_date": "2019-04-10",
@@ -100519,7 +101141,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2019-09-19",
     "release_date": "2019-09-19",
@@ -101030,7 +101652,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2020-02-17",
     "release_date": "2020-02-17",
@@ -101319,7 +101941,7 @@
         "can_use": [
           "Blue Tome"
         ]
-    }
+      }
     },
     "addition_date": "2018-10-23",
     "release_date": "2018-10-23",
@@ -101375,7 +101997,7 @@
         "can_use": [
           "Green Tome"
         ]
-    }
+      }
     },
     "addition_date": "2019-12-25",
     "release_date": "2019-12-25",
@@ -101428,7 +102050,7 @@
         "can_use": [
           "Blue Tome"
         ]
-    }
+      }
     },
     "addition_date": "2021-06-07",
     "release_date": "2021-06-08",
@@ -101481,7 +102103,7 @@
         "can_use": [
           "All Dagger"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -101739,7 +102361,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2019-08-16",
     "release_date": "2019-08-16",
@@ -101938,7 +102560,7 @@
         "can_use": [
           "All Breath"
         ]
-    }
+      }
     },
     "addition_date": "2019-05-09",
     "release_date": "2019-05-10",
@@ -102119,7 +102741,7 @@
         "can_use": [
           "All Dagger"
         ]
-    }
+      }
     },
     "addition_date": "2019-04-19",
     "release_date": "2019-04-19",
@@ -102256,7 +102878,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-04-04",
@@ -102337,7 +102959,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2020-02-06",
     "release_date": "2020-02-06",
@@ -102430,6 +103052,33 @@
     ]
   },
   {
+    "id": "SID_未来と過去の忍法帖",
+    "game8_id": "563631",
+    "name": "Scrolls of Time",
+    "group_name": "Scrolls of Time",
+    "category": "weapon",
+    "weapon_type": "Colorless Tome",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Colorless Tome"
+        ]
+      }
+    },
+    "addition_date": "2025-11-05",
+    "release_date": "2025-11-06",
+    "version": "9.11",
+    "downgrade_ids": [
+      "SID_アトラース"
+    ]
+  },
+  {
     "id": "SID_サリエルの大鎌",
     "game8_id": "269023",
     "name": "Scythe of Sariel",
@@ -102477,7 +103126,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2019-08-06",
     "release_date": "2019-08-12",
@@ -103524,9 +104173,9 @@
         ]
       }
     },
-    "addition_date": "2024-10-15",
-    "release_date": "2024-10-15",
-    "version": "8.10",
+    "addition_date": "2022-12-23",
+    "release_date": "2022-12-23",
+    "version": "7.0",
     "downgrade_ids": [
       "SID_速さ守備封じ2"
     ]
@@ -103676,7 +104325,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2018-03-09",
     "release_date": "2018-03-09",
@@ -103942,7 +104591,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2023-06-19",
     "release_date": "2023-06-19",
@@ -103970,7 +104619,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2023-06-19",
     "release_date": "2023-06-19",
@@ -104140,7 +104789,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -104368,7 +105017,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2022-01-17",
     "release_date": "2022-01-17",
@@ -104396,7 +105045,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2022-01-17",
     "release_date": "2022-01-17",
@@ -104514,7 +105163,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -104628,6 +105277,34 @@
     "downgrade_ids": [
       "SID_灼熱のブレス"
     ]
+  },
+  {
+    "id": "SID_暗黒地竜のブレス_一",
+    "base_id": "SID_暗黒地竜のブレス",
+    "game8_id": "376591",
+    "name": "Shadow Breath",
+    "group_name": "Shadow Breath",
+    "category": "weapon",
+    "weapon_type": "All Breath",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/0a/Shadow_Breath_W.png/revision/latest?cb=20251105162017",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 1,
+    "refine": "skill1",
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "All Breath"
+        ]
+      }
+    },
+    "addition_date": "2022-04-28",
+    "release_date": "2022-04-28",
+    "version": "6.4"
   },
   {
     "id": "SID_影助・引き戻し1",
@@ -105066,7 +105743,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2019-05-09",
     "release_date": "2019-05-10",
@@ -105145,7 +105822,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2018-01-25",
     "release_date": "2018-01-31",
@@ -105196,7 +105873,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -105227,6 +105904,30 @@
     "version": "6.4",
     "downgrade_ids": [
       "SID_銀の剣"
+    ]
+  },
+  {
+    "id": "SID_金剛不壊",
+    "game8_id": "563637",
+    "name": "Shatterproof",
+    "group_name": "Shatterproof",
+    "category": "passivea",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/84/Shatterproof.png/revision/latest?cb=20251105161903",
+    "is_prf": false,
+    "sp": 300,
+    "tier": 4,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": null
+    },
+    "addition_date": "2025-11-05",
+    "release_date": "2025-11-06",
+    "version": "9.11",
+    "downgrade_ids": [
+      "SID_不壊3"
     ]
   },
   {
@@ -105646,6 +106347,7 @@
       "SID_聖騎士の嗜み",
       "SID_気高き怪盗の予告状",
       "SID_魔書ミステルトィン",
+      "SID_魔笛ギャラルホルン",
       "SID_ニザヴェリルの箱",
       "SID_オヴスキュリテ",
       "SID_清冷の法具",
@@ -106049,7 +106751,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-05-02",
@@ -106105,7 +106807,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-15",
     "release_date": "2017-02-15",
@@ -106161,7 +106863,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-15",
     "release_date": "2017-02-15",
@@ -106429,7 +107131,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2021-02-16",
     "release_date": "2021-02-16",
@@ -106497,6 +107199,7 @@
       "SID_ガルム",
       "SID_波閉ざす錨の斧",
       "SID_ガーベラの斧",
+      "SID_氷雪の大斧",
       "SID_グリトニル",
       "SID_オートクレール",
       "SID_死斧グリトニル",
@@ -106615,6 +107318,7 @@
       "SID_フレリアの玉弓",
       "SID_忠臣との絆の弓",
       "SID_うたた寝の春の弓",
+      "SID_見えざる忍の暗殺弓",
       "SID_双聖戦士の聖弓",
       "SID_波間の欠片の鋭弓",
       "SID_謀略の戦弓",
@@ -106744,6 +107448,7 @@
       "SID_王者の刃",
       "SID_風舞う白夜の呪扇",
       "SID_影身の暗器",
+      "SID_傭兵忍の双刃",
       "SID_死神の暗器",
       "SID_白き夢のかけら",
       "SID_修羅の双刃",
@@ -107304,7 +108009,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-08-15",
     "release_date": "2017-08-15",
@@ -107533,7 +108238,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2018-02-22",
     "release_date": "2018-02-24",
@@ -107589,7 +108294,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2021-02-16",
     "release_date": "2021-03-30",
@@ -107768,7 +108473,7 @@
         "can_use": [
           "All Beast"
         ]
-    }
+      }
     },
     "addition_date": "2020-08-06",
     "release_date": "2020-08-07",
@@ -108189,7 +108894,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2018-09-14",
     "release_date": "2018-09-14",
@@ -108394,7 +109099,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -108422,7 +109127,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -108818,7 +109523,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2017-06-14",
     "release_date": "2017-06-16",
@@ -108877,7 +109582,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2019-10-21",
     "release_date": "2019-10-21",
@@ -108936,7 +109641,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2017-06-14",
     "release_date": "2017-06-28",
@@ -109051,7 +109756,7 @@
         "can_use": [
           "All Breath"
         ]
-    }
+      }
     },
     "addition_date": "2019-12-16",
     "release_date": "2019-12-16",
@@ -109209,7 +109914,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2020-01-30",
     "release_date": "2020-01-30",
@@ -109300,7 +110005,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -109356,7 +110061,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2019-10-21",
     "release_date": "2019-10-21",
@@ -109461,7 +110166,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-11-28",
     "release_date": "2017-12-04",
@@ -109572,6 +110277,7 @@
     "release_date": "2022-10-17",
     "version": "6.10",
     "upgrade_ids": [
+      "SID_金剛不壊",
       "SID_不壊4"
     ],
     "downgrade_ids": [
@@ -109678,7 +110384,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -109892,6 +110598,57 @@
     ]
   },
   {
+    "id": "SID_強面の怖槍",
+    "name": "Soulful Lance",
+    "group_name": "Soulful Lance",
+    "category": "weapon",
+    "weapon_type": "Blue Lance",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 1,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Blue Lance"
+        ]
+      }
+    },
+    "addition_date": "2021-07-19",
+    "release_date": "2021-07-19",
+    "version": "5.7"
+  },
+  {
+    "id": "SID_強面の怖槍_一",
+    "base_id": "SID_強面の怖槍",
+    "name": "Soulful Lance",
+    "group_name": "Soulful Lance",
+    "category": "weapon",
+    "weapon_type": "Blue Lance",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/3f/Soulful_Lance_W.png/revision/latest?cb=20251105162108",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 1,
+    "refine": "skill1",
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Blue Lance"
+        ]
+      }
+    },
+    "addition_date": "2021-07-19",
+    "release_date": "2021-07-19",
+    "version": "5.7"
+  },
+  {
     "id": "SID_慕炎の書",
     "game8_id": "318239",
     "name": "Sparking Tome",
@@ -109942,7 +110699,7 @@
         "can_use": [
           "Red Tome"
         ]
-    }
+      }
     },
     "addition_date": "2021-02-16",
     "release_date": "2021-02-16",
@@ -114651,7 +115408,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2020-10-19",
     "release_date": "2020-10-19",
@@ -114705,7 +115462,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2020-07-20",
     "release_date": "2020-07-20",
@@ -115444,7 +116201,7 @@
         "can_use": [
           "All Breath"
         ]
-    }
+      }
     },
     "addition_date": "2018-10-09",
     "release_date": "2018-10-10",
@@ -115505,7 +116262,7 @@
         "can_use": [
           "Blue Tome"
         ]
-    }
+      }
     },
     "addition_date": "2022-08-31",
     "release_date": "2022-08-31",
@@ -116085,7 +116842,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2017-05-15",
     "release_date": "2017-05-15",
@@ -117156,7 +117913,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2018-09-14",
     "release_date": "2018-09-14",
@@ -117209,7 +117966,7 @@
         "can_use": [
           "All Dagger"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -117376,7 +118133,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2019-10-21",
     "release_date": "2019-10-21",
@@ -117460,7 +118217,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2022-01-28",
     "release_date": "2022-01-28",
@@ -117547,7 +118304,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2022-02-08",
     "release_date": "2022-02-08",
@@ -117575,7 +118332,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2022-02-08",
     "release_date": "2022-02-08",
@@ -117662,7 +118419,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2021-09-06",
     "release_date": "2021-09-07",
@@ -117690,7 +118447,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2021-09-06",
     "release_date": "2021-09-07",
@@ -118003,7 +118760,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -118144,7 +118901,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2020-07-06",
     "release_date": "2020-07-08",
@@ -118501,7 +119258,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2017-06-14",
     "release_date": "2017-06-14",
@@ -118770,6 +119527,7 @@
       "SID_リリスの浮き輪",
       "SID_結婚式の燭台",
       "SID_スイカ割りの棍棒",
+      "SID_忍の戦輪",
       "SID_忍の斧",
       "SID_桜と薔薇の花瓶",
       "SID_ペレジアの斧",
@@ -119385,7 +120143,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2018-10-31",
     "release_date": "2018-10-31",
@@ -119559,7 +120317,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2017-11-15",
     "release_date": "2017-11-15",
@@ -119612,7 +120370,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2020-03-05",
     "release_date": "2020-03-06",
@@ -119720,7 +120478,7 @@
         "can_use": [
           "Red Tome"
         ]
-    }
+      }
     },
     "addition_date": "2020-12-25",
     "release_date": "2020-12-25",
@@ -120192,7 +120950,7 @@
         "can_use": [
           "All Breath"
         ]
-    }
+      }
     },
     "addition_date": "2019-07-30",
     "release_date": "2019-07-31",
@@ -120368,7 +121126,7 @@
         "can_use": [
           "All Dagger"
         ]
-    }
+      }
     },
     "addition_date": "2020-06-18",
     "release_date": "2020-06-18",
@@ -120430,7 +121188,7 @@
         "can_use": [
           "All Breath"
         ]
-    }
+      }
     },
     "addition_date": "2018-07-10",
     "release_date": "2018-07-10",
@@ -120510,7 +121268,7 @@
         "can_use": [
           "All Breath"
         ]
-    }
+      }
     },
     "addition_date": "2018-04-24",
     "release_date": "2018-04-24",
@@ -120644,7 +121402,7 @@
         "can_use": [
           "Red Tome"
         ]
-    }
+      }
     },
     "addition_date": "2020-07-06",
     "release_date": "2020-07-08",
@@ -120819,7 +121577,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2024-03-15",
     "release_date": "2024-03-15",
@@ -120847,7 +121605,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2024-03-15",
     "release_date": "2024-03-15",
@@ -121258,7 +122016,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2020-10-19",
     "release_date": "2020-10-19",
@@ -121525,6 +122283,9 @@
     "sp": 300,
     "tier": 1,
     "cd": 0,
+    "eff": [
+      "all"
+    ],
     "restrictions": {
       "moves": {
         "none": true
@@ -121624,7 +122385,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2018-04-27",
     "release_date": "2018-05-01",
@@ -121654,7 +122415,36 @@
     },
     "addition_date": "2022-12-23",
     "release_date": "2022-12-23",
-    "version": "7.0"
+    "version": "7.0",
+    "upgrade_ids": [
+      "SID_連閃・承"
+    ]
+  },
+  {
+    "id": "SID_連閃・承",
+    "name": "Swift Slice II",
+    "group_name": "Swift Slice",
+    "category": "passivea",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/97/Swift_Slice_II.png/revision/latest?cb=20251105161823",
+    "is_prf": true,
+    "sp": 300,
+    "tier": 2,
+    "cd": 0,
+    "eff": [
+      "all"
+    ],
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": null
+    },
+    "addition_date": "2022-12-23",
+    "release_date": "2022-12-23",
+    "version": "7.0",
+    "downgrade_ids": [
+      "SID_連閃"
+    ]
   },
   {
     "id": "SID_鬼神飛燕の一撃1",
@@ -122412,7 +123202,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2018-09-14",
     "release_date": "2018-09-14",
@@ -122468,7 +123258,7 @@
         "can_use": [
           "All Dagger"
         ]
-    }
+      }
     },
     "addition_date": "2018-11-21",
     "release_date": "2018-11-21",
@@ -122521,7 +123311,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2021-03-04",
     "release_date": "2021-03-05",
@@ -122574,7 +123364,7 @@
         "can_use": [
           "Blue Tome"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -122627,7 +123417,7 @@
         "can_use": [
           "Green Tome"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-23",
@@ -122693,7 +123483,7 @@
         "can_use": [
           "All Beast"
         ]
-    }
+      }
     },
     "addition_date": "2019-02-20",
     "release_date": "2019-02-24",
@@ -122726,7 +123516,7 @@
         "can_use": [
           "All Beast"
         ]
-    }
+      }
     },
     "addition_date": "2019-02-20",
     "release_date": "2019-02-24",
@@ -122782,7 +123572,7 @@
         "can_use": [
           "All Dagger"
         ]
-    }
+      }
     },
     "addition_date": "2020-11-05",
     "release_date": "2020-11-06",
@@ -122836,7 +123626,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2020-09-18",
     "release_date": "2020-09-18",
@@ -122950,7 +123740,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2020-12-17",
     "release_date": "2020-12-17",
@@ -122978,7 +123768,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2020-12-17",
     "release_date": "2020-12-17",
@@ -123224,7 +124014,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2019-12-16",
     "release_date": "2019-12-16",
@@ -123631,7 +124421,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2019-04-09",
     "release_date": "2019-04-11",
@@ -123804,7 +124594,7 @@
         "can_use": [
           "Blue Tome"
         ]
-    }
+      }
     },
     "addition_date": "2018-01-12",
     "release_date": "2018-01-12",
@@ -123857,7 +124647,7 @@
         "can_use": [
           "Red Tome"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -123971,7 +124761,7 @@
         "can_use": [
           "Blue Tome"
         ]
-    }
+      }
     },
     "addition_date": "2023-08-16",
     "release_date": "2023-08-16",
@@ -124187,7 +124977,7 @@
         "can_use": [
           "All Dagger"
         ]
-    }
+      }
     },
     "addition_date": "2020-07-20",
     "release_date": "2020-07-20",
@@ -124249,7 +125039,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2018-07-31",
     "release_date": "2018-07-31",
@@ -124305,7 +125095,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2018-10-23",
     "release_date": "2018-10-23",
@@ -124359,7 +125149,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2020-02-06",
     "release_date": "2020-02-06",
@@ -124424,6 +125214,7 @@
       "SID_聖騎士の嗜み",
       "SID_気高き怪盗の予告状",
       "SID_トールハンマー",
+      "SID_魔笛ギャラルホルン",
       "SID_ニザヴェリルの箱",
       "SID_オヴスキュリテ",
       "SID_師の授けの書",
@@ -124522,7 +125313,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2020-01-08",
     "release_date": "2020-01-12",
@@ -125380,7 +126171,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2018-06-28",
     "release_date": "2018-06-28",
@@ -125487,7 +126278,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2020-10-19",
     "release_date": "2020-10-19",
@@ -125674,7 +126465,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2020-12-08",
     "release_date": "2020-12-08",
@@ -125728,7 +126519,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2020-11-17",
     "release_date": "2020-11-17",
@@ -126184,7 +126975,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2019-04-19",
     "release_date": "2019-04-19",
@@ -126212,7 +127003,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2019-04-19",
     "release_date": "2019-04-19",
@@ -126329,7 +127120,7 @@
         "can_use": [
           "Red Tome"
         ]
-    }
+      }
     },
     "addition_date": "2021-05-06",
     "release_date": "2021-05-07",
@@ -126410,7 +127201,7 @@
         "can_use": [
           "Blue Tome"
         ]
-    }
+      }
     },
     "addition_date": "2018-01-12",
     "release_date": "2018-01-14",
@@ -126463,7 +127254,7 @@
         "can_use": [
           "Red Tome"
         ]
-    }
+      }
     },
     "addition_date": "2021-01-07",
     "release_date": "2021-01-08",
@@ -126545,7 +127336,7 @@
         "can_use": [
           "Red Tome"
         ]
-    }
+      }
     },
     "addition_date": "2021-07-19",
     "release_date": "2021-07-20",
@@ -126631,7 +127422,7 @@
         "can_use": [
           "Green Tome"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -126684,7 +127475,7 @@
         "can_use": [
           "Green Tome"
         ]
-    }
+      }
     },
     "addition_date": "2019-03-07",
     "release_date": "2019-03-08",
@@ -126740,7 +127531,7 @@
         "can_use": [
           "Green Tome"
         ]
-    }
+      }
     },
     "addition_date": "2021-04-05",
     "release_date": "2021-04-06",
@@ -126796,7 +127587,7 @@
         "can_use": [
           "Blue Tome"
         ]
-    }
+      }
     },
     "addition_date": "2020-12-08",
     "release_date": "2020-12-08",
@@ -126849,7 +127640,7 @@
         "can_use": [
           "Blue Tome"
         ]
-    }
+      }
     },
     "addition_date": "2017-10-16",
     "release_date": "2017-10-16",
@@ -127367,7 +128158,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2018-07-20",
     "release_date": "2018-07-20",
@@ -127395,7 +128186,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2018-07-20",
     "release_date": "2018-07-20",
@@ -127978,7 +128769,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2020-11-05",
     "release_date": "2020-11-06",
@@ -128063,7 +128854,7 @@
         "can_use": [
           "All Beast"
         ]
-    }
+      }
     },
     "addition_date": "2021-05-06",
     "release_date": "2021-05-07",
@@ -128165,7 +128956,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-15",
     "release_date": "2017-02-15",
@@ -128855,7 +129646,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2017-08-31",
     "release_date": "2017-08-31",
@@ -128963,7 +129754,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2019-10-21",
     "release_date": "2019-10-21",
@@ -129019,7 +129810,7 @@
         "can_use": [
           "Red Tome"
         ]
-    }
+      }
     },
     "addition_date": "2017-10-16",
     "release_date": "2017-10-18",
@@ -129100,7 +129891,7 @@
         "can_use": [
           "All Breath"
         ]
-    }
+      }
     },
     "addition_date": "2023-08-16",
     "release_date": "2023-08-16",
@@ -129321,7 +130112,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2018-06-08",
     "release_date": "2018-06-08",
@@ -129404,7 +130195,7 @@
         "can_use": [
           "Green Tome"
         ]
-    }
+      }
     },
     "addition_date": "2019-03-19",
     "release_date": "2019-03-19",
@@ -129553,6 +130344,7 @@
     "release_date": "2017-02-02",
     "version": "1.0",
     "upgrade_ids": [
+      "SID_未来と過去",
       "SID_時と光",
       "SID_時は光"
     ],
@@ -129728,7 +130520,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2021-05-06",
     "release_date": "2021-05-07",
@@ -129784,7 +130576,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2019-12-05",
     "release_date": "2019-12-11",
@@ -129976,7 +130768,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -130148,7 +130940,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2019-07-21",
     "release_date": "2019-07-22",
@@ -130204,7 +130996,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2017-08-15",
     "release_date": "2017-08-15",
@@ -130263,7 +131055,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2019-12-05",
     "release_date": "2019-12-06",
@@ -130325,7 +131117,7 @@
         "can_use": [
           "Blue Tome"
         ]
-    }
+      }
     },
     "addition_date": "2019-08-28",
     "release_date": "2019-08-28",
@@ -130381,7 +131173,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2020-06-30",
     "release_date": "2020-06-30",
@@ -130486,7 +131278,7 @@
         "can_use": [
           "Red Tome"
         ]
-    }
+      }
     },
     "addition_date": "2021-08-17",
     "release_date": "2021-08-18",
@@ -130571,7 +131363,7 @@
         "can_use": [
           "Colorless Tome"
         ]
-    }
+      }
     },
     "addition_date": "2020-03-31",
     "release_date": "2020-03-31",
@@ -130630,7 +131422,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2019-09-19",
     "release_date": "2019-09-19",
@@ -130684,7 +131476,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2019-12-05",
     "release_date": "2019-12-06",
@@ -131036,7 +131828,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2019-03-07",
     "release_date": "2019-03-11",
@@ -131125,7 +131917,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2021-11-04",
     "release_date": "2021-11-30",
@@ -131568,7 +132360,7 @@
         "can_use": [
           "Blue Tome"
         ]
-    }
+      }
     },
     "addition_date": "2018-04-11",
     "release_date": "2018-04-17",
@@ -131682,7 +132474,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2018-04-24",
     "release_date": "2018-04-24",
@@ -132180,7 +132972,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -132236,7 +133028,7 @@
         "can_use": [
           "Blue Tome"
         ]
-    }
+      }
     },
     "addition_date": "2017-11-15",
     "release_date": "2017-11-15",
@@ -132289,7 +133081,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2019-11-19",
     "release_date": "2019-11-19",
@@ -132584,7 +133376,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2020-04-20",
     "release_date": "2020-04-20",
@@ -132702,7 +133494,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -132753,7 +133545,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -132812,7 +133604,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -132922,7 +133714,7 @@
         "can_use": [
           "All Dagger"
         ]
-    }
+      }
     },
     "addition_date": "2019-11-19",
     "release_date": "2019-11-19",
@@ -133270,7 +134062,7 @@
         "can_use": [
           "All Bow"
         ]
-    }
+      }
     },
     "addition_date": "2020-08-18",
     "release_date": "2020-08-18",
@@ -133382,7 +134174,7 @@
         "can_use": [
           "Green Tome"
         ]
-    }
+      }
     },
     "addition_date": "2017-04-26",
     "release_date": "2017-04-26",
@@ -133500,7 +134292,7 @@
         "can_use": [
           "Green Tome"
         ]
-    }
+      }
     },
     "addition_date": "2020-04-20",
     "release_date": "2020-04-20",
@@ -133588,7 +134380,7 @@
         "can_use": [
           "Green Tome"
         ]
-    }
+      }
     },
     "addition_date": "2020-01-08",
     "release_date": "2020-01-09",
@@ -133764,7 +134556,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -133828,7 +134620,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2022-02-25",
     "release_date": "2022-02-28",
@@ -134191,7 +134983,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2018-10-09",
     "release_date": "2018-10-10",
@@ -134219,7 +135011,7 @@
         "can_use": [
           "Colorless Staff"
         ]
-    }
+      }
     },
     "addition_date": "2018-10-09",
     "release_date": "2018-10-10",
@@ -134326,7 +135118,7 @@
         "can_use": [
           "All Breath"
         ]
-    }
+      }
     },
     "addition_date": "2019-09-19",
     "release_date": "2019-09-19",
@@ -134526,7 +135318,7 @@
         "can_use": [
           "Green Axe"
         ]
-    }
+      }
     },
     "addition_date": "2018-07-20",
     "release_date": "2018-07-29",
@@ -134584,7 +135376,7 @@
         "can_use": [
           "All Beast"
         ]
-    }
+      }
     },
     "addition_date": "2019-01-10",
     "release_date": "2019-01-11",
@@ -134644,7 +135436,7 @@
         "can_use": [
           "All Beast"
         ]
-    }
+      }
     },
     "addition_date": "2019-02-20",
     "release_date": "2019-02-20",
@@ -134704,7 +135496,7 @@
         "can_use": [
           "All Beast"
         ]
-    }
+      }
     },
     "addition_date": "2019-02-20",
     "release_date": "2019-02-20",
@@ -134927,7 +135719,7 @@
         "can_use": [
           "Blue Tome"
         ]
-    }
+      }
     },
     "addition_date": "2019-06-20",
     "release_date": "2019-06-20",
@@ -135386,7 +136178,7 @@
         "can_use": [
           "Blue Lance"
         ]
-    }
+      }
     },
     "addition_date": "2020-11-17",
     "release_date": "2020-11-18",
@@ -135566,7 +136358,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
@@ -135941,7 +136733,7 @@
         "can_use": [
           "Red Sword"
         ]
-    }
+      }
     },
     "addition_date": "2017-07-13",
     "release_date": "2017-07-13",
@@ -136003,7 +136795,7 @@
         "can_use": [
           "All Breath"
         ]
-    }
+      }
     },
     "addition_date": "2020-03-18",
     "release_date": "2020-03-18",

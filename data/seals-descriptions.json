@@ -972,6 +972,18 @@
     "description": "Grants Atk/Def/Res+3."
   },
   {
+    "id": "SID_第100迷宮の覇者1",
+    "description": "Grants Spd/Def/Res+1."
+  },
+  {
+    "id": "SID_第100迷宮の覇者2",
+    "description": "Grants Spd/Def/Res+2."
+  },
+  {
+    "id": "SID_第100迷宮の覇者3",
+    "description": "Grants Spd/Def/Res+3."
+  },
+  {
     "id": "SID_第4迷宮の覇者1",
     "description": "Grants Spd+1."
   },
@@ -1980,6 +1992,14 @@
     "description": "At start of turn, inflicts Atk/Res-5 on foe on the enemy team with the highest Atk+Res total through its next action."
   },
   {
+    "id": "SID_攻撃速さの封印1",
+    "description": "At start of turn, inflicts Atk/Spd-3 on foe on the enemy team with the highest Atk+Spd total through its next action."
+  },
+  {
+    "id": "SID_攻撃速さの封印2",
+    "description": "At start of turn, inflicts Atk/Spd-5 on foe on the enemy team with the highest Atk+Spd total through its next action."
+  },
+  {
     "id": "SID_守備の封印1",
     "description": "At start of turn, inflicts Def-3 on foe on the enemy team with the highest Def through its next action."
   },
@@ -2970,6 +2990,18 @@
   {
     "id": "SID_恐慌の奇策3",
     "description": "At start of turn, converts bonuses on foes in cardinal directions with HP < unit's HP into penalties through their next actions."
+  },
+  {
+    "id": "SID_恐慌の幻煙1",
+    "description": "If unit initiates combat, inflicts【Panic】 on target and foes within 1 space of target after combat.<br><br>【Panic】<br>Converts bonuses on unit into penalties through its next action."
+  },
+  {
+    "id": "SID_恐慌の幻煙2",
+    "description": "If unit initiates combat, inflicts【Panic】 on target and foes within 2 spaces of target after combat.<br><br>【Panic】<br>Converts bonuses on unit into penalties through its next action."
+  },
+  {
+    "id": "SID_恐慌の幻煙3",
+    "description": "Inflicts【Panic】on target and foes within 2 spaces of target after combat.<br><br>【Panic】<br>Converts bonuses on unit into penalties through its next action."
   },
   {
     "id": "SID_天馬行空1",

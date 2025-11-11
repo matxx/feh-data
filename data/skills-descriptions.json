@@ -124,6 +124,10 @@
     "description": "Enables【Canto (Rem.; Min １)】.<br><br>Inflicts Atk/Res-4 on foe during combat and unit deals +7 damage, including when dealing damage with a Special triggered before combat.<br><br>【Canto (Rem.; Min １)】<br>After an attack, Assist skill, or structure destruction, unit can move spaces = any movement not already used that turn (min. １; if unit used a movement skill that warped them, unit can move １ space(s)).<br><br>(Unit moves according to movement type. Once per turn. Cannot attack or assist. Only highest value applied. Does not stack. After moving, if a skill that grants another action would be triggered (like with Galeforce), Canto will trigger after the granted action. Unit's base movement has no effect on movement granted. Cannot warp (using skills like Wings of Mercy) a distance greater than unit would be able to move with normal Canto movement.)"
   },
   {
+    "id": "SID_攻魔鼓舞・強襲",
+    "description": "At start of turn, if unit is within 2 spaces of an ally, grants Atk/Res+6 and \"reduces the percentage of foe's non-Special 'reduce damage by X%' skills by 50% during combat (excluding area-of-effect Specials)\" to unit and allies within 2 spaces of unit for 1 turn.<br><br>Grants bonus to unit's Atk/Res during combat = 2 + number of allies on the map with the \"reduces the percentage of foe's non-Special 'reduce damage by X%' skills by 50% during combat (excluding area-of-effect Specials)\" status effect active, excluding unit (max 5)."
+  },
+  {
     "id": "SID_攻魔鼓舞・奮激",
     "description": "At start of turn, if unit is within 2 spaces of an ally, grants Atk/Res+6 and【Incited】to unit and allies within 2 spaces of unit for 1 turn.<br><br>Grants bonus to unit's Atk/Res during combat = number of allies on the map with the【Incited】 effect + 2 (excluding unit; max 5).<br><br>【Incited】<br>If unit initiates combat, grants bonus to unit's Atk/Spd/Def/Res = number of spaces from start position to end position of unit during combat (max 3; that turn only)."
   },
@@ -194,6 +198,10 @@
   {
     "id": "SID_攻速大牽制・導き手",
     "description": "Allies within 2 spaces of unit can move to any space within 2 spaces of unit.<br><br>Unit can move to a space within 2 spaces of any ally within 2 spaces.<br><br>Inflicts Atk/Spd-4 on foes within 3 spaces of unit during combat."
+  },
+  {
+    "id": "SID_攻速鼓舞・強襲",
+    "description": "At start of turn, if unit is within 2 spaces of an ally, grants Atk/Spd+6 and \"reduces the percentage of foe's non-Special 'reduce damage by X%' skills by 50% during combat (excluding area-of-effect Specials)\" to unit and allies within 2 spaces of unit for 1 turn.<br><br>Grants bonus to unit's Atk/Spd = number of allies on the map with the \"reduces the percentage of foe's non-Special 'reduce damage by X%' skills by 50% during combat (excluding area-of-effect Specials)\" status effect active + 2 during combat (excluding unit; max 5)."
   },
   {
     "id": "SID_攻速鼓舞・奮激",
@@ -336,6 +344,10 @@
     "description": "Grants Spd+3. If unit initiates combat or is within 2 spaces of an ally, grants Atk/Spd+6 to unit during combat, neutralizes effects that prevent unit's follow-up attacks, neutralizes foe's bonuses to Spd/Res (from skills like Fortify, Rally, etc.) on odd-numbered turns, and neutralizes unit's penalties to Atk/Spd on even-numbered turns."
   },
   {
+    "id": "SID_アグネアの矢_一",
+    "description": "Grants Spd+3.<br><br>If unit initiates combat or is within 2 spaces of an ally, grants Atk/Spd+6 and Def/Res+5 to unit, deals damage = 20% of unit's Spd (excluding area-of-effect Specials), neutralizes effects that guarantee foe's follow-up attacks and effects that prevent unit's follow-up attacks, and grants Special cooldown charge +1 to unit per attack (only highest value applied; does not stack), neutralizes foe's bonuses to Spd/Res (from skills like Fortify, Rally, etc.) on odd-numbered turns, and neutralizes unit's penalties to Atk/Spd on even-numbered turns during combat.<br>Enables【Canto (Rem.; Min １)】.<br><br>At start of turn and after unit acts (if Canto triggers, after Canto), inflicts Spd/Res-7, 【Sabotage】, and【Discord】on closest foes and foes within 2 spaces of those foes through their next actions.<br><br>If unit initiates combat or is within 2 spaces of an ally, grants bonus to unit's Atk/Spd/Def/Res = number of foes within 3 rows or 3 columns centered on unit × 2, + 5 (max 11), and reduces damage from foe's attacks by 7 during combat (excluding area-of-effect Specials).<br><br>【Canto (Rem.; Min １)】<br>After an attack, Assist skill, or structure destruction, unit can move spaces = any movement not already used that turn (min. １; if unit used a movement skill that warped them, unit can move １ space(s)). (Once per turn. Only highest value applied. Does not stack.)<br><br>【Sabotage】<br>Inflicts penalty on unit's Atk/Spd/Def/Res during combat = highest penalty on each stat between unit and allies within 2 spaces of unit. Calculates each stat penalty independently.<br><br>【Discord】<br>Inflicts Atk/Spd/Def/Res-X on unit during combat (X = 2 + number of allies within 2 spaces of unit; max 5)."
+  },
+  {
     "id": "SID_エイド",
     "description": "At start of turn, restores 5 HP to ally that has been dealt the most damage. (Excludes unit.)"
   },
@@ -458,6 +470,10 @@
   {
     "id": "SID_共感の花＋",
     "description": "If unit is within 2 spaces of an ally, inflicts Atk/Res-5 on foe during combat, and when unit deals damage to foe during combat, restores 4 HP to unit. (Triggers even if 0 damage is dealt.)"
+  },
+  {
+    "id": "SID_すべて読めていた",
+    "description": "Enables【Canto (Rem.; Min １)】.<br><br>At start of player phase or enemy phase, inflicts【Exposure】,【Discord】, and【Stall】 on foes with Res < unit's Res and that are within 2 spaces of another foe through their next actions.<br><br>At start of combat, if unit's HP ≥ 25%, inflicts Atk/Res-5 on foe, foe cannot make a follow-up attack, inflicts Special cooldown charge -1 on foe per attack (only highest value applied; does not stack), deals damage = 20% of unit's Res (excluding area-of-effect Specials), reduces damage from foe's attacks by 20% of unit's Res (excluding area-of-effect Specials), and grants Special cooldown count-1 to unit before unit's first attack during combat.<br><br>【Canto (Rem.; Min １)】<br>After an attack, Assist skill, or structure destruction, unit can move spaces = any movement not already used that turn (min. １; if unit used a movement skill that warped them, unit can move １ space(s)). (Once per turn. Only highest value applied. Does not stack.)<br><br>【Exposure】<br>Foe's attacks deal +10 damage.<br><br>【Discord】<br>Inflicts Atk/Spd/Def/Res-X on unit during combat (X = 2 + number of allies within 2 spaces of unit; max 5).<br><br>【Stall】<br>If unit has \"unit can move 1 extra space,\" converts that effect into \"restricts movement to 1 space.\""
   },
   {
     "id": "SID_錨の斧",
@@ -992,6 +1008,10 @@
     "description": "If unit's Res > foe's Res, unit makes a guaranteed follow-up attack. Reduces damage from attacks during combat and from area-of-effect Specials (excluding Røkkr area-of-effect Specials) by percentage = number of staff or dragon allies within 3 spaces of unit × 20, and also, if unit's Res > foe's Res, difference between stats × 4 (max 40%; total max 60%)."
   },
   {
+    "id": "SID_我が復活は成…・神",
+    "description": "At start of player phase or enemy phase, inflicts Atk/Def/Res-7,【Frozen】, and【Sabotage】 on closest foes and foes within 2 spaces of those foes through their next actions.<br><br>Inflicts Atk/Def/Res-5 on foe, inflicts Special cooldown charge -1 on foe per attack (only highest value applied; does not stack), unit makes a guaranteed follow-up attack, deals damage = 20% of unit's Res (excluding area-of-effect Specials), reduces damage from foe's attacks by 20% of unit's Res (excluding area-of-effect Specials), and grants Special cooldown count-2 to unit before foe's first attack during combat.<br><br>Reduces damage from attacks during combat and from area-of-effect Specials (excluding Røkkr area-of-effect Specials) by percentage = number of staff or dragon allies within 3 spaces of unit × 20, and also, if unit's Res > foe's Res, difference between stats × 4 (max 40%; total max 60%).<br><br>【Frozen】<br>Increases Spd difference necessary for unit to make a follow-up attack by X and decreases Spd difference necessary for foe to make a follow-up attack by X during combat (if foe's Def > unit's Def, X = 10 + difference between Def stats × 2; otherwise, X = 10).<br><br>【Sabotage】<br>Inflicts penalty on unit's Atk/Spd/Def/Res during combat = highest penalty on each stat between unit and allies within 2 spaces of unit. Calculates each stat penalty independently."
+  },
+  {
     "id": "SID_流星",
     "description": "Boosts damage dealt by 150%."
   },
@@ -1018,6 +1038,10 @@
   {
     "id": "SID_アスラの双刃",
     "description": "Grants Spd+5. Unit attacks twice (even if foe initiates combat). Neutralizes penalties on unit during combat. If unit's Spd > foe's Spd, grants Special cooldown charge +1 to unit per attack during combat. (Only highest value applied. Does not stack.)<br>Effect: 【Dagger ７】<br><br>【Dagger ７】<br>After combat, if unit attacked, inflicts Def/Res-７ on target and foes within 2 spaces of target through their next actions."
+  },
+  {
+    "id": "SID_アスラの双刃_一",
+    "description": "Grants Atk/Spd/Def/Res+5. Unit attacks twice (even if foe initiates combat).<br><br>Reduces damage from foe's attacks by 7 (excluding area-of-effect Specials) and neutralizes penalties on unit during combat. If unit's Spd > foe's Spd, grants Special cooldown charge +1 to unit per attack during combat (only highest value applied; does not stack).<br><br>Effect:【Dagger ７】<br><br>【Dagger ７】<br>After combat, if unit attacked, inflicts Def/Res-７ on target and foes within 2 spaces of target through their next actions.<br>At start of turn and after unit acts (if Canto triggers, after Canto), inflicts【Exposure】, 【Spd Shackle】, and【Def Shackle】on closest foes and foes within 2 spaces of those foes through their next actions.<br><br>If unit initiates combat or is within 2 spaces of an ally, grants bonus to unit's Atk/Spd/Def/Res = number of foes within 3 rows or 3 columns centered on unit × 2, + 5 (max 11), and unit deals +X × 5 damage (excluding area-of-effect Specials; X = number of Bonus effects active on unit, excluding stat bonuses + number of Penalty effects active on foe, excluding stat penalties; max 5).<br><br>【Exposure】<br>Foe's attacks deal +10 damage.<br><br>【Spd Shackle】<br>Inflicts penalty on unit's Spd during combat = number of Penalty effects active on unit + 4, excluding stat penalties (max 8).<br><br>【Def Shackle】<br>Inflicts penalty on unit's Def during combat = number of Penalty effects active on unit + 4, excluding stat penalties (max 8)."
   },
   {
     "id": "SID_アサメイの短剣",
@@ -1390,6 +1414,10 @@
   {
     "id": "SID_攻撃守備の野性",
     "description": "If number of adjacent allies other than beast or dragon allies ≤ 1, or if unit is transformed, grants Atk/Def+7 to unit during combat and grants Special cooldown charge +1 to unit per attack during combat (only highest value applied; does not stack), and restores 7 HP to unit after combat."
+  },
+  {
+    "id": "SID_攻撃魔防の詠唱",
+    "description": "If unit initiates combat or is within 3 spaces of an ally, grants bonus to unit's Atk/Res = unit's maximum Special cooldown count + 7 during combat, and also, when unit's Special triggers, deals damage = unit's maximum Special cooldown count × X (excluding area-of-effect Specials; if unit triggers the \"unit attacks twice\" effect, X = 3; otherwise, X = 5)."
   },
   {
     "id": "SID_攻撃魔防の絆1",
@@ -3056,6 +3084,10 @@
     "description": "Accelerates Special trigger (cooldown count-1). Effective against flying foes. At start of turn, if unit's HP = 100% and unit is within 2 spaces of an ally, deals 1 damage to unit and allies within 2 spaces of unit. At start of combat, if unit's HP ≤ 99%, grants Atk/Spd/Def/Res+5 to unit and inflicts Spd/Def-X on foe during combat (X = number of spaces from start position to end position of whoever initiates combat × 2, + 3; max 11), and also, the following effects will occur based on that number of spaces: if ≥ 1 space, reduces damage from foe's first attack during combat by 30%; if ≥ 2, also neutralizes effects that prevent unit's follow-up attacks during combat and effects that inflict \"Special cooldown charge -X\" on unit during combat."
   },
   {
+    "id": "SID_見えざる忍の暗殺弓",
+    "description": "Accelerates Special trigger (cooldown count-1).<br>Effective against flying foes. Unit attacks twice (even if foe initiates combat, unit attacks twice).<br><br>At start of turn and after unit acts (if Canto triggers, after Canto), inflicts【Discord】, 【Spd Shackle】, and【Def Shackle】on closest foes and any foes within 2 spaces of those foes through their next actions.<br><br>If unit initiates combat or unit's HP ≥ 25% at start of combat, grants bonus to unit's Atk/Spd/Def/Res = number of foes within 3 rows or 3 columns centered on unit × 3, + 5 (max 14), unit deals +X × 5 damage (excluding area-of-effect Specials), reduces damage from foe's attacks by X × 3 (excluding area-of-effect Specials; X = number of Bonus effects active on unit, excluding stat bonuses + number of Penalty effects active on foe, excluding stat penalties; max 5), and neutralizes effects that grant \"Special cooldown charge +X\" to foe or inflict \"Special cooldown charge -X\" on unit during combat.<br><br>【Discord】<br>Inflicts Atk/Spd/Def/Res-X on unit during combat (X = 2 + number of allies within 2 spaces of unit; max 5).<br><br>【Spd Shackle】<br>Inflicts penalty on unit's Spd during combat = number of Penalty effects active on unit + 4, excluding stat penalties (max 8).<br><br>【Def Shackle】<br>Inflicts penalty on unit's Def during combat = number of Penalty effects active on unit + 4, excluding stat penalties (max 8)."
+  },
+  {
     "id": "SID_双聖戦士の聖弓",
     "description": "Enables【Canto (１)】.<br><br>Accelerates Special trigger (cooldown count-1). Effective against flying foes. If unit initiates combat, or if unit's HP ≥ 75% at start of combat and foe uses magic or staff, grants Atk/Spd/Def/Res+5 to unit during combat, and also, if unit’s HP > 1 and foe would reduce unit's HP to 0, unit survives with 1 HP. (Once per combat. Does not stack.)<br><br>【Canto (１)】<br>After an attack, Assist skill, or structure destruction, unit can move １ space(s).<br><br>(Unit moves according to movement type. Once per turn. Cannot attack or assist. Only highest value applied. Does not stack. After moving, if a skill that grants another action would be triggered (like with Galeforce), Canto will trigger after the granted action. Unit's base movement has no effect on movement granted. Cannot warp (using skills like Wings of Mercy) a distance greater than unit would be able to move with normal Canto movement.)"
   },
@@ -4152,6 +4184,10 @@
     "description": "Effective against armored foes. Grants Atk+3. If it is an odd-numbered turn or foe's HP < 100% at start of combat, grants Atk/Spd/Def/Res+4 to unit during combat and reduces damage from foe's first attack by X%. (If foe can make a follow-up attack, X = 60; otherwise, X = 30.)<br>At start of combat, if unit's HP ≥ 25%, grants Atk/Spd/Def/Res+4 to unit during combat, inflicts penalty on foe's Atk/Def during combat = 10% of unit's Atk at start of combat, and restores 7 HP to unit after combat."
   },
   {
+    "id": "SID_魔の蛇毒・呼吸",
+    "description": "If unit initiates combat, deals 7 damage to foe as combat begins (effects that reduce damage \"during combat\" do not apply; will not reduce foe's HP below 1), and foe cannot recover HP during or after combat.<br><br>If unit initiates combat, inflicts Spd/Res-4 on foe, deals damage = 20% of the greater of foe's Spd or Res (excluding area-of-effect Specials), reduces damage from foe's first attack by 7 (\"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes), and grants Special cooldown charge +1 to unit per attack during combat (only highest value applied; does not stack)."
+  },
+  {
     "id": "SID_人と神が繋がる世界",
     "description": "If unit can transform, transformation effects gain \"if unit is within 2 spaces of any allies from a different title than unit\" as a trigger condition (in addition to existing conditions).<br><br>If defending in Aether Raids, at the start of enemy turn 1, if conditions for transforming are met, unit transforms.<br><br>At start of turn, and at start of enemy phase (except for in Summoner Duels), if unit is within 3 spaces of any allies from a different title than unit, grants Atk/Def+6,【Resonance: Blades】, 【Resonance: Shields】, and \"reduces the percentage of foe's non-Special 'reduce damage by X%' skills by 50% during combat (excluding area-of-effect Specials)\" to unit and allies within 3 spaces of unit for 1 turn, and also, for unit and allies within 3 spaces of unit, if Special cooldown count is at its maximum value, grants Special cooldown count-1.<br><br>If unit is within 3 spaces of an ally, grants Atk/Def/Res+5 to unit and reduces damage from foe's attacks by 40% during combat (excluding area-of-effect Specials), and also, if unit's Special cooldown count is at its maximum value after combat, grants Special cooldown count-1 to unit after combat.<br><br>For allies within 3 spaces of unit, if Special cooldown count is at its maximum value after combat, grants Special cooldown count-1.<br><br>【Resonance: Blades】<br>Grants Atk/Spd+4 during combat for 1 turn.<br><br>【Resonance: Shields】<br>Grants Def/Res+4 during combat and the following effect for 1 turn: \"During unit's first combat in player phase or enemy phase, foe cannot make a follow-up attack.\""
   },
@@ -4278,6 +4314,10 @@
   {
     "id": "SID_柔なる戦猫の爪牙_一",
     "description": "Grants Def+3. If unit initiates combat or is within 3 spaces of an ally, grants Atk/Spd/Def/Res+4 to unit during combat. Grants Atk/Def+4 to allies within 3 spaces during combat.<br><br>At start of turn, if unit is adjacent to only beast or dragon allies or if unit is not adjacent to any ally, unit transforms (otherwise, unit reverts). If unit transforms, grants Atk+2, and if unit initiates combat, inflicts Atk/Def-4 on foe during combat and foe cannot make a follow-up attack.<br>At start of combat, if unit's HP ≥ 25%, grants Atk/Spd/Def/Res+4 to unit during combat, neutralizes effects that prevent unit's follow-up attacks, and deals damage = number of allies within 3 spaces × 5. (Excluding area-of-effect Specials; max 15.)"
+  },
+  {
+    "id": "SID_傭兵忍の双刃",
+    "description": "Accelerates Special trigger (cooldown count-1).<br>If unit initiates combat, unit attacks twice.<br><br>At start of turn and after unit acts (if Canto triggers, after Canto), inflicts Spd/Def-7, 【Sabotage】, and【Exposure】on closest foes and any foes within 2 spaces of those foes through their next actions.<br><br>If unit initiates combat or is within 2 spaces of an ally, grants bonus to unit's Atk/Spd/Def/Res = number of foes within 3 rows or 3 columns centered on unit × 3, + 5 (max 14), neutralizes foe's bonuses, unit deals +X × 5 damage (excluding area-of-effect Specials), and reduces damage from foe's attacks by X × 3 during combat (excluding area-of-effect Specials; X = number of Bonus effects active on unit, excluding stat bonuses + number of Penalty effects active on foe, excluding stat penalties; max 5).<br><br>Effect:【Dagger ７】<br><br>【Sabotage】<br>Inflicts penalty on unit's Atk/Spd/Def/Res during combat = highest penalty on each stat between unit and allies within 2 spaces of unit. Calculates each stat penalty independently.<br><br>【Exposure】<br>Foe's attacks deal +10 damage.<br><br>【Dagger ７】<br>After combat, if unit attacked, inflicts Def/Res-７ on target and foes within 2 spaces of target through their next actions."
   },
   {
     "id": "SID_草原の狼の白槍",
@@ -7612,6 +7652,10 @@
     "description": "Grants Atk/Spd/Def/Res+4. After combat, deals 8 damage to unit."
   },
   {
+    "id": "SID_未来と過去",
+    "description": "Boosts damage by 80% of unit's Spd when Special triggers.<br><br>Neutralizes effects that inflict \"Special cooldown charge -X\" on unit during combat.<br><br>If unit initiates combat, reduces damage from foe's attacks by X% (excluding area-of-effect Specials; X = 40 + number of allies on the map with the【Time's Gate】effect active, including unit × 5; max 60%).<br><br>If unit initiates combat, after combat, if unit's Special triggered and unit survives, grants another action to unit and inflicts \"restricts movement to 1 space\" on unit and Pair Up cohort through their next action (once per turn). (This effect has priority over other similar effects; in such cases, these other similar effects are treated as not having triggered.)<br><br>【Time's Gate】<br>Allies within 4 spaces of unit can move to a space adjacent to unit (that turn only)."
+  },
+  {
     "id": "SID_未来を叶える瞳",
     "description": "Unit and target ally swap spaces. Grants 【Future Witness】and【Null Follow-Up】to allies within 2 spaces of both unit and target after movement for 1 turn (including unit and target), grants Special cooldown-1 to unit and those allies, and grants another action to unit (once per turn).<br><br>【Future Witness】<br>Enables【Canto (２)】.<br><br>Grants Atk/Spd/Def/Res+5 to unit and reduces damage from foe's first attack by 7 during combat (\"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes), and also, if unit initiates combat and foe's attack can trigger foe's Special, inflicts Special cooldown count+1 on foe before foe's first attack during combat (cannot exceed the foe's maximum Special cooldown).<br><br>【Null Follow-Up】<br>If unit's Spd > foe's Spd during combat, neutralizes effects that guarantee foe's follow-up attacks and effects that prevent unit's follow-up attacks for 1 turn.<br><br>【Canto (２)】<br>After an attack, Assist skill, or structure destruction, unit can move ２ space(s).<br><br>(Unit moves according to movement type. Once per turn. Cannot attack or assist. Only highest value applied. Does not stack. After moving, if a skill that grants another action would be triggered (like with Galeforce), Canto will trigger after the granted action. Unit's base movement has no effect on movement granted. Cannot warp (using skills like Wings of Mercy) a distance greater than unit would be able to move with normal Canto movement.)"
   },
@@ -7950,6 +7994,14 @@
   {
     "id": "SID_ギョッル_一",
     "description": "Grants Atk+3. If 【Penalty】 is active on foe, unit makes a guaranteed follow-up attack and foe cannot make a follow-up attack. At start of combat, if unit's HP ≥ 25% or if 【Penalty】 is active on foe, inflicts Atk/Def-5 on foe during combat.<br><br>【Penalty】<br>All effects that last \"on foe through its next action.\" Includes penalties inflicted by a skill like Panic or Threaten and negative status effects (preventing counterattacks, restricting movement, or the effects of a skill like Triangle Adept or Guard).<br>If unit initiates combat or is within 2 spaces of an ally, inflicts Atk/Def-5 on foe during combat and inflicts penalty on foe's Atk/Def during combat = current bonus on each of foe's stats × 2. (Example: if foe has +7 bonus to Atk, inflicts Atk-14 and Atk-5, for a net penalty of Atk-12.) Calculates each stat penalty independently."
+  },
+  {
+    "id": "SID_氷雪の大斧",
+    "description": "Accelerates Special trigger (cooldown count-1). Unit attacks twice (even if foe initiates combat, unit attacks twice).<br><br>For foes within 3 rows or 3 columns centered on unit, inflicts Atk/Spd/Def/Res-5, neutralizes foe's bonuses, and reduces the percentage of foe's non-Special \"reduce damage by X%\" skills by 50% during combat (excluding area-of-effect Specials).<br><br>At start of combat, if unit's HP ≥ 25%, grants bonus to unit's Atk/Spd/Def/Res = number of foes within 3 rows or 3 columns centered on unit × 3 (max 9), unit deals +X × 5 damage (excluding area-of-effect Specials), reduces damage from foe's attacks by X × 3 (excluding area-of-effect Specials; X = number of Bonus effects active on unit, excluding stat bonuses + number of Penalty effects active on foe, excluding stat penalties; max 5), foe cannot make a follow-up attack, and restores 7 HP to unit when unit deals damage to foe during combat."
+  },
+  {
+    "id": "SID_真氷王の封印",
+    "description": "Enables【Canto (Rem. +1; Min ２)】.<br><br>At start of player phase or enemy phase, if unit's HP ≥ 25%, inflicts Atk/Def-7,【Frozen】, and【Def Shackle】on closest foes and foes within 2 spaces of those foes through their next actions.<br><br>At start of enemy phase (except for in Pawns of Loki), if unit's HP ≥ 25% after start-of-turn healing and damage effects are applied and there is no【Divine Vein (Ice)】currently applied by unit or allies, applies【Divine Vein (Ice)】 to spaces 2 spaces away from the nearest foe with the lowest Def for 1 turn (excludes spaces occupied by a foe, destructible terrain, other than Divine Vein, and warp spaces in Rival Domains).<br><br>At start of combat, if unit's HP ≥ 25%, inflicts Atk/Spd/Def-5 on foe, unit makes a guaranteed follow-up attack, deals damage = 20% of unit's Def (excluding area-of-effect Specials), and reduces damage from foe's attacks by 20% of unit's Def during combat (excluding area-of-effect Specials).<br><br>【Canto (Rem. +1; Min ２)】<br>After an attack, Assist skill, or structure destruction, unit can move spaces = any movement not already used that turn +1 (min ２; if unit used a movement skill that warped them, unit can move ２ space(s)). (Once per turn. Only highest value applied. Does not stack.)<br><br>【Frozen】<br>Increases Spd difference necessary for unit to make a follow-up attack by X and decreases Spd difference necessary for foe to make a follow-up attack by X during combat (if foe's Def > unit's Def, X = 10 + difference between Def stats × 2; otherwise, X = 10).<br><br>【Def Shackle】<br>Inflicts penalty on unit's Def during combat = number of Penalty effects active on unit + 4, excluding stat penalties (max 8).<br><br>【Divine Vein (Ice)】<br>Applies the following status on space: Foes treat space as impassable terrain while status is active, but status is destructible (with 1 HP). Allies can move into and occupy space. If any allies occupy spaces with Divine Vein (Ice) applied, attacks targeting those spaces will hit the ally over destroying the Divine Vein (Ice). (Does not trigger in Pawns of Loki.)"
   },
   {
     "id": "SID_氷華",
@@ -8958,6 +9010,10 @@
   {
     "id": "SID_聖槍グラディウス",
     "description": "Unit can counterattack regardless of foe's range. At start of combat, if unit's HP ≥ 25%, unit makes a guaranteed follow-up attack."
+  },
+  {
+    "id": "SID_聖槍グラディウス_一",
+    "description": "Enables【Canto (Rem. +1; Min ２)】.<br>Unit can counterattack regardless of foe's range.<br><br>At start of combat, if unit's HP ≥ 25% or unit is within 3 spaces of an ally, inflicts Atk/Def-6 on foe, reduces damage from foe's attacks by 20% of unit's Def (excluding area-of-effect Specials), and unit makes a guaranteed follow-up attack during combat.<br><br>Unit can use the following【Style】:<br>――――― Range: 2 Style ―――――<br>Unit can attack foes 2 spaces away (unit cannot attack adjacent foes).<br><br>Cannot move through spaces within 2 spaces of foe that has triggered the Bulwark effect (does not apply if unit has a Pass skill). Unit suffers a counterattack if any of the following conditions are met: foe is armored with Range = 1, foe can counterattack regardless of unit's range, or foe's Range is the same as the distance between unit and foe.<br>After-combat movement effects do not occur.<br>Skill effect's Range is treated as 1. This Style can be used only once per turn.<br>――――――――――――――――――――<br><br>【Canto (Rem. +1; Min ２)】<br>After an attack, Assist skill, or structure destruction, unit can move spaces = any movement not already used that turn +1 (min ２; if unit used a movement skill that warped them, unit can move ２ space(s)). (Once per turn. Only highest value applied. Does not stack.)<br><br>【Style】<br>Change Style using the Style button at the bottom of the screen.<br><br>A unit's Style is only active when that unit is taking an action. Style use is disabled when unit is deployed using Pair Up or when unit is equipped with multiple skills that have a Style.<br>At start of player phase or enemy phase, if unit is within 2 spaces of an ally, grants Atk/Def+6,【Treachery】, and \"neutralizes penalties on unit during combat\" to unit and allies within 2 spaces of unit for 1 turn.<br><br>At start of combat, if unit's HP ≥ 25% or unit is within 3 spaces of an ally, inflicts penalty on foe's Atk/Def = 10% of unit's Def at start of combat, + 6, and deals damage = 20% of unit's Def during combat (excluding area-of-effect Specials).<br><br>【Treachery】<br>Unit deals additional damage = total bonuses on unit."
   },
   {
     "id": "SID_地上の最後の女神",
@@ -10456,6 +10512,10 @@
     "description": "Enables【Canto (２)】.<br><br>When Canto triggers, enables unit to use 【Distant Swap】on ally (this effect is not treated as an Assist skill; if similar effects are active, this effect does not trigger).<br><br>If unit initiates combat or is within 2 spaces of an ally, grants Atk/Spd+4 to unit and neutralizes unit's penalties to Atk/Spd during combat.<br><br>【Canto (２)】<br>After an attack, Assist skill, or structure destruction, unit can move ２ space(s).<br><br>(Unit moves according to movement type. Once per turn. Cannot attack or assist. Only highest value applied. Does not stack. After moving, if a skill that grants another action would be triggered (like with Galeforce), Canto will trigger after the granted action. Unit's base movement has no effect on movement granted. Cannot warp (using skills like Wings of Mercy) a distance greater than unit would be able to move with normal Canto movement.)<br><br>【Distant Swap】<br>Range = 2. Unit and target ally swap spaces."
   },
   {
+    "id": "SID_露払い・暗煙",
+    "description": "Enables【Canto (２)】.<br><br>When Canto triggers, enables unit to use 【Distant Swap】on ally (this effect is not treated as an Assist skill; if similar effects are active, this effect does not trigger).<br><br>If unit initiates combat or is within 2 spaces of an ally, grants Atk/Spd+4 to unit and reduces damage from foe's first attack by 7 during combat (\"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes).<br><br>If unit initiates combat and foe's attack can trigger foe's Special, inflicts Special cooldown count+1 on foe before foe's first attack during combat (cannot exceed foe's maximum Special cooldown).<br><br>【Canto (２)】<br>After an attack, Assist skill, or structure destruction, unit can move ２ space(s).<br><br>(Unit moves according to movement type. Once per turn. Cannot attack or assist. Only highest value applied. Does not stack. After moving, if a skill that grants another action would be triggered (like with Galeforce), Canto will trigger after the granted action. Unit's base movement has no effect on movement granted. Cannot warp (using skills like Wings of Mercy) a distance greater than unit would be able to move with normal Canto movement.)<br><br>【Distant Swap】<br>Range = 2. Unit and target ally swap spaces."
+  },
+  {
     "id": "SID_ロプトウス",
     "description": "Grants Res+3. Skills with \"effective against dragons\" are effective against unit.<br>If foe has no skills with \"effective against dragons,\" inflicts Atk-6 on foe during combat."
   },
@@ -10526,6 +10586,10 @@
   {
     "id": "SID_護国の堅斧",
     "description": "Accelerates Special trigger (cooldown count-1). If foe initiates combat or if foe's HP ≥ 75% at start of combat, inflicts Atk/Def-6 on foe during combat, and also, if foe can make a follow-up attack, reduces damage from foe's first attack by 75%."
+  },
+  {
+    "id": "SID_護国の堅斧_一",
+    "description": "Accelerates Special trigger (cooldown count-1).<br><br>After unit acts (if Canto triggers, after Canto) or, if defending in Aether Raids, at the start of enemy phase, applies【Divine Vein (Stone)】 to unit's space and spaces within 2 spaces of unit for 1 turn.<br><br>If foe initiates combat or foe's HP ≥ 75% at start of combat, inflicts penalty on foe's Akt/Def = 10% of unit's Def at start of combat + 6 and deals damage = 20% of unit's Def during combat (excluding area-of-effect Specials), and also, if foe can perform a follow-up attack, reduces damage from foe's first attack by 75% (\"first attack\"  normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes).<br><br>【Divine Vein (Stone)】<br>Applies the following effects on space for unit and allies: Grants Def/Res+6 during combat, reduces damage from foe's Specials by 10 during combat (excluding area-of-effect Specials), and reduces damage from area-of-effect Specials by 50% (excluding Røkkr area-of-effect Specials).<br>For allies within 3 rows or 3 columns centered on unit, grants Atk/Def/Res+5, reduces damage from foe's attacks by 7 (excluding area-of-effect Specials), and grants Special cooldown count-1 to ally before ally's first attack during combat.<br><br>If foe initiates combat or foe's HP ≥ 75% at start of combat, inflicts Atk/Def-6 on foe, reduces damage from foe's attacks by 20% of unit's Def (excluding area-of-effect Specials), reduces damage from foe's Specials by an additional 20% of unit's Def (excluding area-of-effect Specials), grants Special cooldown count-1 to unit before unit's first attack, and any \"reduces damage by X%\" effect that can be triggered only once per combat by unit's equipped Special skill can be triggered up to twice per combat during combat (excludes boosted Special effects from engaging; only highest value applied; does not stack)."
   },
   {
     "id": "SID_忠誠の槍",
@@ -11172,6 +11236,10 @@
     "description": "Inflicts Atk-5 on foe during combat. Disables foe's skills that \"calculate damage using the lower of foe's Def or Res\" and \"calculate damage from staff like other weapons.\" If foe uses staff, neutralizes effects that prevent unit's counterattacks during combat. Restores 10 HP to unit after combat."
   },
   {
+    "id": "SID_魔笛ギャラルホルン",
+    "description": "Accelerates Special trigger (cooldown count-1).<br><br>At start of turn, grants Special cooldown count-1 to unit.<br><br>If defending in Aether Raids, at the start of enemy phase, grants【Foresight Snare】 to allies closest to the bottom of the map within 3 columns centered on unit for 1 turn.<br><br>If not defending in Aether Raids, at the start of enemy phase, if there is only one ally (excluding unit) with the highest Def among allies closest to foe, grants【Foresight Snare】 to that ally for 1 turn.<br><br>For foes within 3 rows or 3 columns centered on unit, inflicts Atk/Def/Res-5 and neutralizes foe's bonuses to Atk/Def/Res during combat.<br><br>At start of combat, if unit's HP ≥ 25%, inflicts penalty on foe's Atk/Res = 20% of unit's Res at start of combat, unit deals +X damage (excluding area-of-effect Specials), and reduces damage from foe's attacks by X during combat (excluding area-of-effect Specials; X = number of allies within 3 rows or 3 columns centered on unit × 5; max 15), and restores 7 HP to unit after combat.<br><br>【Foresight Snare】<br>If foe initiates combat and there were no combat instances on the current turn yet (player phase and enemy phase are counted separately), triggers the following effects:<br>- Cancels foe's attack, completing their action.<br>- Inflicts【Isolation】and status preventing counterattacks on foe through foe's next action.<br>- Cancels Foresight Snare granted to your army.<br><br>(These effect trigger after Aether Raids traps but before Savior; does not trigger in Pawns of Loki).<br><br>【Isolation】<br>Target cannot use or be the target of Assist skills through its next action. (Target can neither use nor be the target of skills like Dance and Sing, skills that neutralize penalties, like Restore and Harsh Command+, etc.)"
+  },
+  {
     "id": "SID_戦神の天杖",
     "description": "Grants Atk+3. Calculates damage from staff like other weapons. At start of turn, if unit is within 2 spaces of an ally, grants Def/Res+6 and \"foe cannot make a follow-up attack\" to unit and allies within 2 spaces of unit for 1 turn. If unit is within 3 spaces of an ally, grants Atk/Res+6 to unit and unit makes a guaranteed follow-up attack during combat."
   },
@@ -11388,6 +11456,14 @@
     "description": "Effective against dragon and beast foes. Grants Spd+3. If unit initiates combat or is within 2 spaces of an ally, grants Atk/Spd/Def/Res+5 to unit and neutralizes effects that prevent unit's follow-up attacks during combat.<br>If unit initiates combat or is within 2 spaces of an ally, grants Atk/Spd/Def/Res+5 to unit during combat, and also, if unit's Spd > foe's Spd, reduces damage from attacks during combat and from area-of-effect Specials (excluding Røkkr area-of-effect Specials) by percentage = difference between stats × 4 (max 40%)."
   },
   {
+    "id": "SID_忍の戦輪",
+    "description": "Unit attacks twice (even if foe initiates combat, unit attacks twice).<br><br>At start of combat, if unit's HP ≥ 25%, grants Atk/Spd/Def/Res+5 to unit, unit deals +15 damage (excluding area-of-effect Specials), and reduces damage from foe's attacks by 10 during combat (excluding area-of-effect Specials), and also, when unit deals damage to foe during combat, restores 7 HP to unit."
+  },
+  {
+    "id": "SID_忍の戦輪＋",
+    "description": "Unit attacks twice (even if foe initiates combat, unit attacks twice).<br><br>At start of combat, if unit's HP ≥ 25%, grants Atk/Spd/Def/Res+5 to unit, unit deals +15 damage (excluding area-of-effect Specials), and reduces damage from foe's attacks by 10 during combat (excluding area-of-effect Specials), and also, when unit deals damage to foe during combat, restores 7 HP to unit."
+  },
+  {
     "id": "SID_忍の刀",
     "description": "Grants Spd+4. Inflicts Def/Res-4. If unit initiates combat, unit attacks twice."
   },
@@ -11426,6 +11502,10 @@
   {
     "id": "SID_忍の和弓＋",
     "description": "Effective against flying foes. Inflicts Def/Res-4. If unit initiates combat, unit attacks twice, and also, if unit's Spd > foe's Spd, deals damage = 50% of difference between stats. (Maximum bonus of +4 damage.)"
+  },
+  {
+    "id": "SID_忍びの技術",
+    "description": "Unit can move through foes' spaces.<br><br>Grants weapon-triangle advantage against colorless foes and inflicts weapon-triangle disadvantage on colorless foes during combat.<br><br>At start of player phase or enemy phase, if unit's HP ≥ 25%, grants \"Special cooldown charge +1 per attack during combat (only highest value applied; does not stack)\" and【Dodge】to unit and allies within 2 spaces of unit for 1 turn.<br><br>If any space within 2 spaces of unit meets any of the following conditions, unit can move to that space or any space within 2 spaces of that space:<br>- There is an ally.<br>- There is a Divine Vein effect applied.<br>- It is defensive terrain.<br>- It counts as difficult terrain, excluding impassable terrain.<br><br>If unit initiates combat or unit's HP ≥ 25% at start of combat, grants Atk/Spd/Def/Res+9 to unit, unit deals +X damage (if there is a space within 2 spaces of unit that meet any of the above conditions, X = 15; otherwise, X = 7; excluding area-of-effect Specials), reduces damage from foe's attacks by X (excluding area-of-effect Specials), and reduces the percentage of foe's non-Special \"reduce damage by X%\" skills by 50% during combat (excluding area-of-effect Specials).<br><br>【Dodge】<br>If unit's Spd > foe's Spd, reduces damage from attacks during combat and from area-of-effect Specials (excluding Røkkr area-of-effect Specials) by percentage = difference between stats × 4 (max 40%)."
   },
   {
     "id": "SID_双風忍法帳",
@@ -11941,11 +12021,11 @@
   },
   {
     "id": "SID_恐慌の幻煙1",
-    "description": "If unit initiates combat, inflicts【Panic】on target and foes within 1 space of target after combat.<br><br>【Panic】<br>Converts bonuses on unit into penalties through its next action."
+    "description": "If unit initiates combat, inflicts【Panic】 on target and foes within 1 space of target after combat.<br><br>【Panic】<br>Converts bonuses on unit into penalties through its next action."
   },
   {
     "id": "SID_恐慌の幻煙2",
-    "description": "If unit initiates combat, inflicts【Panic】on target and foes within 2 spaces of target after combat.<br><br>【Panic】<br>Converts bonuses on unit into penalties through its next action."
+    "description": "If unit initiates combat, inflicts【Panic】 on target and foes within 2 spaces of target after combat.<br><br>【Panic】<br>Converts bonuses on unit into penalties through its next action."
   },
   {
     "id": "SID_恐慌の幻煙3",
@@ -11953,7 +12033,7 @@
   },
   {
     "id": "SID_恐慌の幻煙4",
-    "description": "After combat, inflicts Atk/Spd/Def/Res-3 and【Panic】on target and foes within 2 spaces of target through their next actions, and grants【Foe Penalty Doubler】to unit and allies in cardinal directions.<br><br>【Panic】<br>Converts bonuses on unit into penalties through its next action.<br><br>【Foe Penalty Doubler】<br>Inflicts penalty on unit's Atk/Spd/Def/Res during combat = any current penalty on each of those stats for 1 turn.<br>Calculates each stat penalty independently."
+    "description": "After combat, inflicts Atk/Spd/Def/Res-3 and【Panic】on target and foes within 2 spaces of target through their next actions, and grants【Foe Penalty Doubler】to unit and allies in cardinal directions.<br><br>【Panic】<br>Converts bonuses on unit into penalties through its next action.<br><br>【Foe Penalty Doubler】<br>Inflicts penalty on unit's Atk/Spd/Def/Res during combat = any current penalty on each of those stats for 1 turn. Calculates each stat penalty independently."
   },
   {
     "id": "SID_パニック＋",
@@ -12282,6 +12362,10 @@
   {
     "id": "SID_賀正の銀虎の爪牙",
     "description": "Grants Def+3. At start of combat, if foe's HP ≥ 75%, grants Atk/Def+6 to unit during combat, and also, if unit's Def > foe's Def, grants Special cooldown charge +1 per foe's attack (only highest value applied; does not stack) and deals +5 damage per unit's attack, including when dealing damage with a Special triggered before combat.<br><br>At start of turn, if unit is adjacent to only beast or dragon allies or if unit is not adjacent to any ally, unit transforms (otherwise, unit reverts). If unit transforms, grants Atk+2, deals +7 damage when Special triggers, and neutralizes effects that grant \"Special cooldown charge +X\" to foe or inflict \"Special cooldown charge -X\" on unit during combat."
+  },
+  {
+    "id": "SID_賀正の銀虎の爪牙_一",
+    "description": "Grants Def+3.<br><br>If foe initiates combat or foe's HP ≥ 75% at start of combat, grants Atk/Def+6 and Spd/Res+5 to unit, deals damage = 20% of unit's Def (including area-of-effect Specials), grants Special cooldown charge +1 to unit per attack (only highest value applied; does not stack), and inflicts Special cooldown charge -1 on foe per attack during combat (only highest value applied; does not stack).<br><br>At start of turn, if unit is adjacent to only beast or dragon allies or if unit is not adjacent to any ally, unit transforms (otherwise, unit reverts). If unit transforms, grants Atk+2, deals +7 damage when Special triggers, and neutralizes effects that grant \"Special cooldown charge +X\" to foe or inflict \"Special cooldown charge -X\" on unit.<br>For foes within 3 rows or 3 columns centered on unit, inflicts Atk/Spd/Def/Res-5 on foe, neutralizes foe's bonuses, and foe suffers guaranteed follow-up attacks during combat.<br><br>If foe initiates combat or foe's HP ≥ 75% at start of combat, reduces damage from foe's attacks by 20% of unit's Def during combat (excluding area-of-effect Specials), and restores 7 HP to unit after combat."
   },
   {
     "id": "SID_神速1",
@@ -12866,6 +12950,10 @@
   {
     "id": "SID_ランドグリーズ_一",
     "description": "Effective against flying and armored foes. Grants Atk+3. At start of combat, if foe's HP ≥ 75%, inflicts Atk/Def-6 on foe and neutralizes unit's penalties during combat.<br>If unit initiates combat or is within 2 spaces of an ally, grants Atk/Spd/Def/Res+X to unit during combat (X = number of【Bonus】 and【Penalty】effects active on unit × 2, + 4; excludes stat bonuses and stat penalties), and also, if【Bonus】is active on unit, unit makes a guaranteed follow-up attack and reduces damage from foe's first attack by 30% during combat.<br><br>【Bonus】<br>All effects that last \"for 1 turn\" or \"that turn only.\" Includes bonuses granted by a skill like Rally or Hone and positive status effects (extra movement or effects like Dominance).<br><br>【Penalty】<br>All effects that last \"on foe through its next action.\" Includes penalties inflicted by a skill like Panic or Threaten and negative status effects (preventing counterattacks, restricting movement, or the effects of a skill like Triangle Adept or Guard)."
+  },
+  {
+    "id": "SID_正真連閃",
+    "description": "At start of player phase or enemy phase, if unit is within 2 spaces of an ally, grants \"reduces the percentage of foe's non-Special 'reduce damage by X%' skills by 50% during combat (excluding area- of-effect Specials)\" and【Hexblade】to unit and allies within 2 spaces of unit for 1 turn.<br><br>If unit initiates combat or is within 2 spaces of an ally, grants Atk/Spd/Def/Res+9 to unit, reduces damage from foe's attacks by 40% (excluding area-of-effect Specials), reduces damage from foe's attacks by an additional 7 (excluding area-of-effect Specials), and neutralizes effects that guarantee foe's follow-up attacks and effects that prevent unit's follow-up attacks during combat.<br><br>If unit initiates combat against a non-dragon or non-beast infantry foe and unit's Spd ≥ foe's Spd+20, grants \"effective against all weapon types\" to unit during combat. Otherwise, if unit initiates combat and unit's Spd ≥ foe's Spd+5, grants \"effective against all weapon types\" to unit during combat.<br><br>【Hexblade】<br>Calculates damage using the lower of foe's Def or Res during combat for 1 turn (including damage dealt by Specials before combat)."
   },
   {
     "id": "SID_涙目の速射弓",
@@ -13780,6 +13868,10 @@
     "description": "Allies within 2 spaces of unit can move to any space within 2 spaces of unit.<br><br>Unit can move to a space within 2 spaces of any ally within 2 spaces.<br><br>Inflicts Spd/Def-4 on foes within 3 spaces of unit during combat."
   },
   {
+    "id": "SID_秘奥・速守凪",
+    "description": "Inflicts Spd/Def-4 on foe, inflicts additional penalty on foe's Spd/Def = number of【Bonus】 effects on foe, excluding stat bonuses (max 4), neutralizes foe's bonuses to Spd/Def, and reduces damage from foe's attacks by 7 during combat (excluding area-of-effect Specials), and also, if unit's Special is ready or triggered before or during this combat, deals +15 damage during combat (except when dealing damage with area-of-effect Specials), and when unit deals damage to foe during combat, restores 7 HP to unit.<br><br>【Bonus】<br>All effects that last \"for 1 turn\" or \"that turn only.\" Includes bonuses granted by a skill like Rally or Hone and positive status effects (extra movement or effects like Dominance)."
+  },
+  {
     "id": "SID_速さ守備の近影1",
     "description": "Enables【Canto (Rem. +1)】.<br><br>Inflicts Spd/Def-1 on foe during combat.<br><br>【Canto (Rem. +1)】<br>After an attack, Assist skill, or structure destruction, unit can move again.<br><br>The distance of the movement is the remaining movement the unit had before the actions listed above+1 (If unit used a movement skill that warps them, the remainder is 0).<br><br>(Unit moves according to movement type. Once per turn. Cannot attack or assist. Only highest value applied. Does not stack. After moving, if a skill that grants another action would be triggered (like with Galeforce), Canto will trigger after the granted action. Unit's base movement has no effect on movement granted. Cannot warp (using skills like Wings of Mercy) a distance greater than unit would be able to move with normal Canto movement.)"
   },
@@ -14136,6 +14228,10 @@
     "description": "Accelerates Special trigger (cooldown count-1).<br>Unit attacks twice (even if foe initiates combat, unit attacks twice).<br><br>Unit can move to any space within 2 spaces of an ally within 2 spaces of unit.<br><br>At start of enemy phase, restores 10 HP to unit and allies within 3 spaces of unit.<br><br>After start-of-turn effects trigger on enemy phase, for unit and allies within 3 spaces of unit, neutralizes stat penalties and two【Penalty】 effects (does not apply to Penalty effects that are applied at the same time; neutralizes the first applicable Penalty effects on unit's list of active effects).<br><br>Grants Spd/Res+4 to allies within 3 spaces of unit during their combat and restores 10 HP to those allies after their combat.<br><br>If unit initiates combat or is within 3 spaces of an ally, grants bonus to unit's Atk/Spd/Def/Res = 15% of unit's Spd at start of combat + 5, deals damage = 6 × number of allies with HP ≥ 50% during combat (max 18; excluding area-of-effect Specials), and restores 10 HP to unit after combat.<br><br>【Penalty】<br>All effects that last \"on foe through its next action.\" Includes penalties inflicted by a skill like Panic or Threaten and negative status effects (preventing counterattacks, restricting movement, or the effects of a skill like Triangle Adept or Guard)."
   },
   {
+    "id": "SID_未来と過去の忍法帖",
+    "description": "Accelerates Special trigger (cooldown count-1). If unit initiates combat, unit attacks twice.<br><br>If unit entered combat on the current turn, unit can move through foes' spaces.<br><br>At start of turn, grants【Time's Gate】, 【Preempt Pulse】,and【Anathema】to unit and allies within 2 spaces of unit for 1 turn.<br><br>If unit initiates combat or if foe's HP ≥ 75% at start of combat, grants bonus to unit's Atk/Spd/Def/Res = number of allies on the map with the【Time's Gate】effect active, including unit × 3, + 5 (max 14), unit deals +X × 5 damage (excluding area-of-effect Specials), and reduces damage from foe's attacks by X × 3 during combat (excluding area-of-effect Specials; X = number of Bonus effects active on unit, excluding stat bonuses + number of Penalty effects active on foe, excluding stat penalties; max 5).<br><br>If unit initiates combat, grants another action to unit after combat, and inflicts \"restricts movement to 1 space\" on unit and Pair Up cohort through their next action (will not trigger again for 2 turns after triggering).<br><br>【Time's Gate】<br>Allies within 4 spaces of unit can move to a space adjacent to unit (that turn only).<br><br>【Preempt Pulse】<br>Grants Special cooldown count-1 to unit before unit's first attack during combat.<br><br>【Anathema】<br>Inflicts Spd/Def/Res-4 on foes within 3 spaces of unit during combat."
+  },
+  {
     "id": "SID_サリエルの大鎌",
     "description": "Accelerates Special trigger (cooldown count-1). If a bonus granted by a skill like Rally or Hone and/or 1 extra space of movement granted by a skill like Armor March or Armored Boots is active on foe, grants Atk/Spd/Def/Res+4 to unit during combat and foe cannot make a follow-up attack."
   },
@@ -14436,6 +14532,10 @@
     "description": "Grants Atk+3. At start of turn, grants Atk/Res+6 and【En Garde】to unit and allies within 2 spaces of unit for 1 turn. If foe initiates combat or if foe's HP ≥ 75% at start of combat, inflicts Atk/Res-6 on foe during combat and foe cannot make a follow-up attack. If foe's Range = 2, calculates damage using the lower of foe's Def or Res.<br><br>【En Garde】<br>Neutralizes damage outside of combat (from skills like Poison Strike, structures like Bolt Tower, etc.) except damage dealt by area-of-effect Specials."
   },
   {
+    "id": "SID_暗黒地竜のブレス_一",
+    "description": "Grants Atk+3.<br><br>At start of player phase or enemy phase, grants Atk/Res+6,【En Garde】,【Fringe Bonus】, and【Bulwark】to unit and allies within 2 spaces of unit for 1 turn.<br><br>If foe initiates combat or foe's HP ≥ 75% at start of combat, inflicts Atk/Def/Res-6 to foe, foe cannot make a follow-up attack, neutralizes foe's bonuses, and unit deals +X × 5 damage during combat (excluding area-of-effect; Specials; X = number of Bonus effects active on unit, excluding stat bonuses + number of Penalty effects active on foe, excluding stat penalties; max 5). If foe's Range = 2, calculates damage using the lower of foe's Def or Res.<br><br>【En Garde】<br>Neutralizes damage outside of combat (from skills like Poison Strike, structures like Bolt Tower, etc.) (excluding area-of-effect Specials).<br><br>【Fringe Bonus】<br>Grants bonus to Atk/Spd/Def/Res during combat = highest bonus on each stat between unit and allies within 2 spaces of unit for 1 turn. Calculates each stat bonus independently.<br><br>【Bulwark】<br>Foes with Range = 1 cannot move through spaces adjacent to unit (does not affect foes with Pass skills). Foes with Range = 2 cannot move through spaces within 2 spaces of unit (does not affect foes with Pass skills).<br>If foe initiates combat or foe's HP ≥ 75% at start of combat, inflicts Atk/Def/Res-X on foe (X = 10% of unit's Res at start of combat, + 5), reduces damage from foe's attacks by 20% of unit's Res (excluding area-of-effect Specials), and reduces damage from foe's Specials by an additional 20% of unit's Res during combat (excluding area-of-effect Specials), and also, if foe's attack can trigger foe's Special and unit's Res ≥ foe's Res+5, inflicts Special cooldown count+1 on foe before foe's first attack during combat (cannot exceed the foe's maximum Special cooldown)."
+  },
+  {
     "id": "SID_影助・引き戻し1",
     "description": "If unit's HP = 100%, when Canto triggers, enables unit to use【Reposition】on ally (this effect is not treated as an Assist skill; if similar effects are active, this effect does not trigger).<br><br>【Reposition】<br>Range = 1. Target moves to opposite side of unit."
   },
@@ -14518,6 +14618,10 @@
   {
     "id": "SID_戦神の鋭剣",
     "description": "Accelerates Special trigger (cooldown count-1). If a skill compares unit's Spd to a foe's or ally's Spd, treats unit's Spd as if granted +10. At start of turn, if unit is within 2 spaces of an ally, grants【Null Follow-Up】and【Dodge】to unit for 1 turn. If unit initiates combat or is within 2 spaces of an ally, grants Atk/Spd/Def/Res+5 to unit during combat.<br><br>【Null Follow-Up】<br>If unit's Spd > foe's Spd during combat, neutralizes effects that guarantee foe's follow-up attacks and effects that prevent unit's follow-up attacks for 1 turn.<br><br>【Dodge】<br>If unit's Spd > foe's Spd, reduces damage from attacks during combat and from area-of-effect Specials (excluding Røkkr area-of-effect Specials) by percentage = difference between stats × 4 (max 40%)."
+  },
+  {
+    "id": "SID_金剛不壊",
+    "description": "Grants Atk/Def+8. Inflicts Res-8.<br><br>At start of player phase or enemy phase, neutralizes【Panic】and any penalties to unit's Atk/Def that take effect on unit at that time.<br><br>【Panic】<br>Converts bonuses on unit into penalties through its next action."
   },
   {
     "id": "SID_貝殻の槍",
@@ -15098,6 +15202,14 @@
   {
     "id": "SID_ソフィアの魂・承",
     "description": "Neutralizes effects that guarantee foe's follow-up attacks and effects that prevent unit's follow-up attacks during combat. If unit initiates combat, unit can make a follow-up attack before foe can counterattack. At start of combat, if unit's HP ≥ 25%, inflicts Spd-5 on foe and reduces the percentage of foe's non-Special \"reduce damage by X%\" skills by 50% (example: a foe with a \"reduce damage by 45%\" skill would reduce damage by 23% instead)."
+  },
+  {
+    "id": "SID_強面の怖槍",
+    "description": "For foes within 3 rows or 3 columns centered on unit, inflicts Atk/Spd/Def/Res-5, reduces the percentage of foe's non-Special \"reduce damage by X%\" skills by 50% (excluding area-of-effect Specials), and inflicts Special cooldown charge -1 on foe per attack during combat (only highest value applied; does not stack).<br><br>If foe initiates combat or foe's HP ≥ 75% at start of combat, neutralizes penalties on unit during combat."
+  },
+  {
+    "id": "SID_強面の怖槍_一",
+    "description": "For foes within 3 rows or 3 columns centered on unit, inflicts Atk/Spd/Def/Res-5, reduces the percentage of foe's non-Special \"reduce damage by X%\" skills by 50% (excluding area-of-effect Specials), and inflicts Special cooldown charge -1 on foe per attack during combat (only highest value applied; does not stack).<br><br>If foe initiates combat or foe's HP ≥ 75% at start of combat, neutralizes penalties on unit during combat.<br>If foe initiates combat or foe's HP ≥ 75% at start of combat, grants Atk/Spd/Def/Res+5 to unit, unit deals damage = 20% of unit's Def (excluding area-of-effect Specials), and reduces damage from foe's attacks by 20% of unit's Def during combat (excluding area-of-effect Specials)."
   },
   {
     "id": "SID_慕炎の書",
@@ -16669,7 +16781,11 @@
   },
   {
     "id": "SID_連閃",
-    "description": "If unit initiates combat or if unit is within 2 spaces of an ally, grants Atk/Spd/Def/Res+8 to unit during combat. If unit initiates combat against a non-dragon or non-beast infantry foe and unit's Spd ≥ foe's Spd+20, grants \"effective against all weapon types\" to unit during combat. Otherwise, if unit initiates combat and unit's Spd ≥ foe's Spd+5, grants \"effective against all weapon types\" to unit during combat."
+    "description": "If unit initiates combat or if unit is within 2 spaces of an ally, grants Atk/Spd/Def/Res+8 to unit during combat. If unit initiates combat against a non-dragon, non-beast, infantry foe and unit's Spd ≥ foe's Spd+20, grants \"effective against all weapon types\" to unit during combat. Otherwise, if unit initiates combat and unit's Spd ≥ foe's Spd+5, grants \"effective against all weapon types\" to unit during combat."
+  },
+  {
+    "id": "SID_連閃・承",
+    "description": "At start of player phase or enemy phase, if unit is within 2 spaces of an ally, grants【Dodge】and \"neutralizes foe's bonuses during combat\" to unit and allies within 2 spaces of unit for 1 turn.<br><br>If unit initiates combat or is within 2 spaces of an ally, grants Atk/Spd/Def/Res+9 to unit, reduces damage from foe's attacks by 7 (excluding area-of-effect Specials), neutralizes effects that inflict \"Special cooldown charge -X\" on unit, and reduces the percentage of foe's non-Special \"reduce damage by X%\" skills by 50% during combat (excluding area-of-effect Specials).<br><br>If unit initiates combat against a non-dragon or non-beast infantry foe and unit's Spd ≥ foe's Spd+20, grants \"effective against all weapon types\" to unit during combat. Otherwise, if unit initiates combat and unit's Spd ≥ foe's Spd+5, grants \"effective against all weapon types\" to unit during combat.<br><br>【Dodge】<br>If unit's Spd > foe's Spd, reduces damage from attacks during combat and from area-of-effect Specials (excluding Røkkr area-of-effect Specials) by percentage = difference between stats × 4 (max 40%)."
   },
   {
     "id": "SID_鬼神飛燕の一撃1",

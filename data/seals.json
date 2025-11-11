@@ -3911,6 +3911,48 @@
     }
   },
   {
+    "id": "SID_第100迷宮の覇者1",
+    "game8_id": null,
+    "name": "Squad Ace CV 1",
+    "group_name": "Squad Ace CV",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/61/Squad_Ace_CB_1.png/revision/latest?cb=20240306044850",
+    "sp": 120,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": null
+    }
+  },
+  {
+    "id": "SID_第100迷宮の覇者2",
+    "game8_id": null,
+    "name": "Squad Ace CV 2",
+    "group_name": "Squad Ace CV",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/78/Squad_Ace_CB_2.png/revision/latest?cb=20240306044900",
+    "sp": 180,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": null
+    }
+  },
+  {
+    "id": "SID_第100迷宮の覇者3",
+    "game8_id": null,
+    "name": "Squad Ace CV 3",
+    "group_name": "Squad Ace CV",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/fc/Squad_Ace_CB_3.png/revision/latest?cb=20240306044910",
+    "sp": 240,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": null
+    }
+  },
+  {
     "id": "SID_第4迷宮の覇者1",
     "game8_id": null,
     "name": "Squad Ace D 1",
@@ -8203,6 +8245,34 @@
     }
   },
   {
+    "id": "SID_攻撃速さの封印1",
+    "game8_id": null,
+    "name": "Chill Atk/Spd 1",
+    "group_name": "Chill Atk/Spd",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/66/Chill_Atk_Spd_1.png/revision/latest?cb=20200420161213",
+    "sp": 120,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": null
+    }
+  },
+  {
+    "id": "SID_攻撃速さの封印2",
+    "game8_id": null,
+    "name": "Chill Atk/Spd 2",
+    "group_name": "Chill Atk/Spd",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/3f/Chill_Atk_Spd_2.png/revision/latest?cb=20200420161223",
+    "sp": 240,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": null
+    }
+  },
+  {
     "id": "SID_守備の封印1",
     "game8_id": null,
     "name": "Chill Def 1",
@@ -12463,6 +12533,48 @@
       "weapons": {
         "none": true
       }
+    }
+  },
+  {
+    "id": "SID_恐慌の幻煙1",
+    "game8_id": null,
+    "name": "Panic Smoke 1",
+    "group_name": "Panic Smoke",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c6/Panic_Smoke_1.png/revision/latest?cb=20190930043637",
+    "sp": 60,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": null
+    }
+  },
+  {
+    "id": "SID_恐慌の幻煙2",
+    "game8_id": null,
+    "name": "Panic Smoke 2",
+    "group_name": "Panic Smoke",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f7/Panic_Smoke_2.png/revision/latest?cb=20190930043703",
+    "sp": 120,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": null
+    }
+  },
+  {
+    "id": "SID_恐慌の幻煙3",
+    "game8_id": null,
+    "name": "Panic Smoke 3",
+    "group_name": "Panic Smoke",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b9/Panic_Smoke_3.png/revision/latest?cb=20190930043729",
+    "sp": 240,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": null
     }
   },
   {
