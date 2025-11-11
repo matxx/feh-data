@@ -6,8 +6,12 @@ errors = Hash.new { |h, k| h[k] = Hash.new(0) }
   'data/seals.json',
 ].each do |file|
   str = File.read(file)
-  errors[file][:no_weapon_restriction]    += str.scan(/"weapons": null/).size
-  errors[file][:empty_weapon_restriction] += str.scan(/"can_use": \[\]/).size
+
+  cnt = str.scan(/"weapons": null/).size
+  errors[file][:no_weapon_restriction] += cnt if cnt > 0
+
+  cnt = str.scan(/"can_use": \[\]/).size
+  errors[file][:empty_weapon_restriction] += cnt if cnt > 0
 end
 
 if errors.any?
