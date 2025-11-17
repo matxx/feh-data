@@ -31649,7 +31649,9 @@
       "moves": {
         "none": true
       },
-      "weapons": null
+      "weapons": {
+        "none": true
+      }
     },
     "addition_date": "2025-09-16",
     "release_date": "2025-11-17",
@@ -70408,7 +70410,9 @@
       "moves": {
         "none": true
       },
-      "weapons": null
+      "weapons": {
+        "none": true
+      }
     },
     "addition_date": "2025-07-18",
     "release_date": "2025-11-17",
@@ -84299,7 +84303,9 @@
           "Flying"
         ]
       },
-      "weapons": null
+      "weapons": {
+        "none": true
+      }
     },
     "addition_date": "2025-07-18",
     "release_date": "2025-11-17",
