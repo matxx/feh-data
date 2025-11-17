@@ -3710,6 +3710,11 @@
     "game8_grade": "S"
   },
   {
+    "id": "SID_強面の怖槍",
+    "game8_rating": "9.0",
+    "game8_grade": "A"
+  },
+  {
     "id": "SID_コウモリの弓",
     "game8_rating": null,
     "game8_grade": null
@@ -13285,14 +13290,14 @@
     "game8_grade": "A"
   },
   {
-    "id": "SID_オスティアの反撃",
-    "game8_rating": "9.5",
-    "game8_grade": "SS"
-  },
-  {
     "id": "SID_サカの掟・承",
     "game8_rating": "9.0",
     "game8_grade": null
+  },
+  {
+    "id": "SID_オスティアの反撃",
+    "game8_rating": "9.5",
+    "game8_grade": "SS"
   },
   {
     "id": "SID_覇神断竜剣",
@@ -13305,19 +13310,19 @@
     "game8_grade": "A"
   },
   {
-    "id": "SID_女神の三雄",
-    "game8_rating": "9.0",
-    "game8_grade": null
-  },
-  {
     "id": "SID_邪竜の重鱗",
     "game8_rating": "9.0",
     "game8_grade": null
   },
   {
-    "id": "SID_女神の三雄・神",
-    "game8_rating": "9.5",
-    "game8_grade": "A"
+    "id": "SID_女神の三雄",
+    "game8_rating": "9.0",
+    "game8_grade": null
+  },
+  {
+    "id": "SID_赤い竜騎士の盾",
+    "game8_rating": "9.0",
+    "game8_grade": null
   },
   {
     "id": "SID_陰陽の法則",
@@ -13325,9 +13330,9 @@
     "game8_grade": "A"
   },
   {
-    "id": "SID_赤い竜騎士の盾",
-    "game8_rating": "9.0",
-    "game8_grade": null
+    "id": "SID_女神の三雄・神",
+    "game8_rating": "9.5",
+    "game8_grade": "A"
   },
   {
     "id": "SID_邪竜の大鱗",
@@ -13346,6 +13351,11 @@
   },
   {
     "id": "SID_陰陽の法則・神",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_連閃・承",
     "game8_rating": "9.5",
     "game8_grade": "S"
   },
@@ -16948,6 +16958,11 @@
     "id": "SID_真竜鱗障壁",
     "game8_rating": "9.9",
     "game8_grade": null
+  },
+  {
+    "id": "SID_我が復活は成…・神",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
   },
   {
     "id": "SID_騎士道",

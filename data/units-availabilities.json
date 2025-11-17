@@ -429,6 +429,42 @@
     "divine_codes": {}
   },
   {
+    "id": "PID_天の王味方",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "lowest_rarity": {
+      "foc": 5
+    },
+    "skill_ids": [
+      "SID_エルサンダー",
+      "SID_サンダー",
+      "SID_トロン",
+      "SID_九天グングニル",
+      "SID_守備魔防の封印1",
+      "SID_守備魔防の封印2",
+      "SID_守備魔防の枷",
+      "SID_攻撃の大応援",
+      "SID_攻撃の大応援＋",
+      "SID_攻撃の応援",
+      "SID_攻撃魔防の絆1",
+      "SID_攻撃魔防の絆2",
+      "SID_攻撃魔防の絆3",
+      "SID_攻撃魔防の詠唱",
+      "SID_氷壁",
+      "SID_氷点",
+      "SID_氷華",
+      "SID_求めるは知のみ",
+      "SID_魔防の封印1"
+    ],
+    "divine_codes": {}
+  },
+  {
     "id": "PID_比翼アルフォンス",
     "is_in": {
       "gsp": false,
@@ -44569,6 +44605,41 @@
         }
       ]
     }
+  },
+  {
+    "id": "PID_ヴァーリ味方",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "lowest_rarity": {
+      "foc": 5
+    },
+    "skill_ids": [
+      "SID_お姉様は絶対無敵",
+      "SID_ウインド",
+      "SID_エルウインド",
+      "SID_レクスカリバー",
+      "SID_攻撃速さの紋章1",
+      "SID_攻撃速さの紋章2",
+      "SID_攻撃速さの絆1",
+      "SID_攻撃速さの絆2",
+      "SID_攻撃速さの絆3",
+      "SID_攻撃速さの詠唱",
+      "SID_攻速十紋章・見切り",
+      "SID_祈り",
+      "SID_速さの紋章1",
+      "SID_速さ魔防の封印1",
+      "SID_速さ魔防の封印2",
+      "SID_速さ魔防の枷",
+      "SID_陶酔の神形",
+      "SID_魔防の封印1"
+    ],
+    "divine_codes": {}
   },
   {
     "id": "PID_ファウダー",

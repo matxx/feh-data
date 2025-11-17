@@ -5013,6 +5013,23 @@
     ]
   },
   {
+    "name": "Focus: Muscles Don't Betray 1",
+    "unit_ids": [
+      "PID_エーティエ",
+      "PID_ダグ2味方",
+      "PID_魔器シアチ味方"
+    ]
+  },
+  {
+    "name": "Focus: Muscles Don't Betray 2",
+    "unit_ids": [
+      "PID_ギリアム",
+      "PID_水着カスパル",
+      "PID_砂漠ラファエル",
+      "PID_魔器アルフレッド"
+    ]
+  },
+  {
     "name": "Focus: My Sister Is the Best!",
     "unit_ids": [
       "PID_サフィ",
@@ -9055,6 +9072,19 @@
     ]
   },
   {
+    "name": "Legendary & Mythic Hero Remix 1 (Nov 2025)",
+    "unit_ids": [
+      "PID_エイトリ味方",
+      "PID_リーヴ味方",
+      "PID_神階ナーガ",
+      "PID_神階ピアニー",
+      "PID_神階メディウス",
+      "PID_神階ユンヌ",
+      "PID_闇リュール男",
+      "PID_響心アルム"
+    ]
+  },
+  {
     "name": "Legendary & Mythic Hero Remix 1 (Oct 2025)",
     "unit_ids": [
       "PID_お供ユナカ",
@@ -9338,6 +9368,19 @@
       "PID_神階アスタルテ",
       "PID_神階セイロス",
       "PID_響心アクア"
+    ]
+  },
+  {
+    "name": "Legendary & Mythic Hero Remix 2 (Nov 2025)",
+    "unit_ids": [
+      "PID_伝承エリウッド",
+      "PID_伝承シェズ女",
+      "PID_伝承セリス",
+      "PID_伝承ルフレ男",
+      "PID_神階エリミーヌ",
+      "PID_闇リュール女",
+      "PID_闇レナ",
+      "PID_魔器魔獣ドゥドゥー"
     ]
   },
   {

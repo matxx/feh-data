@@ -2,7 +2,7 @@
   "skills_max_tier": 4,
   "skills_max_sp": 500,
   "skills_max_cd": 5,
-  "units_count": 1312,
+  "units_count": 1314,
   "units_max_hp": 60,
   "units_max_hp_ids": [
     "PID_アーダン"
@@ -36,6 +36,7 @@
   ],
   "units_max_res": 50,
   "units_max_res_ids": [
+    "PID_天の王味方",
     "PID_比翼レア"
   ],
   "units_max_bst": 213,

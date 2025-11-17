@@ -7459,6 +7459,7 @@
   },
   {
     "id": "SID_我が復活は成…・神",
+    "game8_id": "564963",
     "name": "Assured Rebirth+",
     "group_name": "Assured Rebirth",
     "category": "passiveb",
@@ -12481,7 +12482,7 @@
         ]
       }
     },
-    "addition_date": "2025-08-15",
+    "addition_date": "2025-07-18",
     "release_date": "2025-08-15",
     "version": "9.8",
     "downgrade_ids": [
@@ -28954,7 +28955,8 @@
     "release_date": "2020-06-05",
     "version": "4.6",
     "upgrade_ids": [
-      "SID_守備魔防の封印3"
+      "SID_守備魔防の封印3",
+      "SID_守備魔防の枷"
     ],
     "downgrade_ids": [
       "SID_守備魔防の封印1"
@@ -31632,6 +31634,26 @@
     "downgrade_ids": [
       "SID_銀の暗器"
     ]
+  },
+  {
+    "id": "SID_求めるは知のみ",
+    "name": "Covetous One",
+    "group_name": "Covetous One",
+    "category": "passivec",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/bc/Covetous_One.png/revision/latest?cb=20251117073557",
+    "is_prf": true,
+    "sp": 300,
+    "tier": 1,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": null
+    },
+    "addition_date": "2025-09-16",
+    "release_date": "2025-11-17",
+    "version": "9.11"
   },
   {
     "id": "SID_草原の狼の白槍",
@@ -37586,6 +37608,38 @@
     "version": "8.2",
     "downgrade_ids": [
       "SID_守備魔防の竜眼3"
+    ]
+  },
+  {
+    "id": "SID_守備魔防の枷",
+    "name": "Def/Res Shackle",
+    "group_name": "Def/Res Shackle",
+    "category": "passiveb",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/07/Def_Res_Shackle.png/revision/latest?cb=20251117073547",
+    "is_prf": false,
+    "sp": 300,
+    "tier": 4,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Cavalry",
+          "Flying"
+        ]
+      },
+      "weapons": {
+        "can_not_use": [
+          "All Melee",
+          "All Breath",
+          "All Beast"
+        ]
+      }
+    },
+    "addition_date": "2025-09-16",
+    "release_date": "2025-11-17",
+    "version": "9.11",
+    "downgrade_ids": [
+      "SID_守備魔防の封印2"
     ]
   },
   {
@@ -45924,6 +45978,33 @@
     ]
   },
   {
+    "id": "SID_陶酔の神形",
+    "name": "Enraptured God",
+    "group_name": "Enraptured God",
+    "category": "weapon",
+    "weapon_type": "Green Tome",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Green Tome"
+        ]
+      }
+    },
+    "addition_date": "2025-07-18",
+    "release_date": "2025-11-17",
+    "version": "9.11",
+    "downgrade_ids": [
+      "SID_レクスカリバー"
+    ]
+  },
+  {
     "id": "SID_毒の葬り手の妖牙",
     "game8_id": "487176",
     "name": "Enticing Dose",
@@ -46366,6 +46447,33 @@
     "addition_date": "2019-09-19",
     "release_date": "2019-09-19",
     "version": "3.9"
+  },
+  {
+    "id": "SID_九天グングニル",
+    "name": "Ethereal Gungnir",
+    "group_name": "Ethereal Gungnir",
+    "category": "weapon",
+    "weapon_type": "Blue Tome",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Blue Tome"
+        ]
+      }
+    },
+    "addition_date": "2025-09-16",
+    "release_date": "2025-11-17",
+    "version": "9.11",
+    "downgrade_ids": [
+      "SID_トロン",
+      "SID_シャイン"
+    ]
   },
   {
     "id": "SID_攻撃の波・偶数1",
@@ -70288,6 +70396,28 @@
     "version": "1.0"
   },
   {
+    "id": "SID_お姉様は絶対無敵",
+    "name": "Invincible Sister",
+    "group_name": "Invincible Sister",
+    "category": "special",
+    "is_prf": true,
+    "sp": 500,
+    "tier": 2,
+    "cd": 5,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": null
+    },
+    "addition_date": "2025-07-18",
+    "release_date": "2025-11-17",
+    "version": "9.11",
+    "downgrade_ids": [
+      "SID_祈り"
+    ]
+  },
+  {
     "id": "SID_美僧の戦斧",
     "game8_id": "351608",
     "name": "Inviolable Axe",
@@ -79712,6 +79842,7 @@
       "SID_輝映の聖光",
       "SID_恐慌の聖光",
       "SID_重圧の聖光",
+      "SID_お姉様は絶対無敵",
       "SID_永遠を生きるもの",
       "SID_抑制の聖光"
     ]
@@ -84150,6 +84281,31 @@
     "version": "8.6",
     "downgrade_ids": [
       "SID_見切り追撃の槍"
+    ]
+  },
+  {
+    "id": "SID_攻速十紋章・見切り",
+    "name": "Null Uplift A/S",
+    "group_name": "Null Uplift A/S",
+    "category": "passivec",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/2/2f/Null_Uplift_A_S.png/revision/latest?cb=20251117073608",
+    "is_prf": false,
+    "sp": 300,
+    "tier": 4,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Flying"
+        ]
+      },
+      "weapons": null
+    },
+    "addition_date": "2025-07-18",
+    "release_date": "2025-11-17",
+    "version": "9.11",
+    "downgrade_ids": [
+      "SID_攻撃速さの紋章2"
     ]
   },
   {
@@ -98416,6 +98572,7 @@
       "SID_喉潤す神竜の杯",
       "SID_聖書ナーガ",
       "SID_エリヴァーガル",
+      "SID_陶酔の神形",
       "SID_エレシュキガル",
       "SID_エクスカリバー",
       "SID_楽園の果汁",
@@ -106357,6 +106514,7 @@
       "SID_雷神と戯神の気紛れ",
       "SID_邪痕と聖痕の竜血",
       "SID_ヴェズルの妖卵",
+      "SID_九天グングニル",
       "SID_仄暗き邪竜の松明",
       "SID_幸福の花",
       "SID_ギャラルホルン",
@@ -110621,6 +110779,7 @@
   },
   {
     "id": "SID_強面の怖槍",
+    "game8_id": "564913",
     "name": "Soulful Lance",
     "group_name": "Soulful Lance",
     "category": "weapon",
@@ -110646,6 +110805,7 @@
   {
     "id": "SID_強面の怖槍_一",
     "base_id": "SID_強面の怖槍",
+    "game8_id": "564913",
     "name": "Soulful Lance",
     "group_name": "Soulful Lance",
     "category": "weapon",
@@ -115015,7 +115175,7 @@
         ]
       }
     },
-    "addition_date": "2025-08-15",
+    "addition_date": "2025-07-18",
     "release_date": "2025-08-15",
     "version": "9.8",
     "downgrade_ids": [
@@ -117310,6 +117470,9 @@
     "addition_date": "2018-01-12",
     "release_date": "2018-01-12",
     "version": "2.1",
+    "upgrade_ids": [
+      "SID_攻速十紋章・見切り"
+    ],
     "downgrade_ids": [
       "SID_攻撃速さの紋章1"
     ]
@@ -122444,6 +122607,7 @@
   },
   {
     "id": "SID_連閃・承",
+    "game8_id": "564964",
     "name": "Swift Slice II",
     "group_name": "Swift Slice",
     "category": "passivea",
@@ -125227,6 +125391,7 @@
       "SID_雷神と戯神の気紛れ",
       "SID_邪痕と聖痕の竜血",
       "SID_ヴェズルの妖卵",
+      "SID_九天グングニル",
       "SID_仄暗き邪竜の松明",
       "SID_フィンブル",
       "SID_ギャラルホルン",

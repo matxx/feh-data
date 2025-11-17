@@ -16904,6 +16904,7 @@
   {
     "id": "SID_攻撃魔防の詠唱",
     "fodder_ids": [
+      "PID_天の王味方",
       "PID_ヘイムダル味方"
     ],
     "fodder": {
@@ -16933,6 +16934,7 @@
   {
     "id": "SID_攻撃魔防の絆1",
     "fodder_ids": [
+      "PID_天の王味方",
       "PID_双界オルティナ",
       "PID_夢カミラ",
       "PID_キャス",
@@ -17028,6 +17030,7 @@
   {
     "id": "SID_攻撃魔防の絆2",
     "fodder_ids": [
+      "PID_天の王味方",
       "PID_双界オルティナ",
       "PID_夢カミラ",
       "PID_キャス",
@@ -17123,6 +17126,7 @@
   {
     "id": "SID_攻撃魔防の絆3",
     "fodder_ids": [
+      "PID_天の王味方",
       "PID_双界オルティナ",
       "PID_夢カミラ",
       "PID_キャス",
@@ -20669,7 +20673,8 @@
     "id": "SID_攻撃速さの詠唱",
     "fodder_ids": [
       "PID_比翼フレイヤ",
-      "PID_総選挙シャロン"
+      "PID_総選挙シャロン",
+      "PID_ヴァーリ味方"
     ],
     "fodder": {
       "g4": 1,
@@ -20685,15 +20690,17 @@
       "hg": false,
       "dc": false,
       "ldc": false,
-      "foc": false
+      "foc": true
     },
     "flrwo": {
       "gsp": 5,
-      "ssp": 5
+      "ssp": 5,
+      "foc": 5
     },
     "flrfi": {
       "gsp": 5,
-      "ssp": 5
+      "ssp": 5,
+      "foc": 5
     },
     "divine_codes": {}
   },
@@ -20721,7 +20728,8 @@
       "PID_総選挙シャロン",
       "PID_双界ソニア",
       "PID_魔器ターナ",
-      "PID_花嫁サーリャ"
+      "PID_花嫁サーリャ",
+      "PID_ヴァーリ味方"
     ],
     "fodder": {
       "g4": 1,
@@ -20842,7 +20850,8 @@
       "PID_総選挙シャロン",
       "PID_双界ソニア",
       "PID_魔器ターナ",
-      "PID_花嫁サーリャ"
+      "PID_花嫁サーリャ",
+      "PID_ヴァーリ味方"
     ],
     "fodder": {
       "g4": 1,
@@ -20963,7 +20972,8 @@
       "PID_総選挙シャロン",
       "PID_双界ソニア",
       "PID_魔器ターナ",
-      "PID_花嫁サーリャ"
+      "PID_花嫁サーリャ",
+      "PID_ヴァーリ味方"
     ],
     "fodder": {
       "g4": 1,
@@ -46655,6 +46665,7 @@
   {
     "id": "SID_守備魔防の封印1",
     "fodder_ids": [
+      "PID_天の王味方",
       "PID_水着ドニ",
       "PID_砂漠カタリナ",
       "PID_神階ルピナス",
@@ -46712,6 +46723,7 @@
   {
     "id": "SID_守備魔防の封印2",
     "fodder_ids": [
+      "PID_天の王味方",
       "PID_水着ドニ",
       "PID_砂漠カタリナ",
       "PID_神階ルピナス",
@@ -46801,6 +46813,7 @@
   {
     "id": "SID_魔防の封印1",
     "fodder_ids": [
+      "PID_天の王味方",
       "PID_比翼ベレス",
       "PID_春祭カチュア",
       "PID_春祭エスト",
@@ -46813,6 +46826,7 @@
       "PID_双界ソニア",
       "PID_水着シルヴァン",
       "PID_カダインウルスラ",
+      "PID_ヴァーリ味方",
       "PID_ベルド",
       "PID_春祭ヴェロニカ"
     ],
@@ -47440,7 +47454,8 @@
       "PID_比翼ベレス",
       "PID_ホメロス",
       "PID_総選挙シャロン",
-      "PID_カダインウルスラ"
+      "PID_カダインウルスラ",
+      "PID_ヴァーリ味方"
     ],
     "fodder": {
       "g4": 1,
@@ -47456,17 +47471,19 @@
       "hg": false,
       "dc": false,
       "ldc": true,
-      "foc": false
+      "foc": true
     },
     "flrwo": {
       "gsp": 3,
       "ssp": 4.5,
-      "ldc": 5
+      "ldc": 5,
+      "foc": 5
     },
     "flrfi": {
       "gsp": 2,
       "ssp": 3,
-      "ldc": 3
+      "ldc": 3,
+      "foc": 3
     },
     "divine_codes": {
       "limited": [
@@ -47485,7 +47502,8 @@
       "PID_比翼ベレス",
       "PID_ホメロス",
       "PID_総選挙シャロン",
-      "PID_カダインウルスラ"
+      "PID_カダインウルスラ",
+      "PID_ヴァーリ味方"
     ],
     "fodder": {
       "g4": 1,
@@ -47501,17 +47519,19 @@
       "hg": false,
       "dc": false,
       "ldc": true,
-      "foc": false
+      "foc": true
     },
     "flrwo": {
       "gsp": 3,
       "ssp": 4.5,
-      "ldc": 5
+      "ldc": 5,
+      "foc": 5
     },
     "flrfi": {
       "gsp": 4,
       "ssp": 4,
-      "ldc": 4
+      "ldc": 4,
+      "foc": 4
     },
     "divine_codes": {
       "limited": [
@@ -47668,6 +47688,7 @@
       "PID_アルファルド",
       "PID_伝承リュール男",
       "PID_比翼リュール男",
+      "PID_天の王味方",
       "PID_双界オルティナ",
       "PID_神階オルティナ",
       "PID_ナバタオルティナ",
@@ -51197,6 +51218,35 @@
     },
     "flrfi": {
       "ssp": 5
+    },
+    "divine_codes": {}
+  },
+  {
+    "id": "SID_求めるは知のみ",
+    "fodder_ids": [
+      "PID_天の王味方"
+    ],
+    "fodder": {
+      "g4": 1,
+      "hg": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 1,
+      "shsr": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "flrwo": {
+      "foc": 5
+    },
+    "flrfi": {
+      "foc": 5
     },
     "divine_codes": {}
   },
@@ -60652,6 +60702,35 @@
     "flrfi": {
       "gsp": 5,
       "ssp": 5
+    },
+    "divine_codes": {}
+  },
+  {
+    "id": "SID_守備魔防の枷",
+    "fodder_ids": [
+      "PID_天の王味方"
+    ],
+    "fodder": {
+      "g4": 4,
+      "hg": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 1,
+      "shsr": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "flrwo": {
+      "foc": 5
+    },
+    "flrfi": {
+      "foc": 5
     },
     "divine_codes": {}
   },
@@ -74171,6 +74250,7 @@
   {
     "id": "SID_エルサンダー",
     "fodder_ids": [
+      "PID_天の王味方",
       "PID_ブルーニャ",
       "PID_ブルーノ味方",
       "PID_カダインベレト",
@@ -74583,6 +74663,7 @@
       "PID_スラシル味方",
       "PID_スカビオサ味方",
       "PID_カダインウルスラ",
+      "PID_ヴァーリ味方",
       "PID_春祭ヴェロニカ",
       "PID_神階ユンヌ",
       "PID_セレスティア"
@@ -75287,6 +75368,35 @@
         }
       ]
     }
+  },
+  {
+    "id": "SID_陶酔の神形",
+    "fodder_ids": [
+      "PID_ヴァーリ味方"
+    ],
+    "fodder": {
+      "g4": 1,
+      "hg": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 1,
+      "shsr": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "flrwo": {
+      "foc": 5
+    },
+    "flrfi": {
+      "foc": 5
+    },
+    "divine_codes": {}
   },
   {
     "id": "SID_毒の葬り手の妖牙",
@@ -76195,6 +76305,35 @@
     },
     "flrfi": {
       "gsp": 5
+    },
+    "divine_codes": {}
+  },
+  {
+    "id": "SID_九天グングニル",
+    "fodder_ids": [
+      "PID_天の王味方"
+    ],
+    "fodder": {
+      "g4": 1,
+      "hg": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 1,
+      "shsr": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "flrwo": {
+      "foc": 5
+    },
+    "flrfi": {
+      "foc": 5
     },
     "divine_codes": {}
   },
@@ -94001,6 +94140,7 @@
     "id": "SID_氷華",
     "fodder_ids": [
       "PID_アルファルド",
+      "PID_天の王味方",
       "PID_シェンメイ",
       "PID_神階ラルヴァ",
       "PID_神階アスタルテ",
@@ -109180,6 +109320,7 @@
   {
     "id": "SID_氷壁",
     "fodder_ids": [
+      "PID_天の王味方",
       "PID_水着ヘイズルーン",
       "PID_ヘイムダル味方",
       "PID_ヘズ味方",
@@ -113126,6 +113267,35 @@
         }
       ]
     }
+  },
+  {
+    "id": "SID_お姉様は絶対無敵",
+    "fodder_ids": [
+      "PID_ヴァーリ味方"
+    ],
+    "fodder": {
+      "g4": 1,
+      "hg": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 1,
+      "shsr": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "flrwo": {
+      "foc": 5
+    },
+    "flrfi": {
+      "foc": 5
+    },
+    "divine_codes": {}
   },
   {
     "id": "SID_美僧の戦斧",
@@ -129955,6 +130125,7 @@
       "PID_伝承サクラ",
       "PID_シグルド",
       "PID_ティナ",
+      "PID_ヴァーリ味方",
       "PID_ハタリチェイニー"
     ],
     "fodder": {
@@ -137650,6 +137821,35 @@
     },
     "flrfi": {
       "hg": 5
+    },
+    "divine_codes": {}
+  },
+  {
+    "id": "SID_攻速十紋章・見切り",
+    "fodder_ids": [
+      "PID_ヴァーリ味方"
+    ],
+    "fodder": {
+      "g4": 1,
+      "hg": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 1,
+      "shsr": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "flrwo": {
+      "foc": 5
+    },
+    "flrfi": {
+      "foc": 5
     },
     "divine_codes": {}
   },
@@ -150790,6 +150990,7 @@
   {
     "id": "SID_攻撃の応援",
     "fodder_ids": [
+      "PID_天の王味方",
       "PID_覚醒アンナ",
       "PID_アネット",
       "PID_ステラ",
@@ -151803,6 +152004,7 @@
   {
     "id": "SID_攻撃の大応援",
     "fodder_ids": [
+      "PID_天の王味方",
       "PID_温泉エリーゼ",
       "PID_エクセライ",
       "PID_ムスペル味方",
@@ -151827,19 +152029,21 @@
       "hg": true,
       "dc": false,
       "ldc": true,
-      "foc": false
+      "foc": true
     },
     "flrwo": {
       "gsp": 4.5,
       "ssp": 4,
       "hg": 3,
-      "ldc": 5
+      "ldc": 5,
+      "foc": 5
     },
     "flrfi": {
       "gsp": 4,
       "ssp": 4,
       "hg": 4,
-      "ldc": 4
+      "ldc": 4,
+      "foc": 4
     },
     "divine_codes": {
       "limited": [
@@ -151855,6 +152059,7 @@
   {
     "id": "SID_攻撃の大応援＋",
     "fodder_ids": [
+      "PID_天の王味方",
       "PID_温泉エリーゼ",
       "PID_ムスペル味方",
       "PID_ハロナーガ",
@@ -151878,17 +152083,19 @@
       "hg": false,
       "dc": false,
       "ldc": true,
-      "foc": false
+      "foc": true
     },
     "flrwo": {
       "gsp": 4.5,
       "ssp": 4,
-      "ldc": 5
+      "ldc": 5,
+      "foc": 5
     },
     "flrfi": {
       "gsp": 5,
       "ssp": 5,
-      "ldc": 5
+      "ldc": 5,
+      "foc": 5
     },
     "divine_codes": {
       "limited": [
@@ -159965,6 +160172,7 @@
       "PID_スラシル味方",
       "PID_スカビオサ味方",
       "PID_カダインウルスラ",
+      "PID_ヴァーリ味方",
       "PID_春祭ヴェロニカ",
       "PID_神階ユンヌ"
     ],
@@ -186437,7 +186645,8 @@
   {
     "id": "SID_速さ魔防の枷",
     "fodder_ids": [
-      "PID_総選挙シャロン"
+      "PID_総選挙シャロン",
+      "PID_ヴァーリ味方"
     ],
     "fodder": {
       "g4": 1,
@@ -186453,13 +186662,15 @@
       "hg": false,
       "dc": false,
       "ldc": false,
-      "foc": false
+      "foc": true
     },
     "flrwo": {
-      "gsp": 5
+      "gsp": 5,
+      "foc": 5
     },
     "flrfi": {
-      "gsp": 5
+      "gsp": 5,
+      "foc": 5
     },
     "divine_codes": {}
   },
@@ -190094,7 +190305,8 @@
     "id": "SID_攻撃速さの紋章1",
     "fodder_ids": [
       "PID_リヒト",
-      "PID_サザ"
+      "PID_サザ",
+      "PID_ヴァーリ味方"
     ],
     "fodder": {
       "g4": 1,
@@ -190110,15 +190322,17 @@
       "hg": false,
       "dc": false,
       "ldc": true,
-      "foc": false
+      "foc": true
     },
     "flrwo": {
       "gsp": 3,
-      "ldc": 4
+      "ldc": 4,
+      "foc": 5
     },
     "flrfi": {
       "gsp": 3,
-      "ldc": 3
+      "ldc": 3,
+      "foc": 3
     },
     "divine_codes": {
       "limited": [
@@ -190159,7 +190373,8 @@
     "id": "SID_攻撃速さの紋章2",
     "fodder_ids": [
       "PID_リヒト",
-      "PID_サザ"
+      "PID_サザ",
+      "PID_ヴァーリ味方"
     ],
     "fodder": {
       "g4": 1,
@@ -190175,15 +190390,17 @@
       "hg": false,
       "dc": false,
       "ldc": true,
-      "foc": false
+      "foc": true
     },
     "flrwo": {
       "gsp": 3,
-      "ldc": 4
+      "ldc": 4,
+      "foc": 5
     },
     "flrfi": {
       "gsp": 4,
-      "ldc": 4
+      "ldc": 4,
+      "foc": 4
     },
     "divine_codes": {
       "limited": [
@@ -191026,7 +191243,8 @@
       "PID_夏祭リョウマ",
       "PID_サイゾウ",
       "PID_ティルテュ",
-      "PID_タニア"
+      "PID_タニア",
+      "PID_ヴァーリ味方"
     ],
     "fodder": {
       "g4": 1,
@@ -205462,6 +205680,7 @@
   {
     "id": "SID_トロン",
     "fodder_ids": [
+      "PID_天の王味方",
       "PID_ブルーニャ",
       "PID_ブルーノ味方",
       "PID_カダインベレト",
@@ -205597,6 +205816,7 @@
   {
     "id": "SID_トロン＋",
     "fodder_ids": [
+      "PID_天の王味方",
       "PID_ブルーニャ",
       "PID_ブルーノ味方",
       "PID_カダインベレト",
@@ -207621,6 +207841,7 @@
   {
     "id": "SID_サンダー",
     "fodder_ids": [
+      "PID_天の王味方",
       "PID_ブルーニャ",
       "PID_ブルーノ味方",
       "PID_カダインベレト",
@@ -219486,6 +219707,7 @@
       "PID_スラシル味方",
       "PID_スカビオサ味方",
       "PID_カダインウルスラ",
+      "PID_ヴァーリ味方",
       "PID_春祭ヴェロニカ",
       "PID_神階ユンヌ",
       "PID_セレスティア"
