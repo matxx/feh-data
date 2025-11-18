@@ -1586,6 +1586,23 @@
     ]
   },
   {
+    "name": "Focus: Double Mythic Heroes (Alfaðör & Váli)",
+    "unit_ids": [
+      "PID_エルム味方",
+      "PID_ニーズヘッグ味方",
+      "PID_ルーン",
+      "PID_レーラズ味方",
+      "PID_ヴァーリ味方",
+      "PID_天の王味方",
+      "PID_獣人リン",
+      "PID_神階アトス",
+      "PID_総選挙エイクス",
+      "PID_総選挙シャロン",
+      "PID_総選挙バルドル",
+      "PID_総選挙ベレト"
+    ]
+  },
+  {
     "name": "Focus: Double Mythic Heroes (Baldr & Höðr)",
     "unit_ids": [
       "PID_エルム味方",
@@ -2199,6 +2216,14 @@
     ]
   },
   {
+    "name": "Focus: Dwyer & Jakob's Battle",
+    "unit_ids": [
+      "PID_ジョーカー",
+      "PID_ディーア",
+      "PID_フェリシア"
+    ]
+  },
+  {
     "name": "Focus: Echidna & Larum's Battle",
     "unit_ids": [
       "PID_エキドナ",
@@ -2684,6 +2709,14 @@
       "PID_幼少エリウッド",
       "PID_幼少ヘクトル",
       "PID_炎部族リン"
+    ]
+  },
+  {
+    "name": "Focus: Hall of Forms (Nov 2025)",
+    "unit_ids": [
+      "PID_サフィ",
+      "PID_双界リンダ",
+      "PID_双界リーフ"
     ]
   },
   {

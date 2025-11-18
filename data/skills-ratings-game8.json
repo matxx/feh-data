@@ -4580,6 +4580,11 @@
     "game8_grade": null
   },
   {
+    "id": "SID_九天グングニル",
+    "game8_rating": "9.9",
+    "game8_grade": "SS"
+  },
+  {
     "id": "SID_万雷の書",
     "game8_rating": "9.0",
     "game8_grade": "A"
@@ -6953,6 +6958,11 @@
     "id": "SID_王書グラズヘイム",
     "game8_rating": "9.5",
     "game8_grade": "S"
+  },
+  {
+    "id": "SID_陶酔の神形",
+    "game8_rating": "9.9",
+    "game8_grade": "SS"
   },
   {
     "id": "SID_光のブレス",
@@ -10230,14 +10240,14 @@
     "game8_grade": null
   },
   {
-    "id": "SID_天与の魔道・承",
-    "game8_rating": "9.5",
-    "game8_grade": "A"
-  },
-  {
     "id": "SID_氷の聖鏡・承",
     "game8_rating": "9.0",
     "game8_grade": null
+  },
+  {
+    "id": "SID_天与の魔道・承",
+    "game8_rating": "9.5",
+    "game8_grade": "A"
   },
   {
     "id": "SID_蒼の天空・承",
@@ -10250,14 +10260,19 @@
     "game8_grade": "SS"
   },
   {
+    "id": "SID_覇天",
+    "game8_rating": "9.0",
+    "game8_grade": null
+  },
+  {
     "id": "SID_グランベルの…・承",
     "game8_rating": "9.5",
     "game8_grade": "S"
   },
   {
-    "id": "SID_覇天",
-    "game8_rating": "9.0",
-    "game8_grade": null
+    "id": "SID_光炎の紋章",
+    "game8_rating": "9.5",
+    "game8_grade": "A"
   },
   {
     "id": "SID_月光閃・承",
@@ -10268,11 +10283,6 @@
     "id": "SID_覇天・承",
     "game8_rating": "9.5",
     "game8_grade": "S"
-  },
-  {
-    "id": "SID_光炎の紋章",
-    "game8_rating": "9.5",
-    "game8_grade": "A"
   },
   {
     "id": "SID_鎮魂の舞",
@@ -10300,17 +10310,17 @@
     "game8_grade": "A"
   },
   {
+    "id": "SID_閉界・承",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
     "id": "SID_聖神と暗黒神…・承",
     "game8_rating": "9.5",
     "game8_grade": "S"
   },
   {
     "id": "SID_閉界",
-    "game8_rating": "9.5",
-    "game8_grade": "S"
-  },
-  {
-    "id": "SID_閉界・承",
     "game8_rating": "9.5",
     "game8_grade": "S"
   },
@@ -10508,6 +10518,11 @@
     "id": "SID_未来と過去",
     "game8_rating": "9.5",
     "game8_grade": "S"
+  },
+  {
+    "id": "SID_お姉様は絶対無敵",
+    "game8_rating": "9.9",
+    "game8_grade": "SS"
   },
   {
     "id": "SID_守備魔防の防城戦1",
@@ -14890,6 +14905,11 @@
     "game8_grade": null
   },
   {
+    "id": "SID_守備魔防の枷",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
     "id": "SID_鼓動の封緘・奇数1",
     "game8_rating": null,
     "game8_grade": null
@@ -18105,6 +18125,11 @@
     "game8_grade": null
   },
   {
+    "id": "SID_攻速十紋章・見切り",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
     "id": "SID_攻撃守備の紋章2",
     "game8_rating": "8.0",
     "game8_grade": "B"
@@ -18290,14 +18315,14 @@
     "game8_grade": "S"
   },
   {
-    "id": "SID_攻速大牽制・導き手",
-    "game8_rating": "9.5",
-    "game8_grade": "S"
-  },
-  {
     "id": "SID_速さ守備の牽制3",
     "game8_rating": "9.5",
     "game8_grade": "A"
+  },
+  {
+    "id": "SID_攻速大牽制・導き手",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
   },
   {
     "id": "SID_攻撃魔防の牽制1",
@@ -18310,14 +18335,14 @@
     "game8_grade": "A"
   },
   {
-    "id": "SID_速守大牽制・導き手",
-    "game8_rating": "9.5",
-    "game8_grade": "S"
-  },
-  {
     "id": "SID_攻撃魔防の牽制2",
     "game8_rating": null,
     "game8_grade": null
+  },
+  {
+    "id": "SID_速守大牽制・導き手",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
   },
   {
     "id": "SID_速守牽制・運び手",
@@ -18325,24 +18350,24 @@
     "game8_grade": "S"
   },
   {
-    "id": "SID_速さ守備の十字牽制",
-    "game8_rating": "9.0",
-    "game8_grade": "A"
-  },
-  {
     "id": "SID_攻撃魔防の牽制3",
     "game8_rating": "9.5",
     "game8_grade": "A"
   },
   {
-    "id": "SID_攻撃魔防の大牽制",
-    "game8_rating": "9.5",
+    "id": "SID_速さ守備の十字牽制",
+    "game8_rating": "9.0",
     "game8_grade": "A"
   },
   {
     "id": "SID_攻撃守備の牽制1",
     "game8_rating": null,
     "game8_grade": null
+  },
+  {
+    "id": "SID_攻撃魔防の大牽制",
+    "game8_rating": "9.5",
+    "game8_grade": "A"
   },
   {
     "id": "SID_攻撃魔防の十字牽制",
@@ -20461,6 +20486,11 @@
   },
   {
     "id": "SID_あなたとのつながり",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_求めるは知のみ",
     "game8_rating": "9.5",
     "game8_grade": "S"
   },
