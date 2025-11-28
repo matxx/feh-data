@@ -1505,7 +1505,8 @@
     "fodder_ids": [
       "PID_ギムレー女",
       "PID_ラファール",
-      "PID_ハロルフレ男"
+      "PID_ハロルフレ男",
+      "PID_魔器ヴァニタス味方"
     ],
     "fodder": {
       "g4": 1,
@@ -1521,17 +1522,19 @@
       "hg": false,
       "dc": true,
       "ldc": false,
-      "foc": false
+      "foc": true
     },
     "flrwo": {
       "gsp": 5,
       "ssp": 4.5,
-      "dc": 5
+      "dc": 5,
+      "foc": 5
     },
     "flrfi": {
       "gsp": 2,
       "ssp": 3,
-      "dc": 3
+      "dc": 3,
+      "foc": 2
     },
     "divine_codes": {
       "normal": [
@@ -1548,7 +1551,8 @@
     "fodder_ids": [
       "PID_ギムレー女",
       "PID_ラファール",
-      "PID_ハロルフレ男"
+      "PID_ハロルフレ男",
+      "PID_魔器ヴァニタス味方"
     ],
     "fodder": {
       "g4": 2,
@@ -1564,17 +1568,19 @@
       "hg": false,
       "dc": true,
       "ldc": false,
-      "foc": false
+      "foc": true
     },
     "flrwo": {
       "gsp": 5,
       "ssp": 4.5,
-      "dc": 5
+      "dc": 5,
+      "foc": 5
     },
     "flrfi": {
       "gsp": 3,
       "ssp": 4,
-      "dc": 4
+      "dc": 4,
+      "foc": 3
     },
     "divine_codes": {
       "normal": [
@@ -1591,7 +1597,8 @@
     "fodder_ids": [
       "PID_ギムレー女",
       "PID_ラファール",
-      "PID_ハロルフレ男"
+      "PID_ハロルフレ男",
+      "PID_魔器ヴァニタス味方"
     ],
     "fodder": {
       "g4": 3,
@@ -1607,17 +1614,19 @@
       "hg": false,
       "dc": true,
       "ldc": false,
-      "foc": false
+      "foc": true
     },
     "flrwo": {
       "gsp": 5,
       "ssp": 4.5,
-      "dc": 5
+      "dc": 5,
+      "foc": 5
     },
     "flrfi": {
       "gsp": 4,
       "ssp": 5,
-      "dc": 5
+      "dc": 5,
+      "foc": 4
     },
     "divine_codes": {
       "normal": [
@@ -1774,6 +1783,35 @@
     },
     "flrfi": {
       "ssp": 5
+    },
+    "divine_codes": {}
+  },
+  {
+    "id": "SID_兜の護り手・魔・双",
+    "fodder_ids": [
+      "PID_魔器ヴァニタス味方"
+    ],
+    "fodder": {
+      "g4": 4,
+      "hg": 4,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 1,
+      "shsr": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "flrwo": {
+      "foc": 5
+    },
+    "flrfi": {
+      "foc": 5
     },
     "divine_codes": {}
   },
@@ -2164,7 +2202,8 @@
   {
     "id": "SID_攻速鼓舞・強襲",
     "fodder_ids": [
-      "PID_比翼グルヴェイグ2"
+      "PID_比翼グルヴェイグ2",
+      "PID_双界総選挙リン"
     ],
     "fodder": {
       "g4": 1,
@@ -3846,6 +3885,35 @@
         }
       ]
     }
+  },
+  {
+    "id": "SID_真蒼炎の天空",
+    "fodder_ids": [
+      "PID_双界総選挙アイク"
+    ],
+    "fodder": {
+      "g4": 1,
+      "hg": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 1,
+      "shsr": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": true,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "flrwo": {
+      "ssp": 5
+    },
+    "flrfi": {
+      "ssp": 5
+    },
+    "divine_codes": {}
   },
   {
     "id": "SID_蒼炎の天空",
@@ -7463,6 +7531,35 @@
     "divine_codes": {}
   },
   {
+    "id": "SID_魔器・幼神のブレス",
+    "fodder_ids": [
+      "PID_魔器ヴァニタス味方"
+    ],
+    "fodder": {
+      "g4": 1,
+      "hg": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 1,
+      "shsr": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "flrwo": {
+      "foc": 5
+    },
+    "flrfi": {
+      "foc": 5
+    },
+    "divine_codes": {}
+  },
+  {
     "id": "SID_魔器・鍛錬の花槍",
     "fodder_ids": [
       "PID_魔器アルフレッド"
@@ -7846,6 +7943,7 @@
     "fodder_ids": [
       "PID_総選挙バルドル",
       "PID_伝承ディアマンド",
+      "PID_双界総選挙リン",
       "PID_シャロン22025味方",
       "PID_忍者ユナカ"
     ],
@@ -8964,6 +9062,7 @@
       "PID_水着エイリーク",
       "PID_水着フレデリク",
       "PID_ギュンター",
+      "PID_双界総選挙アイク",
       "PID_水着イングリット",
       "PID_ハロジョーカー",
       "PID_年明フランネル",
@@ -9077,6 +9176,7 @@
       "PID_カチュア",
       "PID_水着フレデリク",
       "PID_ギュンター",
+      "PID_双界総選挙アイク",
       "PID_チキ",
       "PID_ティアマト",
       "PID_マークス"
@@ -9126,6 +9226,7 @@
       "PID_カチュア",
       "PID_水着フレデリク",
       "PID_ギュンター",
+      "PID_双界総選挙アイク",
       "PID_チキ",
       "PID_ティアマト",
       "PID_マークス"
@@ -41766,6 +41867,7 @@
     "fodder_ids": [
       "PID_伝承アイラ",
       "PID_伝承ディアマンド",
+      "PID_双界総選挙アイク",
       "PID_花嫁ラクチェ",
       "PID_ソーンバルケ"
     ],
@@ -47808,6 +47910,7 @@
       "PID_開花チキ",
       "PID_双界チキ覚醒",
       "PID_ファウダー",
+      "PID_魔器ヴァニタス味方",
       "PID_ベルド",
       "PID_闇ヴェイル",
       "PID_神階ヴェイル",
@@ -55967,6 +56070,7 @@
       "PID_紋章アイク",
       "PID_愛の祭アイク",
       "PID_伝承アイク",
+      "PID_双界総選挙アイク",
       "PID_樹",
       "PID_クリス男",
       "PID_ラズワルド",
@@ -68056,6 +68160,7 @@
       "PID_闇ライナス",
       "PID_闇ロイド",
       "PID_ルミエル",
+      "PID_双界総選挙リン",
       "PID_幼少ワユ",
       "PID_マーク男",
       "PID_闇ムワリム",
@@ -68350,6 +68455,7 @@
       "PID_闇ロイド",
       "PID_ルミエル",
       "PID_総選挙リン",
+      "PID_双界総選挙リン",
       "PID_伝承マルス",
       "PID_幼少マルス",
       "PID_比翼マルス2",
@@ -68661,6 +68767,35 @@
         }
       ]
     }
+  },
+  {
+    "id": "SID_竜氷",
+    "fodder_ids": [
+      "PID_魔器ヴァニタス味方"
+    ],
+    "fodder": {
+      "g4": 1,
+      "hg": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 1,
+      "shsr": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "flrwo": {
+      "foc": 5
+    },
+    "flrfi": {
+      "foc": 5
+    },
+    "divine_codes": {}
   },
   {
     "id": "SID_リトスの神竜王",
@@ -77638,6 +77773,7 @@
       "PID_ダグ味方",
       "PID_伝承ディアマンド",
       "PID_忍者ディアマンド",
+      "PID_双界総選挙アイク",
       "PID_水着ラピス",
       "PID_リーヴ味方",
       "PID_ルキノ",
@@ -77699,6 +77835,7 @@
       "PID_ダグ味方",
       "PID_伝承ディアマンド",
       "PID_忍者ディアマンド",
+      "PID_双界総選挙アイク",
       "PID_水着ラピス",
       "PID_リーヴ味方",
       "PID_ルキノ",
@@ -77760,6 +77897,7 @@
       "PID_ダグ味方",
       "PID_伝承ディアマンド",
       "PID_忍者ディアマンド",
+      "PID_双界総選挙アイク",
       "PID_水着ラピス",
       "PID_リーヴ味方",
       "PID_ルキノ",
@@ -78071,6 +78209,31 @@
         }
       ]
     }
+  },
+  {
+    "id": "SID_理の蛇毒・呼吸",
+    "fodder_ids": [
+      "PID_双界総選挙リン"
+    ],
+    "fodder": {
+      "g4": 1,
+      "hg": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 1,
+      "shsr": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "flrwo": {},
+    "flrfi": {},
+    "divine_codes": {}
   },
   {
     "id": "SID_楽園の果汁",
@@ -81936,6 +82099,7 @@
       "PID_伝承チキ",
       "PID_チキ覚醒",
       "PID_催眠チキ",
+      "PID_魔器ヴァニタス味方",
       "PID_ユーミル"
     ],
     "fodder": {
@@ -82251,6 +82415,7 @@
       "PID_伝承チキ",
       "PID_チキ覚醒",
       "PID_催眠チキ",
+      "PID_魔器ヴァニタス味方",
       "PID_ユーミル"
     ],
     "fodder": {
@@ -84010,6 +84175,7 @@
       "PID_双界チキ",
       "PID_伝承チキ",
       "PID_催眠チキ",
+      "PID_魔器ヴァニタス味方",
       "PID_ユーミル"
     ],
     "fodder": {
@@ -94195,6 +94361,7 @@
       "PID_カダインセネリオ",
       "PID_響心サーリャ",
       "PID_ファウダー",
+      "PID_魔器ヴァニタス味方",
       "PID_ベルド",
       "PID_海賊ビーゼ",
       "PID_神階ユンヌ",
@@ -106593,6 +106760,7 @@
       "PID_ラズワルド",
       "PID_リアーネ",
       "PID_花嫁ルイーズ",
+      "PID_双界総選挙リン",
       "PID_総選挙リシテア",
       "PID_比翼マルス",
       "PID_マシュー",
@@ -106721,6 +106889,7 @@
       "PID_ラズワルド",
       "PID_リアーネ",
       "PID_花嫁ルイーズ",
+      "PID_双界総選挙リン",
       "PID_総選挙リシテア",
       "PID_比翼マルス",
       "PID_マシュー",
@@ -106843,6 +107012,7 @@
       "PID_年明スリーズ",
       "PID_双界イングリット",
       "PID_ラズワルド",
+      "PID_双界総選挙リン",
       "PID_総選挙リシテア",
       "PID_比翼マルス",
       "PID_マシュー",
@@ -113189,6 +113359,31 @@
     "divine_codes": {}
   },
   {
+    "id": "SID_疾聖ミュルグレ",
+    "fodder_ids": [
+      "PID_双界総選挙リン"
+    ],
+    "fodder": {
+      "g4": 1,
+      "hg": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 1,
+      "shsr": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "flrwo": {},
+    "flrfi": {},
+    "divine_codes": {}
+  },
+  {
     "id": "SID_老騎士の古斧",
     "fodder_ids": [
       "PID_ギュンター"
@@ -113592,6 +113787,7 @@
       "PID_花婿ヒナタ",
       "PID_忍者フリーズ",
       "PID_総選挙アイク",
+      "PID_双界総選挙アイク",
       "PID_双界イングリット",
       "PID_水着ヒーニアス",
       "PID_ジル",
@@ -114275,6 +114471,7 @@
       "PID_伝承ルキナ",
       "PID_比翼ルキナ",
       "PID_総選挙リン",
+      "PID_双界総選挙リン",
       "PID_水着リン",
       "PID_伝承リン",
       "PID_紋章リン",
@@ -143140,6 +143337,35 @@
     }
   },
   {
+    "id": "SID_後の先",
+    "fodder_ids": [
+      "PID_双界総選挙アイク"
+    ],
+    "fodder": {
+      "g4": 1,
+      "hg": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 1,
+      "shsr": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": true,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "flrwo": {
+      "ssp": 5
+    },
+    "flrfi": {
+      "ssp": 5
+    },
+    "divine_codes": {}
+  },
+  {
     "id": "SID_大盾",
     "fodder_ids": [
       "PID_アーダン",
@@ -145726,6 +145952,7 @@
       "PID_ジュダ",
       "PID_スズカゼ",
       "PID_魔器リリーナ",
+      "PID_双界総選挙リン",
       "PID_比翼リオン",
       "PID_マシュー",
       "PID_メトジェイ",
@@ -145806,6 +146033,7 @@
       "PID_ジュダ",
       "PID_スズカゼ",
       "PID_魔器リリーナ",
+      "PID_双界総選挙リン",
       "PID_比翼リオン",
       "PID_マシュー",
       "PID_メトジェイ",
@@ -145886,6 +146114,7 @@
       "PID_ジュダ",
       "PID_スズカゼ",
       "PID_魔器リリーナ",
+      "PID_双界総選挙リン",
       "PID_比翼リオン",
       "PID_マシュー",
       "PID_メトジェイ",
@@ -148630,6 +148859,7 @@
       "PID_フローラ",
       "PID_魔器ガングレト味方",
       "PID_年明フリーズ",
+      "PID_双界総選挙アイク",
       "PID_クレイン",
       "PID_行楽レオン",
       "PID_レオン",
@@ -148743,6 +148973,7 @@
       "PID_フローラ",
       "PID_魔器ガングレト味方",
       "PID_年明フリーズ",
+      "PID_双界総選挙アイク",
       "PID_クレイン",
       "PID_行楽レオン",
       "PID_レオン",
@@ -148856,6 +149087,7 @@
       "PID_フローラ",
       "PID_魔器ガングレト味方",
       "PID_年明フリーズ",
+      "PID_双界総選挙アイク",
       "PID_クレイン",
       "PID_行楽レオン",
       "PID_レオン",
@@ -165876,6 +166108,31 @@
     "divine_codes": {}
   },
   {
+    "id": "SID_真大いなるサカの掟",
+    "fodder_ids": [
+      "PID_双界総選挙リン"
+    ],
+    "fodder": {
+      "g4": 1,
+      "hg": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 1,
+      "shsr": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "flrwo": {},
+    "flrfi": {},
+    "divine_codes": {}
+  },
+  {
     "id": "SID_若き狼の鋭弓",
     "fodder_ids": [
       "PID_ラス"
@@ -167790,7 +168047,8 @@
   {
     "id": "SID_奥義隊形・竜眼",
     "fodder_ids": [
-      "PID_闇リュール女"
+      "PID_闇リュール女",
+      "PID_魔器ヴァニタス味方"
     ],
     "fodder": {
       "g4": 1,
@@ -167806,13 +168064,15 @@
       "hg": false,
       "dc": false,
       "ldc": false,
-      "foc": false
+      "foc": true
     },
     "flrwo": {
-      "gsp": 5
+      "gsp": 5,
+      "foc": 5
     },
     "flrfi": {
-      "gsp": 5
+      "gsp": 5,
+      "foc": 5
     },
     "divine_codes": {}
   },
@@ -173448,6 +173708,7 @@
       "PID_ヒルダ",
       "PID_忍者フリーズ",
       "PID_総選挙アイク",
+      "PID_双界総選挙アイク",
       "PID_双界イングリット",
       "PID_ジル",
       "PID_双界カアラ",
@@ -173765,6 +174026,7 @@
       "PID_伝承ルキナ",
       "PID_比翼ルキナ",
       "PID_総選挙リン",
+      "PID_双界総選挙リン",
       "PID_水着リン",
       "PID_伝承リン",
       "PID_紋章リン",
@@ -178026,6 +178288,7 @@
       "PID_紋章アイク",
       "PID_愛の祭アイク",
       "PID_伝承アイク",
+      "PID_双界総選挙アイク",
       "PID_樹",
       "PID_総選挙ルキナ",
       "PID_魔王リオン",
@@ -187424,6 +187687,7 @@
       "PID_冬祭ソティス",
       "PID_催眠チキ",
       "PID_ウーゼル",
+      "PID_魔器ヴァニタス味方",
       "PID_忍者ゼルギウス"
     ],
     "fodder": {
@@ -187440,21 +187704,23 @@
       "hg": true,
       "dc": true,
       "ldc": true,
-      "foc": false
+      "foc": true
     },
     "flrwo": {
       "gsp": 3,
       "ssp": 4,
       "hg": 3,
       "dc": 5,
-      "ldc": 5
+      "ldc": 5,
+      "foc": 5
     },
     "flrfi": {
       "gsp": 2,
       "ssp": 1,
       "hg": 3,
       "dc": 1,
-      "ldc": 2
+      "ldc": 2,
+      "foc": 2
     },
     "divine_codes": {
       "normal": [
@@ -187506,6 +187772,7 @@
       "PID_冬祭ソティス",
       "PID_催眠チキ",
       "PID_ウーゼル",
+      "PID_魔器ヴァニタス味方",
       "PID_忍者ゼルギウス"
     ],
     "fodder": {
@@ -187522,21 +187789,23 @@
       "hg": true,
       "dc": true,
       "ldc": true,
-      "foc": false
+      "foc": true
     },
     "flrwo": {
       "gsp": 3,
       "ssp": 4,
       "hg": 3,
       "dc": 5,
-      "ldc": 5
+      "ldc": 5,
+      "foc": 5
     },
     "flrfi": {
       "gsp": 3,
       "ssp": 2,
       "hg": 4,
       "dc": 2,
-      "ldc": 3
+      "ldc": 3,
+      "foc": 3
     },
     "divine_codes": {
       "normal": [
@@ -187588,6 +187857,7 @@
       "PID_冬祭ソティス",
       "PID_催眠チキ",
       "PID_ウーゼル",
+      "PID_魔器ヴァニタス味方",
       "PID_忍者ゼルギウス"
     ],
     "fodder": {
@@ -187604,21 +187874,23 @@
       "hg": true,
       "dc": true,
       "ldc": true,
-      "foc": false
+      "foc": true
     },
     "flrwo": {
       "gsp": 3,
       "ssp": 4,
       "hg": 3,
       "dc": 5,
-      "ldc": 5
+      "ldc": 5,
+      "foc": 5
     },
     "flrfi": {
       "gsp": 4,
       "ssp": 4,
       "hg": 5,
       "dc": 4,
-      "ldc": 4
+      "ldc": 4,
+      "foc": 4
     },
     "divine_codes": {
       "normal": [
@@ -194571,6 +194843,7 @@
       "PID_花婿ヒナタ",
       "PID_忍者フリーズ",
       "PID_総選挙アイク",
+      "PID_双界総選挙アイク",
       "PID_双界イングリット",
       "PID_水着ヒーニアス",
       "PID_ジル",
@@ -195254,6 +195527,7 @@
       "PID_伝承ルキナ",
       "PID_比翼ルキナ",
       "PID_総選挙リン",
+      "PID_双界総選挙リン",
       "PID_水着リン",
       "PID_伝承リン",
       "PID_紋章リン",
@@ -212555,6 +212829,35 @@
     }
   },
   {
+    "id": "SID_新生せし神",
+    "fodder_ids": [
+      "PID_魔器ヴァニタス味方"
+    ],
+    "fodder": {
+      "g4": 1,
+      "hg": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 1,
+      "shsr": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "flrwo": {
+      "foc": 5
+    },
+    "flrfi": {
+      "foc": 5
+    },
+    "divine_codes": {}
+  },
+  {
     "id": "SID_二国の花嫁のブーケ",
     "fodder_ids": [
       "PID_比翼シャロン"
@@ -213082,6 +213385,35 @@
     },
     "flrfi": {
       "gsp": 5
+    },
+    "divine_codes": {}
+  },
+  {
+    "id": "SID_蒼烈ウルヴァン",
+    "fodder_ids": [
+      "PID_双界総選挙アイク"
+    ],
+    "fodder": {
+      "g4": 1,
+      "hg": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 1,
+      "shsr": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": true,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "flrwo": {
+      "ssp": 5
+    },
+    "flrfi": {
+      "ssp": 5
     },
     "divine_codes": {}
   },
@@ -217235,6 +217567,35 @@
     },
     "flrfi": {
       "gsp": 5
+    },
+    "divine_codes": {}
+  },
+  {
+    "id": "SID_濁流の一撃",
+    "fodder_ids": [
+      "PID_双界総選挙アイク"
+    ],
+    "fodder": {
+      "g4": 1,
+      "hg": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 1,
+      "shsr": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": true,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "flrwo": {
+      "ssp": 5
+    },
+    "flrfi": {
+      "ssp": 5
     },
     "divine_codes": {}
   },

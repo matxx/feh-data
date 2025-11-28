@@ -19263,6 +19263,42 @@
     "divine_codes": {}
   },
   {
+    "id": "PID_双界総選挙アイク",
+    "is_in": {
+      "gsp": false,
+      "ssp": true,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {
+      "ssp": 5
+    },
+    "skill_ids": [
+      "SID_切り返し1",
+      "SID_切り返し2",
+      "SID_切り返し3",
+      "SID_太陽",
+      "SID_後の先",
+      "SID_濁流の一撃",
+      "SID_真蒼炎の天空",
+      "SID_蒼烈ウルヴァン",
+      "SID_迅雷風烈・偶数1",
+      "SID_迅雷風烈・偶数2",
+      "SID_迅雷風烈・偶数3",
+      "SID_迅雷風烈・鬼没",
+      "SID_金剛の一撃1",
+      "SID_金剛の一撃2",
+      "SID_金剛の一撃3",
+      "SID_鉄の斧",
+      "SID_銀の斧",
+      "SID_鋼の斧",
+      "SID_陽影"
+    ],
+    "divine_codes": {}
+  },
+  {
     "id": "PID_幼少イレース",
     "is_in": {
       "gsp": false,
@@ -26669,6 +26705,37 @@
       "SID_幻惑の杖3",
       "SID_治癒",
       "SID_疾風の祝福"
+    ],
+    "divine_codes": {}
+  },
+  {
+    "id": "PID_双界総選挙リン",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {},
+    "skill_ids": [
+      "SID_伏竜",
+      "SID_攻速鼓舞・強襲",
+      "SID_理の蛇毒・呼吸",
+      "SID_疾聖ミュルグレ",
+      "SID_真大いなるサカの掟",
+      "SID_竜穿",
+      "SID_蛇毒1",
+      "SID_蛇毒2",
+      "SID_蛇毒3",
+      "SID_角逐",
+      "SID_速さの鼓舞1",
+      "SID_速さの鼓舞2",
+      "SID_速さの鼓舞3",
+      "SID_鉄の弓",
+      "SID_銀の弓",
+      "SID_鋼の弓"
     ],
     "divine_codes": {}
   },
@@ -44737,6 +44804,39 @@
         }
       ]
     }
+  },
+  {
+    "id": "PID_魔器ヴァニタス味方",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "lowest_rarity": {
+      "foc": 5
+    },
+    "skill_ids": [
+      "SID_兜の護り手・近間1",
+      "SID_兜の護り手・近間2",
+      "SID_兜の護り手・近間3",
+      "SID_兜の護り手・魔・双",
+      "SID_奥義隊形1",
+      "SID_奥義隊形2",
+      "SID_奥義隊形3",
+      "SID_奥義隊形・竜眼",
+      "SID_新生せし神",
+      "SID_氷点",
+      "SID_氷華",
+      "SID_火のブレス",
+      "SID_火炎のブレス",
+      "SID_灼熱のブレス",
+      "SID_竜氷",
+      "SID_魔器・幼神のブレス"
+    ],
+    "divine_codes": {}
   },
   {
     "id": "PID_ベルド",

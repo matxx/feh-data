@@ -2,7 +2,7 @@
   "skills_max_tier": 4,
   "skills_max_sp": 500,
   "skills_max_cd": 5,
-  "units_count": 1314,
+  "units_count": 1317,
   "units_max_hp": 60,
   "units_max_hp_ids": [
     "PID_アーダン"
@@ -20,6 +20,7 @@
     "PID_ソーンバルケ",
     "PID_フェリア仮面マルス",
     "PID_双界フィル",
+    "PID_双界総選挙リン",
     "PID_忍者シェズ女",
     "PID_忍者ユナカ",
     "PID_比翼エリンシア",

@@ -2130,6 +2130,19 @@
     ]
   },
   {
+    "name": "Focus: Double Special Heroes (Nov 2025)",
+    "unit_ids": [
+      "PID_お茶会ヴェロニカ2",
+      "PID_双界セリカ",
+      "PID_双界マリカ",
+      "PID_幼少レオン",
+      "PID_春祭ヴェイル",
+      "PID_比翼ハピ",
+      "PID_水着ラピス",
+      "PID_花婿セリス"
+    ]
+  },
+  {
     "name": "Focus: Double Special Heroes (Oct 2020)",
     "unit_ids": [
       "PID_双界ワユ",
@@ -2218,9 +2231,9 @@
   {
     "name": "Focus: Dwyer & Jakob's Battle",
     "unit_ids": [
+      "PID_カムイ男",
       "PID_ジョーカー",
-      "PID_ディーア",
-      "PID_フェリシア"
+      "PID_ディーア"
     ]
   },
   {
@@ -4334,6 +4347,14 @@
       "PID_暴走レア",
       "PID_開花フィヨルム味方",
       "PID_闇ハイドラ"
+    ]
+  },
+  {
+    "name": "Focus: Heroes with Savior Skills (Nov 2025)",
+    "unit_ids": [
+      "PID_ギムレー女",
+      "PID_ラファール",
+      "PID_闇リュール女"
     ]
   },
   {
@@ -7479,6 +7500,14 @@
     ]
   },
   {
+    "name": "Focus: Weekly Revival 117",
+    "unit_ids": [
+      "PID_ハーディン",
+      "PID_開花エリンシア",
+      "PID_開花チキ"
+    ]
+  },
+  {
     "name": "Focus: Weekly Revival 12",
     "unit_ids": [
       "PID_ドルカス",
@@ -8537,6 +8566,14 @@
       "PID_春祭カゲロウ",
       "PID_春祭カチュア",
       "PID_春祭シャロン"
+    ]
+  },
+  {
+    "name": "Harmonized CYL Ike, Lyn",
+    "unit_ids": [
+      "PID_双界総選挙アイク",
+      "PID_双界総選挙リン",
+      "PID_魔器ヴァニタス味方"
     ]
   },
   {
@@ -11234,6 +11271,19 @@
       "PID_魔器ターナ",
       "PID_魔器ラインハルト",
       "PID_魔器闇クロム"
+    ]
+  },
+  {
+    "name": "New Heroes Return (Nov 2025)",
+    "unit_ids": [
+      "PID_レギン2味方",
+      "PID_響心アルム",
+      "PID_響心ブリギッド",
+      "PID_響心ミスティラ",
+      "PID_響心若年チキ",
+      "PID_魔器ノワール",
+      "PID_魔器マリアンヌ",
+      "PID_魔器レイラ"
     ]
   },
   {

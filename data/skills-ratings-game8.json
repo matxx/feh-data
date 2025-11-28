@@ -13305,14 +13305,14 @@
     "game8_grade": "A"
   },
   {
-    "id": "SID_サカの掟・承",
-    "game8_rating": "9.0",
-    "game8_grade": null
-  },
-  {
     "id": "SID_オスティアの反撃",
     "game8_rating": "9.5",
     "game8_grade": "SS"
+  },
+  {
+    "id": "SID_サカの掟・承",
+    "game8_rating": "9.0",
+    "game8_grade": null
   },
   {
     "id": "SID_覇神断竜剣",
@@ -13325,12 +13325,12 @@
     "game8_grade": "A"
   },
   {
-    "id": "SID_邪竜の重鱗",
+    "id": "SID_女神の三雄",
     "game8_rating": "9.0",
     "game8_grade": null
   },
   {
-    "id": "SID_女神の三雄",
+    "id": "SID_邪竜の重鱗",
     "game8_rating": "9.0",
     "game8_grade": null
   },
@@ -13350,12 +13350,7 @@
     "game8_grade": "A"
   },
   {
-    "id": "SID_邪竜の大鱗",
-    "game8_rating": "9.5",
-    "game8_grade": "A"
-  },
-  {
-    "id": "SID_連閃",
+    "id": "SID_陰陽の法則・神",
     "game8_rating": "9.5",
     "game8_grade": "S"
   },
@@ -13365,17 +13360,22 @@
     "game8_grade": "A"
   },
   {
-    "id": "SID_陰陽の法則・神",
+    "id": "SID_連閃",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_邪竜の大鱗",
+    "game8_rating": "9.5",
+    "game8_grade": "A"
+  },
+  {
+    "id": "SID_漆黒の悪夢",
     "game8_rating": "9.5",
     "game8_grade": "S"
   },
   {
     "id": "SID_連閃・承",
-    "game8_rating": "9.5",
-    "game8_grade": "S"
-  },
-  {
-    "id": "SID_漆黒の悪夢",
     "game8_rating": "9.5",
     "game8_grade": "S"
   },
@@ -13605,6 +13605,11 @@
     "game8_grade": null
   },
   {
+    "id": "SID_切り返し4",
+    "game8_rating": "9.5",
+    "game8_grade": "A"
+  },
+  {
     "id": "SID_攻め立て2",
     "game8_rating": null,
     "game8_grade": null
@@ -13673,11 +13678,6 @@
     "id": "SID_生命の護符4",
     "game8_rating": "9.0",
     "game8_grade": null
-  },
-  {
-    "id": "SID_切り返し4",
-    "game8_rating": "9.5",
-    "game8_grade": "A"
   },
   {
     "id": "SID_絶対化身・追撃1",

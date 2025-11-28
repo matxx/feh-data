@@ -827,6 +827,7 @@
     "version": "5.2",
     "upgrade_ids": [
       "SID_兜の護り手・遠・双",
+      "SID_兜の護り手・魔・双",
       "SID_衣の護り手・魔・茨"
     ],
     "downgrade_ids": [
@@ -1115,6 +1116,7 @@
     "version": "5.10",
     "upgrade_ids": [
       "SID_兜の護り手・近・茨",
+      "SID_兜の護り手・魔・双",
       "SID_兜の護り手・近・双",
       "SID_衣の護り手・魔・茨"
     ],
@@ -1285,6 +1287,32 @@
     "release_date": "2024-10-04",
     "version": "8.10",
     "downgrade_ids": [
+      "SID_兜の護り手・遠間3"
+    ]
+  },
+  {
+    "id": "SID_兜の護り手・魔・双",
+    "name": "A/R Twin M Save",
+    "group_name": "A/R Twin M Save",
+    "category": "passivec",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/43/A_R_Twin_M_Save.png/revision/latest?cb=20251128062716",
+    "is_prf": false,
+    "sp": 300,
+    "tier": 4,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Armored"
+        ]
+      },
+      "weapons": null
+    },
+    "addition_date": "2025-11-05",
+    "release_date": "2025-11-28",
+    "version": "9.11",
+    "downgrade_ids": [
+      "SID_兜の護り手・近間3",
       "SID_兜の護り手・遠間3"
     ]
   },
@@ -2640,6 +2668,29 @@
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
     "version": "1.0",
+    "downgrade_ids": [
+      "SID_太陽",
+      "SID_月光"
+    ]
+  },
+  {
+    "id": "SID_真蒼炎の天空",
+    "name": "Aether's Course",
+    "group_name": "Aether's Course",
+    "category": "special",
+    "is_prf": true,
+    "sp": 500,
+    "tier": 3,
+    "cd": 5,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": null
+    },
+    "addition_date": "2025-11-28",
+    "release_date": "2025-11-28",
+    "version": "9.11",
     "downgrade_ids": [
       "SID_太陽",
       "SID_月光"
@@ -5389,6 +5440,32 @@
     ]
   },
   {
+    "id": "SID_魔器・幼神のブレス",
+    "name": "Arcane Outburst",
+    "group_name": "Arcane Outburst",
+    "category": "weapon",
+    "weapon_type": "All Breath",
+    "is_prf": false,
+    "sp": 300,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "All Breath"
+        ]
+      }
+    },
+    "addition_date": "2025-11-05",
+    "release_date": "2025-11-28",
+    "version": "9.11",
+    "downgrade_ids": [
+      "SID_灼熱のブレス"
+    ]
+  },
+  {
     "id": "SID_魔器・鍛錬の花槍",
     "game8_id": "402563",
     "name": "Arcane Qiang",
@@ -6430,6 +6507,9 @@
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
     "version": "1.0",
+    "upgrade_ids": [
+      "SID_濁流の一撃"
+    ],
     "downgrade_ids": [
       "SID_金剛の一撃2"
     ]
@@ -31637,6 +31717,7 @@
   },
   {
     "id": "SID_求めるは知のみ",
+    "game8_id": "566277",
     "name": "Covetous One",
     "group_name": "Covetous One",
     "category": "passivec",
@@ -37614,6 +37695,7 @@
   },
   {
     "id": "SID_守備魔防の枷",
+    "game8_id": "566276",
     "name": "Def/Res Shackle",
     "group_name": "Def/Res Shackle",
     "category": "passiveb",
@@ -42240,6 +42322,32 @@
     ]
   },
   {
+    "id": "SID_竜氷",
+    "name": "Dragon Ice",
+    "group_name": "Dragon Ice",
+    "category": "special",
+    "is_prf": false,
+    "sp": 500,
+    "tier": 3,
+    "cd": 4,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "All Breath"
+        ]
+      }
+    },
+    "addition_date": "2025-11-05",
+    "release_date": "2025-11-28",
+    "version": "9.11",
+    "downgrade_ids": [
+      "SID_氷華"
+    ]
+  },
+  {
     "id": "SID_リトスの神竜王",
     "game8_id": "441905",
     "name": "Dragon Monarch",
@@ -45981,6 +46089,7 @@
   },
   {
     "id": "SID_陶酔の神形",
+    "game8_id": "566274",
     "name": "Enraptured God",
     "group_name": "Enraptured God",
     "category": "weapon",
@@ -46452,6 +46561,7 @@
   },
   {
     "id": "SID_九天グングニル",
+    "game8_id": "566273",
     "name": "Ethereal Gungnir",
     "group_name": "Ethereal Gungnir",
     "category": "weapon",
@@ -47462,6 +47572,35 @@
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
     "version": "1.0"
+  },
+  {
+    "id": "SID_理の蛇毒・呼吸",
+    "name": "Execution Breath",
+    "group_name": "Execution Breath",
+    "category": "passiveb",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/58/Execution_Breath.png/revision/latest?cb=20251128062705",
+    "is_prf": false,
+    "sp": 400,
+    "tier": 4,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_not_use": [
+          "Colorless Staff",
+          "All Tome",
+          "All Breath"
+        ]
+      }
+    },
+    "addition_date": "2025-11-28",
+    "release_date": "2025-11-28",
+    "version": "9.11",
+    "downgrade_ids": [
+      "SID_蛇毒3"
+    ]
   },
   {
     "id": "SID_楽園の果汁",
@@ -58445,6 +58584,7 @@
     "release_date": "2017-02-02",
     "version": "1.0",
     "upgrade_ids": [
+      "SID_竜氷",
       "SID_氷輪",
       "SID_氷壁",
       "SID_鎮魂の舞",
@@ -70345,6 +70485,35 @@
     ]
   },
   {
+    "id": "SID_疾聖ミュルグレ",
+    "name": "Intrinsic Mulagir",
+    "group_name": "Intrinsic Mulagir",
+    "category": "weapon",
+    "weapon_type": "All Bow",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "eff": [
+      "flying"
+    ],
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "All Bow"
+        ]
+      }
+    },
+    "addition_date": "2025-11-28",
+    "release_date": "2025-11-28",
+    "version": "9.11",
+    "downgrade_ids": [
+      "SID_銀の弓"
+    ]
+  },
+  {
     "id": "SID_老騎士の古斧",
     "game8_id": "285867",
     "name": "Inveterate Axe",
@@ -70399,6 +70568,7 @@
   },
   {
     "id": "SID_お姉様は絶対無敵",
+    "game8_id": "566275",
     "name": "Invincible Sister",
     "group_name": "Invincible Sister",
     "category": "special",
@@ -77681,6 +77851,7 @@
     "version": "1.0",
     "upgrade_ids": [
       "SID_天空",
+      "SID_真蒼炎の天空",
       "SID_蒼炎の天空",
       "SID_黒の月光",
       "SID_凶弾",
@@ -84289,6 +84460,7 @@
   },
   {
     "id": "SID_攻速十紋章・見切り",
+    "game8_id": "566278",
     "name": "Null Uplift A/S",
     "group_name": "Null Uplift A/S",
     "category": "passivec",
@@ -87639,6 +87811,35 @@
     ]
   },
   {
+    "id": "SID_後の先",
+    "name": "Patience",
+    "group_name": "Patience",
+    "category": "passiveb",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/bf/Patience.png/revision/latest?cb=20251128062654",
+    "is_prf": false,
+    "sp": 400,
+    "tier": 4,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "All Melee",
+          "All Breath",
+          "All Beast"
+        ]
+      }
+    },
+    "addition_date": "2025-11-28",
+    "release_date": "2025-11-28",
+    "version": "9.11",
+    "downgrade_ids": [
+      "SID_切り返し3"
+    ]
+  },
+  {
     "id": "SID_大盾",
     "game8_id": "266050",
     "name": "Pavise",
@@ -89450,6 +89651,7 @@
     "upgrade_ids": [
       "SID_理の蛇毒",
       "SID_魔の蛇毒・呼吸",
+      "SID_理の蛇毒・呼吸",
       "SID_魔の蛇毒"
     ],
     "downgrade_ids": [
@@ -91756,6 +91958,7 @@
     "release_date": "2017-02-02",
     "version": "1.0",
     "upgrade_ids": [
+      "SID_後の先",
       "SID_切り返し4"
     ],
     "downgrade_ids": [
@@ -101785,6 +101988,26 @@
     "version": "1.6"
   },
   {
+    "id": "SID_真大いなるサカの掟",
+    "name": "Sacae's Decree",
+    "group_name": "Sacae's Decree",
+    "category": "passivea",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f5/Sacaes_Decree.png/revision/latest?cb=20251128062623",
+    "is_prf": true,
+    "sp": 300,
+    "tier": 1,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": null
+    },
+    "addition_date": "2025-11-28",
+    "release_date": "2025-11-28",
+    "version": "9.11"
+  },
+  {
     "id": "SID_若き狼の鋭弓",
     "game8_id": "435911",
     "name": "Sacaen-Wolf Bow",
@@ -107427,6 +107650,7 @@
       "SID_蒼波薙ぐ剛力の櫂",
       "SID_ウルズ",
       "SID_ウルヴァン",
+      "SID_蒼烈ウルヴァン",
       "SID_戦神の勇斧",
       "SID_覇道の戦斧",
       "SID_プージ",
@@ -107530,6 +107754,7 @@
       "SID_継承イチイバル",
       "SID_聖血イチイバル",
       "SID_義憤の強弓",
+      "SID_疾聖ミュルグレ",
       "SID_巨人姉妹の弓",
       "SID_正義の一矢の弓",
       "SID_猛き狼の弓",
@@ -110131,6 +110356,7 @@
     "version": "1.0",
     "upgrade_ids": [
       "SID_天空",
+      "SID_真蒼炎の天空",
       "SID_蒼炎の天空",
       "SID_覇克・天空",
       "SID_大いなる癒しの手",
@@ -129423,6 +129649,26 @@
     "version": "8.6"
   },
   {
+    "id": "SID_新生せし神",
+    "name": "Unfledged God",
+    "group_name": "Unfledged God",
+    "category": "passivea",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d0/Unfledged_God.png/revision/latest?cb=20251128062633",
+    "is_prf": true,
+    "sp": 300,
+    "tier": 1,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": null
+    },
+    "addition_date": "2025-11-05",
+    "release_date": "2025-11-28",
+    "version": "9.11"
+  },
+  {
     "id": "SID_二国の花嫁のブーケ",
     "game8_id": "455359",
     "name": "United Bouquet",
@@ -129846,6 +130092,32 @@
     "addition_date": "2017-08-31",
     "release_date": "2017-08-31",
     "version": "1.6"
+  },
+  {
+    "id": "SID_蒼烈ウルヴァン",
+    "name": "Urvan Brilliance",
+    "group_name": "Urvan Brilliance",
+    "category": "weapon",
+    "weapon_type": "Green Axe",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Green Axe"
+        ]
+      }
+    },
+    "addition_date": "2025-11-28",
+    "release_date": "2025-11-28",
+    "version": "9.11",
+    "downgrade_ids": [
+      "SID_銀の斧"
+    ]
   },
   {
     "id": "SID_ヴァフスルーズニル",
@@ -132350,7 +132622,8 @@
     "release_date": "2017-02-02",
     "version": "1.0",
     "upgrade_ids": [
-      "SID_清流の一撃"
+      "SID_清流の一撃",
+      "SID_濁流の一撃"
     ],
     "downgrade_ids": [
       "SID_明鏡の一撃2"
@@ -132674,6 +132947,38 @@
     "addition_date": "2018-04-24",
     "release_date": "2018-04-24",
     "version": "2.4"
+  },
+  {
+    "id": "SID_濁流の一撃",
+    "name": "Warrior's Blow",
+    "group_name": "Warrior's Blow",
+    "category": "passivea",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b5/Warriors_Blow.png/revision/latest?cb=20251128062643",
+    "is_prf": false,
+    "sp": 300,
+    "tier": 4,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Infantry"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "All Melee",
+          "All Breath",
+          "All Beast"
+        ]
+      }
+    },
+    "addition_date": "2025-11-28",
+    "release_date": "2025-11-28",
+    "version": "9.11",
+    "downgrade_ids": [
+      "SID_金剛の一撃3",
+      "SID_明鏡の一撃3"
+    ]
   },
   {
     "id": "SID_武人の鉄剣",

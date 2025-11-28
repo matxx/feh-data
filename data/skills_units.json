@@ -47028,6 +47028,120 @@
     "unlock": 2
   },
   {
+    "unit_id": "PID_双界総選挙アイク",
+    "skill_id": "SID_真蒼炎の天空",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_双界総選挙アイク",
+    "skill_id": "SID_金剛の一撃1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_双界総選挙アイク",
+    "skill_id": "SID_金剛の一撃2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_双界総選挙アイク",
+    "skill_id": "SID_金剛の一撃3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_双界総選挙アイク",
+    "skill_id": "SID_迅雷風烈・鬼没",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_双界総選挙アイク",
+    "skill_id": "SID_陽影",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_双界総選挙アイク",
+    "skill_id": "SID_迅雷風烈・偶数1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_双界総選挙アイク",
+    "skill_id": "SID_迅雷風烈・偶数2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_双界総選挙アイク",
+    "skill_id": "SID_迅雷風烈・偶数3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_双界総選挙アイク",
+    "skill_id": "SID_鉄の斧",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_双界総選挙アイク",
+    "skill_id": "SID_後の先",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_双界総選挙アイク",
+    "skill_id": "SID_切り返し1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_双界総選挙アイク",
+    "skill_id": "SID_切り返し2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_双界総選挙アイク",
+    "skill_id": "SID_切り返し3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_双界総選挙アイク",
+    "skill_id": "SID_銀の斧",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_双界総選挙アイク",
+    "skill_id": "SID_太陽",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_双界総選挙アイク",
+    "skill_id": "SID_鋼の斧",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_双界総選挙アイク",
+    "skill_id": "SID_蒼烈ウルヴァン",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_双界総選挙アイク",
+    "skill_id": "SID_濁流の一撃",
+    "default": 0,
+    "unlock": 5
+  },
+  {
     "unit_id": "PID_幼少イレース",
     "skill_id": "SID_攻撃魔防の大開放1",
     "default": 0,
@@ -63976,6 +64090,102 @@
     "skill_id": "SID_疾風の祝福",
     "default": 5,
     "unlock": 3
+  },
+  {
+    "unit_id": "PID_双界総選挙リン",
+    "skill_id": "SID_角逐",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_双界総選挙リン",
+    "skill_id": "SID_攻速鼓舞・強襲",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_双界総選挙リン",
+    "skill_id": "SID_竜穿",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_双界総選挙リン",
+    "skill_id": "SID_伏竜",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_双界総選挙リン",
+    "skill_id": "SID_理の蛇毒・呼吸",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_双界総選挙リン",
+    "skill_id": "SID_速さの鼓舞1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_双界総選挙リン",
+    "skill_id": "SID_速さの鼓舞2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_双界総選挙リン",
+    "skill_id": "SID_速さの鼓舞3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_双界総選挙リン",
+    "skill_id": "SID_疾聖ミュルグレ",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_双界総選挙リン",
+    "skill_id": "SID_鉄の弓",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_双界総選挙リン",
+    "skill_id": "SID_蛇毒1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_双界総選挙リン",
+    "skill_id": "SID_蛇毒2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_双界総選挙リン",
+    "skill_id": "SID_蛇毒3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_双界総選挙リン",
+    "skill_id": "SID_真大いなるサカの掟",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_双界総選挙リン",
+    "skill_id": "SID_銀の弓",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_双界総選挙リン",
+    "skill_id": "SID_鋼の弓",
+    "default": 2,
+    "unlock": 2
   },
   {
     "unit_id": "PID_水着リン",
@@ -106257,6 +106467,102 @@
     "unit_id": "PID_ヴァネッサ",
     "skill_id": "SID_正々堂々の槍＋",
     "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_魔器ヴァニタス味方",
+    "skill_id": "SID_兜の護り手・近間1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_魔器ヴァニタス味方",
+    "skill_id": "SID_兜の護り手・近間2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_魔器ヴァニタス味方",
+    "skill_id": "SID_兜の護り手・近間3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_魔器ヴァニタス味方",
+    "skill_id": "SID_兜の護り手・魔・双",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_魔器ヴァニタス味方",
+    "skill_id": "SID_魔器・幼神のブレス",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_魔器ヴァニタス味方",
+    "skill_id": "SID_氷点",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_魔器ヴァニタス味方",
+    "skill_id": "SID_竜氷",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_魔器ヴァニタス味方",
+    "skill_id": "SID_火のブレス",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_魔器ヴァニタス味方",
+    "skill_id": "SID_火炎のブレス",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_魔器ヴァニタス味方",
+    "skill_id": "SID_灼熱のブレス",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_魔器ヴァニタス味方",
+    "skill_id": "SID_氷華",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_魔器ヴァニタス味方",
+    "skill_id": "SID_奥義隊形・竜眼",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_魔器ヴァニタス味方",
+    "skill_id": "SID_奥義隊形1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_魔器ヴァニタス味方",
+    "skill_id": "SID_奥義隊形2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_魔器ヴァニタス味方",
+    "skill_id": "SID_奥義隊形3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_魔器ヴァニタス味方",
+    "skill_id": "SID_新生せし神",
+    "default": 0,
     "unlock": 5
   },
   {
