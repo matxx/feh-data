@@ -1306,7 +1306,9 @@
           "Armored"
         ]
       },
-      "weapons": null
+      "weapons": {
+        "none": true
+      }
     },
     "addition_date": "2025-11-05",
     "release_date": "2025-11-28",
@@ -2686,7 +2688,11 @@
       "moves": {
         "none": true
       },
-      "weapons": null
+      "weapons": {
+        "can_not_use": [
+          "Colorless Staff"
+        ]
+      }
     },
     "addition_date": "2025-11-28",
     "release_date": "2025-11-28",
@@ -102001,7 +102007,9 @@
       "moves": {
         "none": true
       },
-      "weapons": null
+      "weapons": {
+        "none": true
+      }
     },
     "addition_date": "2025-11-28",
     "release_date": "2025-11-28",
@@ -129662,7 +129670,9 @@
       "moves": {
         "none": true
       },
-      "weapons": null
+      "weapons": {
+        "none": true
+      }
     },
     "addition_date": "2025-11-05",
     "release_date": "2025-11-28",
