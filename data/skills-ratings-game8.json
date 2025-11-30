@@ -6085,6 +6085,11 @@
     "game8_grade": "S"
   },
   {
+    "id": "SID_蒼烈ウルヴァン",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
     "id": "SID_鏑矢",
     "game8_rating": null,
     "game8_grade": null
@@ -7105,6 +7110,11 @@
     "game8_grade": "S"
   },
   {
+    "id": "SID_魔器・幼神のブレス",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
     "id": "SID_白鷺の翼",
     "game8_rating": "9.5",
     "game8_grade": null
@@ -8116,6 +8126,11 @@
   },
   {
     "id": "SID_猛き闘技者の弓",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_疾聖ミュルグレ",
     "game8_rating": "9.5",
     "game8_grade": "S"
   },
@@ -9750,6 +9765,11 @@
     "game8_grade": "S"
   },
   {
+    "id": "SID_竜氷",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
     "id": "SID_影月",
     "game8_rating": null,
     "game8_grade": null
@@ -10523,6 +10543,11 @@
     "id": "SID_お姉様は絶対無敵",
     "game8_rating": "9.9",
     "game8_grade": "SS"
+  },
+  {
+    "id": "SID_真蒼炎の天空",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
   },
   {
     "id": "SID_守備魔防の防城戦1",
@@ -11693,6 +11718,11 @@
     "id": "SID_金剛の一撃3",
     "game8_rating": "7.5",
     "game8_grade": "C"
+  },
+  {
+    "id": "SID_濁流の一撃",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
   },
   {
     "id": "SID_明鏡の一撃1",
@@ -13550,6 +13580,16 @@
     "game8_grade": "S"
   },
   {
+    "id": "SID_新生せし神",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_真大いなるサカの掟",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
     "id": "SID_差し違え1",
     "game8_rating": null,
     "game8_grade": null
@@ -13613,6 +13653,11 @@
     "id": "SID_攻め立て2",
     "game8_rating": null,
     "game8_grade": null
+  },
+  {
+    "id": "SID_後の先",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
   },
   {
     "id": "SID_攻め立て3",
@@ -16421,6 +16466,11 @@
   },
   {
     "id": "SID_魔の蛇毒・呼吸",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_理の蛇毒・呼吸",
     "game8_rating": "9.5",
     "game8_grade": "S"
   },
@@ -19541,6 +19591,11 @@
   },
   {
     "id": "SID_盾の護り手・遠間3",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_兜の護り手・魔・双",
     "game8_rating": "9.5",
     "game8_grade": "S"
   },

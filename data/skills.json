@@ -1292,6 +1292,7 @@
   },
   {
     "id": "SID_兜の護り手・魔・双",
+    "game8_id": "568945",
     "name": "A/R Twin M Save",
     "group_name": "A/R Twin M Save",
     "category": "passivec",
@@ -2677,6 +2678,7 @@
   },
   {
     "id": "SID_真蒼炎の天空",
+    "game8_id": "568938",
     "name": "Aether's Course",
     "group_name": "Aether's Course",
     "category": "special",
@@ -5447,6 +5449,7 @@
   },
   {
     "id": "SID_魔器・幼神のブレス",
+    "game8_id": "568937",
     "name": "Arcane Outburst",
     "group_name": "Arcane Outburst",
     "category": "weapon",
@@ -42329,6 +42332,7 @@
   },
   {
     "id": "SID_竜氷",
+    "game8_id": "568939",
     "name": "Dragon Ice",
     "group_name": "Dragon Ice",
     "category": "special",
@@ -47581,6 +47585,7 @@
   },
   {
     "id": "SID_理の蛇毒・呼吸",
+    "game8_id": "568944",
     "name": "Execution Breath",
     "group_name": "Execution Breath",
     "category": "passiveb",
@@ -70492,6 +70497,7 @@
   },
   {
     "id": "SID_疾聖ミュルグレ",
+    "game8_id": "568936",
     "name": "Intrinsic Mulagir",
     "group_name": "Intrinsic Mulagir",
     "category": "weapon",
@@ -87818,6 +87824,7 @@
   },
   {
     "id": "SID_後の先",
+    "game8_id": "568943",
     "name": "Patience",
     "group_name": "Patience",
     "category": "passiveb",
@@ -101995,6 +102002,7 @@
   },
   {
     "id": "SID_真大いなるサカの掟",
+    "game8_id": "568941",
     "name": "Sacae's Decree",
     "group_name": "Sacae's Decree",
     "category": "passivea",
@@ -129658,6 +129666,7 @@
   },
   {
     "id": "SID_新生せし神",
+    "game8_id": "568942",
     "name": "Unfledged God",
     "group_name": "Unfledged God",
     "category": "passivea",
@@ -130105,6 +130114,7 @@
   },
   {
     "id": "SID_蒼烈ウルヴァン",
+    "game8_id": "568935",
     "name": "Urvan Brilliance",
     "group_name": "Urvan Brilliance",
     "category": "weapon",
@@ -132960,6 +132970,7 @@
   },
   {
     "id": "SID_濁流の一撃",
+    "game8_id": "568940",
     "name": "Warrior's Blow",
     "group_name": "Warrior's Blow",
     "category": "passivea",

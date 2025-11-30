@@ -19266,15 +19266,13 @@
     "id": "PID_双界総選挙アイク",
     "is_in": {
       "gsp": false,
-      "ssp": true,
+      "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "lowest_rarity": {
-      "ssp": 5
-    },
+    "lowest_rarity": {},
     "skill_ids": [
       "SID_切り返し1",
       "SID_切り返し2",

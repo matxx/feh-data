@@ -5813,7 +5813,7 @@
   },
   {
     "id": "SID_竜氷",
-    "description": "Boosts damage by 80% of unit's Res and restores 30% of unit's maximum HP when Special triggers.<br><br>If both of the following conditions are met, reduces damage from foe's next attack by 40% during combat:   - Unit's or foe's Special is ready, or unit's     or foe's Special triggered before or during     this combat.   - Foe initiates combat or unit's Res ≥ foe's     Res-10. (Once per combat; excluding area-of-effect Specials)."
+    "description": "Boosts damage by 80% of unit's Res and restores 30% of unit's maximum HP when Special triggers.<br><br>If both of the following conditions are met, reduces damage from foe's next attack by 40% during combat:<br>- Unit's or foe's Special is ready, or unit's<br>or foe's Special triggered before or during<br>this combat.<br>- Foe initiates combat or unit's Res ≥ foe's<br>Res-10.<br>(Once per combat; excluding area-of-effect Specials)."
   },
   {
     "id": "SID_リトスの神竜王",
