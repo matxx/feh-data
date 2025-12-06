@@ -7038,7 +7038,11 @@
       "moves": {
         "none": true
       },
-      "weapons": null
+      "weapons": {
+        "can_not_use": [
+          "Colorless Staff"
+        ]
+      }
     },
     "addition_date": "2025-12-05",
     "release_date": "2025-12-05",
@@ -113081,7 +113085,9 @@
           "Flying"
         ]
       },
-      "weapons": null
+      "weapons": {
+        "none": true
+      }
     },
     "addition_date": "2025-12-05",
     "release_date": "2025-12-05",
@@ -129331,7 +129337,9 @@
       "moves": {
         "none": true
       },
-      "weapons": null
+      "weapons": {
+        "none": true
+      }
     },
     "addition_date": "2025-12-05",
     "release_date": "2025-12-05",
