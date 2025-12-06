@@ -1470,6 +1470,120 @@
     "unlock": 2
   },
   {
+    "unit_id": "PID_救世アルフォンス",
+    "skill_id": "SID_金剛の一撃1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_救世アルフォンス",
+    "skill_id": "SID_金剛の一撃2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_救世アルフォンス",
+    "skill_id": "SID_金剛の一撃3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_救世アルフォンス",
+    "skill_id": "SID_真王器",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_救世アルフォンス",
+    "skill_id": "SID_緋炎",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_救世アルフォンス",
+    "skill_id": "SID_開かれし救世の剣",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_救世アルフォンス",
+    "skill_id": "SID_蛍火",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_救世アルフォンス",
+    "skill_id": "SID_キャンセル1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_救世アルフォンス",
+    "skill_id": "SID_キャンセル2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_救世アルフォンス",
+    "skill_id": "SID_キャンセル3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_救世アルフォンス",
+    "skill_id": "SID_鉄の剣",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_救世アルフォンス",
+    "skill_id": "SID_初撃の鼓動・謀策",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_救世アルフォンス",
+    "skill_id": "SID_刷新",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_救世アルフォンス",
+    "skill_id": "SID_銀の剣",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_救世アルフォンス",
+    "skill_id": "SID_鋼の剣",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_救世アルフォンス",
+    "skill_id": "SID_始まりの鼓動1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_救世アルフォンス",
+    "skill_id": "SID_始まりの鼓動2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_救世アルフォンス",
+    "skill_id": "SID_始まりの鼓動3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_救世アルフォンス",
+    "skill_id": "SID_濁流の一撃",
+    "default": 0,
+    "unlock": 5
+  },
+  {
     "unit_id": "PID_アルフォンス",
     "skill_id": "SID_陽影",
     "default": 2,
@@ -45972,6 +46086,90 @@
     "unlock": 5
   },
   {
+    "unit_id": "PID_イグナーツ",
+    "skill_id": "SID_攻撃速さの万全1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_イグナーツ",
+    "skill_id": "SID_攻撃速さの万全2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_イグナーツ",
+    "skill_id": "SID_攻撃速さの万全3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_イグナーツ",
+    "skill_id": "SID_氷点",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_イグナーツ",
+    "skill_id": "SID_氷華",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_イグナーツ",
+    "skill_id": "SID_鉄の弓",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_イグナーツ",
+    "skill_id": "SID_攻撃速さの完全",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_イグナーツ",
+    "skill_id": "SID_守備の混乱1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_イグナーツ",
+    "skill_id": "SID_守備の混乱2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_イグナーツ",
+    "skill_id": "SID_守備の混乱3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_イグナーツ",
+    "skill_id": "SID_銀の弓",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_イグナーツ",
+    "skill_id": "SID_速さ守備の大混乱",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_イグナーツ",
+    "skill_id": "SID_鋼の弓",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_イグナーツ",
+    "skill_id": "SID_精緻なる観察眼の弓",
+    "default": 5,
+    "unlock": 5
+  },
+  {
     "unit_id": "PID_イグレーヌ",
     "skill_id": "SID_烈風",
     "default": 0,
@@ -61776,6 +61974,78 @@
     "unlock": 3
   },
   {
+    "unit_id": "PID_ローレンツ",
+    "skill_id": "SID_攻撃速さの遠影1",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_ローレンツ",
+    "skill_id": "SID_攻撃速さの遠影2",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_ローレンツ",
+    "skill_id": "SID_攻撃速さの遠影3",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_ローレンツ",
+    "skill_id": "SID_攻撃速さの絆1",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_ローレンツ",
+    "skill_id": "SID_攻撃速さの絆2",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_ローレンツ",
+    "skill_id": "SID_攻撃速さの絆3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_ローレンツ",
+    "skill_id": "SID_ブラースパロー",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_ローレンツ",
+    "skill_id": "SID_ブラースパロー＋",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_ローレンツ",
+    "skill_id": "SID_竜穿",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_ローレンツ",
+    "skill_id": "SID_伏竜",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_ローレンツ",
+    "skill_id": "SID_エルサンダー",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_ローレンツ",
+    "skill_id": "SID_サンダー",
+    "default": 1,
+    "unlock": 1
+  },
+  {
     "unit_id": "PID_花嫁ルイーズ",
     "skill_id": "SID_攻撃速さの絆1",
     "default": 0,
@@ -65416,6 +65686,102 @@
     "skill_id": "SID_始まりの鼓動3",
     "default": 0,
     "unlock": 5
+  },
+  {
+    "unit_id": "PID_魔器リシテア",
+    "skill_id": "SID_魔の蛇毒・呼吸",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_魔器リシテア",
+    "skill_id": "SID_開闢の鼓動",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_魔器リシテア",
+    "skill_id": "SID_竜穿",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_魔器リシテア",
+    "skill_id": "SID_伏竜",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_魔器リシテア",
+    "skill_id": "SID_エルウインド",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_魔器リシテア",
+    "skill_id": "SID_理路",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_魔器リシテア",
+    "skill_id": "SID_蛇毒1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_魔器リシテア",
+    "skill_id": "SID_蛇毒2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_魔器リシテア",
+    "skill_id": "SID_蛇毒3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_魔器リシテア",
+    "skill_id": "SID_レクスカリバー",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_魔器リシテア",
+    "skill_id": "SID_ストゥングの神秘",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_魔器リシテア",
+    "skill_id": "SID_始まりの鼓動1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_魔器リシテア",
+    "skill_id": "SID_始まりの鼓動2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_魔器リシテア",
+    "skill_id": "SID_始まりの鼓動3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_魔器リシテア",
+    "skill_id": "SID_真天才",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_魔器リシテア",
+    "skill_id": "SID_ウインド",
+    "default": 1,
+    "unlock": 1
   },
   {
     "unit_id": "PID_総選挙リシテア",
@@ -85173,6 +85539,78 @@
     "unit_id": "PID_ライ",
     "skill_id": "SID_若獣の化身・騎馬",
     "default": 3,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_ラファエル",
+    "skill_id": "SID_一斉突撃1",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_ラファエル",
+    "skill_id": "SID_一斉突撃2",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_ラファエル",
+    "skill_id": "SID_一斉突撃3",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_ラファエル",
+    "skill_id": "SID_攻撃隊形1",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_ラファエル",
+    "skill_id": "SID_攻撃隊形2",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_ラファエル",
+    "skill_id": "SID_攻撃隊形3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_ラファエル",
+    "skill_id": "SID_蛍火",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_ラファエル",
+    "skill_id": "SID_華炎",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_ラファエル",
+    "skill_id": "SID_鉄の斧",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_ラファエル",
+    "skill_id": "SID_混戦の斧",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_ラファエル",
+    "skill_id": "SID_混戦の斧＋",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_ラファエル",
+    "skill_id": "SID_鋼の斧",
+    "default": 2,
     "unlock": 2
   },
   {

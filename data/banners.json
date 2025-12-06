@@ -5297,6 +5297,15 @@
     ]
   },
   {
+    "name": "Focus: New Power (Dec 2025)",
+    "unit_ids": [
+      "PID_オロチ",
+      "PID_ハピ",
+      "PID_マリス",
+      "PID_双界ミルラ"
+    ]
+  },
+  {
     "name": "Focus: New Power (Feb 2018)",
     "unit_ids": [
       "PID_シーダ",
@@ -12087,6 +12096,15 @@
       "PID_幼少カミラ",
       "PID_幼少レオン",
       "PID_比翼カムイ男"
+    ]
+  },
+  {
+    "name": "Rea. Lysithea & Chosen Alfonse",
+    "unit_ids": [
+      "PID_イグナーツ",
+      "PID_ローレンツ",
+      "PID_救世アルフォンス",
+      "PID_魔器リシテア"
     ]
   },
   {

@@ -4590,9 +4590,19 @@
     "game8_grade": "A"
   },
   {
+    "id": "SID_ブラースパロー",
+    "game8_rating": null,
+    "game8_grade": null
+  },
+  {
     "id": "SID_仄暗き邪竜の松明",
     "game8_rating": "9.5",
     "game8_grade": null
+  },
+  {
+    "id": "SID_ブラースパロー＋",
+    "game8_rating": "8.5",
+    "game8_grade": "B"
   },
   {
     "id": "SID_氷槍フィンブル",
@@ -6090,6 +6100,16 @@
     "game8_grade": "S"
   },
   {
+    "id": "SID_混戦の斧",
+    "game8_rating": null,
+    "game8_grade": null
+  },
+  {
+    "id": "SID_混戦の斧＋",
+    "game8_rating": "8.5",
+    "game8_grade": "B"
+  },
+  {
     "id": "SID_鏑矢",
     "game8_rating": null,
     "game8_grade": null
@@ -6968,6 +6988,11 @@
     "id": "SID_陶酔の神形",
     "game8_rating": "9.9",
     "game8_grade": "SS"
+  },
+  {
+    "id": "SID_ストゥングの神秘",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
   },
   {
     "id": "SID_光のブレス",
@@ -8131,6 +8156,11 @@
   },
   {
     "id": "SID_疾聖ミュルグレ",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_精緻なる観察眼の弓",
     "game8_rating": "9.5",
     "game8_grade": "S"
   },
@@ -9825,6 +9855,11 @@
     "game8_grade": "S"
   },
   {
+    "id": "SID_理路",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
     "id": "SID_猛獣",
     "game8_rating": "9.0",
     "game8_grade": "A"
@@ -10240,12 +10275,12 @@
     "game8_grade": null
   },
   {
-    "id": "SID_反竜穿・承",
+    "id": "SID_魔弾",
     "game8_rating": "9.5",
     "game8_grade": "A"
   },
   {
-    "id": "SID_魔弾",
+    "id": "SID_反竜穿・承",
     "game8_rating": "9.5",
     "game8_grade": "A"
   },
@@ -10260,14 +10295,14 @@
     "game8_grade": null
   },
   {
-    "id": "SID_氷の聖鏡・承",
-    "game8_rating": "9.0",
-    "game8_grade": null
-  },
-  {
     "id": "SID_天与の魔道・承",
     "game8_rating": "9.5",
     "game8_grade": "A"
+  },
+  {
+    "id": "SID_氷の聖鏡・承",
+    "game8_rating": "9.0",
+    "game8_grade": null
   },
   {
     "id": "SID_蒼の天空・承",
@@ -10280,12 +10315,17 @@
     "game8_grade": "SS"
   },
   {
+    "id": "SID_グランベルの…・承",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
     "id": "SID_覇天",
     "game8_rating": "9.0",
     "game8_grade": null
   },
   {
-    "id": "SID_グランベルの…・承",
+    "id": "SID_月光閃・承",
     "game8_rating": "9.5",
     "game8_grade": "S"
   },
@@ -10293,11 +10333,6 @@
     "id": "SID_光炎の紋章",
     "game8_rating": "9.5",
     "game8_grade": "A"
-  },
-  {
-    "id": "SID_月光閃・承",
-    "game8_rating": "9.5",
-    "game8_grade": "S"
   },
   {
     "id": "SID_覇天・承",
@@ -10548,6 +10583,11 @@
     "id": "SID_真蒼炎の天空",
     "game8_rating": "9.5",
     "game8_grade": "S"
+  },
+  {
+    "id": "SID_真王器",
+    "game8_rating": "9.9",
+    "game8_grade": "SS"
   },
   {
     "id": "SID_守備魔防の防城戦1",
@@ -13590,6 +13630,11 @@
     "game8_grade": "S"
   },
   {
+    "id": "SID_真天才",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
     "id": "SID_差し違え1",
     "game8_rating": null,
     "game8_grade": null
@@ -15070,6 +15115,11 @@
     "game8_grade": "A"
   },
   {
+    "id": "SID_速さ守備の大混乱",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
     "id": "SID_速さ魔防の混乱3",
     "game8_rating": "9.5",
     "game8_grade": "A"
@@ -16403,6 +16453,11 @@
     "id": "SID_相性殺し3",
     "game8_rating": "8.0",
     "game8_grade": "B"
+  },
+  {
+    "id": "SID_刷新",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
   },
   {
     "id": "SID_盾の鼓動1",

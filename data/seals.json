@@ -3959,6 +3959,48 @@
     }
   },
   {
+    "id": "SID_第101迷宮の覇者1",
+    "game8_id": null,
+    "name": "Squad Ace CW 1",
+    "group_name": "Squad Ace CW",
+    "image_url": null,
+    "sp": 120,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": null
+    }
+  },
+  {
+    "id": "SID_第101迷宮の覇者2",
+    "game8_id": null,
+    "name": "Squad Ace CW 2",
+    "group_name": "Squad Ace CW",
+    "image_url": null,
+    "sp": 180,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": null
+    }
+  },
+  {
+    "id": "SID_第101迷宮の覇者3",
+    "game8_id": null,
+    "name": "Squad Ace CW 3",
+    "group_name": "Squad Ace CW",
+    "image_url": null,
+    "sp": 240,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": null
+    }
+  },
+  {
     "id": "SID_第4迷宮の覇者1",
     "game8_id": null,
     "name": "Squad Ace D 1",

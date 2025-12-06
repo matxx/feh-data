@@ -532,6 +532,40 @@
     "divine_codes": {}
   },
   {
+    "id": "PID_救世アルフォンス",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {},
+    "skill_ids": [
+      "SID_キャンセル1",
+      "SID_キャンセル2",
+      "SID_キャンセル3",
+      "SID_初撃の鼓動・謀策",
+      "SID_刷新",
+      "SID_始まりの鼓動1",
+      "SID_始まりの鼓動2",
+      "SID_始まりの鼓動3",
+      "SID_濁流の一撃",
+      "SID_真王器",
+      "SID_緋炎",
+      "SID_蛍火",
+      "SID_金剛の一撃1",
+      "SID_金剛の一撃2",
+      "SID_金剛の一撃3",
+      "SID_鉄の剣",
+      "SID_銀の剣",
+      "SID_鋼の剣",
+      "SID_開かれし救世の剣"
+    ],
+    "divine_codes": {}
+  },
+  {
     "id": "PID_アルフォンス",
     "is_in": {
       "gsp": false,
@@ -11749,11 +11783,12 @@
       "ssp": true,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "lowest_rarity": {
-      "ssp": 5
+      "ssp": 5,
+      "ldc": 5
     },
     "skill_ids": [
       "SID_幼獣の化身・飛行",
@@ -11769,7 +11804,16 @@
       "SID_絶対化身・近影3",
       "SID_若獣の化身・飛行"
     ],
-    "divine_codes": {}
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2025,
+          "month": 12,
+          "rarity": 5,
+          "cost": 300
+        }
+      ]
+    }
   },
   {
     "id": "PID_エルム味方",
@@ -14330,11 +14374,12 @@
       "ssp": false,
       "hg": true,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "lowest_rarity": {
-      "hg": 4
+      "hg": 4,
+      "ldc": 4
     },
     "skill_ids": [
       "SID_南国の果汁",
@@ -14350,7 +14395,16 @@
       "SID_鼓動の幻煙2",
       "SID_鼓動の幻煙3"
     ],
-    "divine_codes": {}
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2025,
+          "month": 12,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "PID_冬祭フォデス",
@@ -18879,6 +18933,35 @@
         }
       ]
     }
+  },
+  {
+    "id": "PID_イグナーツ",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {},
+    "skill_ids": [
+      "SID_守備の混乱1",
+      "SID_守備の混乱2",
+      "SID_守備の混乱3",
+      "SID_攻撃速さの万全1",
+      "SID_攻撃速さの万全2",
+      "SID_攻撃速さの万全3",
+      "SID_攻撃速さの完全",
+      "SID_氷点",
+      "SID_氷華",
+      "SID_精緻なる観察眼の弓",
+      "SID_速さ守備の大混乱",
+      "SID_鉄の弓",
+      "SID_銀の弓",
+      "SID_鋼の弓"
+    ],
+    "divine_codes": {}
   },
   {
     "id": "PID_イグレーヌ",
@@ -25759,6 +25842,33 @@
     "divine_codes": {}
   },
   {
+    "id": "PID_ローレンツ",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {},
+    "skill_ids": [
+      "SID_エルサンダー",
+      "SID_サンダー",
+      "SID_ブラースパロー",
+      "SID_ブラースパロー＋",
+      "SID_伏竜",
+      "SID_攻撃速さの絆1",
+      "SID_攻撃速さの絆2",
+      "SID_攻撃速さの絆3",
+      "SID_攻撃速さの遠影1",
+      "SID_攻撃速さの遠影2",
+      "SID_攻撃速さの遠影3",
+      "SID_竜穿"
+    ],
+    "divine_codes": {}
+  },
+  {
     "id": "PID_花嫁ルイーズ",
     "is_in": {
       "gsp": false,
@@ -27196,6 +27306,39 @@
       "SID_鬼神の一撃2",
       "SID_鬼神の一撃3",
       "SID_鬼神の一撃4"
+    ],
+    "divine_codes": {}
+  },
+  {
+    "id": "PID_魔器リシテア",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "lowest_rarity": {
+      "foc": 5
+    },
+    "skill_ids": [
+      "SID_ウインド",
+      "SID_エルウインド",
+      "SID_ストゥングの神秘",
+      "SID_レクスカリバー",
+      "SID_伏竜",
+      "SID_始まりの鼓動1",
+      "SID_始まりの鼓動2",
+      "SID_始まりの鼓動3",
+      "SID_理路",
+      "SID_真天才",
+      "SID_竜穿",
+      "SID_蛇毒1",
+      "SID_蛇毒2",
+      "SID_蛇毒3",
+      "SID_開闢の鼓動",
+      "SID_魔の蛇毒・呼吸"
     ],
     "divine_codes": {}
   },
@@ -32262,11 +32405,12 @@
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "lowest_rarity": {
-      "gsp": 3
+      "gsp": 3,
+      "ldc": 4
     },
     "skill_ids": [
       "SID_キラーボウ",
@@ -32283,7 +32427,16 @@
       "SID_魔防の紋章2",
       "SID_魔防の紋章3"
     ],
-    "divine_codes": {}
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2025,
+          "month": 12,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "PID_ハロゼロ",
@@ -33502,11 +33655,12 @@
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "lowest_rarity": {
-      "gsp": 3
+      "gsp": 3,
+      "ldc": 4
     },
     "skill_ids": [
       "SID_回避・一撃離脱1",
@@ -33522,7 +33676,16 @@
       "SID_鉄の剣",
       "SID_鋼の剣"
     ],
-    "divine_codes": {}
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2025,
+          "month": 12,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "PID_水着オグマ",
@@ -35659,6 +35822,35 @@
       "SID_柔なる戦猫の爪牙",
       "SID_獣盾の紋章",
       "SID_若獣の化身・騎馬"
+    ],
+    "divine_codes": {}
+  },
+  {
+    "id": "PID_ラファエル",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": true,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {
+      "hg": 3
+    },
+    "skill_ids": [
+      "SID_一斉突撃1",
+      "SID_一斉突撃2",
+      "SID_一斉突撃3",
+      "SID_攻撃隊形1",
+      "SID_攻撃隊形2",
+      "SID_攻撃隊形3",
+      "SID_混戦の斧",
+      "SID_混戦の斧＋",
+      "SID_華炎",
+      "SID_蛍火",
+      "SID_鉄の斧",
+      "SID_鋼の斧"
     ],
     "divine_codes": {}
   },
@@ -41281,11 +41473,12 @@
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "lowest_rarity": {
-      "gsp": 3
+      "gsp": 3,
+      "ldc": 4
     },
     "skill_ids": [
       "SID_ノスフェラート",
@@ -41302,7 +41495,16 @@
       "SID_魔防の鼓舞2",
       "SID_魔防の鼓舞3"
     ],
-    "divine_codes": {}
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2025,
+          "month": 12,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "PID_花嫁ソフィーヤ",
@@ -42002,6 +42204,12 @@
         {
           "year": 2020,
           "month": 6,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2025,
+          "month": 12,
           "rarity": 4,
           "cost": 100
         }
@@ -46319,11 +46527,12 @@
       "ssp": true,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "lowest_rarity": {
-      "ssp": 5
+      "ssp": 5,
+      "ldc": 5
     },
     "skill_ids": [
       "SID_不治の幻煙1",
@@ -46345,7 +46554,16 @@
       "SID_鬼神飛燕の一撃2",
       "SID_鬼神飛燕の炎撃3"
     ],
-    "divine_codes": {}
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2025,
+          "month": 12,
+          "rarity": 5,
+          "cost": 300
+        }
+      ]
+    }
   },
   {
     "id": "PID_忍者ユナカ",
