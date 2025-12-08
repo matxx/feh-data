@@ -539,9 +539,11 @@
       "hg": false,
       "dc": false,
       "ldc": false,
-      "foc": false
+      "foc": true
     },
-    "lowest_rarity": {},
+    "lowest_rarity": {
+      "foc": 5
+    },
     "skill_ids": [
       "SID_キャンセル1",
       "SID_キャンセル2",
@@ -11317,9 +11319,11 @@
       "hg": false,
       "dc": false,
       "ldc": false,
-      "foc": false
+      "foc": true
     },
-    "lowest_rarity": {},
+    "lowest_rarity": {
+      "foc": 5
+    },
     "skill_ids": [
       "SID_クリミアの絆",
       "SID_乳姉妹の絆の剣",

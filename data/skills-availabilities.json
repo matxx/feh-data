@@ -9231,19 +9231,21 @@
       "hg": true,
       "dc": false,
       "ldc": true,
-      "foc": false
+      "foc": true
     },
     "flrwo": {
       "gsp": 3,
       "ssp": 4.5,
       "hg": 3,
-      "ldc": 4
+      "ldc": 4,
+      "foc": 5
     },
     "flrfi": {
       "gsp": 2,
       "ssp": 2,
       "hg": 3,
-      "ldc": 4
+      "ldc": 4,
+      "foc": 3
     },
     "divine_codes": {
       "limited": [
@@ -9282,19 +9284,21 @@
       "hg": true,
       "dc": false,
       "ldc": true,
-      "foc": false
+      "foc": true
     },
     "flrwo": {
       "gsp": 3,
       "ssp": 4.5,
       "hg": 3,
-      "ldc": 4
+      "ldc": 4,
+      "foc": 5
     },
     "flrfi": {
       "gsp": 4,
       "ssp": 4,
       "hg": 5,
-      "ldc": 5
+      "ldc": 5,
+      "foc": 4
     },
     "divine_codes": {
       "limited": [
@@ -10008,10 +10012,14 @@
       "hg": false,
       "dc": false,
       "ldc": false,
-      "foc": false
+      "foc": true
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "foc": 5
+    },
+    "flrfi": {
+      "foc": 5
+    },
     "divine_codes": {}
   },
   {
@@ -36269,10 +36277,14 @@
       "hg": false,
       "dc": false,
       "ldc": false,
-      "foc": false
+      "foc": true
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "foc": 5
+    },
+    "flrfi": {
+      "foc": 5
+    },
     "divine_codes": {}
   },
   {
@@ -48624,10 +48636,14 @@
       "hg": false,
       "dc": false,
       "ldc": false,
-      "foc": false
+      "foc": true
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "foc": 5
+    },
+    "flrfi": {
+      "foc": 5
+    },
     "divine_codes": {}
   },
   {
@@ -70568,21 +70584,23 @@
       "hg": true,
       "dc": true,
       "ldc": true,
-      "foc": false
+      "foc": true
     },
     "flrwo": {
       "gsp": 3,
       "ssp": 4,
       "hg": 4,
       "dc": 5,
-      "ldc": 4
+      "ldc": 4,
+      "foc": 5
     },
     "flrfi": {
       "gsp": 3,
       "ssp": 3,
       "hg": 3,
       "dc": 3,
-      "ldc": 3
+      "ldc": 3,
+      "foc": 3
     },
     "divine_codes": {
       "normal": [
@@ -70747,10 +70765,14 @@
       "hg": false,
       "dc": false,
       "ldc": false,
-      "foc": false
+      "foc": true
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "foc": 5
+    },
+    "flrfi": {
+      "foc": 5
+    },
     "divine_codes": {}
   },
   {
@@ -138059,13 +138081,15 @@
       "hg": false,
       "dc": false,
       "ldc": false,
-      "foc": false
+      "foc": true
     },
     "flrwo": {
-      "gsp": 5
+      "gsp": 5,
+      "foc": 5
     },
     "flrfi": {
-      "gsp": 5
+      "gsp": 5,
+      "foc": 5
     },
     "divine_codes": {}
   },
@@ -156948,10 +156972,14 @@
       "hg": false,
       "dc": false,
       "ldc": false,
-      "foc": false
+      "foc": true
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "foc": 5
+    },
+    "flrfi": {
+      "foc": 5
+    },
     "divine_codes": {}
   },
   {
@@ -209853,10 +209881,14 @@
       "hg": false,
       "dc": false,
       "ldc": false,
-      "foc": false
+      "foc": true
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "foc": 5
+    },
+    "flrfi": {
+      "foc": 5
+    },
     "divine_codes": {}
   },
   {
@@ -215528,15 +215560,17 @@
       "hg": false,
       "dc": false,
       "ldc": true,
-      "foc": false
+      "foc": true
     },
     "flrwo": {
       "gsp": 4.5,
-      "ldc": 5
+      "ldc": 5,
+      "foc": 5
     },
     "flrfi": {
       "gsp": 1,
-      "ldc": 1
+      "ldc": 1,
+      "foc": 2
     },
     "divine_codes": {
       "limited": [
@@ -215570,15 +215604,17 @@
       "hg": false,
       "dc": false,
       "ldc": true,
-      "foc": false
+      "foc": true
     },
     "flrwo": {
       "gsp": 4.5,
-      "ldc": 5
+      "ldc": 5,
+      "foc": 5
     },
     "flrfi": {
       "gsp": 2,
-      "ldc": 2
+      "ldc": 2,
+      "foc": 3
     },
     "divine_codes": {
       "limited": [
@@ -215612,15 +215648,17 @@
       "hg": false,
       "dc": false,
       "ldc": true,
-      "foc": false
+      "foc": true
     },
     "flrwo": {
       "gsp": 4.5,
-      "ldc": 5
+      "ldc": 5,
+      "foc": 5
     },
     "flrfi": {
       "gsp": 4,
-      "ldc": 4
+      "ldc": 4,
+      "foc": 4
     },
     "divine_codes": {
       "limited": [
@@ -218805,10 +218843,14 @@
       "hg": false,
       "dc": false,
       "ldc": false,
-      "foc": false
+      "foc": true
     },
-    "flrwo": {},
-    "flrfi": {},
+    "flrwo": {
+      "foc": 5
+    },
+    "flrfi": {
+      "foc": 5
+    },
     "divine_codes": {}
   },
   {
