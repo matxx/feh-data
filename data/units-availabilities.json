@@ -19357,9 +19357,11 @@
       "hg": false,
       "dc": false,
       "ldc": false,
-      "foc": false
+      "foc": true
     },
-    "lowest_rarity": {},
+    "lowest_rarity": {
+      "foc": 5
+    },
     "skill_ids": [
       "SID_切り返し1",
       "SID_切り返し2",
@@ -26828,9 +26830,11 @@
       "hg": false,
       "dc": false,
       "ldc": false,
-      "foc": false
+      "foc": true
     },
-    "lowest_rarity": {},
+    "lowest_rarity": {
+      "foc": 5
+    },
     "skill_ids": [
       "SID_伏竜",
       "SID_攻速鼓舞・強襲",

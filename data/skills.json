@@ -7046,7 +7046,7 @@
     },
     "addition_date": "2025-12-05",
     "release_date": "2025-12-05",
-    "version": "9.11",
+    "version": "10.0",
     "downgrade_ids": [
       "SID_緋炎"
     ]
@@ -20432,7 +20432,7 @@
     },
     "addition_date": "2025-12-05",
     "release_date": "2025-12-05",
-    "version": "9.11",
+    "version": "10.0",
     "upgrade_ids": [
       "SID_ブラースパロー＋"
     ],
@@ -20464,7 +20464,7 @@
     },
     "addition_date": "2025-12-05",
     "release_date": "2025-12-05",
-    "version": "9.11",
+    "version": "10.0",
     "downgrade_ids": [
       "SID_ブラースパロー"
     ]
@@ -29735,7 +29735,7 @@
     },
     "addition_date": "2025-12-05",
     "release_date": "2025-12-05",
-    "version": "9.11",
+    "version": "10.0",
     "downgrade_ids": [
       "SID_銀の剣"
     ]
@@ -76523,7 +76523,7 @@
     },
     "addition_date": "2025-12-05",
     "release_date": "2025-12-05",
-    "version": "9.11",
+    "version": "10.0",
     "downgrade_ids": [
       "SID_竜穿"
     ]
@@ -79634,7 +79634,7 @@
     },
     "addition_date": "2025-12-05",
     "release_date": "2025-12-06",
-    "version": "9.11",
+    "version": "10.0",
     "upgrade_ids": [
       "SID_混戦の斧＋"
     ],
@@ -79665,7 +79665,7 @@
     },
     "addition_date": "2025-12-05",
     "release_date": "2025-12-06",
-    "version": "9.11",
+    "version": "10.0",
     "downgrade_ids": [
       "SID_混戦の斧"
     ]
@@ -96782,7 +96782,7 @@
     },
     "addition_date": "2025-12-05",
     "release_date": "2025-12-05",
-    "version": "9.11",
+    "version": "10.0",
     "downgrade_ids": [
       "SID_キャンセル3"
     ]
@@ -113091,7 +113091,7 @@
     },
     "addition_date": "2025-12-05",
     "release_date": "2025-12-05",
-    "version": "9.11",
+    "version": "10.0",
     "downgrade_ids": [
       "SID_速さの混乱3",
       "SID_守備の混乱3"
@@ -122859,7 +122859,7 @@
     },
     "addition_date": "2025-12-05",
     "release_date": "2025-12-05",
-    "version": "9.11",
+    "version": "10.0",
     "downgrade_ids": [
       "SID_レクスカリバー"
     ]
@@ -129343,7 +129343,7 @@
     },
     "addition_date": "2025-12-05",
     "release_date": "2025-12-05",
-    "version": "9.11"
+    "version": "10.0"
   },
   {
     "id": "SID_真・一匹狼",
@@ -133638,7 +133638,7 @@
     },
     "addition_date": "2025-12-05",
     "release_date": "2025-12-05",
-    "version": "9.11",
+    "version": "10.0",
     "downgrade_ids": [
       "SID_銀の弓"
     ]
