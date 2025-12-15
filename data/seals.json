@@ -9310,7 +9310,9 @@
           "Infantry"
         ]
       },
-      "weapons": null
+      "weapons": {
+        "none": true
+      }
     }
   },
   {
@@ -9326,7 +9328,9 @@
           "Infantry"
         ]
       },
-      "weapons": null
+      "weapons": {
+        "none": true
+      }
     }
   },
   {
@@ -9342,7 +9346,9 @@
           "Infantry"
         ]
       },
-      "weapons": null
+      "weapons": {
+        "none": true
+      }
     }
   },
   {
