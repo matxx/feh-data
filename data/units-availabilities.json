@@ -703,6 +703,39 @@
     "divine_codes": {}
   },
   {
+    "id": "PID_冬祭アルフレッド",
+    "is_in": {
+      "gsp": false,
+      "ssp": true,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {
+      "ssp": 5
+    },
+    "skill_ids": [
+      "SID_壁炎",
+      "SID_真自己研鑽",
+      "SID_華炎",
+      "SID_蛍火",
+      "SID_鉄の槍",
+      "SID_銀の槍",
+      "SID_鋼の槍",
+      "SID_鎧の護り手・近間1",
+      "SID_鎧の護り手・近間2",
+      "SID_鎧の護り手・近間3",
+      "SID_防陣1",
+      "SID_防陣2",
+      "SID_防陣3",
+      "SID_防陣4",
+      "SID_雪原走る鍛錬の槍",
+      "SID_靴の護り手・理・双"
+    ],
+    "divine_codes": {}
+  },
+  {
     "id": "PID_アルム",
     "is_in": {
       "gsp": true,
@@ -15179,6 +15212,39 @@
     "divine_codes": {}
   },
   {
+    "id": "PID_冬祭門番",
+    "is_in": {
+      "gsp": false,
+      "ssp": true,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {
+      "ssp": 5
+    },
+    "skill_ids": [
+      "SID_お疲れ様です！",
+      "SID_アトラース",
+      "SID_エルロック",
+      "SID_ロック",
+      "SID_守備魔防の絆1",
+      "SID_守備魔防の絆2",
+      "SID_守備魔防の絆3",
+      "SID_守備魔防の詠唱",
+      "SID_氷壁",
+      "SID_氷点",
+      "SID_氷華",
+      "SID_盾の護り手・遠・双",
+      "SID_盾の護り手・遠間1",
+      "SID_盾の護り手・遠間2",
+      "SID_盾の護り手・遠間3",
+      "SID_聖夜告げる角笛"
+    ],
+    "divine_codes": {}
+  },
+  {
     "id": "PID_総選挙門番",
     "is_in": {
       "gsp": true,
@@ -20089,6 +20155,39 @@
       "SID_銀の剣",
       "SID_鋼の剣",
       "SID_陽影"
+    ],
+    "divine_codes": {}
+  },
+  {
+    "id": "PID_双界アイビー",
+    "is_in": {
+      "gsp": false,
+      "ssp": true,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {
+      "ssp": 5
+    },
+    "skill_ids": [
+      "SID_ノスフェラート",
+      "SID_ミィル",
+      "SID_ルイン",
+      "SID_氷壁",
+      "SID_氷点",
+      "SID_氷華",
+      "SID_真執着",
+      "SID_艶なる姉二人の燭台",
+      "SID_速さ魔防の大混乱",
+      "SID_速さ魔防の牽制1",
+      "SID_速さ魔防の牽制2",
+      "SID_速さ魔防の牽制3",
+      "SID_速魔十牽制・謀策",
+      "SID_魔防の混乱1",
+      "SID_魔防の混乱2",
+      "SID_魔防の混乱3"
     ],
     "divine_codes": {}
   },
@@ -38937,6 +39036,39 @@
     "divine_codes": {}
   },
   {
+    "id": "PID_冬祭セイズ",
+    "is_in": {
+      "gsp": false,
+      "ssp": true,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {
+      "ssp": 5
+    },
+    "skill_ids": [
+      "SID_ウインド",
+      "SID_エルウインド",
+      "SID_レクスカリバー",
+      "SID_共に未来を導いて",
+      "SID_冬夜に輝く希望の星",
+      "SID_引き戻し",
+      "SID_攻撃魔防の共感",
+      "SID_攻撃魔防の連携1",
+      "SID_攻撃魔防の連携2",
+      "SID_攻撃魔防の連携3",
+      "SID_明鏡止水",
+      "SID_止水1",
+      "SID_止水2",
+      "SID_止水3",
+      "SID_烈光",
+      "SID_砕光"
+    ],
+    "divine_codes": {}
+  },
+  {
     "id": "PID_セイズ",
     "is_in": {
       "gsp": false,
@@ -46908,6 +47040,35 @@
         }
       ]
     }
+  },
+  {
+    "id": "PID_冬祭ゼルコバ",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": true,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {
+      "hg": 4
+    },
+    "skill_ids": [
+      "SID_冬祭の飾り",
+      "SID_冬祭の飾り＋",
+      "SID_影月",
+      "SID_攻撃速さの秘奥1",
+      "SID_攻撃速さの秘奥2",
+      "SID_攻撃速さの秘奥3",
+      "SID_月光",
+      "SID_速さ守備の拍節1",
+      "SID_速さ守備の拍節2",
+      "SID_速さ守備の拍節3",
+      "SID_鉄の暗器",
+      "SID_鋼の暗器"
+    ],
+    "divine_codes": {}
   },
   {
     "id": "PID_花婿ゼロット",

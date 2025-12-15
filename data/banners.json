@@ -2557,6 +2557,15 @@
     ]
   },
   {
+    "name": "Focus: Hall of Forms (Dec 2025)",
+    "unit_ids": [
+      "PID_ノア",
+      "PID_双界ロイ",
+      "PID_氷部族ティト",
+      "PID_神階エリミーヌ"
+    ]
+  },
+  {
     "name": "Focus: Hall of Forms (Feb 2023)",
     "unit_ids": [
       "PID_総選挙エーデル",
@@ -4670,6 +4679,13 @@
     ]
   },
   {
+    "name": "Focus: Ike & Roy's Battle",
+    "unit_ids": [
+      "PID_総選挙アイク",
+      "PID_総選挙ロイ"
+    ]
+  },
+  {
     "name": "Focus: Ike & Soren's Battle",
     "unit_ids": [
       "PID_アイク",
@@ -6342,6 +6358,14 @@
       "PID_ヒルダ",
       "PID_マリアンヌ",
       "PID_メルセデス"
+    ]
+  },
+  {
+    "name": "Focus: Tempest Trials (Askr's Kin Finale)",
+    "unit_ids": [
+      "PID_総選挙門番",
+      "PID_響心アイビー",
+      "PID_魔器アルフレッド"
     ]
   },
   {
@@ -8487,6 +8511,15 @@
       "PID_ルキナ",
       "PID_ルフレ男",
       "PID_ロイ"
+    ]
+  },
+  {
+    "name": "Gift I'll Give Again (Focus)",
+    "unit_ids": [
+      "PID_冬祭アルフレッド",
+      "PID_冬祭セイズ",
+      "PID_冬祭門番",
+      "PID_双界アイビー"
     ]
   },
   {

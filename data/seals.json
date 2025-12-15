@@ -9298,6 +9298,54 @@
     }
   },
   {
+    "id": "SID_守備魔防の秘奥1",
+    "game8_id": null,
+    "name": "Def/Res Finish 1",
+    "group_name": "Def/Res Finish",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/a4/Def_Res_Finish_1.png/revision/latest?cb=20221228040602",
+    "sp": 60,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Infantry"
+        ]
+      },
+      "weapons": null
+    }
+  },
+  {
+    "id": "SID_守備魔防の秘奥2",
+    "game8_id": null,
+    "name": "Def/Res Finish 2",
+    "group_name": "Def/Res Finish",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/47/Def_Res_Finish_2.png/revision/latest?cb=20221228040612",
+    "sp": 120,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Infantry"
+        ]
+      },
+      "weapons": null
+    }
+  },
+  {
+    "id": "SID_守備魔防の秘奥3",
+    "game8_id": null,
+    "name": "Def/Res Finish 3",
+    "group_name": "Def/Res Finish",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/2/2d/Def_Res_Finish_3.png/revision/latest?cb=20221228040623",
+    "sp": 240,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Infantry"
+        ]
+      },
+      "weapons": null
+    }
+  },
+  {
     "id": "SID_守備魔防の密集1",
     "game8_id": null,
     "name": "Def/Res Form 1",
@@ -12757,6 +12805,69 @@
       "weapons": {
         "can_not_use": [
           "Colorless Staff"
+        ]
+      }
+    }
+  },
+  {
+    "id": "SID_神速1",
+    "game8_id": null,
+    "name": "Potent 1",
+    "group_name": "Potent",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/ce/Potent_1.png/revision/latest?cb=20240130053713",
+    "sp": 60,
+    "restrictions": {
+      "moves": {
+        "can_not_use": [
+          "Armored"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "All Melee",
+          "All Beast"
+        ]
+      }
+    }
+  },
+  {
+    "id": "SID_神速2",
+    "game8_id": null,
+    "name": "Potent 2",
+    "group_name": "Potent",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/7a/Potent_2.png/revision/latest?cb=20240130053723",
+    "sp": 120,
+    "restrictions": {
+      "moves": {
+        "can_not_use": [
+          "Armored"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "All Melee",
+          "All Beast"
+        ]
+      }
+    }
+  },
+  {
+    "id": "SID_神速3",
+    "game8_id": null,
+    "name": "Potent 3",
+    "group_name": "Potent",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/7a/Potent_3.png/revision/latest?cb=20240130053734",
+    "sp": 240,
+    "restrictions": {
+      "moves": {
+        "can_not_use": [
+          "Armored"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "All Melee",
+          "All Beast"
         ]
       }
     }

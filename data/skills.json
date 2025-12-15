@@ -226,7 +226,8 @@
     "upgrade_ids": [
       "SID_鎧の護り手・遠・茨",
       "SID_鎧の護り手・理・茨",
-      "SID_鎧の護り手・遠・双"
+      "SID_鎧の護り手・遠・双",
+      "SID_靴の護り手・理・双"
     ],
     "downgrade_ids": [
       "SID_鎧の護り手・遠間2"
@@ -420,7 +421,8 @@
     "upgrade_ids": [
       "SID_鎧の護り手・近・茨",
       "SID_鎧の護り手・理・茨",
-      "SID_鎧の護り手・近・双"
+      "SID_鎧の護り手・近・双",
+      "SID_靴の護り手・理・双"
     ],
     "downgrade_ids": [
       "SID_鎧の護り手・近間2"
@@ -10969,6 +10971,29 @@
     ]
   },
   {
+    "id": "SID_攻撃魔防の共感",
+    "name": "Atk/Res Favor",
+    "group_name": "Atk/Res Favor",
+    "category": "passiveb",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c4/Atk_Res_Favor.png/revision/latest?cb=20251215083221",
+    "is_prf": false,
+    "sp": 300,
+    "tier": 4,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": null
+    },
+    "addition_date": "2025-12-15",
+    "release_date": "2025-12-15",
+    "version": "10.0",
+    "downgrade_ids": [
+      "SID_攻撃魔防の連携3"
+    ]
+  },
+  {
     "id": "SID_攻撃魔防の秘奥1",
     "game8_id": "385537",
     "name": "Atk/Res Finish 1",
@@ -11544,6 +11569,9 @@
     "addition_date": "2018-11-08",
     "release_date": "2018-11-09",
     "version": "2.11",
+    "upgrade_ids": [
+      "SID_攻撃魔防の共感"
+    ],
     "downgrade_ids": [
       "SID_攻撃魔防の連携2"
     ]
@@ -15053,6 +15081,7 @@
       "SID_悪夢の女王の魔杖",
       "SID_春に微睡む悪夢の卵",
       "SID_創世の文字の力",
+      "SID_聖夜告げる角笛",
       "SID_正の裁き",
       "SID_幻影の書",
       "SID_敬虔なる信徒の供物",
@@ -21737,6 +21766,7 @@
       "SID_ブリュンヒルデ",
       "SID_魔継ぐ少女の天球儀",
       "SID_魔道の寵子の羅針盤",
+      "SID_艶なる姉二人の燭台",
       "SID_シムベリン",
       "SID_ダークスパイクΤ",
       "SID_暁天の神楽鈴",
@@ -29716,6 +29746,7 @@
   },
   {
     "id": "SID_開かれし救世の剣",
+    "game8_id": "569687",
     "name": "Chosen Sword",
     "group_name": "Chosen Sword",
     "category": "weapon",
@@ -31917,6 +31948,33 @@
     ]
   },
   {
+    "id": "SID_艶なる姉二人の燭台",
+    "name": "Cozy Candles",
+    "group_name": "Cozy Candles",
+    "category": "weapon",
+    "weapon_type": "Red Tome",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Red Tome"
+        ]
+      }
+    },
+    "addition_date": "2025-12-15",
+    "release_date": "2025-12-15",
+    "version": "10.0",
+    "downgrade_ids": [
+      "SID_ボルガノン",
+      "SID_ノスフェラート"
+    ]
+  },
+  {
     "id": "SID_抑止隊形1",
     "game8_id": "296676",
     "name": "Crafty Fighter 1",
@@ -33141,6 +33199,9 @@
     "addition_date": "2021-12-16",
     "release_date": "2021-12-16",
     "version": "6.0",
+    "upgrade_ids": [
+      "SID_盾の護り手・遠・双"
+    ],
     "downgrade_ids": [
       "SID_盾の護り手・遠間2"
     ]
@@ -33233,6 +33294,31 @@
     ],
     "downgrade_ids": [
       "SID_盾の護り手・近間2"
+    ]
+  },
+  {
+    "id": "SID_盾の護り手・遠・双",
+    "name": "D/R Twin F Save",
+    "group_name": "D/R Twin F Save",
+    "category": "passivec",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/52/D_R_Twin_F_Save.png/revision/latest?cb=20251215083252",
+    "is_prf": false,
+    "sp": 300,
+    "tier": 4,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Armored"
+        ]
+      },
+      "weapons": null
+    },
+    "addition_date": "2025-12-15",
+    "release_date": "2025-12-15",
+    "version": "10.0",
+    "downgrade_ids": [
+      "SID_盾の護り手・遠間3"
     ]
   },
   {
@@ -36526,6 +36612,34 @@
     ]
   },
   {
+    "id": "SID_守備魔防の詠唱",
+    "name": "Def/Res Aria",
+    "group_name": "Def/Res Aria",
+    "category": "passivea",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/1f/Def_Res_Aria.png/revision/latest?cb=20251215083200",
+    "is_prf": false,
+    "sp": 300,
+    "tier": 4,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Colorless Staff",
+          "All Tome"
+        ]
+      }
+    },
+    "addition_date": "2025-12-15",
+    "release_date": "2025-12-15",
+    "version": "10.0",
+    "downgrade_ids": [
+      "SID_守備魔防の絆3"
+    ]
+  },
+  {
     "id": "SID_守備魔防の絆1",
     "game8_id": "266078",
     "name": "Def/Res Bond 1",
@@ -36603,6 +36717,7 @@
     "release_date": "2018-12-18",
     "version": "3.0",
     "upgrade_ids": [
+      "SID_守備魔防の詠唱",
       "SID_守備魔防の絆4",
       "SID_守備魔防の連帯4"
     ],
@@ -49702,6 +49817,7 @@
       "SID_ブリュンヒルデ",
       "SID_魔継ぐ少女の天球儀",
       "SID_魔道の寵子の羅針盤",
+      "SID_艶なる姉二人の燭台",
       "SID_シムベリン",
       "SID_暗黒の聖書",
       "SID_ダークスパイクΤ",
@@ -49835,6 +49951,26 @@
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
     "version": "1.0"
+  },
+  {
+    "id": "SID_お疲れ様です！",
+    "name": "Festive Report",
+    "group_name": "Festive Report",
+    "category": "passiveb",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/68/Festive_Report.png/revision/latest?cb=20251215083210",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 1,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": null
+    },
+    "addition_date": "2025-12-15",
+    "release_date": "2025-12-15",
+    "version": "10.0"
   },
   {
     "id": "SID_業槍ジークムント",
@@ -56404,6 +56540,26 @@
     "addition_date": "2022-12-05",
     "release_date": "2022-12-07",
     "version": "7.0"
+  },
+  {
+    "id": "SID_共に未来を導いて",
+    "name": "Future-Guided",
+    "group_name": "Future-Guided",
+    "category": "passivec",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e3/Future-Guided.png/revision/latest?cb=20251215083231",
+    "is_prf": true,
+    "sp": 300,
+    "tier": 1,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": null
+    },
+    "addition_date": "2025-12-15",
+    "release_date": "2025-12-15",
+    "version": "10.0"
   },
   {
     "id": "SID_共に未来を変えて",
@@ -86260,6 +86416,32 @@
     ]
   },
   {
+    "id": "SID_聖夜告げる角笛",
+    "name": "Oliphant Calling",
+    "group_name": "Oliphant Calling",
+    "category": "weapon",
+    "weapon_type": "Colorless Tome",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Colorless Tome"
+        ]
+      }
+    },
+    "addition_date": "2025-12-15",
+    "release_date": "2025-12-15",
+    "version": "10.0",
+    "downgrade_ids": [
+      "SID_アトラース"
+    ]
+  },
+  {
     "id": "SID_開世",
     "game8_id": "275357",
     "name": "Open the Future",
@@ -99159,7 +99341,8 @@
       "SID_復讐の神形",
       "SID_予兆の風",
       "SID_シレジアの風",
-      "SID_戦神の風書"
+      "SID_戦神の風書",
+      "SID_冬夜に輝く希望の星"
     ],
     "downgrade_ids": [
       "SID_エルウインド"
@@ -101354,6 +101537,32 @@
     ]
   },
   {
+    "id": "SID_靴の護り手・理・双",
+    "name": "S/D Twin P Save",
+    "group_name": "S/D Twin P Save",
+    "category": "passivec",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/58/S_D_Twin_P_Save.png/revision/latest?cb=20251215083303",
+    "is_prf": false,
+    "sp": 300,
+    "tier": 4,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Armored"
+        ]
+      },
+      "weapons": null
+    },
+    "addition_date": "2025-12-15",
+    "release_date": "2025-12-15",
+    "version": "10.0",
+    "downgrade_ids": [
+      "SID_鎧の護り手・近間3",
+      "SID_鎧の護り手・遠間3"
+    ]
+  },
+  {
     "id": "SID_衣の護り手・魔・茨",
     "game8_id": "554525",
     "name": "S/R Briar M Save",
@@ -101380,6 +101589,31 @@
     "downgrade_ids": [
       "SID_兜の護り手・近間3",
       "SID_兜の護り手・遠間3"
+    ]
+  },
+  {
+    "id": "SID_速魔十牽制・謀策",
+    "name": "S/R Crux: Ploy",
+    "group_name": "S/R Crux: Ploy",
+    "category": "passivec",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/64/S_R_Crux_Ploy.png/revision/latest?cb=20251215083242",
+    "is_prf": false,
+    "sp": 300,
+    "tier": 4,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Flying"
+        ]
+      },
+      "weapons": null
+    },
+    "addition_date": "2025-12-15",
+    "release_date": "2025-12-15",
+    "version": "10.0",
+    "downgrade_ids": [
+      "SID_速さ魔防の牽制3"
     ]
   },
   {
@@ -105563,6 +105797,26 @@
     "version": "7.1"
   },
   {
+    "id": "SID_真自己研鑽",
+    "name": "Self-Mastery",
+    "group_name": "Self-Mastery",
+    "category": "passivea",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c5/Self-Mastery.png/revision/latest?cb=20251215083149",
+    "is_prf": true,
+    "sp": 300,
+    "tier": 1,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": null
+    },
+    "addition_date": "2025-12-15",
+    "release_date": "2025-12-15",
+    "version": "10.0"
+  },
+  {
     "id": "SID_雇われ魔道士の書",
     "game8_id": "367149",
     "name": "Sell-Spell Tome",
@@ -108418,6 +108672,7 @@
       "SID_炎海の灼槍",
       "SID_シレジアの氷晶",
       "SID_銀の槍＋",
+      "SID_雪原走る鍛錬の槍",
       "SID_太陽槍",
       "SID_スレンドスピア",
       "SID_アッサルの槍",
@@ -110455,6 +110710,32 @@
     "version": "6.0",
     "downgrade_ids": [
       "SID_スノードーム"
+    ]
+  },
+  {
+    "id": "SID_雪原走る鍛錬の槍",
+    "name": "Snow-Fit Lance",
+    "group_name": "Snow-Fit Lance",
+    "category": "weapon",
+    "weapon_type": "Blue Lance",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Blue Lance"
+        ]
+      }
+    },
+    "addition_date": "2025-12-15",
+    "release_date": "2025-12-15",
+    "version": "10.0",
+    "downgrade_ids": [
+      "SID_銀の槍"
     ]
   },
   {
@@ -115530,6 +115811,7 @@
     "release_date": "2018-03-29",
     "version": "2.3",
     "upgrade_ids": [
+      "SID_速魔十牽制・謀策",
       "SID_速さ魔防の十字牽制",
       "SID_速さ魔防の大牽制"
     ],
@@ -120538,7 +120820,8 @@
       "SID_粛清の暗器",
       "SID_南国の果汁",
       "SID_南国の果実",
-      "SID_猛攻の暗器"
+      "SID_猛攻の暗器",
+      "SID_冬祭の飾り"
     ],
     "downgrade_ids": [
       "SID_鉄の暗器"
@@ -129537,6 +129820,26 @@
     "version": "9.9"
   },
   {
+    "id": "SID_真執着",
+    "name": "Tunnel Vision",
+    "group_name": "Tunnel Vision",
+    "category": "passivea",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d4/Tunnel_Vision.png/revision/latest?cb=20251215083139",
+    "is_prf": true,
+    "sp": 300,
+    "tier": 1,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": null
+    },
+    "addition_date": "2025-12-15",
+    "release_date": "2025-12-15",
+    "version": "10.0"
+  },
+  {
     "id": "SID_仕方がない子ね",
     "game8_id": "512300",
     "name": "Tut-Tut!",
@@ -135856,6 +136159,89 @@
     "version": "6.0",
     "downgrade_ids": [
       "SID_冬祭のレイピア"
+    ]
+  },
+  {
+    "id": "SID_冬夜に輝く希望の星",
+    "name": "Winter Star",
+    "group_name": "Winter Star",
+    "category": "weapon",
+    "weapon_type": "Green Tome",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Green Tome"
+        ]
+      }
+    },
+    "addition_date": "2025-12-15",
+    "release_date": "2025-12-15",
+    "version": "10.0",
+    "downgrade_ids": [
+      "SID_レクスカリバー"
+    ]
+  },
+  {
+    "id": "SID_冬祭の飾り",
+    "name": "Winter Trinket",
+    "group_name": "Winter Trinket",
+    "category": "weapon",
+    "weapon_type": "All Dagger",
+    "is_prf": false,
+    "sp": 200,
+    "tier": 3,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "All Dagger"
+        ]
+      }
+    },
+    "addition_date": "2025-12-15",
+    "release_date": "2025-12-15",
+    "version": "10.0",
+    "upgrade_ids": [
+      "SID_冬祭の飾り＋"
+    ],
+    "downgrade_ids": [
+      "SID_鋼の暗器"
+    ]
+  },
+  {
+    "id": "SID_冬祭の飾り＋",
+    "name": "Winter Trinket+",
+    "group_name": "Winter Trinket+",
+    "category": "weapon",
+    "weapon_type": "All Dagger",
+    "is_prf": false,
+    "sp": 300,
+    "tier": 4,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "All Dagger"
+        ]
+      }
+    },
+    "addition_date": "2025-12-15",
+    "release_date": "2025-12-15",
+    "version": "10.0",
+    "downgrade_ids": [
+      "SID_冬祭の飾り"
     ]
   },
   {

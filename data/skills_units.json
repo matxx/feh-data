@@ -1884,6 +1884,102 @@
     "unlock": 2
   },
   {
+    "unit_id": "PID_冬祭アルフレッド",
+    "skill_id": "SID_鎧の護り手・近間1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_冬祭アルフレッド",
+    "skill_id": "SID_鎧の護り手・近間2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_冬祭アルフレッド",
+    "skill_id": "SID_鎧の護り手・近間3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_冬祭アルフレッド",
+    "skill_id": "SID_壁炎",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_冬祭アルフレッド",
+    "skill_id": "SID_蛍火",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_冬祭アルフレッド",
+    "skill_id": "SID_華炎",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_冬祭アルフレッド",
+    "skill_id": "SID_鉄の槍",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_冬祭アルフレッド",
+    "skill_id": "SID_防陣1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_冬祭アルフレッド",
+    "skill_id": "SID_防陣2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_冬祭アルフレッド",
+    "skill_id": "SID_防陣3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_冬祭アルフレッド",
+    "skill_id": "SID_防陣4",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_冬祭アルフレッド",
+    "skill_id": "SID_靴の護り手・理・双",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_冬祭アルフレッド",
+    "skill_id": "SID_真自己研鑽",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_冬祭アルフレッド",
+    "skill_id": "SID_銀の槍",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_冬祭アルフレッド",
+    "skill_id": "SID_雪原走る鍛錬の槍",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_冬祭アルフレッド",
+    "skill_id": "SID_鋼の槍",
+    "default": 2,
+    "unlock": 2
+  },
+  {
     "unit_id": "PID_アルム",
     "skill_id": "SID_攻撃1",
     "default": 0,
@@ -36966,6 +37062,102 @@
     "unlock": 4
   },
   {
+    "unit_id": "PID_冬祭門番",
+    "skill_id": "SID_アトラース",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_冬祭門番",
+    "skill_id": "SID_氷点",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_冬祭門番",
+    "skill_id": "SID_守備魔防の詠唱",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_冬祭門番",
+    "skill_id": "SID_守備魔防の絆1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_冬祭門番",
+    "skill_id": "SID_守備魔防の絆2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_冬祭門番",
+    "skill_id": "SID_守備魔防の絆3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_冬祭門番",
+    "skill_id": "SID_盾の護り手・遠間1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_冬祭門番",
+    "skill_id": "SID_盾の護り手・遠間2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_冬祭門番",
+    "skill_id": "SID_盾の護り手・遠間3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_冬祭門番",
+    "skill_id": "SID_盾の護り手・遠・双",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_冬祭門番",
+    "skill_id": "SID_エルロック",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_冬祭門番",
+    "skill_id": "SID_お疲れ様です！",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_冬祭門番",
+    "skill_id": "SID_氷華",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_冬祭門番",
+    "skill_id": "SID_氷壁",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_冬祭門番",
+    "skill_id": "SID_聖夜告げる角笛",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_冬祭門番",
+    "skill_id": "SID_ロック",
+    "default": 1,
+    "unlock": 1
+  },
+  {
     "unit_id": "PID_総選挙門番",
     "skill_id": "SID_突撃の角笛",
     "default": 5,
@@ -48898,6 +49090,102 @@
     "skill_id": "SID_入れ替え",
     "default": 4,
     "unlock": 3
+  },
+  {
+    "unit_id": "PID_双界アイビー",
+    "skill_id": "SID_氷点",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_双界アイビー",
+    "skill_id": "SID_艶なる姉二人の燭台",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_双界アイビー",
+    "skill_id": "SID_ノスフェラート",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_双界アイビー",
+    "skill_id": "SID_ミィル",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_双界アイビー",
+    "skill_id": "SID_氷華",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_双界アイビー",
+    "skill_id": "SID_氷壁",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_双界アイビー",
+    "skill_id": "SID_ルイン",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_双界アイビー",
+    "skill_id": "SID_魔防の混乱1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_双界アイビー",
+    "skill_id": "SID_魔防の混乱2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_双界アイビー",
+    "skill_id": "SID_魔防の混乱3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_双界アイビー",
+    "skill_id": "SID_速さ魔防の大混乱",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_双界アイビー",
+    "skill_id": "SID_速さ魔防の牽制1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_双界アイビー",
+    "skill_id": "SID_速さ魔防の牽制2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_双界アイビー",
+    "skill_id": "SID_速さ魔防の牽制3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_双界アイビー",
+    "skill_id": "SID_速魔十牽制・謀策",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_双界アイビー",
+    "skill_id": "SID_真執着",
+    "default": 0,
+    "unlock": 5
   },
   {
     "unit_id": "PID_響心アイビー",
@@ -92766,6 +93054,102 @@
     "unlock": 2
   },
   {
+    "unit_id": "PID_冬祭セイズ",
+    "skill_id": "SID_攻撃魔防の共感",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_冬祭セイズ",
+    "skill_id": "SID_攻撃魔防の連携1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_冬祭セイズ",
+    "skill_id": "SID_攻撃魔防の連携2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_冬祭セイズ",
+    "skill_id": "SID_攻撃魔防の連携3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_冬祭セイズ",
+    "skill_id": "SID_烈光",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_冬祭セイズ",
+    "skill_id": "SID_明鏡止水",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_冬祭セイズ",
+    "skill_id": "SID_エルウインド",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_冬祭セイズ",
+    "skill_id": "SID_共に未来を導いて",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_冬祭セイズ",
+    "skill_id": "SID_引き戻し",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_冬祭セイズ",
+    "skill_id": "SID_レクスカリバー",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_冬祭セイズ",
+    "skill_id": "SID_砕光",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_冬祭セイズ",
+    "skill_id": "SID_止水1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_冬祭セイズ",
+    "skill_id": "SID_止水2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_冬祭セイズ",
+    "skill_id": "SID_止水3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_冬祭セイズ",
+    "skill_id": "SID_ウインド",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_冬祭セイズ",
+    "skill_id": "SID_冬夜に輝く希望の星",
+    "default": 5,
+    "unlock": 5
+  },
+  {
     "unit_id": "PID_セイズ",
     "skill_id": "SID_攻撃魔防の封印1",
     "default": 0,
@@ -111496,6 +111880,78 @@
     "skill_id": "SID_鋼の槍",
     "default": 2,
     "unlock": 2
+  },
+  {
+    "unit_id": "PID_冬祭ゼルコバ",
+    "skill_id": "SID_攻撃速さの秘奥1",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_冬祭ゼルコバ",
+    "skill_id": "SID_攻撃速さの秘奥2",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_冬祭ゼルコバ",
+    "skill_id": "SID_攻撃速さの秘奥3",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_冬祭ゼルコバ",
+    "skill_id": "SID_鉄の暗器",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_冬祭ゼルコバ",
+    "skill_id": "SID_月光",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_冬祭ゼルコバ",
+    "skill_id": "SID_影月",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_冬祭ゼルコバ",
+    "skill_id": "SID_速さ守備の拍節1",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_冬祭ゼルコバ",
+    "skill_id": "SID_速さ守備の拍節2",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_冬祭ゼルコバ",
+    "skill_id": "SID_速さ守備の拍節3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_冬祭ゼルコバ",
+    "skill_id": "SID_鋼の暗器",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_冬祭ゼルコバ",
+    "skill_id": "SID_冬祭の飾り",
+    "default": 3,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_冬祭ゼルコバ",
+    "skill_id": "SID_冬祭の飾り＋",
+    "default": 5,
+    "unlock": 5
   },
   {
     "unit_id": "PID_花婿ゼロット",

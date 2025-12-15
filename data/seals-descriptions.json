@@ -2240,6 +2240,18 @@
     "description": "At start of combat, if foe's HP = 100% or if【Penalty】is active on foe, grants Def/Res+5 to unit during combat.<br><br>【Penalty】<br>All effects that last \"on foe through its next action.\" Includes penalties inflicted by a skill like Panic or Threaten and negative status effects (preventing counterattacks, restricting movement, or the effects of a skill like Triangle Adept or Guard)."
   },
   {
+    "id": "SID_守備魔防の秘奥1",
+    "description": "If unit is within 3 spaces of an ally, grants Def/Res+2 to unit during combat, and also, if unit's Special is ready or unit's Special triggered before or during this combat, deals +1 damage during combat. (Except when dealing damage with area-of-effect Specials.)"
+  },
+  {
+    "id": "SID_守備魔防の秘奥2",
+    "description": "If unit is within 3 spaces of an ally, grants Def/Res+4 to unit during combat, and also, if unit's Special is ready or unit's Special triggered before or during this combat, deals +3 damage during combat. (Except when dealing damage with area-of-effect Specials.)"
+  },
+  {
+    "id": "SID_守備魔防の秘奥3",
+    "description": "If unit is within 3 spaces of an ally, grants Def/Res+6 to unit during combat, and also, if unit's Special is ready or unit's Special triggered before or during this combat, deals +5 damage during combat. (Except when dealing damage with area-of-effect Specials.)"
+  },
+  {
     "id": "SID_守備魔防の密集1",
     "description": "If unit is within 2 spaces of an ally, grants Def/Res+X to unit during combat (X = number of allies within 2 spaces; max 3)."
   },
@@ -3038,6 +3050,18 @@
   {
     "id": "SID_蛇毒3",
     "description": "If unit initiates combat, deals 10 damage to foe after combat."
+  },
+  {
+    "id": "SID_神速1",
+    "description": "If decreasing the Spd difference necessary to make a follow-up attack by 25 would allow unit to trigger a follow-up attack (excluding guaranteed or prevented follow-ups), triggers【Potent Follow X%】during combat (if unit cannot perform follow-up and attack twice, X = 50; otherwise, X = 10).<br><br>【Potent Follow X%】<br>Triggers an additional follow-up attack immediately after unit's standard follow-up attack and deals damage = X% of unit's normal attack damage (if unit cannot make a follow-up attack, this effect triggers when the standard follow-up attack would occur; this effect is treated like a follow-up attack, so effects like \"reduce damage by X%\" still apply, but this effect is not affected by effects that prevent follow-ups or \"attacks twice\" effects; only highest value applied; does not stack)."
+  },
+  {
+    "id": "SID_神速2",
+    "description": "Reduces damage from attacks during combat and from area-of-effect Specials (excluding Røkkr area-of-effect Specials) by 10%. If decreasing the Spd difference necessary to make a follow-up attack by 25 would allow unit to trigger a follow-up attack (excluding guaranteed or prevented follow-ups), triggers【Potent Follow X%】during combat (if unit cannot perform follow-up and attack twice, X = 60; otherwise, X = 20).<br><br>【Potent Follow X%】<br>Triggers an additional follow-up attack immediately after unit's standard follow-up attack and deals damage = X% of unit's normal attack damage (if unit cannot make a follow-up attack, this effect triggers when the standard follow-up attack would occur; this effect is treated like a follow-up attack, so effects like \"reduce damage by X%\" still apply, but this effect is not affected by effects that prevent follow-ups or \"attacks twice\" effects; only highest value applied; does not stack)."
+  },
+  {
+    "id": "SID_神速3",
+    "description": "Reduces damage from attacks during combat and from area-of-effect Specials (excluding Røkkr area-of-effect Specials) by 20%. If decreasing the Spd difference necessary to make a follow-up attack by 25 would allow unit to trigger a follow-up attack (excluding guaranteed or prevented follow-ups), triggers【Potent Follow X%】during combat (if unit cannot perform follow-up and attack twice, X = 70; otherwise, X = 30).<br><br>【Potent Follow X%】<br>Triggers an additional follow-up attack immediately after unit's standard follow-up attack and deals damage = X% of unit's normal attack damage (if unit cannot make a follow-up attack, this effect triggers when the standard follow-up attack would occur; this effect is treated like a follow-up attack, so effects like \"reduce damage by X%\" still apply, but this effect is not affected by effects that prevent follow-ups or \"attacks twice\" effects; only highest value applied; does not stack)."
   },
   {
     "id": "SID_切り返し1",
