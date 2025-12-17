@@ -591,9 +591,9 @@
         ]
       }
     },
-    "addition_date": "2021-12-06",
-    "release_date": "2021-12-07",
-    "version": "6.0",
+    "addition_date": "2024-11-05",
+    "release_date": "2024-11-06",
+    "version": "8.11",
     "downgrade_ids": [
       "SID_攻撃守備の防壁3"
     ]
@@ -703,9 +703,9 @@
         ]
       }
     },
-    "addition_date": "2022-09-29",
-    "release_date": "2022-09-29",
-    "version": "6.9",
+    "addition_date": "2024-11-15",
+    "release_date": "2024-11-15",
+    "version": "8.11",
     "downgrade_ids": [
       "SID_攻撃の魅了3",
       "SID_魔防の魅了3"
@@ -1908,9 +1908,9 @@
         ]
       }
     },
-    "addition_date": "2022-02-25",
-    "release_date": "2022-02-28",
-    "version": "6.2",
+    "addition_date": "2023-10-03",
+    "release_date": "2023-10-05",
+    "version": "7.10",
     "downgrade_ids": [
       "SID_攻撃速さの牽制3"
     ]
@@ -8658,9 +8658,9 @@
         ]
       }
     },
-    "addition_date": "2021-12-06",
-    "release_date": "2021-12-07",
-    "version": "6.0",
+    "addition_date": "2022-07-26",
+    "release_date": "2022-07-26",
+    "version": "6.7",
     "upgrade_ids": [
       "SID_攻撃守備の防壁2"
     ]
@@ -8690,9 +8690,9 @@
         ]
       }
     },
-    "addition_date": "2021-12-06",
-    "release_date": "2021-12-07",
-    "version": "6.0",
+    "addition_date": "2022-07-26",
+    "release_date": "2022-07-26",
+    "version": "6.7",
     "upgrade_ids": [
       "SID_攻撃守備の防壁3"
     ],
@@ -8725,9 +8725,9 @@
         ]
       }
     },
-    "addition_date": "2021-12-06",
-    "release_date": "2021-12-07",
-    "version": "6.0",
+    "addition_date": "2022-07-26",
+    "release_date": "2022-07-26",
+    "version": "6.7",
     "upgrade_ids": [
       "SID_攻撃守備の刃壁",
       "SID_攻撃守備の防壁4"
@@ -8883,9 +8883,9 @@
         ]
       }
     },
-    "addition_date": "2020-08-18",
-    "release_date": "2021-09-30",
-    "version": "5.9",
+    "addition_date": "2022-09-07",
+    "release_date": "2022-09-16",
+    "version": "6.9",
     "upgrade_ids": [
       "SID_攻撃守備の激突2"
     ]
@@ -8915,9 +8915,9 @@
         ]
       }
     },
-    "addition_date": "2020-08-18",
-    "release_date": "2021-09-30",
-    "version": "5.9",
+    "addition_date": "2022-09-07",
+    "release_date": "2022-09-16",
+    "version": "6.9",
     "upgrade_ids": [
       "SID_攻撃守備の激突3"
     ],
@@ -8950,9 +8950,9 @@
         ]
       }
     },
-    "addition_date": "2020-08-18",
-    "release_date": "2021-09-30",
-    "version": "5.9",
+    "addition_date": "2022-09-07",
+    "release_date": "2022-09-16",
+    "version": "6.9",
     "upgrade_ids": [
       "SID_攻撃守備の激突4",
       "SID_攻撃守備の突破"
@@ -8986,7 +8986,7 @@
         ]
       }
     },
-    "addition_date": "2020-08-18",
+    "addition_date": "2022-09-07",
     "release_date": "2022-09-16",
     "version": "6.9",
     "downgrade_ids": [
@@ -9048,9 +9048,9 @@
         ]
       }
     },
-    "addition_date": "2020-12-08",
-    "release_date": "2021-09-30",
-    "version": "5.9",
+    "addition_date": "2024-06-06",
+    "release_date": "2024-07-26",
+    "version": "8.7",
     "downgrade_ids": [
       "SID_攻撃守備の激突3"
     ]
@@ -9415,9 +9415,9 @@
         "none": true
       }
     },
-    "addition_date": "2019-11-28",
-    "release_date": "2019-11-28",
-    "version": "3.11",
+    "addition_date": "2022-11-08",
+    "release_date": "2022-11-08",
+    "version": "6.11",
     "downgrade_ids": [
       "SID_攻撃守備の牽制3"
     ]
@@ -9653,9 +9653,9 @@
         "none": true
       }
     },
-    "addition_date": "2018-11-28",
-    "release_date": "2018-11-28",
-    "version": "2.11",
+    "addition_date": "2021-05-06",
+    "release_date": "2021-05-07",
+    "version": "5.5",
     "downgrade_ids": [
       "SID_攻撃守備の威嚇2"
     ]
@@ -10039,9 +10039,9 @@
         "none": true
       }
     },
-    "addition_date": "2019-11-28",
-    "release_date": "2019-11-28",
-    "version": "3.11",
+    "addition_date": "2020-11-05",
+    "release_date": "2020-11-06",
+    "version": "4.11",
     "upgrade_ids": [
       "SID_攻撃守備の牽制2"
     ]
@@ -10067,9 +10067,9 @@
         "none": true
       }
     },
-    "addition_date": "2019-11-28",
-    "release_date": "2019-11-28",
-    "version": "3.11",
+    "addition_date": "2020-11-05",
+    "release_date": "2020-11-06",
+    "version": "4.11",
     "upgrade_ids": [
       "SID_攻撃守備の牽制3"
     ],
@@ -10098,9 +10098,9 @@
         "none": true
       }
     },
-    "addition_date": "2019-11-28",
-    "release_date": "2019-11-28",
-    "version": "3.11",
+    "addition_date": "2020-11-05",
+    "release_date": "2020-11-06",
+    "version": "4.11",
     "upgrade_ids": [
       "SID_攻撃守備の大牽制"
     ],
@@ -10471,9 +10471,9 @@
         "none": true
       }
     },
-    "addition_date": "2018-02-28",
-    "release_date": "2018-02-28",
-    "version": "2.2",
+    "addition_date": "2018-12-18",
+    "release_date": "2018-12-18",
+    "version": "3.0",
     "upgrade_ids": [
       "SID_攻撃守備の孤軍2"
     ]
@@ -10497,9 +10497,9 @@
         "none": true
       }
     },
-    "addition_date": "2018-02-28",
-    "release_date": "2018-02-28",
-    "version": "2.2",
+    "addition_date": "2018-12-18",
+    "release_date": "2018-12-18",
+    "version": "3.0",
     "upgrade_ids": [
       "SID_攻撃守備の孤軍3"
     ],
@@ -10526,9 +10526,9 @@
         "none": true
       }
     },
-    "addition_date": "2018-02-28",
-    "release_date": "2018-02-28",
-    "version": "2.2",
+    "addition_date": "2018-12-18",
+    "release_date": "2018-12-18",
+    "version": "3.0",
     "upgrade_ids": [
       "SID_攻撃守備の孤軍4",
       "SID_攻撃守備の野性"
@@ -10556,9 +10556,9 @@
         "none": true
       }
     },
-    "addition_date": "2018-02-28",
-    "release_date": "2018-02-28",
-    "version": "2.2",
+    "addition_date": "2020-08-06",
+    "release_date": "2020-08-07",
+    "version": "4.8",
     "downgrade_ids": [
       "SID_攻撃守備の孤軍3"
     ]
@@ -10582,9 +10582,9 @@
         "none": true
       }
     },
-    "addition_date": "2017-11-28",
-    "release_date": "2017-11-28",
-    "version": "2.0",
+    "addition_date": "2020-08-18",
+    "release_date": "2020-08-18",
+    "version": "4.8",
     "downgrade_ids": [
       "SID_攻撃守備の絆3"
     ]
@@ -10962,9 +10962,9 @@
         "none": true
       }
     },
-    "addition_date": "2022-08-31",
-    "release_date": "2022-08-31",
-    "version": "6.8",
+    "addition_date": "2024-12-27",
+    "release_date": "2025-01-01",
+    "version": "9.0",
     "downgrade_ids": [
       "SID_攻撃の混乱3",
       "SID_魔防の混乱3"
@@ -10972,6 +10972,7 @@
   },
   {
     "id": "SID_攻撃魔防の共感",
+    "game8_id": "571451",
     "name": "Atk/Res Favor",
     "group_name": "Atk/Res Favor",
     "category": "passiveb",
@@ -11332,9 +11333,9 @@
         "none": true
       }
     },
-    "addition_date": "2022-10-31",
-    "release_date": "2022-10-31",
-    "version": "6.10",
+    "addition_date": "2025-04-15",
+    "release_date": "2025-04-15",
+    "version": "9.4",
     "downgrade_ids": [
       "SID_攻撃の混乱3",
       "SID_魔防の混乱3"
@@ -11361,9 +11362,9 @@
         "none": true
       }
     },
-    "addition_date": "2020-09-30",
-    "release_date": "2020-09-30",
-    "version": "4.9",
+    "addition_date": "2022-05-20",
+    "release_date": "2022-05-20",
+    "version": "6.5",
     "downgrade_ids": [
       "SID_攻撃魔防の牽制3"
     ]
@@ -11390,9 +11391,9 @@
         "none": true
       }
     },
-    "addition_date": "2020-04-30",
-    "release_date": "2020-04-30",
-    "version": "4.4",
+    "addition_date": "2021-05-31",
+    "release_date": "2021-05-31",
+    "version": "5.5",
     "upgrade_ids": [
       "SID_攻撃魔防の万全2"
     ]
@@ -11419,9 +11420,9 @@
         "none": true
       }
     },
-    "addition_date": "2020-04-30",
-    "release_date": "2020-04-30",
-    "version": "4.4",
+    "addition_date": "2021-05-31",
+    "release_date": "2021-05-31",
+    "version": "5.5",
     "upgrade_ids": [
       "SID_攻撃魔防の万全3"
     ],
@@ -11451,9 +11452,9 @@
         "none": true
       }
     },
-    "addition_date": "2020-04-30",
-    "release_date": "2020-04-30",
-    "version": "4.4",
+    "addition_date": "2021-05-31",
+    "release_date": "2021-05-31",
+    "version": "5.5",
     "upgrade_ids": [
       "SID_攻撃魔防の万全4"
     ],
@@ -11483,9 +11484,9 @@
         "none": true
       }
     },
-    "addition_date": "2020-04-30",
-    "release_date": "2020-04-30",
-    "version": "4.4",
+    "addition_date": "2021-05-31",
+    "release_date": "2021-05-31",
+    "version": "5.5",
     "downgrade_ids": [
       "SID_攻撃魔防の万全3"
     ]
@@ -11627,9 +11628,9 @@
         "none": true
       }
     },
-    "addition_date": "2019-08-28",
-    "release_date": "2019-08-28",
-    "version": "3.8",
+    "addition_date": "2021-05-06",
+    "release_date": "2021-05-07",
+    "version": "5.5",
     "downgrade_ids": [
       "SID_攻撃魔防の威嚇2"
     ]
@@ -12101,9 +12102,9 @@
         ]
       }
     },
-    "addition_date": "2021-01-28",
-    "release_date": "2021-01-28",
-    "version": "5.1",
+    "addition_date": "2023-04-17",
+    "release_date": "2023-04-17",
+    "version": "7.4",
     "upgrade_ids": [
       "SID_攻撃魔防の竜眼2"
     ]
@@ -12129,9 +12130,9 @@
         ]
       }
     },
-    "addition_date": "2021-01-28",
-    "release_date": "2021-01-28",
-    "version": "5.1",
+    "addition_date": "2023-04-17",
+    "release_date": "2023-04-17",
+    "version": "7.4",
     "upgrade_ids": [
       "SID_攻撃魔防の竜眼3"
     ],
@@ -12160,9 +12161,9 @@
         ]
       }
     },
-    "addition_date": "2021-01-28",
-    "release_date": "2021-01-28",
-    "version": "5.1",
+    "addition_date": "2023-04-17",
+    "release_date": "2023-04-17",
+    "version": "7.4",
     "upgrade_ids": [
       "SID_攻撃魔防の竜眼4"
     ],
@@ -12191,9 +12192,9 @@
         ]
       }
     },
-    "addition_date": "2021-01-28",
-    "release_date": "2021-01-28",
-    "version": "5.1",
+    "addition_date": "2023-04-17",
+    "release_date": "2023-04-17",
+    "version": "7.4",
     "downgrade_ids": [
       "SID_攻撃魔防の竜眼3"
     ]
@@ -12316,9 +12317,9 @@
         "none": true
       }
     },
-    "addition_date": "2017-12-28",
-    "release_date": "2017-12-28",
-    "version": "2.0",
+    "addition_date": "2018-09-14",
+    "release_date": "2018-09-14",
+    "version": "2.9",
     "upgrade_ids": [
       "SID_攻撃魔防の孤軍2"
     ]
@@ -12342,9 +12343,9 @@
         "none": true
       }
     },
-    "addition_date": "2017-12-28",
-    "release_date": "2017-12-28",
-    "version": "2.0",
+    "addition_date": "2018-09-14",
+    "release_date": "2018-09-14",
+    "version": "2.9",
     "upgrade_ids": [
       "SID_攻撃魔防の孤軍3"
     ],
@@ -12371,9 +12372,9 @@
         "none": true
       }
     },
-    "addition_date": "2017-12-28",
-    "release_date": "2017-12-28",
-    "version": "2.0",
+    "addition_date": "2018-09-14",
+    "release_date": "2018-09-14",
+    "version": "2.9",
     "upgrade_ids": [
       "SID_攻撃魔防の孤軍4"
     ],
@@ -12400,9 +12401,9 @@
         "none": true
       }
     },
-    "addition_date": "2017-12-28",
-    "release_date": "2017-12-28",
-    "version": "2.0",
+    "addition_date": "2020-05-07",
+    "release_date": "2020-05-08",
+    "version": "4.5",
     "downgrade_ids": [
       "SID_攻撃魔防の孤軍3"
     ]
@@ -12428,9 +12429,9 @@
         "none": true
       }
     },
-    "addition_date": "2020-03-31",
-    "release_date": "2020-03-31",
-    "version": "4.3",
+    "addition_date": "2022-08-31",
+    "release_date": "2022-08-31",
+    "version": "6.8",
     "upgrade_ids": [
       "SID_攻撃魔防の拍節2"
     ]
@@ -12456,9 +12457,9 @@
         "none": true
       }
     },
-    "addition_date": "2020-03-31",
-    "release_date": "2020-03-31",
-    "version": "4.3",
+    "addition_date": "2022-08-31",
+    "release_date": "2022-08-31",
+    "version": "6.8",
     "upgrade_ids": [
       "SID_攻撃魔防の拍節3"
     ],
@@ -12487,9 +12488,9 @@
         "none": true
       }
     },
-    "addition_date": "2020-03-31",
-    "release_date": "2020-03-31",
-    "version": "4.3",
+    "addition_date": "2022-08-31",
+    "release_date": "2022-08-31",
+    "version": "6.8",
     "upgrade_ids": [
       "SID_攻撃魔防の拍節4"
     ],
@@ -12572,9 +12573,9 @@
         "none": true
       }
     },
-    "addition_date": "2018-12-11",
-    "release_date": "2018-12-11",
-    "version": "3.0",
+    "addition_date": "2020-12-17",
+    "release_date": "2020-12-17",
+    "version": "5.0",
     "downgrade_ids": [
       "SID_攻撃魔防の絆3"
     ]
@@ -12657,7 +12658,7 @@
         ]
       }
     },
-    "addition_date": "2025-07-18",
+    "addition_date": "2025-08-15",
     "release_date": "2025-08-15",
     "version": "9.8",
     "downgrade_ids": [
@@ -13060,9 +13061,9 @@
         ]
       }
     },
-    "addition_date": "2020-10-30",
-    "release_date": "2020-10-30",
-    "version": "4.10",
+    "addition_date": "2022-08-17",
+    "release_date": "2022-08-17",
+    "version": "6.8",
     "upgrade_ids": [
       "SID_攻撃速さの激突2"
     ]
@@ -13092,9 +13093,9 @@
         ]
       }
     },
-    "addition_date": "2020-10-30",
-    "release_date": "2020-10-30",
-    "version": "4.10",
+    "addition_date": "2022-08-17",
+    "release_date": "2022-08-17",
+    "version": "6.8",
     "upgrade_ids": [
       "SID_攻撃速さの激突3"
     ],
@@ -13127,9 +13128,9 @@
         ]
       }
     },
-    "addition_date": "2020-10-30",
-    "release_date": "2020-10-30",
-    "version": "4.10",
+    "addition_date": "2022-08-17",
+    "release_date": "2022-08-17",
+    "version": "6.8",
     "upgrade_ids": [
       "SID_攻撃速さの激突4",
       "SID_攻撃速さの突破"
@@ -13163,9 +13164,9 @@
         ]
       }
     },
-    "addition_date": "2020-10-30",
-    "release_date": "2020-10-30",
-    "version": "4.10",
+    "addition_date": "2022-08-17",
+    "release_date": "2022-08-17",
+    "version": "6.8",
     "downgrade_ids": [
       "SID_攻撃速さの激突3"
     ]
@@ -13195,9 +13196,9 @@
         ]
       }
     },
-    "addition_date": "2022-06-30",
-    "release_date": "2022-06-30",
-    "version": "6.6",
+    "addition_date": "2024-05-20",
+    "release_date": "2024-05-20",
+    "version": "8.5",
     "downgrade_ids": [
       "SID_攻撃速さの激突3"
     ]
@@ -13283,9 +13284,9 @@
         "none": true
       }
     },
-    "addition_date": "2021-12-24",
-    "release_date": "2021-12-24",
-    "version": "6.0",
+    "addition_date": "2022-10-05",
+    "release_date": "2022-10-06",
+    "version": "6.10",
     "upgrade_ids": [
       "SID_攻撃速さの秘奥2"
     ]
@@ -13311,9 +13312,9 @@
         "none": true
       }
     },
-    "addition_date": "2021-12-24",
-    "release_date": "2021-12-24",
-    "version": "6.0",
+    "addition_date": "2022-10-05",
+    "release_date": "2022-10-06",
+    "version": "6.10",
     "upgrade_ids": [
       "SID_攻撃速さの秘奥3"
     ],
@@ -13342,9 +13343,9 @@
         "none": true
       }
     },
-    "addition_date": "2021-12-24",
-    "release_date": "2021-12-24",
-    "version": "6.0",
+    "addition_date": "2022-10-05",
+    "release_date": "2022-10-06",
+    "version": "6.10",
     "upgrade_ids": [
       "SID_攻撃速さの秘奥4"
     ],
@@ -13373,9 +13374,9 @@
         "none": true
       }
     },
-    "addition_date": "2021-12-24",
-    "release_date": "2021-12-24",
-    "version": "6.0",
+    "addition_date": "2022-10-05",
+    "release_date": "2022-10-06",
+    "version": "6.10",
     "downgrade_ids": [
       "SID_攻撃速さの秘奥3"
     ]
@@ -13600,9 +13601,9 @@
         ]
       }
     },
-    "addition_date": "2021-02-16",
-    "release_date": "2021-03-30",
-    "version": "5.3",
+    "addition_date": "2023-03-31",
+    "release_date": "2023-03-31",
+    "version": "7.3",
     "downgrade_ids": [
       "SID_魔道の刃3"
     ]
@@ -13689,9 +13690,9 @@
         "none": true
       }
     },
-    "addition_date": "2019-09-30",
-    "release_date": "2019-09-30",
-    "version": "3.9",
+    "addition_date": "2021-04-05",
+    "release_date": "2021-04-06",
+    "version": "5.4",
     "upgrade_ids": [
       "SID_攻撃速さの万全2"
     ]
@@ -13718,9 +13719,9 @@
         "none": true
       }
     },
-    "addition_date": "2019-09-30",
-    "release_date": "2019-09-30",
-    "version": "3.9",
+    "addition_date": "2021-04-05",
+    "release_date": "2021-04-06",
+    "version": "5.4",
     "upgrade_ids": [
       "SID_攻撃速さの万全3"
     ],
@@ -13750,9 +13751,9 @@
         "none": true
       }
     },
-    "addition_date": "2019-09-30",
-    "release_date": "2019-09-30",
-    "version": "3.9",
+    "addition_date": "2021-04-05",
+    "release_date": "2021-04-06",
+    "version": "5.4",
     "upgrade_ids": [
       "SID_攻撃速さの万全4",
       "SID_攻撃速さの完全"
@@ -13783,9 +13784,9 @@
         "none": true
       }
     },
-    "addition_date": "2019-09-30",
-    "release_date": "2019-09-30",
-    "version": "3.9",
+    "addition_date": "2021-04-05",
+    "release_date": "2021-04-06",
+    "version": "5.4",
     "downgrade_ids": [
       "SID_攻撃速さの万全3"
     ]
@@ -13956,9 +13957,9 @@
         "none": true
       }
     },
-    "addition_date": "2019-12-25",
-    "release_date": "2019-12-25",
-    "version": "4.0",
+    "addition_date": "2021-03-04",
+    "release_date": "2021-06-08",
+    "version": "5.6",
     "downgrade_ids": [
       "SID_攻撃速さの威嚇2"
     ]
@@ -14080,9 +14081,9 @@
         "none": true
       }
     },
-    "addition_date": "2021-06-30",
-    "release_date": "2021-06-30",
-    "version": "5.6",
+    "addition_date": "2022-07-07",
+    "release_date": "2022-07-07",
+    "version": "6.7",
     "downgrade_ids": [
       "SID_攻撃速さの信義3"
     ]
@@ -14371,9 +14372,9 @@
         "none": true
       }
     },
-    "addition_date": "2018-12-28",
-    "release_date": "2018-12-28",
-    "version": "3.0",
+    "addition_date": "2019-08-16",
+    "release_date": "2019-08-16",
+    "version": "3.8",
     "downgrade_ids": [
       "SID_攻撃速さの渾身3"
     ]
@@ -14399,9 +14400,9 @@
         "none": true
       }
     },
-    "addition_date": "2018-05-30",
-    "release_date": "2018-05-30",
-    "version": "2.5",
+    "addition_date": "2020-08-18",
+    "release_date": "2020-08-18",
+    "version": "4.8",
     "upgrade_ids": [
       "SID_攻撃速さの牽制2"
     ]
@@ -14427,9 +14428,9 @@
         "none": true
       }
     },
-    "addition_date": "2018-05-30",
-    "release_date": "2018-05-30",
-    "version": "2.5",
+    "addition_date": "2020-08-18",
+    "release_date": "2020-08-18",
+    "version": "4.8",
     "upgrade_ids": [
       "SID_攻撃速さの牽制3"
     ],
@@ -14458,9 +14459,9 @@
         "none": true
       }
     },
-    "addition_date": "2018-05-30",
-    "release_date": "2018-05-30",
-    "version": "2.5",
+    "addition_date": "2020-08-18",
+    "release_date": "2020-08-18",
+    "version": "4.8",
     "upgrade_ids": [
       "SID_攻速大牽制・導き手",
       "SID_攻速牽制・運び手",
@@ -14919,9 +14920,9 @@
         "none": true
       }
     },
-    "addition_date": "2018-10-31",
-    "release_date": "2018-10-31",
-    "version": "2.10",
+    "addition_date": "2020-05-07",
+    "release_date": "2020-05-08",
+    "version": "4.5",
     "downgrade_ids": [
       "SID_攻撃速さの孤軍3"
     ]
@@ -17728,7 +17729,7 @@
         ]
       }
     },
-    "addition_date": "2021-12-06",
+    "addition_date": "2022-11-18",
     "release_date": "2022-11-30",
     "version": "6.11",
     "upgrade_ids": [
@@ -17756,7 +17757,7 @@
         ]
       }
     },
-    "addition_date": "2021-12-06",
+    "addition_date": "2022-11-18",
     "release_date": "2022-11-30",
     "version": "6.11",
     "upgrade_ids": [
@@ -17787,7 +17788,7 @@
         ]
       }
     },
-    "addition_date": "2021-12-06",
+    "addition_date": "2022-11-18",
     "release_date": "2022-11-30",
     "version": "6.11",
     "upgrade_ids": [
@@ -18374,7 +18375,7 @@
         ]
       }
     },
-    "addition_date": "2024-06-06",
+    "addition_date": "2024-06-17",
     "release_date": "2024-06-17",
     "version": "8.6",
     "downgrade_ids": [
@@ -19008,7 +19009,7 @@
         ]
       }
     },
-    "addition_date": "2021-12-06",
+    "addition_date": "2025-03-06",
     "release_date": "2025-03-07",
     "version": "9.3",
     "downgrade_ids": [
@@ -19037,9 +19038,9 @@
         ]
       }
     },
-    "addition_date": "2022-11-18",
-    "release_date": "2022-11-30",
-    "version": "6.11",
+    "addition_date": "2024-12-27",
+    "release_date": "2025-01-01",
+    "version": "9.0",
     "downgrade_ids": [
       "SID_絶対化身・敏捷3",
       "SID_絶対化身・追撃3"
@@ -20886,7 +20887,7 @@
         ]
       }
     },
-    "addition_date": "2017-02-02",
+    "addition_date": "2017-02-27",
     "release_date": "2017-02-27",
     "version": "1.0",
     "downgrade_ids": [
@@ -21227,9 +21228,9 @@
         ]
       }
     },
-    "addition_date": "2020-02-27",
-    "release_date": "2020-02-27",
-    "version": "4.2",
+    "addition_date": "2022-04-18",
+    "release_date": "2022-04-18",
+    "version": "6.4",
     "upgrade_ids": [
       "SID_青への暗闘2"
     ]
@@ -21255,9 +21256,9 @@
         ]
       }
     },
-    "addition_date": "2020-02-27",
-    "release_date": "2020-02-27",
-    "version": "4.2",
+    "addition_date": "2022-04-18",
+    "release_date": "2022-04-18",
+    "version": "6.4",
     "upgrade_ids": [
       "SID_青への暗闘3"
     ],
@@ -21286,9 +21287,9 @@
         ]
       }
     },
-    "addition_date": "2020-02-27",
-    "release_date": "2020-02-27",
-    "version": "4.2",
+    "addition_date": "2022-04-18",
+    "release_date": "2022-04-18",
+    "version": "6.4",
     "downgrade_ids": [
       "SID_青への暗闘2"
     ]
@@ -21427,7 +21428,7 @@
         ]
       }
     },
-    "addition_date": "2024-12-05",
+    "addition_date": "2025-03-28",
     "release_date": "2025-03-28",
     "version": "9.3",
     "upgrade_ids": [
@@ -21458,7 +21459,7 @@
         ]
       }
     },
-    "addition_date": "2024-12-05",
+    "addition_date": "2025-03-28",
     "release_date": "2025-03-28",
     "version": "9.3",
     "upgrade_ids": [
@@ -21492,7 +21493,7 @@
         ]
       }
     },
-    "addition_date": "2024-12-05",
+    "addition_date": "2025-03-28",
     "release_date": "2025-03-28",
     "version": "9.3",
     "upgrade_ids": [
@@ -21526,7 +21527,7 @@
         ]
       }
     },
-    "addition_date": "2024-12-05",
+    "addition_date": "2025-03-28",
     "release_date": "2025-03-28",
     "version": "9.3",
     "downgrade_ids": [
@@ -26594,7 +26595,7 @@
         "none": true
       }
     },
-    "addition_date": "2021-12-06",
+    "addition_date": "2021-12-16",
     "release_date": "2021-12-16",
     "version": "6.0",
     "upgrade_ids": [
@@ -26620,7 +26621,7 @@
         "none": true
       }
     },
-    "addition_date": "2021-12-06",
+    "addition_date": "2021-12-16",
     "release_date": "2021-12-16",
     "version": "6.0",
     "upgrade_ids": [
@@ -26649,7 +26650,7 @@
         "none": true
       }
     },
-    "addition_date": "2021-12-06",
+    "addition_date": "2021-12-16",
     "release_date": "2021-12-16",
     "version": "6.0",
     "upgrade_ids": [
@@ -29160,9 +29161,9 @@
         "none": true
       }
     },
-    "addition_date": "2020-06-05",
-    "release_date": "2020-06-05",
-    "version": "4.6",
+    "addition_date": "2021-01-18",
+    "release_date": "2021-01-18",
+    "version": "5.1",
     "upgrade_ids": [
       "SID_守備魔防の封印2"
     ],
@@ -29190,9 +29191,9 @@
         "none": true
       }
     },
-    "addition_date": "2020-06-05",
-    "release_date": "2020-06-05",
-    "version": "4.6",
+    "addition_date": "2021-01-18",
+    "release_date": "2021-01-18",
+    "version": "5.1",
     "upgrade_ids": [
       "SID_守備魔防の封印3",
       "SID_守備魔防の枷"
@@ -29220,9 +29221,9 @@
         "none": true
       }
     },
-    "addition_date": "2020-06-05",
-    "release_date": "2020-06-05",
-    "version": "4.6",
+    "addition_date": "2022-08-08",
+    "release_date": "2022-08-09",
+    "version": "6.8",
     "downgrade_ids": [
       "SID_守備魔防の封印2"
     ]
@@ -31953,6 +31954,7 @@
   },
   {
     "id": "SID_艶なる姉二人の燭台",
+    "game8_id": "571444",
     "name": "Cozy Candles",
     "group_name": "Cozy Candles",
     "category": "weapon",
@@ -31999,9 +32001,9 @@
         "none": true
       }
     },
-    "addition_date": "2018-06-28",
-    "release_date": "2018-06-28",
-    "version": "2.6",
+    "addition_date": "2020-09-18",
+    "release_date": "2020-09-18",
+    "version": "4.9",
     "upgrade_ids": [
       "SID_抑止隊形2"
     ]
@@ -32027,9 +32029,9 @@
         "none": true
       }
     },
-    "addition_date": "2018-06-28",
-    "release_date": "2018-06-28",
-    "version": "2.6",
+    "addition_date": "2020-09-18",
+    "release_date": "2020-09-18",
+    "version": "4.9",
     "upgrade_ids": [
       "SID_抑止隊形3"
     ],
@@ -32058,9 +32060,9 @@
         "none": true
       }
     },
-    "addition_date": "2018-06-28",
-    "release_date": "2018-06-28",
-    "version": "2.6",
+    "addition_date": "2020-09-18",
+    "release_date": "2020-09-18",
+    "version": "4.9",
     "downgrade_ids": [
       "SID_抑止隊形2"
     ]
@@ -32432,9 +32434,9 @@
         "none": true
       }
     },
-    "addition_date": "2019-12-05",
-    "release_date": "2019-12-06",
-    "version": "4.0",
+    "addition_date": "2022-01-17",
+    "release_date": "2022-01-17",
+    "version": "6.1",
     "downgrade_ids": [
       "SID_魔防の紋章3"
     ]
@@ -33302,6 +33304,7 @@
   },
   {
     "id": "SID_盾の護り手・遠・双",
+    "game8_id": "571456",
     "name": "D/R Twin F Save",
     "group_name": "D/R Twin F Save",
     "category": "passivec",
@@ -35607,9 +35610,9 @@
         "none": true
       }
     },
-    "addition_date": "2021-11-17",
-    "release_date": "2021-11-30",
-    "version": "5.11",
+    "addition_date": "2023-12-25",
+    "release_date": "2023-12-25",
+    "version": "8.0",
     "downgrade_ids": [
       "SID_死の吐息3"
     ]
@@ -36619,6 +36622,7 @@
   },
   {
     "id": "SID_守備魔防の詠唱",
+    "game8_id": "571450",
     "name": "Def/Res Aria",
     "group_name": "Def/Res Aria",
     "category": "passivea",
@@ -40402,9 +40406,9 @@
         ]
       }
     },
-    "addition_date": "2021-03-04",
-    "release_date": "2021-06-08",
-    "version": "5.6",
+    "addition_date": "2022-04-06",
+    "release_date": "2022-04-07",
+    "version": "6.4",
     "downgrade_ids": [
       "SID_遠距離反撃"
     ]
@@ -40542,9 +40546,9 @@
         ]
       }
     },
-    "addition_date": "2020-06-30",
-    "release_date": "2020-06-30",
-    "version": "4.6",
+    "addition_date": "2022-10-05",
+    "release_date": "2022-10-06",
+    "version": "6.10",
     "downgrade_ids": [
       "SID_遠距離反撃"
     ]
@@ -40686,9 +40690,9 @@
         ]
       }
     },
-    "addition_date": "2020-07-30",
-    "release_date": "2020-07-30",
-    "version": "4.7",
+    "addition_date": "2021-08-17",
+    "release_date": "2021-08-17",
+    "version": "5.8",
     "downgrade_ids": [
       "SID_遠距離反撃"
     ]
@@ -40862,9 +40866,9 @@
         ]
       }
     },
-    "addition_date": "2019-05-30",
-    "release_date": "2019-05-30",
-    "version": "3.5",
+    "addition_date": "2020-08-06",
+    "release_date": "2020-08-07",
+    "version": "4.8",
     "upgrade_ids": [
       "SID_空からの急襲2"
     ]
@@ -40894,9 +40898,9 @@
         ]
       }
     },
-    "addition_date": "2019-05-30",
-    "release_date": "2019-05-30",
-    "version": "3.5",
+    "addition_date": "2020-08-06",
+    "release_date": "2020-08-07",
+    "version": "4.8",
     "upgrade_ids": [
       "SID_空からの急襲3"
     ],
@@ -40929,9 +40933,9 @@
         ]
       }
     },
-    "addition_date": "2019-05-30",
-    "release_date": "2019-05-30",
-    "version": "3.5",
+    "addition_date": "2020-08-06",
+    "release_date": "2020-08-07",
+    "version": "4.8",
     "upgrade_ids": [
       "SID_空からの猛襲4"
     ],
@@ -42783,9 +42787,9 @@
         ]
       }
     },
-    "addition_date": "2020-05-29",
-    "release_date": "2020-05-29",
-    "version": "4.5",
+    "addition_date": "2021-01-28",
+    "release_date": "2021-01-28",
+    "version": "5.1",
     "upgrade_ids": [
       "SID_竜鱗障壁2"
     ]
@@ -42811,9 +42815,9 @@
         ]
       }
     },
-    "addition_date": "2020-05-29",
-    "release_date": "2020-05-29",
-    "version": "4.5",
+    "addition_date": "2021-01-28",
+    "release_date": "2021-01-28",
+    "version": "5.1",
     "upgrade_ids": [
       "SID_竜鱗障壁3"
     ],
@@ -42842,9 +42846,9 @@
         ]
       }
     },
-    "addition_date": "2020-05-29",
-    "release_date": "2020-05-29",
-    "version": "4.5",
+    "addition_date": "2021-01-28",
+    "release_date": "2021-01-28",
+    "version": "5.1",
     "upgrade_ids": [
       "SID_竜鱗障壁・対転移"
     ],
@@ -43103,9 +43107,9 @@
         ]
       }
     },
-    "addition_date": "2021-10-29",
-    "release_date": "2021-10-29",
-    "version": "5.10",
+    "addition_date": "2024-10-03",
+    "release_date": "2024-10-04",
+    "version": "8.10",
     "downgrade_ids": [
       "SID_竜の逆鱗3"
     ]
@@ -46245,9 +46249,8 @@
         ]
       }
     },
-    "addition_date": "2022-11-30",
-    "release_date": "2022-11-30",
-    "version": "6.11",
+    "addition_date": "2022-10-17",
+    "release_date": "",
     "downgrade_ids": [
       "SID_ボルガノン",
       "SID_ノスフェラート"
@@ -46276,9 +46279,8 @@
         ]
       }
     },
-    "addition_date": "2022-11-30",
-    "release_date": "2022-11-30",
-    "version": "6.11"
+    "addition_date": "2022-10-17",
+    "release_date": ""
   },
   {
     "id": "SID_閉界",
@@ -47001,9 +47003,9 @@
         ]
       }
     },
-    "addition_date": "2022-03-31",
-    "release_date": "2022-03-31",
-    "version": "6.3",
+    "addition_date": "2024-07-05",
+    "release_date": "2024-07-05",
+    "version": "8.7",
     "downgrade_ids": [
       "SID_攻撃の波・偶数3"
     ]
@@ -47572,9 +47574,9 @@
         ]
       }
     },
-    "addition_date": "2020-01-30",
-    "release_date": "2020-01-30",
-    "version": "4.1",
+    "addition_date": "2021-02-16",
+    "release_date": "2021-03-30",
+    "version": "5.3",
     "upgrade_ids": [
       "SID_迅雷風烈・偶数2"
     ]
@@ -47605,9 +47607,9 @@
         ]
       }
     },
-    "addition_date": "2020-01-30",
-    "release_date": "2020-01-30",
-    "version": "4.1",
+    "addition_date": "2021-02-16",
+    "release_date": "2021-03-30",
+    "version": "5.3",
     "upgrade_ids": [
       "SID_迅雷風烈・偶数3"
     ],
@@ -47641,9 +47643,9 @@
         ]
       }
     },
-    "addition_date": "2020-01-30",
-    "release_date": "2020-01-30",
-    "version": "4.1",
+    "addition_date": "2021-02-16",
+    "release_date": "2021-03-30",
+    "version": "5.3",
     "upgrade_ids": [
       "SID_迅雷風烈・鬼没",
       "SID_迅雷風烈・無極",
@@ -49960,6 +49962,7 @@
   },
   {
     "id": "SID_お疲れ様です！",
+    "game8_id": "571452",
     "name": "Festive Report",
     "group_name": "Festive Report",
     "category": "passiveb",
@@ -51018,9 +51021,9 @@
         ]
       }
     },
-    "addition_date": "2019-12-05",
-    "release_date": "2020-11-27",
-    "version": "4.11",
+    "addition_date": "2023-03-06",
+    "release_date": "2023-03-07",
+    "version": "7.3",
     "downgrade_ids": [
       "SID_業火疾風の舞い2"
     ]
@@ -51288,9 +51291,9 @@
         "none": true
       }
     },
-    "addition_date": "2022-04-28",
-    "release_date": "2022-04-28",
-    "version": "6.4",
+    "addition_date": "2024-08-06",
+    "release_date": "2024-08-07",
+    "version": "8.8",
     "downgrade_ids": [
       "SID_再移動制限3"
     ]
@@ -52008,7 +52011,7 @@
         ]
       }
     },
-    "addition_date": "2022-12-05",
+    "addition_date": "2023-08-16",
     "release_date": "2023-08-16",
     "version": "7.8",
     "downgrade_ids": [
@@ -53428,9 +53431,9 @@
         ]
       }
     },
-    "addition_date": "2019-06-28",
-    "release_date": "2019-06-28",
-    "version": "3.6",
+    "addition_date": "2021-07-06",
+    "release_date": "2021-07-07",
+    "version": "5.7",
     "upgrade_ids": [
       "SID_怒涛・再起2"
     ]
@@ -53459,9 +53462,9 @@
         ]
       }
     },
-    "addition_date": "2019-06-28",
-    "release_date": "2019-06-28",
-    "version": "3.6",
+    "addition_date": "2021-07-06",
+    "release_date": "2021-07-07",
+    "version": "5.7",
     "upgrade_ids": [
       "SID_怒涛・再起3"
     ],
@@ -53493,9 +53496,9 @@
         ]
       }
     },
-    "addition_date": "2019-06-28",
-    "release_date": "2019-06-28",
-    "version": "3.6",
+    "addition_date": "2021-07-06",
+    "release_date": "2021-07-07",
+    "version": "5.7",
     "upgrade_ids": [
       "SID_強襲・助走",
       "SID_怒涛・再起4",
@@ -54086,9 +54089,8 @@
         ]
       }
     },
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0",
+    "addition_date": "2020-10-18",
+    "release_date": "",
     "downgrade_ids": [
       "SID_銀の剣"
     ]
@@ -54117,9 +54119,8 @@
         ]
       }
     },
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2020-10-18",
+    "release_date": ""
   },
   {
     "id": "SID_追撃リング",
@@ -56354,9 +56355,9 @@
         ]
       }
     },
-    "addition_date": "2019-01-30",
-    "release_date": "2019-01-30",
-    "version": "3.1",
+    "addition_date": "2019-02-08",
+    "release_date": "2019-02-08",
+    "version": "3.2",
     "downgrade_ids": [
       "SID_獅子奮迅3"
     ]
@@ -56551,6 +56552,7 @@
   },
   {
     "id": "SID_共に未来を導いて",
+    "game8_id": "571455",
     "name": "Future-Guided",
     "group_name": "Future-Guided",
     "category": "passivec",
@@ -59471,7 +59473,7 @@
         "none": true
       }
     },
-    "addition_date": "2017-02-02",
+    "addition_date": "2017-02-27",
     "release_date": "2017-02-27",
     "version": "1.0",
     "downgrade_ids": [
@@ -59776,9 +59778,8 @@
         ]
       }
     },
-    "addition_date": "2023-06-07",
-    "release_date": "2023-06-08",
-    "version": "7.6",
+    "addition_date": "2023-07-18",
+    "release_date": "",
     "downgrade_ids": [
       "SID_攻撃速さの応援"
     ]
@@ -62152,9 +62153,9 @@
         "none": true
       }
     },
-    "addition_date": "2020-08-31",
-    "release_date": "2020-08-31",
-    "version": "4.8",
+    "addition_date": "2023-01-27",
+    "release_date": "2023-01-27",
+    "version": "7.1",
     "downgrade_ids": [
       "SID_キャンセル3"
     ]
@@ -62337,9 +62338,9 @@
         ]
       }
     },
-    "addition_date": "2021-11-04",
-    "release_date": "2021-11-30",
-    "version": "5.11",
+    "addition_date": "2023-04-17",
+    "release_date": "2023-04-17",
+    "version": "7.4",
     "downgrade_ids": [
       "SID_警戒姿勢3"
     ]
@@ -62889,9 +62890,9 @@
         "none": true
       }
     },
-    "addition_date": "2021-02-26",
-    "release_date": "2021-02-26",
-    "version": "5.2",
+    "addition_date": "2023-03-17",
+    "release_date": "2023-03-17",
+    "version": "7.3",
     "downgrade_ids": [
       "SID_空からの先導3"
     ]
@@ -68602,7 +68603,7 @@
         ]
       }
     },
-    "addition_date": "2024-12-05",
+    "addition_date": "2025-05-16",
     "release_date": "2025-05-16",
     "version": "9.5",
     "downgrade_ids": [
@@ -71631,9 +71632,9 @@
         "none": true
       }
     },
-    "addition_date": "2019-10-29",
-    "release_date": "2019-10-29",
-    "version": "3.10",
+    "addition_date": "2020-04-07",
+    "release_date": "2020-04-08",
+    "version": "4.4",
     "downgrade_ids": [
       "SID_攻撃の大紋章2"
     ]
@@ -71683,9 +71684,9 @@
         "none": true
       }
     },
-    "addition_date": "2018-01-31",
-    "release_date": "2018-01-31",
-    "version": "2.1",
+    "addition_date": "2020-08-18",
+    "release_date": "2020-08-18",
+    "version": "4.8",
     "downgrade_ids": [
       "SID_魔防の大紋章2"
     ]
@@ -71709,9 +71710,9 @@
         "none": true
       }
     },
-    "addition_date": "2018-04-27",
-    "release_date": "2018-05-01",
-    "version": "2.4",
+    "addition_date": "2020-06-05",
+    "release_date": "2020-06-05",
+    "version": "4.6",
     "downgrade_ids": [
       "SID_速さの大紋章2"
     ]
@@ -73863,9 +73864,8 @@
         ]
       }
     },
-    "addition_date": "2022-02-18",
-    "release_date": "2022-06-08",
-    "version": "6.6",
+    "addition_date": "2022-06-07",
+    "release_date": "",
     "downgrade_ids": [
       "SID_レクスカリバー"
     ]
@@ -78165,9 +78165,9 @@
         "none": true
       }
     },
-    "addition_date": "2021-05-31",
-    "release_date": "2021-05-31",
-    "version": "5.5",
+    "addition_date": "2023-06-07",
+    "release_date": "2023-11-29",
+    "version": "7.11",
     "downgrade_ids": [
       "SID_速さ魔防の凪3"
     ]
@@ -80837,9 +80837,9 @@
         ]
       }
     },
-    "addition_date": "2017-11-28",
-    "release_date": "2017-11-28",
-    "version": "2.0",
+    "addition_date": "2018-03-09",
+    "release_date": "2018-03-09",
+    "version": "2.3",
     "upgrade_ids": [
       "SID_鬼神明鏡の構え2"
     ],
@@ -80869,9 +80869,9 @@
         ]
       }
     },
-    "addition_date": "2017-11-28",
-    "release_date": "2017-11-28",
-    "version": "2.0",
+    "addition_date": "2018-03-09",
+    "release_date": "2018-03-09",
+    "version": "2.3",
     "upgrade_ids": [
       "SID_鬼神明鏡の構え3"
     ],
@@ -80900,9 +80900,9 @@
         ]
       }
     },
-    "addition_date": "2017-11-28",
-    "release_date": "2017-11-28",
-    "version": "2.0",
+    "addition_date": "2019-12-05",
+    "release_date": "2019-12-06",
+    "version": "4.0",
     "downgrade_ids": [
       "SID_鬼神明鏡の構え2"
     ]
@@ -83601,7 +83601,7 @@
         ]
       }
     },
-    "addition_date": "2021-12-06",
+    "addition_date": "2024-01-09",
     "release_date": "2024-10-30",
     "version": "8.10",
     "downgrade_ids": [
@@ -86427,6 +86427,7 @@
   },
   {
     "id": "SID_聖夜告げる角笛",
+    "game8_id": "571447",
     "name": "Oliphant Calling",
     "group_name": "Oliphant Calling",
     "category": "weapon",
@@ -87857,9 +87858,9 @@
         ]
       }
     },
-    "addition_date": "2020-12-08",
-    "release_date": "2020-12-08",
-    "version": "5.0",
+    "addition_date": "2022-11-30",
+    "release_date": "2022-11-30",
+    "version": "6.11",
     "downgrade_ids": [
       "SID_恐慌の幻煙3"
     ]
@@ -99787,7 +99788,7 @@
         ]
       }
     },
-    "addition_date": "2017-02-02",
+    "addition_date": "2017-02-27",
     "release_date": "2017-02-27",
     "version": "1.0",
     "upgrade_ids": [
@@ -101475,7 +101476,7 @@
         ]
       }
     },
-    "addition_date": "2024-01-09",
+    "addition_date": "2024-03-06",
     "release_date": "2024-03-07",
     "version": "8.3",
     "downgrade_ids": [
@@ -101548,6 +101549,7 @@
   },
   {
     "id": "SID_靴の護り手・理・双",
+    "game8_id": "571454",
     "name": "S/D Twin P Save",
     "group_name": "S/D Twin P Save",
     "category": "passivec",
@@ -101605,6 +101607,7 @@
   },
   {
     "id": "SID_速魔十牽制・謀策",
+    "game8_id": "571453",
     "name": "S/R Crux: Ploy",
     "group_name": "S/R Crux: Ploy",
     "category": "passivec",
@@ -101655,9 +101658,9 @@
         ]
       }
     },
-    "addition_date": "2022-11-30",
-    "release_date": "2022-11-30",
-    "version": "6.11",
+    "addition_date": "2025-07-07",
+    "release_date": "2025-07-08",
+    "version": "9.7",
     "downgrade_ids": [
       "SID_共鳴の黒魔法3",
       "SID_速さ魔防の遠影3"
@@ -102160,9 +102163,9 @@
         "none": true
       }
     },
-    "addition_date": "2020-12-25",
-    "release_date": "2020-12-25",
-    "version": "5.0",
+    "addition_date": "2023-04-06",
+    "release_date": "2023-04-07",
+    "version": "7.4",
     "downgrade_ids": [
       "SID_攻撃の混乱3",
       "SID_魔防の混乱3"
@@ -104741,9 +104744,9 @@
         ]
       }
     },
-    "addition_date": "2021-04-28",
-    "release_date": "2021-04-28",
-    "version": "5.4",
+    "addition_date": "2022-11-08",
+    "release_date": "2022-11-08",
+    "version": "6.11",
     "downgrade_ids": [
       "SID_守備封じ3"
     ]
@@ -105165,9 +105168,9 @@
         ]
       }
     },
-    "addition_date": "2022-12-23",
-    "release_date": "2022-12-23",
-    "version": "7.0",
+    "addition_date": "2024-10-15",
+    "release_date": "2024-10-15",
+    "version": "8.10",
     "downgrade_ids": [
       "SID_速さ守備封じ2"
     ]
@@ -105812,6 +105815,7 @@
   },
   {
     "id": "SID_真自己研鑽",
+    "game8_id": "571449",
     "name": "Self-Mastery",
     "group_name": "Self-Mastery",
     "category": "passivea",
@@ -107504,9 +107508,9 @@
         ]
       }
     },
-    "addition_date": "2018-08-28",
-    "release_date": "2018-08-28",
-    "version": "2.8",
+    "addition_date": "2021-08-17",
+    "release_date": "2021-08-17",
+    "version": "5.8",
     "downgrade_ids": [
       "SID_竜裂"
     ]
@@ -109943,9 +109947,9 @@
         "none": true
       }
     },
-    "addition_date": "2018-09-28",
-    "release_date": "2018-09-28",
-    "version": "2.9",
+    "addition_date": "2020-10-07",
+    "release_date": "2020-10-08",
+    "version": "4.10",
     "upgrade_ids": [
       "SID_正面隊形・自己2"
     ]
@@ -109971,9 +109975,9 @@
         "none": true
       }
     },
-    "addition_date": "2018-09-28",
-    "release_date": "2018-09-28",
-    "version": "2.9",
+    "addition_date": "2020-10-07",
+    "release_date": "2020-10-08",
+    "version": "4.10",
     "upgrade_ids": [
       "SID_正面隊形・自己3"
     ],
@@ -110002,9 +110006,9 @@
         "none": true
       }
     },
-    "addition_date": "2018-09-28",
-    "release_date": "2018-09-28",
-    "version": "2.9",
+    "addition_date": "2020-10-07",
+    "release_date": "2020-10-08",
+    "version": "4.10",
     "upgrade_ids": [
       "SID_正面隊形・自己4"
     ],
@@ -110730,6 +110734,7 @@
   },
   {
     "id": "SID_雪原走る鍛錬の槍",
+    "game8_id": "571445",
     "name": "Snow-Fit Lance",
     "group_name": "Snow-Fit Lance",
     "category": "weapon",
@@ -112409,9 +112414,9 @@
         ]
       }
     },
-    "addition_date": "2020-07-20",
-    "release_date": "2020-11-27",
-    "version": "4.11",
+    "addition_date": "2022-05-09",
+    "release_date": "2022-05-10",
+    "version": "6.5",
     "downgrade_ids": [
       "SID_速さの紫煙3"
     ]
@@ -115016,9 +115021,9 @@
         "none": true
       }
     },
-    "addition_date": "2022-01-28",
-    "release_date": "2022-01-28",
-    "version": "6.1",
+    "addition_date": "2024-10-15",
+    "release_date": "2024-10-15",
+    "version": "8.10",
     "downgrade_ids": [
       "SID_速さの混乱3",
       "SID_魔防の混乱3"
@@ -115764,9 +115769,9 @@
         "none": true
       }
     },
-    "addition_date": "2018-03-29",
-    "release_date": "2018-03-29",
-    "version": "2.3",
+    "addition_date": "2019-12-05",
+    "release_date": "2020-11-27",
+    "version": "4.11",
     "upgrade_ids": [
       "SID_速さ魔防の牽制2"
     ]
@@ -115792,9 +115797,9 @@
         "none": true
       }
     },
-    "addition_date": "2018-03-29",
-    "release_date": "2018-03-29",
-    "version": "2.3",
+    "addition_date": "2019-12-05",
+    "release_date": "2020-11-27",
+    "version": "4.11",
     "upgrade_ids": [
       "SID_速さ魔防の牽制3"
     ],
@@ -115823,9 +115828,9 @@
         "none": true
       }
     },
-    "addition_date": "2018-03-29",
-    "release_date": "2018-03-29",
-    "version": "2.3",
+    "addition_date": "2019-12-05",
+    "release_date": "2020-11-27",
+    "version": "4.11",
     "upgrade_ids": [
       "SID_速魔十牽制・謀策",
       "SID_速さ魔防の十字牽制",
@@ -116075,7 +116080,7 @@
         ]
       }
     },
-    "addition_date": "2025-07-18",
+    "addition_date": "2025-08-15",
     "release_date": "2025-08-15",
     "version": "9.8",
     "downgrade_ids": [
@@ -118871,9 +118876,9 @@
         ]
       }
     },
-    "addition_date": "2019-02-27",
-    "release_date": "2019-02-27",
-    "version": "3.2",
+    "addition_date": "2020-07-20",
+    "release_date": "2020-07-20",
+    "version": "4.7",
     "upgrade_ids": [
       "SID_回避・怒り2"
     ]
@@ -118901,9 +118906,9 @@
         ]
       }
     },
-    "addition_date": "2019-02-27",
-    "release_date": "2019-02-27",
-    "version": "3.2",
+    "addition_date": "2020-07-20",
+    "release_date": "2020-07-20",
+    "version": "4.7",
     "upgrade_ids": [
       "SID_回避・怒り3"
     ],
@@ -118934,9 +118939,9 @@
         ]
       }
     },
-    "addition_date": "2019-02-27",
-    "release_date": "2019-02-27",
-    "version": "3.2",
+    "addition_date": "2020-07-20",
+    "release_date": "2020-07-20",
+    "version": "4.7",
     "upgrade_ids": [
       "SID_回避・怒り4"
     ],
@@ -121618,7 +121623,7 @@
         ]
       }
     },
-    "addition_date": "2024-03-15",
+    "addition_date": "2024-10-03",
     "release_date": "2024-10-04",
     "version": "8.10",
     "downgrade_ids": [
@@ -122408,9 +122413,8 @@
         ]
       }
     },
-    "addition_date": "2024-12-05",
-    "release_date": "2025-07-29",
-    "version": "9.7",
+    "addition_date": "2025-05-07",
+    "release_date": "",
     "downgrade_ids": [
       "SID_銀の剣"
     ]
@@ -123679,9 +123683,9 @@
         ]
       }
     },
-    "addition_date": "2018-07-31",
-    "release_date": "2018-07-31",
-    "version": "2.7",
+    "addition_date": "2019-06-20",
+    "release_date": "2019-06-20",
+    "version": "3.6",
     "downgrade_ids": [
       "SID_鬼神飛燕の一撃2"
     ]
@@ -126483,9 +126487,9 @@
         "none": true
       }
     },
-    "addition_date": "2018-11-28",
-    "release_date": "2018-11-28",
-    "version": "2.11",
+    "addition_date": "2020-02-06",
+    "release_date": "2020-02-06",
+    "version": "4.2",
     "upgrade_ids": [
       "SID_攻撃守備の威嚇2"
     ],
@@ -126513,9 +126517,9 @@
         "none": true
       }
     },
-    "addition_date": "2018-11-28",
-    "release_date": "2018-11-28",
-    "version": "2.11",
+    "addition_date": "2020-02-06",
+    "release_date": "2020-02-06",
+    "version": "4.2",
     "upgrade_ids": [
       "SID_攻撃守備の脅嚇3",
       "SID_攻撃守備の威嚇3"
@@ -126569,9 +126573,9 @@
         "none": true
       }
     },
-    "addition_date": "2019-08-28",
-    "release_date": "2019-08-28",
-    "version": "3.8",
+    "addition_date": "2019-12-16",
+    "release_date": "2019-12-16",
+    "version": "4.0",
     "upgrade_ids": [
       "SID_攻撃魔防の威嚇2"
     ],
@@ -126599,9 +126603,9 @@
         "none": true
       }
     },
-    "addition_date": "2019-08-28",
-    "release_date": "2019-08-28",
-    "version": "3.8",
+    "addition_date": "2019-12-16",
+    "release_date": "2019-12-16",
+    "version": "4.0",
     "upgrade_ids": [
       "SID_攻撃魔防の脅嚇3",
       "SID_攻撃魔防の威嚇3"
@@ -127882,9 +127886,9 @@
         "none": true
       }
     },
-    "addition_date": "2019-04-26",
-    "release_date": "2019-04-27",
-    "version": "3.4",
+    "addition_date": "2019-07-30",
+    "release_date": "2019-07-31",
+    "version": "3.7",
     "upgrade_ids": [
       "SID_始まりの鼓動2"
     ]
@@ -127910,9 +127914,9 @@
         "none": true
       }
     },
-    "addition_date": "2019-04-26",
-    "release_date": "2019-04-27",
-    "version": "3.4",
+    "addition_date": "2019-07-30",
+    "release_date": "2019-07-31",
+    "version": "3.7",
     "upgrade_ids": [
       "SID_始まりの鼓動3"
     ],
@@ -127941,9 +127945,9 @@
         "none": true
       }
     },
-    "addition_date": "2019-04-26",
-    "release_date": "2019-04-27",
-    "version": "3.4",
+    "addition_date": "2019-07-30",
+    "release_date": "2019-07-31",
+    "version": "3.7",
     "upgrade_ids": [
       "SID_開闢の鼓動",
       "SID_初撃の鼓動・謀策",
@@ -127980,9 +127984,9 @@
         "none": true
       }
     },
-    "addition_date": "2021-08-31",
-    "release_date": "2021-08-31",
-    "version": "5.8",
+    "addition_date": "2023-01-10",
+    "release_date": "2023-01-10",
+    "version": "7.1",
     "downgrade_ids": [
       "SID_始まりの鼓動3"
     ]
@@ -129837,6 +129841,7 @@
   },
   {
     "id": "SID_真執着",
+    "game8_id": "571448",
     "name": "Tunnel Vision",
     "group_name": "Tunnel Vision",
     "category": "passivea",
@@ -136181,6 +136186,7 @@
   },
   {
     "id": "SID_冬夜に輝く希望の星",
+    "game8_id": "571446",
     "name": "Winter Star",
     "group_name": "Winter Star",
     "category": "weapon",
@@ -136207,6 +136213,7 @@
   },
   {
     "id": "SID_冬祭の飾り",
+    "game8_id": "571442",
     "name": "Winter Trinket",
     "group_name": "Winter Trinket",
     "category": "weapon",
@@ -136237,6 +136244,7 @@
   },
   {
     "id": "SID_冬祭の飾り＋",
+    "game8_id": "571443",
     "name": "Winter Trinket+",
     "group_name": "Winter Trinket+",
     "category": "weapon",

@@ -9245,5 +9245,33 @@
     "recommended_boon": "Def",
     "recommended_bane": "Spd",
     "recommended_plus10": null
+  },
+  {
+    "id": "PID_冬祭門番",
+    "game8_rating": "9.0",
+    "recommended_boon": "Res",
+    "recommended_bane": "Atk",
+    "recommended_plus10": null
+  },
+  {
+    "id": "PID_冬祭アルフレッド",
+    "game8_rating": "9.0",
+    "recommended_boon": "Spd",
+    "recommended_bane": "Res",
+    "recommended_plus10": null
+  },
+  {
+    "id": "PID_双界アイビー",
+    "game8_rating": "9.5",
+    "recommended_boon": "Res",
+    "recommended_bane": "Def",
+    "recommended_plus10": null
+  },
+  {
+    "id": "PID_冬祭ゼルコバ",
+    "game8_rating": "8.5",
+    "recommended_boon": "Spd",
+    "recommended_bane": "Res",
+    "recommended_plus10": null
   }
 ]
