@@ -9247,11 +9247,25 @@
     "recommended_plus10": null
   },
   {
+    "id": "PID_ラファエル",
+    "game8_rating": "8.5",
+    "recommended_boon": null,
+    "recommended_bane": null,
+    "recommended_plus10": null
+  },
+  {
     "id": "PID_冬祭門番",
     "game8_rating": "9.0",
     "recommended_boon": "Res",
     "recommended_bane": "Atk",
     "recommended_plus10": null
+  },
+  {
+    "id": "PID_冬祭セイズ",
+    "game8_rating": "9.5",
+    "recommended_boon": "Res",
+    "recommended_bane": "Def",
+    "recommended_plus10": "Res"
   },
   {
     "id": "PID_冬祭アルフレッド",
