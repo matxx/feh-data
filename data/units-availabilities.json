@@ -19007,14 +19007,16 @@
   {
     "id": "PID_イグナーツ",
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "lowest_rarity": {},
+    "lowest_rarity": {
+      "gsp": 5
+    },
     "skill_ids": [
       "SID_守備の混乱1",
       "SID_守備の混乱2",
@@ -25949,14 +25951,16 @@
   {
     "id": "PID_ローレンツ",
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "lowest_rarity": {},
+    "lowest_rarity": {
+      "gsp": 5
+    },
     "skill_ids": [
       "SID_エルサンダー",
       "SID_サンダー",

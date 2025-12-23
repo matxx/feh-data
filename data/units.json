@@ -230,7 +230,7 @@
     "image_url_for_icon_legendary": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/ab/Legendary_Effect_Fire.png/revision/latest?cb=20171130004141",
     "bst": 198,
     "duel_score": 200,
-    "visible_bst": 204,
+    "visible_bst": 202,
     "max_score": 768
   },
   {
@@ -371,7 +371,7 @@
     "image_url_for_icon_legendary": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/87/Legendary_Effect_Earth.png/revision/latest?cb=20171130004140",
     "bst": 198,
     "duel_score": 205,
-    "visible_bst": 209,
+    "visible_bst": 205,
     "max_score": 770
   },
   {
@@ -465,7 +465,7 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d2/Alear_Gifted_Dragons_Face_FC.webp/revision/latest?cb=20241213044206",
     "bst": 204,
     "duel_score": 215,
-    "visible_bst": 219,
+    "visible_bst": 215,
     "max_score": 774
   },
   {
@@ -654,7 +654,7 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/81/Alfonse_Askran_Duo_Face_FC.webp/revision/latest?cb=20191225212602",
     "bst": 161,
     "duel_score": 185,
-    "visible_bst": 189,
+    "visible_bst": 185,
     "max_score": 760
   },
   {
@@ -748,8 +748,8 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/fb/Alfonse_Opening_Miracle_Face_FC.webp/revision/latest?cb=20251205043928",
     "image_url_for_icon_chosen": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/05/Chosen_Effect_Wind.png/revision/latest?cb=20251206004552",
     "bst": 204,
-    "duel_score": 220,
-    "visible_bst": 224,
+    "clash_score": 220,
+    "visible_bst": 220,
     "max_score": 776
   },
   {
@@ -1122,7 +1122,7 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d2/Alm_Lovebird_Duo_Face_FC.webp/revision/latest?cb=20200206043140",
     "bst": 172,
     "duel_score": 185,
-    "visible_bst": 189,
+    "visible_bst": 185,
     "max_score": 762
   },
   {
@@ -1217,8 +1217,8 @@
     "image_url_for_icon_legendary": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/87/Legendary_Effect_Earth.png/revision/latest?cb=20171130004140",
     "bst": 162,
     "duel_score": 175,
-    "visible_bst": 180,
-    "max_score": 758
+    "visible_bst": 175,
+    "max_score": 756
   },
   {
     "id": "PID_アルテナ",
@@ -1359,8 +1359,8 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/ad/Altina_Dawns_Trueblade_Face_FC.webp/revision/latest?cb=20191128054050",
     "image_url_for_icon_mythic": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/31/Mythic_Effect_Astra.png/revision/latest?cb=20181212190850",
     "bst": 166,
-    "visible_bst": 180,
-    "max_score": 760
+    "visible_bst": 175,
+    "max_score": 758
   },
   {
     "id": "PID_ナバタオルティナ",
@@ -2755,8 +2755,8 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/ab/Ashera_Order_Goddess_Face_FC.webp/revision/latest?cb=20210531042015",
     "image_url_for_icon_mythic": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e4/Mythic_Effect_Astra_02.png/revision/latest?cb=20220225204847",
     "bst": 166,
-    "visible_bst": 180,
-    "max_score": 758
+    "visible_bst": 175,
+    "max_score": 756
   },
   {
     "id": "PID_暴走アシュナード",
@@ -2944,7 +2944,7 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/2/29/Askr_Renewed_Gods_Face_FC.webp/revision/latest?cb=20221228041057",
     "bst": 177,
     "duel_score": 200,
-    "visible_bst": 204,
+    "visible_bst": 200,
     "max_score": 766
   },
   {
@@ -3363,7 +3363,7 @@
     "image_url_for_icon_legendary": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/37/Legendary_Effect_Water.png/revision/latest?cb=20171130004141",
     "bst": 199,
     "duel_score": 205,
-    "visible_bst": 209,
+    "visible_bst": 205,
     "max_score": 770
   },
   {
@@ -3785,8 +3785,8 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d2/Azura_Vallite_Songstress_Face_FC.webp/revision/latest?cb=20190920222050",
     "image_url_for_icon_legendary": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/37/Legendary_Effect_Water.png/revision/latest?cb=20171130004141",
     "bst": 139,
-    "visible_bst": 180,
-    "max_score": 758
+    "visible_bst": 175,
+    "max_score": 756
   },
   {
     "id": "PID_幼少アクア",
@@ -4807,7 +4807,7 @@
     "image_url_for_icon_legendary": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/ab/Legendary_Effect_Fire.png/revision/latest?cb=20171130004141",
     "bst": 207,
     "duel_score": 215,
-    "visible_bst": 219,
+    "visible_bst": 215,
     "max_score": 774
   },
   {
@@ -5179,8 +5179,8 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f5/Bramimond_The_Enigma_Face_FC.webp/revision/latest?cb=20200331020743",
     "image_url_for_icon_mythic": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f3/Mythic_Effect_Dark.png/revision/latest?cb=20181212185459",
     "bst": 162,
-    "visible_bst": 180,
-    "max_score": 758
+    "visible_bst": 175,
+    "max_score": 756
   },
   {
     "id": "PID_盗賊頭",
@@ -5598,7 +5598,7 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/5e/Byleth_Fell_Stars_Duo_Face_FC.webp/revision/latest?cb=20200706045011",
     "bst": 155,
     "duel_score": 185,
-    "visible_bst": 189,
+    "visible_bst": 185,
     "max_score": 760
   },
   {
@@ -5693,7 +5693,7 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e5/Byleth_Frosty_Professors_Face_FC.webp/revision/latest?cb=20231214043652",
     "bst": 202,
     "duel_score": 205,
-    "visible_bst": 209,
+    "visible_bst": 206,
     "max_score": 770
   },
   {
@@ -5880,7 +5880,7 @@
     "image_url_for_icon_legendary": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/3d/Legendary_Effect_Wind.png/revision/latest?cb=20171130004142",
     "bst": 171,
     "duel_score": 185,
-    "visible_bst": 189,
+    "visible_bst": 185,
     "max_score": 760
   },
   {
@@ -5929,7 +5929,7 @@
     "image_url_for_icon_legendary": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/37/Legendary_Effect_Water.png/revision/latest?cb=20171130004141",
     "bst": 166,
     "duel_score": 185,
-    "visible_bst": 189,
+    "visible_bst": 185,
     "max_score": 760
   },
   {
@@ -6024,7 +6024,7 @@
     "image_url_for_icon_legendary": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/37/Legendary_Effect_Water.png/revision/latest?cb=20171130004141",
     "bst": 178,
     "duel_score": 190,
-    "visible_bst": 194,
+    "visible_bst": 190,
     "max_score": 764
   },
   {
@@ -6491,7 +6491,7 @@
     "image_url_for_icon_legendary": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/37/Legendary_Effect_Water.png/revision/latest?cb=20171130004141",
     "bst": 178,
     "duel_score": 200,
-    "visible_bst": 204,
+    "visible_bst": 200,
     "max_score": 766
   },
   {
@@ -7981,8 +7981,8 @@
     "image_url_for_icon_legendary": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/ab/Legendary_Effect_Fire.png/revision/latest?cb=20171130004141",
     "bst": 162,
     "duel_score": 175,
-    "visible_bst": 180,
-    "max_score": 758
+    "visible_bst": 175,
+    "max_score": 756
   },
   {
     "id": "PID_双界セリカ",
@@ -8682,7 +8682,7 @@
     "image_url_for_icon_legendary": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/37/Legendary_Effect_Water.png/revision/latest?cb=20171130004141",
     "bst": 168,
     "duel_score": 180,
-    "visible_bst": 184,
+    "visible_bst": 180,
     "max_score": 760
   },
   {
@@ -8776,7 +8776,7 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/83/Chrom_Fate-Defying_Duo_Face_FC.webp/revision/latest?cb=20220207044330",
     "bst": 177,
     "duel_score": 195,
-    "visible_bst": 199,
+    "visible_bst": 195,
     "max_score": 766
   },
   {
@@ -9568,7 +9568,7 @@
     "image_url_for_icon_legendary": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/87/Legendary_Effect_Earth.png/revision/latest?cb=20171130004140",
     "bst": 166,
     "duel_score": 185,
-    "visible_bst": 189,
+    "visible_bst": 185,
     "max_score": 760
   },
   {
@@ -10361,7 +10361,7 @@
     "image_url_for_icon_legendary": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/ab/Legendary_Effect_Fire.png/revision/latest?cb=20171130004141",
     "bst": 199,
     "duel_score": 205,
-    "visible_bst": 209,
+    "visible_bst": 205,
     "max_score": 770
   },
   {
@@ -10410,8 +10410,8 @@
     "image_url_for_icon_legendary": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/3d/Legendary_Effect_Wind.png/revision/latest?cb=20171130004142",
     "bst": 182,
     "duel_score": 180,
-    "visible_bst": 184,
-    "max_score": 760
+    "visible_bst": 186,
+    "max_score": 762
   },
   {
     "id": "PID_忍者カムイ男",
@@ -10736,7 +10736,7 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/ba/Corrin_Nightfall_Ninja_Act_Face_FC.webp/revision/latest?cb=20211104050441",
     "bst": 162,
     "duel_score": 195,
-    "visible_bst": 199,
+    "visible_bst": 195,
     "max_score": 764
   },
   {
@@ -11017,7 +11017,7 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e1/Corrin_Young_Kinship_Face_FC.webp/revision/latest?cb=20250403042126",
     "bst": 212,
     "duel_score": 215,
-    "visible_bst": 219,
+    "visible_bst": 216,
     "max_score": 774
   },
   {
@@ -11250,7 +11250,7 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/2/2b/Dagr_New_Year_Jotnar_Face_FC.webp/revision/latest?cb=20211228044230",
     "bst": 172,
     "duel_score": 195,
-    "visible_bst": 199,
+    "visible_bst": 195,
     "max_score": 764
   },
   {
@@ -11672,7 +11672,7 @@
     "image_url_for_icon_legendary": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/87/Legendary_Effect_Earth.png/revision/latest?cb=20171130004140",
     "bst": 177,
     "duel_score": 190,
-    "visible_bst": 194,
+    "visible_bst": 190,
     "max_score": 762
   },
   {
@@ -11999,7 +11999,7 @@
     "image_url_for_icon_legendary": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/87/Legendary_Effect_Earth.png/revision/latest?cb=20171130004140",
     "bst": 204,
     "duel_score": 215,
-    "visible_bst": 219,
+    "visible_bst": 215,
     "max_score": 774
   },
   {
@@ -12326,7 +12326,7 @@
     "image_url_for_icon_legendary": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/37/Legendary_Effect_Water.png/revision/latest?cb=20171130004141",
     "bst": 177,
     "duel_score": 180,
-    "visible_bst": 184,
+    "visible_bst": 181,
     "max_score": 760
   },
   {
@@ -13167,7 +13167,7 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/77/Duma_Strength_and_Love_Face_FC.webp/revision/latest?cb=20221005071656",
     "bst": 195,
     "duel_score": 200,
-    "visible_bst": 204,
+    "visible_bst": 200,
     "max_score": 768
   },
   {
@@ -13447,7 +13447,7 @@
     "image_url_for_icon_legendary": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/ab/Legendary_Effect_Fire.png/revision/latest?cb=20171130004141",
     "bst": 179,
     "duel_score": 180,
-    "visible_bst": 184,
+    "visible_bst": 183,
     "max_score": 760
   },
   {
@@ -14055,8 +14055,8 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/2/2f/Eir_Merciful_Death_Face_FC.webp/revision/latest?cb=20190920221838",
     "image_url_for_icon_mythic": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f9/Mythic_Effect_Light.png/revision/latest?cb=20181212185153",
     "bst": 149,
-    "visible_bst": 180,
-    "max_score": 758
+    "visible_bst": 175,
+    "max_score": 756
   },
   {
     "id": "PID_年明エイル",
@@ -14290,8 +14290,8 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/47/Eirika_Graceful_Resolve_Face_FC.webp/revision/latest?cb=20190920221406",
     "image_url_for_icon_legendary": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/37/Legendary_Effect_Water.png/revision/latest?cb=20171130004141",
     "bst": 156,
-    "visible_bst": 180,
-    "max_score": 760
+    "visible_bst": 175,
+    "max_score": 758
   },
   {
     "id": "PID_紋章エイリーク",
@@ -14523,7 +14523,7 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b1/Eirika_Twin_Refulgence_Face_FC.webp/revision/latest?cb=20210419043337",
     "bst": 177,
     "duel_score": 190,
-    "visible_bst": 194,
+    "visible_bst": 190,
     "max_score": 764
   },
   {
@@ -14665,7 +14665,7 @@
     "image_url_for_icon_legendary": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/ab/Legendary_Effect_Fire.png/revision/latest?cb=20171130004141",
     "bst": 168,
     "duel_score": 185,
-    "visible_bst": 189,
+    "visible_bst": 185,
     "max_score": 760
   },
   {
@@ -14944,8 +14944,8 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c5/Elimine_Scouring_Saint_Face_FC.webp/revision/latest?cb=20220128051206",
     "image_url_for_icon_mythic": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e4/Mythic_Effect_Astra_02.png/revision/latest?cb=20220225204847",
     "bst": 167,
-    "visible_bst": 180,
-    "max_score": 756
+    "visible_bst": 175,
+    "max_score": 754
   },
   {
     "id": "PID_開花エリンシア",
@@ -15084,7 +15084,7 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/05/Elincia_Hearts_of_Purity_Face_FC.webp/revision/latest?cb=20251017043459",
     "bst": 204,
     "duel_score": 220,
-    "visible_bst": 224,
+    "visible_bst": 220,
     "max_score": 776
   },
   {
@@ -15226,7 +15226,7 @@
     "image_url_for_icon_legendary": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/3d/Legendary_Effect_Wind.png/revision/latest?cb=20171130004142",
     "bst": 189,
     "duel_score": 200,
-    "visible_bst": 204,
+    "visible_bst": 200,
     "max_score": 768
   },
   {
@@ -15414,7 +15414,7 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/1c/Elise_Sweetheart_Royals_Face_FC.webp/revision/latest?cb=20230206023009",
     "bst": 169,
     "duel_score": 200,
-    "visible_bst": 204,
+    "visible_bst": 200,
     "max_score": 764
   },
   {
@@ -15510,8 +15510,8 @@
     "image_url_for_icon_legendary": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/3d/Legendary_Effect_Wind.png/revision/latest?cb=20171130004142",
     "bst": 156,
     "duel_score": 175,
-    "visible_bst": 180,
-    "max_score": 760
+    "visible_bst": 175,
+    "max_score": 758
   },
   {
     "id": "PID_愛の祭エリウッド",
@@ -16120,7 +16120,7 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/54/Ephraim_Dynastic_Duo_Face_FC.webp/revision/latest?cb=20191106113341",
     "bst": 172,
     "duel_score": 185,
-    "visible_bst": 189,
+    "visible_bst": 185,
     "max_score": 762
   },
   {
@@ -16168,8 +16168,8 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c7/Ephraim_Legendary_Lord_Face_FC.webp/revision/latest?cb=20190920213657",
     "image_url_for_icon_legendary": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/ab/Legendary_Effect_Fire.png/revision/latest?cb=20171130004141",
     "bst": 157,
-    "visible_bst": 180,
-    "max_score": 760
+    "visible_bst": 175,
+    "max_score": 758
   },
   {
     "id": "PID_エフラム",
@@ -16957,8 +16957,8 @@
     "image_url_for_icon_legendary": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/87/Legendary_Effect_Earth.png/revision/latest?cb=20171130004140",
     "bst": 188,
     "duel_score": 185,
-    "visible_bst": 189,
-    "max_score": 762
+    "visible_bst": 192,
+    "max_score": 764
   },
   {
     "id": "PID_ファ",
@@ -18353,8 +18353,8 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/10/Fjorm_Gleaming_Ice_Pair_Face_FC.webp/revision/latest?cb=20240905081008",
     "bst": 207,
     "duel_score": 205,
-    "visible_bst": 209,
-    "max_score": 770
+    "visible_bst": 211,
+    "max_score": 772
   },
   {
     "id": "PID_開花フィヨルム味方",
@@ -18494,8 +18494,8 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/40/Fjorm_Princess_of_Ice_Face_FC.webp/revision/latest?cb=20190920212107",
     "image_url_for_icon_legendary": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/37/Legendary_Effect_Water.png/revision/latest?cb=20171130004141",
     "bst": 164,
-    "visible_bst": 180,
-    "max_score": 760
+    "visible_bst": 175,
+    "max_score": 758
   },
   {
     "id": "PID_水着フィヨルム",
@@ -19613,8 +19613,8 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/fd/Freyja_Lady_of_Nightmare_Face_FC.webp/revision/latest?cb=20200720042350",
     "image_url_for_icon_mythic": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f9/Mythic_Effect_Light.png/revision/latest?cb=20181212185153",
     "bst": 168,
-    "visible_bst": 180,
-    "max_score": 758
+    "visible_bst": 175,
+    "max_score": 756
   },
   {
     "id": "PID_比翼フレイヤ",
@@ -19661,7 +19661,7 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e7/Freyja_Parallel_Hearts_Face_FC.webp/revision/latest?cb=20251006041747",
     "bst": 194,
     "duel_score": 220,
-    "visible_bst": 224,
+    "visible_bst": 220,
     "max_score": 774
   },
   {
@@ -21379,7 +21379,7 @@
     "image_url_for_icon_legendary": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/37/Legendary_Effect_Water.png/revision/latest?cb=20171130004141",
     "bst": 177,
     "duel_score": 200,
-    "visible_bst": 204,
+    "visible_bst": 200,
     "max_score": 766
   },
   {
@@ -21427,7 +21427,7 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/9f/Gullveig_Glittering_Sunlight_Face_FC.webp/revision/latest?cb=20240617042923",
     "bst": 174,
     "duel_score": 205,
-    "visible_bst": 209,
+    "visible_bst": 205,
     "max_score": 768
   },
   {
@@ -21475,8 +21475,8 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/35/Gullveig_Golden_Seer_Face_FC.webp/revision/latest?cb=20221205160725",
     "image_url_for_icon_mythic": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/1d/Mythic_Effect_Anima_02.png/revision/latest?cb=20220225204846",
     "bst": 174,
-    "visible_bst": 180,
-    "max_score": 758
+    "visible_bst": 178,
+    "max_score": 756
   },
   {
     "id": "PID_比翼グルヴェイグ2",
@@ -21523,7 +21523,7 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/0b/Gullveig_Hidden_in_Time_Face_FC.webp/revision/latest?cb=20251105050843",
     "bst": 185,
     "duel_score": 220,
-    "visible_bst": 224,
+    "visible_bst": 220,
     "max_score": 774
   },
   {
@@ -21664,8 +21664,8 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/68/Gunnthra_Voice_of_Dreams_Face_FC.webp/revision/latest?cb=20190920212643",
     "image_url_for_icon_legendary": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/3d/Legendary_Effect_Wind.png/revision/latest?cb=20171130004142",
     "bst": 145,
-    "visible_bst": 180,
-    "max_score": 758
+    "visible_bst": 175,
+    "max_score": 756
   },
   {
     "id": "PID_年明スリーズ",
@@ -22361,7 +22361,7 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/8b/Hapi_Eternal_Sunlit_Pair_Face_FC.webp/revision/latest?cb=20250707122111",
     "bst": 184,
     "duel_score": 215,
-    "visible_bst": 219,
+    "visible_bst": 215,
     "max_score": 772
   },
   {
@@ -22872,7 +22872,7 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/56/Hector_Dressed-Up_Duo_Face_FC.webp/revision/latest?cb=20191008161224",
     "bst": 180,
     "duel_score": 185,
-    "visible_bst": 189,
+    "visible_bst": 185,
     "max_score": 762
   },
   {
@@ -23297,7 +23297,7 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/a0/Heidrun_Sisters_of_Healing_Face_FC.webp/revision/latest?cb=20241227055618",
     "bst": 188,
     "duel_score": 215,
-    "visible_bst": 219,
+    "visible_bst": 215,
     "max_score": 772
   },
   {
@@ -23393,8 +23393,8 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c0/Hel_Death_Sovereign_Face_FC.webp/revision/latest?cb=20200730045709",
     "image_url_for_icon_mythic": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f3/Mythic_Effect_Dark.png/revision/latest?cb=20181212185459",
     "bst": 167,
-    "visible_bst": 180,
-    "max_score": 760
+    "visible_bst": 175,
+    "max_score": 758
   },
   {
     "id": "PID_ヘルビンディ味方",
@@ -23767,7 +23767,7 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/80/Hilda_Deers_Two-Piece_Face_FC.webp/revision/latest?cb=20210621044346",
     "bst": 161,
     "duel_score": 190,
-    "visible_bst": 194,
+    "visible_bst": 190,
     "max_score": 760
   },
   {
@@ -24139,7 +24139,7 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/a0/Hinoka_Fair_Pirate_Pair_Face_FC.webp/revision/latest?cb=20210804053307",
     "bst": 166,
     "duel_score": 190,
-    "visible_bst": 194,
+    "visible_bst": 190,
     "max_score": 762
   },
   {
@@ -24235,7 +24235,7 @@
     "image_url_for_icon_legendary": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/ab/Legendary_Effect_Fire.png/revision/latest?cb=20171130004141",
     "bst": 177,
     "duel_score": 200,
-    "visible_bst": 204,
+    "visible_bst": 200,
     "max_score": 766
   },
   {
@@ -24750,8 +24750,8 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/2/2c/Hrid_Icy_Blade_Face_FC.webp/revision/latest?cb=20190920221814",
     "image_url_for_icon_legendary": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/3d/Legendary_Effect_Wind.png/revision/latest?cb=20171130004142",
     "bst": 157,
-    "visible_bst": 180,
-    "max_score": 760
+    "visible_bst": 175,
+    "max_score": 758
   },
   {
     "id": "PID_水着フリーズ",
@@ -25169,7 +25169,7 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/9f/Idunn_Dragonkin_Duo_Face_FC.webp/revision/latest?cb=20200318043354",
     "bst": 184,
     "duel_score": 185,
-    "visible_bst": 189,
+    "visible_bst": 188,
     "max_score": 762
   },
   {
@@ -25242,7 +25242,7 @@
     "is_tt": false,
     "is_ghb": false,
     "is_special": false,
-    "is_generic_pool": false,
+    "is_generic_pool": true,
     "is_chosen": false,
     "is_legendary": false,
     "is_mythic": false,
@@ -25497,7 +25497,7 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/66/Ike_Close-Knit_Siblings_Face_FC.webp/revision/latest?cb=20220406035729",
     "bst": 182,
     "duel_score": 195,
-    "visible_bst": 199,
+    "visible_bst": 195,
     "max_score": 766
   },
   {
@@ -25686,8 +25686,8 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/9e/Ike_Vanguard_Legend_Face_FC.webp/revision/latest?cb=20190920213125",
     "image_url_for_icon_legendary": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/87/Legendary_Effect_Earth.png/revision/latest?cb=20171130004140",
     "bst": 163,
-    "visible_bst": 180,
-    "max_score": 760
+    "visible_bst": 175,
+    "max_score": 758
   },
   {
     "id": "PID_アイク",
@@ -27638,7 +27638,7 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/aa/Julia_Brides_of_Light_Face_FC.webp/revision/latest?cb=20250516043106",
     "bst": 188,
     "duel_score": 215,
-    "visible_bst": 219,
+    "visible_bst": 215,
     "max_score": 772
   },
   {
@@ -27687,8 +27687,8 @@
     "image_url_for_icon_legendary": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/87/Legendary_Effect_Earth.png/revision/latest?cb=20171130004140",
     "bst": 162,
     "duel_score": 175,
-    "visible_bst": 180,
-    "max_score": 758
+    "visible_bst": 175,
+    "max_score": 756
   },
   {
     "id": "PID_催眠ユリア",
@@ -28200,7 +28200,7 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/91/Kagero_Bond_Unwavering_Face_FC.webp/revision/latest?cb=20230906023338",
     "bst": 178,
     "duel_score": 200,
-    "visible_bst": 204,
+    "visible_bst": 200,
     "max_score": 766
   },
   {
@@ -29731,8 +29731,8 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d3/Kvasir_Seer_of_the_Past_Face_FC.webp/revision/latest?cb=20230607045326",
     "image_url_for_icon_mythic": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/19/Mythic_Effect_Dark_02.png/revision/latest?cb=20220225204848",
     "bst": 174,
-    "visible_bst": 180,
-    "max_score": 758
+    "visible_bst": 178,
+    "max_score": 756
   },
   {
     "id": "PID_年明クワシル",
@@ -30246,7 +30246,7 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/77/Laegjarn_Flame_and_Frost_Face_FC.webp/revision/latest?cb=20221107080837",
     "bst": 178,
     "duel_score": 200,
-    "visible_bst": 204,
+    "visible_bst": 200,
     "max_score": 766
   },
   {
@@ -31507,8 +31507,8 @@
     "image_url_for_icon_legendary": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/37/Legendary_Effect_Water.png/revision/latest?cb=20171130004141",
     "bst": 156,
     "duel_score": 175,
-    "visible_bst": 180,
-    "max_score": 758
+    "visible_bst": 175,
+    "max_score": 756
   },
   {
     "id": "PID_怪盗レイラ",
@@ -32668,8 +32668,8 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/db/Lif_Lethal_Swordsman_Face_FC.webp/revision/latest?cb=20200131010150",
     "image_url_for_icon_mythic": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/db/Mythic_Effect_Anima.png/revision/latest?cb=20181212191129",
     "bst": 173,
-    "visible_bst": 180,
-    "max_score": 760
+    "visible_bst": 177,
+    "max_score": 758
   },
   {
     "id": "PID_比翼リーヴ",
@@ -32716,7 +32716,7 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/cf/Lif_Undying_Ties_Duo_Face_FC.webp/revision/latest?cb=20210204073647",
     "bst": 158,
     "duel_score": 190,
-    "visible_bst": 194,
+    "visible_bst": 190,
     "max_score": 762
   },
   {
@@ -33045,7 +33045,7 @@
     "image_url_for_icon_legendary": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/ab/Legendary_Effect_Fire.png/revision/latest?cb=20171130004141",
     "bst": 158,
     "duel_score": 180,
-    "visible_bst": 184,
+    "visible_bst": 180,
     "max_score": 758
   },
   {
@@ -34141,7 +34141,7 @@
     "is_tt": false,
     "is_ghb": false,
     "is_special": false,
-    "is_generic_pool": false,
+    "is_generic_pool": true,
     "is_chosen": false,
     "is_legendary": false,
     "is_mythic": false,
@@ -34580,8 +34580,8 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/6d/Lucina_Glorious_Archer_Face_FC.webp/revision/latest?cb=20190920215939",
     "image_url_for_icon_legendary": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/3d/Legendary_Effect_Wind.png/revision/latest?cb=20171130004142",
     "bst": 150,
-    "visible_bst": 180,
-    "max_score": 758
+    "visible_bst": 175,
+    "max_score": 756
   },
   {
     "id": "PID_比翼ルキナ",
@@ -34628,7 +34628,7 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f9/Lucina_Shadows_of_Fate_Face_FC.webp/revision/latest?cb=20241105045839",
     "bst": 185,
     "duel_score": 215,
-    "visible_bst": 219,
+    "visible_bst": 215,
     "max_score": 772
   },
   {
@@ -35653,8 +35653,8 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d7/Lyn_Lady_of_the_Wind_Face_FC.webp/revision/latest?cb=20190920214709",
     "image_url_for_icon_legendary": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/3d/Legendary_Effect_Wind.png/revision/latest?cb=20171130004142",
     "bst": 151,
-    "visible_bst": 180,
-    "max_score": 758
+    "visible_bst": 175,
+    "max_score": 756
   },
   {
     "id": "PID_比翼リン",
@@ -35701,7 +35701,7 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/3d/Lyn_Ninja-Friend_Duo_Face_FC.webp/revision/latest?cb=20201105015516",
     "bst": 167,
     "duel_score": 190,
-    "visible_bst": 194,
+    "visible_bst": 190,
     "max_score": 762
   },
   {
@@ -35938,7 +35938,7 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/3d/Lyon_Esteemed_Royals_Face_FC.webp/revision/latest?cb=20240206052330",
     "bst": 174,
     "duel_score": 205,
-    "visible_bst": 209,
+    "visible_bst": 205,
     "max_score": 768
   },
   {
@@ -37379,7 +37379,7 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e1/Mark_Winds_of_Hope_Face_FC.webp/revision/latest?cb=20230406075150",
     "bst": 177,
     "duel_score": 200,
-    "visible_bst": 204,
+    "visible_bst": 200,
     "max_score": 766
   },
   {
@@ -37658,8 +37658,8 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/bc/Marth_Hero-King_Face_FC.webp/revision/latest?cb=20190920220336",
     "image_url_for_icon_legendary": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/ab/Legendary_Effect_Fire.png/revision/latest?cb=20171130004141",
     "bst": 163,
-    "visible_bst": 180,
-    "max_score": 760
+    "visible_bst": 175,
+    "max_score": 758
   },
   {
     "id": "PID_幼少マルス",
@@ -37752,7 +37752,7 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f0/Marth_Love_and_Courage_Face_FC.webp/revision/latest?cb=20250428122909",
     "bst": 194,
     "duel_score": 215,
-    "visible_bst": 219,
+    "visible_bst": 215,
     "max_score": 774
   },
   {
@@ -37940,7 +37940,7 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/5a/Marth_Royal_Altean_Duo_Face_FC.webp/revision/latest?cb=20191216113041",
     "bst": 174,
     "duel_score": 185,
-    "visible_bst": 189,
+    "visible_bst": 185,
     "max_score": 760
   },
   {
@@ -38963,7 +38963,7 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/dd/Micaiah_Dawn_Winds_Duo_Face_FC.webp/revision/latest?cb=20200520055016",
     "bst": 155,
     "duel_score": 185,
-    "visible_bst": 189,
+    "visible_bst": 185,
     "max_score": 760
   },
   {
@@ -39197,7 +39197,7 @@
     "image_url_for_icon_legendary": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/3d/Legendary_Effect_Wind.png/revision/latest?cb=20171130004142",
     "bst": 171,
     "duel_score": 185,
-    "visible_bst": 189,
+    "visible_bst": 185,
     "max_score": 760
   },
   {
@@ -39570,8 +39570,8 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/7f/Mila_Goddess_of_Love_Face_FC.webp/revision/latest?cb=20200529035402",
     "image_url_for_icon_mythic": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f9/Mythic_Effect_Light.png/revision/latest?cb=20181212185153",
     "bst": 172,
-    "visible_bst": 180,
-    "max_score": 760
+    "visible_bst": 176,
+    "max_score": 758
   },
   {
     "id": "PID_幼少ミネルバ",
@@ -39758,8 +39758,8 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e1/Mirabilis_Daydream_Face_FC.webp/revision/latest?cb=20200605044511",
     "image_url_for_icon_mythic": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/db/Mythic_Effect_Anima.png/revision/latest?cb=20181212191129",
     "bst": 157,
-    "visible_bst": 180,
-    "max_score": 760
+    "visible_bst": 175,
+    "max_score": 758
   },
   {
     "id": "PID_春祭ルピナス",
@@ -40825,7 +40825,7 @@
     "image_url_for_icon_legendary": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/3d/Legendary_Effect_Wind.png/revision/latest?cb=20171130004142",
     "bst": 182,
     "duel_score": 190,
-    "visible_bst": 194,
+    "visible_bst": 190,
     "max_score": 764
   },
   {
@@ -41062,8 +41062,8 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/7b/Naga_Dragon_Divinity_Face_FC.webp/revision/latest?cb=20190920224415",
     "image_url_for_icon_mythic": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/31/Mythic_Effect_Astra.png/revision/latest?cb=20181212190850",
     "bst": 162,
-    "visible_bst": 180,
-    "max_score": 760
+    "visible_bst": 175,
+    "max_score": 758
   },
   {
     "id": "PID_ハロナーガ",
@@ -41533,7 +41533,7 @@
     "image_url_for_icon_legendary": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/87/Legendary_Effect_Earth.png/revision/latest?cb=20171130004140",
     "bst": 173,
     "duel_score": 190,
-    "visible_bst": 194,
+    "visible_bst": 190,
     "max_score": 764
   },
   {
@@ -43025,7 +43025,7 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/bf/Nina_Shadowy_Figures_Face_FC.webp/revision/latest?cb=20220808050626",
     "bst": 168,
     "duel_score": 195,
-    "visible_bst": 199,
+    "visible_bst": 195,
     "max_score": 764
   },
   {
@@ -43167,7 +43167,7 @@
     "image_url_for_icon_legendary": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/37/Legendary_Effect_Water.png/revision/latest?cb=20171130004141",
     "bst": 168,
     "duel_score": 190,
-    "visible_bst": 194,
+    "visible_bst": 190,
     "max_score": 764
   },
   {
@@ -45115,8 +45115,8 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/78/Otr_Kingsbrother_Face_FC.webp/revision/latest?cb=20201208123218",
     "image_url_for_icon_mythic": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/1d/Mythic_Effect_Anima_02.png/revision/latest?cb=20220225204846",
     "bst": 174,
-    "visible_bst": 180,
-    "max_score": 760
+    "visible_bst": 178,
+    "max_score": 758
   },
   {
     "id": "PID_ウード",
@@ -45395,7 +45395,7 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/55/Palla_Sisterly_Trio_Face_FC.webp/revision/latest?cb=20200420042708",
     "bst": 167,
     "duel_score": 185,
-    "visible_bst": 189,
+    "visible_bst": 185,
     "max_score": 762
   },
   {
@@ -45860,7 +45860,7 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/7e/Peony_Alfar_Dream_Duo_Face_FC.webp/revision/latest?cb=20201228065344",
     "bst": 151,
     "duel_score": 190,
-    "visible_bst": 194,
+    "visible_bst": 190,
     "max_score": 762
   },
   {
@@ -46001,8 +46001,8 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/48/Peony_Sweet_Dream_Face_FC.webp/revision/latest?cb=20191205143452",
     "image_url_for_icon_mythic": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f9/Mythic_Effect_Light.png/revision/latest?cb=20181212185153",
     "bst": 145,
-    "visible_bst": 180,
-    "max_score": 758
+    "visible_bst": 175,
+    "max_score": 756
   },
   {
     "id": "PID_パーシバル",
@@ -46418,8 +46418,8 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/1c/Plumeria_Lewd_Dream_Face_FC.webp/revision/latest?cb=20200108040933",
     "image_url_for_icon_mythic": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/31/Mythic_Effect_Astra.png/revision/latest?cb=20181212190850",
     "bst": 152,
-    "visible_bst": 180,
-    "max_score": 758
+    "visible_bst": 175,
+    "max_score": 756
   },
   {
     "id": "PID_魔器プルメリア味方",
@@ -47443,8 +47443,8 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/ea/Reginn_Bearing_Hope_Face_FC.webp/revision/latest?cb=20201208090313",
     "image_url_for_icon_mythic": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e4/Mythic_Effect_Astra_02.png/revision/latest?cb=20220225204847",
     "bst": 168,
-    "visible_bst": 180,
-    "max_score": 760
+    "visible_bst": 175,
+    "max_score": 758
   },
   {
     "id": "PID_レギン2味方",
@@ -47907,7 +47907,7 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/9b/Rhea_Aura_of_Love_Face_FC.webp/revision/latest?cb=20250206060150",
     "bst": 207,
     "duel_score": 215,
-    "visible_bst": 219,
+    "visible_bst": 215,
     "max_score": 774
   },
   {
@@ -48466,7 +48466,7 @@
     "image_url_for_icon_legendary": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/87/Legendary_Effect_Earth.png/revision/latest?cb=20171130004140",
     "bst": 177,
     "duel_score": 200,
-    "visible_bst": 204,
+    "visible_bst": 200,
     "max_score": 766
   },
   {
@@ -48793,8 +48793,8 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d2/Robin_Fell_Vessel_Face_FC.webp/revision/latest?cb=20190920214121",
     "image_url_for_icon_legendary": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/87/Legendary_Effect_Earth.png/revision/latest?cb=20171130004140",
     "bst": 162,
-    "visible_bst": 180,
-    "max_score": 760
+    "visible_bst": 175,
+    "max_score": 758
   },
   {
     "id": "PID_冬祭ルフレ男",
@@ -49121,7 +49121,7 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c9/Robin_Vessels_of_Fate_Face_FC.webp/revision/latest?cb=20240404035619",
     "bst": 183,
     "duel_score": 205,
-    "visible_bst": 209,
+    "visible_bst": 205,
     "max_score": 768
   },
   {
@@ -49495,8 +49495,8 @@
     "image_url_for_icon_legendary": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/ab/Legendary_Effect_Fire.png/revision/latest?cb=20171130004141",
     "bst": 169,
     "duel_score": 175,
-    "visible_bst": 180,
-    "max_score": 760
+    "visible_bst": 175,
+    "max_score": 758
   },
   {
     "id": "PID_総選挙ロイ",
@@ -49963,8 +49963,8 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d0/Ryoma_Supreme_Samurai_Face_FC.webp/revision/latest?cb=20190920215123",
     "image_url_for_icon_legendary": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/37/Legendary_Effect_Water.png/revision/latest?cb=20171130004141",
     "bst": 162,
-    "visible_bst": 180,
-    "max_score": 760
+    "visible_bst": 175,
+    "max_score": 758
   },
   {
     "id": "PID_響心リョウマ",
@@ -50476,7 +50476,7 @@
     "image_url_for_icon_legendary": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/87/Legendary_Effect_Earth.png/revision/latest?cb=20171130004140",
     "bst": 184,
     "duel_score": 215,
-    "visible_bst": 219,
+    "visible_bst": 215,
     "max_score": 770
   },
   {
@@ -50756,7 +50756,7 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/3d/Sanaki_Dawnsworn_Ninja_Face_FC.webp/revision/latest?cb=20231106093251",
     "bst": 174,
     "duel_score": 205,
-    "visible_bst": 209,
+    "visible_bst": 205,
     "max_score": 768
   },
   {
@@ -51268,8 +51268,8 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/8a/Seidr_Goddess_of_Hope_Face_FC.webp/revision/latest?cb=20221205090028",
     "image_url_for_icon_mythic": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e4/Mythic_Effect_Astra_02.png/revision/latest?cb=20220225204847",
     "bst": 169,
-    "visible_bst": 180,
-    "max_score": 758
+    "visible_bst": 175,
+    "max_score": 756
   },
   {
     "id": "PID_比翼セイズ",
@@ -51316,7 +51316,7 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/3b/Seidr_Times_Goddesses_Face_FC.webp/revision/latest?cb=20231228052241",
     "bst": 179,
     "duel_score": 205,
-    "visible_bst": 209,
+    "visible_bst": 205,
     "max_score": 768
   },
   {
@@ -51738,7 +51738,7 @@
     "image_url_for_icon_legendary": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/87/Legendary_Effect_Earth.png/revision/latest?cb=20171130004140",
     "bst": 162,
     "duel_score": 180,
-    "visible_bst": 184,
+    "visible_bst": 180,
     "max_score": 760
   },
   {
@@ -52296,7 +52296,7 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c1/Shamir_Heartbeats_United_Face_FC.webp/revision/latest?cb=20230619042045",
     "bst": 174,
     "duel_score": 200,
-    "visible_bst": 204,
+    "visible_bst": 200,
     "max_score": 766
   },
   {
@@ -52622,7 +52622,7 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/a9/Sharena_Pillars_of_Peace_Face_FC.webp/revision/latest?cb=20240520051731",
     "bst": 184,
     "duel_score": 205,
-    "visible_bst": 209,
+    "visible_bst": 205,
     "max_score": 770
   },
   {
@@ -52857,7 +52857,7 @@
     "image_url_for_icon_legendary": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/3d/Legendary_Effect_Wind.png/revision/latest?cb=20171130004142",
     "bst": 194,
     "duel_score": 205,
-    "visible_bst": 209,
+    "visible_bst": 205,
     "max_score": 768
   },
   {
@@ -53139,7 +53139,7 @@
     "image_url_for_icon_legendary": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/ab/Legendary_Effect_Fire.png/revision/latest?cb=20171130004141",
     "bst": 183,
     "duel_score": 190,
-    "visible_bst": 194,
+    "visible_bst": 190,
     "max_score": 762
   },
   {
@@ -53651,7 +53651,7 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/a3/Sigurd_Destined_Duo_Face_FC.webp/revision/latest?cb=20200907055854",
     "bst": 147,
     "duel_score": 185,
-    "visible_bst": 189,
+    "visible_bst": 185,
     "max_score": 760
   },
   {
@@ -53700,7 +53700,7 @@
     "image_url_for_icon_legendary": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/3d/Legendary_Effect_Wind.png/revision/latest?cb=20171130004142",
     "bst": 168,
     "duel_score": 185,
-    "visible_bst": 189,
+    "visible_bst": 185,
     "max_score": 762
   },
   {
@@ -55001,7 +55001,7 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/9a/Sothis_Bound-Spirit_Duo_Face_FC.webp/revision/latest?cb=20211006043428",
     "bst": 183,
     "duel_score": 195,
-    "visible_bst": 199,
+    "visible_bst": 195,
     "max_score": 766
   },
   {
@@ -55049,8 +55049,8 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/2/2f/Sothis_Girl_on_the_Throne_Face_FC.webp/revision/latest?cb=20190920225314",
     "image_url_for_icon_mythic": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f3/Mythic_Effect_Dark.png/revision/latest?cb=20181212185459",
     "bst": 173,
-    "visible_bst": 180,
-    "max_score": 760
+    "visible_bst": 177,
+    "max_score": 758
   },
   {
     "id": "PID_冬祭ソティス",
@@ -57051,7 +57051,7 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/71/Thorr_Sun-Kissed_Gods_Face_FC.webp/revision/latest?cb=20220705064057",
     "bst": 167,
     "duel_score": 195,
-    "visible_bst": 199,
+    "visible_bst": 195,
     "max_score": 764
   },
   {
@@ -57147,8 +57147,8 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/51/Thrasir_Omnicidal_Witch_Face_FC.webp/revision/latest?cb=20190930042602",
     "image_url_for_icon_mythic": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/db/Mythic_Effect_Anima.png/revision/latest?cb=20181212191129",
     "bst": 162,
-    "visible_bst": 180,
-    "max_score": 758
+    "visible_bst": 175,
+    "max_score": 756
   },
   {
     "id": "PID_ティバーン",
@@ -58266,8 +58266,8 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/38/Triandra_Nightmare_Face_FC.webp/revision/latest?cb=20191207031951",
     "image_url_for_icon_mythic": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f3/Mythic_Effect_Dark.png/revision/latest?cb=20181212185459",
     "bst": 151,
-    "visible_bst": 180,
-    "max_score": 758
+    "visible_bst": 175,
+    "max_score": 756
   },
   {
     "id": "PID_スカビオサ2",
@@ -58453,8 +58453,8 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f2/Ullr_The_Bowmaster_Face_FC.webp/revision/latest?cb=20210729172526",
     "image_url_for_icon_mythic": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/44/Mythic_Effect_Light_02.png/revision/latest?cb=20220225204849",
     "bst": 171,
-    "visible_bst": 180,
-    "max_score": 758
+    "visible_bst": 175,
+    "max_score": 756
   },
   {
     "id": "PID_闇ウルスラ",
@@ -59385,7 +59385,7 @@
     "image_url_for_icon_legendary": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/3d/Legendary_Effect_Wind.png/revision/latest?cb=20171130004142",
     "bst": 169,
     "duel_score": 190,
-    "visible_bst": 194,
+    "visible_bst": 190,
     "max_score": 762
   },
   {
@@ -60272,7 +60272,7 @@
     "image_url_for_icon_legendary": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/ab/Legendary_Effect_Fire.png/revision/latest?cb=20171130004141",
     "bst": 175,
     "duel_score": 190,
-    "visible_bst": 193,
+    "visible_bst": 190,
     "max_score": 764
   },
   {
@@ -60925,7 +60925,7 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/49/Ymir_Seasons_of_Life_Face_FC.webp/revision/latest?cb=20230706042441",
     "bst": 177,
     "duel_score": 200,
-    "visible_bst": 204,
+    "visible_bst": 200,
     "max_score": 766
   },
   {
@@ -61205,8 +61205,8 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/73/Yune_Chaos_Goddess_Face_FC.webp/revision/latest?cb=20190920223512",
     "image_url_for_icon_mythic": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f3/Mythic_Effect_Dark.png/revision/latest?cb=20181212185459",
     "bst": 150,
-    "visible_bst": 180,
-    "max_score": 758
+    "visible_bst": 175,
+    "max_score": 756
   },
   {
     "id": "PID_ユーリス",
@@ -61347,7 +61347,7 @@
     "image_url_for_icon_legendary": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/3d/Legendary_Effect_Wind.png/revision/latest?cb=20171130004142",
     "bst": 182,
     "duel_score": 200,
-    "visible_bst": 204,
+    "visible_bst": 200,
     "max_score": 766
   },
   {

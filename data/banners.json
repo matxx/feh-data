@@ -1883,6 +1883,19 @@
     ]
   },
   {
+    "name": "Focus: Double Special Heroes (Dec 2025)",
+    "unit_ids": [
+      "PID_お茶会フェリクス",
+      "PID_フェリアクロム",
+      "PID_双界フィル",
+      "PID_春祭メイ",
+      "PID_比翼フレイヤ",
+      "PID_水着ニノ",
+      "PID_水着外伝パオラ",
+      "PID_花嫁ラクチェ"
+    ]
+  },
+  {
     "name": "Focus: Double Special Heroes (Feb 2020)",
     "unit_ids": [
       "PID_ハロワユ",
@@ -6049,6 +6062,22 @@
       "PID_プリシラ",
       "PID_ルセア",
       "PID_レイヴァン"
+    ]
+  },
+  {
+    "name": "Focus: Resounding Hearts! 1",
+    "unit_ids": [
+      "PID_響心アルム",
+      "PID_響心ヘクトル",
+      "PID_響心ミカヤ"
+    ]
+  },
+  {
+    "name": "Focus: Resounding Hearts! 2",
+    "unit_ids": [
+      "PID_スカビオサ2",
+      "PID_響心シーダ",
+      "PID_響心ブリギッド"
     ]
   },
   {
@@ -11248,6 +11277,18 @@
       "PID_シレーネ",
       "PID_ヴァネッサ",
       "PID_魔器ターナ"
+    ]
+  },
+  {
+    "name": "New Heroes Return (Dec 2025)",
+    "unit_ids": [
+      "PID_お供ユナカ",
+      "PID_ダグ2味方",
+      "PID_開花アメリア",
+      "PID_響心サーリャ",
+      "PID_響心リーフ",
+      "PID_魔器エル",
+      "PID_魔器オルテンシア"
     ]
   },
   {
