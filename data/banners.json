@@ -4694,6 +4694,7 @@
   {
     "name": "Focus: Ike & Roy's Battle",
     "unit_ids": [
+      "PID_アイク",
       "PID_総選挙アイク",
       "PID_総選挙ロイ"
     ]

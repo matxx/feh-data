@@ -24798,6 +24798,120 @@
     "unlock": 2
   },
   {
+    "unit_id": "PID_紋章エーデル",
+    "skill_id": "SID_黒鷲の斧",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_紋章エーデル",
+    "skill_id": "SID_蛍火",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_紋章エーデル",
+    "skill_id": "SID_華炎",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_紋章エーデル",
+    "skill_id": "SID_鉄の斧",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_紋章エーデル",
+    "skill_id": "SID_後の先",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_紋章エーデル",
+    "skill_id": "SID_切り返し1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_紋章エーデル",
+    "skill_id": "SID_切り返し2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_紋章エーデル",
+    "skill_id": "SID_切り返し3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_紋章エーデル",
+    "skill_id": "SID_銀の斧",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_紋章エーデル",
+    "skill_id": "SID_鋼の斧",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_紋章エーデル",
+    "skill_id": "SID_計略・一斉突撃1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_紋章エーデル",
+    "skill_id": "SID_計略・一斉突撃2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_紋章エーデル",
+    "skill_id": "SID_計略・一斉突撃3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_紋章エーデル",
+    "skill_id": "SID_計略・一斉突撃4",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_紋章エーデル",
+    "skill_id": "SID_計略・猛火計1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_紋章エーデル",
+    "skill_id": "SID_計略・猛火計2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_紋章エーデル",
+    "skill_id": "SID_計略・猛火計3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_紋章エーデル",
+    "skill_id": "SID_計略・猛火計4",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_紋章エーデル",
+    "skill_id": "SID_連花月風閃・狂嵐",
+    "default": 0,
+    "unlock": 5
+  },
+  {
     "unit_id": "PID_冬祭エーデルガルト",
     "skill_id": "SID_重装の大炎",
     "default": 0,

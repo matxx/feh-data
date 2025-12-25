@@ -33934,6 +33934,37 @@
     "divine_codes": {}
   },
   {
+    "id": "SID_黒鷲の斧",
+    "owner_ids": [
+      "PID_紋章エーデル"
+    ],
+    "required_slots": {
+      "g4": 1,
+      "hg": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 4,
+      "shsr": 4,
+      "g5": 4,
+      "sh5": 4
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "olrwo": {
+      "foc": 5
+    },
+    "olrfi": {
+      "foc": 5
+    },
+    "divine_codes": {}
+  },
+  {
     "id": "SID_黒鷲の覇王",
     "owner_ids": [
       "PID_総選挙エーデル"
@@ -100279,6 +100310,7 @@
       "PID_愛の祭エーデル",
       "PID_伝承エーデルガルト",
       "PID_覇骸エーデルガルト",
+      "PID_紋章エーデル",
       "PID_冬祭エーデルガルト",
       "PID_水着エイクスルニル",
       "PID_総選挙エイクス",
@@ -115754,6 +115786,7 @@
       "PID_クーガー",
       "PID_ダグダ",
       "PID_魔器魔獣ドゥドゥー",
+      "PID_紋章エーデル",
       "PID_総選挙エイクス",
       "PID_エーヴェル",
       "PID_炎帝",
@@ -119433,6 +119466,7 @@
       "PID_愛の祭エーデル",
       "PID_総選挙エーデル",
       "PID_伝承エーデルガルト",
+      "PID_紋章エーデル",
       "PID_エーデルガルト",
       "PID_愛の祭エルフィ",
       "PID_響心エイリーク",
@@ -150522,6 +150556,7 @@
   {
     "id": "SID_後の先",
     "owner_ids": [
+      "PID_紋章エーデル",
       "PID_双界総選挙アイク"
     ],
     "required_slots": {
@@ -156364,6 +156399,7 @@
     "owner_ids": [
       "PID_ディアドラ",
       "PID_ドルカス",
+      "PID_紋章エーデル",
       "PID_フローラ",
       "PID_魔器ガングレト味方",
       "PID_年明フリーズ",
@@ -156480,6 +156516,7 @@
     "owner_ids": [
       "PID_ディアドラ",
       "PID_ドルカス",
+      "PID_紋章エーデル",
       "PID_フローラ",
       "PID_魔器ガングレト味方",
       "PID_年明フリーズ",
@@ -156596,6 +156633,7 @@
     "owner_ids": [
       "PID_ディアドラ",
       "PID_ドルカス",
+      "PID_紋章エーデル",
       "PID_フローラ",
       "PID_魔器ガングレト味方",
       "PID_年明フリーズ",
@@ -182419,6 +182457,7 @@
       "PID_愛の祭エーデル",
       "PID_総選挙エーデル",
       "PID_伝承エーデルガルト",
+      "PID_紋章エーデル",
       "PID_エーデルガルト",
       "PID_響心エイリーク",
       "PID_総選挙エフラム",
@@ -204538,6 +204577,7 @@
       "PID_愛の祭エーデル",
       "PID_総選挙エーデル",
       "PID_伝承エーデルガルト",
+      "PID_紋章エーデル",
       "PID_エーデルガルト",
       "PID_愛の祭エルフィ",
       "PID_響心エイリーク",
@@ -208976,6 +209016,254 @@
         }
       ]
     }
+  },
+  {
+    "id": "SID_計略・一斉突撃1",
+    "owner_ids": [
+      "PID_紋章エーデル"
+    ],
+    "required_slots": {
+      "g4": 1,
+      "hg": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 1,
+      "shsr": 1,
+      "g5": 1,
+      "sh5": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "olrwo": {
+      "foc": 5
+    },
+    "olrfi": {
+      "foc": 2
+    },
+    "divine_codes": {}
+  },
+  {
+    "id": "SID_計略・一斉突撃2",
+    "owner_ids": [
+      "PID_紋章エーデル"
+    ],
+    "required_slots": {
+      "g4": 2,
+      "hg": 2,
+      "dc": 2,
+      "sh4": 2,
+      "gsr": 2,
+      "shsr": 2,
+      "g5": 2,
+      "sh5": 2
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "olrwo": {
+      "foc": 5
+    },
+    "olrfi": {
+      "foc": 3
+    },
+    "divine_codes": {}
+  },
+  {
+    "id": "SID_計略・一斉突撃3",
+    "owner_ids": [
+      "PID_紋章エーデル"
+    ],
+    "required_slots": {
+      "g4": 3,
+      "hg": 3,
+      "dc": 3,
+      "sh4": 3,
+      "gsr": 3,
+      "shsr": 3,
+      "g5": 3,
+      "sh5": 3
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "olrwo": {
+      "foc": 5
+    },
+    "olrfi": {
+      "foc": 4
+    },
+    "divine_codes": {}
+  },
+  {
+    "id": "SID_計略・一斉突撃4",
+    "owner_ids": [
+      "PID_紋章エーデル"
+    ],
+    "required_slots": {
+      "g4": 4,
+      "hg": 4,
+      "dc": 4,
+      "sh4": 4,
+      "gsr": 4,
+      "shsr": 4,
+      "g5": 4,
+      "sh5": 4
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "olrwo": {
+      "foc": 5
+    },
+    "olrfi": {
+      "foc": 5
+    },
+    "divine_codes": {}
+  },
+  {
+    "id": "SID_計略・猛火計1",
+    "owner_ids": [
+      "PID_紋章エーデル"
+    ],
+    "required_slots": {
+      "g4": 1,
+      "hg": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 1,
+      "shsr": 1,
+      "g5": 1,
+      "sh5": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "olrwo": {
+      "foc": 5
+    },
+    "olrfi": {
+      "foc": 2
+    },
+    "divine_codes": {}
+  },
+  {
+    "id": "SID_計略・猛火計2",
+    "owner_ids": [
+      "PID_紋章エーデル"
+    ],
+    "required_slots": {
+      "g4": 2,
+      "hg": 2,
+      "dc": 2,
+      "sh4": 2,
+      "gsr": 2,
+      "shsr": 2,
+      "g5": 2,
+      "sh5": 2
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "olrwo": {
+      "foc": 5
+    },
+    "olrfi": {
+      "foc": 3
+    },
+    "divine_codes": {}
+  },
+  {
+    "id": "SID_計略・猛火計3",
+    "owner_ids": [
+      "PID_紋章エーデル"
+    ],
+    "required_slots": {
+      "g4": 3,
+      "hg": 3,
+      "dc": 3,
+      "sh4": 3,
+      "gsr": 3,
+      "shsr": 3,
+      "g5": 3,
+      "sh5": 3
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "olrwo": {
+      "foc": 5
+    },
+    "olrfi": {
+      "foc": 4
+    },
+    "divine_codes": {}
+  },
+  {
+    "id": "SID_計略・猛火計4",
+    "owner_ids": [
+      "PID_紋章エーデル"
+    ],
+    "required_slots": {
+      "g4": 4,
+      "hg": 4,
+      "dc": 4,
+      "sh4": 4,
+      "gsr": 4,
+      "shsr": 4,
+      "g5": 4,
+      "sh5": 4
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "olrwo": {
+      "foc": 5
+    },
+    "olrfi": {
+      "foc": 5
+    },
+    "divine_codes": {}
   },
   {
     "id": "SID_憧憬の剣",
@@ -223528,6 +223816,37 @@
     },
     "olrfi": {
       "ssp": 5
+    },
+    "divine_codes": {}
+  },
+  {
+    "id": "SID_連花月風閃・狂嵐",
+    "owner_ids": [
+      "PID_紋章エーデル"
+    ],
+    "required_slots": {
+      "g4": 1,
+      "hg": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 3,
+      "shsr": 3,
+      "g5": 3,
+      "sh5": 3
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "olrwo": {
+      "foc": 5
+    },
+    "olrfi": {
+      "foc": 5
     },
     "divine_codes": {}
   },

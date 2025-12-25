@@ -9287,5 +9287,12 @@
     "recommended_boon": "spd",
     "recommended_bane": "res",
     "recommended_plus10": null
+  },
+  {
+    "id": "PID_紋章エーデル",
+    "game8_rating": "9.9",
+    "recommended_boon": "atk",
+    "recommended_bane": "spd",
+    "recommended_plus10": null
   }
 ]

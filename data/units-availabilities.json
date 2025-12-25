@@ -10183,6 +10183,42 @@
     "divine_codes": {}
   },
   {
+    "id": "PID_紋章エーデル",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "lowest_rarity": {
+      "foc": 5
+    },
+    "skill_ids": [
+      "SID_切り返し1",
+      "SID_切り返し2",
+      "SID_切り返し3",
+      "SID_後の先",
+      "SID_華炎",
+      "SID_蛍火",
+      "SID_計略・一斉突撃1",
+      "SID_計略・一斉突撃2",
+      "SID_計略・一斉突撃3",
+      "SID_計略・一斉突撃4",
+      "SID_計略・猛火計1",
+      "SID_計略・猛火計2",
+      "SID_計略・猛火計3",
+      "SID_計略・猛火計4",
+      "SID_連花月風閃・狂嵐",
+      "SID_鉄の斧",
+      "SID_銀の斧",
+      "SID_鋼の斧",
+      "SID_黒鷲の斧"
+    ],
+    "divine_codes": {}
+  },
+  {
     "id": "PID_冬祭エーデルガルト",
     "is_in": {
       "gsp": false,

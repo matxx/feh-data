@@ -20758,5 +20758,55 @@
     "id": "SID_盾の護り手・遠・双",
     "game8_rating": "9.5",
     "game8_grade": "S"
+  },
+  {
+    "id": "SID_黒鷲の斧",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_連花月風閃・狂嵐",
+    "game8_rating": "9.9",
+    "game8_grade": "SS"
+  },
+  {
+    "id": "SID_計略・猛火計1",
+    "game8_rating": null,
+    "game8_grade": null
+  },
+  {
+    "id": "SID_計略・猛火計2",
+    "game8_rating": null,
+    "game8_grade": null
+  },
+  {
+    "id": "SID_計略・猛火計3",
+    "game8_rating": null,
+    "game8_grade": null
+  },
+  {
+    "id": "SID_計略・猛火計4",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_計略・一斉突撃1",
+    "game8_rating": null,
+    "game8_grade": null
+  },
+  {
+    "id": "SID_計略・一斉突撃2",
+    "game8_rating": null,
+    "game8_grade": null
+  },
+  {
+    "id": "SID_計略・一斉突撃3",
+    "game8_rating": null,
+    "game8_grade": null
+  },
+  {
+    "id": "SID_計略・一斉突撃4",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
   }
 ]

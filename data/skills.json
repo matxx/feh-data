@@ -20073,6 +20073,34 @@
     ]
   },
   {
+    "id": "SID_黒鷲の斧",
+    "game8_id": "572332",
+    "name": "Black Eagle Axe",
+    "group_name": "Black Eagle Axe",
+    "category": "weapon",
+    "weapon_type": "Green Axe",
+    "is_prf": true,
+    "is_arcane": false,
+    "sp": 400,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Green Axe"
+        ]
+      }
+    },
+    "addition_date": "2025-12-25",
+    "release_date": "2025-12-25",
+    "version": "10.0",
+    "downgrade_ids": [
+      "SID_銀の斧"
+    ]
+  },
+  {
     "id": "SID_黒鷲の覇王",
     "game8_id": "292799",
     "name": "Black Eagle Rule",
@@ -71359,7 +71387,8 @@
       "SID_砂陣",
       "SID_連魔弾",
       "SID_魔弾",
-      "SID_堅固なる獣"
+      "SID_堅固なる獣",
+      "SID_連花月風閃・狂嵐"
     ],
     "downgrade_ids": [
       "SID_蛍火"
@@ -111927,6 +111956,7 @@
       "SID_アイムール",
       "SID_狂斧アルマーズ",
       "SID_ベルセルクの斧",
+      "SID_黒鷲の斧",
       "SID_紅炎の親子の聖斧",
       "SID_青獅子の聖夜の斧",
       "SID_黒鉄忍者の鎖鎌",
@@ -125658,6 +125688,266 @@
     "version": "4.3"
   },
   {
+    "id": "SID_計略・一斉突撃1",
+    "game8_id": "572338",
+    "name": "Strat Assault 1",
+    "group_name": "Strat Assault",
+    "category": "passivec",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/2/20/Strat_Assault_1.png/revision/latest?cb=20251225120106",
+    "is_prf": false,
+    "is_arcane": false,
+    "sp": 60,
+    "tier": 1,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Armored",
+          "Flying"
+        ]
+      },
+      "weapons": null
+    },
+    "addition_date": "2025-12-25",
+    "release_date": "2025-12-25",
+    "version": "10.0",
+    "upgrade_ids": [
+      "SID_計略・一斉突撃2"
+    ]
+  },
+  {
+    "id": "SID_計略・一斉突撃2",
+    "game8_id": "572339",
+    "name": "Strat Assault 2",
+    "group_name": "Strat Assault",
+    "category": "passivec",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/47/Strat_Assault_2.png/revision/latest?cb=20251225120117",
+    "is_prf": false,
+    "is_arcane": false,
+    "sp": 120,
+    "tier": 2,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Armored",
+          "Flying"
+        ]
+      },
+      "weapons": null
+    },
+    "addition_date": "2025-12-25",
+    "release_date": "2025-12-25",
+    "version": "10.0",
+    "upgrade_ids": [
+      "SID_計略・一斉突撃3"
+    ],
+    "downgrade_ids": [
+      "SID_計略・一斉突撃1"
+    ]
+  },
+  {
+    "id": "SID_計略・一斉突撃3",
+    "game8_id": "572340",
+    "name": "Strat Assault 3",
+    "group_name": "Strat Assault",
+    "category": "passivec",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/98/Strat_Assault_3.png/revision/latest?cb=20251225120128",
+    "is_prf": false,
+    "is_arcane": false,
+    "sp": 240,
+    "tier": 3,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Armored",
+          "Flying"
+        ]
+      },
+      "weapons": null
+    },
+    "addition_date": "2025-12-25",
+    "release_date": "2025-12-25",
+    "version": "10.0",
+    "upgrade_ids": [
+      "SID_計略・一斉突撃4"
+    ],
+    "downgrade_ids": [
+      "SID_計略・一斉突撃2"
+    ]
+  },
+  {
+    "id": "SID_計略・一斉突撃4",
+    "game8_id": "572341",
+    "name": "Strat Assault 4",
+    "group_name": "Strat Assault",
+    "category": "passivec",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/54/Strat_Assault_4.png/revision/latest?cb=20251225120139",
+    "is_prf": false,
+    "is_arcane": false,
+    "sp": 300,
+    "tier": 4,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Armored",
+          "Flying"
+        ]
+      },
+      "weapons": null
+    },
+    "addition_date": "2025-12-25",
+    "release_date": "2025-12-25",
+    "version": "10.0",
+    "downgrade_ids": [
+      "SID_計略・一斉突撃3"
+    ]
+  },
+  {
+    "id": "SID_計略・猛火計1",
+    "game8_id": "572334",
+    "name": "Strat Flame 1",
+    "group_name": "Strat Flame",
+    "category": "passivea",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/58/Strat_Flame_1.png/revision/latest?cb=20251225120025",
+    "is_prf": false,
+    "is_arcane": false,
+    "sp": 60,
+    "tier": 1,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Armored",
+          "Flying"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "All Melee",
+          "All Breath",
+          "All Beast"
+        ]
+      }
+    },
+    "addition_date": "2025-12-25",
+    "release_date": "2025-12-25",
+    "version": "10.0",
+    "upgrade_ids": [
+      "SID_計略・猛火計2"
+    ]
+  },
+  {
+    "id": "SID_計略・猛火計2",
+    "game8_id": "572335",
+    "name": "Strat Flame 2",
+    "group_name": "Strat Flame",
+    "category": "passivea",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e3/Strat_Flame_2.png/revision/latest?cb=20251225120034",
+    "is_prf": false,
+    "is_arcane": false,
+    "sp": 120,
+    "tier": 2,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Armored",
+          "Flying"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "All Melee",
+          "All Breath",
+          "All Beast"
+        ]
+      }
+    },
+    "addition_date": "2025-12-25",
+    "release_date": "2025-12-25",
+    "version": "10.0",
+    "upgrade_ids": [
+      "SID_計略・猛火計3"
+    ],
+    "downgrade_ids": [
+      "SID_計略・猛火計1"
+    ]
+  },
+  {
+    "id": "SID_計略・猛火計3",
+    "game8_id": "572336",
+    "name": "Strat Flame 3",
+    "group_name": "Strat Flame",
+    "category": "passivea",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f7/Strat_Flame_3.png/revision/latest?cb=20251225120045",
+    "is_prf": false,
+    "is_arcane": false,
+    "sp": 240,
+    "tier": 3,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Armored",
+          "Flying"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "All Melee",
+          "All Breath",
+          "All Beast"
+        ]
+      }
+    },
+    "addition_date": "2025-12-25",
+    "release_date": "2025-12-25",
+    "version": "10.0",
+    "upgrade_ids": [
+      "SID_計略・猛火計4"
+    ],
+    "downgrade_ids": [
+      "SID_計略・猛火計2"
+    ]
+  },
+  {
+    "id": "SID_計略・猛火計4",
+    "game8_id": "572337",
+    "name": "Strat Flame 4",
+    "group_name": "Strat Flame",
+    "category": "passivea",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/a1/Strat_Flame_4.png/revision/latest?cb=20251225120055",
+    "is_prf": false,
+    "is_arcane": false,
+    "sp": 300,
+    "tier": 4,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Armored",
+          "Flying"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "All Melee",
+          "All Breath",
+          "All Beast"
+        ]
+      }
+    },
+    "addition_date": "2025-12-25",
+    "release_date": "2025-12-25",
+    "version": "10.0",
+    "downgrade_ids": [
+      "SID_計略・猛火計3"
+    ]
+  },
+  {
     "id": "SID_憧憬の剣",
     "game8_id": "435913",
     "name": "Striving Sword",
@@ -134976,6 +135266,30 @@
     "version": "8.5",
     "downgrade_ids": [
       "SID_銀の槍"
+    ]
+  },
+  {
+    "id": "SID_連花月風閃・狂嵐",
+    "game8_id": "572333",
+    "name": "United Storm",
+    "group_name": "United Storm",
+    "category": "special",
+    "is_prf": true,
+    "is_arcane": false,
+    "sp": 500,
+    "tier": 3,
+    "cd": 5,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": null
+    },
+    "addition_date": "2025-12-25",
+    "release_date": "2025-12-25",
+    "version": "10.0",
+    "downgrade_ids": [
+      "SID_華炎"
     ]
   },
   {
