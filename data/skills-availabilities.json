@@ -5549,7 +5549,8 @@
   {
     "id": "SID_すべて読めていた",
     "owner_ids": [
-      "PID_ヘイムダル味方"
+      "PID_ヘイムダル味方",
+      "PID_年明ヘイムダル"
     ],
     "required_slots": {
       "g4": 1,
@@ -5563,16 +5564,18 @@
     },
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": true
     },
     "olrwo": {
+      "ssp": 5,
       "foc": 5
     },
     "olrfi": {
+      "ssp": 5,
       "foc": 5
     },
     "divine_codes": {}
@@ -8347,6 +8350,7 @@
   {
     "id": "SID_角逐",
     "owner_ids": [
+      "PID_比翼バルドル",
       "PID_総選挙バルドル",
       "PID_伝承ディアマンド",
       "PID_双界総選挙リン",
@@ -17823,7 +17827,8 @@
     "id": "SID_攻撃魔防の詠唱",
     "owner_ids": [
       "PID_天の王味方",
-      "PID_ヘイムダル味方"
+      "PID_ヘイムダル味方",
+      "PID_年明ヘイムダル"
     ],
     "required_slots": {
       "g4": 1,
@@ -17833,20 +17838,22 @@
       "gsr": 4,
       "shsr": 1,
       "g5": 4,
-      "sh5": 4
+      "sh5": 1
     },
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": true
     },
     "olrwo": {
+      "ssp": 5,
       "foc": 5
     },
     "olrfi": {
+      "ssp": 5,
       "foc": 5
     },
     "divine_codes": {}
@@ -17862,6 +17869,7 @@
       "PID_神階エイル",
       "PID_ハロフレン",
       "PID_ヘイムダル味方",
+      "PID_年明ヘイムダル",
       "PID_総選挙ミカヤ",
       "PID_夏祭ミカヤ",
       "PID_ハロノノ",
@@ -17960,6 +17968,7 @@
       "PID_神階エイル",
       "PID_ハロフレン",
       "PID_ヘイムダル味方",
+      "PID_年明ヘイムダル",
       "PID_総選挙ミカヤ",
       "PID_夏祭ミカヤ",
       "PID_ハロノノ",
@@ -18058,6 +18067,7 @@
       "PID_神階エイル",
       "PID_ハロフレン",
       "PID_ヘイムダル味方",
+      "PID_年明ヘイムダル",
       "PID_総選挙ミカヤ",
       "PID_夏祭ミカヤ",
       "PID_ハロノノ",
@@ -19008,6 +19018,7 @@
     "id": "SID_攻撃魔防の大開放1",
     "owner_ids": [
       "PID_エリス",
+      "PID_年明ヘイムダル",
       "PID_幼少イレース",
       "PID_ハロイレース"
     ],
@@ -19068,6 +19079,7 @@
     "id": "SID_攻撃魔防の大開放2",
     "owner_ids": [
       "PID_エリス",
+      "PID_年明ヘイムダル",
       "PID_幼少イレース",
       "PID_ハロイレース"
     ],
@@ -19128,6 +19140,7 @@
     "id": "SID_攻撃魔防の大開放3",
     "owner_ids": [
       "PID_エリス",
+      "PID_年明ヘイムダル",
       "PID_幼少イレース",
       "PID_ハロイレース"
     ],
@@ -19523,6 +19536,37 @@
     },
     "olrfi": {
       "foc": 5
+    },
+    "divine_codes": {}
+  },
+  {
+    "id": "SID_攻撃魔防の解放",
+    "owner_ids": [
+      "PID_年明ヘイムダル"
+    ],
+    "required_slots": {
+      "g4": 1,
+      "hg": 4,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 4,
+      "shsr": 4,
+      "g5": 4,
+      "sh5": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": true,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "olrwo": {
+      "ssp": 5
+    },
+    "olrfi": {
+      "ssp": 5
     },
     "divine_codes": {}
   },
@@ -21768,6 +21812,7 @@
     "owner_ids": [
       "PID_比翼フレイヤ",
       "PID_総選挙シャロン",
+      "PID_年明ヴァーリ",
       "PID_ヴァーリ味方"
     ],
     "required_slots": {
@@ -21826,6 +21871,7 @@
       "PID_双界ソニア",
       "PID_魔器ターナ",
       "PID_花嫁サーリャ",
+      "PID_年明ヴァーリ",
       "PID_ヴァーリ味方"
     ],
     "required_slots": {
@@ -21951,6 +21997,7 @@
       "PID_双界ソニア",
       "PID_魔器ターナ",
       "PID_花嫁サーリャ",
+      "PID_年明ヴァーリ",
       "PID_ヴァーリ味方"
     ],
     "required_slots": {
@@ -22076,6 +22123,7 @@
       "PID_双界ソニア",
       "PID_魔器ターナ",
       "PID_花嫁サーリャ",
+      "PID_年明ヴァーリ",
       "PID_ヴァーリ味方"
     ],
     "required_slots": {
@@ -22426,6 +22474,7 @@
       "PID_比翼エポニーヌ",
       "PID_伝承ニニアン",
       "PID_忍者ユウギリ",
+      "PID_年明ザガロ",
       "PID_愛の祭セライナ",
       "PID_双界ターナ",
       "PID_花嫁ティニー",
@@ -22553,6 +22602,7 @@
       "PID_比翼エポニーヌ",
       "PID_伝承ニニアン",
       "PID_忍者ユウギリ",
+      "PID_年明ザガロ",
       "PID_愛の祭セライナ",
       "PID_双界ターナ",
       "PID_花嫁ティニー",
@@ -22680,6 +22730,7 @@
       "PID_比翼エポニーヌ",
       "PID_伝承ニニアン",
       "PID_忍者ユウギリ",
+      "PID_年明ザガロ",
       "PID_愛の祭セライナ",
       "PID_双界ターナ",
       "PID_花嫁ティニー",
@@ -37589,6 +37640,7 @@
       "PID_比翼シグルド",
       "PID_水着ターナ",
       "PID_花嫁サーリャ",
+      "PID_年明ヴァーリ",
       "PID_春祭ヴェイル",
       "PID_セピア"
     ],
@@ -49252,6 +49304,7 @@
       "PID_双界ソニア",
       "PID_水着シルヴァン",
       "PID_カダインウルスラ",
+      "PID_年明ヴァーリ",
       "PID_ヴァーリ味方",
       "PID_ベルド",
       "PID_春祭ヴェロニカ"
@@ -49897,6 +49950,7 @@
       "PID_ホメロス",
       "PID_総選挙シャロン",
       "PID_カダインウルスラ",
+      "PID_年明ヴァーリ",
       "PID_ヴァーリ味方"
     ],
     "required_slots": {
@@ -49947,6 +50001,7 @@
       "PID_ホメロス",
       "PID_総選挙シャロン",
       "PID_カダインウルスラ",
+      "PID_年明ヴァーリ",
       "PID_ヴァーリ味方"
     ],
     "required_slots": {
@@ -50188,6 +50243,7 @@
       "PID_スリーズ",
       "PID_水着ヘイズルーン",
       "PID_ヘイムダル味方",
+      "PID_年明ヘイムダル",
       "PID_愛の祭ヘンリエッテ",
       "PID_ヘステ",
       "PID_聖戦ヒルダ",
@@ -71602,6 +71658,7 @@
     "owner_ids": [
       "PID_暴走アシュナード",
       "PID_インバース",
+      "PID_比翼バルドル",
       "PID_総選挙バルドル",
       "PID_バヌトゥ",
       "PID_盗賊頭",
@@ -71861,6 +71918,7 @@
       "PID_アレス",
       "PID_暴走アシュナード",
       "PID_インバース",
+      "PID_比翼バルドル",
       "PID_総選挙バルドル",
       "PID_バヌトゥ",
       "PID_春祭ベルナデッタ",
@@ -77619,6 +77677,7 @@
       "PID_花嫁ティニー",
       "PID_愛の祭ティアマト",
       "PID_ナバタトパック",
+      "PID_年明ヴァーリ",
       "PID_春祭ヴェイル",
       "PID_セピア"
     ],
@@ -78495,6 +78554,7 @@
       "PID_グリ",
       "PID_スリーズ",
       "PID_神階ヘイズ",
+      "PID_年明ヘイムダル",
       "PID_ハロヘンリー",
       "PID_幼少イレース",
       "PID_舞踏祭アズール",
@@ -85785,6 +85845,7 @@
       "PID_花嫁ティニー",
       "PID_愛の祭ティアマト",
       "PID_ナバタトパック",
+      "PID_年明ヴァーリ",
       "PID_春祭ヴェイル",
       "PID_セピア"
     ],
@@ -89394,6 +89455,7 @@
   {
     "id": "SID_編隊飛行1",
     "owner_ids": [
+      "PID_比翼バルドル",
       "PID_水着カミラ",
       "PID_ディートバ",
       "PID_エリンシア",
@@ -89471,6 +89533,7 @@
   {
     "id": "SID_編隊飛行2",
     "owner_ids": [
+      "PID_比翼バルドル",
       "PID_水着カミラ",
       "PID_ディートバ",
       "PID_エリンシア",
@@ -89548,6 +89611,7 @@
   {
     "id": "SID_編隊飛行3",
     "owner_ids": [
+      "PID_比翼バルドル",
       "PID_水着カミラ",
       "PID_ディートバ",
       "PID_エリンシア",
@@ -99164,6 +99228,7 @@
       "PID_スリーズ",
       "PID_水着ヘイズルーン",
       "PID_ヘイムダル味方",
+      "PID_年明ヘイムダル",
       "PID_聖戦ヒルダ",
       "PID_ヘズ味方",
       "PID_愛の祭ヒューベルト",
@@ -101228,6 +101293,37 @@
     },
     "olrfi": {
       "foc": 5
+    },
+    "divine_codes": {}
+  },
+  {
+    "id": "SID_天の女神姉妹の祭器",
+    "owner_ids": [
+      "PID_比翼バルドル"
+    ],
+    "required_slots": {
+      "g4": 1,
+      "hg": 1,
+      "dc": 1,
+      "sh4": 2,
+      "gsr": 4,
+      "shsr": 1,
+      "g5": 4,
+      "sh5": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": true,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "olrwo": {
+      "ssp": 5
+    },
+    "olrfi": {
+      "ssp": 5
     },
     "divine_codes": {}
   },
@@ -108474,6 +108570,37 @@
     "divine_codes": {}
   },
   {
+    "id": "SID_天に代わりて・近",
+    "owner_ids": [
+      "PID_比翼バルドル"
+    ],
+    "required_slots": {
+      "g4": 1,
+      "hg": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 1,
+      "shsr": 1,
+      "g5": 1,
+      "sh5": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": true,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "olrwo": {
+      "ssp": 5
+    },
+    "olrfi": {
+      "ssp": 5
+    },
+    "divine_codes": {}
+  },
+  {
     "id": "SID_四天馬騎士の冷槍",
     "owner_ids": [
       "PID_ディートバ"
@@ -108681,6 +108808,37 @@
         }
       ]
     }
+  },
+  {
+    "id": "SID_天舞い立つ",
+    "owner_ids": [
+      "PID_比翼バルドル"
+    ],
+    "required_slots": {
+      "g4": 1,
+      "hg": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 4,
+      "shsr": 1,
+      "g5": 4,
+      "sh5": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": true,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "olrwo": {
+      "ssp": 5
+    },
+    "olrfi": {
+      "ssp": 5
+    },
+    "divine_codes": {}
   },
   {
     "id": "SID_天届く翼",
@@ -112729,6 +112887,68 @@
     "divine_codes": {}
   },
   {
+    "id": "SID_午年の弓",
+    "owner_ids": [
+      "PID_年明ザガロ"
+    ],
+    "required_slots": {
+      "g4": 1,
+      "hg": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 3,
+      "shsr": 3,
+      "g5": 3,
+      "sh5": 3
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": true,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "olrwo": {
+      "ssp": 4
+    },
+    "olrfi": {
+      "ssp": 3
+    },
+    "divine_codes": {}
+  },
+  {
+    "id": "SID_午年の弓＋",
+    "owner_ids": [
+      "PID_年明ザガロ"
+    ],
+    "required_slots": {
+      "g4": 2,
+      "hg": 2,
+      "dc": 2,
+      "sh4": 1,
+      "gsr": 4,
+      "shsr": 4,
+      "g5": 4,
+      "sh5": 4
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": true,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "olrwo": {
+      "ssp": 4
+    },
+    "olrfi": {
+      "ssp": 5
+    },
+    "divine_codes": {}
+  },
+  {
     "id": "SID_白夜雷神刀",
     "owner_ids": [
       "PID_響心リョウマ"
@@ -115021,6 +115241,7 @@
       "PID_冬祭門番",
       "PID_水着ヘイズルーン",
       "PID_ヘイムダル味方",
+      "PID_年明ヘイムダル",
       "PID_ヘズ味方",
       "PID_双界アイビー",
       "PID_比翼ユリア",
@@ -119172,6 +119393,7 @@
   {
     "id": "SID_お姉様は絶対無敵",
     "owner_ids": [
+      "PID_年明ヴァーリ",
       "PID_ヴァーリ味方"
     ],
     "required_slots": {
@@ -119182,20 +119404,22 @@
       "gsr": 2,
       "shsr": 2,
       "g5": 2,
-      "sh5": 2
+      "sh5": 1
     },
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": true
     },
     "olrwo": {
+      "ssp": 5,
       "foc": 5
     },
     "olrfi": {
+      "ssp": 5,
       "foc": 5
     },
     "divine_codes": {}
@@ -120223,6 +120447,7 @@
       "PID_ロナン",
       "PID_愛の祭ロイ",
       "PID_ザガロ",
+      "PID_年明ザガロ",
       "PID_セツナ",
       "PID_シャミア",
       "PID_比翼シャミア",
@@ -121252,6 +121477,7 @@
       "PID_アリオーン",
       "PID_水着アッシュ",
       "PID_アクア",
+      "PID_比翼バルドル",
       "PID_水着バルタザール",
       "PID_ブノワ",
       "PID_舞踏ベルクト",
@@ -136897,6 +137123,7 @@
       "PID_伝承サクラ",
       "PID_シグルド",
       "PID_ティナ",
+      "PID_年明ヴァーリ",
       "PID_ヴァーリ味方",
       "PID_ハタリチェイニー"
     ],
@@ -141614,6 +141841,37 @@
     "divine_codes": {}
   },
   {
+    "id": "SID_一年の計の扇子",
+    "owner_ids": [
+      "PID_年明ヘイムダル"
+    ],
+    "required_slots": {
+      "g4": 1,
+      "hg": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 4,
+      "shsr": 4,
+      "g5": 4,
+      "sh5": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": true,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "olrwo": {
+      "ssp": 5
+    },
+    "olrfi": {
+      "ssp": 5
+    },
+    "divine_codes": {}
+  },
+  {
     "id": "SID_友の風舞う翼弓",
     "owner_ids": [
       "PID_開花フロリーナ"
@@ -144970,7 +145228,7 @@
       "gsr": 4,
       "shsr": 3,
       "g5": 4,
-      "sh5": 4
+      "sh5": 1
     },
     "is_in": {
       "gsp": false,
@@ -164907,6 +165165,7 @@
       "PID_比翼パオラ",
       "PID_水着ルフレ女",
       "PID_比翼ルフレ女",
+      "PID_年明ザガロ",
       "PID_冬祭セイズ",
       "PID_ルーナ",
       "PID_サイラス",
@@ -168416,6 +168675,7 @@
       "PID_グリ",
       "PID_スリーズ",
       "PID_神階ヘイズ",
+      "PID_年明ヘイムダル",
       "PID_幼少イレース",
       "PID_水着アイビー",
       "PID_ユリア",
@@ -179892,6 +180152,7 @@
   {
     "id": "SID_影助・引き戻し1",
     "owner_ids": [
+      "PID_比翼バルドル",
       "PID_愛の祭ディミトリ",
       "PID_響心リーフ",
       "PID_比翼ルキナ",
@@ -179938,6 +180199,7 @@
   {
     "id": "SID_影助・引き戻し2",
     "owner_ids": [
+      "PID_比翼バルドル",
       "PID_愛の祭ディミトリ",
       "PID_響心リーフ",
       "PID_比翼ルキナ",
@@ -179984,6 +180246,7 @@
   {
     "id": "SID_影助・引き戻し3",
     "owner_ids": [
+      "PID_比翼バルドル",
       "PID_愛の祭ディミトリ",
       "PID_響心リーフ",
       "PID_比翼ルキナ",
@@ -180030,6 +180293,7 @@
   {
     "id": "SID_影助・引き戻し4",
     "owner_ids": [
+      "PID_比翼バルドル",
       "PID_愛の祭ディミトリ",
       "PID_響心リーフ",
       "PID_比翼ルキナ",
@@ -183327,6 +183591,7 @@
       "PID_覚醒アンナ",
       "PID_アリオーン",
       "PID_水着アッシュ",
+      "PID_比翼バルドル",
       "PID_舞踏ベルクト",
       "PID_闇ベルクト",
       "PID_伝承シーダ",
@@ -184526,6 +184791,37 @@
     },
     "olrfi": {
       "foc": 5
+    },
+    "divine_codes": {}
+  },
+  {
+    "id": "SID_愛しき姉の羽子板",
+    "owner_ids": [
+      "PID_年明ヴァーリ"
+    ],
+    "required_slots": {
+      "g4": 1,
+      "hg": 1,
+      "dc": 1,
+      "sh4": 2,
+      "gsr": 4,
+      "shsr": 1,
+      "g5": 4,
+      "sh5": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": true,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "olrwo": {
+      "ssp": 5
+    },
+    "olrfi": {
+      "ssp": 5
     },
     "divine_codes": {}
   },
@@ -191045,17 +191341,18 @@
   {
     "id": "SID_速さ守備の看破",
     "owner_ids": [
-      "PID_比翼ルキナ"
+      "PID_比翼ルキナ",
+      "PID_年明ザガロ"
     ],
     "required_slots": {
       "g4": 1,
       "hg": 1,
       "dc": 1,
-      "sh4": 4,
+      "sh4": 1,
       "gsr": 4,
-      "shsr": 1,
+      "shsr": 4,
       "g5": 4,
-      "sh5": 1
+      "sh5": 4
     },
     "is_in": {
       "gsp": false,
@@ -191066,7 +191363,7 @@
       "foc": false
     },
     "olrwo": {
-      "ssp": 5
+      "ssp": 4
     },
     "olrfi": {
       "ssp": 5
@@ -192982,7 +193279,8 @@
       "PID_ケント",
       "PID_魔器ルキナ",
       "PID_比翼ルキナ",
-      "PID_双界ワユ"
+      "PID_双界ワユ",
+      "PID_年明ザガロ"
     ],
     "required_slots": {
       "g4": 1,
@@ -193004,7 +193302,7 @@
     },
     "olrwo": {
       "gsp": 3,
-      "ssp": 4.5,
+      "ssp": 4,
       "hg": 4,
       "dc": 5,
       "ldc": 4,
@@ -193057,15 +193355,16 @@
       "PID_ケント",
       "PID_魔器ルキナ",
       "PID_比翼ルキナ",
-      "PID_双界ワユ"
+      "PID_双界ワユ",
+      "PID_年明ザガロ"
     ],
     "required_slots": {
       "g4": 1,
       "hg": 1,
       "dc": 1,
-      "sh4": 2,
+      "sh4": 1,
       "gsr": 2,
-      "shsr": 1,
+      "shsr": 2,
       "g5": 2,
       "sh5": 2
     },
@@ -193079,7 +193378,7 @@
     },
     "olrwo": {
       "gsp": 3,
-      "ssp": 4.5,
+      "ssp": 4,
       "hg": 4,
       "dc": 5,
       "ldc": 4,
@@ -193132,15 +193431,16 @@
       "PID_ケント",
       "PID_魔器ルキナ",
       "PID_比翼ルキナ",
-      "PID_双界ワユ"
+      "PID_双界ワユ",
+      "PID_年明ザガロ"
     ],
     "required_slots": {
       "g4": 1,
       "hg": 1,
       "dc": 1,
-      "sh4": 3,
+      "sh4": 1,
       "gsr": 3,
-      "shsr": 1,
+      "shsr": 3,
       "g5": 3,
       "sh5": 3
     },
@@ -193154,7 +193454,7 @@
     },
     "olrwo": {
       "gsp": 3,
-      "ssp": 4.5,
+      "ssp": 4,
       "hg": 4,
       "dc": 5,
       "ldc": 4,
@@ -193208,9 +193508,9 @@
       "g4": 1,
       "hg": 1,
       "dc": 1,
-      "sh4": 4,
+      "sh4": 1,
       "gsr": 4,
-      "shsr": 1,
+      "shsr": 4,
       "g5": 4,
       "sh5": 4
     },
@@ -196298,6 +196598,7 @@
     "id": "SID_速さ魔防の枷",
     "owner_ids": [
       "PID_総選挙シャロン",
+      "PID_年明ヴァーリ",
       "PID_ヴァーリ味方"
     ],
     "required_slots": {
@@ -196308,11 +196609,11 @@
       "gsr": 3,
       "shsr": 1,
       "g5": 1,
-      "sh5": 4
+      "sh5": 1
     },
     "is_in": {
       "gsp": true,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
       "ldc": false,
@@ -196320,10 +196621,12 @@
     },
     "olrwo": {
       "gsp": 5,
+      "ssp": 5,
       "foc": 5
     },
     "olrfi": {
       "gsp": 5,
+      "ssp": 5,
       "foc": 5
     },
     "divine_codes": {}
@@ -200161,6 +200464,7 @@
     "owner_ids": [
       "PID_リヒト",
       "PID_サザ",
+      "PID_年明ヴァーリ",
       "PID_ヴァーリ味方"
     ],
     "required_slots": {
@@ -200171,11 +200475,11 @@
       "gsr": 2,
       "shsr": 1,
       "g5": 2,
-      "sh5": 2
+      "sh5": 1
     },
     "is_in": {
       "gsp": true,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
       "ldc": true,
@@ -200183,11 +200487,13 @@
     },
     "olrwo": {
       "gsp": 3,
+      "ssp": 5,
       "ldc": 4,
       "foc": 5
     },
     "olrfi": {
       "gsp": 3,
+      "ssp": 3,
       "ldc": 3,
       "foc": 3
     },
@@ -200231,6 +200537,7 @@
     "owner_ids": [
       "PID_リヒト",
       "PID_サザ",
+      "PID_年明ヴァーリ",
       "PID_ヴァーリ味方"
     ],
     "required_slots": {
@@ -200241,11 +200548,11 @@
       "gsr": 3,
       "shsr": 2,
       "g5": 3,
-      "sh5": 3
+      "sh5": 1
     },
     "is_in": {
       "gsp": true,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
       "ldc": true,
@@ -200253,11 +200560,13 @@
     },
     "olrwo": {
       "gsp": 3,
+      "ssp": 5,
       "ldc": 4,
       "foc": 5
     },
     "olrfi": {
       "gsp": 4,
+      "ssp": 4,
       "ldc": 4,
       "foc": 4
     },
@@ -201155,6 +201464,7 @@
       "PID_サイゾウ",
       "PID_ティルテュ",
       "PID_タニア",
+      "PID_年明ヴァーリ",
       "PID_ヴァーリ味方"
     ],
     "required_slots": {
@@ -205334,6 +205644,7 @@
       "PID_ロナン",
       "PID_愛の祭ロイ",
       "PID_ザガロ",
+      "PID_年明ザガロ",
       "PID_セツナ",
       "PID_シャミア",
       "PID_比翼シャミア",
@@ -206332,6 +206643,7 @@
       "PID_アリオーン",
       "PID_水着アッシュ",
       "PID_アクア",
+      "PID_比翼バルドル",
       "PID_水着バルタザール",
       "PID_ブノワ",
       "PID_舞踏ベルクト",
@@ -224288,6 +224600,37 @@
     "divine_codes": {}
   },
   {
+    "id": "SID_攻速十紋章・治癒",
+    "owner_ids": [
+      "PID_年明ヴァーリ"
+    ],
+    "required_slots": {
+      "g4": 1,
+      "hg": 3,
+      "dc": 3,
+      "sh4": 4,
+      "gsr": 4,
+      "shsr": 3,
+      "g5": 4,
+      "sh5": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": true,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "olrwo": {
+      "ssp": 5
+    },
+    "olrfi": {
+      "ssp": 5
+    },
+    "divine_codes": {}
+  },
+  {
     "id": "SID_ウルズ",
     "owner_ids": [
       "PID_舞踏祭黒アクア"
@@ -231377,6 +231720,7 @@
       "PID_グリ",
       "PID_スリーズ",
       "PID_神階ヘイズ",
+      "PID_年明ヘイムダル",
       "PID_ハロヘンリー",
       "PID_幼少イレース",
       "PID_舞踏祭アズール",

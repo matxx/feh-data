@@ -2728,7 +2728,8 @@
     "release_date": "2018-06-08",
     "version": "2.6",
     "upgrade_ids": [
-      "SID_天翔ける"
+      "SID_天翔ける",
+      "SID_天舞い立つ"
     ],
     "downgrade_ids": [
       "SID_曲技飛行2"
@@ -11690,6 +11691,9 @@
     "addition_date": "2019-10-08",
     "release_date": "2019-10-09",
     "version": "3.10",
+    "upgrade_ids": [
+      "SID_攻撃魔防の解放"
+    ],
     "downgrade_ids": [
       "SID_攻撃魔防の大開放2"
     ]
@@ -11878,6 +11882,32 @@
     "version": "5.5",
     "downgrade_ids": [
       "SID_攻撃魔防の万全3"
+    ]
+  },
+  {
+    "id": "SID_攻撃魔防の解放",
+    "name": "Atk/Res Liberate",
+    "group_name": "Atk/Res Liberate",
+    "category": "passivec",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/4e/Atk_Res_Liberate.png/revision/latest?cb=20251226082428",
+    "is_prf": false,
+    "is_arcane": false,
+    "sp": 300,
+    "tier": 4,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Cavalry"
+        ]
+      },
+      "weapons": null
+    },
+    "addition_date": "2025-12-26",
+    "release_date": "2026-01-01",
+    "version": "10.0",
+    "downgrade_ids": [
+      "SID_攻撃魔防の大開放3"
     ]
   },
   {
@@ -22573,6 +22603,7 @@
       "SID_呪い忍者の忍法帳",
       "SID_雇われ魔道士の書",
       "SID_皆への七つの贈り物",
+      "SID_愛しき姉の羽子板",
       "SID_春風舞う天馬兎の卵",
       "SID_影潜む密偵の香水瓶",
       "SID_慕炎の書",
@@ -51604,6 +51635,7 @@
       "SID_呪い忍者の忍法帳",
       "SID_雇われ魔道士の書",
       "SID_皆への七つの贈り物",
+      "SID_愛しき姉の羽子板",
       "SID_春風舞う天馬兎の卵",
       "SID_影潜む密偵の香水瓶",
       "SID_慕炎の書",
@@ -54327,7 +54359,8 @@
     "release_date": "2017-09-15",
     "version": "1.7",
     "upgrade_ids": [
-      "SID_天翔ける"
+      "SID_天翔ける",
+      "SID_天舞い立つ"
     ],
     "downgrade_ids": [
       "SID_編隊飛行2"
@@ -61839,6 +61872,33 @@
     "version": "6.5"
   },
   {
+    "id": "SID_天の女神姉妹の祭器",
+    "name": "Godly Devices",
+    "group_name": "Godly Devices",
+    "category": "weapon",
+    "weapon_type": "Blue Lance",
+    "is_prf": true,
+    "is_arcane": false,
+    "sp": 400,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Blue Lance"
+        ]
+      }
+    },
+    "addition_date": "2025-12-26",
+    "release_date": "2026-01-01",
+    "version": "10.0",
+    "downgrade_ids": [
+      "SID_銀の槍"
+    ]
+  },
+  {
     "id": "SID_黄金の蛇",
     "game8_id": "414921",
     "name": "Gold Serpent",
@@ -66712,6 +66772,27 @@
     "version": "9.8"
   },
   {
+    "id": "SID_天に代わりて・近",
+    "name": "Heaven's Stead N",
+    "group_name": "Heaven's Stead N",
+    "category": "passivea",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/7e/Heavens_Stead_N.png/revision/latest?cb=20251226082357",
+    "is_prf": true,
+    "is_arcane": false,
+    "sp": 300,
+    "tier": 1,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": null
+    },
+    "addition_date": "2025-12-26",
+    "release_date": "2026-01-01",
+    "version": "10.0"
+  },
+  {
     "id": "SID_四天馬騎士の冷槍",
     "game8_id": "483774",
     "name": "Heavenly Icicle",
@@ -66790,6 +66871,37 @@
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
     "version": "1.0"
+  },
+  {
+    "id": "SID_天舞い立つ",
+    "name": "Heavenly Soar",
+    "group_name": "Heavenly Soar",
+    "category": "passiveb",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/71/Heavenly_Soar.png/revision/latest?cb=20251226082407",
+    "is_prf": false,
+    "is_arcane": false,
+    "sp": 400,
+    "tier": 4,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Flying"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "All Melee"
+        ]
+      }
+    },
+    "addition_date": "2025-12-26",
+    "release_date": "2026-01-01",
+    "version": "10.0",
+    "downgrade_ids": [
+      "SID_編隊飛行3",
+      "SID_曲技飛行3"
+    ]
   },
   {
     "id": "SID_天届く翼",
@@ -69483,6 +69595,71 @@
     "version": "7.4",
     "downgrade_ids": [
       "SID_成獣の化身・騎馬"
+    ]
+  },
+  {
+    "id": "SID_午年の弓",
+    "name": "Horse Bow",
+    "group_name": "Horse Bow",
+    "category": "weapon",
+    "weapon_type": "All Bow",
+    "is_prf": false,
+    "is_arcane": false,
+    "sp": 200,
+    "tier": 3,
+    "cd": 0,
+    "eff": [
+      "flying"
+    ],
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "All Bow"
+        ]
+      }
+    },
+    "addition_date": "2025-12-26",
+    "release_date": "2026-01-01",
+    "version": "10.0",
+    "upgrade_ids": [
+      "SID_午年の弓＋"
+    ],
+    "downgrade_ids": [
+      "SID_鋼の弓"
+    ]
+  },
+  {
+    "id": "SID_午年の弓＋",
+    "name": "Horse Bow+",
+    "group_name": "Horse Bow+",
+    "category": "weapon",
+    "weapon_type": "All Bow",
+    "is_prf": false,
+    "is_arcane": false,
+    "sp": 300,
+    "tier": 4,
+    "cd": 0,
+    "eff": [
+      "flying"
+    ],
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "All Bow"
+        ]
+      }
+    },
+    "addition_date": "2025-12-26",
+    "release_date": "2026-01-01",
+    "version": "10.0",
+    "downgrade_ids": [
+      "SID_午年の弓"
     ]
   },
   {
@@ -85910,6 +86087,33 @@
     "version": "9.0",
     "downgrade_ids": [
       "SID_アトラース"
+    ]
+  },
+  {
+    "id": "SID_一年の計の扇子",
+    "name": "New Year's Fan",
+    "group_name": "New Year's Fan",
+    "category": "weapon",
+    "weapon_type": "Green Tome",
+    "is_prf": true,
+    "is_arcane": false,
+    "sp": 400,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Green Tome"
+        ]
+      }
+    },
+    "addition_date": "2025-12-26",
+    "release_date": "2026-01-01",
+    "version": "10.0",
+    "downgrade_ids": [
+      "SID_レクスカリバー"
     ]
   },
   {
@@ -102793,6 +102997,7 @@
       "SID_被造フィンブル",
       "SID_ムニンの魔卵",
       "SID_ナーガ",
+      "SID_一年の計の扇子",
       "SID_ニフルの氷花",
       "SID_双風忍法帳",
       "SID_ノヴァ",
@@ -112422,6 +112627,7 @@
       "SID_ゲイボルグ",
       "SID_ゲイルドリヴル",
       "SID_ゲイルスケグル",
+      "SID_天の女神姉妹の祭器",
       "SID_グラディウス",
       "SID_守護騎士の白槍",
       "SID_大漁呼ぶ魚獲りの銛",
@@ -112932,6 +113138,35 @@
     "version": "3.7",
     "downgrade_ids": [
       "SID_天狼"
+    ]
+  },
+  {
+    "id": "SID_愛しき姉の羽子板",
+    "name": "Sister Hagoita",
+    "group_name": "Sister Hagoita",
+    "category": "weapon",
+    "weapon_type": "Red Tome",
+    "is_prf": true,
+    "is_arcane": false,
+    "sp": 400,
+    "tier": 4,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Red Tome"
+        ]
+      }
+    },
+    "addition_date": "2025-12-26",
+    "release_date": "2026-01-01",
+    "version": "10.0",
+    "downgrade_ids": [
+      "SID_ボルガノン",
+      "SID_ノスフェラート"
     ]
   },
   {
@@ -122498,7 +122733,8 @@
     "release_date": "2018-01-12",
     "version": "2.1",
     "upgrade_ids": [
-      "SID_攻速十紋章・見切り"
+      "SID_攻速十紋章・見切り",
+      "SID_攻速十紋章・治癒"
     ],
     "downgrade_ids": [
       "SID_攻撃速さの紋章1"
@@ -124910,6 +125146,7 @@
       "SID_破魔矢",
       "SID_ハープの弓",
       "SID_舵の弓",
+      "SID_午年の弓",
       "SID_瞬撃の弓",
       "SID_鏑矢",
       "SID_キラーボウ",
@@ -135629,6 +135866,32 @@
     "version": "3.1",
     "downgrade_ids": [
       "SID_メガクェイク"
+    ]
+  },
+  {
+    "id": "SID_攻速十紋章・治癒",
+    "name": "Uplift Imbue A/S",
+    "group_name": "Uplift Imbue A/S",
+    "category": "passivec",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/51/Uplift_Imbue_A_S.png/revision/latest?cb=20251226082417",
+    "is_prf": false,
+    "is_arcane": false,
+    "sp": 300,
+    "tier": 4,
+    "cd": 0,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Flying"
+        ]
+      },
+      "weapons": null
+    },
+    "addition_date": "2025-12-26",
+    "release_date": "2026-01-01",
+    "version": "10.0",
+    "downgrade_ids": [
+      "SID_攻撃速さの紋章2"
     ]
   },
   {

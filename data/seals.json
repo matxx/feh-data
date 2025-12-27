@@ -7623,6 +7623,69 @@
     }
   },
   {
+    "id": "SID_蒼穹1",
+    "game8_id": null,
+    "name": "Blue Skies 1",
+    "group_name": "Blue Skies",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/31/Blue_Skies_1.png/revision/latest?cb=20250328145120",
+    "sp": 60,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Cavalry",
+          "Flying"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "All Melee"
+        ]
+      }
+    }
+  },
+  {
+    "id": "SID_蒼穹2",
+    "game8_id": null,
+    "name": "Blue Skies 2",
+    "group_name": "Blue Skies",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/9e/Blue_Skies_2.png/revision/latest?cb=20250328145129",
+    "sp": 120,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Cavalry",
+          "Flying"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "All Melee"
+        ]
+      }
+    }
+  },
+  {
+    "id": "SID_蒼穹3",
+    "game8_id": null,
+    "name": "Blue Skies 3",
+    "group_name": "Blue Skies",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/17/Blue_Skies_3.png/revision/latest?cb=20250328145139",
+    "sp": 240,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Cavalry",
+          "Flying"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "All Melee"
+        ]
+      }
+    }
+  },
+  {
     "id": "SID_攻撃隊形1",
     "game8_id": null,
     "name": "Bold Fighter 1",
@@ -10139,6 +10202,66 @@
       },
       "weapons": {
         "none": true
+      }
+    }
+  },
+  {
+    "id": "SID_強化無効・近距離1",
+    "game8_id": null,
+    "name": "Dull Close 1",
+    "group_name": "Dull Close",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/01/Dull_Close_1.png/revision/latest?cb=20180810071718",
+    "sp": 60,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "All Melee",
+          "All Breath",
+          "All Beast"
+        ]
+      }
+    }
+  },
+  {
+    "id": "SID_強化無効・近距離2",
+    "game8_id": null,
+    "name": "Dull Close 2",
+    "group_name": "Dull Close",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e9/Dull_Close_2.png/revision/latest?cb=20180810071720",
+    "sp": 120,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "All Melee",
+          "All Breath",
+          "All Beast"
+        ]
+      }
+    }
+  },
+  {
+    "id": "SID_強化無効・近距離3",
+    "game8_id": null,
+    "name": "Dull Close 3",
+    "group_name": "Dull Close",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b7/Dull_Close_3.png/revision/latest?cb=20180810071722",
+    "sp": 240,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "All Melee",
+          "All Breath",
+          "All Beast"
+        ]
       }
     }
   },

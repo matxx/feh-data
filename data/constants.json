@@ -2,7 +2,7 @@
   "skills_max_tier": 4,
   "skills_max_sp": 500,
   "skills_max_cd": 5,
-  "units_count": 1328,
+  "units_count": 1332,
   "units_max_hp": 60,
   "units_max_hp_ids": [
     "PID_アーダン"
@@ -26,6 +26,7 @@
     "PID_忍者ユナカ",
     "PID_比翼エリンシア",
     "PID_比翼グルヴェイグ2",
+    "PID_比翼バルドル",
     "PID_比翼フレイヤ",
     "PID_獣人リン",
     "PID_紋章カムイ女",

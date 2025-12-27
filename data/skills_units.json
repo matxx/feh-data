@@ -7446,6 +7446,102 @@
     "unlock": 5
   },
   {
+    "unit_id": "PID_比翼バルドル",
+    "skill_id": "SID_角逐",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_比翼バルドル",
+    "skill_id": "SID_竜穿",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_比翼バルドル",
+    "skill_id": "SID_伏竜",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_比翼バルドル",
+    "skill_id": "SID_編隊飛行1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_比翼バルドル",
+    "skill_id": "SID_編隊飛行2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_比翼バルドル",
+    "skill_id": "SID_編隊飛行3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_比翼バルドル",
+    "skill_id": "SID_天の女神姉妹の祭器",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_比翼バルドル",
+    "skill_id": "SID_天舞い立つ",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_比翼バルドル",
+    "skill_id": "SID_天に代わりて・近",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_比翼バルドル",
+    "skill_id": "SID_鉄の槍",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_比翼バルドル",
+    "skill_id": "SID_影助・引き戻し1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_比翼バルドル",
+    "skill_id": "SID_影助・引き戻し2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_比翼バルドル",
+    "skill_id": "SID_影助・引き戻し3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_比翼バルドル",
+    "skill_id": "SID_影助・引き戻し4",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_比翼バルドル",
+    "skill_id": "SID_銀の槍",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_比翼バルドル",
+    "skill_id": "SID_鋼の槍",
+    "default": 2,
+    "unlock": 2
+  },
+  {
     "unit_id": "PID_総選挙バルドル",
     "skill_id": "SID_角逐",
     "default": 0,
@@ -43024,6 +43120,102 @@
     "skill_id": "SID_シャイン",
     "default": 4,
     "unlock": 3
+  },
+  {
+    "unit_id": "PID_年明ヘイムダル",
+    "skill_id": "SID_すべて読めていた",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_年明ヘイムダル",
+    "skill_id": "SID_攻撃魔防の詠唱",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_年明ヘイムダル",
+    "skill_id": "SID_攻撃魔防の絆1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_年明ヘイムダル",
+    "skill_id": "SID_攻撃魔防の絆2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_年明ヘイムダル",
+    "skill_id": "SID_攻撃魔防の絆3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_年明ヘイムダル",
+    "skill_id": "SID_攻撃魔防の大開放1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_年明ヘイムダル",
+    "skill_id": "SID_攻撃魔防の大開放2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_年明ヘイムダル",
+    "skill_id": "SID_攻撃魔防の大開放3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_年明ヘイムダル",
+    "skill_id": "SID_攻撃魔防の解放",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_年明ヘイムダル",
+    "skill_id": "SID_氷点",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_年明ヘイムダル",
+    "skill_id": "SID_エルウインド",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_年明ヘイムダル",
+    "skill_id": "SID_氷華",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_年明ヘイムダル",
+    "skill_id": "SID_氷壁",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_年明ヘイムダル",
+    "skill_id": "SID_一年の計の扇子",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_年明ヘイムダル",
+    "skill_id": "SID_レクスカリバー",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_年明ヘイムダル",
+    "skill_id": "SID_ウインド",
+    "default": 1,
+    "unlock": 1
   },
   {
     "unit_id": "PID_ヘル味方",
@@ -93168,6 +93360,78 @@
     "unlock": 2
   },
   {
+    "unit_id": "PID_年明ザガロ",
+    "skill_id": "SID_攻撃速さの機先1",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_年明ザガロ",
+    "skill_id": "SID_攻撃速さの機先2",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_年明ザガロ",
+    "skill_id": "SID_攻撃速さの機先3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_年明ザガロ",
+    "skill_id": "SID_午年の弓",
+    "default": 3,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_年明ザガロ",
+    "skill_id": "SID_午年の弓＋",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_年明ザガロ",
+    "skill_id": "SID_鉄の弓",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_年明ザガロ",
+    "skill_id": "SID_引き戻し",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_年明ザガロ",
+    "skill_id": "SID_速さ守備の看破",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_年明ザガロ",
+    "skill_id": "SID_速さ守備の干渉1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_年明ザガロ",
+    "skill_id": "SID_速さ守備の干渉2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_年明ザガロ",
+    "skill_id": "SID_速さ守備の干渉3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_年明ザガロ",
+    "skill_id": "SID_鋼の弓",
+    "default": 2,
+    "unlock": 2
+  },
+  {
     "unit_id": "PID_冬祭セイズ",
     "skill_id": "SID_攻撃魔防の共感",
     "default": 0,
@@ -107080,6 +107344,114 @@
     "skill_id": "SID_復讐",
     "default": 0,
     "unlock": 4
+  },
+  {
+    "unit_id": "PID_年明ヴァーリ",
+    "skill_id": "SID_攻撃速さの詠唱",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_年明ヴァーリ",
+    "skill_id": "SID_攻撃速さの絆1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_年明ヴァーリ",
+    "skill_id": "SID_攻撃速さの絆2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_年明ヴァーリ",
+    "skill_id": "SID_攻撃速さの絆3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_年明ヴァーリ",
+    "skill_id": "SID_ボルガノン",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_年明ヴァーリ",
+    "skill_id": "SID_魔防の封印1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_年明ヴァーリ",
+    "skill_id": "SID_速さ魔防の封印1",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_年明ヴァーリ",
+    "skill_id": "SID_速さ魔防の封印2",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_年明ヴァーリ",
+    "skill_id": "SID_エルファイアー",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_年明ヴァーリ",
+    "skill_id": "SID_ファイアー",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_年明ヴァーリ",
+    "skill_id": "SID_お姉様は絶対無敵",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_年明ヴァーリ",
+    "skill_id": "SID_祈り",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_年明ヴァーリ",
+    "skill_id": "SID_愛しき姉の羽子板",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_年明ヴァーリ",
+    "skill_id": "SID_速さ魔防の枷",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_年明ヴァーリ",
+    "skill_id": "SID_攻撃速さの紋章1",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_年明ヴァーリ",
+    "skill_id": "SID_攻撃速さの紋章2",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_年明ヴァーリ",
+    "skill_id": "SID_速さの紋章1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_年明ヴァーリ",
+    "skill_id": "SID_攻速十紋章・治癒",
+    "default": 0,
+    "unlock": 5
   },
   {
     "unit_id": "PID_ヴァーリ味方",

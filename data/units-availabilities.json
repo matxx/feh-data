@@ -2860,6 +2860,39 @@
     "divine_codes": {}
   },
   {
+    "id": "PID_比翼バルドル",
+    "is_in": {
+      "gsp": false,
+      "ssp": true,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {
+      "ssp": 5
+    },
+    "skill_ids": [
+      "SID_伏竜",
+      "SID_天に代わりて・近",
+      "SID_天の女神姉妹の祭器",
+      "SID_天舞い立つ",
+      "SID_影助・引き戻し1",
+      "SID_影助・引き戻し2",
+      "SID_影助・引き戻し3",
+      "SID_影助・引き戻し4",
+      "SID_竜穿",
+      "SID_編隊飛行1",
+      "SID_編隊飛行2",
+      "SID_編隊飛行3",
+      "SID_角逐",
+      "SID_鉄の槍",
+      "SID_銀の槍",
+      "SID_鋼の槍"
+    ],
+    "divine_codes": {}
+  },
+  {
     "id": "PID_総選挙バルドル",
     "is_in": {
       "gsp": true,
@@ -17633,6 +17666,39 @@
       "SID_魔防の鼓舞1",
       "SID_魔防の鼓舞2",
       "SID_魔防の鼓舞3"
+    ],
+    "divine_codes": {}
+  },
+  {
+    "id": "PID_年明ヘイムダル",
+    "is_in": {
+      "gsp": false,
+      "ssp": true,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {
+      "ssp": 5
+    },
+    "skill_ids": [
+      "SID_すべて読めていた",
+      "SID_ウインド",
+      "SID_エルウインド",
+      "SID_レクスカリバー",
+      "SID_一年の計の扇子",
+      "SID_攻撃魔防の大開放1",
+      "SID_攻撃魔防の大開放2",
+      "SID_攻撃魔防の大開放3",
+      "SID_攻撃魔防の絆1",
+      "SID_攻撃魔防の絆2",
+      "SID_攻撃魔防の絆3",
+      "SID_攻撃魔防の解放",
+      "SID_攻撃魔防の詠唱",
+      "SID_氷壁",
+      "SID_氷点",
+      "SID_氷華"
     ],
     "divine_codes": {}
   },
@@ -39076,6 +39142,35 @@
     "divine_codes": {}
   },
   {
+    "id": "PID_年明ザガロ",
+    "is_in": {
+      "gsp": false,
+      "ssp": true,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {
+      "ssp": 4
+    },
+    "skill_ids": [
+      "SID_午年の弓",
+      "SID_午年の弓＋",
+      "SID_引き戻し",
+      "SID_攻撃速さの機先1",
+      "SID_攻撃速さの機先2",
+      "SID_攻撃速さの機先3",
+      "SID_速さ守備の干渉1",
+      "SID_速さ守備の干渉2",
+      "SID_速さ守備の干渉3",
+      "SID_速さ守備の看破",
+      "SID_鉄の弓",
+      "SID_鋼の弓"
+    ],
+    "divine_codes": {}
+  },
+  {
     "id": "PID_冬祭セイズ",
     "is_in": {
       "gsp": false,
@@ -45058,6 +45153,41 @@
         }
       ]
     }
+  },
+  {
+    "id": "PID_年明ヴァーリ",
+    "is_in": {
+      "gsp": false,
+      "ssp": true,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {
+      "ssp": 5
+    },
+    "skill_ids": [
+      "SID_お姉様は絶対無敵",
+      "SID_エルファイアー",
+      "SID_ファイアー",
+      "SID_ボルガノン",
+      "SID_愛しき姉の羽子板",
+      "SID_攻撃速さの紋章1",
+      "SID_攻撃速さの紋章2",
+      "SID_攻撃速さの絆1",
+      "SID_攻撃速さの絆2",
+      "SID_攻撃速さの絆3",
+      "SID_攻撃速さの詠唱",
+      "SID_攻速十紋章・治癒",
+      "SID_祈り",
+      "SID_速さの紋章1",
+      "SID_速さ魔防の封印1",
+      "SID_速さ魔防の封印2",
+      "SID_速さ魔防の枷",
+      "SID_魔防の封印1"
+    ],
+    "divine_codes": {}
   },
   {
     "id": "PID_ヴァーリ味方",

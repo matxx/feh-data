@@ -1840,6 +1840,18 @@
     "description": "If Sing or Dance is used, grants Atk+4 to target."
   },
   {
+    "id": "SID_蒼穹1",
+    "description": "If unit initiates combat or is within 2 spaces of an ally, grants Atk/Spd+2 to unit, unit deals +X damage (excluding area-of-effect Specials), and reduces damage from foe's first attack by X during combat (X = number of allies within 3 rows or 3 columns centered on unit; max 2; \"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes)."
+  },
+  {
+    "id": "SID_蒼穹2",
+    "description": "If unit initiates combat or is within 2 spaces of an ally, grants Atk/Spd+4 to unit, unit deals +X damage (excluding area-of-effect Specials), and reduces damage from foe's first attack by X during combat (X = number of allies within 3 rows or 3 columns centered on unit × 2; max 4; \"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes)."
+  },
+  {
+    "id": "SID_蒼穹3",
+    "description": "If unit initiates combat or is within 2 spaces of an ally, grants Atk/Spd+6 to unit, unit deals +X damage (excluding area-of-effect Specials), and reduces damage from foe's first attack by X during combat (X = number of allies within 3 rows or 3 columns centered on unit × 2; max 6; \"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes)."
+  },
+  {
     "id": "SID_攻撃隊形1",
     "description": "If unit's HP = 100% and unit initiates combat, grants Special cooldown charge +1 per unit's attack, and unit makes a guaranteed follow-up attack. (Does not stack.)"
   },
@@ -2438,6 +2450,18 @@
   {
     "id": "SID_速さの大紋章2",
     "description": "Grants Spd+3 to allies within 2 spaces during combat."
+  },
+  {
+    "id": "SID_強化無効・近距離1",
+    "description": "At start of combat, if unit's HP = 100% and foe uses sword, lance, axe, dragonstone, or beast damage, neutralizes foe's bonuses (from skills like Fortify, Rally, etc.) during combat."
+  },
+  {
+    "id": "SID_強化無効・近距離2",
+    "description": "At start of combat, if unit's HP ≥ 50% and foe uses sword, lance, axe, dragonstone, or beast damage, neutralizes foe's bonuses (from skills like Fortify, Rally, etc.) during combat."
+  },
+  {
+    "id": "SID_強化無効・近距離3",
+    "description": "If foe uses sword, lance, axe, dragonstone, or beast damage, neutralizes foe's bonuses (from skills like Fortify, Rally, etc.) during combat."
   },
   {
     "id": "SID_生命の大地1",

@@ -917,6 +917,23 @@
     ]
   },
   {
+    "name": "Emblem Edelgard: Of Rivals",
+    "unit_ids": [
+      "PID_クワシル味方",
+      "PID_フレスベルグ味方",
+      "PID_伝承シェズ男",
+      "PID_伝承ディアマンド",
+      "PID_伝承リュール男",
+      "PID_神階ロキ",
+      "PID_紋章エーデル",
+      "PID_紋章セリカ",
+      "PID_紋章マルス",
+      "PID_紋章ミカヤ",
+      "PID_紋章リン",
+      "PID_魔器ヒノカ"
+    ]
+  },
+  {
     "name": "Emblem Eirika: Of the Sacred",
     "unit_ids": [
       "PID_伝承ギネヴィア",
@@ -3905,6 +3922,14 @@
       "PID_ルキノ",
       "PID_開花イシュタル",
       "PID_開花セリカ"
+    ]
+  },
+  {
+    "name": "Focus: Heroes with Life and Death (Dec 2025)",
+    "unit_ids": [
+      "PID_ニザヴェリル味方",
+      "PID_ルキノ",
+      "PID_闇ウルスラ"
     ]
   },
   {
@@ -7130,6 +7155,14 @@
       "PID_カアラ",
       "PID_ベルナデッタ",
       "PID_ミネルバ"
+    ]
+  },
+  {
+    "name": "Focus: Tempest Trials (Unveil the Future)",
+    "unit_ids": [
+      "PID_ウルフ",
+      "PID_ビラク",
+      "PID_ロシェ"
     ]
   },
   {
@@ -10651,6 +10684,15 @@
     ]
   },
   {
+    "name": "Mortal's New Year (Focus)",
+    "unit_ids": [
+      "PID_年明ザガロ",
+      "PID_年明ヘイムダル",
+      "PID_年明ヴァーリ",
+      "PID_比翼バルドル"
+    ]
+  },
+  {
     "name": "Mythic Hero - Bramimond",
     "unit_ids": [
       "PID_まもり",
@@ -12023,7 +12065,7 @@
     ]
   },
   {
-    "name": "New Year: ω Special Heroes 1",
+    "name": "New Year: ω Special Heroes 1 (2024)",
     "unit_ids": [
       "PID_年明アシュ",
       "PID_年明エルム",
@@ -12046,6 +12088,19 @@
       "PID_年明ベルベット",
       "PID_比翼アスク",
       "PID_比翼セイズ"
+    ]
+  },
+  {
+    "name": "New Year: ω Special Heroes 1 (2026)",
+    "unit_ids": [
+      "PID_年明カンナ男",
+      "PID_年明クワシル",
+      "PID_年明ターナ",
+      "PID_年明ニーズヘッグ",
+      "PID_年明ネルトゥス",
+      "PID_年明フレスベルグ",
+      "PID_比翼セイズ",
+      "PID_比翼ヘイズルーン"
     ]
   },
   {
@@ -13046,6 +13101,19 @@
       "PID_冬祭マヌエラ",
       "PID_冬祭ルピナス",
       "PID_双界リシテア"
+    ]
+  },
+  {
+    "name": "Winter Festival: ω Special Heroes (2025)",
+    "unit_ids": [
+      "PID_冬祭エーデルガルト",
+      "PID_冬祭オルテンシア",
+      "PID_冬祭シェズ女",
+      "PID_冬祭ディミトリ",
+      "PID_冬祭フォデス",
+      "PID_冬祭ユナカ",
+      "PID_比翼ベレト",
+      "PID_比翼リュール男"
     ]
   },
   {
