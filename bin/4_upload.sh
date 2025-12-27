@@ -13,12 +13,10 @@ hash = `git rev-parse HEAD`.strip
 bucket_name = ENV.fetch('FEH_S3_BUCKET_NAME')
 tm = Aws::S3::TransferManager.new
 Dir['data/*.json'].each do |filename|
-  tm.upload_file(
-    filename,
-    bucket: bucket_name,
-    key: "commits/#{hash}/#{filename.gsub(%r{\Adata/}, '')}",
-    content_type: 'application/json',
-  )
+  key = "commits/#{hash}/#{filename.gsub(%r{\Adata/}, '')}"
+  tm.upload_stream(bucket: bucket_name, key:, content_type: 'application/json') do |write_stream|
+    write_stream << JSON.dump(JSON.parse(File.read(filename)))
+  end
 end
 
 puts hash
