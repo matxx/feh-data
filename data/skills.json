@@ -11901,7 +11901,9 @@
           "Cavalry"
         ]
       },
-      "weapons": null
+      "weapons": {
+        "none": true
+      }
     },
     "addition_date": "2025-12-26",
     "release_date": "2026-01-01",
@@ -66786,7 +66788,9 @@
       "moves": {
         "none": true
       },
-      "weapons": null
+      "weapons": {
+        "none": true
+      }
     },
     "addition_date": "2025-12-26",
     "release_date": "2026-01-01",
@@ -135885,7 +135889,9 @@
           "Flying"
         ]
       },
-      "weapons": null
+      "weapons": {
+        "none": true
+      }
     },
     "addition_date": "2025-12-26",
     "release_date": "2026-01-01",
