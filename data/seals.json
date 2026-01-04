@@ -19,22 +19,6 @@
     }
   },
   {
-    "id": "SID_時を彷徨う者・青",
-    "name": "B Time Traveler",
-    "group_name": "B Time Traveler",
-    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/9e/B_Time_Traveler.png/revision/latest?cb=20230508080514",
-    "sp": 0,
-    "tier": 1,
-    "restrictions": {
-      "moves": {
-        "none": true
-      },
-      "weapons": {
-        "none": true
-      }
-    }
-  },
-  {
     "id": "SID_絶対化身",
     "game8_id": "458167",
     "name": "Beast",
@@ -50,70 +34,6 @@
         "can_use": [
           "All Beast"
         ]
-      }
-    }
-  },
-  {
-    "id": "SID_盗賊の偶像・奥義",
-    "name": "Blade Seal",
-    "group_name": "Blade Seal",
-    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/37/Blade_Seal.png/revision/latest?cb=20200618174257",
-    "sp": 0,
-    "tier": 1,
-    "restrictions": {
-      "moves": {
-        "none": true
-      },
-      "weapons": {
-        "none": true
-      }
-    }
-  },
-  {
-    "id": "SID_盗賊の偶像・行軍",
-    "name": "Boots Seal",
-    "group_name": "Boots Seal",
-    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c0/Boots_Seal.png/revision/latest?cb=20200618174611",
-    "sp": 0,
-    "tier": 1,
-    "restrictions": {
-      "moves": {
-        "none": true
-      },
-      "weapons": {
-        "none": true
-      }
-    }
-  },
-  {
-    "id": "SID_時を彷徨う者・無",
-    "name": "C Time Traveler",
-    "group_name": "C Time Traveler",
-    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/fb/C_Time_Traveler.png/revision/latest?cb=20230508080535",
-    "sp": 0,
-    "tier": 1,
-    "restrictions": {
-      "moves": {
-        "none": true
-      },
-      "weapons": {
-        "none": true
-      }
-    }
-  },
-  {
-    "id": "SID_盗賊の偶像・落雷",
-    "name": "Charm Seal",
-    "group_name": "Charm Seal",
-    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f9/Charm_Seal.png/revision/latest?cb=20200618175144",
-    "sp": 0,
-    "tier": 1,
-    "restrictions": {
-      "moves": {
-        "none": true
-      },
-      "weapons": {
-        "none": true
       }
     }
   },
@@ -351,105 +271,6 @@
     }
   },
   {
-    "id": "SID_盗賊の偶像・薬",
-    "name": "Elixir Seal",
-    "group_name": "Elixir Seal",
-    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e0/Elixir_Seal.png/revision/latest?cb=20200618173809",
-    "sp": 0,
-    "tier": 1,
-    "restrictions": {
-      "moves": {
-        "none": true
-      },
-      "weapons": {
-        "none": true
-      }
-    }
-  },
-  {
-    "id": "SID_エンブラの加護",
-    "name": "Embla's Ward",
-    "group_name": "Embla's Ward",
-    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/a6/Emblas_Ward.png/revision/latest?cb=20180810071740",
-    "sp": 0,
-    "tier": 1,
-    "restrictions": {
-      "moves": {
-        "none": true
-      },
-      "weapons": {
-        "none": true
-      }
-    }
-  },
-  {
-    "id": "SID_時を彷徨う者・緑",
-    "name": "G Time Traveler",
-    "group_name": "G Time Traveler",
-    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/3d/G_Time_Traveler.png/revision/latest?cb=20230508080525",
-    "sp": 0,
-    "tier": 1,
-    "restrictions": {
-      "moves": {
-        "none": true
-      },
-      "weapons": {
-        "none": true
-      }
-    }
-  },
-  {
-    "id": "SID_完全なる黄金",
-    "name": "Gold Perfection",
-    "group_name": "Gold Perfection",
-    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f1/Gold_Perfection.png/revision/latest?cb=20230317062249",
-    "sp": 0,
-    "tier": 1,
-    "restrictions": {
-      "moves": {
-        "none": true
-      },
-      "weapons": {
-        "none": true
-      }
-    }
-  },
-  {
-    "id": "SID_戦士の偶像",
-    "name": "Guardian Seal",
-    "group_name": "Guardian Seal",
-    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d2/Guardian_Seal.png/revision/latest?cb=20200618175422",
-    "sp": 0,
-    "tier": 1,
-    "restrictions": {
-      "moves": {
-        "none": true
-      },
-      "weapons": {
-        "none": true
-      }
-    }
-  },
-  {
-    "id": "SID_グリンブルスティ",
-    "name": "Gullinbursti",
-    "group_name": "Gullinbursti",
-    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c6/Gullinbursti.png/revision/latest?cb=20210608115851",
-    "sp": 0,
-    "tier": 1,
-    "restrictions": {
-      "moves": {
-        "can_use": [
-          "Cavalry",
-          "Flying"
-        ]
-      },
-      "weapons": {
-        "none": true
-      }
-    }
-  },
-  {
     "id": "SID_不動の姿勢1",
     "name": "Hardy Bearing 1",
     "group_name": "Hardy Bearing",
@@ -509,22 +330,6 @@
     "downgrade_ids": [
       "SID_不動の姿勢2"
     ]
-  },
-  {
-    "id": "SID_盗賊の偶像・鼓舞",
-    "name": "Horn Seal",
-    "group_name": "Horn Seal",
-    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/30/Horn_Seal.png/revision/latest?cb=20200618174033",
-    "sp": 0,
-    "tier": 1,
-    "restrictions": {
-      "moves": {
-        "none": true
-      },
-      "weapons": {
-        "none": true
-      }
-    }
   },
   {
     "id": "SID_鍛錬の証_攻撃1",
@@ -827,54 +632,6 @@
     ]
   },
   {
-    "id": "SID_ムスペルの炎",
-    "name": "Múspellflame",
-    "group_name": "Múspellflame",
-    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/2/21/Muspellflame.png/revision/latest?cb=20180810072140",
-    "sp": 0,
-    "tier": 1,
-    "restrictions": {
-      "moves": {
-        "none": true
-      },
-      "weapons": {
-        "none": true
-      }
-    }
-  },
-  {
-    "id": "SID_ニザヴェリルの理",
-    "name": "Niðavellir Axiom",
-    "group_name": "Niðavellir Axiom",
-    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/81/Nidavellir_Axiom.png/revision/latest?cb=20210107010236",
-    "sp": 0,
-    "tier": 1,
-    "restrictions": {
-      "moves": {
-        "none": true
-      },
-      "weapons": {
-        "none": true
-      }
-    }
-  },
-  {
-    "id": "SID_九の世界の誓約",
-    "name": "Nine-Realm Pact",
-    "group_name": "Nine-Realm Pact",
-    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/59/Nine-Realm_Pact.png/revision/latest?cb=20241214034117",
-    "sp": 0,
-    "tier": 1,
-    "restrictions": {
-      "moves": {
-        "none": true
-      },
-      "weapons": {
-        "none": true
-      }
-    }
-  },
-  {
     "id": "SID_魔防の虚勢1",
     "name": "Phantom Res 1",
     "group_name": "Phantom Res",
@@ -1003,38 +760,6 @@
     "group_name": "Quickened Pulse",
     "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/62/Quickened_Pulse.png/revision/latest?cb=20180810072238",
     "sp": 100,
-    "tier": 1,
-    "restrictions": {
-      "moves": {
-        "none": true
-      },
-      "weapons": {
-        "none": true
-      }
-    }
-  },
-  {
-    "id": "SID_時を彷徨う者・赤",
-    "name": "R Time Traveler",
-    "group_name": "R Time Traveler",
-    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d2/R_Time_Traveler.png/revision/latest?cb=20230508080504",
-    "sp": 0,
-    "tier": 1,
-    "restrictions": {
-      "moves": {
-        "none": true
-      },
-      "weapons": {
-        "none": true
-      }
-    }
-  },
-  {
-    "id": "SID_巨影",
-    "name": "Røkkr",
-    "group_name": "Røkkr",
-    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/76/Rokkr.png/revision/latest?cb=20190610065022",
-    "sp": 0,
     "tier": 1,
     "restrictions": {
       "moves": {
@@ -6249,22 +5974,6 @@
     "downgrade_ids": [
       "SID_第26迷宮の覇者2"
     ]
-  },
-  {
-    "id": "SID_盗賊の偶像・踊り",
-    "name": "Veil Seal",
-    "group_name": "Veil Seal",
-    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/3a/Veil_Seal.png/revision/latest?cb=20200618174913",
-    "sp": 0,
-    "tier": 1,
-    "restrictions": {
-      "moves": {
-        "none": true
-      },
-      "weapons": {
-        "none": true
-      }
-    }
   },
   {
     "id": "SID_曲技飛行1",
