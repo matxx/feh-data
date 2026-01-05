@@ -2357,6 +2357,8 @@
     "addition_date": "2025-12-26",
     "release_date": "2026-01-01",
     "version": "10.0",
+    "game8_id": "572722",
+    "game8_name": "New Year Baldr",
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/89/Baldr_New_Years_Elite_Face_FC.webp/revision/latest?cb=20251226072009",
     "bst": 200,
     "duel_score": 220,
@@ -2416,7 +2418,7 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/30/Balthus_King_of_Grappling_Face_FC.webp/revision/latest?cb=20210917064528",
     "bst": 181,
     "visible_bst": 185,
-    "max_score": 760
+    "max_score": 762
   },
   {
     "id": "PID_水着バルタザール",
@@ -11683,6 +11685,30 @@
     "max_score": 766
   },
   {
+    "id": "PID_フランツ",
+    "name": "Franz",
+    "title": "The Faithful",
+    "full_name": "Franz: The Faithful",
+    "abbreviated_name": "Franz",
+    "gender": "M",
+    "move_type": "Cavalry",
+    "weapon_type": "Blue Lance",
+    "games": [
+      "Fire Emblem: The Sacred Stones"
+    ],
+    "id_int": 1335,
+    "origin": "070000100600",
+    "book": 10,
+    "max_df": 5,
+    "addition_date": "2026-01-05",
+    "release_date": "2026-01-06",
+    "version": "10.0",
+    "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/5f/Franz_The_Faithful_Face_FC.webp/revision/latest?cb=20260105135107",
+    "bst": 195,
+    "visible_bst": 199,
+    "max_score": 764
+  },
+  {
     "id": "PID_水着フレデリク",
     "name": "Frederick",
     "title": "Horizon Watcher",
@@ -12100,6 +12126,31 @@
     "bst": 166,
     "visible_bst": 180,
     "max_score": 758
+  },
+  {
+    "id": "PID_ガルシア",
+    "name": "Garcia",
+    "title": "Warrior Reborn",
+    "full_name": "Garcia: Warrior Reborn",
+    "abbreviated_name": "Garcia",
+    "gender": "M",
+    "move_type": "Infantry",
+    "weapon_type": "Green Axe",
+    "games": [
+      "Fire Emblem: The Sacred Stones"
+    ],
+    "id_int": 1337,
+    "origin": "070000102490",
+    "book": 10,
+    "max_df": 5,
+    "is_ghb": true,
+    "addition_date": "2026-01-05",
+    "release_date": "2026-01-07",
+    "version": "10.0",
+    "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b8/Garcia_Warrior_Reborn_Face_FC.webp/revision/latest?cb=20260105135344",
+    "bst": 204,
+    "visible_bst": 208,
+    "max_score": 768
   },
   {
     "id": "PID_ガロン",
@@ -12538,7 +12589,7 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/fc/Gonzalez_Kindly_Bandit_Face_FC.webp/revision/latest?cb=20220218063822",
     "bst": 181,
     "visible_bst": 185,
-    "max_score": 760
+    "max_score": 762
   },
   {
     "id": "PID_ゴードン",
@@ -14073,6 +14124,8 @@
     "addition_date": "2025-12-26",
     "release_date": "2026-01-01",
     "version": "10.0",
+    "game8_id": "572719",
+    "game8_name": "New Year Heimdallr",
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/61/Heimdallr_New_Years_Vision_Face_FC.webp/revision/latest?cb=20251226072119",
     "bst": 185,
     "visible_bst": 189,
@@ -18005,6 +18058,31 @@
     "max_score": 756
   },
   {
+    "id": "PID_魔器ラーチェル",
+    "name": "L'Arachel",
+    "title": "Justice-Armed",
+    "full_name": "L'Arachel: Justice-Armed",
+    "abbreviated_name": "R!L'Arachel",
+    "gender": "F",
+    "move_type": "Cavalry",
+    "weapon_type": "Colorless Staff",
+    "games": [
+      "Fire Emblem: The Sacred Stones"
+    ],
+    "id_int": 1333,
+    "origin": "070000500100",
+    "book": 10,
+    "max_df": 5,
+    "is_rearmed": true,
+    "addition_date": "2026-01-05",
+    "release_date": "2026-01-06",
+    "version": "10.0",
+    "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/a1/LArachel_Justice-Armed_Face_FC.webp/revision/latest?cb=20260105134839",
+    "bst": 185,
+    "visible_bst": 189,
+    "max_score": 758
+  },
+  {
     "id": "PID_ラーチェル",
     "name": "L'Arachel",
     "title": "Princess of Light",
@@ -21130,6 +21208,31 @@
     "max_score": 766
   },
   {
+    "id": "PID_お供ルーテ",
+    "name": "Lute",
+    "title": "Limitless Curiosity",
+    "full_name": "Lute: Limitless Curiosity",
+    "abbreviated_name": "Ai!Lute",
+    "gender": "F",
+    "move_type": "Infantry",
+    "weapon_type": "Red Tome",
+    "games": [
+      "Fire Emblem: The Sacred Stones"
+    ],
+    "id_int": 1334,
+    "origin": "070000102100",
+    "book": 10,
+    "max_df": 5,
+    "is_aided": true,
+    "addition_date": "2026-01-05",
+    "release_date": "2026-01-06",
+    "version": "10.0",
+    "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/12/Lute_Limitless_Curiosity_Face_FC.webp/revision/latest?cb=20260105134954",
+    "bst": 193,
+    "visible_bst": 197,
+    "max_score": 764
+  },
+  {
     "id": "PID_ルーテ",
     "name": "Lute",
     "title": "Prodigy",
@@ -21794,6 +21897,7 @@
     "origin": "120000400500",
     "book": 4,
     "max_df": 30,
+    "has_respl": true,
     "is_brave": true,
     "is_generic_pool": true,
     "addition_date": "2020-08-18",
@@ -24259,6 +24363,30 @@
     "bst": 150,
     "visible_bst": 180,
     "max_score": 758
+  },
+  {
+    "id": "PID_ムルヴァ",
+    "name": "Morva",
+    "title": "Darkling Warden",
+    "full_name": "Morva: Darkling Warden",
+    "abbreviated_name": "Morva",
+    "gender": "M",
+    "move_type": "Flying",
+    "weapon_type": "Green Breath",
+    "games": [
+      "Fire Emblem: The Sacred Stones"
+    ],
+    "id_int": 1336,
+    "origin": "070000700050",
+    "book": 10,
+    "max_df": 5,
+    "addition_date": "2026-01-05",
+    "release_date": "2026-01-06",
+    "version": "10.0",
+    "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/ec/Morva_Darkling_Warden_Face_FC.webp/revision/latest?cb=20260105135221",
+    "bst": 200,
+    "visible_bst": 204,
+    "max_score": 768
   },
   {
     "id": "PID_モズメ",
@@ -30763,6 +30891,8 @@
     "addition_date": "2025-12-26",
     "release_date": "2026-01-01",
     "version": "10.0",
+    "game8_id": "572721",
+    "game8_name": "New Year Sedgar",
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/17/Sedgar_Festive_Horseman_Face_FC.webp/revision/latest?cb=20251226072154",
     "bst": 190,
     "visible_bst": 194,
@@ -35375,6 +35505,8 @@
     "addition_date": "2025-12-26",
     "release_date": "2026-01-01",
     "version": "10.0",
+    "game8_id": "572720",
+    "game8_name": "New Year Váli",
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/54/Vali_Devoted_Sister_Face_FC.webp/revision/latest?cb=20251226072044",
     "bst": 189,
     "visible_bst": 193,

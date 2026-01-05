@@ -5485,6 +5485,15 @@
     ]
   },
   {
+    "name": "Focus: New Power (Jan 2026)",
+    "unit_ids": [
+      "PID_ウルフ",
+      "PID_ニフル味方",
+      "PID_バルタザール",
+      "PID_春祭セレナ"
+    ]
+  },
+  {
     "name": "Focus: New Power (Jul 2018)",
     "unit_ids": [
       "PID_カタリナ",
@@ -12227,6 +12236,15 @@
       "PID_幼少カミラ",
       "PID_幼少レオン",
       "PID_比翼カムイ男"
+    ]
+  },
+  {
+    "name": "Rea. L'Arachel & Aided Lute",
+    "unit_ids": [
+      "PID_お供ルーテ",
+      "PID_フランツ",
+      "PID_ムルヴァ",
+      "PID_魔器ラーチェル"
     ]
   },
   {

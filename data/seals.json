@@ -4577,6 +4577,57 @@
     ]
   },
   {
+    "id": "SID_第102迷宮の覇者1",
+    "name": "Squad Ace CX 1",
+    "group_name": "Squad Ace CX",
+    "sp": 120,
+    "tier": 1,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": null
+    },
+    "upgrade_ids": [
+      "SID_第102迷宮の覇者2"
+    ]
+  },
+  {
+    "id": "SID_第102迷宮の覇者2",
+    "name": "Squad Ace CX 2",
+    "group_name": "Squad Ace CX",
+    "sp": 180,
+    "tier": 2,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": null
+    },
+    "upgrade_ids": [
+      "SID_第102迷宮の覇者3"
+    ],
+    "downgrade_ids": [
+      "SID_第102迷宮の覇者1"
+    ]
+  },
+  {
+    "id": "SID_第102迷宮の覇者3",
+    "name": "Squad Ace CX 3",
+    "group_name": "Squad Ace CX",
+    "sp": 240,
+    "tier": 3,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": null
+    },
+    "downgrade_ids": [
+      "SID_第102迷宮の覇者2"
+    ]
+  },
+  {
     "id": "SID_第4迷宮の覇者1",
     "name": "Squad Ace D 1",
     "group_name": "Squad Ace D",

@@ -7681,6 +7681,12 @@
   },
   {
     "unit_id": "PID_バルタザール",
+    "skill_id": "SID_格闘王の斧",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_バルタザール",
     "skill_id": "SID_華炎",
     "default": 0,
     "unlock": 4
@@ -35551,6 +35557,12 @@
   },
   {
     "unit_id": "PID_神階フォデス",
+    "skill_id": "SID_強襲隊形",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_神階フォデス",
     "skill_id": "SID_絶対化身・追撃1",
     "default": 0,
     "unlock": 3
@@ -35569,6 +35581,24 @@
   },
   {
     "unit_id": "PID_神階フォデス",
+    "skill_id": "SID_攻撃隊形1",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_神階フォデス",
+    "skill_id": "SID_攻撃隊形2",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_神階フォデス",
+    "skill_id": "SID_攻撃隊形3",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_神階フォデス",
     "skill_id": "SID_緋炎",
     "default": 0,
     "unlock": 4
@@ -35582,6 +35612,12 @@
   {
     "unit_id": "PID_神階フォデス",
     "skill_id": "SID_漆黒の悪夢",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_神階フォデス",
+    "skill_id": "SID_漆黒の悪夢・神",
     "default": 0,
     "unlock": 5
   },
@@ -35980,6 +36016,72 @@
     "skill_id": "SID_生命の疾風3",
     "default": 0,
     "unlock": 4
+  },
+  {
+    "unit_id": "PID_フランツ",
+    "skill_id": "SID_怒涛・再起1",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_フランツ",
+    "skill_id": "SID_怒涛・再起2",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_フランツ",
+    "skill_id": "SID_怒涛・再起3",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_フランツ",
+    "skill_id": "SID_鉄の槍",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_フランツ",
+    "skill_id": "SID_混戦の槍",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_フランツ",
+    "skill_id": "SID_混戦の槍＋",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_フランツ",
+    "skill_id": "SID_攻撃速さの奮起1",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_フランツ",
+    "skill_id": "SID_攻撃速さの奮起2",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_フランツ",
+    "skill_id": "SID_攻撃速さの奮起3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_フランツ",
+    "skill_id": "SID_鋼の槍",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_フランツ",
+    "skill_id": "SID_入れ替え",
+    "default": 4,
+    "unlock": 3
   },
   {
     "unit_id": "PID_水着フレデリク",
@@ -37196,6 +37298,78 @@
   {
     "unit_id": "PID_ギャンレル",
     "skill_id": "SID_鋼の暗器",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_ガルシア",
+    "skill_id": "SID_攻撃守備の秘奥1",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_ガルシア",
+    "skill_id": "SID_攻撃守備の秘奥2",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_ガルシア",
+    "skill_id": "SID_攻撃守備の秘奥3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_ガルシア",
+    "skill_id": "SID_攻撃守備の拍節1",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_ガルシア",
+    "skill_id": "SID_攻撃守備の拍節2",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_ガルシア",
+    "skill_id": "SID_攻撃守備の拍節3",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_ガルシア",
+    "skill_id": "SID_蛍火",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_ガルシア",
+    "skill_id": "SID_魔刃の斧",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_ガルシア",
+    "skill_id": "SID_魔刃の斧＋",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_ガルシア",
+    "skill_id": "SID_華炎",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_ガルシア",
+    "skill_id": "SID_鉄の斧",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_ガルシア",
+    "skill_id": "SID_鋼の斧",
     "default": 2,
     "unlock": 2
   },
@@ -38476,6 +38650,12 @@
     "skill_id": "SID_鋼の槍",
     "default": 2,
     "unlock": 2
+  },
+  {
+    "unit_id": "PID_ゴンザレス",
+    "skill_id": "SID_優しき者の斧",
+    "default": 0,
+    "unlock": 5
   },
   {
     "unit_id": "PID_ゴンザレス",
@@ -54882,6 +55062,114 @@
     "unlock": 1
   },
   {
+    "unit_id": "PID_魔器ラーチェル",
+    "skill_id": "SID_魔器・聖杖ラトナ",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_魔器ラーチェル",
+    "skill_id": "SID_攻速鼓舞・強襲",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_魔器ラーチェル",
+    "skill_id": "SID_アサルト",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_魔器ラーチェル",
+    "skill_id": "SID_ライブ",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_魔器ラーチェル",
+    "skill_id": "SID_恐慌の聖光",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_魔器ラーチェル",
+    "skill_id": "SID_攻撃の鼓舞1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_魔器ラーチェル",
+    "skill_id": "SID_攻撃の鼓舞2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_魔器ラーチェル",
+    "skill_id": "SID_攻撃の鼓舞3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_魔器ラーチェル",
+    "skill_id": "SID_アイスロック",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_魔器ラーチェル",
+    "skill_id": "SID_アイスロック＋",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_魔器ラーチェル",
+    "skill_id": "SID_治癒",
+    "default": 4,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_魔器ラーチェル",
+    "skill_id": "SID_ご奉仕の喜び1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_魔器ラーチェル",
+    "skill_id": "SID_ご奉仕の喜び2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_魔器ラーチェル",
+    "skill_id": "SID_ご奉仕の喜び3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_魔器ラーチェル",
+    "skill_id": "SID_リライブ",
+    "default": 3,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_魔器ラーチェル",
+    "skill_id": "SID_祈り",
+    "default": 5,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_魔器ラーチェル",
+    "skill_id": "SID_麗しの絶世美王女",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_魔器ラーチェル",
+    "skill_id": "SID_激励・初撃の鼓動",
+    "default": 0,
+    "unlock": 5
+  },
+  {
     "unit_id": "PID_ラーチェル",
     "skill_id": "SID_エルライト",
     "default": 3,
@@ -64432,6 +64720,102 @@
     "skill_id": "SID_魔防の応援",
     "default": 4,
     "unlock": 3
+  },
+  {
+    "unit_id": "PID_お供ルーテ",
+    "skill_id": "SID_秘奥・攻魔凪",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_お供ルーテ",
+    "skill_id": "SID_流星",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_お供ルーテ",
+    "skill_id": "SID_ボルガノン",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_お供ルーテ",
+    "skill_id": "SID_彗星",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_お供ルーテ",
+    "skill_id": "SID_エルファイアー",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_お供ルーテ",
+    "skill_id": "SID_ファイアー",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_お供ルーテ",
+    "skill_id": "SID_攻撃魔防の凪1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_お供ルーテ",
+    "skill_id": "SID_攻撃魔防の凪2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_お供ルーテ",
+    "skill_id": "SID_攻撃魔防の凪3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_お供ルーテ",
+    "skill_id": "SID_星影",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_お供ルーテ",
+    "skill_id": "SID_初撃の鼓動・謀策",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_お供ルーテ",
+    "skill_id": "SID_私、優秀ですから",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_お供ルーテ",
+    "skill_id": "SID_始まりの鼓動1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_お供ルーテ",
+    "skill_id": "SID_始まりの鼓動2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_お供ルーテ",
+    "skill_id": "SID_始まりの鼓動3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_お供ルーテ",
+    "skill_id": "SID_稀代の天才の書",
+    "default": 5,
+    "unlock": 5
   },
   {
     "unit_id": "PID_ルーテ",
@@ -74014,6 +74398,96 @@
     "skill_id": "SID_明鏡の構え1",
     "default": 0,
     "unlock": 3
+  },
+  {
+    "unit_id": "PID_ムルヴァ",
+    "skill_id": "SID_攻魔大牽制・導き手",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_ムルヴァ",
+    "skill_id": "SID_攻撃魔防の牽制1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_ムルヴァ",
+    "skill_id": "SID_攻撃魔防の牽制2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_ムルヴァ",
+    "skill_id": "SID_攻撃魔防の牽制3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_ムルヴァ",
+    "skill_id": "SID_竜炎",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_ムルヴァ",
+    "skill_id": "SID_竜の逆鱗1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_ムルヴァ",
+    "skill_id": "SID_竜の逆鱗2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_ムルヴァ",
+    "skill_id": "SID_竜の逆鱗3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_ムルヴァ",
+    "skill_id": "SID_竜の堅鱗",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_ムルヴァ",
+    "skill_id": "SID_火のブレス",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_ムルヴァ",
+    "skill_id": "SID_火炎のブレス",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_ムルヴァ",
+    "skill_id": "SID_灼熱のブレス",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_ムルヴァ",
+    "skill_id": "SID_蛍火",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_ムルヴァ",
+    "skill_id": "SID_華炎",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_ムルヴァ",
+    "skill_id": "SID_封魔のブレス",
+    "default": 5,
+    "unlock": 5
   },
   {
     "unit_id": "PID_モズメ",
@@ -93547,6 +94021,18 @@
   },
   {
     "unit_id": "PID_セイズ",
+    "skill_id": "SID_守備魔防の封印1",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_セイズ",
+    "skill_id": "SID_守備魔防の封印2",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_セイズ",
     "skill_id": "SID_魔防の封印1",
     "default": 0,
     "unlock": 2
@@ -93559,6 +94045,12 @@
   },
   {
     "unit_id": "PID_セイズ",
+    "skill_id": "SID_守備魔防の枷",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_セイズ",
     "skill_id": "SID_エルウインド",
     "default": 2,
     "unlock": 2
@@ -93566,6 +94058,12 @@
   {
     "unit_id": "PID_セイズ",
     "skill_id": "SID_共に未来を見つめて",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_セイズ",
+    "skill_id": "SID_共に未来を見…・神",
     "default": 0,
     "unlock": 5
   },

@@ -996,6 +996,18 @@
     "description": "Grants HP+6, Atk/Spd+4."
   },
   {
+    "id": "SID_第102迷宮の覇者1",
+    "description": "Grants HP+4, Atk/Def+2."
+  },
+  {
+    "id": "SID_第102迷宮の覇者2",
+    "description": "Grants HP+5, Atk/Def+3."
+  },
+  {
+    "id": "SID_第102迷宮の覇者3",
+    "description": "Grants HP+6, Atk/Def+4."
+  },
+  {
     "id": "SID_第4迷宮の覇者1",
     "description": "Grants Spd+1."
   },
