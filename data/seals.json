@@ -4586,7 +4586,9 @@
       "moves": {
         "none": true
       },
-      "weapons": null
+      "weapons": {
+        "none": true
+      }
     },
     "upgrade_ids": [
       "SID_第102迷宮の覇者2"
@@ -4602,7 +4604,9 @@
       "moves": {
         "none": true
       },
-      "weapons": null
+      "weapons": {
+        "none": true
+      }
     },
     "upgrade_ids": [
       "SID_第102迷宮の覇者3"
@@ -4621,7 +4625,9 @@
       "moves": {
         "none": true
       },
-      "weapons": null
+      "weapons": {
+        "none": true
+      }
     },
     "downgrade_ids": [
       "SID_第102迷宮の覇者2"

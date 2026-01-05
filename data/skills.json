@@ -1011,7 +1011,9 @@
           "Infantry"
         ]
       },
-      "weapons": null
+      "weapons": {
+        "none": true
+      }
     },
     "addition_date": "2026-01-05",
     "release_date": "2026-01-06",
@@ -10282,7 +10284,9 @@
           "Infantry"
         ]
       },
-      "weapons": null
+      "weapons": {
+        "none": true
+      }
     },
     "addition_date": "2026-01-05",
     "release_date": "2026-01-07",
@@ -10305,7 +10309,9 @@
           "Infantry"
         ]
       },
-      "weapons": null
+      "weapons": {
+        "none": true
+      }
     },
     "addition_date": "2026-01-05",
     "release_date": "2026-01-07",
@@ -10331,7 +10337,9 @@
           "Infantry"
         ]
       },
-      "weapons": null
+      "weapons": {
+        "none": true
+      }
     },
     "addition_date": "2026-01-05",
     "release_date": "2026-01-07",
@@ -54633,7 +54641,9 @@
       "moves": {
         "none": true
       },
-      "weapons": null
+      "weapons": {
+        "none": true
+      }
     },
     "addition_date": "2022-12-05",
     "release_date": "2022-12-07",
@@ -81170,7 +81180,9 @@
       "moves": {
         "none": true
       },
-      "weapons": null
+      "weapons": {
+        "none": true
+      }
     },
     "addition_date": "2023-01-27",
     "release_date": "2023-01-27",
@@ -86055,7 +86067,9 @@
       "moves": {
         "none": true
       },
-      "weapons": null
+      "weapons": {
+        "none": true
+      }
     },
     "addition_date": "2026-01-05",
     "release_date": "2026-01-06",
@@ -119482,7 +119496,9 @@
       "moves": {
         "none": true
       },
-      "weapons": null
+      "weapons": {
+        "none": true
+      }
     },
     "addition_date": "2026-01-05",
     "release_date": "2026-01-06",
