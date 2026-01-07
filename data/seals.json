@@ -4580,6 +4580,7 @@
     "id": "SID_第102迷宮の覇者1",
     "name": "Squad Ace CX 1",
     "group_name": "Squad Ace CX",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/2/23/Squad_Ace_BT_1.png/revision/latest?cb=20230706043225",
     "sp": 120,
     "tier": 1,
     "restrictions": {
@@ -4598,6 +4599,7 @@
     "id": "SID_第102迷宮の覇者2",
     "name": "Squad Ace CX 2",
     "group_name": "Squad Ace CX",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/9e/Squad_Ace_BT_2.png/revision/latest?cb=20230706043234",
     "sp": 180,
     "tier": 2,
     "restrictions": {
@@ -4619,6 +4621,7 @@
     "id": "SID_第102迷宮の覇者3",
     "name": "Squad Ace CX 3",
     "group_name": "Squad Ace CX",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/9d/Squad_Ace_BT_3.png/revision/latest?cb=20230706043245",
     "sp": 240,
     "tier": 3,
     "restrictions": {
