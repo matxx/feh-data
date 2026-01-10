@@ -916,6 +916,7 @@
   },
   {
     "id": "SID_攻魔大牽制・導き手",
+    "game8_id": "574121",
     "name": "A/R Hold Guide",
     "group_name": "A/R Hold Guide",
     "category": "passivec",
@@ -999,6 +1000,7 @@
   },
   {
     "id": "SID_秘奥・攻魔凪",
+    "game8_id": "574119",
     "name": "A/R Lull Finish",
     "group_name": "A/R Lull Finish",
     "category": "passiveb",
@@ -5230,6 +5232,7 @@
   },
   {
     "id": "SID_魔器・聖杖ラトナ",
+    "game8_id": "574116",
     "name": "Arcane Latona",
     "group_name": "Arcane Latona",
     "category": "weapon",
@@ -10272,6 +10275,7 @@
   },
   {
     "id": "SID_攻撃守備の拍節1",
+    "game8_id": "574264",
     "name": "Atk/Def Tempo 1",
     "group_name": "Atk/Def Tempo",
     "category": "passiveb",
@@ -10297,6 +10301,7 @@
   },
   {
     "id": "SID_攻撃守備の拍節2",
+    "game8_id": "574265",
     "name": "Atk/Def Tempo 2",
     "group_name": "Atk/Def Tempo",
     "category": "passiveb",
@@ -10325,6 +10330,7 @@
   },
   {
     "id": "SID_攻撃守備の拍節3",
+    "game8_id": "574266",
     "name": "Atk/Def Tempo 3",
     "group_name": "Atk/Def Tempo",
     "category": "passiveb",
@@ -63410,6 +63416,7 @@
   },
   {
     "id": "SID_魔刃の斧",
+    "game8_id": "574110",
     "name": "Hexblade Axe",
     "group_name": "Hexblade Axe",
     "category": "weapon",
@@ -63438,6 +63445,7 @@
   },
   {
     "id": "SID_魔刃の斧＋",
+    "game8_id": "574111",
     "name": "Hexblade Axe+",
     "group_name": "Hexblade Axe+",
     "category": "weapon",
@@ -77656,6 +77664,7 @@
   },
   {
     "id": "SID_混戦の槍",
+    "game8_id": "574113",
     "name": "Melee Lance",
     "group_name": "Melee Lance",
     "category": "weapon",
@@ -77684,6 +77693,7 @@
   },
   {
     "id": "SID_混戦の槍＋",
+    "game8_id": "574114",
     "name": "Melee Lance+",
     "group_name": "Melee Lance+",
     "category": "weapon",
@@ -86056,6 +86066,7 @@
   },
   {
     "id": "SID_麗しの絶世美王女",
+    "game8_id": "574117",
     "name": "Peerless Beauty",
     "group_name": "Peerless Beauty",
     "category": "passivea",
@@ -88195,6 +88206,7 @@
   },
   {
     "id": "SID_激励・初撃の鼓動",
+    "game8_id": "574120",
     "name": "Preempt Amplify",
     "group_name": "Preempt Amplify",
     "category": "passiveb",
@@ -89577,6 +89589,7 @@
   },
   {
     "id": "SID_封魔のブレス",
+    "game8_id": "574115",
     "name": "Purging Breath",
     "group_name": "Purging Breath",
     "category": "weapon",
@@ -119485,6 +119498,7 @@
   },
   {
     "id": "SID_私、優秀ですから",
+    "game8_id": "574118",
     "name": "Superior Talent",
     "group_name": "Superior Talent",
     "category": "passivea",
@@ -126932,6 +126946,7 @@
   },
   {
     "id": "SID_稀代の天才の書",
+    "game8_id": "574112",
     "name": "Unequaled Tome",
     "group_name": "Unequaled Tome",
     "category": "weapon",

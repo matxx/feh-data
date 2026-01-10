@@ -12239,15 +12239,6 @@
     ]
   },
   {
-    "name": "Rea. L'Arachel & Aided Lute",
-    "unit_ids": [
-      "PID_お供ルーテ",
-      "PID_フランツ",
-      "PID_ムルヴァ",
-      "PID_魔器ラーチェル"
-    ]
-  },
-  {
     "name": "Rea. Lysithea & Chosen Alfonse",
     "unit_ids": [
       "PID_イグナーツ",
@@ -12272,6 +12263,15 @@
       "PID_ハーディン",
       "PID_開花チキ",
       "PID_魔器ガングレト味方"
+    ]
+  },
+  {
+    "name": "Rearmed L'Arachel & Aided Lute",
+    "unit_ids": [
+      "PID_お供ルーテ",
+      "PID_フランツ",
+      "PID_ムルヴァ",
+      "PID_魔器ラーチェル"
     ]
   },
   {

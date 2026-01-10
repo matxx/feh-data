@@ -9322,5 +9322,40 @@
     "recommended_boon": "spd",
     "recommended_bane": "res",
     "recommended_plus10": null
+  },
+  {
+    "id": "PID_魔器ラーチェル",
+    "game8_rating": "9.0",
+    "recommended_boon": "spd",
+    "recommended_bane": "def",
+    "recommended_plus10": null
+  },
+  {
+    "id": "PID_ムルヴァ",
+    "game8_rating": "9.0",
+    "recommended_boon": "def",
+    "recommended_bane": "spd",
+    "recommended_plus10": null
+  },
+  {
+    "id": "PID_フランツ",
+    "game8_rating": "8.5",
+    "recommended_boon": "spd",
+    "recommended_bane": "res",
+    "recommended_plus10": null
+  },
+  {
+    "id": "PID_お供ルーテ",
+    "game8_rating": "9.5",
+    "recommended_boon": "res",
+    "recommended_bane": "def",
+    "recommended_plus10": null
+  },
+  {
+    "id": "PID_ガルシア",
+    "game8_rating": "8.5",
+    "recommended_boon": "atk",
+    "recommended_bane": "res",
+    "recommended_plus10": null
   }
 ]
