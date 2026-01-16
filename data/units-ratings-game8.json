@@ -9357,5 +9357,33 @@
     "recommended_boon": "atk",
     "recommended_bane": "res",
     "recommended_plus10": null
+  },
+  {
+    "id": "PID_イリアワユ",
+    "game8_rating": "9.5",
+    "recommended_boon": "spd",
+    "recommended_bane": "res",
+    "recommended_plus10": null
+  },
+  {
+    "id": "PID_イリアアクア",
+    "game8_rating": "9.9",
+    "recommended_boon": "res",
+    "recommended_bane": "def",
+    "recommended_plus10": null
+  },
+  {
+    "id": "PID_イリアミネルバ",
+    "game8_rating": "9.0",
+    "recommended_boon": "spd",
+    "recommended_bane": "res",
+    "recommended_plus10": null
+  },
+  {
+    "id": "PID_双界ヒルダ",
+    "game8_rating": "9.5",
+    "recommended_boon": "spd",
+    "recommended_bane": "res",
+    "recommended_plus10": null
   }
 ]

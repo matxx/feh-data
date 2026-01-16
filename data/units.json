@@ -2142,6 +2142,34 @@
     "max_score": 758
   },
   {
+    "id": "PID_イリアアクア",
+    "name": "Azura",
+    "title": "Lady of the Sky",
+    "full_name": "Azura: Lady of the Sky",
+    "abbreviated_name": "De!Azura",
+    "theme": "desert",
+    "gender": "F",
+    "move_type": "Flying",
+    "weapon_type": "Blue Lance",
+    "games": [
+      "Fire Emblem Fates"
+    ],
+    "id_int": 1339,
+    "origin": "110000100300",
+    "book": 10,
+    "max_df": 5,
+    "is_special": true,
+    "is_refresher": true,
+    "addition_date": "2026-01-16",
+    "release_date": "2026-01-16",
+    "version": "10.1",
+    "game8_id": "574839",
+    "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/81/Azura_Lady_of_the_Sky_Face_FC.webp/revision/latest?cb=20260116045122",
+    "bst": 190,
+    "visible_bst": 194,
+    "max_score": 764
+  },
+  {
     "id": "PID_響心アクア",
     "name": "Azura",
     "title": "Song's Reflection",
@@ -13981,6 +14009,35 @@
     "max_score": 758
   },
   {
+    "id": "PID_双界ヒルダ",
+    "name": "Hilda",
+    "title": "Skyward Wings",
+    "full_name": "Hilda: Skyward Wings",
+    "abbreviated_name": "De!Hilda",
+    "theme": "desert",
+    "gender": "FF",
+    "move_type": "Flying",
+    "weapon_type": "Colorless Bow",
+    "games": [
+      "Fire Emblem: Three Houses",
+      "Fire Emblem: The Blazing Blade"
+    ],
+    "id_int": 1338,
+    "origin": "120000400700",
+    "book": 10,
+    "max_df": 5,
+    "is_special": true,
+    "is_harmonized": true,
+    "addition_date": "2026-01-16",
+    "release_date": "2026-01-16",
+    "version": "10.1",
+    "game8_id": "574841",
+    "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/a9/Hilda_Skyward_Wings_Face_FC.webp/revision/latest?cb=20260116045232",
+    "bst": 194,
+    "visible_bst": 198,
+    "max_score": 764
+  },
+  {
     "id": "PID_花婿ヒナタ",
     "name": "Hinata",
     "title": "Samurai Groom",
@@ -22663,6 +22720,33 @@
     "max_score": 764
   },
   {
+    "id": "PID_イリアワユ",
+    "name": "Mia",
+    "title": "Zenith Challenger",
+    "full_name": "Mia: Zenith Challenger",
+    "abbreviated_name": "De!Mia",
+    "theme": "desert",
+    "gender": "F",
+    "move_type": "Flying",
+    "weapon_type": "Red Sword",
+    "games": [
+      "Fire Emblem: Radiant Dawn"
+    ],
+    "id_int": 1340,
+    "origin": "090000101100",
+    "book": 10,
+    "max_df": 5,
+    "is_special": true,
+    "addition_date": "2026-01-16",
+    "release_date": "2026-01-16",
+    "version": "10.1",
+    "game8_id": "574838",
+    "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/19/Mia_Zenith_Challenger_Face_FC.webp/revision/latest?cb=20260116045157",
+    "bst": 200,
+    "visible_bst": 204,
+    "max_score": 768
+  },
+  {
     "id": "PID_比翼ミカヤ",
     "name": "Micaiah",
     "title": "Dawn Wind's Duo",
@@ -23041,6 +23125,33 @@
     "bst": 172,
     "visible_bst": 176,
     "max_score": 758
+  },
+  {
+    "id": "PID_イリアミネルバ",
+    "name": "Minerva",
+    "title": "Above the Stars",
+    "full_name": "Minerva: Above the Stars",
+    "abbreviated_name": "De!Minerva",
+    "theme": "desert",
+    "gender": "F",
+    "move_type": "Flying",
+    "weapon_type": "Green Axe",
+    "games": [
+      "Fire Emblem: Mystery of the Emblem"
+    ],
+    "id_int": 1341,
+    "origin": "010000400200",
+    "book": 10,
+    "max_df": 5,
+    "is_special": true,
+    "addition_date": "2026-01-16",
+    "release_date": "2026-01-16",
+    "version": "10.1",
+    "game8_id": "574840",
+    "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/77/Minerva_Above_the_Stars_Face_FC.webp/revision/latest?cb=20260116045012",
+    "bst": 200,
+    "visible_bst": 204,
+    "max_score": 768
   },
   {
     "id": "PID_幼少ミネルバ",
@@ -26531,6 +26642,7 @@
     "origin": "100004900300",
     "book": 3,
     "max_df": 35,
+    "has_respl": true,
     "is_ghb": true,
     "addition_date": "2019-02-20",
     "release_date": "2019-02-24",

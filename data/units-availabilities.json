@@ -2736,6 +2736,39 @@
     "divine_codes": {}
   },
   {
+    "id": "PID_イリアアクア",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {},
+    "skill_ids": [
+      "SID_うたうせいひつ",
+      "SID_イリアの長槍",
+      "SID_守備の混乱1",
+      "SID_守備の混乱2",
+      "SID_守備の混乱3",
+      "SID_守備魔防の不和",
+      "SID_明鏡止水",
+      "SID_歌う",
+      "SID_止水1",
+      "SID_止水2",
+      "SID_止水3",
+      "SID_速さ守備の牽制1",
+      "SID_速さ守備の牽制2",
+      "SID_速さ守備の牽制3",
+      "SID_速守十牽制・謀策",
+      "SID_鉄の槍",
+      "SID_銀の槍",
+      "SID_鋼の槍"
+    ],
+    "divine_codes": {}
+  },
+  {
     "id": "PID_響心アクア",
     "is_in": {
       "gsp": false,
@@ -18275,6 +18308,43 @@
     "divine_codes": {}
   },
   {
+    "id": "PID_双界ヒルダ",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {},
+    "skill_ids": [
+      "SID_ウィークショット",
+      "SID_守備の応援",
+      "SID_守備魔防の応援",
+      "SID_守備魔防の応援＋",
+      "SID_攻撃速さの共感",
+      "SID_攻撃速さの機先1",
+      "SID_攻撃速さの機先2",
+      "SID_攻撃速さの機先3",
+      "SID_攻撃速さの連携1",
+      "SID_攻撃速さの連携2",
+      "SID_攻撃速さの連携3",
+      "SID_攻撃速さの領空",
+      "SID_武門の妹二人の剛弓",
+      "SID_華炎",
+      "SID_蛍火",
+      "SID_計略・一斉突撃1",
+      "SID_計略・一斉突撃2",
+      "SID_計略・一斉突撃3",
+      "SID_計略・一斉突撃4",
+      "SID_鉄の弓",
+      "SID_銀の弓",
+      "SID_鋼の弓"
+    ],
+    "divine_codes": {}
+  },
+  {
     "id": "PID_花婿ヒナタ",
     "is_in": {
       "gsp": false,
@@ -26190,7 +26260,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "gsp": 5
+      "gsp": 3
     },
     "skill_ids": [
       "SID_エルサンダー",
@@ -29829,6 +29899,40 @@
     }
   },
   {
+    "id": "PID_イリアワユ",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {},
+    "skill_ids": [
+      "SID_イリアの長剣",
+      "SID_天舞い立つ",
+      "SID_天風",
+      "SID_攻撃速さの紋章1",
+      "SID_攻撃速さの紋章2",
+      "SID_攻速十紋章・見切り",
+      "SID_星影",
+      "SID_曲技飛行1",
+      "SID_曲技飛行2",
+      "SID_曲技飛行3",
+      "SID_流星",
+      "SID_蒼穹1",
+      "SID_蒼穹2",
+      "SID_蒼穹3",
+      "SID_蒼穹・鬼没",
+      "SID_速さの紋章1",
+      "SID_鉄の剣",
+      "SID_銀の剣",
+      "SID_鋼の剣"
+    ],
+    "divine_codes": {}
+  },
+  {
     "id": "PID_比翼ミカヤ",
     "is_in": {
       "gsp": false,
@@ -30328,6 +30432,32 @@
       "SID_金剛明鏡の構え1",
       "SID_金剛明鏡の構え2",
       "SID_金剛明鏡の構え3"
+    ],
+    "divine_codes": {}
+  },
+  {
+    "id": "PID_イリアミネルバ",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {},
+    "skill_ids": [
+      "SID_イリアの戦斧",
+      "SID_真・赤い竜騎士",
+      "SID_華炎",
+      "SID_蛍火",
+      "SID_鉄の斧",
+      "SID_銀の斧",
+      "SID_鋼の斧",
+      "SID_飛竜行空1",
+      "SID_飛竜行空2",
+      "SID_飛竜行空3",
+      "SID_飛竜裂空"
     ],
     "divine_codes": {}
   },

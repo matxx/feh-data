@@ -7167,6 +7167,14 @@
     ]
   },
   {
+    "name": "Focus: Tempest Trials (Unseen Rival)",
+    "unit_ids": [
+      "PID_アクア",
+      "PID_ヒルダ",
+      "PID_フロリーナ"
+    ]
+  },
+  {
     "name": "Focus: Tempest Trials (Unveil the Future)",
     "unit_ids": [
       "PID_ウルフ",
@@ -9113,6 +9121,19 @@
     ]
   },
   {
+    "name": "Legendary & Mythic Hero Remix 1 (Jan 2026)",
+    "unit_ids": [
+      "PID_エンブラ味方",
+      "PID_セイズ",
+      "PID_伝承ベレス",
+      "PID_神階ウル",
+      "PID_神階ブラミモンド",
+      "PID_神階ミラ",
+      "PID_総選挙シャロン",
+      "PID_総選挙ベレト"
+    ]
+  },
+  {
     "name": "Legendary & Mythic Hero Remix 1 (Jul 2023)",
     "unit_ids": [
       "PID_スリーズ",
@@ -9409,6 +9430,19 @@
       "PID_神階エイル",
       "PID_神階ルピナス",
       "PID_開花アメリア"
+    ]
+  },
+  {
+    "name": "Legendary & Mythic Hero Remix 2 (Jan 2026)",
+    "unit_ids": [
+      "PID_ノート味方",
+      "PID_ヴェロニカ2味方",
+      "PID_伝承シグルド",
+      "PID_伝承セリカ",
+      "PID_伝承ベレト",
+      "PID_神階フォデス",
+      "PID_総選挙エイクス",
+      "PID_総選挙バルドル"
     ]
   },
   {

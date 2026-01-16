@@ -12316,6 +12316,30 @@
     ]
   },
   {
+    "id": "SID_攻撃速さの領空",
+    "game8_id": "574835",
+    "name": "Atk/Spd Airspace",
+    "group_name": "Atk/Spd Airspace",
+    "category": "passivea",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/54/Atk_Spd_Airspace.png/revision/latest?cb=20260116082206",
+    "sp": 300,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Flying"
+        ]
+      },
+      "weapons": null
+    },
+    "addition_date": "2026-01-16",
+    "release_date": "2026-01-16",
+    "version": "10.1",
+    "downgrade_ids": [
+      "SID_攻撃速さの機先3"
+    ]
+  },
+  {
     "id": "SID_攻撃速さの詠唱",
     "game8_id": "543990",
     "name": "Atk/Spd Aria",
@@ -12654,6 +12678,7 @@
     "release_date": "2021-02-26",
     "version": "5.2",
     "upgrade_ids": [
+      "SID_攻撃速さの領空",
       "SID_攻撃速さの機先4",
       "SID_攻撃速さの制空",
       "SID_見下す者"
@@ -20818,7 +20843,8 @@
     "release_date": "2025-03-28",
     "version": "9.3",
     "upgrade_ids": [
-      "SID_蒼穹4"
+      "SID_蒼穹4",
+      "SID_蒼穹・鬼没"
     ],
     "downgrade_ids": [
       "SID_蒼穹2"
@@ -20938,6 +20964,35 @@
     "addition_date": "2017-02-02",
     "release_date": "2017-03-10",
     "version": "1.1"
+  },
+  {
+    "id": "SID_蒼穹・鬼没",
+    "game8_id": "574833",
+    "name": "Blue-Sky Gust",
+    "group_name": "Blue-Sky Gust",
+    "category": "passivea",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/7f/Blue-Sky_Gust.png/revision/latest?cb=20260116082216",
+    "sp": 300,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Cavalry",
+          "Flying"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "All Melee"
+        ]
+      }
+    },
+    "addition_date": "2026-01-16",
+    "release_date": "2026-01-16",
+    "version": "10.1",
+    "downgrade_ids": [
+      "SID_蒼穹3"
+    ]
   },
   {
     "id": "SID_攻撃隊形1",
@@ -42098,6 +42153,26 @@
     "addition_date": "2020-04-20",
     "release_date": "2020-04-21",
     "version": "4.4"
+  },
+  {
+    "id": "SID_真・赤い竜騎士",
+    "game8_id": "574834",
+    "name": "Dragoon Pillar",
+    "group_name": "Dragoon Pillar",
+    "category": "passivea",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b2/Dragoon_Pillar.png/revision/latest?cb=20260116082156",
+    "is_prf": true,
+    "sp": 300,
+    "tier": 1,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": null
+    },
+    "addition_date": "2026-01-16",
+    "release_date": "2026-01-16",
+    "version": "10.1"
   },
   {
     "id": "SID_赤い竜騎士の盾",
@@ -67036,10 +67111,38 @@
       "SID_連魔弾",
       "SID_魔弾",
       "SID_堅固なる獣",
-      "SID_連花月風閃・狂嵐"
+      "SID_連花月風閃・狂嵐",
+      "SID_ウィークショット"
     ],
     "downgrade_ids": [
       "SID_蛍火"
+    ]
+  },
+  {
+    "id": "SID_イリアの戦斧",
+    "game8_id": "574830",
+    "name": "Ilian Battleaxe",
+    "group_name": "Ilian Battleaxe",
+    "category": "weapon",
+    "weapon_type": "Green Axe",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Green Axe"
+        ]
+      }
+    },
+    "addition_date": "2026-01-16",
+    "release_date": "2026-01-16",
+    "version": "10.1",
+    "downgrade_ids": [
+      "SID_銀の斧"
     ]
   },
   {
@@ -67065,6 +67168,60 @@
     "addition_date": "2024-09-05",
     "release_date": "2024-09-06",
     "version": "8.9",
+    "downgrade_ids": [
+      "SID_銀の剣"
+    ]
+  },
+  {
+    "id": "SID_イリアの長槍",
+    "game8_id": "574829",
+    "name": "Ilian Greatlance",
+    "group_name": "Ilian Greatlance",
+    "category": "weapon",
+    "weapon_type": "Blue Lance",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Blue Lance"
+        ]
+      }
+    },
+    "addition_date": "2026-01-16",
+    "release_date": "2026-01-16",
+    "version": "10.1",
+    "downgrade_ids": [
+      "SID_銀の槍"
+    ]
+  },
+  {
+    "id": "SID_イリアの長剣",
+    "game8_id": "574828",
+    "name": "Ilian Longsword",
+    "group_name": "Ilian Longsword",
+    "category": "weapon",
+    "weapon_type": "Red Sword",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Red Sword"
+        ]
+      }
+    },
+    "addition_date": "2026-01-16",
+    "release_date": "2026-01-16",
+    "version": "10.1",
     "downgrade_ids": [
       "SID_銀の剣"
     ]
@@ -98407,6 +98564,30 @@
     "version": "2.4"
   },
   {
+    "id": "SID_速守十牽制・謀策",
+    "game8_id": "574837",
+    "name": "S/D Crux: Ploy",
+    "group_name": "S/D Crux: Ploy",
+    "category": "passivec",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d1/S_D_Crux_Ploy.png/revision/latest?cb=20260116082226",
+    "sp": 300,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Flying"
+        ]
+      },
+      "weapons": null
+    },
+    "addition_date": "2026-01-16",
+    "release_date": "2026-01-16",
+    "version": "10.1",
+    "downgrade_ids": [
+      "SID_速さ守備の牽制3"
+    ]
+  },
+  {
     "id": "SID_速さ守備の遠影1",
     "game8_id": "379044",
     "name": "S/D Far Trace 1",
@@ -105247,6 +105428,7 @@
       "SID_死鎌ヘル",
       "SID_春に跳ぶ白兎の斧",
       "SID_氷の部族の雪斧",
+      "SID_イリアの戦斧",
       "SID_寡黙な女傭兵の閃斧",
       "SID_戦神の大斧",
       "SID_光の花婿の斧",
@@ -105406,6 +105588,7 @@
       "SID_自警団長の弓",
       "SID_銀の弓＋",
       "SID_スカディ",
+      "SID_武門の妹二人の剛弓",
       "SID_生存本能の弓",
       "SID_疾弓ミュルグレ",
       "SID_タングリスニ",
@@ -105674,6 +105857,7 @@
       "SID_フレイズマル",
       "SID_フリムファクシ",
       "SID_ニフルの氷晶の槍",
+      "SID_イリアの長槍",
       "SID_イリア傭兵騎士の槍",
       "SID_母娘の静やかな祝福",
       "SID_舞い踊る満月の宝槍",
@@ -105901,6 +106085,7 @@
       "SID_白夜雷神刀",
       "SID_氷海の剣",
       "SID_イリアの吹雪の剣",
+      "SID_イリアの長剣",
       "SID_レディソード",
       "SID_レーヴァテイン",
       "SID_大地の剣",
@@ -106074,7 +106259,8 @@
     "version": "1.0",
     "upgrade_ids": [
       "SID_つたうみなすじ",
-      "SID_ユラリユルレリ"
+      "SID_ユラリユルレリ",
+      "SID_うたうせいひつ"
     ]
   },
   {
@@ -106538,6 +106724,36 @@
     "addition_date": "2020-08-06",
     "release_date": "2020-08-07",
     "version": "4.8"
+  },
+  {
+    "id": "SID_武門の妹二人の剛弓",
+    "game8_id": "574831",
+    "name": "Skybound Bow",
+    "group_name": "Skybound Bow",
+    "category": "weapon",
+    "weapon_type": "All Bow",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "eff": [
+      "flying"
+    ],
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "All Bow"
+        ]
+      }
+    },
+    "addition_date": "2026-01-16",
+    "release_date": "2026-01-16",
+    "version": "10.1",
+    "downgrade_ids": [
+      "SID_銀の弓"
+    ]
   },
   {
     "id": "SID_キラーアクス2",
@@ -108447,6 +108663,28 @@
     "addition_date": "2019-05-09",
     "release_date": "2019-05-10",
     "version": "3.5"
+  },
+  {
+    "id": "SID_うたうせいひつ",
+    "game8_id": "574832",
+    "name": "Songful Essence",
+    "group_name": "Songful Essence",
+    "category": "assist",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 2,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": null
+    },
+    "addition_date": "2026-01-16",
+    "release_date": "2026-01-16",
+    "version": "10.1",
+    "downgrade_ids": [
+      "SID_歌う"
+    ]
   },
   {
     "id": "SID_影潜む密偵の香水瓶",
@@ -110819,6 +111057,7 @@
     "release_date": "2020-09-18",
     "version": "4.9",
     "upgrade_ids": [
+      "SID_速守十牽制・謀策",
       "SID_速守大牽制・導き手",
       "SID_速守牽制・運び手",
       "SID_速さ守備の十字牽制",
@@ -129665,6 +129904,32 @@
     ]
   },
   {
+    "id": "SID_ウィークショット",
+    "game8_id": "574836",
+    "name": "Waning Shot",
+    "group_name": "Waning Shot",
+    "category": "special",
+    "sp": 500,
+    "tier": 3,
+    "cd": 4,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "All Bow"
+        ]
+      }
+    },
+    "addition_date": "2026-01-16",
+    "release_date": "2026-01-16",
+    "version": "10.1",
+    "downgrade_ids": [
+      "SID_華炎"
+    ]
+  },
+  {
     "id": "SID_神槌ミョルニル",
     "game8_id": "348787",
     "name": "War-God Mjölnir",
@@ -147456,6 +147721,87 @@
     ]
   },
   {
+    "id": "SSID_空からの急襲1",
+    "name": "Dive-Bomb 1",
+    "group_name": "Dive-Bomb",
+    "category": "sacredseal",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/48/Dive-Bomb_1.png/revision/latest?cb=20200806143815",
+    "sp": 60,
+    "tier": 1,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Flying"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "All Melee",
+          "All Breath",
+          "All Beast"
+        ]
+      }
+    },
+    "upgrade_ids": [
+      "SSID_空からの急襲2"
+    ]
+  },
+  {
+    "id": "SSID_空からの急襲2",
+    "name": "Dive-Bomb 2",
+    "group_name": "Dive-Bomb",
+    "category": "sacredseal",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/ed/Dive-Bomb_2.png/revision/latest?cb=20200806143825",
+    "sp": 120,
+    "tier": 2,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Flying"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "All Melee",
+          "All Breath",
+          "All Beast"
+        ]
+      }
+    },
+    "upgrade_ids": [
+      "SSID_空からの急襲3"
+    ],
+    "downgrade_ids": [
+      "SSID_空からの急襲1"
+    ]
+  },
+  {
+    "id": "SSID_空からの急襲3",
+    "name": "Dive-Bomb 3",
+    "group_name": "Dive-Bomb",
+    "category": "sacredseal",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/5c/Dive-Bomb_3.png/revision/latest?cb=20200806143835",
+    "sp": 240,
+    "tier": 3,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Flying"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "All Melee",
+          "All Breath",
+          "All Beast"
+        ]
+      }
+    },
+    "downgrade_ids": [
+      "SSID_空からの急襲2"
+    ]
+  },
+  {
     "id": "SSID_竜の魔鱗1",
     "name": "Dragon's Wrath 1",
     "group_name": "Dragon's Wrath",
@@ -156975,6 +157321,81 @@
     },
     "downgrade_ids": [
       "SSID_神罰の杖2"
+    ]
+  },
+  {
+    "id": "SSID_飛竜行空1",
+    "name": "Wyvern Flight 1",
+    "group_name": "Wyvern Flight",
+    "category": "sacredseal",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/6a/Wyvern_Flight_1.png/revision/latest?cb=20201117135151",
+    "sp": 60,
+    "tier": 1,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Flying"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "All Melee"
+        ]
+      }
+    },
+    "upgrade_ids": [
+      "SSID_飛竜行空2"
+    ]
+  },
+  {
+    "id": "SSID_飛竜行空2",
+    "name": "Wyvern Flight 2",
+    "group_name": "Wyvern Flight",
+    "category": "sacredseal",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/ea/Wyvern_Flight_2.png/revision/latest?cb=20201117135201",
+    "sp": 120,
+    "tier": 2,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Flying"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "All Melee"
+        ]
+      }
+    },
+    "upgrade_ids": [
+      "SSID_飛竜行空3"
+    ],
+    "downgrade_ids": [
+      "SSID_飛竜行空1"
+    ]
+  },
+  {
+    "id": "SSID_飛竜行空3",
+    "name": "Wyvern Flight 3",
+    "group_name": "Wyvern Flight",
+    "category": "sacredseal",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/ab/Wyvern_Flight_3.png/revision/latest?cb=20201117135211",
+    "sp": 240,
+    "tier": 3,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Flying"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "All Melee"
+        ]
+      }
+    },
+    "downgrade_ids": [
+      "SSID_飛竜行空2"
     ]
   }
 ]

@@ -7050,6 +7050,114 @@
     "unlock": 2
   },
   {
+    "unit_id": "PID_イリアアクア",
+    "skill_id": "SID_明鏡止水",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_イリアアクア",
+    "skill_id": "SID_守備魔防の不和",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_イリアアクア",
+    "skill_id": "SID_イリアの長槍",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_イリアアクア",
+    "skill_id": "SID_鉄の槍",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_イリアアクア",
+    "skill_id": "SID_守備の混乱1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_イリアアクア",
+    "skill_id": "SID_守備の混乱2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_イリアアクア",
+    "skill_id": "SID_守備の混乱3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_イリアアクア",
+    "skill_id": "SID_速守十牽制・謀策",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_イリアアクア",
+    "skill_id": "SID_銀の槍",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_イリアアクア",
+    "skill_id": "SID_歌う",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_イリアアクア",
+    "skill_id": "SID_うたうせいひつ",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_イリアアクア",
+    "skill_id": "SID_速さ守備の牽制1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_イリアアクア",
+    "skill_id": "SID_速さ守備の牽制2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_イリアアクア",
+    "skill_id": "SID_速さ守備の牽制3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_イリアアクア",
+    "skill_id": "SID_鋼の槍",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_イリアアクア",
+    "skill_id": "SID_止水1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_イリアアクア",
+    "skill_id": "SID_止水2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_イリアアクア",
+    "skill_id": "SID_止水3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
     "unit_id": "PID_響心アクア",
     "skill_id": "SID_攻撃守備の魅了3",
     "default": 0,
@@ -44454,6 +44562,138 @@
     "unlock": 4
   },
   {
+    "unit_id": "PID_双界ヒルダ",
+    "skill_id": "SID_攻撃速さの領空",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_双界ヒルダ",
+    "skill_id": "SID_攻撃速さの機先1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_双界ヒルダ",
+    "skill_id": "SID_攻撃速さの機先2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_双界ヒルダ",
+    "skill_id": "SID_攻撃速さの機先3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_双界ヒルダ",
+    "skill_id": "SID_攻撃速さの共感",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_双界ヒルダ",
+    "skill_id": "SID_攻撃速さの連携1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_双界ヒルダ",
+    "skill_id": "SID_攻撃速さの連携2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_双界ヒルダ",
+    "skill_id": "SID_攻撃速さの連携3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_双界ヒルダ",
+    "skill_id": "SID_蛍火",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_双界ヒルダ",
+    "skill_id": "SID_華炎",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_双界ヒルダ",
+    "skill_id": "SID_鉄の弓",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_双界ヒルダ",
+    "skill_id": "SID_守備の応援",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_双界ヒルダ",
+    "skill_id": "SID_守備魔防の応援",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_双界ヒルダ",
+    "skill_id": "SID_守備魔防の応援＋",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_双界ヒルダ",
+    "skill_id": "SID_銀の弓",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_双界ヒルダ",
+    "skill_id": "SID_武門の妹二人の剛弓",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_双界ヒルダ",
+    "skill_id": "SID_鋼の弓",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_双界ヒルダ",
+    "skill_id": "SID_計略・一斉突撃1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_双界ヒルダ",
+    "skill_id": "SID_計略・一斉突撃2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_双界ヒルダ",
+    "skill_id": "SID_計略・一斉突撃3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_双界ヒルダ",
+    "skill_id": "SID_計略・一斉突撃4",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_双界ヒルダ",
+    "skill_id": "SID_ウィークショット",
+    "default": 0,
+    "unlock": 5
+  },
+  {
     "unit_id": "PID_花婿ヒナタ",
     "skill_id": "SID_攻撃守備の絆1",
     "default": 0,
@@ -71760,6 +72000,120 @@
     "unlock": 5
   },
   {
+    "unit_id": "PID_イリアワユ",
+    "skill_id": "SID_曲技飛行1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_イリアワユ",
+    "skill_id": "SID_曲技飛行2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_イリアワユ",
+    "skill_id": "SID_曲技飛行3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_イリアワユ",
+    "skill_id": "SID_流星",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_イリアワユ",
+    "skill_id": "SID_蒼穹1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_イリアワユ",
+    "skill_id": "SID_蒼穹2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_イリアワユ",
+    "skill_id": "SID_蒼穹3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_イリアワユ",
+    "skill_id": "SID_蒼穹・鬼没",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_イリアワユ",
+    "skill_id": "SID_天風",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_イリアワユ",
+    "skill_id": "SID_天舞い立つ",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_イリアワユ",
+    "skill_id": "SID_イリアの長剣",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_イリアワユ",
+    "skill_id": "SID_鉄の剣",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_イリアワユ",
+    "skill_id": "SID_星影",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_イリアワユ",
+    "skill_id": "SID_攻速十紋章・見切り",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_イリアワユ",
+    "skill_id": "SID_銀の剣",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_イリアワユ",
+    "skill_id": "SID_攻撃速さの紋章1",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_イリアワユ",
+    "skill_id": "SID_攻撃速さの紋章2",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_イリアワユ",
+    "skill_id": "SID_速さの紋章1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_イリアワユ",
+    "skill_id": "SID_鋼の剣",
+    "default": 2,
+    "unlock": 2
+  },
+  {
     "unit_id": "PID_比翼ミカヤ",
     "skill_id": "SID_献身",
     "default": 4,
@@ -73006,6 +73360,72 @@
     "skill_id": "SID_金剛の構え1",
     "default": 0,
     "unlock": 2
+  },
+  {
+    "unit_id": "PID_イリアミネルバ",
+    "skill_id": "SID_真・赤い竜騎士",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_イリアミネルバ",
+    "skill_id": "SID_蛍火",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_イリアミネルバ",
+    "skill_id": "SID_華炎",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_イリアミネルバ",
+    "skill_id": "SID_イリアの戦斧",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_イリアミネルバ",
+    "skill_id": "SID_鉄の斧",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_イリアミネルバ",
+    "skill_id": "SID_銀の斧",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_イリアミネルバ",
+    "skill_id": "SID_鋼の斧",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_イリアミネルバ",
+    "skill_id": "SID_飛竜行空1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_イリアミネルバ",
+    "skill_id": "SID_飛竜行空2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_イリアミネルバ",
+    "skill_id": "SID_飛竜行空3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_イリアミネルバ",
+    "skill_id": "SID_飛竜裂空",
+    "default": 0,
+    "unlock": 5
   },
   {
     "unit_id": "PID_幼少ミネルバ",
