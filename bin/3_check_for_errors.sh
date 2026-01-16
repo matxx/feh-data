@@ -3,7 +3,7 @@
 errors = Hash.new { |h, k| h[k] = Hash.new(0) }
 [
   'data/skills.json',
-  'data/seals.json',
+  # 'data/seals.json',
 ].each do |file|
   str = File.read(file)
 
