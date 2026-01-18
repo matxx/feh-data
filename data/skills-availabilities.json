@@ -22218,18 +22218,22 @@
       "gsr": 4,
       "shsr": 4,
       "g5": 4,
-      "sh5": 4
+      "sh5": 1
     },
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "olrwo": {},
-    "olrfi": {},
+    "olrwo": {
+      "ssp": 5
+    },
+    "olrfi": {
+      "ssp": 5
+    },
     "divine_codes": {}
   },
   {
@@ -37761,14 +37765,18 @@
     },
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "olrwo": {},
-    "olrfi": {},
+    "olrwo": {
+      "ssp": 5
+    },
+    "olrfi": {
+      "ssp": 5
+    },
     "divine_codes": {}
   },
   {
@@ -48479,20 +48487,22 @@
       "gsr": 3,
       "shsr": 3,
       "g5": 3,
-      "sh5": 3
+      "sh5": 1
     },
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": true
     },
     "olrwo": {
+      "ssp": 5,
       "foc": 5
     },
     "olrfi": {
+      "ssp": 5,
       "foc": 5
     },
     "divine_codes": {}
@@ -74377,14 +74387,18 @@
     },
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "olrwo": {},
-    "olrfi": {},
+    "olrwo": {
+      "ssp": 4
+    },
+    "olrfi": {
+      "ssp": 5
+    },
     "divine_codes": {}
   },
   {
@@ -117192,14 +117206,18 @@
     },
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "olrwo": {},
-    "olrfi": {},
+    "olrwo": {
+      "ssp": 4
+    },
+    "olrfi": {
+      "ssp": 5
+    },
     "divine_codes": {}
   },
   {
@@ -117256,18 +117274,22 @@
       "gsr": 4,
       "shsr": 1,
       "g5": 4,
-      "sh5": 4
+      "sh5": 1
     },
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "olrwo": {},
-    "olrfi": {},
+    "olrwo": {
+      "ssp": 5
+    },
+    "olrfi": {
+      "ssp": 5
+    },
     "divine_codes": {}
   },
   {
@@ -117283,18 +117305,22 @@
       "gsr": 4,
       "shsr": 4,
       "g5": 4,
-      "sh5": 4
+      "sh5": 1
     },
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "olrwo": {},
-    "olrfi": {},
+    "olrwo": {
+      "ssp": 5
+    },
+    "olrfi": {
+      "ssp": 5
+    },
     "divine_codes": {}
   },
   {
@@ -146457,16 +146483,18 @@
     },
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": true
     },
     "olrwo": {
+      "ssp": 5,
       "foc": 5
     },
     "olrfi": {
+      "ssp": 5,
       "foc": 5
     },
     "divine_codes": {}
@@ -173758,18 +173786,22 @@
       "gsr": 1,
       "shsr": 4,
       "g5": 4,
-      "sh5": 4
+      "sh5": 1
     },
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "olrwo": {},
-    "olrfi": {},
+    "olrwo": {
+      "ssp": 5
+    },
+    "olrfi": {
+      "ssp": 5
+    },
     "divine_codes": {}
   },
   {
@@ -186758,18 +186790,22 @@
       "gsr": 4,
       "shsr": 4,
       "g5": 4,
-      "sh5": 4
+      "sh5": 1
     },
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "olrwo": {},
-    "olrfi": {},
+    "olrwo": {
+      "ssp": 5
+    },
+    "olrfi": {
+      "ssp": 5
+    },
     "divine_codes": {}
   },
   {
@@ -189971,18 +190007,22 @@
       "gsr": 2,
       "shsr": 2,
       "g5": 2,
-      "sh5": 2
+      "sh5": 1
     },
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "olrwo": {},
-    "olrfi": {},
+    "olrwo": {
+      "ssp": 5
+    },
+    "olrfi": {
+      "ssp": 5
+    },
     "divine_codes": {}
   },
   {
@@ -211034,16 +211074,18 @@
     },
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": true
     },
     "olrwo": {
+      "ssp": 5,
       "foc": 5
     },
     "olrfi": {
+      "ssp": 2,
       "foc": 2
     },
     "divine_codes": {}
@@ -211062,20 +211104,22 @@
       "gsr": 2,
       "shsr": 2,
       "g5": 2,
-      "sh5": 2
+      "sh5": 1
     },
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": true
     },
     "olrwo": {
+      "ssp": 5,
       "foc": 5
     },
     "olrfi": {
+      "ssp": 3,
       "foc": 3
     },
     "divine_codes": {}
@@ -211094,20 +211138,22 @@
       "gsr": 3,
       "shsr": 3,
       "g5": 3,
-      "sh5": 3
+      "sh5": 1
     },
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": true
     },
     "olrwo": {
+      "ssp": 5,
       "foc": 5
     },
     "olrfi": {
+      "ssp": 4,
       "foc": 4
     },
     "divine_codes": {}
@@ -211126,20 +211172,22 @@
       "gsr": 4,
       "shsr": 4,
       "g5": 4,
-      "sh5": 4
+      "sh5": 1
     },
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": true
     },
     "olrwo": {
+      "ssp": 5,
       "foc": 5
     },
     "olrfi": {
+      "ssp": 5,
       "foc": 5
     },
     "divine_codes": {}
@@ -229947,18 +229995,22 @@
       "gsr": 3,
       "shsr": 3,
       "g5": 3,
-      "sh5": 3
+      "sh5": 1
     },
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "olrwo": {},
-    "olrfi": {},
+    "olrwo": {
+      "ssp": 5
+    },
+    "olrfi": {
+      "ssp": 5
+    },
     "divine_codes": {}
   },
   {
@@ -237370,7 +237422,7 @@
     },
     "is_in": {
       "gsp": true,
-      "ssp": false,
+      "ssp": true,
       "hg": true,
       "dc": false,
       "ldc": false,
@@ -237378,10 +237430,12 @@
     },
     "olrwo": {
       "gsp": 4.5,
+      "ssp": 4,
       "hg": 3
     },
     "olrfi": {
       "gsp": 1,
+      "ssp": 2,
       "hg": 1
     },
     "divine_codes": {}
@@ -237400,7 +237454,7 @@
       "g4": 2,
       "hg": 1,
       "dc": 2,
-      "sh4": 2,
+      "sh4": 1,
       "gsr": 1,
       "shsr": 2,
       "g5": 2,
@@ -237408,7 +237462,7 @@
     },
     "is_in": {
       "gsp": true,
-      "ssp": false,
+      "ssp": true,
       "hg": true,
       "dc": false,
       "ldc": false,
@@ -237416,10 +237470,12 @@
     },
     "olrwo": {
       "gsp": 4.5,
+      "ssp": 4,
       "hg": 3
     },
     "olrfi": {
       "gsp": 2,
+      "ssp": 3,
       "hg": 2
     },
     "divine_codes": {}
@@ -237438,7 +237494,7 @@
       "g4": 3,
       "hg": 1,
       "dc": 3,
-      "sh4": 3,
+      "sh4": 1,
       "gsr": 1,
       "shsr": 3,
       "g5": 3,
@@ -237446,7 +237502,7 @@
     },
     "is_in": {
       "gsp": true,
-      "ssp": false,
+      "ssp": true,
       "hg": true,
       "dc": false,
       "ldc": false,
@@ -237454,10 +237510,12 @@
     },
     "olrwo": {
       "gsp": 4.5,
+      "ssp": 4,
       "hg": 3
     },
     "olrfi": {
       "gsp": 4,
+      "ssp": 4,
       "hg": 4
     },
     "divine_codes": {}
@@ -237691,7 +237749,7 @@
       "g4": 1,
       "hg": 1,
       "dc": 1,
-      "sh4": 4,
+      "sh4": 1,
       "gsr": 1,
       "shsr": 4,
       "g5": 1,
@@ -237699,17 +237757,19 @@
     },
     "is_in": {
       "gsp": true,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
     "olrwo": {
-      "gsp": 5
+      "gsp": 5,
+      "ssp": 4
     },
     "olrfi": {
-      "gsp": 5
+      "gsp": 5,
+      "ssp": 5
     },
     "divine_codes": {}
   },

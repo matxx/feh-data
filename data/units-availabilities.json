@@ -2739,13 +2739,15 @@
     "id": "PID_イリアアクア",
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "lowest_rarity": {},
+    "lowest_rarity": {
+      "ssp": 5
+    },
     "skill_ids": [
       "SID_うたうせいひつ",
       "SID_イリアの長槍",
@@ -18311,13 +18313,15 @@
     "id": "PID_双界ヒルダ",
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "lowest_rarity": {},
+    "lowest_rarity": {
+      "ssp": 5
+    },
     "skill_ids": [
       "SID_ウィークショット",
       "SID_守備の応援",
@@ -29902,13 +29906,15 @@
     "id": "PID_イリアワユ",
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "lowest_rarity": {},
+    "lowest_rarity": {
+      "ssp": 5
+    },
     "skill_ids": [
       "SID_イリアの長剣",
       "SID_天舞い立つ",
@@ -30439,13 +30445,15 @@
     "id": "PID_イリアミネルバ",
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "lowest_rarity": {},
+    "lowest_rarity": {
+      "ssp": 4
+    },
     "skill_ids": [
       "SID_イリアの戦斧",
       "SID_真・赤い竜騎士",

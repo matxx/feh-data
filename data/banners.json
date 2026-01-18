@@ -786,6 +786,15 @@
     ]
   },
   {
+    "name": "Cure for Shyness (Focus)",
+    "unit_ids": [
+      "PID_イリアアクア",
+      "PID_イリアミネルバ",
+      "PID_イリアワユ",
+      "PID_双界ヒルダ"
+    ]
+  },
+  {
     "name": "Dark Desert Rituals (Focus)",
     "unit_ids": [
       "PID_双界ドロテア",
@@ -2638,6 +2647,14 @@
       "PID_幼少イレース",
       "PID_幼少ワユ",
       "PID_花嫁タニス"
+    ]
+  },
+  {
+    "name": "Focus: Hall of Forms (Jan 2026)",
+    "unit_ids": [
+      "PID_双界カアラ",
+      "PID_闇ウルスラ",
+      "PID_闇ネルガル"
     ]
   },
   {
@@ -5005,6 +5022,14 @@
       "PID_マリク",
       "PID_ルフレ男",
       "PID_レオン"
+    ]
+  },
+  {
+    "name": "Focus: Marianne & Hilda's Battle",
+    "unit_ids": [
+      "PID_ヒルダ",
+      "PID_マリアンヌ",
+      "PID_リシテア"
     ]
   },
   {
