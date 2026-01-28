@@ -3389,6 +3389,14 @@
     ]
   },
   {
+    "name": "Focus: Heroes with Cantrip Skills",
+    "unit_ids": [
+      "PID_エルフィン",
+      "PID_ハロピアニー",
+      "PID_響心アクア"
+    ]
+  },
+  {
     "name": "Focus: Heroes with Catch Skills (Dec 2022)",
     "unit_ids": [
       "PID_ジーク",
@@ -11417,6 +11425,19 @@
     ]
   },
   {
+    "name": "New Heroes Return (Jan 2026)",
+    "unit_ids": [
+      "PID_比翼マルス2",
+      "PID_響心アルム",
+      "PID_魔器ギンヌン味方",
+      "PID_魔器シアチ味方",
+      "PID_魔器ヌイババ",
+      "PID_魔器ノワール",
+      "PID_魔器リリーナ",
+      "PID_魔器魔獣ドゥドゥー"
+    ]
+  },
+  {
     "name": "New Heroes Return (Jul 2025)",
     "unit_ids": [
       "PID_闇魔器ルミエル",
@@ -12963,6 +12984,15 @@
       "PID_水着オグマ",
       "PID_水着フレイヤ",
       "PID_水着フロージ"
+    ]
+  },
+  {
+    "name": "Take Flight, Pegasus! (Focus)",
+    "unit_ids": [
+      "PID_伝承エリンシア",
+      "PID_伝承シーダ",
+      "PID_伝承ヒノカ",
+      "PID_魔器イングリット"
     ]
   },
   {
