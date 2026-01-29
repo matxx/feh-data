@@ -114052,5 +114052,581 @@
     "skill_id": "SID_鋼の斧",
     "default": 2,
     "unlock": 2
+  },
+  {
+    "unit_id": "PID_比翼リュール男",
+    "skill_id": "DUO_PID_比翼リュール男",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_比翼アルフォンス",
+    "skill_id": "DUO_PID_比翼アルフォンス",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_比翼アルム",
+    "skill_id": "DUO_PID_比翼アルム",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_比翼アスク",
+    "skill_id": "DUO_PID_比翼アスク",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_比翼バルドル",
+    "skill_id": "DUO_PID_比翼バルドル",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_比翼ベレス",
+    "skill_id": "DUO_PID_比翼ベレス",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_比翼ベレト",
+    "skill_id": "DUO_PID_比翼ベレト",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_比翼クロム",
+    "skill_id": "DUO_PID_比翼クロム",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_比翼カムイ女",
+    "skill_id": "DUO_PID_比翼カムイ女",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_比翼カムイ男",
+    "skill_id": "DUO_PID_比翼カムイ男",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_比翼ダグ",
+    "skill_id": "DUO_PID_比翼ダグ",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_比翼ドーマ",
+    "skill_id": "DUO_PID_比翼ドーマ",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_比翼エイリーク",
+    "skill_id": "DUO_PID_比翼エイリーク",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_比翼エリンシア",
+    "skill_id": "DUO_PID_比翼エリンシア",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_比翼エリーゼ",
+    "skill_id": "DUO_PID_比翼エリーゼ",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_比翼エフラム",
+    "skill_id": "DUO_PID_比翼エフラム",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_比翼フィヨルム",
+    "skill_id": "DUO_PID_比翼フィヨルム",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_比翼フレイヤ",
+    "skill_id": "DUO_PID_比翼フレイヤ",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_比翼グルヴェイグ",
+    "skill_id": "DUO_PID_比翼グルヴェイグ",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_比翼グルヴェイグ2",
+    "skill_id": "DUO_PID_比翼グルヴェイグ2",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_比翼ハピ",
+    "skill_id": "DUO_PID_比翼ハピ",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_比翼ヘクトル",
+    "skill_id": "DUO_PID_比翼ヘクトル",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_比翼ヘイズルーン",
+    "skill_id": "DUO_PID_比翼ヘイズルーン",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_比翼ヒルダ",
+    "skill_id": "DUO_PID_比翼ヒルダ",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_比翼ヒノカ",
+    "skill_id": "DUO_PID_比翼ヒノカ",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_比翼イドゥン",
+    "skill_id": "DUO_PID_比翼イドゥン",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_比翼アイク",
+    "skill_id": "DUO_PID_比翼アイク",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_比翼ユリア",
+    "skill_id": "DUO_PID_比翼ユリア",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_比翼カゲロウ",
+    "skill_id": "DUO_PID_比翼カゲロウ",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_比翼レーギャルン",
+    "skill_id": "DUO_PID_比翼レーギャルン",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_比翼リーヴ",
+    "skill_id": "DUO_PID_比翼リーヴ",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_比翼ルキナ",
+    "skill_id": "DUO_PID_比翼ルキナ",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_比翼リン",
+    "skill_id": "DUO_PID_比翼リン",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_比翼リオン",
+    "skill_id": "DUO_PID_比翼リオン",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_比翼軍師マーク",
+    "skill_id": "DUO_PID_比翼軍師マーク",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_比翼マルス2",
+    "skill_id": "DUO_PID_比翼マルス2",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_比翼マルス",
+    "skill_id": "DUO_PID_比翼マルス",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_比翼ミカヤ",
+    "skill_id": "DUO_PID_比翼ミカヤ",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_比翼エポニーヌ",
+    "skill_id": "DUO_PID_比翼エポニーヌ",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_比翼パオラ",
+    "skill_id": "DUO_PID_比翼パオラ",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_比翼ピアニー",
+    "skill_id": "DUO_PID_比翼ピアニー",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_比翼レア",
+    "skill_id": "DUO_PID_比翼レア",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_比翼ルフレ女",
+    "skill_id": "DUO_PID_比翼ルフレ女",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_比翼サナキ",
+    "skill_id": "DUO_PID_比翼サナキ",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_比翼セイズ",
+    "skill_id": "DUO_PID_比翼セイズ",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_比翼シャミア",
+    "skill_id": "DUO_PID_比翼シャミア",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_比翼シャロン",
+    "skill_id": "DUO_PID_比翼シャロン",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_比翼シグルド",
+    "skill_id": "DUO_PID_比翼シグルド",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_比翼ソティス",
+    "skill_id": "DUO_PID_比翼ソティス",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_比翼トール",
+    "skill_id": "DUO_PID_比翼トール",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_比翼ユーミル",
+    "skill_id": "DUO_PID_比翼ユーミル",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_双界オルティナ",
+    "skill_id": "HARMONIZED_PID_双界オルティナ",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_双界アンナ",
+    "skill_id": "HARMONIZED_PID_双界アンナ",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_双界アイラ",
+    "skill_id": "HARMONIZED_PID_双界アイラ",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_双界アクア",
+    "skill_id": "HARMONIZED_PID_双界アクア",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_双界シーダ",
+    "skill_id": "HARMONIZED_PID_双界シーダ",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_双界外伝カチュア",
+    "skill_id": "HARMONIZED_PID_双界外伝カチュア",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_双界セリカ",
+    "skill_id": "HARMONIZED_PID_双界セリカ",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_双界クロエ",
+    "skill_id": "HARMONIZED_PID_双界クロエ",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_双界ティアモ",
+    "skill_id": "HARMONIZED_PID_双界ティアモ",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_双界ドロテア",
+    "skill_id": "HARMONIZED_PID_双界ドロテア",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_双界エーデルガルト",
+    "skill_id": "HARMONIZED_PID_双界エーデルガルト",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_双界フィル",
+    "skill_id": "HARMONIZED_PID_双界フィル",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_双界ゴルドマリー",
+    "skill_id": "HARMONIZED_PID_双界ゴルドマリー",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_双界ヒルダ",
+    "skill_id": "HARMONIZED_PID_双界ヒルダ",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_双界イグレーヌ",
+    "skill_id": "HARMONIZED_PID_双界イグレーヌ",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_双界総選挙アイク",
+    "skill_id": "HARMONIZED_PID_双界総選挙アイク",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_双界イングリット",
+    "skill_id": "HARMONIZED_PID_双界イングリット",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_双界アイビー",
+    "skill_id": "HARMONIZED_PID_双界アイビー",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_双界カアラ",
+    "skill_id": "HARMONIZED_PID_双界カアラ",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_双界リーフ",
+    "skill_id": "HARMONIZED_PID_双界リーフ",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_双界リンダ",
+    "skill_id": "HARMONIZED_PID_双界リンダ",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_双界総選挙リン",
+    "skill_id": "HARMONIZED_PID_双界総選挙リン",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_双界リシテア",
+    "skill_id": "HARMONIZED_PID_双界リシテア",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_双界マリカ",
+    "skill_id": "HARMONIZED_PID_双界マリカ",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_双界ワユ",
+    "skill_id": "HARMONIZED_PID_双界ワユ",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_双界ミルラ",
+    "skill_id": "HARMONIZED_PID_双界ミルラ",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_双界ナギ",
+    "skill_id": "HARMONIZED_PID_双界ナギ",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_双界ネフェニー",
+    "skill_id": "HARMONIZED_PID_双界ネフェニー",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_双界プルメリア",
+    "skill_id": "HARMONIZED_PID_双界プルメリア",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_双界ロイ",
+    "skill_id": "HARMONIZED_PID_双界ロイ",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_双界ソニア",
+    "skill_id": "HARMONIZED_PID_双界ソニア",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_双界ターナ",
+    "skill_id": "HARMONIZED_PID_双界ターナ",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_双界チキ覚醒",
+    "skill_id": "HARMONIZED_PID_双界チキ覚醒",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_双界チキ",
+    "skill_id": "HARMONIZED_PID_双界チキ",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_双界ヴェロニカ",
+    "skill_id": "HARMONIZED_PID_双界ヴェロニカ",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_紋章ベレト",
+    "skill_id": "EMBLEM_PID_紋章ベレト",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_紋章セリカ",
+    "skill_id": "EMBLEM_PID_紋章セリカ",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_紋章カムイ女",
+    "skill_id": "EMBLEM_PID_紋章カムイ女",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_紋章エーデル",
+    "skill_id": "EMBLEM_PID_紋章エーデル",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_紋章エイリーク",
+    "skill_id": "EMBLEM_PID_紋章エイリーク",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_紋章アイク",
+    "skill_id": "EMBLEM_PID_紋章アイク",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_紋章リン",
+    "skill_id": "EMBLEM_PID_紋章リン",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_紋章マルス",
+    "skill_id": "EMBLEM_PID_紋章マルス",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_紋章ミカヤ",
+    "skill_id": "EMBLEM_PID_紋章ミカヤ",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_紋章シグルド",
+    "skill_id": "EMBLEM_PID_紋章シグルド",
+    "default": 0,
+    "unlock": 1
   }
 ]
