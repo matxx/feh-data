@@ -9385,5 +9385,19 @@
     "recommended_boon": "spd",
     "recommended_bane": "res",
     "recommended_plus10": null
+  },
+  {
+    "id": "PID_伝承エリーゼ",
+    "game8_rating": "9.9",
+    "recommended_boon": "spd",
+    "recommended_bane": "def",
+    "recommended_plus10": null
+  },
+  {
+    "id": "PID_紋章ベレト",
+    "game8_rating": "9.9",
+    "recommended_boon": "spd",
+    "recommended_bane": "res",
+    "recommended_plus10": null
   }
 ]

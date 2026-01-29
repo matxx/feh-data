@@ -239011,5 +239011,581 @@
       "ssp": 5
     },
     "divine_codes": {}
+  },
+  {
+    "id": "DUO_PID_比翼リュール男",
+    "owner_ids": [
+      "PID_比翼リュール男"
+    ]
+  },
+  {
+    "id": "DUO_PID_比翼アルフォンス",
+    "owner_ids": [
+      "PID_比翼アルフォンス"
+    ]
+  },
+  {
+    "id": "DUO_PID_比翼アルム",
+    "owner_ids": [
+      "PID_比翼アルム"
+    ]
+  },
+  {
+    "id": "DUO_PID_比翼アスク",
+    "owner_ids": [
+      "PID_比翼アスク"
+    ]
+  },
+  {
+    "id": "DUO_PID_比翼バルドル",
+    "owner_ids": [
+      "PID_比翼バルドル"
+    ]
+  },
+  {
+    "id": "DUO_PID_比翼ベレス",
+    "owner_ids": [
+      "PID_比翼ベレス"
+    ]
+  },
+  {
+    "id": "DUO_PID_比翼ベレト",
+    "owner_ids": [
+      "PID_比翼ベレト"
+    ]
+  },
+  {
+    "id": "DUO_PID_比翼クロム",
+    "owner_ids": [
+      "PID_比翼クロム"
+    ]
+  },
+  {
+    "id": "DUO_PID_比翼カムイ女",
+    "owner_ids": [
+      "PID_比翼カムイ女"
+    ]
+  },
+  {
+    "id": "DUO_PID_比翼カムイ男",
+    "owner_ids": [
+      "PID_比翼カムイ男"
+    ]
+  },
+  {
+    "id": "DUO_PID_比翼ダグ",
+    "owner_ids": [
+      "PID_比翼ダグ"
+    ]
+  },
+  {
+    "id": "DUO_PID_比翼ドーマ",
+    "owner_ids": [
+      "PID_比翼ドーマ"
+    ]
+  },
+  {
+    "id": "DUO_PID_比翼エイリーク",
+    "owner_ids": [
+      "PID_比翼エイリーク"
+    ]
+  },
+  {
+    "id": "DUO_PID_比翼エリンシア",
+    "owner_ids": [
+      "PID_比翼エリンシア"
+    ]
+  },
+  {
+    "id": "DUO_PID_比翼エリーゼ",
+    "owner_ids": [
+      "PID_比翼エリーゼ"
+    ]
+  },
+  {
+    "id": "DUO_PID_比翼エフラム",
+    "owner_ids": [
+      "PID_比翼エフラム"
+    ]
+  },
+  {
+    "id": "DUO_PID_比翼フィヨルム",
+    "owner_ids": [
+      "PID_比翼フィヨルム"
+    ]
+  },
+  {
+    "id": "DUO_PID_比翼フレイヤ",
+    "owner_ids": [
+      "PID_比翼フレイヤ"
+    ]
+  },
+  {
+    "id": "DUO_PID_比翼グルヴェイグ",
+    "owner_ids": [
+      "PID_比翼グルヴェイグ"
+    ]
+  },
+  {
+    "id": "DUO_PID_比翼グルヴェイグ2",
+    "owner_ids": [
+      "PID_比翼グルヴェイグ2"
+    ]
+  },
+  {
+    "id": "DUO_PID_比翼ハピ",
+    "owner_ids": [
+      "PID_比翼ハピ"
+    ]
+  },
+  {
+    "id": "DUO_PID_比翼ヘクトル",
+    "owner_ids": [
+      "PID_比翼ヘクトル"
+    ]
+  },
+  {
+    "id": "DUO_PID_比翼ヘイズルーン",
+    "owner_ids": [
+      "PID_比翼ヘイズルーン"
+    ]
+  },
+  {
+    "id": "DUO_PID_比翼ヒルダ",
+    "owner_ids": [
+      "PID_比翼ヒルダ"
+    ]
+  },
+  {
+    "id": "DUO_PID_比翼ヒノカ",
+    "owner_ids": [
+      "PID_比翼ヒノカ"
+    ]
+  },
+  {
+    "id": "DUO_PID_比翼イドゥン",
+    "owner_ids": [
+      "PID_比翼イドゥン"
+    ]
+  },
+  {
+    "id": "DUO_PID_比翼アイク",
+    "owner_ids": [
+      "PID_比翼アイク"
+    ]
+  },
+  {
+    "id": "DUO_PID_比翼ユリア",
+    "owner_ids": [
+      "PID_比翼ユリア"
+    ]
+  },
+  {
+    "id": "DUO_PID_比翼カゲロウ",
+    "owner_ids": [
+      "PID_比翼カゲロウ"
+    ]
+  },
+  {
+    "id": "DUO_PID_比翼レーギャルン",
+    "owner_ids": [
+      "PID_比翼レーギャルン"
+    ]
+  },
+  {
+    "id": "DUO_PID_比翼リーヴ",
+    "owner_ids": [
+      "PID_比翼リーヴ"
+    ]
+  },
+  {
+    "id": "DUO_PID_比翼ルキナ",
+    "owner_ids": [
+      "PID_比翼ルキナ"
+    ]
+  },
+  {
+    "id": "DUO_PID_比翼リン",
+    "owner_ids": [
+      "PID_比翼リン"
+    ]
+  },
+  {
+    "id": "DUO_PID_比翼リオン",
+    "owner_ids": [
+      "PID_比翼リオン"
+    ]
+  },
+  {
+    "id": "DUO_PID_比翼軍師マーク",
+    "owner_ids": [
+      "PID_比翼軍師マーク"
+    ]
+  },
+  {
+    "id": "DUO_PID_比翼マルス2",
+    "owner_ids": [
+      "PID_比翼マルス2"
+    ]
+  },
+  {
+    "id": "DUO_PID_比翼マルス",
+    "owner_ids": [
+      "PID_比翼マルス"
+    ]
+  },
+  {
+    "id": "DUO_PID_比翼ミカヤ",
+    "owner_ids": [
+      "PID_比翼ミカヤ"
+    ]
+  },
+  {
+    "id": "DUO_PID_比翼エポニーヌ",
+    "owner_ids": [
+      "PID_比翼エポニーヌ"
+    ]
+  },
+  {
+    "id": "DUO_PID_比翼パオラ",
+    "owner_ids": [
+      "PID_比翼パオラ"
+    ]
+  },
+  {
+    "id": "DUO_PID_比翼ピアニー",
+    "owner_ids": [
+      "PID_比翼ピアニー"
+    ]
+  },
+  {
+    "id": "DUO_PID_比翼レア",
+    "owner_ids": [
+      "PID_比翼レア"
+    ]
+  },
+  {
+    "id": "DUO_PID_比翼ルフレ女",
+    "owner_ids": [
+      "PID_比翼ルフレ女"
+    ]
+  },
+  {
+    "id": "DUO_PID_比翼サナキ",
+    "owner_ids": [
+      "PID_比翼サナキ"
+    ]
+  },
+  {
+    "id": "DUO_PID_比翼セイズ",
+    "owner_ids": [
+      "PID_比翼セイズ"
+    ]
+  },
+  {
+    "id": "DUO_PID_比翼シャミア",
+    "owner_ids": [
+      "PID_比翼シャミア"
+    ]
+  },
+  {
+    "id": "DUO_PID_比翼シャロン",
+    "owner_ids": [
+      "PID_比翼シャロン"
+    ]
+  },
+  {
+    "id": "DUO_PID_比翼シグルド",
+    "owner_ids": [
+      "PID_比翼シグルド"
+    ]
+  },
+  {
+    "id": "DUO_PID_比翼ソティス",
+    "owner_ids": [
+      "PID_比翼ソティス"
+    ]
+  },
+  {
+    "id": "DUO_PID_比翼トール",
+    "owner_ids": [
+      "PID_比翼トール"
+    ]
+  },
+  {
+    "id": "DUO_PID_比翼ユーミル",
+    "owner_ids": [
+      "PID_比翼ユーミル"
+    ]
+  },
+  {
+    "id": "HARMONIZED_PID_双界オルティナ",
+    "owner_ids": [
+      "PID_双界オルティナ"
+    ]
+  },
+  {
+    "id": "HARMONIZED_PID_双界アンナ",
+    "owner_ids": [
+      "PID_双界アンナ"
+    ]
+  },
+  {
+    "id": "HARMONIZED_PID_双界アイラ",
+    "owner_ids": [
+      "PID_双界アイラ"
+    ]
+  },
+  {
+    "id": "HARMONIZED_PID_双界アクア",
+    "owner_ids": [
+      "PID_双界アクア"
+    ]
+  },
+  {
+    "id": "HARMONIZED_PID_双界シーダ",
+    "owner_ids": [
+      "PID_双界シーダ"
+    ]
+  },
+  {
+    "id": "HARMONIZED_PID_双界外伝カチュア",
+    "owner_ids": [
+      "PID_双界外伝カチュア"
+    ]
+  },
+  {
+    "id": "HARMONIZED_PID_双界セリカ",
+    "owner_ids": [
+      "PID_双界セリカ"
+    ]
+  },
+  {
+    "id": "HARMONIZED_PID_双界クロエ",
+    "owner_ids": [
+      "PID_双界クロエ"
+    ]
+  },
+  {
+    "id": "HARMONIZED_PID_双界ティアモ",
+    "owner_ids": [
+      "PID_双界ティアモ"
+    ]
+  },
+  {
+    "id": "HARMONIZED_PID_双界ドロテア",
+    "owner_ids": [
+      "PID_双界ドロテア"
+    ]
+  },
+  {
+    "id": "HARMONIZED_PID_双界エーデルガルト",
+    "owner_ids": [
+      "PID_双界エーデルガルト"
+    ]
+  },
+  {
+    "id": "HARMONIZED_PID_双界フィル",
+    "owner_ids": [
+      "PID_双界フィル"
+    ]
+  },
+  {
+    "id": "HARMONIZED_PID_双界ゴルドマリー",
+    "owner_ids": [
+      "PID_双界ゴルドマリー"
+    ]
+  },
+  {
+    "id": "HARMONIZED_PID_双界ヒルダ",
+    "owner_ids": [
+      "PID_双界ヒルダ"
+    ]
+  },
+  {
+    "id": "HARMONIZED_PID_双界イグレーヌ",
+    "owner_ids": [
+      "PID_双界イグレーヌ"
+    ]
+  },
+  {
+    "id": "HARMONIZED_PID_双界総選挙アイク",
+    "owner_ids": [
+      "PID_双界総選挙アイク"
+    ]
+  },
+  {
+    "id": "HARMONIZED_PID_双界イングリット",
+    "owner_ids": [
+      "PID_双界イングリット"
+    ]
+  },
+  {
+    "id": "HARMONIZED_PID_双界アイビー",
+    "owner_ids": [
+      "PID_双界アイビー"
+    ]
+  },
+  {
+    "id": "HARMONIZED_PID_双界カアラ",
+    "owner_ids": [
+      "PID_双界カアラ"
+    ]
+  },
+  {
+    "id": "HARMONIZED_PID_双界リーフ",
+    "owner_ids": [
+      "PID_双界リーフ"
+    ]
+  },
+  {
+    "id": "HARMONIZED_PID_双界リンダ",
+    "owner_ids": [
+      "PID_双界リンダ"
+    ]
+  },
+  {
+    "id": "HARMONIZED_PID_双界総選挙リン",
+    "owner_ids": [
+      "PID_双界総選挙リン"
+    ]
+  },
+  {
+    "id": "HARMONIZED_PID_双界リシテア",
+    "owner_ids": [
+      "PID_双界リシテア"
+    ]
+  },
+  {
+    "id": "HARMONIZED_PID_双界マリカ",
+    "owner_ids": [
+      "PID_双界マリカ"
+    ]
+  },
+  {
+    "id": "HARMONIZED_PID_双界ワユ",
+    "owner_ids": [
+      "PID_双界ワユ"
+    ]
+  },
+  {
+    "id": "HARMONIZED_PID_双界ミルラ",
+    "owner_ids": [
+      "PID_双界ミルラ"
+    ]
+  },
+  {
+    "id": "HARMONIZED_PID_双界ナギ",
+    "owner_ids": [
+      "PID_双界ナギ"
+    ]
+  },
+  {
+    "id": "HARMONIZED_PID_双界ネフェニー",
+    "owner_ids": [
+      "PID_双界ネフェニー"
+    ]
+  },
+  {
+    "id": "HARMONIZED_PID_双界プルメリア",
+    "owner_ids": [
+      "PID_双界プルメリア"
+    ]
+  },
+  {
+    "id": "HARMONIZED_PID_双界ロイ",
+    "owner_ids": [
+      "PID_双界ロイ"
+    ]
+  },
+  {
+    "id": "HARMONIZED_PID_双界ソニア",
+    "owner_ids": [
+      "PID_双界ソニア"
+    ]
+  },
+  {
+    "id": "HARMONIZED_PID_双界ターナ",
+    "owner_ids": [
+      "PID_双界ターナ"
+    ]
+  },
+  {
+    "id": "HARMONIZED_PID_双界チキ覚醒",
+    "owner_ids": [
+      "PID_双界チキ覚醒"
+    ]
+  },
+  {
+    "id": "HARMONIZED_PID_双界チキ",
+    "owner_ids": [
+      "PID_双界チキ"
+    ]
+  },
+  {
+    "id": "HARMONIZED_PID_双界ヴェロニカ",
+    "owner_ids": [
+      "PID_双界ヴェロニカ"
+    ]
+  },
+  {
+    "id": "EMBLEM_PID_紋章ベレト",
+    "owner_ids": [
+      "PID_紋章ベレト"
+    ]
+  },
+  {
+    "id": "EMBLEM_PID_紋章セリカ",
+    "owner_ids": [
+      "PID_紋章セリカ"
+    ]
+  },
+  {
+    "id": "EMBLEM_PID_紋章カムイ女",
+    "owner_ids": [
+      "PID_紋章カムイ女"
+    ]
+  },
+  {
+    "id": "EMBLEM_PID_紋章エーデル",
+    "owner_ids": [
+      "PID_紋章エーデル"
+    ]
+  },
+  {
+    "id": "EMBLEM_PID_紋章エイリーク",
+    "owner_ids": [
+      "PID_紋章エイリーク"
+    ]
+  },
+  {
+    "id": "EMBLEM_PID_紋章アイク",
+    "owner_ids": [
+      "PID_紋章アイク"
+    ]
+  },
+  {
+    "id": "EMBLEM_PID_紋章リン",
+    "owner_ids": [
+      "PID_紋章リン"
+    ]
+  },
+  {
+    "id": "EMBLEM_PID_紋章マルス",
+    "owner_ids": [
+      "PID_紋章マルス"
+    ]
+  },
+  {
+    "id": "EMBLEM_PID_紋章ミカヤ",
+    "owner_ids": [
+      "PID_紋章ミカヤ"
+    ]
+  },
+  {
+    "id": "EMBLEM_PID_紋章シグルド",
+    "owner_ids": [
+      "PID_紋章シグルド"
+    ]
   }
 ]
