@@ -892,6 +892,23 @@
     ]
   },
   {
+    "name": "Emblem Byleth & Legendary Elise",
+    "unit_ids": [
+      "PID_アシュ2味方",
+      "PID_ヘイムダル味方",
+      "PID_ヴァーリ味方",
+      "PID_伝承エリーゼ",
+      "PID_伝承サクラ",
+      "PID_双界総選挙アイク",
+      "PID_天の王味方",
+      "PID_比翼エリンシア",
+      "PID_紋章カムイ女",
+      "PID_紋章ベレト",
+      "PID_響心リョウマ",
+      "PID_魔器ヴァニタス味方"
+    ]
+  },
+  {
     "name": "Emblem Celica: Of Echoes",
     "unit_ids": [
       "PID_エンブラ味方",
