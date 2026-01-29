@@ -4375,6 +4375,44 @@
     "divine_codes": {}
   },
   {
+    "id": "PID_紋章ベレト",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "lowest_rarity": {
+      "foc": 5
+    },
+    "skill_ids": [
+      "SID_エルライト",
+      "SID_シャイン",
+      "SID_ライト",
+      "SID_導き手の書",
+      "SID_引き戻し",
+      "SID_引き戻し・歩法",
+      "SID_指導1",
+      "SID_指導2",
+      "SID_指導3",
+      "SID_指導4",
+      "SID_攻撃速さの万全1",
+      "SID_攻撃速さの万全2",
+      "SID_攻撃速さの万全3",
+      "SID_攻撃速さの共感",
+      "SID_攻撃速さの完全",
+      "SID_攻撃速さの連携1",
+      "SID_攻撃速さの連携2",
+      "SID_攻撃速さの連携3",
+      "SID_星影",
+      "SID_流星",
+      "SID_計略・女神の舞"
+    ],
+    "divine_codes": {}
+  },
+  {
     "id": "PID_ベレス",
     "is_in": {
       "gsp": true,
@@ -11661,6 +11699,42 @@
     "divine_codes": {}
   },
   {
+    "id": "PID_伝承エリーゼ",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "lowest_rarity": {
+      "foc": 5
+    },
+    "skill_ids": [
+      "SID_アイスロック",
+      "SID_アイスロック＋",
+      "SID_アサルト",
+      "SID_ライブ",
+      "SID_リライブ",
+      "SID_可憐なる夜の杖",
+      "SID_可憐な花",
+      "SID_攻撃速さの絆1",
+      "SID_攻撃速さの絆2",
+      "SID_攻撃速さの絆3",
+      "SID_攻撃速さの詠唱",
+      "SID_業火疾風の招福",
+      "SID_業火疾風の祝福",
+      "SID_治癒",
+      "SID_疾風の祝福",
+      "SID_速さの封印1",
+      "SID_速さ魔防の封印1",
+      "SID_速さ魔防の封印2",
+      "SID_速さ魔防の枷"
+    ],
+    "divine_codes": {}
+  },
+  {
     "id": "PID_幼少エリーゼ",
     "is_in": {
       "gsp": false,
@@ -14794,14 +14868,16 @@
   {
     "id": "PID_フランツ",
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "lowest_rarity": {},
+    "lowest_rarity": {
+      "gsp": 3
+    },
     "skill_ids": [
       "SID_入れ替え",
       "SID_怒涛・再起1",
@@ -31140,14 +31216,16 @@
   {
     "id": "PID_ムルヴァ",
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "lowest_rarity": {},
+    "lowest_rarity": {
+      "gsp": 5
+    },
     "skill_ids": [
       "SID_封魔のブレス",
       "SID_攻撃魔防の牽制1",

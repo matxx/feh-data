@@ -13,6 +13,7 @@
     "NF"
   ],
   "games": [
+    "Engage",
     "Fire Emblem Awakening",
     "Fire Emblem Echoes: Shadows of Valentia",
     "Fire Emblem Engage",
@@ -31,9 +32,10 @@
     "Fire Emblem: The Sacred Stones",
     "Fire Emblem: Thracia 776",
     "Fire Emblem: Three Houses",
+    "Three Houses",
     "Tokyo Mirage Sessions ♯FE Encore"
   ],
-  "units_count": 1341,
+  "units_count": 1343,
   "units_max_hp": 60,
   "units_max_hp_ids": [
     "PID_アーダン"
@@ -62,6 +64,7 @@
     "PID_比翼フレイヤ",
     "PID_獣人リン",
     "PID_紋章カムイ女",
+    "PID_紋章ベレト",
     "PID_総選挙シャロン"
   ],
   "units_max_def": 50,

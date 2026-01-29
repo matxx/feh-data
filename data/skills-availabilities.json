@@ -1519,19 +1519,23 @@
       "sh4": 1,
       "gsr": 1,
       "shsr": 4,
-      "g5": 4,
+      "g5": 1,
       "sh5": 4
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "olrwo": {},
-    "olrfi": {},
+    "olrwo": {
+      "gsp": 5
+    },
+    "olrfi": {
+      "gsp": 5
+    },
     "divine_codes": {}
   },
   {
@@ -4876,11 +4880,11 @@
       "PID_ネルトゥス味方"
     ],
     "required_slots": {
-      "g4": 4,
+      "g4": 1,
       "hg": 1,
       "dc": 1,
       "sh4": 1,
-      "gsr": 1,
+      "gsr": 4,
       "shsr": 4,
       "g5": 4,
       "sh5": 1
@@ -11051,6 +11055,7 @@
       "PID_神階エリミーヌ",
       "PID_開花エリンシア",
       "PID_エリーゼ",
+      "PID_伝承エリーゼ",
       "PID_幼少エリーゼ",
       "PID_比翼エリーゼ",
       "PID_エメリナ",
@@ -11471,11 +11476,11 @@
       "PID_シャロン22025味方"
     ],
     "required_slots": {
-      "g4": 4,
+      "g4": 1,
       "hg": 4,
       "dc": 4,
       "sh4": 4,
-      "gsr": 1,
+      "gsr": 4,
       "shsr": 1,
       "g5": 4,
       "sh5": 4
@@ -11738,6 +11743,7 @@
       "PID_伝承アイラ",
       "PID_双界アイラ",
       "PID_バルドル味方",
+      "PID_紋章ベレト",
       "PID_総選挙セリカ",
       "PID_魔器闇クロム",
       "PID_ティアモ",
@@ -22239,6 +22245,7 @@
   {
     "id": "SID_攻撃速さの詠唱",
     "owner_ids": [
+      "PID_伝承エリーゼ",
       "PID_比翼フレイヤ",
       "PID_総選挙シャロン",
       "PID_年明ヴァーリ",
@@ -22280,6 +22287,7 @@
       "PID_外伝カチュア",
       "PID_夢カムイ女",
       "PID_水着エリンシア",
+      "PID_伝承エリーゼ",
       "PID_年明フィヨルム",
       "PID_比翼フレイヤ",
       "PID_ヒノカ2",
@@ -22412,6 +22420,7 @@
       "PID_外伝カチュア",
       "PID_夢カムイ女",
       "PID_水着エリンシア",
+      "PID_伝承エリーゼ",
       "PID_年明フィヨルム",
       "PID_比翼フレイヤ",
       "PID_ヒノカ2",
@@ -22544,6 +22553,7 @@
       "PID_外伝カチュア",
       "PID_夢カムイ女",
       "PID_水着エリンシア",
+      "PID_伝承エリーゼ",
       "PID_年明フィヨルム",
       "PID_比翼フレイヤ",
       "PID_ヒノカ2",
@@ -23871,6 +23881,7 @@
   {
     "id": "SID_攻撃速さの共感",
     "owner_ids": [
+      "PID_紋章ベレト",
       "PID_双界ヒルダ",
       "PID_フェリア仮面マルス"
     ],
@@ -23890,13 +23901,15 @@
       "hg": false,
       "dc": false,
       "ldc": false,
-      "foc": false
+      "foc": true
     },
     "olrwo": {
-      "ssp": 5
+      "ssp": 5,
+      "foc": 5
     },
     "olrfi": {
-      "ssp": 5
+      "ssp": 5,
+      "foc": 5
     },
     "divine_codes": {}
   },
@@ -24910,6 +24923,7 @@
       "PID_響心アルム",
       "PID_アーサー",
       "PID_響心ブリギッド",
+      "PID_紋章ベレト",
       "PID_伝承ベレス",
       "PID_開花セティ",
       "PID_お茶会フェリクス",
@@ -25038,6 +25052,7 @@
       "PID_響心アルム",
       "PID_アーサー",
       "PID_響心ブリギッド",
+      "PID_紋章ベレト",
       "PID_伝承ベレス",
       "PID_開花セティ",
       "PID_お茶会フェリクス",
@@ -25166,6 +25181,7 @@
       "PID_響心アルム",
       "PID_アーサー",
       "PID_響心ブリギッド",
+      "PID_紋章ベレト",
       "PID_伝承ベレス",
       "PID_開花セティ",
       "PID_お茶会フェリクス",
@@ -25361,6 +25377,7 @@
     "id": "SID_攻撃速さの連携1",
     "owner_ids": [
       "PID_ボーレ",
+      "PID_紋章ベレト",
       "PID_水着エリンシア",
       "PID_年明フィヨルム",
       "PID_双界ヒルダ",
@@ -25387,21 +25404,23 @@
       "hg": true,
       "dc": true,
       "ldc": true,
-      "foc": false
+      "foc": true
     },
     "olrwo": {
       "gsp": 3,
       "ssp": 4.5,
       "hg": 4,
       "dc": 5,
-      "ldc": 4
+      "ldc": 4,
+      "foc": 5
     },
     "olrfi": {
       "gsp": 3,
       "ssp": 1,
       "hg": 3,
       "dc": 1,
-      "ldc": 3
+      "ldc": 3,
+      "foc": 2
     },
     "divine_codes": {
       "normal": [
@@ -25436,6 +25455,7 @@
     "id": "SID_攻撃速さの連携2",
     "owner_ids": [
       "PID_ボーレ",
+      "PID_紋章ベレト",
       "PID_水着エリンシア",
       "PID_年明フィヨルム",
       "PID_双界ヒルダ",
@@ -25462,21 +25482,23 @@
       "hg": true,
       "dc": true,
       "ldc": true,
-      "foc": false
+      "foc": true
     },
     "olrwo": {
       "gsp": 3,
       "ssp": 4.5,
       "hg": 4,
       "dc": 5,
-      "ldc": 4
+      "ldc": 4,
+      "foc": 5
     },
     "olrfi": {
       "gsp": 4,
       "ssp": 2,
       "hg": 4,
       "dc": 2,
-      "ldc": 4
+      "ldc": 4,
+      "foc": 3
     },
     "divine_codes": {
       "normal": [
@@ -25511,6 +25533,7 @@
     "id": "SID_攻撃速さの連携3",
     "owner_ids": [
       "PID_ボーレ",
+      "PID_紋章ベレト",
       "PID_水着エリンシア",
       "PID_年明フィヨルム",
       "PID_双界ヒルダ",
@@ -25537,21 +25560,23 @@
       "hg": true,
       "dc": true,
       "ldc": true,
-      "foc": false
+      "foc": true
     },
     "olrwo": {
       "gsp": 3,
       "ssp": 4.5,
       "hg": 4,
       "dc": 5,
-      "ldc": 4
+      "ldc": 4,
+      "foc": 5
     },
     "olrfi": {
       "gsp": 5,
       "ssp": 4,
       "hg": 5,
       "dc": 4,
-      "ldc": 5
+      "ldc": 5,
+      "foc": 4
     },
     "divine_codes": {
       "normal": [
@@ -44862,6 +44887,68 @@
     }
   },
   {
+    "id": "SID_可憐な花",
+    "owner_ids": [
+      "PID_伝承エリーゼ"
+    ],
+    "required_slots": {
+      "g4": 1,
+      "hg": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 1,
+      "shsr": 1,
+      "g5": 1,
+      "sh5": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "olrwo": {
+      "foc": 5
+    },
+    "olrfi": {
+      "foc": 5
+    },
+    "divine_codes": {}
+  },
+  {
+    "id": "SID_可憐なる夜の杖",
+    "owner_ids": [
+      "PID_伝承エリーゼ"
+    ],
+    "required_slots": {
+      "g4": 1,
+      "hg": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 2,
+      "shsr": 2,
+      "g5": 2,
+      "sh5": 2
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "olrwo": {
+      "foc": 5
+    },
+    "olrfi": {
+      "foc": 5
+    },
+    "divine_codes": {}
+  },
+  {
     "id": "SID_回避・盾の鼓動4",
     "owner_ids": [
       "PID_エディ",
@@ -50106,6 +50193,7 @@
       "PID_魔女セリカ",
       "PID_総選挙クロード",
       "PID_冬祭クロード",
+      "PID_伝承エリーゼ",
       "PID_フュリー",
       "PID_ホメロス",
       "PID_ジル",
@@ -50509,6 +50597,7 @@
     "id": "SID_速さ魔防の封印1",
     "owner_ids": [
       "PID_比翼ベレス",
+      "PID_伝承エリーゼ",
       "PID_ホメロス",
       "PID_総選挙シャロン",
       "PID_カダインウルスラ",
@@ -50560,6 +50649,7 @@
     "id": "SID_速さ魔防の封印2",
     "owner_ids": [
       "PID_比翼ベレス",
+      "PID_伝承エリーゼ",
       "PID_ホメロス",
       "PID_総選挙シャロン",
       "PID_カダインウルスラ",
@@ -72495,11 +72585,11 @@
       "sh4": 1,
       "gsr": 3,
       "shsr": 3,
-      "g5": 3,
+      "g5": 1,
       "sh5": 3
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
@@ -72507,9 +72597,11 @@
       "foc": true
     },
     "olrwo": {
+      "gsp": 5,
       "foc": 5
     },
     "olrfi": {
+      "gsp": 5,
       "foc": 5
     },
     "divine_codes": {}
@@ -73376,7 +73468,7 @@
       "sh5": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": true,
       "hg": true,
       "dc": true,
@@ -73384,6 +73476,7 @@
       "foc": true
     },
     "olrwo": {
+      "gsp": 5,
       "ssp": 4.5,
       "hg": 4,
       "dc": 5,
@@ -73391,6 +73484,7 @@
       "foc": 5
     },
     "olrfi": {
+      "gsp": 2,
       "ssp": 1,
       "hg": 3,
       "dc": 2,
@@ -73441,11 +73535,11 @@
       "sh4": 2,
       "gsr": 2,
       "shsr": 1,
-      "g5": 2,
+      "g5": 1,
       "sh5": 2
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": true,
       "hg": true,
       "dc": true,
@@ -73453,6 +73547,7 @@
       "foc": true
     },
     "olrwo": {
+      "gsp": 5,
       "ssp": 4.5,
       "hg": 4,
       "dc": 5,
@@ -73460,6 +73555,7 @@
       "foc": 5
     },
     "olrfi": {
+      "gsp": 3,
       "ssp": 2,
       "hg": 4,
       "dc": 3,
@@ -73510,11 +73606,11 @@
       "sh4": 3,
       "gsr": 3,
       "shsr": 1,
-      "g5": 3,
+      "g5": 1,
       "sh5": 3
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": true,
       "hg": true,
       "dc": true,
@@ -73522,6 +73618,7 @@
       "foc": true
     },
     "olrwo": {
+      "gsp": 5,
       "ssp": 4.5,
       "hg": 4,
       "dc": 5,
@@ -73529,6 +73626,7 @@
       "foc": 5
     },
     "olrfi": {
+      "gsp": 4,
       "ssp": 4,
       "hg": 5,
       "dc": 4,
@@ -73571,7 +73669,7 @@
       "sh4": 4,
       "gsr": 4,
       "shsr": 1,
-      "g5": 4,
+      "g5": 1,
       "sh5": 1
     },
     "is_in": {
@@ -73656,11 +73754,11 @@
       "sh4": 4,
       "gsr": 4,
       "shsr": 1,
-      "g5": 4,
+      "g5": 1,
       "sh5": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": true,
       "hg": false,
       "dc": true,
@@ -73668,11 +73766,13 @@
       "foc": true
     },
     "olrwo": {
+      "gsp": 5,
       "ssp": 5,
       "dc": 5,
       "foc": 5
     },
     "olrfi": {
+      "gsp": 5,
       "ssp": 5,
       "dc": 5,
       "foc": 5
@@ -78539,6 +78639,7 @@
       "PID_比翼アルフォンス",
       "PID_神階アトス",
       "PID_伝承アクア",
+      "PID_紋章ベレト",
       "PID_伝承ベレス",
       "PID_紋章セリカ",
       "PID_忍者セリーヌ",
@@ -91586,7 +91687,7 @@
       "foc": true
     },
     "olrwo": {
-      "gsp": 4.5,
+      "gsp": 3,
       "ssp": 4.5,
       "foc": 5
     },
@@ -91612,11 +91713,11 @@
       "PID_スカビオサ2"
     ],
     "required_slots": {
-      "g4": 2,
+      "g4": 1,
       "hg": 2,
       "dc": 2,
       "sh4": 2,
-      "gsr": 1,
+      "gsr": 2,
       "shsr": 1,
       "g5": 2,
       "sh5": 2
@@ -91630,7 +91731,7 @@
       "foc": true
     },
     "olrwo": {
-      "gsp": 4.5,
+      "gsp": 3,
       "ssp": 4.5,
       "foc": 5
     },
@@ -91656,11 +91757,11 @@
       "PID_スカビオサ2"
     ],
     "required_slots": {
-      "g4": 3,
+      "g4": 1,
       "hg": 3,
       "dc": 3,
       "sh4": 3,
-      "gsr": 1,
+      "gsr": 3,
       "shsr": 1,
       "g5": 3,
       "sh5": 3
@@ -91674,7 +91775,7 @@
       "foc": true
     },
     "olrwo": {
-      "gsp": 4.5,
+      "gsp": 3,
       "ssp": 4.5,
       "foc": 5
     },
@@ -91691,11 +91792,11 @@
       "PID_スカビオサ2"
     ],
     "required_slots": {
-      "g4": 4,
+      "g4": 1,
       "hg": 4,
       "dc": 4,
       "sh4": 4,
-      "gsr": 1,
+      "gsr": 4,
       "shsr": 1,
       "g5": 4,
       "sh5": 4
@@ -101915,6 +102016,37 @@
     "divine_codes": {}
   },
   {
+    "id": "SID_計略・女神の舞",
+    "owner_ids": [
+      "PID_紋章ベレト"
+    ],
+    "required_slots": {
+      "g4": 1,
+      "hg": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 3,
+      "shsr": 3,
+      "g5": 3,
+      "sh5": 3
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "olrwo": {
+      "foc": 5
+    },
+    "olrfi": {
+      "foc": 5
+    },
+    "divine_codes": {}
+  },
+  {
     "id": "SID_女神姉妹の手毬",
     "owner_ids": [
       "PID_比翼セイズ"
@@ -108891,6 +109023,7 @@
       "PID_神階エリミーヌ",
       "PID_開花エリンシア",
       "PID_エリーゼ",
+      "PID_伝承エリーゼ",
       "PID_幼少エリーゼ",
       "PID_比翼エリーゼ",
       "PID_エメリナ",
@@ -116033,6 +116166,7 @@
   {
     "id": "SID_アイスロック",
     "owner_ids": [
+      "PID_伝承エリーゼ",
       "PID_冬祭オルテンシア",
       "PID_魔器ラーチェル",
       "PID_伝承サクラ"
@@ -116068,6 +116202,7 @@
   {
     "id": "SID_アイスロック＋",
     "owner_ids": [
+      "PID_伝承エリーゼ",
       "PID_冬祭オルテンシア",
       "PID_魔器ラーチェル",
       "PID_伝承サクラ"
@@ -117431,6 +117566,7 @@
       "PID_エリス",
       "PID_開花エリンシア",
       "PID_エリーゼ",
+      "PID_伝承エリーゼ",
       "PID_幼少エリーゼ",
       "PID_比翼エリーゼ",
       "PID_エメリナ",
@@ -118234,11 +118370,11 @@
       "PID_開花マリク"
     ],
     "required_slots": {
-      "g4": 4,
+      "g4": 1,
       "hg": 1,
       "dc": 1,
       "sh4": 1,
-      "gsr": 1,
+      "gsr": 4,
       "shsr": 4,
       "g5": 1,
       "sh5": 4
@@ -120354,6 +120490,161 @@
     },
     "olrfi": {
       "hg": 5
+    },
+    "divine_codes": {}
+  },
+  {
+    "id": "SID_指導1",
+    "owner_ids": [
+      "PID_紋章ベレト"
+    ],
+    "required_slots": {
+      "g4": 1,
+      "hg": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 1,
+      "shsr": 1,
+      "g5": 1,
+      "sh5": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "olrwo": {
+      "foc": 5
+    },
+    "olrfi": {
+      "foc": 2
+    },
+    "divine_codes": {}
+  },
+  {
+    "id": "SID_指導2",
+    "owner_ids": [
+      "PID_紋章ベレト"
+    ],
+    "required_slots": {
+      "g4": 2,
+      "hg": 2,
+      "dc": 2,
+      "sh4": 2,
+      "gsr": 2,
+      "shsr": 2,
+      "g5": 2,
+      "sh5": 2
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "olrwo": {
+      "foc": 5
+    },
+    "olrfi": {
+      "foc": 3
+    },
+    "divine_codes": {}
+  },
+  {
+    "id": "SID_指導3",
+    "owner_ids": [
+      "PID_紋章ベレト"
+    ],
+    "required_slots": {
+      "g4": 3,
+      "hg": 3,
+      "dc": 3,
+      "sh4": 3,
+      "gsr": 3,
+      "shsr": 3,
+      "g5": 3,
+      "sh5": 3
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "olrwo": {
+      "foc": 5
+    },
+    "olrfi": {
+      "foc": 4
+    },
+    "divine_codes": {}
+  },
+  {
+    "id": "SID_指導4",
+    "owner_ids": [
+      "PID_紋章ベレト"
+    ],
+    "required_slots": {
+      "g4": 4,
+      "hg": 4,
+      "dc": 4,
+      "sh4": 4,
+      "gsr": 4,
+      "shsr": 4,
+      "g5": 4,
+      "sh5": 4
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "olrwo": {
+      "foc": 5
+    },
+    "olrfi": {
+      "foc": 5
+    },
+    "divine_codes": {}
+  },
+  {
+    "id": "SID_導き手の書",
+    "owner_ids": [
+      "PID_紋章ベレト"
+    ],
+    "required_slots": {
+      "g4": 1,
+      "hg": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 4,
+      "shsr": 1,
+      "g5": 4,
+      "sh5": 4
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "olrwo": {
+      "foc": 5
+    },
+    "olrfi": {
+      "foc": 5
     },
     "divine_codes": {}
   },
@@ -130949,6 +131240,7 @@
       "PID_比翼アルフォンス",
       "PID_神階アトス",
       "PID_伝承アクア",
+      "PID_紋章ベレト",
       "PID_伝承ベレス",
       "PID_紋章セリカ",
       "PID_忍者セリーヌ",
@@ -137425,15 +137717,19 @@
       "sh5": 3
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "olrwo": {},
-    "olrfi": {},
+    "olrwo": {
+      "gsp": 3
+    },
+    "olrfi": {
+      "gsp": 3
+    },
     "divine_codes": {}
   },
   {
@@ -137442,7 +137738,7 @@
       "PID_フランツ"
     ],
     "required_slots": {
-      "g4": 2,
+      "g4": 1,
       "hg": 2,
       "dc": 2,
       "sh4": 2,
@@ -137452,15 +137748,19 @@
       "sh5": 4
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "olrwo": {},
-    "olrfi": {},
+    "olrwo": {
+      "gsp": 3
+    },
+    "olrfi": {
+      "gsp": 5
+    },
     "divine_codes": {}
   },
   {
@@ -137613,6 +137913,7 @@
       "PID_ブレディ",
       "PID_エーディン",
       "PID_エリーゼ",
+      "PID_伝承エリーゼ",
       "PID_幼少エメリナ",
       "PID_エレミヤ",
       "PID_エスリン",
@@ -143471,6 +143772,7 @@
       "PID_バルドル味方",
       "PID_ベルカ",
       "PID_総選挙ベレト",
+      "PID_紋章ベレト",
       "PID_忍者カミラ",
       "PID_温泉カミラ",
       "PID_総選挙セリカ",
@@ -152911,6 +153213,7 @@
     "owner_ids": [
       "PID_響心アルム",
       "PID_響心ブリギッド",
+      "PID_紋章ベレト",
       "PID_お茶会フェリクス",
       "PID_イグナーツ",
       "PID_花嫁ラクチェ",
@@ -155442,11 +155745,11 @@
       "PID_花婿セリス"
     ],
     "required_slots": {
-      "g4": 4,
+      "g4": 1,
       "hg": 4,
       "dc": 4,
       "sh4": 4,
-      "gsr": 1,
+      "gsr": 4,
       "shsr": 1,
       "g5": 4,
       "sh5": 1
@@ -157564,19 +157867,23 @@
       "sh4": 2,
       "gsr": 4,
       "shsr": 1,
-      "g5": 4,
+      "g5": 1,
       "sh5": 4
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "olrwo": {},
-    "olrfi": {},
+    "olrwo": {
+      "gsp": 5
+    },
+    "olrfi": {
+      "gsp": 5
+    },
     "divine_codes": {}
   },
   {
@@ -166554,6 +166861,7 @@
     "id": "SID_引き戻し",
     "owner_ids": [
       "PID_バーツ",
+      "PID_紋章ベレト",
       "PID_キャス",
       "PID_伝承クロム",
       "PID_比翼クロム",
@@ -166937,6 +167245,7 @@
   {
     "id": "SID_引き戻し・歩法",
     "owner_ids": [
+      "PID_紋章ベレト",
       "PID_ダグ2味方"
     ],
     "required_slots": {
@@ -172022,7 +172331,7 @@
       "foc": true
     },
     "olrwo": {
-      "gsp": 4.5,
+      "gsp": 3,
       "ssp": 4,
       "hg": 3,
       "dc": 5,
@@ -172093,11 +172402,11 @@
       "PID_浴衣タクミ"
     ],
     "required_slots": {
-      "g4": 2,
+      "g4": 1,
       "hg": 1,
       "dc": 1,
       "sh4": 1,
-      "gsr": 1,
+      "gsr": 2,
       "shsr": 2,
       "g5": 2,
       "sh5": 2
@@ -172111,7 +172420,7 @@
       "foc": true
     },
     "olrwo": {
-      "gsp": 4.5,
+      "gsp": 3,
       "ssp": 4,
       "hg": 3,
       "dc": 5,
@@ -172182,11 +172491,11 @@
       "PID_浴衣タクミ"
     ],
     "required_slots": {
-      "g4": 3,
+      "g4": 1,
       "hg": 1,
       "dc": 1,
       "sh4": 1,
-      "gsr": 1,
+      "gsr": 3,
       "shsr": 3,
       "g5": 3,
       "sh5": 3
@@ -172200,7 +172509,7 @@
       "foc": true
     },
     "olrwo": {
-      "gsp": 4.5,
+      "gsp": 3,
       "ssp": 4,
       "hg": 3,
       "dc": 5,
@@ -172258,7 +172567,7 @@
       "PID_開花レーギャルン"
     ],
     "required_slots": {
-      "g4": 4,
+      "g4": 1,
       "hg": 1,
       "dc": 1,
       "sh4": 1,
@@ -183041,6 +183350,7 @@
       "PID_比翼アルフォンス",
       "PID_神階アトス",
       "PID_伝承アクア",
+      "PID_紋章ベレト",
       "PID_伝承ベレス",
       "PID_紋章セリカ",
       "PID_忍者セリーヌ",
@@ -198252,6 +198562,7 @@
   {
     "id": "SID_速さ魔防の枷",
     "owner_ids": [
+      "PID_伝承エリーゼ",
       "PID_総選挙シャロン",
       "PID_年明ヴァーリ",
       "PID_ヴァーリ味方"
@@ -215381,6 +215692,7 @@
     "id": "SID_疾風の祝福",
     "owner_ids": [
       "PID_クラリーネ",
+      "PID_伝承エリーゼ",
       "PID_水着ラーチェル",
       "PID_花嫁ラナ",
       "PID_リノアン",
@@ -215403,19 +215715,21 @@
       "hg": true,
       "dc": false,
       "ldc": true,
-      "foc": false
+      "foc": true
     },
     "olrwo": {
       "gsp": 3,
       "ssp": 4,
       "hg": 4,
-      "ldc": 4
+      "ldc": 4,
+      "foc": 5
     },
     "olrfi": {
       "gsp": 3,
       "ssp": 3,
       "hg": 3,
-      "ldc": 3
+      "ldc": 3,
+      "foc": 3
     },
     "divine_codes": {
       "limited": [
@@ -234408,6 +234722,7 @@
   {
     "id": "SID_業火疾風の祝福",
     "owner_ids": [
+      "PID_伝承エリーゼ",
       "PID_幼少ラーチェル",
       "PID_花嫁ラナ",
       "PID_総選挙ヴェロニカ"
@@ -234428,21 +234743,23 @@
       "hg": true,
       "dc": true,
       "ldc": true,
-      "foc": false
+      "foc": true
     },
     "olrwo": {
       "gsp": 4.5,
       "ssp": 4.5,
       "hg": 4,
       "dc": 5,
-      "ldc": 4
+      "ldc": 4,
+      "foc": 5
     },
     "olrfi": {
       "gsp": 4,
       "ssp": 4,
       "hg": 4,
       "dc": 4,
-      "ldc": 4
+      "ldc": 4,
+      "foc": 4
     },
     "divine_codes": {
       "normal": [
@@ -234505,6 +234822,37 @@
         }
       ]
     }
+  },
+  {
+    "id": "SID_業火疾風の招福",
+    "owner_ids": [
+      "PID_伝承エリーゼ"
+    ],
+    "required_slots": {
+      "g4": 2,
+      "hg": 1,
+      "dc": 1,
+      "sh4": 2,
+      "gsr": 1,
+      "shsr": 1,
+      "g5": 3,
+      "sh5": 3
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "olrwo": {
+      "foc": 5
+    },
+    "olrfi": {
+      "foc": 5
+    },
+    "divine_codes": {}
   },
   {
     "id": "SID_予兆の風",

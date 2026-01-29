@@ -904,6 +904,13 @@
     "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/0f/Byleth_Frosty_Professors_BtlFace_D.webp/revision/latest?cb=20231214043642"
   },
   {
+    "id": "PID_紋章ベレト",
+    "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e7/Byleth_Of_the_Academy_Face.webp/revision/latest?cb=20260129043005",
+    "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/51/Byleth_Of_the_Academy_BtlFace.webp/revision/latest?cb=20260129042940",
+    "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/a1/Byleth_Of_the_Academy_BtlFace_C.webp/revision/latest?cb=20260129042955",
+    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/69/Byleth_Of_the_Academy_BtlFace_D.webp/revision/latest?cb=20260129043000"
+  },
+  {
     "id": "PID_ベレス",
     "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/4d/Byleth_Proven_Professor_Face.webp/revision/latest?cb=20190920225452",
     "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/9a/Byleth_Proven_Professor_BtlFace.webp/revision/latest?cb=20190920225457",
@@ -2459,6 +2466,13 @@
     "art_resp_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/36/Elise_Budding_Flower_Resplendent_BtlFace.webp/revision/latest?cb=20221017045201",
     "art_resp_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/ac/Elise_Budding_Flower_Resplendent_BtlFace_C.webp/revision/latest?cb=20221017045220",
     "art_resp_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/3f/Elise_Budding_Flower_Resplendent_BtlFace_D.webp/revision/latest?cb=20221017045227"
+  },
+  {
+    "id": "PID_伝承エリーゼ",
+    "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/6b/Elise_Sincere_Sister_Face.webp/revision/latest?cb=20260129042930",
+    "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/ab/Elise_Sincere_Sister_BtlFace.webp/revision/latest?cb=20260129042905",
+    "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/2/29/Elise_Sincere_Sister_BtlFace_C.webp/revision/latest?cb=20260129042920",
+    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/09/Elise_Sincere_Sister_BtlFace_D.webp/revision/latest?cb=20260129042925"
   },
   {
     "id": "PID_幼少エリーゼ",

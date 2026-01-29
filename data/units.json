@@ -3352,6 +3352,32 @@
     "max_score": 770
   },
   {
+    "id": "PID_紋章ベレト",
+    "name": "Byleth",
+    "title": "Of the Academy",
+    "full_name": "Byleth: Of the Academy",
+    "abbreviated_name": "E!Byleth(M)",
+    "gender": "M",
+    "move_type": "Infantry",
+    "weapon_type": "Blue Tome",
+    "games": [
+      "Three Houses",
+      "Engage"
+    ],
+    "id_int": 1342,
+    "origin": "120000100100",
+    "book": 10,
+    "max_df": 5,
+    "is_emblem": true,
+    "addition_date": "2026-01-29",
+    "release_date": "2026-01-29",
+    "version": "10.1",
+    "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d3/Byleth_Of_the_Academy_Face_FC.webp/revision/latest?cb=20260129043010",
+    "bst": 193,
+    "visible_bst": 197,
+    "max_score": 764
+  },
+  {
     "id": "PID_ベレス",
     "name": "Byleth",
     "title": "Proven Professor",
@@ -8956,6 +8982,34 @@
     "max_score": 758
   },
   {
+    "id": "PID_伝承エリーゼ",
+    "name": "Elise",
+    "title": "Sincere Sister",
+    "full_name": "Elise: Sincere Sister",
+    "abbreviated_name": "L!Elise",
+    "gender": "F",
+    "move_type": "Cavalry",
+    "weapon_type": "Colorless Staff",
+    "games": [
+      "Fire Emblem Fates"
+    ],
+    "id_int": 1343,
+    "origin": "110000501200",
+    "book": 10,
+    "max_df": 5,
+    "is_legendary": true,
+    "element": "Fire",
+    "addition_date": "2026-01-29",
+    "release_date": "2026-01-29",
+    "version": "10.1",
+    "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/50/Elise_Sincere_Sister_Face_FC.webp/revision/latest?cb=20260129042935",
+    "image_url_for_icon_legendary": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/ab/Legendary_Effect_Fire.png/revision/latest?cb=20171130004141",
+    "bst": 185,
+    "duel_score": 220,
+    "visible_bst": 220,
+    "max_score": 774
+  },
+  {
     "id": "PID_幼少エリーゼ",
     "name": "Elise",
     "title": "Sparkling Smile",
@@ -11311,6 +11365,7 @@
     "origin": "070000100600",
     "book": 10,
     "max_df": 5,
+    "is_generic_pool": true,
     "addition_date": "2026-01-05",
     "release_date": "2026-01-06",
     "version": "10.1",
@@ -23627,6 +23682,7 @@
     "origin": "070000700050",
     "book": 10,
     "max_df": 5,
+    "is_generic_pool": true,
     "addition_date": "2026-01-05",
     "release_date": "2026-01-06",
     "version": "10.1",

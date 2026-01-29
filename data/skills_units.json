@@ -10830,6 +10830,132 @@
     "unlock": 5
   },
   {
+    "unit_id": "PID_紋章ベレト",
+    "skill_id": "SID_流星",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_紋章ベレト",
+    "skill_id": "SID_攻撃速さの共感",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_紋章ベレト",
+    "skill_id": "SID_攻撃速さの万全1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_紋章ベレト",
+    "skill_id": "SID_攻撃速さの万全2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_紋章ベレト",
+    "skill_id": "SID_攻撃速さの万全3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_紋章ベレト",
+    "skill_id": "SID_攻撃速さの連携1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_紋章ベレト",
+    "skill_id": "SID_攻撃速さの連携2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_紋章ベレト",
+    "skill_id": "SID_攻撃速さの連携3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_紋章ベレト",
+    "skill_id": "SID_エルライト",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_紋章ベレト",
+    "skill_id": "SID_計略・女神の舞",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_紋章ベレト",
+    "skill_id": "SID_指導1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_紋章ベレト",
+    "skill_id": "SID_指導2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_紋章ベレト",
+    "skill_id": "SID_指導3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_紋章ベレト",
+    "skill_id": "SID_指導4",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_紋章ベレト",
+    "skill_id": "SID_導き手の書",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_紋章ベレト",
+    "skill_id": "SID_ライト",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_紋章ベレト",
+    "skill_id": "SID_星影",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_紋章ベレト",
+    "skill_id": "SID_攻撃速さの完全",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_紋章ベレト",
+    "skill_id": "SID_引き戻し",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_紋章ベレト",
+    "skill_id": "SID_引き戻し・歩法",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_紋章ベレト",
+    "skill_id": "SID_シャイン",
+    "default": 4,
+    "unlock": 3
+  },
+  {
     "unit_id": "PID_ベレス",
     "skill_id": "SID_天帝の剣",
     "default": 5,
@@ -28478,6 +28604,120 @@
   {
     "unit_id": "PID_エリーゼ",
     "skill_id": "SID_リカバー＋",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_伝承エリーゼ",
+    "skill_id": "SID_アサルト",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_伝承エリーゼ",
+    "skill_id": "SID_攻撃速さの詠唱",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_伝承エリーゼ",
+    "skill_id": "SID_攻撃速さの絆1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_伝承エリーゼ",
+    "skill_id": "SID_攻撃速さの絆2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_伝承エリーゼ",
+    "skill_id": "SID_攻撃速さの絆3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_伝承エリーゼ",
+    "skill_id": "SID_可憐な花",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_伝承エリーゼ",
+    "skill_id": "SID_可憐なる夜の杖",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_伝承エリーゼ",
+    "skill_id": "SID_速さの封印1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_伝承エリーゼ",
+    "skill_id": "SID_速さ魔防の封印1",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_伝承エリーゼ",
+    "skill_id": "SID_速さ魔防の封印2",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_伝承エリーゼ",
+    "skill_id": "SID_ライブ",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_伝承エリーゼ",
+    "skill_id": "SID_アイスロック",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_伝承エリーゼ",
+    "skill_id": "SID_アイスロック＋",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_伝承エリーゼ",
+    "skill_id": "SID_治癒",
+    "default": 4,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_伝承エリーゼ",
+    "skill_id": "SID_リライブ",
+    "default": 3,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_伝承エリーゼ",
+    "skill_id": "SID_速さ魔防の枷",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_伝承エリーゼ",
+    "skill_id": "SID_疾風の祝福",
+    "default": 5,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_伝承エリーゼ",
+    "skill_id": "SID_業火疾風の祝福",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_伝承エリーゼ",
+    "skill_id": "SID_業火疾風の招福",
     "default": 0,
     "unlock": 5
   },

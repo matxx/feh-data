@@ -7453,6 +7453,7 @@
       "SID_アスクレピオス",
       "SID_戦神の闇夜の杖",
       "SID_花嫁の杖",
+      "SID_可憐なる夜の杖",
       "SID_カドゥケウスの杖",
       "SID_キャンドルサービス",
       "SID_クリミア女王の王笏",
@@ -7781,6 +7782,7 @@
       "SID_剣聖の流星雨",
       "SID_疾風迅雷",
       "SID_疾風迅雷・霞",
+      "SID_計略・女神の舞",
       "SID_剣皇の流星",
       "SID_敏捷なる獣",
       "SID_ノヴァの聖戦士",
@@ -25515,6 +25517,53 @@
     "version": "4.2",
     "downgrade_ids": [
       "SID_愛情の花の弓"
+    ]
+  },
+  {
+    "id": "SID_可憐な花",
+    "name": "Budding Flower",
+    "group_name": "Budding Flower",
+    "category": "passivec",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/42/Budding_Flower.png/revision/latest?cb=20260129061104",
+    "is_prf": true,
+    "sp": 300,
+    "tier": 1,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": null
+    },
+    "addition_date": "2026-01-29",
+    "release_date": "2026-01-29",
+    "version": "10.1"
+  },
+  {
+    "id": "SID_可憐なる夜の杖",
+    "name": "Budding Staff",
+    "group_name": "Budding Staff",
+    "category": "weapon",
+    "weapon_type": "Colorless Staff",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 2,
+    "range": 2,
+    "might": 14,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Colorless Staff"
+        ]
+      }
+    },
+    "addition_date": "2026-01-29",
+    "release_date": "2026-01-29",
+    "version": "10.1",
+    "downgrade_ids": [
+      "SID_アサルト"
     ]
   },
   {
@@ -59564,6 +59613,28 @@
     ]
   },
   {
+    "id": "SID_計略・女神の舞",
+    "name": "Goddess Dance",
+    "group_name": "Goddess Dance",
+    "category": "special",
+    "is_prf": true,
+    "sp": 500,
+    "tier": 3,
+    "cd": 4,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": null
+    },
+    "addition_date": "2026-01-29",
+    "release_date": "2026-01-29",
+    "version": "10.1",
+    "downgrade_ids": [
+      "SID_流星"
+    ]
+  },
+  {
     "id": "SID_女神姉妹の手毬",
     "game8_id": "438186",
     "name": "Goddess Temari",
@@ -71355,6 +71426,125 @@
     "version": "5.11",
     "downgrade_ids": [
       "SID_瞬撃の剣"
+    ]
+  },
+  {
+    "id": "SID_指導1",
+    "name": "Instruct 1",
+    "group_name": "Instruct",
+    "category": "passivec",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b3/Instruct_1.png/revision/latest?cb=20260129061114",
+    "sp": 60,
+    "tier": 1,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": null
+    },
+    "addition_date": "2026-01-29",
+    "release_date": "2026-01-29",
+    "version": "10.1",
+    "upgrade_ids": [
+      "SID_指導2"
+    ]
+  },
+  {
+    "id": "SID_指導2",
+    "name": "Instruct 2",
+    "group_name": "Instruct",
+    "category": "passivec",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f3/Instruct_2.png/revision/latest?cb=20260129061124",
+    "sp": 120,
+    "tier": 2,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": null
+    },
+    "addition_date": "2026-01-29",
+    "release_date": "2026-01-29",
+    "version": "10.1",
+    "upgrade_ids": [
+      "SID_指導3"
+    ],
+    "downgrade_ids": [
+      "SID_指導1"
+    ]
+  },
+  {
+    "id": "SID_指導3",
+    "name": "Instruct 3",
+    "group_name": "Instruct",
+    "category": "passivec",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e9/Instruct_3.png/revision/latest?cb=20260129061135",
+    "sp": 240,
+    "tier": 3,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": null
+    },
+    "addition_date": "2026-01-29",
+    "release_date": "2026-01-29",
+    "version": "10.1",
+    "upgrade_ids": [
+      "SID_指導4"
+    ],
+    "downgrade_ids": [
+      "SID_指導2"
+    ]
+  },
+  {
+    "id": "SID_指導4",
+    "name": "Instruct 4",
+    "group_name": "Instruct",
+    "category": "passivec",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/94/Instruct_4.png/revision/latest?cb=20260129061146",
+    "sp": 300,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": null
+    },
+    "addition_date": "2026-01-29",
+    "release_date": "2026-01-29",
+    "version": "10.1",
+    "downgrade_ids": [
+      "SID_指導3"
+    ]
+  },
+  {
+    "id": "SID_導き手の書",
+    "name": "Instructor's Opus",
+    "group_name": "Instructor's Opus",
+    "category": "weapon",
+    "weapon_type": "Blue Tome",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "range": 2,
+    "might": 14,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Blue Tome"
+        ]
+      }
+    },
+    "addition_date": "2026-01-29",
+    "release_date": "2026-01-29",
+    "version": "10.1",
+    "downgrade_ids": [
+      "SID_トロン",
+      "SID_シャイン"
     ]
   },
   {
@@ -108473,6 +108663,7 @@
       "SID_吹き渡る雪書",
       "SID_氷槍フィンブル",
       "SID_神宿りの独楽",
+      "SID_導き手の書",
       "SID_イーヴァルディ",
       "SID_聖騎士の嗜み",
       "SID_気高き怪盗の予告状",
@@ -127743,6 +127934,7 @@
       "SID_フギンの魔卵",
       "SID_吹き渡る雪書",
       "SID_氷槍フィンブル",
+      "SID_導き手の書",
       "SID_聖騎士の嗜み",
       "SID_気高き怪盗の予告状",
       "SID_トールハンマー",
@@ -137185,7 +137377,8 @@
     "release_date": "2018-08-21",
     "version": "2.8",
     "upgrade_ids": [
-      "SID_業火疾風の祝福＋"
+      "SID_業火疾風の祝福＋",
+      "SID_業火疾風の招福"
     ],
     "downgrade_ids": [
       "SID_業火の祝福",
@@ -137214,6 +137407,31 @@
     "addition_date": "2018-08-21",
     "release_date": "2018-08-21",
     "version": "2.8",
+    "downgrade_ids": [
+      "SID_業火疾風の祝福"
+    ]
+  },
+  {
+    "id": "SID_業火疾風の招福",
+    "name": "Windfire Charm",
+    "group_name": "Windfire Charm",
+    "category": "special",
+    "sp": 500,
+    "tier": 3,
+    "cd": 5,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Colorless Staff"
+        ]
+      }
+    },
+    "addition_date": "2026-01-29",
+    "release_date": "2026-01-29",
+    "version": "10.1",
     "downgrade_ids": [
       "SID_業火疾風の祝福"
     ]
