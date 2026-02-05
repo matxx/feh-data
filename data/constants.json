@@ -2,6 +2,8 @@
   "skills_max_tier": 4,
   "skills_max_sp": 500,
   "skills_max_cd": 5,
+  "skills_max_might": 16,
+  "skills_max_range": 3,
   "units_genders": [
     "F",
     "FF",
