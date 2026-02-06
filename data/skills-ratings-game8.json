@@ -21035,6 +21035,71 @@
     "game8_grade": "S"
   },
   {
+    "id": "SID_幸福な愛の贈り物",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_愛らしいケーキの杖",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_麗愛の弓＋",
+    "game8_rating": "8.5",
+    "game8_grade": "B"
+  },
+  {
+    "id": "SID_麗愛の弓",
+    "game8_rating": null,
+    "game8_grade": null
+  },
+  {
+    "id": "SID_竜姉妹の愛のブーケ",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_ガーディアン",
+    "game8_rating": null,
+    "game8_grade": null
+  },
+  {
+    "id": "SID_ガーディアン＋",
+    "game8_rating": "9.9",
+    "game8_grade": "SS"
+  },
+  {
+    "id": "SID_疾風静水の招福",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_速魔の看破・俯瞰",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_攻魔の看破・俯瞰",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_真奮激・謀策",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_真煌めく理力",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_真邪竜の救済",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
     "id": "SSID_金剛の呼吸",
     "game8_grade": "S"
   },

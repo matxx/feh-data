@@ -659,6 +659,7 @@
   },
   {
     "id": "SID_攻魔の看破・俯瞰",
+    "game8_id": "579470",
     "fandom_id": "A/R Detect Aerial",
     "name": "A/R Detect Aerial",
     "category": "passiveb",
@@ -21048,6 +21049,7 @@
   },
   {
     "id": "SID_麗愛の弓",
+    "game8_id": "579464",
     "fandom_id": "Bow of Love",
     "name": "Bow of Love",
     "category": "weapon",
@@ -21081,6 +21083,7 @@
   },
   {
     "id": "SID_麗愛の弓＋",
+    "game8_id": "579463",
     "fandom_id": "Bow of Love+",
     "name": "Bow of Love+",
     "category": "weapon",
@@ -35409,6 +35412,7 @@
   },
   {
     "id": "SID_疾風静水の招福",
+    "game8_id": "579468",
     "fandom_id": "Deluge Charm",
     "name": "Deluge Charm",
     "category": "special",
@@ -37958,6 +37962,7 @@
   },
   {
     "id": "SID_竜姉妹の愛のブーケ",
+    "game8_id": "579465",
     "fandom_id": "Draconic Bond",
     "name": "Draconic Bond",
     "category": "weapon",
@@ -44136,6 +44141,7 @@
   },
   {
     "id": "SID_真邪竜の救済",
+    "game8_id": "579473",
     "fandom_id": "Fell Refuge",
     "name": "Fell Refuge",
     "category": "passivec",
@@ -51802,6 +51808,7 @@
   },
   {
     "id": "SID_幸福な愛の贈り物",
+    "game8_id": "579461",
     "fandom_id": "Gift of Love",
     "name": "Gift of Love",
     "category": "weapon",
@@ -55415,6 +55422,7 @@
   },
   {
     "id": "SID_ガーディアン",
+    "game8_id": "579466",
     "fandom_id": "Guardian",
     "name": "Guardian",
     "category": "assist",
@@ -55585,6 +55593,7 @@
   },
   {
     "id": "SID_ガーディアン＋",
+    "game8_id": "579467",
     "fandom_id": "Guardian+",
     "name": "Guardian+",
     "category": "assist",
@@ -60090,6 +60099,7 @@
   },
   {
     "id": "SID_真煌めく理力",
+    "game8_id": "579472",
     "fandom_id": "Huge Personality",
     "name": "Huge Personality",
     "category": "passivec",
@@ -89397,6 +89407,7 @@
   },
   {
     "id": "SID_速魔の看破・俯瞰",
+    "game8_id": "579469",
     "fandom_id": "S/R Detect Aerial",
     "name": "S/R Detect Aerial",
     "category": "passiveb",
@@ -109053,6 +109064,7 @@
   },
   {
     "id": "SID_愛らしいケーキの杖",
+    "game8_id": "579462",
     "fandom_id": "Sweet Staff",
     "name": "Sweet Staff",
     "category": "weapon",
@@ -114316,6 +114328,7 @@
   },
   {
     "id": "SID_真奮激・謀策",
+    "game8_id": "579471",
     "fandom_id": "Truly Inspired",
     "name": "Truly Inspired",
     "category": "passivec",
@@ -144775,7 +144788,7 @@
   },
   {
     "id": "DUO_PID_比翼ヴェイル",
-    "game8_id": null,
+    "game8_id": "579477",
     "fandom_id": "Veyle: Sister Dragons",
     "name": "Veyle: Sister Dragons",
     "category": "duo",

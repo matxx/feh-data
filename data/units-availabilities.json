@@ -240,7 +240,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "gsp": 5
+      "gsp": 4.5
     },
     "skill_ids": [
       "SID_リベラシオン",
@@ -1166,7 +1166,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "gsp": 5
+      "gsp": 4.5
     },
     "skill_ids": [
       "SID_刃の護り手・近間1",
@@ -2191,7 +2191,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "ssp": 5
+      "ssp": 4.5
     },
     "skill_ids": [
       "DUO_PID_比翼アスク",
@@ -3768,7 +3768,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "ssp": 5,
+      "ssp": 4.5,
       "dc": 5
     },
     "skill_ids": [
@@ -4636,7 +4636,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "gsp": 5
+      "gsp": 4.5
     },
     "skill_ids": [
       "SID_伏竜",
@@ -5216,7 +5216,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "ssp": 5,
+      "ssp": 4.5,
       "ldc": 5
     },
     "skill_ids": [
@@ -5579,7 +5579,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "ssp": 5,
+      "ssp": 4.5,
       "ldc": 5
     },
     "skill_ids": [
@@ -6603,7 +6603,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "ssp": 5,
+      "ssp": 4.5,
       "ldc": 5
     },
     "skill_ids": [
@@ -6811,7 +6811,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "ssp": 5
+      "ssp": 4.5
     },
     "skill_ids": [
       "DUO_PID_比翼クロム",
@@ -7119,7 +7119,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "gsp": 5
+      "gsp": 4.5
     },
     "skill_ids": [
       "SID_ウインド",
@@ -7790,7 +7790,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "ssp": 5
+      "ssp": 4.5
     },
     "skill_ids": [
       "HARMONIZED_PID_双界ティアモ",
@@ -7929,7 +7929,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "ssp": 5
+      "ssp": 4.5
     },
     "skill_ids": [
       "SID_影月",
@@ -8352,7 +8352,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "gsp": 5,
+      "gsp": 4.5,
       "dc": 5
     },
     "skill_ids": [
@@ -8393,7 +8393,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "ssp": 5,
+      "ssp": 4.5,
       "ldc": 5
     },
     "skill_ids": [
@@ -9037,7 +9037,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "ssp": 5,
+      "ssp": 4.5,
       "dc": 5
     },
     "skill_ids": [
@@ -9472,7 +9472,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "ssp": 5,
+      "ssp": 4.5,
       "dc": 5
     },
     "skill_ids": [
@@ -9860,7 +9860,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "ssp": 5,
+      "ssp": 4.5,
       "ldc": 5
     },
     "skill_ids": [
@@ -10092,7 +10092,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "ssp": 5
+      "ssp": 4.5
     },
     "skill_ids": [
       "DUO_PID_比翼ドーマ",
@@ -10458,7 +10458,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "ssp": 5
+      "ssp": 4.5
     },
     "skill_ids": [
       "HARMONIZED_PID_双界エーデルガルト",
@@ -10926,7 +10926,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "ssp": 5,
+      "ssp": 4.5,
       "ldc": 5
     },
     "skill_ids": [
@@ -12097,7 +12097,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "ssp": 5,
+      "ssp": 4.5,
       "ldc": 5
     },
     "skill_ids": [
@@ -13592,7 +13592,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "gsp": 5
+      "gsp": 4.5
     },
     "skill_ids": [
       "SID_一匹狼の鋭剣",
@@ -14066,7 +14066,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "gsp": 5,
+      "gsp": 4.5,
       "dc": 5
     },
     "skill_ids": [
@@ -15931,7 +15931,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "gsp": 5
+      "gsp": 4.5
     },
     "skill_ids": [
       "SID_フレリアの重槍",
@@ -16616,7 +16616,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "gsp": 5
+      "gsp": 4.5
     },
     "skill_ids": [
       "SID_エルライト",
@@ -19670,7 +19670,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "ssp": 5
+      "ssp": 4.5
     },
     "skill_ids": [
       "DUO_PID_比翼アイク",
@@ -23419,7 +23419,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "ssp": 5
+      "ssp": 4.5
     },
     "skill_ids": [
       "DUO_PID_比翼レーギャルン",
@@ -24469,7 +24469,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "ssp": 5,
+      "ssp": 4.5,
       "ldc": 5
     },
     "skill_ids": [
@@ -25518,7 +25518,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "ssp": 5,
+      "ssp": 4.5,
       "ldc": 5
     },
     "skill_ids": [
@@ -25826,7 +25826,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "ssp": 5
+      "ssp": 4.5
     },
     "skill_ids": [
       "HARMONIZED_PID_双界リンダ",
@@ -26765,7 +26765,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "ssp": 5,
+      "ssp": 4.5,
       "dc": 5
     },
     "skill_ids": [
@@ -27438,7 +27438,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "ssp": 5,
+      "ssp": 4.5,
       "dc": 5
     },
     "skill_ids": [
@@ -28632,7 +28632,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "gsp": 5,
+      "gsp": 4.5,
       "dc": 5
     },
     "skill_ids": [
@@ -28678,7 +28678,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "ssp": 5,
+      "ssp": 4.5,
       "dc": 5
     },
     "skill_ids": [
@@ -30008,7 +30008,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "ssp": 5,
+      "ssp": 4.5,
       "dc": 5
     },
     "skill_ids": [
@@ -30479,7 +30479,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "ssp": 5,
+      "ssp": 4.5,
       "ldc": 5
     },
     "skill_ids": [
@@ -31582,7 +31582,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "ssp": 5,
+      "ssp": 4.5,
       "dc": 5
     },
     "skill_ids": [
@@ -33467,7 +33467,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "ssp": 5
+      "ssp": 4.5
     },
     "skill_ids": [
       "DUO_PID_比翼エポニーヌ",
@@ -33839,7 +33839,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "ssp": 5,
+      "ssp": 4.5,
       "ldc": 5
     },
     "skill_ids": [
@@ -33883,7 +33883,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "gsp": 5
+      "gsp": 4.5
     },
     "skill_ids": [
       "SID_イリア傭兵騎士の槍",
@@ -37382,7 +37382,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "gsp": 5
+      "gsp": 4.5
     },
     "skill_ids": [
       "SID_凶星",
@@ -37673,7 +37673,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "gsp": 5
+      "gsp": 4.5
     },
     "skill_ids": [
       "SID_奥の手1",
@@ -38159,7 +38159,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "ssp": 5
+      "ssp": 4.5
     },
     "skill_ids": [
       "SID_アキメネスの花冠",
@@ -38447,7 +38447,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "ssp": 5
+      "ssp": 4.5
     },
     "skill_ids": [
       "HARMONIZED_PID_双界ロイ",
@@ -42312,7 +42312,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "ssp": 5
+      "ssp": 4.5
     },
     "skill_ids": [
       "HARMONIZED_PID_双界ソニア",
@@ -42454,7 +42454,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "ssp": 5,
+      "ssp": 4.5,
       "ldc": 5
     },
     "skill_ids": [
@@ -42539,7 +42539,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "ssp": 5,
+      "ssp": 4.5,
       "ldc": 5
     },
     "skill_ids": [
@@ -42612,7 +42612,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "gsp": 5,
+      "gsp": 4.5,
       "dc": 5
     },
     "skill_ids": [
@@ -43393,7 +43393,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "gsp": 5
+      "gsp": 4.5
     },
     "skill_ids": [
       "SID_フレリアの麗剣",
@@ -43880,7 +43880,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "ssp": 5
+      "ssp": 4.5
     },
     "skill_ids": [
       "HARMONIZED_PID_双界ターナ",
@@ -44511,7 +44511,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "ssp": 5
+      "ssp": 4.5
     },
     "skill_ids": [
       "DUO_PID_比翼トール",
@@ -45681,7 +45681,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "ssp": 5,
+      "ssp": 4.5,
       "ldc": 5
     },
     "skill_ids": [
