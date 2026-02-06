@@ -1856,13 +1856,14 @@
     "is_in": {
       "gsp": false,
       "ssp": true,
-      "hg": false,
+      "hg": true,
       "dc": false,
       "ldc": false,
       "foc": false
     },
     "lowest_rarity": {
-      "ssp": 4.5
+      "ssp": 4.5,
+      "hg": 5
     },
     "skill_ids": [
       "SID_幼獣の化身・歩行",

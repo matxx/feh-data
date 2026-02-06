@@ -50922,7 +50922,7 @@
     ],
     "required_slots": {
       "g4": 2,
-      "hg": 2,
+      "hg": 1,
       "dc": 1,
       "sh4": 2,
       "gsr": 1,
@@ -50954,7 +50954,7 @@
     ],
     "required_slots": {
       "g4": 2,
-      "hg": 2,
+      "hg": 1,
       "dc": 1,
       "sh4": 2,
       "gsr": 1,
@@ -62161,7 +62161,7 @@
     ],
     "required_slots": {
       "g4": 2,
-      "hg": 2,
+      "hg": 1,
       "dc": 1,
       "sh4": 2,
       "gsr": 1,
@@ -62188,7 +62188,7 @@
     ],
     "required_slots": {
       "g4": 2,
-      "hg": 2,
+      "hg": 1,
       "dc": 1,
       "sh4": 2,
       "gsr": 1,
@@ -62265,7 +62265,7 @@
     "is_in": {
       "gsp": true,
       "ssp": true,
-      "hg": false,
+      "hg": true,
       "dc": true,
       "ldc": true,
       "foc": true
@@ -62273,6 +62273,7 @@
     "olrwo": {
       "gsp": 4.5,
       "ssp": 4.5,
+      "hg": 5,
       "dc": 5,
       "ldc": 5,
       "foc": 5
@@ -62327,7 +62328,7 @@
     ],
     "required_slots": {
       "g4": 2,
-      "hg": 2,
+      "hg": 1,
       "dc": 1,
       "sh4": 2,
       "gsr": 1,
@@ -62367,7 +62368,7 @@
     ],
     "required_slots": {
       "g4": 2,
-      "hg": 2,
+      "hg": 1,
       "dc": 1,
       "sh4": 2,
       "gsr": 1,
@@ -62669,7 +62670,7 @@
     ],
     "required_slots": {
       "g4": 2,
-      "hg": 2,
+      "hg": 1,
       "dc": 1,
       "sh4": 2,
       "gsr": 1,
@@ -63186,7 +63187,7 @@
     ],
     "required_slots": {
       "g4": 2,
-      "hg": 2,
+      "hg": 1,
       "dc": 1,
       "sh4": 2,
       "gsr": 1,
@@ -63224,7 +63225,7 @@
     ],
     "required_slots": {
       "g4": 2,
-      "hg": 2,
+      "hg": 1,
       "dc": 1,
       "sh4": 2,
       "gsr": 1,
@@ -63235,13 +63236,14 @@
     "is_in": {
       "gsp": false,
       "ssp": true,
-      "hg": false,
+      "hg": true,
       "dc": false,
       "ldc": false,
       "foc": false
     },
     "olrwo": {
-      "ssp": 4.5
+      "ssp": 4.5,
+      "hg": 5
     }
   },
   {
@@ -63254,7 +63256,7 @@
     ],
     "required_slots": {
       "g4": 2,
-      "hg": 2,
+      "hg": 1,
       "dc": 1,
       "sh4": 2,
       "gsr": 1,
@@ -63283,7 +63285,7 @@
     ],
     "required_slots": {
       "g4": 2,
-      "hg": 2,
+      "hg": 1,
       "dc": 1,
       "sh4": 2,
       "gsr": 1,
@@ -100682,13 +100684,14 @@
     "is_in": {
       "gsp": false,
       "ssp": true,
-      "hg": false,
+      "hg": true,
       "dc": false,
       "ldc": false,
       "foc": false
     },
     "olrwo": {
-      "ssp": 4.5
+      "ssp": 4.5,
+      "hg": 5
     }
   },
   {
@@ -136265,7 +136268,7 @@
     ],
     "required_slots": {
       "g4": 2,
-      "hg": 2,
+      "hg": 1,
       "dc": 2,
       "sh4": 2,
       "gsr": 2,
@@ -136304,13 +136307,14 @@
     "is_in": {
       "gsp": false,
       "ssp": true,
-      "hg": false,
+      "hg": true,
       "dc": false,
       "ldc": false,
       "foc": true
     },
     "olrwo": {
       "ssp": 4.5,
+      "hg": 5,
       "foc": 5
     }
   },
