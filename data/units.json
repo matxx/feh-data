@@ -1500,7 +1500,6 @@
     "origin": "000000600200",
     "book": 7,
     "max_df": 20,
-    "is_tt": true,
     "is_special": true,
     "addition_date": "2022-12-28",
     "release_date": "2023-01-01",
