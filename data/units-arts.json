@@ -1321,6 +1321,13 @@
     "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/2/24/Celine_Joyous_Royal_BtlFace_D.webp/revision/latest?cb=20230117050548"
   },
   {
+    "id": "PID_愛の祭セリーヌ",
+    "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/2/2b/Celine_Loves_Aroma_Face.webp/revision/latest?cb=20260204051406",
+    "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/5b/Celine_Loves_Aroma_BtlFace.webp/revision/latest?cb=20260204051341",
+    "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/6e/Celine_Loves_Aroma_BtlFace_C.webp/revision/latest?cb=20260204051357",
+    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c0/Celine_Loves_Aroma_BtlFace_D.webp/revision/latest?cb=20260204051402"
+  },
+  {
     "id": "PID_忍者セリーヌ",
     "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/da/Celine_Teatime_Ninja_Face.webp/revision/latest?cb=20241105050054",
     "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/7e/Celine_Teatime_Ninja_BtlFace.webp/revision/latest?cb=20241105050003",
@@ -1512,7 +1519,11 @@
     "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b2/Claude_Almyras_King_Face.webp/revision/latest?cb=20200818050100",
     "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/be/Claude_Almyras_King_BtlFace.webp/revision/latest?cb=20200818050105",
     "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/91/Claude_Almyras_King_BtlFace_C.webp/revision/latest?cb=20200818050110",
-    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/bd/Claude_Almyras_King_BtlFace_D.webp/revision/latest?cb=20200818050116"
+    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/bd/Claude_Almyras_King_BtlFace_D.webp/revision/latest?cb=20200818050116",
+    "art_resp_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/75/Claude_Almyras_King_Resplendent_Face.webp/revision/latest?cb=20260204051331",
+    "art_resp_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/49/Claude_Almyras_King_Resplendent_BtlFace.webp/revision/latest?cb=20260204051307",
+    "art_resp_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f5/Claude_Almyras_King_Resplendent_BtlFace_C.webp/revision/latest?cb=20260204051322",
+    "art_resp_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/73/Claude_Almyras_King_Resplendent_BtlFace_D.webp/revision/latest?cb=20260204051327"
   },
   {
     "id": "PID_愛の祭クロード",
@@ -3947,6 +3958,13 @@
     "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/58/Homer_Traveling_Bard_BtlFace_D.webp/revision/latest?cb=20250718045858"
   },
   {
+    "id": "PID_愛の祭オルテンシア",
+    "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/85/Hortensia_Cutesplosion_Face.webp/revision/latest?cb=20260204051516",
+    "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e1/Hortensia_Cutesplosion_BtlFace.webp/revision/latest?cb=20260204051451",
+    "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/43/Hortensia_Cutesplosion_BtlFace_C.webp/revision/latest?cb=20260204051507",
+    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/ec/Hortensia_Cutesplosion_BtlFace_D.webp/revision/latest?cb=20260204051511"
+  },
+  {
     "id": "PID_魔器オルテンシア",
     "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f2/Hortensia_Little_Charmer_Face.webp/revision/latest?cb=20240219043326",
     "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/95/Hortensia_Little_Charmer_BtlFace.webp/revision/latest?cb=20240219043301",
@@ -5486,6 +5504,13 @@
     "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/78/Lorenz_Red-Rose_Noble_BtlFace_D.webp/revision/latest?cb=20251205044239"
   },
   {
+    "id": "PID_愛の祭ルイ",
+    "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/ae/Louis_Petal_Knight_Face.webp/revision/latest?cb=20260204051441",
+    "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/95/Louis_Petal_Knight_BtlFace.webp/revision/latest?cb=20260204051416",
+    "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e9/Louis_Petal_Knight_BtlFace_C.webp/revision/latest?cb=20260204051432",
+    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/19/Louis_Petal_Knight_BtlFace_D.webp/revision/latest?cb=20260204051437"
+  },
+  {
     "id": "PID_花嫁ルイーズ",
     "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/a9/Louise_Eternal_Devotion_Face.webp/revision/latest?cb=20190920224627",
     "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/04/Louise_Eternal_Devotion_BtlFace.webp/revision/latest?cb=20190920224631",
@@ -5862,10 +5887,10 @@
   },
   {
     "id": "PID_メイ",
-    "art_a": null,
-    "art_b": null,
-    "art_c": null,
-    "art_d": null
+    "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/dd/Mae_Bundle_of_Energy_Face.webp/revision/latest?cb=20260204052202",
+    "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/ff/Mae_Bundle_of_Energy_BtlFace.webp/revision/latest?cb=20260204052136",
+    "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/37/Mae_Bundle_of_Energy_BtlFace_C.webp/revision/latest?cb=20260204052152",
+    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f9/Mae_Bundle_of_Energy_BtlFace_D.webp/revision/latest?cb=20260204052156"
   },
   {
     "id": "PID_春祭メイ",
@@ -9254,10 +9279,10 @@
   },
   {
     "id": "PID_水着チキ",
-    "art_a": null,
-    "art_b": null,
-    "art_c": null,
-    "art_d": null
+    "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/62/Tiki_Beachside_Scion_Face.webp/revision/latest?cb=20260204052126",
+    "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c1/Tiki_Beachside_Scion_BtlFace.webp/revision/latest?cb=20260204052101",
+    "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c1/Tiki_Beachside_Scion_BtlFace_C.webp/revision/latest?cb=20260204052117",
+    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b8/Tiki_Beachside_Scion_BtlFace_D.webp/revision/latest?cb=20260204052121"
   },
   {
     "id": "PID_双界チキ覚醒",
@@ -9625,6 +9650,13 @@
     "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/84/Veyle_Gentle_Dragon_BtlFace.webp/revision/latest?cb=20231031044301",
     "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f4/Veyle_Gentle_Dragon_BtlFace_C.webp/revision/latest?cb=20231031044316",
     "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/0c/Veyle_Gentle_Dragon_BtlFace_D.webp/revision/latest?cb=20231031044321"
+  },
+  {
+    "id": "PID_比翼ヴェイル",
+    "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/4c/Veyle_Sister_Dragons_Face.webp/revision/latest?cb=20260204051551",
+    "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/6b/Veyle_Sister_Dragons_BtlFace.webp/revision/latest?cb=20260204051527",
+    "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/3f/Veyle_Sister_Dragons_BtlFace_C.webp/revision/latest?cb=20260204051541",
+    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/71/Veyle_Sister_Dragons_BtlFace_D.webp/revision/latest?cb=20260204051547"
   },
   {
     "id": "PID_春祭ヴェイル",

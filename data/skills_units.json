@@ -15522,6 +15522,120 @@
     "unlock": 1
   },
   {
+    "unit_id": "PID_愛の祭セリーヌ",
+    "skill_id": "SID_攻撃速さの詠唱",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_愛の祭セリーヌ",
+    "skill_id": "SID_攻撃速さの絆1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_愛の祭セリーヌ",
+    "skill_id": "SID_攻撃速さの絆2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_愛の祭セリーヌ",
+    "skill_id": "SID_攻撃速さの絆3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_愛の祭セリーヌ",
+    "skill_id": "SID_エルライト",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_愛の祭セリーヌ",
+    "skill_id": "SID_幸福な愛の贈り物",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_愛の祭セリーヌ",
+    "skill_id": "SID_ライト",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_愛の祭セリーヌ",
+    "skill_id": "SID_月光",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_愛の祭セリーヌ",
+    "skill_id": "SID_魔光",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_愛の祭セリーヌ",
+    "skill_id": "SID_影月",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_愛の祭セリーヌ",
+    "skill_id": "SID_攻撃魔防の奮起1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_愛の祭セリーヌ",
+    "skill_id": "SID_攻撃魔防の奮起2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_愛の祭セリーヌ",
+    "skill_id": "SID_攻撃魔防の奮起3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_愛の祭セリーヌ",
+    "skill_id": "SID_シャイン",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_愛の祭セリーヌ",
+    "skill_id": "SID_速さ魔防の干渉1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_愛の祭セリーヌ",
+    "skill_id": "SID_速さ魔防の干渉2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_愛の祭セリーヌ",
+    "skill_id": "SID_速さ魔防の干渉3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_愛の祭セリーヌ",
+    "skill_id": "SID_速魔の看破・俯瞰",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_愛の祭セリーヌ",
+    "skill_id": "SID_真奮激・謀策",
+    "default": 0,
+    "unlock": 5
+  },
+  {
     "unit_id": "PID_忍者セリーヌ",
     "skill_id": "SID_氷点",
     "default": 4,
@@ -45852,6 +45966,120 @@
     "unlock": 1
   },
   {
+    "unit_id": "PID_愛の祭オルテンシア",
+    "skill_id": "SID_アサルト",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_愛の祭オルテンシア",
+    "skill_id": "SID_疾風静水の祝福",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_愛の祭オルテンシア",
+    "skill_id": "SID_疾風静水の招福",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_愛の祭オルテンシア",
+    "skill_id": "SID_ガーディアン",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_愛の祭オルテンシア",
+    "skill_id": "SID_ガーディアン＋",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_愛の祭オルテンシア",
+    "skill_id": "SID_ライブ",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_愛の祭オルテンシア",
+    "skill_id": "SID_真煌めく理力",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_愛の祭オルテンシア",
+    "skill_id": "SID_治癒",
+    "default": 4,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_愛の祭オルテンシア",
+    "skill_id": "SID_リライブ",
+    "default": 3,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_愛の祭オルテンシア",
+    "skill_id": "SID_防陣1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_愛の祭オルテンシア",
+    "skill_id": "SID_防陣2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_愛の祭オルテンシア",
+    "skill_id": "SID_防陣3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_愛の祭オルテンシア",
+    "skill_id": "SID_防陣4",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_愛の祭オルテンシア",
+    "skill_id": "SID_静水の祝福",
+    "default": 5,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_愛の祭オルテンシア",
+    "skill_id": "SID_愛らしいケーキの杖",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_愛の祭オルテンシア",
+    "skill_id": "SID_火風水の命脈",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_愛の祭オルテンシア",
+    "skill_id": "SID_生命の疾風1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_愛の祭オルテンシア",
+    "skill_id": "SID_生命の疾風2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_愛の祭オルテンシア",
+    "skill_id": "SID_生命の疾風3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
     "unit_id": "PID_魔器オルテンシア",
     "skill_id": "SID_魔器・愛らしい雪杖",
     "default": 0,
@@ -63408,6 +63636,84 @@
     "unlock": 1
   },
   {
+    "unit_id": "PID_愛の祭ルイ",
+    "skill_id": "SID_麗愛の弓",
+    "default": 3,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_愛の祭ルイ",
+    "skill_id": "SID_麗愛の弓＋",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_愛の祭ルイ",
+    "skill_id": "SID_盾の護り手・遠間1",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_愛の祭ルイ",
+    "skill_id": "SID_盾の護り手・遠間2",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_愛の祭ルイ",
+    "skill_id": "SID_盾の護り手・遠間3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_愛の祭ルイ",
+    "skill_id": "SID_蛍火",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_愛の祭ルイ",
+    "skill_id": "SID_華炎",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_愛の祭ルイ",
+    "skill_id": "SID_鉄の弓",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_愛の祭ルイ",
+    "skill_id": "SID_正面隊形・自己1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_愛の祭ルイ",
+    "skill_id": "SID_正面隊形・自己2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_愛の祭ルイ",
+    "skill_id": "SID_正面隊形・自己3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_愛の祭ルイ",
+    "skill_id": "SID_正面隊形・自己4",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_愛の祭ルイ",
+    "skill_id": "SID_鋼の弓",
+    "default": 2,
+    "unlock": 2
+  },
+  {
     "unit_id": "PID_花嫁ルイーズ",
     "skill_id": "SID_攻撃速さの絆1",
     "default": 0,
@@ -78853,7 +79159,37 @@
   },
   {
     "unit_id": "PID_ネルトゥス味方",
+    "skill_id": "SID_無への暗闘1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_ネルトゥス味方",
+    "skill_id": "SID_無への暗闘2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_ネルトゥス味方",
+    "skill_id": "SID_無への暗闘3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_ネルトゥス味方",
+    "skill_id": "SID_暗獣・不屈",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_ネルトゥス味方",
     "skill_id": "SID_地に生まれ地に還る",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_ネルトゥス味方",
+    "skill_id": "SID_地に生まれ地…・神",
     "default": 0,
     "unlock": 5
   },
@@ -93454,6 +93790,12 @@
     "skill_id": "SID_氷点",
     "default": 4,
     "unlock": 3
+  },
+  {
+    "unit_id": "PID_セイラム",
+    "skill_id": "SID_暗黒教団の書",
+    "default": 0,
+    "unlock": 5
   },
   {
     "unit_id": "PID_セイラム",
@@ -109992,6 +110334,102 @@
     "unlock": 1
   },
   {
+    "unit_id": "PID_比翼ヴェイル",
+    "skill_id": "SID_攻魔の看破・俯瞰",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_比翼ヴェイル",
+    "skill_id": "SID_攻撃魔防の詠唱",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_比翼ヴェイル",
+    "skill_id": "SID_攻撃魔防の絆1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_比翼ヴェイル",
+    "skill_id": "SID_攻撃魔防の絆2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_比翼ヴェイル",
+    "skill_id": "SID_攻撃魔防の絆3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_比翼ヴェイル",
+    "skill_id": "SID_攻撃魔防の干渉1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_比翼ヴェイル",
+    "skill_id": "SID_攻撃魔防の干渉2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_比翼ヴェイル",
+    "skill_id": "SID_攻撃魔防の干渉3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_比翼ヴェイル",
+    "skill_id": "SID_氷点",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_比翼ヴェイル",
+    "skill_id": "SID_竜姉妹の愛のブーケ",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_比翼ヴェイル",
+    "skill_id": "SID_エルウインド",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_比翼ヴェイル",
+    "skill_id": "SID_真邪竜の救済",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_比翼ヴェイル",
+    "skill_id": "SID_氷華",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_比翼ヴェイル",
+    "skill_id": "SID_氷壁",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_比翼ヴェイル",
+    "skill_id": "SID_レクスカリバー",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_比翼ヴェイル",
+    "skill_id": "SID_ウインド",
+    "default": 1,
+    "unlock": 1
+  },
+  {
     "unit_id": "PID_春祭ヴェイル",
     "skill_id": "SID_共鳴・攻魔遠影",
     "default": 0,
@@ -110510,6 +110948,12 @@
   {
     "unit_id": "PID_ビラク",
     "skill_id": "SID_攻撃守備の渾身3",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_ビラク",
+    "skill_id": "SID_狼騎士団先鋒の斧",
     "default": 0,
     "unlock": 5
   },
@@ -113023,6 +113467,18 @@
   },
   {
     "unit_id": "PID_伝承ユーリス",
+    "skill_id": "SID_攻撃速さの呪刃",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_伝承ユーリス",
+    "skill_id": "SID_ドローミの鎖環・承",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_伝承ユーリス",
     "skill_id": "SID_ドローミの鎖環",
     "default": 0,
     "unlock": 5
@@ -114350,6 +114806,12 @@
   {
     "unit_id": "PID_比翼トール",
     "skill_id": "DUO_PID_比翼トール",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_比翼ヴェイル",
+    "skill_id": "DUO_PID_比翼ヴェイル",
     "default": 0,
     "unlock": 1
   },

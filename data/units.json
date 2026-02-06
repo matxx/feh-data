@@ -1500,6 +1500,7 @@
     "origin": "000000600200",
     "book": 7,
     "max_df": 20,
+    "is_tt": true,
     "is_special": true,
     "addition_date": "2022-12-28",
     "release_date": "2023-01-01",
@@ -5019,6 +5020,33 @@
     "max_score": 758
   },
   {
+    "id": "PID_愛の祭セリーヌ",
+    "fandom_id": "Céline: Love's Aroma",
+    "name": "Céline",
+    "title": "Love's Aroma",
+    "full_name": "Céline: Love's Aroma",
+    "abbreviated_name": "V!Céline",
+    "theme": "dod",
+    "gender": "F",
+    "move_type": "Cavalry",
+    "weapon_type": "Blue Tome",
+    "games": [
+      "Fire Emblem Engage"
+    ],
+    "id_int": 1345,
+    "origin": "140000200500",
+    "book": 10,
+    "max_df": 5,
+    "is_special": true,
+    "addition_date": "2026-02-04",
+    "release_date": "2026-02-05",
+    "version": "10.1",
+    "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b9/Celine_Loves_Aroma_Face_FC.webp/revision/latest?cb=20260204051411",
+    "bst": 184,
+    "visible_bst": 188,
+    "max_score": 760
+  },
+  {
     "id": "PID_忍者セリーヌ",
     "fandom_id": "Céline: Teatime Ninja",
     "name": "Céline",
@@ -5732,6 +5760,7 @@
     "origin": "120000400100",
     "book": 4,
     "max_df": 30,
+    "has_respl": true,
     "is_brave": true,
     "is_generic_pool": true,
     "addition_date": "2020-08-18",
@@ -14926,6 +14955,33 @@
     "max_score": 760
   },
   {
+    "id": "PID_愛の祭オルテンシア",
+    "fandom_id": "Hortensia: Cutesplosion",
+    "name": "Hortensia",
+    "title": "Cutesplosion",
+    "full_name": "Hortensia: Cutesplosion",
+    "abbreviated_name": "V!Hortensia",
+    "theme": "dod",
+    "gender": "F",
+    "move_type": "Armored",
+    "weapon_type": "Colorless Staff",
+    "games": [
+      "Fire Emblem Engage"
+    ],
+    "id_int": 1346,
+    "origin": "140000400500",
+    "book": 10,
+    "max_df": 5,
+    "is_special": true,
+    "addition_date": "2026-02-04",
+    "release_date": "2026-02-05",
+    "version": "10.1",
+    "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f2/Hortensia_Cutesplosion_Face_FC.webp/revision/latest?cb=20260204051521",
+    "bst": 202,
+    "visible_bst": 206,
+    "max_score": 768
+  },
+  {
     "id": "PID_魔器オルテンシア",
     "fandom_id": "Hortensia: Little Charmer",
     "name": "Hortensia",
@@ -20747,6 +20803,33 @@
     "max_score": 758
   },
   {
+    "id": "PID_愛の祭ルイ",
+    "fandom_id": "Louis: Petal Knight",
+    "name": "Louis",
+    "title": "Petal Knight",
+    "full_name": "Louis: Petal Knight",
+    "abbreviated_name": "V!Louis",
+    "theme": "dod",
+    "gender": "M",
+    "move_type": "Armored",
+    "weapon_type": "Red Bow",
+    "games": [
+      "Fire Emblem Engage"
+    ],
+    "id_int": 1347,
+    "origin": "140000200600",
+    "book": 10,
+    "max_df": 5,
+    "is_special": true,
+    "addition_date": "2026-02-04",
+    "release_date": "2026-02-05",
+    "version": "10.1",
+    "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/2/2b/Louis_Petal_Knight_Face_FC.webp/revision/latest?cb=20260204051446",
+    "bst": 207,
+    "visible_bst": 211,
+    "max_score": 768
+  },
+  {
     "id": "PID_花嫁ルイーズ",
     "fandom_id": "Louise: Eternal Devotion",
     "name": "Louise",
@@ -22144,7 +22227,7 @@
     "release_date": "2017-05-15",
     "version": "1.3",
     "game8_id": "267262",
-    "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/4c/Mae_Bundle_of_Energy_Face_FC.webp/revision/latest?cb=20250815054723",
+    "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/4c/Mae_Bundle_of_Energy_Face_FC.webp/revision/latest?cb=20260204052206",
     "bst": 148,
     "visible_bst": 180,
     "max_score": 758
@@ -27791,9 +27874,9 @@
     "name": "Pent",
     "title": "Fancy Fiancé",
     "full_name": "Pent: Fancy Fiancé",
-    "abbreviated_name": "Br!Pent",
+    "abbreviated_name": "Gr!Pent",
     "theme": "wedding",
-    "gender": "F",
+    "gender": "M",
     "move_type": "Cavalry",
     "weapon_type": "Blue Tome",
     "games": [
@@ -30722,7 +30805,7 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/49/Salem_Dark_Sage_Face_FC.webp/revision/latest?cb=20220318043726",
     "bst": 171,
     "visible_bst": 180,
-    "max_score": 756
+    "max_score": 758
   },
   {
     "id": "PID_花嫁サナキ",
@@ -34770,7 +34853,7 @@
     "release_date": "2018-07-10",
     "version": "2.7",
     "game8_id": "267115",
-    "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/ab/Tiki_Beachside_Scion_Face_FC.webp/revision/latest?cb=20250815054648",
+    "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/ab/Tiki_Beachside_Scion_Face_FC.webp/revision/latest?cb=20260204052131",
     "bst": 168,
     "visible_bst": 180,
     "max_score": 760
@@ -36149,6 +36232,35 @@
     "max_score": 760
   },
   {
+    "id": "PID_比翼ヴェイル",
+    "fandom_id": "Veyle: Sister Dragons",
+    "name": "Veyle",
+    "title": "Sister Dragons",
+    "full_name": "Veyle: Sister Dragons",
+    "abbreviated_name": "V!Veyle",
+    "theme": "dod",
+    "gender": "FF",
+    "move_type": "Cavalry",
+    "weapon_type": "Green Tome",
+    "games": [
+      "Fire Emblem Engage"
+    ],
+    "id_int": 1344,
+    "origin": "140000900200",
+    "book": 10,
+    "max_df": 5,
+    "is_special": true,
+    "is_duo": true,
+    "addition_date": "2026-02-04",
+    "release_date": "2026-02-05",
+    "version": "10.1",
+    "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/57/Veyle_Sister_Dragons_Face_FC.webp/revision/latest?cb=20260204051556",
+    "bst": 185,
+    "duel_score": 220,
+    "visible_bst": 220,
+    "max_score": 774
+  },
+  {
     "id": "PID_春祭ヴェイル",
     "fandom_id": "Veyle: Spring Tranquility",
     "name": "Veyle",
@@ -36338,7 +36450,7 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/36/Vyland_Coyotes_Justice_Face_FC.webp/revision/latest?cb=20211018053529",
     "bst": 173,
     "visible_bst": 180,
-    "max_score": 758
+    "max_score": 760
   },
   {
     "id": "PID_ヴァルハルト",

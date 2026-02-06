@@ -276,6 +276,23 @@
     ]
   },
   {
+    "name": "9th Anniv. \"12 Luminaries\" 1",
+    "unit_ids": [
+      "PID_ハロネルトゥス",
+      "PID_冬祭アルフレッド",
+      "PID_冬祭セイズ",
+      "PID_双界イングリット",
+      "PID_年明ザガロ",
+      "PID_年明ヘイムダル",
+      "PID_年明ヴァーリ",
+      "PID_忍者ユナカ",
+      "PID_比翼ハピ",
+      "PID_比翼バルドル",
+      "PID_水着ニノ",
+      "PID_水着ヘイズルーン"
+    ]
+  },
+  {
     "name": "A Festival Miracle (Focus)",
     "unit_ids": [
       "PID_冬祭セフェラン",
@@ -1147,6 +1164,15 @@
       "PID_夏祭マークス",
       "PID_夏祭ミカヤ",
       "PID_夏祭リョウマ"
+    ]
+  },
+  {
+    "name": "Floral Royals (Focus)",
+    "unit_ids": [
+      "PID_愛の祭オルテンシア",
+      "PID_愛の祭セリーヌ",
+      "PID_愛の祭ルイ",
+      "PID_比翼ヴェイル"
     ]
   },
   {
@@ -5205,6 +5231,14 @@
     ]
   },
   {
+    "name": "Focus: Mythic Revival 1",
+    "unit_ids": [
+      "PID_神階ソティス",
+      "PID_神階ドーマ",
+      "PID_神階ナーガ"
+    ]
+  },
+  {
     "name": "Focus: Nergal & Ursula's Battle",
     "unit_ids": [
       "PID_ジャファル",
@@ -5470,6 +5504,15 @@
       "PID_ノール",
       "PID_マーニャ",
       "PID_双界チキ"
+    ]
+  },
+  {
+    "name": "Focus: New Power (Feb 2026)",
+    "unit_ids": [
+      "PID_ビラク",
+      "PID_フォルカ",
+      "PID_ムスペル味方",
+      "PID_幼少ターナ"
     ]
   },
   {
@@ -6692,6 +6735,14 @@
     ]
   },
   {
+    "name": "Focus: Tempest Trials (Floral Tea Party)",
+    "unit_ids": [
+      "PID_セリーヌ",
+      "PID_リュール女",
+      "PID_リュール男"
+    ]
+  },
+  {
     "name": "Focus: Tempest Trials (For a Smile)",
     "unit_ids": [
       "PID_ジャファル",
@@ -7668,6 +7719,14 @@
       "PID_ハーディン",
       "PID_開花エリンシア",
       "PID_開花チキ"
+    ]
+  },
+  {
+    "name": "Focus: Weekly Revival 118",
+    "unit_ids": [
+      "PID_総選挙セネリオ",
+      "PID_闇ハイドラ",
+      "PID_魔器闇クロム"
     ]
   },
   {
