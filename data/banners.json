@@ -9204,6 +9204,19 @@
     ]
   },
   {
+    "name": "Legendary & Mythic Hero Remix 1 (Feb 2026)",
+    "unit_ids": [
+      "PID_アシュ",
+      "PID_ネルトゥス味方",
+      "PID_レギン",
+      "PID_伝承エリンシア",
+      "PID_伝承クロード",
+      "PID_神階ヘイズ",
+      "PID_響心サーリャ",
+      "PID_魔器ヒノカ"
+    ]
+  },
+  {
     "name": "Legendary & Mythic Hero Remix 1 (Jan 2024)",
     "unit_ids": [
       "PID_スリーズ",
@@ -9513,6 +9526,19 @@
       "PID_神階ピアニー",
       "PID_総選挙フェリクス",
       "PID_総選挙ルフレ女"
+    ]
+  },
+  {
+    "name": "Legendary & Mythic Hero Remix 2 (Feb 2026)",
+    "unit_ids": [
+      "PID_フロージ味方",
+      "PID_ヘル味方",
+      "PID_伝承エーデルガルト",
+      "PID_伝承ディミトリ",
+      "PID_伝承ミカヤ",
+      "PID_伝承ユーリス",
+      "PID_神階アスタルテ",
+      "PID_魔器ノワール"
     ]
   },
   {
