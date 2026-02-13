@@ -293,6 +293,23 @@
     ]
   },
   {
+    "name": "9th Anniv. \"12 Luminaries\" 2",
+    "unit_ids": [
+      "PID_お茶会ヴェロニカ2",
+      "PID_ハロスクリミル",
+      "PID_フェリアクロム",
+      "PID_フェリアホリン",
+      "PID_フェリア仮面マルス",
+      "PID_冬祭門番",
+      "PID_双界アイビー",
+      "PID_双界フィル",
+      "PID_忍者シェズ女",
+      "PID_忍者フリーズ",
+      "PID_比翼ユリア",
+      "PID_水着外伝パオラ"
+    ]
+  },
+  {
     "name": "A Festival Miracle (Focus)",
     "unit_ids": [
       "PID_冬祭セフェラン",
