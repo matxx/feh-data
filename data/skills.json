@@ -26007,6 +26007,7 @@
   },
   {
     "id": "SID_狼騎士団先鋒の斧",
+    "game8_id": "580556",
     "fandom_id": "Catalyst Axe",
     "name": "Catalyst Axe",
     "category": "weapon",
@@ -26025,6 +26026,7 @@
   {
     "id": "SID_狼騎士団先鋒の斧_一",
     "base_id": "SID_狼騎士団先鋒の斧",
+    "game8_id": "580556",
     "fandom_id": "Catalyst Axe",
     "name": "Catalyst Axe",
     "category": "weapon",
@@ -31073,6 +31075,7 @@
   },
   {
     "id": "SID_暗黒教団の書",
+    "game8_id": "580555",
     "fandom_id": "Dark Faith",
     "name": "Dark Faith",
     "category": "weapon",
@@ -31091,6 +31094,7 @@
   {
     "id": "SID_暗黒教団の書_一",
     "base_id": "SID_暗黒教団の書",
+    "game8_id": "580555",
     "fandom_id": "Dark Faith",
     "name": "Dark Faith",
     "category": "weapon",
@@ -44456,6 +44460,7 @@
   },
   {
     "id": "SID_ドローミの鎖環・承",
+    "game8_id": "580558",
     "fandom_id": "Fetters of Dromi",
     "name": "Dromi II",
     "category": "passivec",
@@ -49681,6 +49686,7 @@
   },
   {
     "id": "SID_地に生まれ地…・神",
+    "game8_id": "580557",
     "fandom_id": "Fruit of Life",
     "name": "Fruit of Life+",
     "category": "passiveb",
