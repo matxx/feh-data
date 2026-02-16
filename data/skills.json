@@ -6226,7 +6226,11 @@
           "Armored"
         ]
       },
-      "weapons": null
+      "weapons": {
+        "can_not_use": [
+          "Colorless Staff"
+        ]
+      }
     },
     "addition_date": "2026-02-16",
     "release_date": "2026-02-16",
