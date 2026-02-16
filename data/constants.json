@@ -15,6 +15,7 @@
     "NF"
   ],
   "games": [
+    "Echoes",
     "Fire Emblem Awakening",
     "Fire Emblem Echoes: Shadows of Valentia",
     "Fire Emblem Engage",
@@ -33,6 +34,9 @@
     "Fire Emblem: The Sacred Stones",
     "Fire Emblem: Thracia 776",
     "Fire Emblem: Three Houses",
+    "Heroes",
+    "The Blazing Blade",
+    "The Sacred Stones",
     "Tokyo Mirage Sessions ♯FE Encore"
   ],
   "keywords": [
@@ -105,9 +109,11 @@
     "【Divine Vein (Haze)】<br>Applies the following effects on space: Inflicts Atk/Spd/Def/Res-5 on foe and neutralizes foe's bonuses during combat.",
     "【Divine Vein (Ice)】<br>Applies the following status on space: Foes treat space as impassable terrain while status is active, but status is destructible (with 1 HP). Allies can move into and occupy space. If any allies occupy spaces with Divine Vein (Ice) applied, attacks targeting those spaces will hit the ally over destroying the Divine Vein (Ice). (Divine Vein effects do not stack; replaces any existing Divine Vein effect; Divine Vein effects applied simultaneously cancel each other out. Does not count as defensive terrain. Does not trigger in Pawns of Loki.)",
     "【Divine Vein (Ice)】<br>Applies the following status on space: Foes treat space as impassable terrain while status is active, but status is destructible (with 1 HP). Allies can move into and occupy space. If any allies occupy spaces with Divine Vein (Ice) applied, attacks targeting those spaces will hit the ally over destroying the Divine Vein (Ice). (Does not trigger in Pawns of Loki.)",
+    "【Divine Vein (Icicle)】<br>Applies the following status on space: Foes treat space as impassable terrain while status is active, but status is destructible (with 1 HP). When destroyed, it changes to 【Divine Vein (Vert)】. Allies can move into and occupy space. If any allies occupy spaces with Divine Vein (Icicle) applied, attacks targeting those spaces will hit the ally over destroying the Divine Vein (Icicle).",
     "【Divine Vein (Icicle)】<br>Applies the following status on space:<br>Foes treat space as impassable terrain while status is active, but status is destructible (with 1 HP). When destroyed, it changes to 【Divine Vein (Vert)】. Allies can move into and occupy space. If any allies occupy spaces with Divine Vein (Icicle) applied, attacks targeting those spaces will hit the ally over destroying the Divine Vein (Icicle).",
     "【Divine Vein (Stone)】<br>Applies the following effects on space for unit and allies: Grants Def/Res+6 during combat, reduces damage from foe's Specials by 10 during combat (excluding area-of-effect Specials), and reduces damage from area-of-effect Specials by 50% (excluding Røkkr area-of-effect Specials).",
     "【Divine Vein (Stone)】<br>Applies the following effects on space for unit and allies: Grants Def/Res+6 during combat, reduces damage from foe's Specials by 10 during combat (excluding area-of-effect Specials), and reduces damage from area-of-effect Specials by 50% (excluding Røkkr area-of-effect Specials). (Divine Vein effects do not stack; replaces any existing Divine Vein effect; Divine Vein effects applied simultaneously cancel each other out. Does not count as defensive terrain.)",
+    "【Divine Vein (Vert)】<br>Applies the following effects on space for foes: Foe cannot warp from this space or into this space (does not affect units with Pass skills or warp effects from structures like camps and fortresses in Rival Domains). Inflicts 【Canto Control】on foes that trigger Canto in this space through their next action. Inflicts Atk/Spd-5 and Special cooldown charge -1 on foe per attack during combat (only highest value applied; does not stack), and also, if foe's attack can trigger foe's Special, inflicts Special cooldown count+1 on foe before foe's first attack during combat (cannot exceed the foe's maximum Special cooldown).",
     "【Divine Vein (Vert)】<br>Applies the following effects on space for foes:<br>Foe cannot warp from this space or into this space (does not affect units with Pass skills or warp effects from structures like camps and fortresses in Rival Domains). Inflicts 【Canto Control】on foes that trigger Canto in this space through their next action. Inflicts Atk/Spd-5 and Special cooldown charge -1 on foe per attack during combat (only highest value applied; does not stack), and also, if foe's attack can trigger foe's Special, inflicts Special cooldown count+1 on foe before foe's first attack during combat (cannot exceed the foe's maximum Special cooldown).",
     "【Divine Vein (Water)】<br>Applies the following effects on space: Acts as difficult terrain for foes with Range = 2 (moving over this space costs +1 movement; does not apply to \"cannot be slowed by terrain\" effects; movement cost cannot exceed unit's allowed movement). Inflicts Spd-5 on foe and reduces the percentage of non-Special \"reduce damage by X%\" skills by 50% during combat (excluding area-of-effect Specials). (Divine Vein effects do not stack; replaces any existing Divine Vein effect; Divine Vein effects applied simultaneously cancel each other out. Does not count as defensive terrain.)",
     "【Divinely Inspiring】<br>Grants bonus to unit's Atk/Spd/Def/Res = X × 3 (X = number of allies with the Divinely Inspiring effect within 3 spaces of unit, excluding unit; max 2), grants Special cooldown count-X to unit before foe's first attack, and when unit deals damage to foe during combat, restores X × 4 HP to unit during combat.",
@@ -214,7 +220,7 @@
     "【Vantage】<br>If foe initiates combat, unit can counterattack before foe's first attack for 1 turn.",
     "【Warp Bubble】<br>Foes cannot warp into spaces within 4 spaces of unit. (Does not affect foes with Pass skills or warp effects from structures, like camps and fortresses in Rival Domains.)"
   ],
-  "units_count": 1347,
+  "units_count": 1350,
   "units_max_hp": 60,
   "units_max_hp_ids": [
     "PID_アーダン"
@@ -234,6 +240,7 @@
     "PID_フェリア仮面マルス",
     "PID_冬祭ゼルコバ",
     "PID_双界フィル",
+    "PID_双界総選挙セリカ",
     "PID_双界総選挙リン",
     "PID_忍者シェズ女",
     "PID_忍者ユナカ",

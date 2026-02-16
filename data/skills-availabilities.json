@@ -40,7 +40,8 @@
     "id": "SID_鎧の護り手・遠・茨",
     "owner_ids": [
       "PID_伝承漆黒の騎士",
-      "PID_冬祭フォデス"
+      "PID_冬祭フォデス",
+      "PID_双界総選挙ヘクトル"
     ],
     "required_slots": {
       "g4": 4,
@@ -163,6 +164,7 @@
       "PID_総選挙エイクス",
       "PID_冬祭フォデス",
       "PID_神階フォデス",
+      "PID_双界総選挙ヘクトル",
       "PID_響心ヘクトル",
       "PID_ニーズヘッグ味方",
       "PID_愛の祭ルフレ女",
@@ -214,6 +216,7 @@
       "PID_総選挙エイクス",
       "PID_冬祭フォデス",
       "PID_神階フォデス",
+      "PID_双界総選挙ヘクトル",
       "PID_響心ヘクトル",
       "PID_ニーズヘッグ味方",
       "PID_愛の祭ルフレ女",
@@ -265,6 +268,7 @@
       "PID_総選挙エイクス",
       "PID_冬祭フォデス",
       "PID_神階フォデス",
+      "PID_双界総選挙ヘクトル",
       "PID_響心ヘクトル",
       "PID_ニーズヘッグ味方",
       "PID_愛の祭ルフレ女",
@@ -7739,6 +7743,7 @@
     "owner_ids": [
       "PID_比翼バルドル",
       "PID_総選挙バルドル",
+      "PID_双界総選挙セリカ",
       "PID_伝承ディアマンド",
       "PID_双界総選挙リン",
       "PID_シャロン22025味方",
@@ -9030,6 +9035,33 @@
           "cost": 100
         }
       ]
+    }
+  },
+  {
+    "id": "SID_重装の双炎",
+    "owner_ids": [
+      "PID_双界総選挙ヘクトル"
+    ],
+    "required_slots": {
+      "g4": 1,
+      "hg": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 3,
+      "shsr": 3,
+      "g5": 3,
+      "sh5": 3
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "olrwo": {
+      "foc": 5
     }
   },
   {
@@ -22581,6 +22613,7 @@
       "PID_紋章ベレト",
       "PID_伝承ベレス",
       "PID_開花セティ",
+      "PID_双界総選挙セリカ",
       "PID_お茶会フェリクス",
       "PID_ガンズ",
       "PID_ツクヨミ",
@@ -22702,6 +22735,7 @@
       "PID_紋章ベレト",
       "PID_伝承ベレス",
       "PID_開花セティ",
+      "PID_双界総選挙セリカ",
       "PID_お茶会フェリクス",
       "PID_ガンズ",
       "PID_ツクヨミ",
@@ -22823,6 +22857,7 @@
       "PID_紋章ベレト",
       "PID_伝承ベレス",
       "PID_開花セティ",
+      "PID_双界総選挙セリカ",
       "PID_お茶会フェリクス",
       "PID_ガンズ",
       "PID_ツクヨミ",
@@ -46145,6 +46180,7 @@
       "PID_行楽フェリシア",
       "PID_フィオーラ",
       "PID_フィル",
+      "PID_救世フィヨルム",
       "PID_フローラ",
       "PID_氷部族フローラ",
       "PID_行楽フローラ",
@@ -46707,6 +46743,33 @@
           "cost": 800
         }
       ]
+    }
+  },
+  {
+    "id": "SID_氷の救世の槍",
+    "owner_ids": [
+      "PID_救世フィヨルム"
+    ],
+    "required_slots": {
+      "g4": 1,
+      "hg": 1,
+      "dc": 1,
+      "sh4": 2,
+      "gsr": 4,
+      "shsr": 1,
+      "g5": 4,
+      "sh5": 4
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "olrwo": {
+      "foc": 5
     }
   },
   {
@@ -65658,6 +65721,7 @@
       "PID_ブルーノ味方",
       "PID_ケセルダ",
       "PID_カシム",
+      "PID_双界総選挙セリカ",
       "PID_伝承カムイ男",
       "PID_伝承カムイ女",
       "PID_夢カムイ男",
@@ -65918,6 +65982,7 @@
       "PID_幼少カミラ",
       "PID_カシム",
       "PID_カトリーヌ",
+      "PID_双界総選挙セリカ",
       "PID_双界クロエ",
       "PID_伝承カムイ男",
       "PID_伝承カムイ女",
@@ -69162,6 +69227,7 @@
   {
     "id": "SID_清流の一撃",
     "owner_ids": [
+      "PID_救世フィヨルム",
       "PID_響心リョウマ"
     ],
     "required_slots": {
@@ -72739,6 +72805,7 @@
   {
     "id": "SID_迅雷風烈・無極",
     "owner_ids": [
+      "PID_双界総選挙セリカ",
       "PID_忍者ディアマンド",
       "PID_総選挙フェリクス"
     ],
@@ -72758,12 +72825,13 @@
       "hg": false,
       "dc": true,
       "ldc": false,
-      "foc": false
+      "foc": true
     },
     "olrwo": {
       "gsp": 5,
       "ssp": 5,
-      "dc": 5
+      "dc": 5,
+      "foc": 5
     },
     "divine_codes": {
       "normal": [
@@ -86899,6 +86967,33 @@
     }
   },
   {
+    "id": "SID_真氷の聖鏡",
+    "owner_ids": [
+      "PID_救世フィヨルム"
+    ],
+    "required_slots": {
+      "g4": 1,
+      "hg": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 3,
+      "shsr": 3,
+      "g5": 3,
+      "sh5": 3
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "olrwo": {
+      "foc": 5
+    }
+  },
+  {
     "id": "SID_イズンの果実",
     "owner_ids": [
       "PID_水着ターナ"
@@ -90903,6 +90998,7 @@
       "PID_フェリシア",
       "PID_行楽フェリシア",
       "PID_フィル",
+      "PID_救世フィヨルム",
       "PID_氷部族フローラ",
       "PID_ギャンレル",
       "PID_冬祭門番",
@@ -92025,6 +92121,7 @@
       "PID_忍者ヒース",
       "PID_総選挙ヘクトル",
       "PID_比翼ヘクトル",
+      "PID_双界総選挙ヘクトル",
       "PID_響心ヘクトル",
       "PID_幼少ヘクトル",
       "PID_ヘンリー",
@@ -100836,6 +100933,33 @@
     }
   },
   {
+    "id": "SID_双勇マルテ",
+    "owner_ids": [
+      "PID_双界総選挙ヘクトル"
+    ],
+    "required_slots": {
+      "g4": 1,
+      "hg": 1,
+      "dc": 1,
+      "sh4": 2,
+      "gsr": 4,
+      "shsr": 1,
+      "g5": 4,
+      "sh5": 4
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "olrwo": {
+      "foc": 5
+    }
+  },
+  {
     "id": "SID_白鷺の翼",
     "owner_ids": [
       "PID_リアーネ",
@@ -106523,6 +106647,7 @@
       "PID_愛の祭カザハナ",
       "PID_ナバタホークアイ",
       "PID_総選挙ヘクトル",
+      "PID_双界総選挙ヘクトル",
       "PID_ヘンリー",
       "PID_双界ヒルダ",
       "PID_忍者フリーズ",
@@ -111906,6 +112031,7 @@
       "PID_フィン",
       "PID_フィオーラ",
       "PID_比翼フィヨルム",
+      "PID_救世フィヨルム",
       "PID_フィヨルム",
       "PID_フロリーナ",
       "PID_フォルス",
@@ -111923,6 +112049,7 @@
       "PID_ナバタホークアイ",
       "PID_ヒース",
       "PID_総選挙ヘクトル",
+      "PID_双界総選挙ヘクトル",
       "PID_冬祭ヒルダ",
       "PID_魔器ヒノカ",
       "PID_ヒノカ",
@@ -112715,6 +112842,7 @@
       "PID_外伝カチュア",
       "PID_魔女セリカ",
       "PID_総選挙セリカ",
+      "PID_双界総選挙セリカ",
       "PID_クロム",
       "PID_魔器闇クロム",
       "PID_クロム2",
@@ -132979,7 +133107,8 @@
     "id": "SID_真回避・見切り反撃",
     "owner_ids": [
       "PID_総選挙ベレト",
-      "PID_比翼エリンシア"
+      "PID_比翼エリンシア",
+      "PID_救世フィヨルム"
     ],
     "required_slots": {
       "g4": 4,
@@ -135818,6 +135947,7 @@
     "id": "SID_迅雷風烈・奇数1",
     "owner_ids": [
       "PID_伝承アイラ",
+      "PID_双界総選挙セリカ",
       "PID_闇ディミトリ",
       "PID_伝承ディミトリ",
       "PID_お茶会フェリクス",
@@ -135879,6 +136009,7 @@
     "id": "SID_迅雷風烈・奇数2",
     "owner_ids": [
       "PID_伝承アイラ",
+      "PID_双界総選挙セリカ",
       "PID_闇ディミトリ",
       "PID_伝承ディミトリ",
       "PID_お茶会フェリクス",
@@ -135940,6 +136071,7 @@
     "id": "SID_迅雷風烈・奇数3",
     "owner_ids": [
       "PID_伝承アイラ",
+      "PID_双界総選挙セリカ",
       "PID_闇ディミトリ",
       "PID_伝承ディミトリ",
       "PID_お茶会フェリクス",
@@ -136661,6 +136793,33 @@
       "shsr": 2,
       "g5": 2,
       "sh5": 2
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "olrwo": {
+      "foc": 5
+    }
+  },
+  {
+    "id": "SID_真オスティアの反撃",
+    "owner_ids": [
+      "PID_双界総選挙ヘクトル"
+    ],
+    "required_slots": {
+      "g4": 1,
+      "hg": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 1,
+      "shsr": 1,
+      "g5": 1,
+      "sh5": 1
     },
     "is_in": {
       "gsp": false,
@@ -138762,6 +138921,7 @@
     "id": "SID_後の先",
     "owner_ids": [
       "PID_紋章エーデル",
+      "PID_双界総選挙ヘクトル",
       "PID_双界総選挙アイク"
     ],
     "required_slots": {
@@ -144100,6 +144260,7 @@
       "PID_紋章エーデル",
       "PID_フローラ",
       "PID_魔器ガングレト味方",
+      "PID_双界総選挙ヘクトル",
       "PID_年明フリーズ",
       "PID_双界総選挙アイク",
       "PID_クレイン",
@@ -144215,6 +144376,7 @@
       "PID_紋章エーデル",
       "PID_フローラ",
       "PID_魔器ガングレト味方",
+      "PID_双界総選挙ヘクトル",
       "PID_年明フリーズ",
       "PID_双界総選挙アイク",
       "PID_クレイン",
@@ -144330,6 +144492,7 @@
       "PID_紋章エーデル",
       "PID_フローラ",
       "PID_魔器ガングレト味方",
+      "PID_双界総選挙ヘクトル",
       "PID_年明フリーズ",
       "PID_双界総選挙アイク",
       "PID_クレイン",
@@ -168767,6 +168930,7 @@
       "PID_ファリナ",
       "PID_お茶会フェリクス",
       "PID_比翼フィヨルム",
+      "PID_救世フィヨルム",
       "PID_フィヨルム",
       "PID_フォルス",
       "PID_ジョフレ",
@@ -168775,6 +168939,7 @@
       "PID_暗黒ハーディン",
       "PID_ハーディン",
       "PID_総選挙ヘクトル",
+      "PID_双界総選挙ヘクトル",
       "PID_魔器ヒノカ",
       "PID_水着フリーズ",
       "PID_ジャハナアイク",
@@ -169205,6 +169370,7 @@
       "PID_外伝カチュア",
       "PID_魔女セリカ",
       "PID_総選挙セリカ",
+      "PID_双界総選挙セリカ",
       "PID_クロム",
       "PID_魔器闇クロム",
       "PID_クロム2",
@@ -169965,6 +170131,33 @@
     },
     "olrwo": {
       "ssp": 5
+    }
+  },
+  {
+    "id": "SID_双愛王家の剣",
+    "owner_ids": [
+      "PID_双界総選挙セリカ"
+    ],
+    "required_slots": {
+      "g4": 1,
+      "hg": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 4,
+      "shsr": 4,
+      "g5": 4,
+      "sh5": 4
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "olrwo": {
+      "foc": 5
     }
   },
   {
@@ -178999,6 +179192,33 @@
     }
   },
   {
+    "id": "SID_速さ魔防の信念",
+    "owner_ids": [
+      "PID_救世フィヨルム"
+    ],
+    "required_slots": {
+      "g4": 1,
+      "hg": 1,
+      "dc": 1,
+      "sh4": 4,
+      "gsr": 4,
+      "shsr": 4,
+      "g5": 4,
+      "sh5": 4
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "olrwo": {
+      "foc": 5
+    }
+  },
+  {
     "id": "SID_速さ魔防の秘奥1",
     "owner_ids": [
       "PID_水着リュール女",
@@ -179988,6 +180208,7 @@
     "owner_ids": [
       "PID_アスベル",
       "PID_ディートバ",
+      "PID_救世フィヨルム",
       "PID_ホメロス",
       "PID_ヴァネッサ"
     ],
@@ -180007,13 +180228,14 @@
       "hg": true,
       "dc": true,
       "ldc": true,
-      "foc": false
+      "foc": true
     },
     "olrwo": {
       "gsp": 3,
       "hg": 3,
       "dc": 5,
-      "ldc": 4
+      "ldc": 4,
+      "foc": 5
     },
     "divine_codes": {
       "normal": [
@@ -180038,6 +180260,7 @@
     "owner_ids": [
       "PID_アスベル",
       "PID_ディートバ",
+      "PID_救世フィヨルム",
       "PID_ホメロス",
       "PID_ヴァネッサ"
     ],
@@ -180057,13 +180280,14 @@
       "hg": true,
       "dc": true,
       "ldc": true,
-      "foc": false
+      "foc": true
     },
     "olrwo": {
       "gsp": 3,
       "hg": 3,
       "dc": 5,
-      "ldc": 4
+      "ldc": 4,
+      "foc": 5
     },
     "divine_codes": {
       "normal": [
@@ -180088,6 +180312,7 @@
     "owner_ids": [
       "PID_アスベル",
       "PID_ディートバ",
+      "PID_救世フィヨルム",
       "PID_ホメロス",
       "PID_ヴァネッサ"
     ],
@@ -180107,13 +180332,14 @@
       "hg": true,
       "dc": true,
       "ldc": true,
-      "foc": false
+      "foc": true
     },
     "olrwo": {
       "gsp": 3,
       "hg": 3,
       "dc": 5,
-      "ldc": 4
+      "ldc": 4,
+      "foc": 5
     },
     "divine_codes": {
       "normal": [
@@ -190052,6 +190278,7 @@
       "PID_フィン",
       "PID_フィオーラ",
       "PID_比翼フィヨルム",
+      "PID_救世フィヨルム",
       "PID_フィヨルム",
       "PID_フロリーナ",
       "PID_フォルス",
@@ -190069,6 +190296,7 @@
       "PID_ナバタホークアイ",
       "PID_ヒース",
       "PID_総選挙ヘクトル",
+      "PID_双界総選挙ヘクトル",
       "PID_冬祭ヒルダ",
       "PID_魔器ヒノカ",
       "PID_ヒノカ",
@@ -190861,6 +191089,7 @@
       "PID_外伝カチュア",
       "PID_魔女セリカ",
       "PID_総選挙セリカ",
+      "PID_双界総選挙セリカ",
       "PID_クロム",
       "PID_魔器闇クロム",
       "PID_クロム2",
@@ -196332,6 +196561,33 @@
           "cost": 300
         }
       ]
+    }
+  },
+  {
+    "id": "SID_攻速無欠・鬼没",
+    "owner_ids": [
+      "PID_双界総選挙セリカ"
+    ],
+    "required_slots": {
+      "g4": 1,
+      "hg": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 4,
+      "shsr": 4,
+      "g5": 4,
+      "sh5": 4
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "olrwo": {
+      "foc": 5
     }
   },
   {
@@ -207677,6 +207933,7 @@
     "owner_ids": [
       "PID_総選挙ベレト",
       "PID_比翼エリンシア",
+      "PID_救世フィヨルム",
       "PID_開花ヒルダ"
     ],
     "required_slots": {
@@ -207718,6 +207975,7 @@
     "owner_ids": [
       "PID_総選挙ベレト",
       "PID_比翼エリンシア",
+      "PID_救世フィヨルム",
       "PID_開花ヒルダ"
     ],
     "required_slots": {
@@ -207759,6 +208017,7 @@
     "owner_ids": [
       "PID_総選挙ベレト",
       "PID_比翼エリンシア",
+      "PID_救世フィヨルム",
       "PID_開花ヒルダ"
     ],
     "required_slots": {
@@ -210100,6 +210359,7 @@
   {
     "id": "SID_明鏡の一撃1",
     "owner_ids": [
+      "PID_救世フィヨルム",
       "PID_グリ",
       "PID_イレース",
       "PID_伝承ユリア",
@@ -210243,6 +210503,7 @@
   {
     "id": "SID_明鏡の一撃2",
     "owner_ids": [
+      "PID_救世フィヨルム",
       "PID_カゲロウ",
       "PID_ゼロ",
       "PID_オルエン",
@@ -210264,11 +210525,12 @@
       "hg": false,
       "dc": false,
       "ldc": true,
-      "foc": false
+      "foc": true
     },
     "olrwo": {
       "gsp": 3,
-      "ldc": 4
+      "ldc": 4,
+      "foc": 5
     },
     "divine_codes": {
       "limited": [
@@ -210308,6 +210570,7 @@
   {
     "id": "SID_明鏡の一撃3",
     "owner_ids": [
+      "PID_救世フィヨルム",
       "PID_カゲロウ",
       "PID_ゼロ",
       "PID_オルエン",
@@ -210329,11 +210592,12 @@
       "hg": false,
       "dc": false,
       "ldc": true,
-      "foc": false
+      "foc": true
     },
     "olrwo": {
       "gsp": 3,
-      "ldc": 4
+      "ldc": 4,
+      "foc": 5
     },
     "divine_codes": {
       "limited": [
@@ -212731,6 +212995,33 @@
     },
     "olrwo": {
       "gsp": 3
+    }
+  },
+  {
+    "id": "SID_真獅子連斬",
+    "owner_ids": [
+      "PID_双界総選挙セリカ"
+    ],
+    "required_slots": {
+      "g4": 1,
+      "hg": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 1,
+      "shsr": 1,
+      "g5": 1,
+      "sh5": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "olrwo": {
+      "foc": 5
     }
   },
   {
@@ -218738,6 +219029,23 @@
     }
   },
   {
+    "id": "HARMONIZED_PID_双界総選挙セリカ",
+    "owner_ids": [
+      "PID_双界総選挙セリカ"
+    ],
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "olrwo": {
+      "foc": 5
+    }
+  },
+  {
     "id": "HARMONIZED_PID_双界クロエ",
     "owner_ids": [
       "PID_双界クロエ"
@@ -218837,6 +219145,23 @@
     },
     "olrwo": {
       "ssp": 5
+    }
+  },
+  {
+    "id": "HARMONIZED_PID_双界総選挙ヘクトル",
+    "owner_ids": [
+      "PID_双界総選挙ヘクトル"
+    ],
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "olrwo": {
+      "foc": 5
     }
   },
   {

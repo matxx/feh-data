@@ -1307,6 +1307,13 @@
     "art_resp_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/ac/Celica_Warrior_Priestess_Resplendent_BtlFace_D.webp/revision/latest?cb=20240219043135"
   },
   {
+    "id": "PID_双界総選挙セリカ",
+    "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c7/Celica_With_Grace_Face.webp/revision/latest?cb=20260216044343",
+    "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b0/Celica_With_Grace_BtlFace.webp/revision/latest?cb=20260216044318",
+    "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/72/Celica_With_Grace_BtlFace_C.webp/revision/latest?cb=20260216044333",
+    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/3f/Celica_With_Grace_BtlFace_D.webp/revision/latest?cb=20260216044337"
+  },
+  {
     "id": "PID_お茶会セリーヌ",
     "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/a5/Celine_Blissful_Tea_Party_Face.webp/revision/latest?cb=20250806042922",
     "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/8c/Celine_Blissful_Tea_Party_BtlFace.webp/revision/latest?cb=20250806042857",
@@ -2980,6 +2987,13 @@
     "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/66/Fjorm_Ice_Ascendant_BtlFace_D.webp/revision/latest?cb=20211006043303"
   },
   {
+    "id": "PID_救世フィヨルム",
+    "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/cb/Fjorm_Icy_Miracle_Face.webp/revision/latest?cb=20260216044038",
+    "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f8/Fjorm_Icy_Miracle_BtlFace.webp/revision/latest?cb=20260216044013",
+    "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/85/Fjorm_Icy_Miracle_BtlFace_C.webp/revision/latest?cb=20260216044028",
+    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c1/Fjorm_Icy_Miracle_BtlFace_D.webp/revision/latest?cb=20260216044032"
+  },
+  {
     "id": "PID_年明フィヨルム",
     "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/44/Fjorm_New_Traditions_Face.webp/revision/latest?cb=20190920222120",
     "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/ce/Fjorm_New_Traditions_BtlFace.webp/revision/latest?cb=20190920222124",
@@ -3703,6 +3717,13 @@
     "art_resp_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c5/Hector_General_of_Ostia_Resplendent_BtlFace.webp/revision/latest?cb=20200507033907",
     "art_resp_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/ae/Hector_General_of_Ostia_Resplendent_BtlFace_C.webp/revision/latest?cb=20200507033917",
     "art_resp_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b7/Hector_General_of_Ostia_Resplendent_BtlFace_D.webp/revision/latest?cb=20200507033926"
+  },
+  {
+    "id": "PID_双界総選挙ヘクトル",
+    "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f7/Hector_Into_the_Fray_Face.webp/revision/latest?cb=20260216044233",
+    "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/af/Hector_Into_the_Fray_BtlFace.webp/revision/latest?cb=20260216044208",
+    "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/42/Hector_Into_the_Fray_BtlFace_C.webp/revision/latest?cb=20260216044223",
+    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/14/Hector_Into_the_Fray_BtlFace_D.webp/revision/latest?cb=20260216044227"
   },
   {
     "id": "PID_愛の祭ヘクトル",
@@ -7544,7 +7565,11 @@
     "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/4e/Priscilla_Delicate_Princess_Face.webp/revision/latest?cb=20190920202113",
     "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e2/Priscilla_Delicate_Princess_BtlFace.webp/revision/latest?cb=20190920202119",
     "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/55/Priscilla_Delicate_Princess_BtlFace_C.webp/revision/latest?cb=20190920202123",
-    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/4f/Priscilla_Delicate_Princess_BtlFace_D.webp/revision/latest?cb=20190920202128"
+    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/4f/Priscilla_Delicate_Princess_BtlFace_D.webp/revision/latest?cb=20190920202128",
+    "art_resp_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f3/Priscilla_Delicate_Princess_Resplendent_Face.webp/revision/latest?cb=20260216044308",
+    "art_resp_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/2/22/Priscilla_Delicate_Princess_Resplendent_BtlFace.webp/revision/latest?cb=20260216044243",
+    "art_resp_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/51/Priscilla_Delicate_Princess_Resplendent_BtlFace_C.webp/revision/latest?cb=20260216044258",
+    "art_resp_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/cc/Priscilla_Delicate_Princess_Resplendent_BtlFace_D.webp/revision/latest?cb=20260216044302"
   },
   {
     "id": "PID_パイソン",

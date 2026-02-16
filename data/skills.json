@@ -6213,6 +6213,29 @@
     ]
   },
   {
+    "id": "SID_重装の双炎",
+    "fandom_id": "Armored Flare",
+    "name": "Armored Flare",
+    "category": "special",
+    "sp": 500,
+    "tier": 3,
+    "cd": 5,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Armored"
+        ]
+      },
+      "weapons": null
+    },
+    "addition_date": "2026-02-16",
+    "release_date": "2026-02-16",
+    "version": "10.1",
+    "downgrade_ids": [
+      "SID_華炎"
+    ]
+  },
+  {
     "id": "SID_重装の聖氷",
     "game8_id": "413008",
     "fandom_id": "Armored Floe",
@@ -12954,7 +12977,8 @@
     "version": "5.4",
     "upgrade_ids": [
       "SID_攻撃速さの万全4",
-      "SID_攻撃速さの完全"
+      "SID_攻撃速さの完全",
+      "SID_攻速無欠・鬼没"
     ],
     "downgrade_ids": [
       "SID_攻撃速さの万全2"
@@ -27173,6 +27197,24 @@
     "addition_date": "2023-05-19",
     "release_date": "2023-05-19",
     "version": "7.5",
+    "downgrade_ids": [
+      "SID_銀の槍"
+    ]
+  },
+  {
+    "id": "SID_氷の救世の槍",
+    "fandom_id": "Chosen Lance",
+    "name": "Chosen Lance",
+    "category": "weapon",
+    "weapon_type": "Blue Lance",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "range": 1,
+    "might": 16,
+    "addition_date": "2026-02-16",
+    "release_date": "2026-02-16",
+    "version": "10.1",
     "downgrade_ids": [
       "SID_銀の槍"
     ]
@@ -49628,6 +49670,22 @@
     ]
   },
   {
+    "id": "SID_真氷の聖鏡",
+    "fandom_id": "Frozen Mirror",
+    "name": "Frozen Mirror",
+    "category": "special",
+    "is_prf": true,
+    "sp": 500,
+    "tier": 3,
+    "cd": 3,
+    "addition_date": "2026-02-16",
+    "release_date": "2026-02-16",
+    "version": "10.1",
+    "downgrade_ids": [
+      "SID_氷華"
+    ]
+  },
+  {
     "id": "SID_イズンの果実",
     "game8_id": "265677",
     "fandom_id": "Fruit of Iðunn",
@@ -52180,6 +52238,7 @@
     "upgrade_ids": [
       "SID_竜氷",
       "SID_氷輪",
+      "SID_真氷の聖鏡",
       "SID_氷壁",
       "SID_鎮魂の舞",
       "SID_鎮魂の願い"
@@ -57905,6 +57964,24 @@
     ]
   },
   {
+    "id": "SID_双勇マルテ",
+    "fandom_id": "Heroic Maltet",
+    "name": "Heroic Maltet",
+    "category": "weapon",
+    "weapon_type": "Blue Lance",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "range": 1,
+    "might": 16,
+    "addition_date": "2026-02-16",
+    "release_date": "2026-02-16",
+    "version": "10.1",
+    "downgrade_ids": [
+      "SID_銀の槍"
+    ]
+  },
+  {
     "id": "SID_白鷺の翼",
     "game8_id": "265554",
     "fandom_id": "Heron Wing",
@@ -61044,6 +61121,7 @@
     "release_date": "2017-02-02",
     "version": "1.0",
     "upgrade_ids": [
+      "SID_重装の双炎",
       "SID_竜炎",
       "SID_壁炎",
       "SID_肉体の咆哮",
@@ -76332,6 +76410,19 @@
     "downgrade_ids": [
       "SID_オスティアの鼓動"
     ]
+  },
+  {
+    "id": "SID_真オスティアの反撃",
+    "fandom_id": "Ostian Backbone",
+    "name": "Ostian Backbone",
+    "category": "passivea",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e1/Ostian_Backbone.png/revision/latest?cb=20260216081549",
+    "is_prf": true,
+    "sp": 300,
+    "tier": 1,
+    "addition_date": "2026-02-16",
+    "release_date": "2026-02-16",
+    "version": "10.1"
   },
   {
     "id": "SID_オスティアの反撃",
@@ -95617,6 +95708,7 @@
       "SID_白き血の薙刀",
       "SID_流星の花嫁の槍",
       "SID_ソンシンの花嫁の槍",
+      "SID_氷の救世の槍",
       "SID_草原の狼の白槍",
       "SID_魔性の槍",
       "SID_闘いの熱砂の槍",
@@ -95643,6 +95735,7 @@
       "SID_守護騎士の白槍",
       "SID_大漁呼ぶ魚獲りの銛",
       "SID_継承グングニル",
+      "SID_双勇マルテ",
       "SID_聖槍グラディウス",
       "SID_聖騎士の槍",
       "SID_凄腕の鋭槍",
@@ -95899,6 +95992,7 @@
       "SID_ジークフリート",
       "SID_ジークリンデ",
       "SID_銀の剣＋",
+      "SID_双愛王家の剣",
       "SID_スクルド",
       "SID_巳年の神蛇の剣",
       "SID_セクヴァベク",
@@ -96132,6 +96226,24 @@
     "version": "7.3",
     "downgrade_ids": [
       "SID_銀の斧"
+    ]
+  },
+  {
+    "id": "SID_双愛王家の剣",
+    "fandom_id": "Sisters' Blade",
+    "name": "Sisters' Blade",
+    "category": "weapon",
+    "weapon_type": "Red Sword",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "range": 1,
+    "might": 16,
+    "addition_date": "2026-02-16",
+    "release_date": "2026-02-16",
+    "version": "10.1",
+    "downgrade_ids": [
+      "SID_銀の剣"
     ]
   },
   {
@@ -101370,6 +101482,35 @@
     ]
   },
   {
+    "id": "SID_速さ魔防の信念",
+    "fandom_id": "Spd/Res Faith",
+    "name": "Spd/Res Faith",
+    "category": "passivec",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/02/Spd_Res_Faith.png/revision/latest?cb=20260216081620",
+    "sp": 300,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Infantry"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "All Melee",
+          "All Breath",
+          "All Beast"
+        ]
+      }
+    },
+    "addition_date": "2026-02-16",
+    "release_date": "2026-02-16",
+    "version": "10.1",
+    "downgrade_ids": [
+      "SID_速さ魔防の信義3"
+    ]
+  },
+  {
     "id": "SID_速さ魔防の秘奥1",
     "game8_id": "397228",
     "fandom_id": "Spd/Res Finish",
@@ -102009,6 +102150,9 @@
     "addition_date": "2021-01-07",
     "release_date": "2021-01-08",
     "version": "5.1",
+    "upgrade_ids": [
+      "SID_速さ魔防の信念"
+    ],
     "downgrade_ids": [
       "SID_速さ魔防の信義2"
     ]
@@ -109326,6 +109470,35 @@
     "version": "3.6",
     "downgrade_ids": [
       "SID_鬼神飛燕の一撃2"
+    ]
+  },
+  {
+    "id": "SID_攻速無欠・鬼没",
+    "fandom_id": "Swift Specter",
+    "name": "Swift Specter",
+    "category": "passivea",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f7/Swift_Specter.png/revision/latest?cb=20260216081559",
+    "sp": 300,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Infantry"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "All Melee",
+          "All Breath",
+          "All Beast"
+        ]
+      }
+    },
+    "addition_date": "2026-02-16",
+    "release_date": "2026-02-16",
+    "version": "10.1",
+    "downgrade_ids": [
+      "SID_攻撃速さの万全3"
     ]
   },
   {
@@ -118778,6 +118951,19 @@
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
     "version": "1.0"
+  },
+  {
+    "id": "SID_真獅子連斬",
+    "fandom_id": "Wild at Heart",
+    "name": "Wild at Heart",
+    "category": "passiveb",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/cf/Wild_at_Heart.png/revision/latest?cb=20260216081610",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 1,
+    "addition_date": "2026-02-16",
+    "release_date": "2026-02-16",
+    "version": "10.1"
   },
   {
     "id": "SID_暴走の虎の爪牙",
@@ -144901,6 +145087,18 @@
     "version": "9.6"
   },
   {
+    "id": "HARMONIZED_PID_双界総選挙セリカ",
+    "game8_id": null,
+    "fandom_id": "Celica: With Grace",
+    "name": "Celica: With Grace",
+    "category": "harmonized",
+    "is_prf": true,
+    "tier": 1,
+    "addition_date": "2026-02-16",
+    "release_date": "2026-02-16",
+    "version": "10.1"
+  },
+  {
     "id": "HARMONIZED_PID_双界クロエ",
     "game8_id": "447189",
     "fandom_id": "Chloé: Spring Wings",
@@ -144971,6 +145169,18 @@
     "addition_date": "2024-07-05",
     "release_date": "2024-07-05",
     "version": "8.7"
+  },
+  {
+    "id": "HARMONIZED_PID_双界総選挙ヘクトル",
+    "game8_id": null,
+    "fandom_id": "Hector: Into the Fray",
+    "name": "Hector: Into the Fray",
+    "category": "harmonized",
+    "is_prf": true,
+    "tier": 1,
+    "addition_date": "2026-02-16",
+    "release_date": "2026-02-16",
+    "version": "10.1"
   },
   {
     "id": "HARMONIZED_PID_双界ヒルダ",
