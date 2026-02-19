@@ -310,6 +310,23 @@
     ]
   },
   {
+    "name": "9th Anniv. \"12 Luminaries\" 3",
+    "unit_ids": [
+      "PID_お茶会セリーヌ",
+      "PID_お茶会フェリクス",
+      "PID_ハロピアニー",
+      "PID_双界セリカ",
+      "PID_比翼グルヴェイグ2",
+      "PID_比翼フレイヤ",
+      "PID_水着エイクスルニル",
+      "PID_水着ユーリス",
+      "PID_水着ラピス",
+      "PID_花婿セリス",
+      "PID_花嫁ティニー",
+      "PID_花嫁ラクチェ"
+    ]
+  },
+  {
     "name": "A Festival Miracle (Focus)",
     "unit_ids": [
       "PID_冬祭セフェラン",
@@ -2692,6 +2709,15 @@
     ]
   },
   {
+    "name": "Focus: Hall of Forms (Feb 2026)",
+    "unit_ids": [
+      "PID_双界ミルラ",
+      "PID_比翼エイリーク",
+      "PID_比翼エフラム",
+      "PID_神階フォデス"
+    ]
+  },
+  {
     "name": "Focus: Hall of Forms (Jan 2024)",
     "unit_ids": [
       "PID_伝承ルフレ女",
@@ -4887,6 +4913,14 @@
       "PID_クラリーネ",
       "PID_クレイン",
       "PID_ロイ"
+    ]
+  },
+  {
+    "name": "Focus: L'Arachel & Rennac's Battle",
+    "unit_ids": [
+      "PID_エイリーク2",
+      "PID_ラーチェル",
+      "PID_レナック"
     ]
   },
   {
@@ -7747,6 +7781,14 @@
     ]
   },
   {
+    "name": "Focus: Weekly Revival 119",
+    "unit_ids": [
+      "PID_ギリアム",
+      "PID_シレーネ",
+      "PID_魔器ターナ"
+    ]
+  },
+  {
     "name": "Focus: Weekly Revival 12",
     "unit_ids": [
       "PID_ドルカス",
@@ -8814,6 +8856,14 @@
       "PID_春祭カゲロウ",
       "PID_春祭カチュア",
       "PID_春祭シャロン"
+    ]
+  },
+  {
+    "name": "Harmonized CYL Hector, Celica",
+    "unit_ids": [
+      "PID_双界総選挙セリカ",
+      "PID_双界総選挙ヘクトル",
+      "PID_救世フィヨルム"
     ]
   },
   {

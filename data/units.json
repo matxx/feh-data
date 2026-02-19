@@ -5169,8 +5169,8 @@
     "move_type": "Infantry",
     "weapon_type": "Red Sword",
     "games": [
-      "Heroes",
-      "Echoes"
+      "Fire Emblem Echoes: Shadows of Valentia",
+      "Fire Emblem Heroes"
     ],
     "id_int": 1348,
     "origin": "020000200100",
@@ -5181,6 +5181,7 @@
     "addition_date": "2026-02-16",
     "release_date": "2026-02-16",
     "version": "10.1",
+    "game8_id": "580793",
     "guide_id": "02002001001349-2",
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/58/Celica_With_Grace_Face_FC.webp/revision/latest?cb=20260216044347",
     "bst": 204,
@@ -14591,8 +14592,8 @@
     "move_type": "Armored",
     "weapon_type": "Blue Lance",
     "games": [
-      "The Blazing Blade",
-      "The Sacred Stones"
+      "Fire Emblem: The Blazing Blade",
+      "Fire Emblem: The Sacred Stones"
     ],
     "id_int": 1349,
     "origin": "060000100300",
@@ -14603,6 +14604,7 @@
     "addition_date": "2026-02-16",
     "release_date": "2026-02-16",
     "version": "10.1",
+    "game8_id": "580792",
     "guide_id": "06001003001348-2",
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b8/Hector_Into_the_Fray_Face_FC.webp/revision/latest?cb=20260216044237",
     "bst": 212,

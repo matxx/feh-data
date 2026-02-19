@@ -9427,5 +9427,19 @@
     "recommended_boon": "res",
     "recommended_bane": "def",
     "recommended_plus10": null
+  },
+  {
+    "id": "PID_双界総選挙ヘクトル",
+    "game8_rating": "9.5",
+    "recommended_boon": "def",
+    "recommended_bane": "hp",
+    "recommended_plus10": "def"
+  },
+  {
+    "id": "PID_双界総選挙セリカ",
+    "game8_rating": "9.5",
+    "recommended_boon": "spd",
+    "recommended_bane": "res",
+    "recommended_plus10": null
   }
 ]

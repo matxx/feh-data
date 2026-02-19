@@ -6214,6 +6214,7 @@
   },
   {
     "id": "SID_重装の双炎",
+    "game8_id": "580786",
     "fandom_id": "Armored Flare",
     "name": "Armored Flare",
     "category": "special",
@@ -27207,6 +27208,7 @@
   },
   {
     "id": "SID_氷の救世の槍",
+    "game8_id": "580785",
     "fandom_id": "Chosen Lance",
     "name": "Chosen Lance",
     "category": "weapon",
@@ -49675,6 +49677,7 @@
   },
   {
     "id": "SID_真氷の聖鏡",
+    "game8_id": "580787",
     "fandom_id": "Frozen Mirror",
     "name": "Frozen Mirror",
     "category": "special",
@@ -57969,6 +57972,7 @@
   },
   {
     "id": "SID_双勇マルテ",
+    "game8_id": "580783",
     "fandom_id": "Heroic Maltet",
     "name": "Heroic Maltet",
     "category": "weapon",
@@ -76417,6 +76421,7 @@
   },
   {
     "id": "SID_真オスティアの反撃",
+    "game8_id": "580788",
     "fandom_id": "Ostian Backbone",
     "name": "Ostian Backbone",
     "category": "passivea",
@@ -96234,6 +96239,7 @@
   },
   {
     "id": "SID_双愛王家の剣",
+    "game8_id": "580784",
     "fandom_id": "Sisters' Blade",
     "name": "Sisters' Blade",
     "category": "weapon",
@@ -101487,6 +101493,7 @@
   },
   {
     "id": "SID_速さ魔防の信念",
+    "game8_id": "580791",
     "fandom_id": "Spd/Res Faith",
     "name": "Spd/Res Faith",
     "category": "passivec",
@@ -118958,6 +118965,7 @@
   },
   {
     "id": "SID_真獅子連斬",
+    "game8_id": "580790",
     "fandom_id": "Wild at Heart",
     "name": "Wild at Heart",
     "category": "passiveb",
@@ -145092,7 +145100,7 @@
   },
   {
     "id": "HARMONIZED_PID_双界総選挙セリカ",
-    "game8_id": null,
+    "game8_id": "580793",
     "fandom_id": "Celica: With Grace",
     "name": "Celica: With Grace",
     "category": "harmonized",
@@ -145176,7 +145184,7 @@
   },
   {
     "id": "HARMONIZED_PID_双界総選挙ヘクトル",
-    "game8_id": null,
+    "game8_id": "580792",
     "fandom_id": "Hector: Into the Fray",
     "name": "Hector: Into the Fray",
     "category": "harmonized",
