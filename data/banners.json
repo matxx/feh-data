@@ -3611,6 +3611,14 @@
     ]
   },
   {
+    "name": "Focus: Heroes with Discord Skills",
+    "unit_ids": [
+      "PID_エーディン",
+      "PID_双界プルメリア",
+      "PID_魔器マリアンヌ"
+    ]
+  },
+  {
     "name": "Focus: Heroes with Distant Def",
     "unit_ids": [
       "PID_シャラ",
