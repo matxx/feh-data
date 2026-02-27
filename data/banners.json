@@ -890,6 +890,19 @@
     ]
   },
   {
+    "name": "Double AHR: Top Eight (2026)",
+    "unit_ids": [
+      "PID_伝承エリーゼ",
+      "PID_双界総選挙アイク",
+      "PID_比翼バルドル",
+      "PID_比翼フレイヤ",
+      "PID_紋章エーデル",
+      "PID_紋章カムイ女",
+      "PID_紋章ベレト",
+      "PID_響心リョウマ"
+    ]
+  },
+  {
     "name": "Double Vision (Focus)",
     "unit_ids": [
       "PID_幼少エメリナ",
@@ -4926,7 +4939,7 @@
   {
     "name": "Focus: L'Arachel & Rennac's Battle",
     "unit_ids": [
-      "PID_エイリーク2",
+      "PID_エイリーク",
       "PID_ラーチェル",
       "PID_レナック"
     ]
@@ -11334,6 +11347,23 @@
       "PID_神階エイル",
       "PID_神階ユンヌ",
       "PID_行楽ジェニー"
+    ]
+  },
+  {
+    "name": "Mythic Heroes - Tiki: Everlasting Voice",
+    "unit_ids": [
+      "PID_シャロン22025味方",
+      "PID_ソーンバルケ",
+      "PID_バルドル味方",
+      "PID_ヘズ味方",
+      "PID_レーラズ味方",
+      "PID_伝承カムイ男",
+      "PID_救世アルフォンス",
+      "PID_神階チキ覚醒",
+      "PID_神階ヘイズルーン",
+      "PID_紋章ミカヤ",
+      "PID_紋章リン",
+      "PID_魔器セネリオ"
     ]
   },
   {

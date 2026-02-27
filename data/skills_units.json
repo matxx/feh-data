@@ -106578,6 +106578,102 @@
     "unlock": 5
   },
   {
+    "unit_id": "PID_神階チキ覚醒",
+    "skill_id": "SID_重装の双氷",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_神階チキ覚醒",
+    "skill_id": "SID_覚醒のブレス",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_神階チキ覚醒",
+    "skill_id": "SID_氷点",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_神階チキ覚醒",
+    "skill_id": "SID_火地水の命脈",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_神階チキ覚醒",
+    "skill_id": "SID_遠距離警戒1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_神階チキ覚醒",
+    "skill_id": "SID_遠距離警戒2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_神階チキ覚醒",
+    "skill_id": "SID_遠距離警戒3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_神階チキ覚醒",
+    "skill_id": "SID_火のブレス",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_神階チキ覚醒",
+    "skill_id": "SID_火炎のブレス",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_神階チキ覚醒",
+    "skill_id": "SID_灼熱のブレス",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_神階チキ覚醒",
+    "skill_id": "SID_氷華",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_神階チキ覚醒",
+    "skill_id": "SID_真新たなる神竜王",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_神階チキ覚醒",
+    "skill_id": "SID_縄張り・護り手・遠",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_神階チキ覚醒",
+    "skill_id": "SID_生命の静水1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_神階チキ覚醒",
+    "skill_id": "SID_生命の静水2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_神階チキ覚醒",
+    "skill_id": "SID_生命の静水3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
     "unit_id": "PID_総選挙覚醒チキ",
     "skill_id": "SID_攻撃魔防の秘奥1",
     "default": 0,

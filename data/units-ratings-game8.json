@@ -9441,5 +9441,12 @@
     "recommended_boon": "spd",
     "recommended_bane": "res",
     "recommended_plus10": null
+  },
+  {
+    "id": "PID_神階チキ覚醒",
+    "game8_rating": "9.9",
+    "recommended_boon": "res",
+    "recommended_bane": "spd",
+    "recommended_plus10": null
   }
 ]

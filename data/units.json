@@ -37682,6 +37682,36 @@
     "skills_max_sp": 2600
   },
   {
+    "id": "PID_神階チキ覚醒",
+    "fandom_id": "Tiki: Everlasting Voice",
+    "name": "Tiki",
+    "title": "Everlasting Voice",
+    "full_name": "Tiki: Everlasting Voice",
+    "abbreviated_name": "M!Tiki",
+    "gender": "F",
+    "move_type": "Armored",
+    "weapon_type": "Colorless Breath",
+    "games": [
+      "Fire Emblem Awakening"
+    ],
+    "id_int": 1351,
+    "origin": "100000900100",
+    "book": 10,
+    "max_df": 5,
+    "is_mythic": true,
+    "element": "Light",
+    "addition_date": "2026-02-27",
+    "release_date": "2026-02-27",
+    "version": "10.1",
+    "game8_id": "583501",
+    "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/61/Tiki_Everlasting_Voice_Face_FC.webp/revision/latest?cb=20260227044926",
+    "image_url_for_icon_mythic": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/dd/Mythic_Effect_Light_03.png/revision/latest?cb=20241206004006",
+    "bst": 212,
+    "visible_bst": 216,
+    "max_score": 774,
+    "skills_max_sp": 2600
+  },
+  {
     "id": "PID_総選挙覚醒チキ",
     "fandom_id": "Tiki: Fated Divinity",
     "name": "Tiki",

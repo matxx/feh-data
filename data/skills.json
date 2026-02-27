@@ -6297,6 +6297,30 @@
     ]
   },
   {
+    "id": "SID_重装の双氷",
+    "game8_id": "583499",
+    "fandom_id": "Armored Ice Cap",
+    "name": "Armored Ice Cap",
+    "category": "special",
+    "sp": 500,
+    "tier": 3,
+    "cd": 5,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Armored"
+        ]
+      },
+      "weapons": null
+    },
+    "addition_date": "2026-02-27",
+    "release_date": "2026-02-27",
+    "version": "10.1",
+    "downgrade_ids": [
+      "SID_氷華"
+    ]
+  },
+  {
     "id": "SID_重装の遊撃1",
     "game8_id": "286660",
     "fandom_id": "Armored Stride",
@@ -14751,6 +14775,28 @@
     "addition_date": "2018-10-23",
     "release_date": "2018-10-25",
     "version": "2.10"
+  },
+  {
+    "id": "SID_覚醒のブレス",
+    "game8_id": "583498",
+    "fandom_id": "Awakening Voice",
+    "name": "Awakening Voice",
+    "category": "weapon",
+    "weapon_type": "All Breath",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "range": 1,
+    "might": 16,
+    "eff": [
+      "dragonstone"
+    ],
+    "addition_date": "2026-02-27",
+    "release_date": "2026-02-27",
+    "version": "10.1",
+    "downgrade_ids": [
+      "SID_灼熱のブレス"
+    ]
   },
   {
     "id": "SID_目覚めし竜のブレス",
@@ -46151,6 +46197,7 @@
       "SID_魔器ギムレー",
       "SID_魔器・幼神のブレス",
       "SID_極光のブレス",
+      "SID_覚醒のブレス",
       "SID_目覚めし竜のブレス",
       "SID_暗夜竜のブレス",
       "SID_炎祭のブレス",
@@ -52243,6 +52290,7 @@
     "release_date": "2017-02-02",
     "version": "1.0",
     "upgrade_ids": [
+      "SID_重装の双氷",
       "SID_竜氷",
       "SID_氷輪",
       "SID_真氷の聖鏡",
@@ -57579,6 +57627,20 @@
     "addition_date": "2022-08-17",
     "release_date": "2022-08-17",
     "version": "6.8"
+  },
+  {
+    "id": "SID_真新たなる神竜王",
+    "game8_id": "583500",
+    "fandom_id": "Heired Divinity",
+    "name": "Heired Divinity",
+    "category": "passiveb",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c5/Heired_Divinity.png/revision/latest?cb=20260227165929",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 1,
+    "addition_date": "2026-02-27",
+    "release_date": "2026-02-27",
+    "version": "10.1"
   },
   {
     "id": "SID_継承フォルセティ",

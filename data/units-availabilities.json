@@ -44205,6 +44205,38 @@
     ]
   },
   {
+    "id": "PID_神階チキ覚醒",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "lowest_rarity": {
+      "foc": 5
+    },
+    "skill_ids": [
+      "SID_氷点",
+      "SID_氷華",
+      "SID_火のブレス",
+      "SID_火地水の命脈",
+      "SID_火炎のブレス",
+      "SID_灼熱のブレス",
+      "SID_生命の静水1",
+      "SID_生命の静水2",
+      "SID_生命の静水3",
+      "SID_真新たなる神竜王",
+      "SID_縄張り・護り手・遠",
+      "SID_覚醒のブレス",
+      "SID_遠距離警戒1",
+      "SID_遠距離警戒2",
+      "SID_遠距離警戒3",
+      "SID_重装の双氷"
+    ]
+  },
+  {
     "id": "PID_総選挙覚醒チキ",
     "is_in": {
       "gsp": true,

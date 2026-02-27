@@ -216,7 +216,7 @@
     "【Vantage】<br>If foe initiates combat, unit can counterattack before foe's first attack for 1 turn.",
     "【Warp Bubble】<br>Foes cannot warp into spaces within 4 spaces of unit. (Does not affect foes with Pass skills or warp effects from structures, like camps and fortresses in Rival Domains.)"
   ],
-  "units_count": 1350,
+  "units_count": 1351,
   "units_max_hp": 60,
   "units_max_hp_ids": [
     "PID_アーダン"
