@@ -176,6 +176,7 @@
     "【Potent Follow】<br>If decreasing the Spd difference necessary to make a follow-up attack by 25 would allow unit to trigger a follow-up attack (excluding guaranteed or prevented follow-ups), triggers【Potent Follow X%】during combat (if unit cannot perform follow-up and attack twice, X = 80; otherwise, X = 40).",
     "【Preempt Pulse】<br>Grants Special cooldown count-1 to unit before unit's first attack during combat.",
     "【Prof's Guidance】<br>While unit lives, unit gets 2× SP after combat or after using an Assist skill (only highest value applied; does not stack).<br><br>Grants Atk/Spd/Def/Res+5 to unit during combat, any \"reduces damage by X%\" effect that can be triggered only once per combat by unit's equipped Special skill can be triggered up to twice per combat (excludes boosted Special effects from engaging; only highest value applied; does not stack), and grants Special cooldown count-1 after combat.",
+    "【Pulse Follow】<br>Grants Special cooldown count-2 to unit before unit's first follow-up attack during combat.",
     "【Radiant Hero】<br>Unit can counterattack regardless of foe's range.<br><br>Grants Atk/Spd/Def/Res+5 to unit and reduces damage from foe's first attack by 10 during combat (\"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes), and also, when Special triggers, deals damage = unit's max Special cooldown count value × 4 (excluding area-of-effect Specials).",
     "【Rally Spectrum】<br>Grants Atk/Spd/Def/Res+5 to unit during combat and if unit's attack can trigger unit's Special, grants Special cooldown count-X to unit before unit's first attack during combat (X = 1 if unit can trigger the \"unit attacks twice\" effect or if unit's maximum Special cooldown count is reduced (Special trigger is accelerated); otherwise, X = 2). (That turn only.)",
     "【Range: 2 Style】<br>Unit can use the following【Style】:<br>――――― Range: 2 Style ―――――<br>Unit can attack foes 2 spaces away (unit cannot attack adjacent foes).<br><br>Cannot move through spaces within 2 spaces of foe that has triggered the Bulwark effect (does not apply if unit has a Pass skill). Unit suffers a counterattack if any of the following conditions are met: foe is armored with Range = 1, foe can counterattack regardless of unit's range, or foe's Range is the same as the distance between unit and foe.<br>After-combat movement effects do not occur.<br>Skill effect's Range is treated as 1. This Style can only be used if unit has Range = 1.<br>――――――――――――――――――――<br>This Style is disabled when unit has another 【Style】.<br>After combat where this【Style】 is used, removes this status.",
@@ -216,7 +217,7 @@
     "【Vantage】<br>If foe initiates combat, unit can counterattack before foe's first attack for 1 turn.",
     "【Warp Bubble】<br>Foes cannot warp into spaces within 4 spaces of unit. (Does not affect foes with Pass skills or warp effects from structures, like camps and fortresses in Rival Domains.)"
   ],
-  "units_count": 1351,
+  "units_count": 1355,
   "units_max_hp": 60,
   "units_max_hp_ids": [
     "PID_アーダン"
@@ -235,6 +236,7 @@
     "PID_ソーンバルケ",
     "PID_フェリア仮面マルス",
     "PID_冬祭ゼルコバ",
+    "PID_双界エイリーク",
     "PID_双界フィル",
     "PID_双界総選挙セリカ",
     "PID_双界総選挙リン",
@@ -247,7 +249,8 @@
     "PID_獣人リン",
     "PID_紋章カムイ女",
     "PID_紋章ベレト",
-    "PID_総選挙シャロン"
+    "PID_総選挙シャロン",
+    "PID_魔器春祭サザ"
   ],
   "units_max_def": 50,
   "units_max_def_ids": [

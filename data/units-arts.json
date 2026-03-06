@@ -2066,6 +2066,13 @@
     "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/05/Dorothea_Daring_Ex-Singer_BtlFace_D.webp/revision/latest?cb=20241015043742"
   },
   {
+    "id": "PID_春祭ドロテア",
+    "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/32/Dorothea_Rosy_Songstress_Face.webp/revision/latest?cb=20260305080913",
+    "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f9/Dorothea_Rosy_Songstress_BtlFace.webp/revision/latest?cb=20260305080848",
+    "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/3d/Dorothea_Rosy_Songstress_BtlFace_C.webp/revision/latest?cb=20260305080903",
+    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/7a/Dorothea_Rosy_Songstress_BtlFace_D.webp/revision/latest?cb=20260305080908"
+  },
+  {
     "id": "PID_水着ドロテア",
     "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/ef/Dorothea_Solar_Songstress_Face.webp/revision/latest?cb=20200706043724",
     "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/fc/Dorothea_Solar_Songstress_BtlFace.webp/revision/latest?cb=20200706043727",
@@ -2346,6 +2353,13 @@
     "art_resp_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/de/Eirika_Restoration_Lady_Resplendent_BtlFace.webp/revision/latest?cb=20200819105003",
     "art_resp_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/fc/Eirika_Restoration_Lady_Resplendent_BtlFace_C.webp/revision/latest?cb=20200819105007",
     "art_resp_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/9c/Eirika_Restoration_Lady_Resplendent_BtlFace_D.webp/revision/latest?cb=20200819105013"
+  },
+  {
+    "id": "PID_双界エイリーク",
+    "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e5/Eirika_Spring_Company_Face.webp/revision/latest?cb=20260305080729",
+    "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/40/Eirika_Spring_Company_BtlFace.webp/revision/latest?cb=20260305080704",
+    "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/2/26/Eirika_Spring_Company_BtlFace_C.webp/revision/latest?cb=20260305080719",
+    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/14/Eirika_Spring_Company_BtlFace_D.webp/revision/latest?cb=20260305080723"
   },
   {
     "id": "PID_比翼エイリーク",
@@ -4169,7 +4183,11 @@
     "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/5d/Ike_Vanguard_Legend_Face.webp/revision/latest?cb=20190920213131",
     "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/9d/Ike_Vanguard_Legend_BtlFace.webp/revision/latest?cb=20190920213137",
     "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/63/Ike_Vanguard_Legend_BtlFace_C.webp/revision/latest?cb=20190920213143",
-    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e2/Ike_Vanguard_Legend_BtlFace_D.webp/revision/latest?cb=20190920213150"
+    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e2/Ike_Vanguard_Legend_BtlFace_D.webp/revision/latest?cb=20190920213150",
+    "art_resp_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/4a/Ike_Vanguard_Legend_Resplendent_Face.webp/revision/latest?cb=20260305080803",
+    "art_resp_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e0/Ike_Vanguard_Legend_Resplendent_BtlFace.webp/revision/latest?cb=20260305080739",
+    "art_resp_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/79/Ike_Vanguard_Legend_Resplendent_BtlFace_C.webp/revision/latest?cb=20260305080754",
+    "art_resp_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/82/Ike_Vanguard_Legend_Resplendent_BtlFace_D.webp/revision/latest?cb=20260305080758"
   },
   {
     "id": "PID_アイク",
@@ -8911,6 +8929,13 @@
     "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c8/Sothe_Dawning_Zephyr_BtlFace_D.webp/revision/latest?cb=20240606050516"
   },
   {
+    "id": "PID_魔器春祭サザ",
+    "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/79/Sothe_In_the_Breeze_Face.webp/revision/latest?cb=20260305080838",
+    "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e9/Sothe_In_the_Breeze_BtlFace.webp/revision/latest?cb=20260305080813",
+    "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/91/Sothe_In_the_Breeze_BtlFace_C.webp/revision/latest?cb=20260305080829",
+    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/2/2c/Sothe_In_the_Breeze_BtlFace_D.webp/revision/latest?cb=20260305080833"
+  },
+  {
     "id": "PID_怪盗サザ",
     "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/ee/Sothe_Rushing_Dawn_Face.webp/revision/latest?cb=20220808050747",
     "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/cc/Sothe_Rushing_Dawn_BtlFace.webp/revision/latest?cb=20220808050711",
@@ -9255,6 +9280,13 @@
     "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/6c/Thea_Wings_of_Winter_BtlFace.webp/revision/latest?cb=20240905081049",
     "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/48/Thea_Wings_of_Winter_BtlFace_C.webp/revision/latest?cb=20240905081105",
     "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/db/Thea_Wings_of_Winter_BtlFace_D.webp/revision/latest?cb=20240905081110"
+  },
+  {
+    "id": "PID_春祭トール",
+    "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/dc/Thorr_Spring_War_God_Face.webp/revision/latest?cb=20260305080653",
+    "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/38/Thorr_Spring_War_God_BtlFace.webp/revision/latest?cb=20260305080623",
+    "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/17/Thorr_Spring_War_God_BtlFace_C.webp/revision/latest?cb=20260305080644",
+    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/51/Thorr_Spring_War_God_BtlFace_D.webp/revision/latest?cb=20260305080647"
   },
   {
     "id": "PID_比翼トール",

@@ -5304,6 +5304,36 @@
     ]
   },
   {
+    "id": "SID_魔器・春風の旋刃",
+    "fandom_id": "Arcane Slicer",
+    "name": "Arcane Slicer",
+    "category": "weapon",
+    "weapon_type": "All Dagger",
+    "is_arcane": true,
+    "sp": 300,
+    "tier": 4,
+    "range": 2,
+    "might": 14,
+    "has_refine": true,
+    "refines_max_sp": 350,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "All Dagger"
+        ]
+      }
+    },
+    "addition_date": "2026-03-05",
+    "release_date": "2026-03-06",
+    "version": "10.1",
+    "downgrade_ids": [
+      "SID_銀の暗器"
+    ]
+  },
+  {
     "id": "SID_魔器・姿なき影刃",
     "game8_id": "488052",
     "fandom_id": "Arcane Sly Knife",
@@ -12838,6 +12868,9 @@
     "addition_date": "2019-12-25",
     "release_date": "2020-01-01",
     "version": "4.0",
+    "upgrade_ids": [
+      "SID_攻撃速さの解放"
+    ],
     "downgrade_ids": [
       "SID_攻撃速さの大開放2"
     ]
@@ -13042,6 +13075,29 @@
     "version": "5.4",
     "downgrade_ids": [
       "SID_攻撃速さの万全3"
+    ]
+  },
+  {
+    "id": "SID_攻撃速さの解放",
+    "fandom_id": "Atk/Spd Liberate",
+    "name": "Atk/Spd Liberate",
+    "category": "passivec",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/a5/Atk_Spd_Liberate.png/revision/latest?cb=20260305121455",
+    "sp": 300,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Cavalry"
+        ]
+      },
+      "weapons": null
+    },
+    "addition_date": "2026-03-05",
+    "release_date": "2026-03-06",
+    "version": "10.1",
+    "downgrade_ids": [
+      "SID_攻撃速さの大開放3"
     ]
   },
   {
@@ -19905,7 +19961,8 @@
     "version": "9.3",
     "upgrade_ids": [
       "SID_蒼穹4",
-      "SID_蒼穹・鬼没"
+      "SID_蒼穹・鬼没",
+      "SID_天穹・鬼没"
     ],
     "downgrade_ids": [
       "SID_蒼穹2"
@@ -20206,6 +20263,7 @@
       "SID_春風舞う天馬兎の卵",
       "SID_影潜む密偵の香水瓶",
       "SID_慕炎の書",
+      "SID_春暁の優しき光",
       "SID_業炎フォルブレイズ",
       "SID_盛夏の神宝",
       "SID_破滅の邪書",
@@ -30596,6 +30654,8 @@
     "tier": 4,
     "range": 2,
     "might": 14,
+    "has_refine": true,
+    "refines_max_sp": 400,
     "eff": [
       "flying"
     ],
@@ -30605,6 +30665,28 @@
     "downgrade_ids": [
       "SID_銀の弓"
     ]
+  },
+  {
+    "id": "SID_ディアメル家の宝弓_一",
+    "base_id": "SID_ディアメル家の宝弓",
+    "game8_id": "350104",
+    "fandom_id": "Damiell Bow",
+    "name": "Damiell Bow",
+    "category": "weapon",
+    "weapon_type": "All Bow",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/67/Damiell_Bow_W.png/revision/latest?cb=20260305121559",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 1,
+    "range": 2,
+    "might": 14,
+    "refine_kind": "skill1",
+    "eff": [
+      "flying"
+    ],
+    "addition_date": "2021-11-17",
+    "release_date": "2021-11-17",
+    "version": "5.11"
   },
   {
     "id": "SID_踊る",
@@ -36282,6 +36364,31 @@
     ]
   },
   {
+    "id": "SID_罠解除・流言",
+    "fandom_id": "Disarm Rumor",
+    "name": "Disarm Rumor",
+    "category": "passiveb",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/1f/Disarm_Rumor.png/revision/latest?cb=20260305121434",
+    "sp": 400,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "All Dagger"
+        ]
+      }
+    },
+    "addition_date": "2026-03-05",
+    "release_date": "2026-03-06",
+    "version": "10.1",
+    "downgrade_ids": [
+      "SID_罠解除3"
+    ]
+  },
+  {
     "id": "SID_罠解除1",
     "game8_id": "266325",
     "fandom_id": "Disarm Trap",
@@ -36359,6 +36466,7 @@
     "release_date": "2019-03-19",
     "version": "3.3",
     "upgrade_ids": [
+      "SID_罠解除・流言",
       "SID_罠解除4",
       "SID_罠解除・周到",
       "SID_罠解除・神速"
@@ -37451,6 +37559,34 @@
     "version": "5.6",
     "downgrade_ids": [
       "SID_銀の槍"
+    ]
+  },
+  {
+    "id": "SID_天穹・鬼没",
+    "fandom_id": "Divine Specter",
+    "name": "Divine Specter",
+    "category": "passivea",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b1/Divine_Specter.png/revision/latest?cb=20260305121413",
+    "sp": 300,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Cavalry",
+          "Flying"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "All Melee"
+        ]
+      }
+    },
+    "addition_date": "2026-03-05",
+    "release_date": "2026-03-06",
+    "version": "10.1",
+    "downgrade_ids": [
+      "SID_蒼穹3"
     ]
   },
   {
@@ -41367,6 +41503,7 @@
       "SID_サラダサンド",
       "SID_スノードーム",
       "SID_ゴーストの魔道書",
+      "SID_春兎の卵",
       "SID_春光の卵",
       "SID_お茶菓子",
       "SID_ティーポット"
@@ -44421,6 +44558,7 @@
       "SID_春風舞う天馬兎の卵",
       "SID_影潜む密偵の香水瓶",
       "SID_慕炎の書",
+      "SID_春暁の優しき光",
       "SID_業炎フォルブレイズ",
       "SID_盛夏の神宝",
       "SID_破滅の邪書",
@@ -49894,6 +50032,8 @@
     "tier": 4,
     "range": 2,
     "might": 14,
+    "has_refine": true,
+    "refines_max_sp": 400,
     "eff": [
       "armored",
       "flying"
@@ -49904,6 +50044,29 @@
     "downgrade_ids": [
       "SID_銀の弓"
     ]
+  },
+  {
+    "id": "SID_風神雷神弓_一",
+    "base_id": "SID_風神雷神弓",
+    "game8_id": "413803",
+    "fandom_id": "Fujin-Raijin Yumi",
+    "name": "Fujin-Raijin Yumi",
+    "category": "weapon",
+    "weapon_type": "All Bow",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c1/Fujin-Raijin_Yumi_W.png/revision/latest?cb=20260305121505",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 1,
+    "range": 2,
+    "might": 14,
+    "refine_kind": "skill1",
+    "eff": [
+      "armored",
+      "flying"
+    ],
+    "addition_date": "2023-05-31",
+    "release_date": "2023-05-31",
+    "version": "7.5"
   },
   {
     "id": "SID_罠解除・周到",
@@ -53509,6 +53672,7 @@
   },
   {
     "id": "SID_格闘王の斧",
+    "game8_id": "575386",
     "fandom_id": "Grappler's Axe",
     "name": "Grappler's Axe",
     "category": "weapon",
@@ -53527,6 +53691,7 @@
   {
     "id": "SID_格闘王の斧_一",
     "base_id": "SID_格闘王の斧",
+    "game8_id": "575386",
     "fandom_id": "Grappler's Axe",
     "name": "Grappler's Axe",
     "category": "weapon",
@@ -66655,12 +66820,33 @@
     "tier": 4,
     "range": 1,
     "might": 16,
+    "has_refine": true,
+    "refines_max_sp": 400,
     "addition_date": "2022-04-06",
     "release_date": "2022-04-07",
     "version": "6.4",
     "downgrade_ids": [
       "SID_銀の斧"
     ]
+  },
+  {
+    "id": "SID_戦神の大斧_一",
+    "base_id": "SID_戦神の大斧",
+    "game8_id": "373994",
+    "fandom_id": "Large War Axe",
+    "name": "Large War Axe",
+    "category": "weapon",
+    "weapon_type": "Green Axe",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/8c/Large_War_Axe_W.png/revision/latest?cb=20260305121549",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 1,
+    "range": 1,
+    "might": 16,
+    "refine_kind": "skill1",
+    "addition_date": "2022-04-06",
+    "release_date": "2022-04-07",
+    "version": "6.4"
   },
   {
     "id": "SID_ラズワルドの舞剣",
@@ -67703,12 +67889,33 @@
     "tier": 4,
     "range": 1,
     "might": 16,
+    "has_refine": true,
+    "refines_max_sp": 400,
     "addition_date": "2021-12-06",
     "release_date": "2021-12-07",
     "version": "6.0",
     "downgrade_ids": [
       "SID_銀の剣"
     ]
+  },
+  {
+    "id": "SID_女傑の大剣_一",
+    "base_id": "SID_女傑の大剣",
+    "game8_id": "351521",
+    "fandom_id": "Lioness Blade",
+    "name": "Lioness Blade",
+    "category": "weapon",
+    "weapon_type": "Red Sword",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/ac/Lioness_Blade_W.png/revision/latest?cb=20260305121538",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 1,
+    "range": 1,
+    "might": 16,
+    "refine_kind": "skill1",
+    "addition_date": "2021-12-06",
+    "release_date": "2021-12-07",
+    "version": "6.0"
   },
   {
     "id": "SID_豊穣の喜び",
@@ -69336,6 +69543,7 @@
       "SID_暴の天空",
       "SID_漆闇の月光",
       "SID_蒼の天空",
+      "SID_真瞬殺",
       "SID_ツインストライク"
     ],
     "downgrade_ids": [
@@ -70329,12 +70537,33 @@
     "tier": 4,
     "range": 2,
     "might": 14,
+    "has_refine": true,
+    "refines_max_sp": 400,
     "addition_date": "2023-02-28",
     "release_date": "2023-02-28",
     "version": "7.2",
     "downgrade_ids": [
       "SID_レクスカリバー"
     ]
+  },
+  {
+    "id": "SID_神軍師の書_一",
+    "base_id": "SID_神軍師の書",
+    "game8_id": "406087",
+    "fandom_id": "Master's Tactics",
+    "name": "Master's Tactics",
+    "category": "weapon",
+    "weapon_type": "Green Tome",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/17/Masters_Tactics_W.png/revision/latest?cb=20260305121517",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 1,
+    "range": 2,
+    "might": 14,
+    "refine_kind": "skill1",
+    "addition_date": "2023-02-28",
+    "release_date": "2023-02-28",
+    "version": "7.2"
   },
   {
     "id": "SID_天才",
@@ -77529,7 +77758,26 @@
     "tier": 1,
     "addition_date": "2023-02-28",
     "release_date": "2023-02-28",
-    "version": "7.2"
+    "version": "7.2",
+    "upgrade_ids": [
+      "SID_これも策のう…・承"
+    ]
+  },
+  {
+    "id": "SID_これも策のう…・承",
+    "fandom_id": "Part of the Plan",
+    "name": "The Plan: Part II",
+    "category": "passivea",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/18/The_Plan_Part_II.png/revision/latest?cb=20260305121353",
+    "is_prf": true,
+    "sp": 300,
+    "tier": 2,
+    "addition_date": "2023-02-28",
+    "release_date": "2023-02-28",
+    "version": "7.2",
+    "downgrade_ids": [
+      "SID_これも策のうちだよ"
+    ]
   },
   {
     "id": "SID_パルティア",
@@ -83039,7 +83287,26 @@
     "tier": 1,
     "addition_date": "2023-05-31",
     "release_date": "2023-05-31",
-    "version": "7.5"
+    "version": "7.5",
+    "upgrade_ids": [
+      "SID_叱咤激励・承"
+    ]
+  },
+  {
+    "id": "SID_叱咤激励・承",
+    "fandom_id": "Rallying Cry",
+    "name": "Rallying Cry II",
+    "category": "passivec",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b2/Rallying_Cry_II.png/revision/latest?cb=20260305121402",
+    "is_prf": true,
+    "sp": 300,
+    "tier": 2,
+    "addition_date": "2023-05-31",
+    "release_date": "2023-05-31",
+    "version": "7.5",
+    "downgrade_ids": [
+      "SID_叱咤激励"
+    ]
   },
   {
     "id": "SID_弓騎士の守城弓",
@@ -84281,6 +84548,41 @@
     "downgrade_ids": [
       "SID_鋼の斧"
     ]
+  },
+  {
+    "id": "SID_狼騎士団後駆の槍",
+    "fandom_id": "Rearguard Lance",
+    "name": "Rearguard Lance",
+    "category": "weapon",
+    "weapon_type": "Blue Lance",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 1,
+    "range": 1,
+    "might": 16,
+    "has_refine": true,
+    "refines_max_sp": 400,
+    "addition_date": "2021-10-18",
+    "release_date": "2021-10-18",
+    "version": "5.10"
+  },
+  {
+    "id": "SID_狼騎士団後駆の槍_一",
+    "base_id": "SID_狼騎士団後駆の槍",
+    "fandom_id": "Rearguard Lance",
+    "name": "Rearguard Lance",
+    "category": "weapon",
+    "weapon_type": "Blue Lance",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/90/Rearguard_Lance_W.png/revision/latest?cb=20260305121610",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 1,
+    "range": 1,
+    "might": 16,
+    "refine_kind": "skill1",
+    "addition_date": "2021-10-18",
+    "release_date": "2021-10-18",
+    "version": "5.10"
   },
   {
     "id": "SID_守りの斧＋",
@@ -95610,6 +95912,7 @@
     "version": "1.0",
     "upgrade_ids": [
       "SID_薄闇の王の刃",
+      "SID_魔器・春風の旋刃",
       "SID_魔器・姿なき影刃",
       "SID_魔器・暁風の刃",
       "SID_魔器ギンヌンガガプ",
@@ -95852,6 +96155,7 @@
       "SID_スレンドスピア",
       "SID_アッサルの槍",
       "SID_影の英雄の槍",
+      "SID_春雷の戦神の槍",
       "SID_春踊る兎達の槍",
       "SID_海角の星槍",
       "SID_深き海の底の双槍",
@@ -104090,6 +104394,102 @@
     ]
   },
   {
+    "id": "SID_春暁の優しき光",
+    "fandom_id": "Spring Dawning",
+    "name": "Spring Dawning",
+    "category": "weapon",
+    "weapon_type": "Red Tome",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "range": 2,
+    "might": 14,
+    "addition_date": "2026-03-05",
+    "release_date": "2026-03-06",
+    "version": "10.1",
+    "downgrade_ids": [
+      "SID_ボルガノン",
+      "SID_ノスフェラート"
+    ]
+  },
+  {
+    "id": "SID_春兎の卵",
+    "fandom_id": "Spring Hare Egg",
+    "name": "Spring Hare Egg",
+    "category": "weapon",
+    "weapon_type": "Green Tome",
+    "sp": 200,
+    "tier": 3,
+    "range": 2,
+    "might": 8,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Green Tome"
+        ]
+      }
+    },
+    "addition_date": "2026-03-05",
+    "release_date": "2026-03-06",
+    "version": "10.1",
+    "upgrade_ids": [
+      "SID_春兎の卵＋"
+    ],
+    "downgrade_ids": [
+      "SID_エルウインド"
+    ]
+  },
+  {
+    "id": "SID_春兎の卵＋",
+    "fandom_id": "Spring Hare Egg+",
+    "name": "Spring Hare Egg+",
+    "category": "weapon",
+    "weapon_type": "Green Tome",
+    "sp": 300,
+    "tier": 4,
+    "range": 2,
+    "might": 12,
+    "has_refine": true,
+    "refines_max_sp": 350,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Green Tome"
+        ]
+      }
+    },
+    "addition_date": "2026-03-05",
+    "release_date": "2026-03-06",
+    "version": "10.1",
+    "downgrade_ids": [
+      "SID_春兎の卵"
+    ]
+  },
+  {
+    "id": "SID_春雷の戦神の槍",
+    "fandom_id": "Spring Thorn",
+    "name": "Spring Thorn",
+    "category": "weapon",
+    "weapon_type": "Blue Lance",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "range": 1,
+    "might": 16,
+    "addition_date": "2026-03-05",
+    "release_date": "2026-03-06",
+    "version": "10.1",
+    "downgrade_ids": [
+      "SID_銀の槍"
+    ]
+  },
+  {
     "id": "SID_春光の斧",
     "game8_id": "503887",
     "fandom_id": "Spring-Air Axe",
@@ -105481,12 +105881,33 @@
     "tier": 2,
     "range": 2,
     "might": 14,
+    "has_refine": true,
+    "refines_max_sp": 400,
     "addition_date": "2021-04-19",
     "release_date": "2021-04-19",
     "version": "5.4",
     "downgrade_ids": [
       "SID_アサルト"
     ]
+  },
+  {
+    "id": "SID_ロストンの霊杖_一",
+    "base_id": "SID_ロストンの霊杖",
+    "game8_id": "328793",
+    "fandom_id": "Staff of Rausten",
+    "name": "Staff of Rausten",
+    "category": "weapon",
+    "weapon_type": "Colorless Staff",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/9c/Staff_of_Rausten_W.png/revision/latest?cb=20260305121527",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 1,
+    "range": 2,
+    "might": 14,
+    "refine_kind": "skill1",
+    "addition_date": "2021-04-19",
+    "release_date": "2021-04-19",
+    "version": "5.4"
   },
   {
     "id": "SID_聖女の杖",
@@ -107089,6 +107510,19 @@
     "downgrade_ids": [
       "SID_鉄の剣"
     ]
+  },
+  {
+    "id": "SID_真月の腕輪",
+    "fandom_id": "Stellar Brace",
+    "name": "Stellar Brace",
+    "category": "passiveb",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/76/Stellar_Brace.png/revision/latest?cb=20260305121423",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 1,
+    "addition_date": "2026-03-05",
+    "release_date": "2026-03-06",
+    "version": "10.1"
   },
   {
     "id": "SID_止水1",
@@ -114482,6 +114916,22 @@
     ]
   },
   {
+    "id": "SID_真瞬殺",
+    "fandom_id": "True Bane",
+    "name": "True Bane",
+    "category": "special",
+    "is_prf": true,
+    "sp": 500,
+    "tier": 3,
+    "cd": 5,
+    "addition_date": "2026-03-05",
+    "release_date": "2026-03-06",
+    "version": "10.1",
+    "downgrade_ids": [
+      "SID_月光"
+    ]
+  },
+  {
     "id": "SID_真竜鱗障壁",
     "game8_id": "376967",
     "fandom_id": "True Dragon Wall",
@@ -120750,6 +121200,19 @@
     ]
   },
   {
+    "id": "SID_真神槌大地を穿つ",
+    "fandom_id": "World Destroyer",
+    "name": "World Destroyer",
+    "category": "passivec",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d3/World_Destroyer.png/revision/latest?cb=20260305121445",
+    "is_prf": true,
+    "sp": 300,
+    "tier": 1,
+    "addition_date": "2026-03-05",
+    "release_date": "2026-03-06",
+    "version": "10.1"
+  },
+  {
     "id": "SID_世界樹の栗鼠の尻尾",
     "game8_id": "435916",
     "fandom_id": "World-Tree Tail",
@@ -126776,6 +127239,63 @@
     ]
   },
   {
+    "id": "SSID_第104迷宮の覇者1",
+    "fandom_id": "Squad Ace CZ",
+    "name": "Squad Ace CZ 1",
+    "category": "sacredseal",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/1a/Squad_Ace_BV_1.png/revision/latest?cb=20230906021551",
+    "sp": 120,
+    "tier": 1,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": null
+    },
+    "upgrade_ids": [
+      "SSID_第104迷宮の覇者2"
+    ]
+  },
+  {
+    "id": "SSID_第104迷宮の覇者2",
+    "fandom_id": "Squad Ace CZ",
+    "name": "Squad Ace CZ 2",
+    "category": "sacredseal",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/60/Squad_Ace_BV_2.png/revision/latest?cb=20230906021601",
+    "sp": 180,
+    "tier": 2,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": null
+    },
+    "upgrade_ids": [
+      "SSID_第104迷宮の覇者3"
+    ],
+    "downgrade_ids": [
+      "SSID_第104迷宮の覇者1"
+    ]
+  },
+  {
+    "id": "SSID_第104迷宮の覇者3",
+    "fandom_id": "Squad Ace CZ",
+    "name": "Squad Ace CZ 3",
+    "category": "sacredseal",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/de/Squad_Ace_BV_3.png/revision/latest?cb=20230906021611",
+    "sp": 240,
+    "tier": 3,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": null
+    },
+    "downgrade_ids": [
+      "SSID_第104迷宮の覇者2"
+    ]
+  },
+  {
     "id": "SSID_第4迷宮の覇者1",
     "fandom_id": "Squad Ace D",
     "name": "Squad Ace D 1",
@@ -129635,6 +130155,75 @@
     },
     "downgrade_ids": [
       "SSID_攻撃守備の渾身2"
+    ]
+  },
+  {
+    "id": "SSID_攻撃守備の牽制1",
+    "fandom_id": "Atk/Def Rein",
+    "name": "Atk/Def Rein 1",
+    "category": "sacredseal",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/33/Atk_Def_Rein_1.png/revision/latest?cb=20201105012609",
+    "sp": 60,
+    "tier": 1,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Flying"
+        ]
+      },
+      "weapons": {
+        "none": true
+      }
+    },
+    "upgrade_ids": [
+      "SSID_攻撃守備の牽制2"
+    ]
+  },
+  {
+    "id": "SSID_攻撃守備の牽制2",
+    "fandom_id": "Atk/Def Rein",
+    "name": "Atk/Def Rein 2",
+    "category": "sacredseal",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/3c/Atk_Def_Rein_2.png/revision/latest?cb=20201105012619",
+    "sp": 120,
+    "tier": 2,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Flying"
+        ]
+      },
+      "weapons": {
+        "none": true
+      }
+    },
+    "upgrade_ids": [
+      "SSID_攻撃守備の牽制3"
+    ],
+    "downgrade_ids": [
+      "SSID_攻撃守備の牽制1"
+    ]
+  },
+  {
+    "id": "SSID_攻撃守備の牽制3",
+    "fandom_id": "Atk/Def Rein",
+    "name": "Atk/Def Rein 3",
+    "category": "sacredseal",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f6/Atk_Def_Rein_3.png/revision/latest?cb=20201105012629",
+    "sp": 240,
+    "tier": 3,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Flying"
+        ]
+      },
+      "weapons": {
+        "none": true
+      }
+    },
+    "downgrade_ids": [
+      "SSID_攻撃守備の牽制2"
     ]
   },
   {
@@ -134036,6 +134625,75 @@
     },
     "downgrade_ids": [
       "SSID_守備魔防の万全2"
+    ]
+  },
+  {
+    "id": "SSID_守備魔防の連携1",
+    "fandom_id": "Def/Res Link",
+    "name": "Def/Res Link 1",
+    "category": "sacredseal",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e4/Def_Res_Link_1.png/revision/latest?cb=20180810071542",
+    "sp": 60,
+    "tier": 1,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_not_use": [
+          "Colorless Staff"
+        ]
+      }
+    },
+    "upgrade_ids": [
+      "SSID_守備魔防の連携2"
+    ]
+  },
+  {
+    "id": "SSID_守備魔防の連携2",
+    "fandom_id": "Def/Res Link",
+    "name": "Def/Res Link 2",
+    "category": "sacredseal",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/5e/Def_Res_Link_2.png/revision/latest?cb=20180810071544",
+    "sp": 120,
+    "tier": 2,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_not_use": [
+          "Colorless Staff"
+        ]
+      }
+    },
+    "upgrade_ids": [
+      "SSID_守備魔防の連携3"
+    ],
+    "downgrade_ids": [
+      "SSID_守備魔防の連携1"
+    ]
+  },
+  {
+    "id": "SSID_守備魔防の連携3",
+    "fandom_id": "Def/Res Link",
+    "name": "Def/Res Link 3",
+    "category": "sacredseal",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e9/Def_Res_Link_3.png/revision/latest?cb=20180810071546",
+    "sp": 240,
+    "tier": 3,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_not_use": [
+          "Colorless Staff"
+        ]
+      }
+    },
+    "downgrade_ids": [
+      "SSID_守備魔防の連携2"
     ]
   },
   {
@@ -145223,6 +145881,18 @@
     "addition_date": "2022-06-17",
     "release_date": "2022-06-17",
     "version": "6.6"
+  },
+  {
+    "id": "HARMONIZED_PID_双界エイリーク",
+    "game8_id": null,
+    "fandom_id": "Eirika: Spring Company",
+    "name": "Eirika: Spring Company",
+    "category": "harmonized",
+    "is_prf": true,
+    "tier": 1,
+    "addition_date": "2026-03-05",
+    "release_date": "2026-03-06",
+    "version": "10.1"
   },
   {
     "id": "HARMONIZED_PID_双界フィル",

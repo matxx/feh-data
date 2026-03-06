@@ -23970,6 +23970,84 @@
     "unlock": 1
   },
   {
+    "unit_id": "PID_春祭ドロテア",
+    "skill_id": "SID_共鳴・攻魔遠影",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_春祭ドロテア",
+    "skill_id": "SID_氷点",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_春祭ドロテア",
+    "skill_id": "SID_エルウインド",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_春祭ドロテア",
+    "skill_id": "SID_氷華",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_春祭ドロテア",
+    "skill_id": "SID_共鳴の黒魔法1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_春祭ドロテア",
+    "skill_id": "SID_共鳴の黒魔法2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_春祭ドロテア",
+    "skill_id": "SID_共鳴の黒魔法3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_春祭ドロテア",
+    "skill_id": "SID_影助・引き戻し1",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_春祭ドロテア",
+    "skill_id": "SID_影助・引き戻し2",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_春祭ドロテア",
+    "skill_id": "SID_影助・引き戻し3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_春祭ドロテア",
+    "skill_id": "SID_春兎の卵",
+    "default": 3,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_春祭ドロテア",
+    "skill_id": "SID_春兎の卵＋",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_春祭ドロテア",
+    "skill_id": "SID_ウインド",
+    "default": 1,
+    "unlock": 1
+  },
+  {
     "unit_id": "PID_水着ドロテア",
     "skill_id": "SID_攻撃の魅了1",
     "default": 0,
@@ -27280,6 +27358,102 @@
     "skill_id": "SID_鋼の剣",
     "default": 3,
     "unlock": 2
+  },
+  {
+    "unit_id": "PID_双界エイリーク",
+    "skill_id": "SID_攻撃速さの詠唱",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_双界エイリーク",
+    "skill_id": "SID_攻撃速さの絆1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_双界エイリーク",
+    "skill_id": "SID_攻撃速さの絆2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_双界エイリーク",
+    "skill_id": "SID_攻撃速さの絆3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_双界エイリーク",
+    "skill_id": "SID_攻撃速さの大開放1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_双界エイリーク",
+    "skill_id": "SID_攻撃速さの大開放2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_双界エイリーク",
+    "skill_id": "SID_攻撃速さの大開放3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_双界エイリーク",
+    "skill_id": "SID_攻撃速さの解放",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_双界エイリーク",
+    "skill_id": "SID_ボルガノン",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_双界エイリーク",
+    "skill_id": "SID_竜穿",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_双界エイリーク",
+    "skill_id": "SID_伏竜",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_双界エイリーク",
+    "skill_id": "SID_エルファイアー",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_双界エイリーク",
+    "skill_id": "SID_ファイアー",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_双界エイリーク",
+    "skill_id": "SID_理路",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_双界エイリーク",
+    "skill_id": "SID_春暁の優しき光",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_双界エイリーク",
+    "skill_id": "SID_真月の腕輪",
+    "default": 0,
+    "unlock": 5
   },
   {
     "unit_id": "PID_比翼エイリーク",
@@ -45829,9 +46003,39 @@
   },
   {
     "unit_id": "PID_伝承ヒノカ",
+    "skill_id": "SID_叱咤激励・承",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_伝承ヒノカ",
     "skill_id": "SID_銀の弓",
     "default": 4,
     "unlock": 3
+  },
+  {
+    "unit_id": "PID_伝承ヒノカ",
+    "skill_id": "SID_速さの吸収1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_伝承ヒノカ",
+    "skill_id": "SID_速さの吸収2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_伝承ヒノカ",
+    "skill_id": "SID_速さの吸収3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_伝承ヒノカ",
+    "skill_id": "SID_速さの吸収4",
+    "default": 0,
+    "unlock": 5
   },
   {
     "unit_id": "PID_伝承ヒノカ",
@@ -90319,6 +90523,12 @@
   },
   {
     "unit_id": "PID_伝承ルフレ男",
+    "skill_id": "SID_秘奥・攻魔凪",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_伝承ルフレ男",
     "skill_id": "SID_再移動制限1",
     "default": 0,
     "unlock": 1
@@ -90350,6 +90560,24 @@
   {
     "unit_id": "PID_伝承ルフレ男",
     "skill_id": "SID_華炎",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_伝承ルフレ男",
+    "skill_id": "SID_攻撃魔防の凪1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_伝承ルフレ男",
+    "skill_id": "SID_攻撃魔防の凪2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_伝承ルフレ男",
+    "skill_id": "SID_攻撃魔防の凪3",
     "default": 0,
     "unlock": 4
   },
@@ -90392,6 +90620,12 @@
   {
     "unit_id": "PID_伝承ルフレ男",
     "skill_id": "SID_攻撃封じ4",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_伝承ルフレ男",
+    "skill_id": "SID_これも策のう…・承",
     "default": 0,
     "unlock": 5
   },
@@ -91876,6 +92110,12 @@
     "skill_id": "SID_鉄の槍",
     "default": 1,
     "unlock": 1
+  },
+  {
+    "unit_id": "PID_ロシェ",
+    "skill_id": "SID_狼騎士団後駆の槍",
+    "default": 0,
+    "unlock": 5
   },
   {
     "unit_id": "PID_ロシェ",
@@ -101928,6 +102168,120 @@
     "unlock": 2
   },
   {
+    "unit_id": "PID_魔器春祭サザ",
+    "skill_id": "SID_魔器・春風の旋刃",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_魔器春祭サザ",
+    "skill_id": "SID_攻撃速さの孤軍1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_魔器春祭サザ",
+    "skill_id": "SID_攻撃速さの孤軍2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_魔器春祭サザ",
+    "skill_id": "SID_攻撃速さの孤軍3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_魔器春祭サザ",
+    "skill_id": "SID_攻撃速さの奇襲",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_魔器春祭サザ",
+    "skill_id": "SID_罠解除・流言",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_魔器春祭サザ",
+    "skill_id": "SID_罠解除1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_魔器春祭サザ",
+    "skill_id": "SID_罠解除2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_魔器春祭サザ",
+    "skill_id": "SID_罠解除3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_魔器春祭サザ",
+    "skill_id": "SID_鉄の暗器",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_魔器春祭サザ",
+    "skill_id": "SID_露払い1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_魔器春祭サザ",
+    "skill_id": "SID_露払い2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_魔器春祭サザ",
+    "skill_id": "SID_露払い3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_魔器春祭サザ",
+    "skill_id": "SID_露払い・暗煙",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_魔器春祭サザ",
+    "skill_id": "SID_月光",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_魔器春祭サザ",
+    "skill_id": "SID_影月",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_魔器春祭サザ",
+    "skill_id": "SID_銀の暗器",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_魔器春祭サザ",
+    "skill_id": "SID_鋼の暗器",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_魔器春祭サザ",
+    "skill_id": "SID_真瞬殺",
+    "default": 0,
+    "unlock": 5
+  },
+  {
     "unit_id": "PID_怪盗サザ",
     "skill_id": "SID_攻撃守備の牽制1",
     "default": 0,
@@ -105646,6 +106000,102 @@
     "skill_id": "SID_鋼の剣",
     "default": 2,
     "unlock": 2
+  },
+  {
+    "unit_id": "PID_春祭トール",
+    "skill_id": "SID_角逐",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_春祭トール",
+    "skill_id": "SID_蒼穹1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_春祭トール",
+    "skill_id": "SID_蒼穹2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_春祭トール",
+    "skill_id": "SID_蒼穹3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_春祭トール",
+    "skill_id": "SID_天穹・鬼没",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_春祭トール",
+    "skill_id": "SID_竜穿",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_春祭トール",
+    "skill_id": "SID_伏竜",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_春祭トール",
+    "skill_id": "SID_編隊飛行1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_春祭トール",
+    "skill_id": "SID_編隊飛行2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_春祭トール",
+    "skill_id": "SID_編隊飛行3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_春祭トール",
+    "skill_id": "SID_天舞い立つ",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_春祭トール",
+    "skill_id": "SID_鉄の槍",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_春祭トール",
+    "skill_id": "SID_銀の槍",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_春祭トール",
+    "skill_id": "SID_春雷の戦神の槍",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_春祭トール",
+    "skill_id": "SID_鋼の槍",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_春祭トール",
+    "skill_id": "SID_真神槌大地を穿つ",
+    "default": 0,
+    "unlock": 5
   },
   {
     "unit_id": "PID_比翼トール",
@@ -115292,6 +115742,12 @@
   {
     "unit_id": "PID_双界エーデルガルト",
     "skill_id": "HARMONIZED_PID_双界エーデルガルト",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_双界エイリーク",
+    "skill_id": "HARMONIZED_PID_双界エイリーク",
     "default": 0,
     "unlock": 1
   },

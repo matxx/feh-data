@@ -5002,6 +5002,14 @@
     ]
   },
   {
+    "name": "Focus: Legendary Revival 6",
+    "unit_ids": [
+      "PID_伝承ユリア",
+      "PID_伝承リーフ",
+      "PID_伝承ロイ"
+    ]
+  },
+  {
     "name": "Focus: Leif & Altena's Battle",
     "unit_ids": [
       "PID_アルテナ",
@@ -5858,6 +5866,15 @@
       "PID_イングリット",
       "PID_サラ",
       "PID_忍者レーヴァテイン"
+    ]
+  },
+  {
+    "name": "Focus: New Power (Mar 2026)",
+    "unit_ids": [
+      "PID_ステラ",
+      "PID_フラヴィア",
+      "PID_ロシェ",
+      "PID_幼少ラーチェル"
     ]
   },
   {
@@ -7121,6 +7138,14 @@
     ]
   },
   {
+    "name": "Focus: Tempest Trials (One I Seek)",
+    "unit_ids": [
+      "PID_エイリーク",
+      "PID_ドロテア",
+      "PID_ミカヤ"
+    ]
+  },
+  {
     "name": "Focus: Tempest Trials (Past King, Future Queen 1)",
     "unit_ids": [
       "PID_ドゥドゥ―",
@@ -7823,6 +7848,14 @@
       "PID_ユリア",
       "PID_ルキナ",
       "PID_総選挙ルキナ"
+    ]
+  },
+  {
+    "name": "Focus: Weekly Revival 120",
+    "unit_ids": [
+      "PID_総選挙カムイ女",
+      "PID_闇ベレス",
+      "PID_魔器イングリット"
     ]
   },
   {
@@ -11671,6 +11704,19 @@
     ]
   },
   {
+    "name": "New Heroes Return (Mar 2026)",
+    "unit_ids": [
+      "PID_お供ユナカ",
+      "PID_総選挙エイクス",
+      "PID_総選挙シャロン",
+      "PID_総選挙バルドル",
+      "PID_総選挙ベレト",
+      "PID_響心リョウマ",
+      "PID_響心若年チキ",
+      "PID_魔器ヒノカ"
+    ]
+  },
+  {
     "name": "New Heroes Return (May 2025)",
     "unit_ids": [
       "PID_ダグ2味方",
@@ -13224,6 +13270,15 @@
       "PID_春祭クロム",
       "PID_春祭マークス",
       "PID_春祭ルキナ"
+    ]
+  },
+  {
+    "name": "Springtime Sisters (Focus)",
+    "unit_ids": [
+      "PID_双界エイリーク",
+      "PID_春祭トール",
+      "PID_春祭ドロテア",
+      "PID_魔器春祭サザ"
     ]
   },
   {

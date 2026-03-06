@@ -834,11 +834,12 @@
       "gsp": false,
       "ssp": false,
       "hg": false,
-      "dc": false,
+      "dc": true,
       "ldc": false,
       "foc": true
     },
     "lowest_rarity": {
+      "dc": 5,
       "foc": 5
     },
     "skill_ids": [
@@ -862,7 +863,16 @@
       "SID_銀の弓",
       "SID_鋼の弓",
       "SID_響・凪"
-    ]
+    ],
+    "divine_codes": {
+      "normal": [
+        {
+          "number": 7,
+          "title": "Heroes / Mystery / Echoes",
+          "cost": 2000
+        }
+      ]
+    }
   },
   {
     "id": "PID_伝承アルム",
@@ -2861,12 +2871,13 @@
       "gsp": false,
       "ssp": true,
       "hg": false,
-      "dc": false,
+      "dc": true,
       "ldc": false,
       "foc": false
     },
     "lowest_rarity": {
-      "ssp": 5
+      "ssp": 5,
+      "dc": 5
     },
     "skill_ids": [
       "DUO_PID_比翼バルドル",
@@ -2886,7 +2897,16 @@
       "SID_鉄の槍",
       "SID_銀の槍",
       "SID_鋼の槍"
-    ]
+    ],
+    "divine_codes": {
+      "normal": [
+        {
+          "number": 7,
+          "title": "Heroes / Mystery / Echoes",
+          "cost": 1600
+        }
+      ]
+    }
   },
   {
     "id": "PID_総選挙バルドル",
@@ -5252,12 +5272,13 @@
       "gsp": false,
       "ssp": true,
       "hg": false,
-      "dc": false,
+      "dc": true,
       "ldc": false,
       "foc": false
     },
     "lowest_rarity": {
-      "ssp": 5
+      "ssp": 5,
+      "dc": 5
     },
     "skill_ids": [
       "SID_仕方がない子ね",
@@ -5276,7 +5297,16 @@
       "SID_鉄の斧",
       "SID_銀の斧",
       "SID_鋼の斧"
-    ]
+    ],
+    "divine_codes": {
+      "normal": [
+        {
+          "number": 7,
+          "title": "Fates / Engage",
+          "cost": 800
+        }
+      ]
+    }
   },
   {
     "id": "PID_カミュ",
@@ -6223,12 +6253,13 @@
       "gsp": false,
       "ssp": true,
       "hg": false,
-      "dc": false,
+      "dc": true,
       "ldc": false,
       "foc": false
     },
     "lowest_rarity": {
-      "ssp": 4
+      "ssp": 4,
+      "dc": 5
     },
     "skill_ids": [
       "SID_エルファイアー",
@@ -6245,7 +6276,16 @@
       "SID_魔防の大応援",
       "SID_魔防の大応援＋",
       "SID_魔防の応援"
-    ]
+    ],
+    "divine_codes": {
+      "normal": [
+        {
+          "number": 7,
+          "title": "Fates / Engage",
+          "cost": 400
+        }
+      ]
+    }
   },
   {
     "id": "PID_セリーヌ",
@@ -6959,12 +6999,13 @@
       "gsp": false,
       "ssp": true,
       "hg": false,
-      "dc": false,
+      "dc": true,
       "ldc": false,
       "foc": false
     },
     "lowest_rarity": {
-      "ssp": 4
+      "ssp": 4,
+      "dc": 5
     },
     "skill_ids": [
       "SID_始まりの鼓動1",
@@ -6980,7 +7021,16 @@
       "SID_鋼の斧",
       "SID_闘技の斧",
       "SID_闘技の斧＋"
-    ]
+    ],
+    "divine_codes": {
+      "normal": [
+        {
+          "number": 7,
+          "title": "Heroes / Genealogy / Thracia 776",
+          "cost": 400
+        }
+      ]
+    }
   },
   {
     "id": "PID_ホリン",
@@ -8968,11 +9018,12 @@
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "lowest_rarity": {
-      "gsp": 3
+      "gsp": 3,
+      "ldc": 4
     },
     "skill_ids": [
       "SID_合力の暗器",
@@ -8987,7 +9038,17 @@
       "SID_鉄の暗器",
       "SID_鋼の暗器",
       "SID_陽影"
-    ]
+    ],
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2026,
+          "month": 3,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "PID_ハロデギンハンザー",
@@ -9631,6 +9692,35 @@
     }
   },
   {
+    "id": "PID_春祭ドロテア",
+    "is_in": {
+      "gsp": false,
+      "ssp": true,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {
+      "ssp": 4
+    },
+    "skill_ids": [
+      "SID_ウインド",
+      "SID_エルウインド",
+      "SID_共鳴の黒魔法1",
+      "SID_共鳴の黒魔法2",
+      "SID_共鳴の黒魔法3",
+      "SID_共鳴・攻魔遠影",
+      "SID_影助・引き戻し1",
+      "SID_影助・引き戻し2",
+      "SID_影助・引き戻し3",
+      "SID_春兎の卵",
+      "SID_春兎の卵＋",
+      "SID_氷点",
+      "SID_氷華"
+    ]
+  },
+  {
     "id": "PID_水着ドロテア",
     "is_in": {
       "gsp": false,
@@ -10067,12 +10157,13 @@
       "gsp": true,
       "ssp": false,
       "hg": false,
-      "dc": false,
+      "dc": true,
       "ldc": false,
       "foc": false
     },
     "lowest_rarity": {
-      "gsp": 5
+      "gsp": 5,
+      "dc": 5
     },
     "skill_ids": [
       "SID_アサルト",
@@ -10096,7 +10187,16 @@
       "SID_魔防の混乱1",
       "SID_魔防の混乱2",
       "SID_魔防の混乱3"
-    ]
+    ],
+    "divine_codes": {
+      "normal": [
+        {
+          "number": 7,
+          "title": "Heroes / Genealogy / Thracia 776",
+          "cost": 800
+        }
+      ]
+    }
   },
   {
     "id": "PID_愛の祭エーデル",
@@ -10585,12 +10685,13 @@
       "gsp": true,
       "ssp": false,
       "hg": false,
-      "dc": false,
+      "dc": true,
       "ldc": false,
       "foc": false
     },
     "lowest_rarity": {
-      "gsp": 5
+      "gsp": 5,
+      "dc": 5
     },
     "skill_ids": [
       "SID_入れ替え",
@@ -10614,7 +10715,16 @@
       "SID_鎧の護り手・遠間1",
       "SID_鎧の護り手・遠間2",
       "SID_鎧の護り手・遠間3"
-    ]
+    ],
+    "divine_codes": {
+      "normal": [
+        {
+          "number": 7,
+          "title": "Heroes / Mystery / Echoes",
+          "cost": 1200
+        }
+      ]
+    }
   },
   {
     "id": "PID_開花エイル味方",
@@ -11000,6 +11110,39 @@
     }
   },
   {
+    "id": "PID_双界エイリーク",
+    "is_in": {
+      "gsp": false,
+      "ssp": true,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {
+      "ssp": 5
+    },
+    "skill_ids": [
+      "HARMONIZED_PID_双界エイリーク",
+      "SID_エルファイアー",
+      "SID_ファイアー",
+      "SID_ボルガノン",
+      "SID_伏竜",
+      "SID_攻撃速さの大開放1",
+      "SID_攻撃速さの大開放2",
+      "SID_攻撃速さの大開放3",
+      "SID_攻撃速さの絆1",
+      "SID_攻撃速さの絆2",
+      "SID_攻撃速さの絆3",
+      "SID_攻撃速さの解放",
+      "SID_攻撃速さの詠唱",
+      "SID_春暁の優しき光",
+      "SID_理路",
+      "SID_真月の腕輪",
+      "SID_竜穿"
+    ]
+  },
+  {
     "id": "PID_比翼エイリーク",
     "is_in": {
       "gsp": false,
@@ -11224,12 +11367,13 @@
       "gsp": true,
       "ssp": false,
       "hg": false,
-      "dc": false,
+      "dc": true,
       "ldc": false,
       "foc": false
     },
     "lowest_rarity": {
-      "gsp": 5
+      "gsp": 5,
+      "dc": 5
     },
     "skill_ids": [
       "SID_アトラース",
@@ -11245,7 +11389,16 @@
       "SID_歩行の見切り追撃2",
       "SID_歩行の見切り追撃3",
       "SID_歩行の見切り追撃4"
-    ]
+    ],
+    "divine_codes": {
+      "normal": [
+        {
+          "number": 7,
+          "title": "Binding / Blazing / Sacred Stones",
+          "cost": 400
+        }
+      ]
+    }
   },
   {
     "id": "PID_エリス",
@@ -12875,6 +13028,12 @@
           "month": 6,
           "rarity": 4,
           "cost": 100
+        },
+        {
+          "year": 2026,
+          "month": 3,
+          "rarity": 4,
+          "cost": 100
         }
       ]
     }
@@ -13186,6 +13345,12 @@
         {
           "year": 2024,
           "month": 8,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2026,
+          "month": 3,
           "rarity": 4,
           "cost": 100
         }
@@ -13726,12 +13891,13 @@
       "gsp": false,
       "ssp": true,
       "hg": false,
-      "dc": false,
+      "dc": true,
       "ldc": false,
       "foc": false
     },
     "lowest_rarity": {
-      "ssp": 5
+      "ssp": 5,
+      "dc": 5
     },
     "skill_ids": [
       "HARMONIZED_PID_双界フィル",
@@ -13754,7 +13920,16 @@
       "SID_鉄の剣",
       "SID_銀の剣",
       "SID_鋼の剣"
-    ]
+    ],
+    "divine_codes": {
+      "normal": [
+        {
+          "number": 7,
+          "title": "Binding / Blazing / Sacred Stones",
+          "cost": 1600
+        }
+      ]
+    }
   },
   {
     "id": "PID_春祭フィル",
@@ -14735,11 +14910,12 @@
       "ssp": true,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "lowest_rarity": {
-      "ssp": 5
+      "ssp": 5,
+      "ldc": 5
     },
     "skill_ids": [
       "SID_伏竜",
@@ -14760,7 +14936,17 @@
       "SID_鉄の斧",
       "SID_銀の斧",
       "SID_鋼の斧"
-    ]
+    ],
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2026,
+          "month": 3,
+          "rarity": 5,
+          "cost": 300
+        }
+      ]
+    }
   },
   {
     "id": "PID_フランツ",
@@ -14976,12 +15162,13 @@
       "gsp": false,
       "ssp": true,
       "hg": false,
-      "dc": false,
+      "dc": true,
       "ldc": false,
       "foc": false
     },
     "lowest_rarity": {
-      "ssp": 5
+      "ssp": 5,
+      "dc": 5
     },
     "skill_ids": [
       "DUO_PID_比翼フレイヤ",
@@ -15001,7 +15188,16 @@
       "SID_流星",
       "SID_追憶の首飾り",
       "SID_追撃の鼓動・刃"
-    ]
+    ],
+    "divine_codes": {
+      "normal": [
+        {
+          "number": 7,
+          "title": "Heroes / Genealogy / Thracia 776",
+          "cost": 1600
+        }
+      ]
+    }
   },
   {
     "id": "PID_フロージ味方",
@@ -15710,11 +15906,12 @@
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "lowest_rarity": {
-      "gsp": 4.5
+      "gsp": 4.5,
+      "ldc": 5
     },
     "skill_ids": [
       "SID_フレリアの重槍",
@@ -15734,7 +15931,17 @@
       "SID_鬼神金剛の構え1",
       "SID_鬼神金剛の構え2",
       "SID_鬼神金剛の構え3"
-    ]
+    ],
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2026,
+          "month": 3,
+          "rarity": 5,
+          "cost": 300
+        }
+      ]
+    }
   },
   {
     "id": "PID_魔器ギンヌン味方",
@@ -15905,12 +16112,13 @@
       "gsp": true,
       "ssp": false,
       "hg": false,
-      "dc": false,
+      "dc": true,
       "ldc": false,
       "foc": false
     },
     "lowest_rarity": {
-      "gsp": 5
+      "gsp": 5,
+      "dc": 5
     },
     "skill_ids": [
       "SID_エルファイアー",
@@ -15928,7 +16136,16 @@
       "SID_魔防の混乱1",
       "SID_魔防の混乱2",
       "SID_魔防の混乱3"
-    ]
+    ],
+    "divine_codes": {
+      "normal": [
+        {
+          "number": 7,
+          "title": "Heroes / Mystery / Echoes",
+          "cost": 800
+        }
+      ]
+    }
   },
   {
     "id": "PID_神階ガトー",
@@ -16078,12 +16295,13 @@
       "gsp": true,
       "ssp": false,
       "hg": false,
-      "dc": false,
+      "dc": true,
       "ldc": false,
       "foc": false
     },
     "lowest_rarity": {
-      "gsp": 5
+      "gsp": 5,
+      "dc": 5
     },
     "skill_ids": [
       "SID_兜の護り手・近・茨",
@@ -16105,7 +16323,16 @@
       "SID_火炎のブレス",
       "SID_灼熱のブレス",
       "SID_重装の大氷"
-    ]
+    ],
+    "divine_codes": {
+      "normal": [
+        {
+          "number": 7,
+          "title": "Awakening / Three Houses",
+          "cost": 800
+        }
+      ]
+    }
   },
   {
     "id": "PID_ギムレー男",
@@ -18266,12 +18493,13 @@
       "gsp": false,
       "ssp": true,
       "hg": false,
-      "dc": false,
+      "dc": true,
       "ldc": false,
       "foc": false
     },
     "lowest_rarity": {
-      "ssp": 5
+      "ssp": 5,
+      "dc": 5
     },
     "skill_ids": [
       "HARMONIZED_PID_双界ヒルダ",
@@ -18297,7 +18525,16 @@
       "SID_鉄の弓",
       "SID_銀の弓",
       "SID_鋼の弓"
-    ]
+    ],
+    "divine_codes": {
+      "normal": [
+        {
+          "number": 7,
+          "title": "Awakening / Three Houses",
+          "cost": 1600
+        }
+      ]
+    }
   },
   {
     "id": "PID_花婿ヒナタ",
@@ -18494,6 +18731,7 @@
     "skill_ids": [
       "SID_凶星",
       "SID_叱咤激励",
+      "SID_叱咤激励・承",
       "SID_攻撃速さの機先1",
       "SID_攻撃速さの機先2",
       "SID_攻撃速さの機先3",
@@ -18504,6 +18742,10 @@
       "SID_救援の行路4",
       "SID_星影",
       "SID_狙撃",
+      "SID_速さの吸収1",
+      "SID_速さの吸収2",
+      "SID_速さの吸収3",
+      "SID_速さの吸収4",
       "SID_鉄の弓",
       "SID_銀の弓",
       "SID_鋼の弓",
@@ -18664,12 +18906,13 @@
       "gsp": false,
       "ssp": true,
       "hg": false,
-      "dc": false,
+      "dc": true,
       "ldc": false,
       "foc": false
     },
     "lowest_rarity": {
-      "ssp": 5
+      "ssp": 5,
+      "dc": 5
     },
     "skill_ids": [
       "SID_アサルト",
@@ -18691,7 +18934,16 @@
       "SID_防陣3",
       "SID_防陣4",
       "SID_静水の祝福"
-    ]
+    ],
+    "divine_codes": {
+      "normal": [
+        {
+          "number": 7,
+          "title": "Fates / Engage",
+          "cost": 1200
+        }
+      ]
+    }
   },
   {
     "id": "PID_魔器オルテンシア",
@@ -19241,12 +19493,13 @@
       "gsp": true,
       "ssp": false,
       "hg": false,
-      "dc": false,
+      "dc": true,
       "ldc": false,
       "foc": false
     },
     "lowest_rarity": {
-      "gsp": 5
+      "gsp": 5,
+      "dc": 5
     },
     "skill_ids": [
       "SID_守備の混乱1",
@@ -19263,7 +19516,16 @@
       "SID_鉄の弓",
       "SID_銀の弓",
       "SID_鋼の弓"
-    ]
+    ],
+    "divine_codes": {
+      "normal": [
+        {
+          "number": 7,
+          "title": "Awakening / Three Houses",
+          "cost": 400
+        }
+      ]
+    }
   },
   {
     "id": "PID_イグレーヌ",
@@ -19647,11 +19909,12 @@
       "gsp": false,
       "ssp": false,
       "hg": false,
-      "dc": false,
+      "dc": true,
       "ldc": false,
       "foc": true
     },
     "lowest_rarity": {
+      "dc": 5,
       "foc": 5
     },
     "skill_ids": [
@@ -19675,7 +19938,16 @@
       "SID_銀の斧",
       "SID_鋼の斧",
       "SID_陽影"
-    ]
+    ],
+    "divine_codes": {
+      "normal": [
+        {
+          "number": 7,
+          "title": "Path of Radiance / Radiant Dawn",
+          "cost": 1600
+        }
+      ]
+    }
   },
   {
     "id": "PID_幼少イレース",
@@ -22857,11 +23129,12 @@
       "gsp": false,
       "ssp": false,
       "hg": false,
-      "dc": false,
+      "dc": true,
       "ldc": false,
       "foc": true
     },
     "lowest_rarity": {
+      "dc": 5,
       "foc": 5
     },
     "skill_ids": [
@@ -22883,7 +23156,16 @@
       "SID_祈り",
       "SID_魔器・聖杖ラトナ",
       "SID_麗しの絶世美王女"
-    ]
+    ],
+    "divine_codes": {
+      "normal": [
+        {
+          "number": 7,
+          "title": "Binding / Blazing / Sacred Stones",
+          "cost": 2000
+        }
+      ]
+    }
   },
   {
     "id": "PID_ラーチェル",
@@ -24072,11 +24354,12 @@
       "gsp": false,
       "ssp": false,
       "hg": false,
-      "dc": false,
+      "dc": true,
       "ldc": false,
       "foc": true
     },
     "lowest_rarity": {
+      "dc": 5,
       "foc": 5
     },
     "skill_ids": [
@@ -24100,7 +24383,16 @@
       "SID_鬼神金剛の一撃1",
       "SID_鬼神金剛の一撃2",
       "SID_鬼神金剛の炎撃3"
-    ]
+    ],
+    "divine_codes": {
+      "normal": [
+        {
+          "number": 7,
+          "title": "Heroes / Genealogy / Thracia 776",
+          "cost": 2000
+        }
+      ]
+    }
   },
   {
     "id": "PID_伝承リーフ",
@@ -26066,6 +26358,12 @@
         {
           "year": 2020,
           "month": 6,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2026,
+          "month": 3,
           "rarity": 4,
           "cost": 100
         }
@@ -29767,12 +30065,13 @@
       "gsp": false,
       "ssp": true,
       "hg": false,
-      "dc": false,
+      "dc": true,
       "ldc": false,
       "foc": false
     },
     "lowest_rarity": {
-      "ssp": 5
+      "ssp": 5,
+      "dc": 5
     },
     "skill_ids": [
       "SID_イリアの長剣",
@@ -29794,7 +30093,16 @@
       "SID_鉄の剣",
       "SID_銀の剣",
       "SID_鋼の剣"
-    ]
+    ],
+    "divine_codes": {
+      "normal": [
+        {
+          "number": 7,
+          "title": "Path of Radiance / Radiant Dawn",
+          "cost": 1200
+        }
+      ]
+    }
   },
   {
     "id": "PID_比翼ミカヤ",
@@ -30989,12 +31297,13 @@
       "gsp": true,
       "ssp": false,
       "hg": false,
-      "dc": false,
+      "dc": true,
       "ldc": false,
       "foc": false
     },
     "lowest_rarity": {
-      "gsp": 5
+      "gsp": 5,
+      "dc": 5
     },
     "skill_ids": [
       "SID_封魔のブレス",
@@ -31012,7 +31321,16 @@
       "SID_竜炎",
       "SID_華炎",
       "SID_蛍火"
-    ]
+    ],
+    "divine_codes": {
+      "normal": [
+        {
+          "number": 7,
+          "title": "Binding / Blazing / Sacred Stones",
+          "cost": 800
+        }
+      ]
+    }
   },
   {
     "id": "PID_モズメ",
@@ -33178,12 +33496,13 @@
       "gsp": false,
       "ssp": true,
       "hg": false,
-      "dc": false,
+      "dc": true,
       "ldc": false,
       "foc": false
     },
     "lowest_rarity": {
-      "ssp": 5
+      "ssp": 5,
+      "dc": 5
     },
     "skill_ids": [
       "SID_エルファイアー",
@@ -33202,7 +33521,16 @@
       "SID_陽光",
       "SID_陽影",
       "SID_黒い牙の絆"
-    ]
+    ],
+    "divine_codes": {
+      "normal": [
+        {
+          "number": 7,
+          "title": "Binding / Blazing / Sacred Stones",
+          "cost": 1200
+        }
+      ]
+    }
   },
   {
     "id": "PID_響心ニノ",
@@ -33364,13 +33692,14 @@
     "is_in": {
       "gsp": false,
       "ssp": true,
-      "hg": false,
+      "hg": true,
       "dc": false,
       "ldc": true,
       "foc": false
     },
     "lowest_rarity": {
       "ssp": 4.5,
+      "hg": 5,
       "ldc": 5
     },
     "skill_ids": [
@@ -34098,11 +34427,12 @@
       "ssp": false,
       "hg": true,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "lowest_rarity": {
-      "hg": 4
+      "hg": 4,
+      "ldc": 4
     },
     "skill_ids": [
       "SID_奥義の螺旋1",
@@ -34117,7 +34447,17 @@
       "SID_鋼の剣",
       "SID_闘技の剣",
       "SID_闘技の剣＋"
-    ]
+    ],
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2026,
+          "month": 3,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "PID_オグマ",
@@ -34949,12 +35289,13 @@
       "gsp": false,
       "ssp": true,
       "hg": false,
-      "dc": false,
+      "dc": true,
       "ldc": false,
       "foc": false
     },
     "lowest_rarity": {
-      "ssp": 4
+      "ssp": 4,
+      "dc": 5
     },
     "skill_ids": [
       "SID_ヤシの葉",
@@ -34970,7 +35311,16 @@
       "SID_蛍火",
       "SID_鉄の斧",
       "SID_鋼の斧"
-    ]
+    ],
+    "divine_codes": {
+      "normal": [
+        {
+          "number": 7,
+          "title": "Heroes / Mystery / Echoes",
+          "cost": 400
+        }
+      ]
+    }
   },
   {
     "id": "PID_パンドロ",
@@ -37181,6 +37531,7 @@
       "foc": 5
     },
     "skill_ids": [
+      "SID_これも策のう…・承",
       "SID_これも策のうちだよ",
       "SID_ウインド",
       "SID_エルウインド",
@@ -37192,7 +37543,11 @@
       "SID_攻撃封じ2",
       "SID_攻撃封じ3",
       "SID_攻撃封じ4",
+      "SID_攻撃魔防の凪1",
+      "SID_攻撃魔防の凪2",
+      "SID_攻撃魔防の凪3",
       "SID_神軍師の書",
+      "SID_秘奥・攻魔凪",
       "SID_華炎",
       "SID_蛍火"
     ]
@@ -37820,6 +38175,7 @@
       "SID_堅固の槍",
       "SID_堅固の槍＋",
       "SID_引き寄せ",
+      "SID_狼騎士団後駆の槍",
       "SID_速さ守備の密集1",
       "SID_速さ守備の密集2",
       "SID_速さ守備の密集3",
@@ -38313,11 +38669,12 @@
       "gsp": false,
       "ssp": false,
       "hg": false,
-      "dc": false,
+      "dc": true,
       "ldc": false,
       "foc": true
     },
     "lowest_rarity": {
+      "dc": 5,
       "foc": 5
     },
     "skill_ids": [
@@ -38338,7 +38695,16 @@
       "SID_飛燕の一撃1",
       "SID_飛燕の一撃2",
       "SID_飛燕の一撃3"
-    ]
+    ],
+    "divine_codes": {
+      "normal": [
+        {
+          "number": 7,
+          "title": "Fates / Engage",
+          "cost": 2000
+        }
+      ]
+    }
   },
   {
     "id": "PID_セーバー",
@@ -39608,12 +39974,13 @@
       "gsp": false,
       "ssp": true,
       "hg": false,
-      "dc": false,
+      "dc": true,
       "ldc": false,
       "foc": false
     },
     "lowest_rarity": {
-      "ssp": 5
+      "ssp": 5,
+      "dc": 5
     },
     "skill_ids": [
       "SID_伏竜",
@@ -39632,7 +39999,16 @@
       "SID_銀の斧",
       "SID_鋼の斧",
       "SID_霞切り"
-    ]
+    ],
+    "divine_codes": {
+      "normal": [
+        {
+          "number": 7,
+          "title": "Heroes / Genealogy / Thracia 776",
+          "cost": 1200
+        }
+      ]
+    }
   },
   {
     "id": "PID_伝承セリス",
@@ -41522,12 +41898,13 @@
       "gsp": false,
       "ssp": true,
       "hg": false,
-      "dc": false,
+      "dc": true,
       "ldc": false,
       "foc": false
     },
     "lowest_rarity": {
-      "ssp": 4
+      "ssp": 4,
+      "dc": 5
     },
     "skill_ids": [
       "SID_幼獣の化身・重装",
@@ -41543,7 +41920,16 @@
       "SID_鎧の護り手・遠間1",
       "SID_鎧の護り手・遠間2",
       "SID_鎧の護り手・遠間3"
-    ]
+    ],
+    "divine_codes": {
+      "normal": [
+        {
+          "number": 7,
+          "title": "Path of Radiance / Radiant Dawn",
+          "cost": 400
+        }
+      ]
+    }
   },
   {
     "id": "PID_ソレイユ",
@@ -41972,11 +42358,12 @@
       "gsp": false,
       "ssp": false,
       "hg": false,
-      "dc": false,
+      "dc": true,
       "ldc": false,
       "foc": true
     },
     "lowest_rarity": {
+      "dc": 5,
       "foc": 5
     },
     "skill_ids": [
@@ -41996,7 +42383,16 @@
       "SID_魔防の混乱1",
       "SID_魔防の混乱2",
       "SID_魔防の混乱3"
-    ]
+    ],
+    "divine_codes": {
+      "normal": [
+        {
+          "number": 7,
+          "title": "Path of Radiance / Radiant Dawn",
+          "cost": 2000
+        }
+      ]
+    }
   },
   {
     "id": "PID_総選挙セネリオ",
@@ -42152,6 +42548,42 @@
       "SID_銀の暗器",
       "SID_鋼の暗器",
       "SID_魔器・暁風の刃"
+    ]
+  },
+  {
+    "id": "PID_魔器春祭サザ",
+    "is_in": {
+      "gsp": false,
+      "ssp": true,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "lowest_rarity": {
+      "ssp": 5,
+      "foc": 5
+    },
+    "skill_ids": [
+      "SID_影月",
+      "SID_攻撃速さの奇襲",
+      "SID_攻撃速さの孤軍1",
+      "SID_攻撃速さの孤軍2",
+      "SID_攻撃速さの孤軍3",
+      "SID_月光",
+      "SID_真瞬殺",
+      "SID_罠解除1",
+      "SID_罠解除2",
+      "SID_罠解除3",
+      "SID_罠解除・流言",
+      "SID_鉄の暗器",
+      "SID_銀の暗器",
+      "SID_鋼の暗器",
+      "SID_露払い1",
+      "SID_露払い2",
+      "SID_露払い3",
+      "SID_露払い・暗煙",
+      "SID_魔器・春風の旋刃"
     ]
   },
   {
@@ -42407,12 +42839,13 @@
       "gsp": true,
       "ssp": false,
       "hg": false,
-      "dc": false,
+      "dc": true,
       "ldc": false,
       "foc": false
     },
     "lowest_rarity": {
-      "gsp": 5
+      "gsp": 5,
+      "dc": 5
     },
     "skill_ids": [
       "SID_ヴァーグ・カティ",
@@ -42430,7 +42863,16 @@
       "SID_銀の剣",
       "SID_鋼の剣",
       "SID_陣風"
-    ]
+    ],
+    "divine_codes": {
+      "normal": [
+        {
+          "number": 7,
+          "title": "Path of Radiance / Radiant Dawn",
+          "cost": 800
+        }
+      ]
+    }
   },
   {
     "id": "PID_ツバキ",
@@ -43707,11 +44149,12 @@
       "gsp": false,
       "ssp": false,
       "hg": false,
-      "dc": false,
+      "dc": true,
       "ldc": false,
       "foc": true
     },
     "lowest_rarity": {
+      "dc": 5,
       "foc": 5
     },
     "skill_ids": [
@@ -43732,7 +44175,16 @@
       "SID_速さの混乱3",
       "SID_速さ魔防の大混乱",
       "SID_響・十字牽制"
-    ]
+    ],
+    "divine_codes": {
+      "normal": [
+        {
+          "number": 7,
+          "title": "Awakening / Three Houses",
+          "cost": 2000
+        }
+      ]
+    }
   },
   {
     "id": "PID_花嫁サーリャ",
@@ -43875,6 +44327,38 @@
         }
       ]
     }
+  },
+  {
+    "id": "PID_春祭トール",
+    "is_in": {
+      "gsp": false,
+      "ssp": true,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {
+      "ssp": 5
+    },
+    "skill_ids": [
+      "SID_伏竜",
+      "SID_天穹・鬼没",
+      "SID_天舞い立つ",
+      "SID_春雷の戦神の槍",
+      "SID_真神槌大地を穿つ",
+      "SID_竜穿",
+      "SID_編隊飛行1",
+      "SID_編隊飛行2",
+      "SID_編隊飛行3",
+      "SID_蒼穹1",
+      "SID_蒼穹2",
+      "SID_蒼穹3",
+      "SID_角逐",
+      "SID_鉄の槍",
+      "SID_銀の槍",
+      "SID_鋼の槍"
+    ]
   },
   {
     "id": "PID_比翼トール",
@@ -45797,12 +46281,13 @@
       "gsp": false,
       "ssp": true,
       "hg": false,
-      "dc": false,
+      "dc": true,
       "ldc": false,
       "foc": false
     },
     "lowest_rarity": {
-      "ssp": 5
+      "ssp": 5,
+      "dc": 5
     },
     "skill_ids": [
       "DUO_PID_比翼ヴェイル",
@@ -45822,7 +46307,16 @@
       "SID_氷華",
       "SID_真邪竜の救済",
       "SID_竜姉妹の愛のブーケ"
-    ]
+    ],
+    "divine_codes": {
+      "normal": [
+        {
+          "number": 7,
+          "title": "Fates / Engage",
+          "cost": 1600
+        }
+      ]
+    }
   },
   {
     "id": "PID_春祭ヴェイル",
@@ -47062,12 +47556,13 @@
       "gsp": false,
       "ssp": true,
       "hg": false,
-      "dc": false,
+      "dc": true,
       "ldc": false,
       "foc": false
     },
     "lowest_rarity": {
-      "ssp": 5
+      "ssp": 5,
+      "dc": 5
     },
     "skill_ids": [
       "SID_トリック",
@@ -47085,7 +47580,16 @@
       "SID_鉄の暗器",
       "SID_銀の暗器",
       "SID_鋼の暗器"
-    ]
+    ],
+    "divine_codes": {
+      "normal": [
+        {
+          "number": 7,
+          "title": "Awakening / Three Houses",
+          "cost": 1200
+        }
+      ]
+    }
   },
   {
     "id": "PID_伝承ユーリス",
