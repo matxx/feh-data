@@ -9443,10 +9443,45 @@
     "recommended_plus10": null
   },
   {
+    "id": "PID_救世フィヨルム",
+    "game8_rating": "9.5",
+    "recommended_boon": "spd",
+    "recommended_bane": "hp",
+    "recommended_plus10": null
+  },
+  {
     "id": "PID_神階チキ覚醒",
     "game8_rating": "9.9",
     "recommended_boon": "res",
     "recommended_bane": "spd",
+    "recommended_plus10": null
+  },
+  {
+    "id": "PID_春祭トール",
+    "game8_rating": "9.5",
+    "recommended_boon": "def",
+    "recommended_bane": "spd",
+    "recommended_plus10": null
+  },
+  {
+    "id": "PID_春祭ドロテア",
+    "game8_rating": "8.5",
+    "recommended_boon": "res",
+    "recommended_bane": "def",
+    "recommended_plus10": null
+  },
+  {
+    "id": "PID_魔器春祭サザ",
+    "game8_rating": "9.0",
+    "recommended_boon": "spd",
+    "recommended_bane": "res",
+    "recommended_plus10": null
+  },
+  {
+    "id": "PID_双界エイリーク",
+    "game8_rating": "9.5",
+    "recommended_boon": "spd",
+    "recommended_bane": "def",
     "recommended_plus10": null
   }
 ]

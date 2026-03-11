@@ -3286,6 +3286,7 @@
   },
   {
     "id": "SID_優しき者の斧",
+    "game8_id": "575385",
     "fandom_id": "Altruist's Axe",
     "name": "Altruist's Axe",
     "category": "weapon",
@@ -3304,6 +3305,7 @@
   {
     "id": "SID_優しき者の斧_一",
     "base_id": "SID_優しき者の斧",
+    "game8_id": "575385",
     "fandom_id": "Altruist's Axe",
     "name": "Altruist's Axe",
     "category": "weapon",
@@ -5305,6 +5307,7 @@
   },
   {
     "id": "SID_魔器・春風の旋刃",
+    "game8_id": "585305",
     "fandom_id": "Arcane Slicer",
     "name": "Arcane Slicer",
     "category": "weapon",
@@ -13079,6 +13082,7 @@
   },
   {
     "id": "SID_攻撃速さの解放",
+    "game8_id": "585312",
     "fandom_id": "Atk/Spd Liberate",
     "name": "Atk/Spd Liberate",
     "category": "passivec",
@@ -36367,6 +36371,7 @@
   },
   {
     "id": "SID_罠解除・流言",
+    "game8_id": "585309",
     "fandom_id": "Disarm Rumor",
     "name": "Disarm Rumor",
     "category": "passiveb",
@@ -37565,6 +37570,7 @@
   },
   {
     "id": "SID_天穹・鬼没",
+    "game8_id": "585308",
     "fandom_id": "Divine Specter",
     "name": "Divine Specter",
     "category": "passivea",
@@ -104397,6 +104403,7 @@
   },
   {
     "id": "SID_春暁の優しき光",
+    "game8_id": "585306",
     "fandom_id": "Spring Dawning",
     "name": "Spring Dawning",
     "category": "weapon",
@@ -104416,6 +104423,7 @@
   },
   {
     "id": "SID_春兎の卵",
+    "game8_id": "585303",
     "fandom_id": "Spring Hare Egg",
     "name": "Spring Hare Egg",
     "category": "weapon",
@@ -104446,6 +104454,7 @@
   },
   {
     "id": "SID_春兎の卵＋",
+    "game8_id": "585304",
     "fandom_id": "Spring Hare Egg+",
     "name": "Spring Hare Egg+",
     "category": "weapon",
@@ -104475,6 +104484,7 @@
   },
   {
     "id": "SID_春雷の戦神の槍",
+    "game8_id": "585302",
     "fandom_id": "Spring Thorn",
     "name": "Spring Thorn",
     "category": "weapon",
@@ -107515,6 +107525,7 @@
   },
   {
     "id": "SID_真月の腕輪",
+    "game8_id": "585310",
     "fandom_id": "Stellar Brace",
     "name": "Stellar Brace",
     "category": "passiveb",
@@ -114919,6 +114930,7 @@
   },
   {
     "id": "SID_真瞬殺",
+    "game8_id": "585307",
     "fandom_id": "True Bane",
     "name": "True Bane",
     "category": "special",
@@ -121203,6 +121215,7 @@
   },
   {
     "id": "SID_真神槌大地を穿つ",
+    "game8_id": "585311",
     "fandom_id": "World Destroyer",
     "name": "World Destroyer",
     "category": "passivec",
@@ -145892,7 +145905,7 @@
   },
   {
     "id": "HARMONIZED_PID_双界エイリーク",
-    "game8_id": null,
+    "game8_id": "585316",
     "fandom_id": "Eirika: Spring Company",
     "name": "Eirika: Spring Company",
     "category": "harmonized",
