@@ -507,6 +507,15 @@
     ]
   },
   {
+    "name": "Att. Elliwood & Etw. Ninian",
+    "unit_ids": [
+      "PID_つながりニニアン",
+      "PID_マーカス",
+      "PID_ロウエン",
+      "PID_響心エリウッド"
+    ]
+  },
+  {
     "name": "Attuned Alm & Rearmed Nuibaba",
     "unit_ids": [
       "PID_ジェシー",
@@ -2181,6 +2190,19 @@
     ]
   },
   {
+    "name": "Focus: Double Special Heroes (Mar 2026)",
+    "unit_ids": [
+      "PID_お茶会セリーヌ",
+      "PID_ハロピアニー",
+      "PID_フェリア仮面マルス",
+      "PID_冬祭セイズ",
+      "PID_双界イングリット",
+      "PID_幼少エリーゼ",
+      "PID_比翼グルヴェイグ2",
+      "PID_水着エイクスルニル"
+    ]
+  },
+  {
     "name": "Focus: Double Special Heroes (May 2025)",
     "unit_ids": [
       "PID_ハロアスク",
@@ -2842,6 +2864,14 @@
       "PID_伝承アルム",
       "PID_外伝パオラ",
       "PID_春祭デューテ"
+    ]
+  },
+  {
+    "name": "Focus: Hall of Forms (Mar 2026)",
+    "unit_ids": [
+      "PID_双界ネフェニー",
+      "PID_浴衣ルキノ",
+      "PID_浴衣ワユ"
     ]
   },
   {
@@ -7859,6 +7889,14 @@
     ]
   },
   {
+    "name": "Focus: Weekly Revival 121",
+    "unit_ids": [
+      "PID_リュール男",
+      "PID_総選挙グルヴェイグ",
+      "PID_魔器スタルーク"
+    ]
+  },
+  {
     "name": "Focus: Weekly Revival 13",
     "unit_ids": [
       "PID_ターナ",
@@ -11717,6 +11755,32 @@
     ]
   },
   {
+    "name": "New Heroes Return (Mar 13, 2026)",
+    "unit_ids": [
+      "PID_アシュ2味方",
+      "PID_レギン2味方",
+      "PID_闇魔器ルミエル",
+      "PID_響心アルム",
+      "PID_響心ミスティラ",
+      "PID_魔器シアチ味方",
+      "PID_魔器マリアンヌ",
+      "PID_魔器ヴァニタス味方"
+    ]
+  },
+  {
+    "name": "New Heroes Return (Mar 2, 2026)",
+    "unit_ids": [
+      "PID_お供ユナカ",
+      "PID_総選挙エイクス",
+      "PID_総選挙シャロン",
+      "PID_総選挙バルドル",
+      "PID_総選挙ベレト",
+      "PID_響心リョウマ",
+      "PID_響心若年チキ",
+      "PID_魔器ヒノカ"
+    ]
+  },
+  {
     "name": "New Heroes Return (Mar 2025)",
     "unit_ids": [
       "PID_レギン2味方",
@@ -11727,19 +11791,6 @@
       "PID_響心ニノ",
       "PID_魔器オルテンシア",
       "PID_魔器サザ"
-    ]
-  },
-  {
-    "name": "New Heroes Return (Mar 2026)",
-    "unit_ids": [
-      "PID_お供ユナカ",
-      "PID_総選挙エイクス",
-      "PID_総選挙シャロン",
-      "PID_総選挙バルドル",
-      "PID_総選挙ベレト",
-      "PID_響心リョウマ",
-      "PID_響心若年チキ",
-      "PID_魔器ヒノカ"
     ]
   },
   {

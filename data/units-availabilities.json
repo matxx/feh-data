@@ -12009,6 +12009,42 @@
     ]
   },
   {
+    "id": "PID_響心エリウッド",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "lowest_rarity": {
+      "foc": 5
+    },
+    "skill_ids": [
+      "SID_助走1",
+      "SID_助走2",
+      "SID_助走3",
+      "SID_助走・キャンセル",
+      "SID_戦友との絆の斧",
+      "SID_攻速鼓譟・奪取無効",
+      "SID_華炎",
+      "SID_蒼穹1",
+      "SID_蒼穹2",
+      "SID_蒼穹3",
+      "SID_蒼穹・鬼没",
+      "SID_蛍火",
+      "SID_速さの鼓舞1",
+      "SID_速さの鼓舞2",
+      "SID_速さの鼓舞3",
+      "SID_鉄の斧",
+      "SID_銀の斧",
+      "SID_鋼の斧",
+      "SID_集いし炎",
+      "SID_響・助走"
+    ]
+  },
+  {
     "id": "PID_幼少エリウッド",
     "is_in": {
       "gsp": false,
@@ -26562,6 +26598,35 @@
     }
   },
   {
+    "id": "PID_ロウエン",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {},
+    "skill_ids": [
+      "SID_壁炎",
+      "SID_守備の鼓舞1",
+      "SID_守備の鼓舞2",
+      "SID_守備の鼓舞3",
+      "SID_攻守鼓譟・強化無効",
+      "SID_攻撃守備の激突1",
+      "SID_攻撃守備の激突2",
+      "SID_攻撃守備の激突3",
+      "SID_攻撃守備の突破",
+      "SID_若きフェレ騎士の槍",
+      "SID_華炎",
+      "SID_蛍火",
+      "SID_鉄の槍",
+      "SID_銀の槍",
+      "SID_鋼の槍"
+    ]
+  },
+  {
     "id": "PID_浴衣ルキノ",
     "is_in": {
       "gsp": false,
@@ -28370,6 +28435,31 @@
         }
       ]
     }
+  },
+  {
+    "id": "PID_マーカス",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {},
+    "skill_ids": [
+      "SID_入れ替え",
+      "SID_守備魔防の激突1",
+      "SID_守備魔防の激突2",
+      "SID_守備魔防の激突3",
+      "SID_混戦の剣",
+      "SID_混戦の剣＋",
+      "SID_近距離警戒1",
+      "SID_近距離警戒2",
+      "SID_近距離警戒3",
+      "SID_鉄の剣",
+      "SID_鋼の剣"
+    ]
   },
   {
     "id": "PID_開花マリータ",
@@ -33425,6 +33515,42 @@
         }
       ]
     }
+  },
+  {
+    "id": "PID_つながりニニアン",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "lowest_rarity": {
+      "foc": 5
+    },
+    "skill_ids": [
+      "SID_助走1",
+      "SID_助走2",
+      "SID_助走3",
+      "SID_助走・キャンセル",
+      "SID_影助・引き戻し1",
+      "SID_影助・引き戻し2",
+      "SID_影助・引き戻し3",
+      "SID_影助・引き戻し4",
+      "SID_氷の絆のブレス",
+      "SID_火のブレス",
+      "SID_火炎のブレス",
+      "SID_灼熱のブレス",
+      "SID_烈風",
+      "SID_真・尊き竜の血を…",
+      "SID_砕風",
+      "SID_踊る",
+      "SID_飛燕の一撃1",
+      "SID_鬼神飛燕の一撃1",
+      "SID_鬼神飛燕の一撃2",
+      "SID_鬼神飛燕の掩撃"
+    ]
   },
   {
     "id": "PID_伝承ニニアン",
@@ -46606,6 +46732,34 @@
       "SID_鉄の斧",
       "SID_銀の斧",
       "SID_鋼の斧"
+    ]
+  },
+  {
+    "id": "PID_ワレス",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": true,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {
+      "hg": 3
+    },
+    "skill_ids": [
+      "SID_正面隊形・敵方1",
+      "SID_正面隊形・敵方2",
+      "SID_正面隊形・敵方3",
+      "SID_生命の大地1",
+      "SID_生命の大地2",
+      "SID_生命の大地3",
+      "SID_華炎",
+      "SID_蛍火",
+      "SID_鉄の槍",
+      "SID_鋼の槍",
+      "SID_鍛錬の槍",
+      "SID_鍛錬の槍＋"
     ]
   },
   {

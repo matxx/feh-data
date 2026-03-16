@@ -29754,6 +29754,126 @@
     "unlock": 5
   },
   {
+    "unit_id": "PID_響心エリウッド",
+    "skill_id": "SID_攻速鼓譟・奪取無効",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_響心エリウッド",
+    "skill_id": "SID_蒼穹1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_響心エリウッド",
+    "skill_id": "SID_蒼穹2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_響心エリウッド",
+    "skill_id": "SID_蒼穹3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_響心エリウッド",
+    "skill_id": "SID_蒼穹・鬼没",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_響心エリウッド",
+    "skill_id": "SID_戦友との絆の斧",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_響心エリウッド",
+    "skill_id": "SID_集いし炎",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_響心エリウッド",
+    "skill_id": "SID_蛍火",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_響心エリウッド",
+    "skill_id": "SID_速さの鼓舞1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_響心エリウッド",
+    "skill_id": "SID_速さの鼓舞2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_響心エリウッド",
+    "skill_id": "SID_速さの鼓舞3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_響心エリウッド",
+    "skill_id": "SID_華炎",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_響心エリウッド",
+    "skill_id": "SID_助走・キャンセル",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_響心エリウッド",
+    "skill_id": "SID_鉄の斧",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_響心エリウッド",
+    "skill_id": "SID_助走1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_響心エリウッド",
+    "skill_id": "SID_助走2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_響心エリウッド",
+    "skill_id": "SID_助走3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_響心エリウッド",
+    "skill_id": "SID_響・助走",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_響心エリウッド",
+    "skill_id": "SID_銀の斧",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_響心エリウッド",
+    "skill_id": "SID_鋼の斧",
+    "default": 2,
+    "unlock": 2
+  },
+  {
     "unit_id": "PID_幼少エリウッド",
     "skill_id": "SID_戦神の烈剣",
     "default": 5,
@@ -64380,6 +64500,96 @@
     "unlock": 2
   },
   {
+    "unit_id": "PID_ロウエン",
+    "skill_id": "SID_攻守鼓譟・強化無効",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_ロウエン",
+    "skill_id": "SID_若きフェレ騎士の槍",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_ロウエン",
+    "skill_id": "SID_攻撃守備の激突1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_ロウエン",
+    "skill_id": "SID_攻撃守備の激突2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_ロウエン",
+    "skill_id": "SID_攻撃守備の激突3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_ロウエン",
+    "skill_id": "SID_攻撃守備の突破",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_ロウエン",
+    "skill_id": "SID_壁炎",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_ロウエン",
+    "skill_id": "SID_守備の鼓舞1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_ロウエン",
+    "skill_id": "SID_守備の鼓舞2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_ロウエン",
+    "skill_id": "SID_守備の鼓舞3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_ロウエン",
+    "skill_id": "SID_蛍火",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_ロウエン",
+    "skill_id": "SID_華炎",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_ロウエン",
+    "skill_id": "SID_鉄の槍",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_ロウエン",
+    "skill_id": "SID_銀の槍",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_ロウエン",
+    "skill_id": "SID_鋼の槍",
+    "default": 2,
+    "unlock": 2
+  },
+  {
     "unit_id": "PID_浴衣ルキノ",
     "skill_id": "SID_攻撃速さの防壁4",
     "default": 0,
@@ -68962,6 +69172,72 @@
     "skill_id": "SID_孤絶の槍＋",
     "default": 5,
     "unlock": 5
+  },
+  {
+    "unit_id": "PID_マーカス",
+    "skill_id": "SID_近距離警戒1",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_マーカス",
+    "skill_id": "SID_近距離警戒2",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_マーカス",
+    "skill_id": "SID_近距離警戒3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_マーカス",
+    "skill_id": "SID_守備魔防の激突1",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_マーカス",
+    "skill_id": "SID_守備魔防の激突2",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_マーカス",
+    "skill_id": "SID_守備魔防の激突3",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_マーカス",
+    "skill_id": "SID_鉄の剣",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_マーカス",
+    "skill_id": "SID_混戦の剣",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_マーカス",
+    "skill_id": "SID_混戦の剣＋",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_マーカス",
+    "skill_id": "SID_鋼の剣",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_マーカス",
+    "skill_id": "SID_入れ替え",
+    "default": 4,
+    "unlock": 3
   },
   {
     "unit_id": "PID_開花マリータ",
@@ -81116,6 +81392,126 @@
   {
     "unit_id": "PID_催眠ニニアン",
     "skill_id": "SID_攻撃の紋章3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_つながりニニアン",
+    "skill_id": "SID_烈風",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_つながりニニアン",
+    "skill_id": "SID_氷の絆のブレス",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_つながりニニアン",
+    "skill_id": "SID_踊る",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_つながりニニアン",
+    "skill_id": "SID_飛燕の一撃1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_つながりニニアン",
+    "skill_id": "SID_真・尊き竜の血を…",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_つながりニニアン",
+    "skill_id": "SID_火のブレス",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_つながりニニアン",
+    "skill_id": "SID_火炎のブレス",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_つながりニニアン",
+    "skill_id": "SID_灼熱のブレス",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_つながりニニアン",
+    "skill_id": "SID_助走・キャンセル",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_つながりニニアン",
+    "skill_id": "SID_助走1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_つながりニニアン",
+    "skill_id": "SID_助走2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_つながりニニアン",
+    "skill_id": "SID_助走3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_つながりニニアン",
+    "skill_id": "SID_砕風",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_つながりニニアン",
+    "skill_id": "SID_影助・引き戻し1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_つながりニニアン",
+    "skill_id": "SID_影助・引き戻し2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_つながりニニアン",
+    "skill_id": "SID_影助・引き戻し3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_つながりニニアン",
+    "skill_id": "SID_影助・引き戻し4",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_つながりニニアン",
+    "skill_id": "SID_鬼神飛燕の掩撃",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_つながりニニアン",
+    "skill_id": "SID_鬼神飛燕の一撃1",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_つながりニニアン",
+    "skill_id": "SID_鬼神飛燕の一撃2",
     "default": 0,
     "unlock": 4
   },
@@ -111897,6 +112293,78 @@
     "unit_id": "PID_ヴァルハルト",
     "skill_id": "SID_ヴォルフベルグ",
     "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_ワレス",
+    "skill_id": "SID_生命の大地1",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_ワレス",
+    "skill_id": "SID_生命の大地2",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_ワレス",
+    "skill_id": "SID_生命の大地3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_ワレス",
+    "skill_id": "SID_鍛錬の槍",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_ワレス",
+    "skill_id": "SID_鍛錬の槍＋",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_ワレス",
+    "skill_id": "SID_蛍火",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_ワレス",
+    "skill_id": "SID_華炎",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_ワレス",
+    "skill_id": "SID_鉄の槍",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_ワレス",
+    "skill_id": "SID_鋼の槍",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_ワレス",
+    "skill_id": "SID_正面隊形・敵方1",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_ワレス",
+    "skill_id": "SID_正面隊形・敵方2",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_ワレス",
+    "skill_id": "SID_正面隊形・敵方3",
+    "default": 0,
     "unlock": 5
   },
   {
