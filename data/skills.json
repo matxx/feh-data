@@ -546,7 +546,7 @@
     },
     "addition_date": "2026-03-16",
     "release_date": "2026-03-16",
-    "version": "10.1",
+    "version": "10.3",
     "downgrade_ids": [
       "SID_攻撃の鼓舞3",
       "SID_守備の鼓舞3"
@@ -713,7 +713,7 @@
     },
     "addition_date": "2026-02-04",
     "release_date": "2026-02-05",
-    "version": "10.1",
+    "version": "10.2",
     "downgrade_ids": [
       "SID_攻撃魔防の干渉3"
     ]
@@ -1896,7 +1896,7 @@
     },
     "addition_date": "2026-03-16",
     "release_date": "2026-03-16",
-    "version": "10.1",
+    "version": "10.3",
     "downgrade_ids": [
       "SID_攻撃の鼓舞3",
       "SID_速さの鼓舞3"
@@ -3789,7 +3789,7 @@
     "might": 16,
     "addition_date": "2026-03-16",
     "release_date": "2026-03-16",
-    "version": "10.1",
+    "version": "10.3",
     "downgrade_ids": [
       "SID_銀の槍"
     ]
@@ -5409,7 +5409,7 @@
     },
     "addition_date": "2026-03-05",
     "release_date": "2026-03-06",
-    "version": "10.1",
+    "version": "10.3",
     "downgrade_ids": [
       "SID_銀の暗器"
     ]
@@ -6346,7 +6346,7 @@
     },
     "addition_date": "2026-02-16",
     "release_date": "2026-02-16",
-    "version": "10.1",
+    "version": "10.2",
     "downgrade_ids": [
       "SID_華炎"
     ]
@@ -6430,7 +6430,7 @@
     },
     "addition_date": "2026-02-27",
     "release_date": "2026-02-27",
-    "version": "10.1",
+    "version": "10.2",
     "downgrade_ids": [
       "SID_氷華"
     ]
@@ -13179,7 +13179,7 @@
     },
     "addition_date": "2026-03-05",
     "release_date": "2026-03-06",
-    "version": "10.1",
+    "version": "10.3",
     "downgrade_ids": [
       "SID_攻撃速さの大開放3"
     ]
@@ -14937,7 +14937,7 @@
     ],
     "addition_date": "2026-02-27",
     "release_date": "2026-02-27",
-    "version": "10.1",
+    "version": "10.2",
     "downgrade_ids": [
       "SID_灼熱のブレス"
     ]
@@ -20902,7 +20902,7 @@
     "might": 16,
     "addition_date": "2026-03-16",
     "release_date": "2026-03-16",
-    "version": "10.1",
+    "version": "10.3",
     "downgrade_ids": [
       "SID_灼熱のブレス"
     ]
@@ -21312,7 +21312,7 @@
     },
     "addition_date": "2026-02-04",
     "release_date": "2026-02-05",
-    "version": "10.1",
+    "version": "10.2",
     "upgrade_ids": [
       "SID_麗愛の弓＋"
     ],
@@ -21348,7 +21348,7 @@
     },
     "addition_date": "2026-02-04",
     "release_date": "2026-02-05",
-    "version": "10.1",
+    "version": "10.2",
     "downgrade_ids": [
       "SID_麗愛の弓"
     ]
@@ -27430,7 +27430,7 @@
     "might": 16,
     "addition_date": "2026-02-16",
     "release_date": "2026-02-16",
-    "version": "10.1",
+    "version": "10.2",
     "downgrade_ids": [
       "SID_銀の槍"
     ]
@@ -28352,7 +28352,7 @@
     "might": 16,
     "addition_date": "2026-03-16",
     "release_date": "2026-03-16",
-    "version": "10.1",
+    "version": "10.3",
     "downgrade_ids": [
       "SID_銀の斧"
     ]
@@ -33622,7 +33622,7 @@
     },
     "addition_date": "2026-03-16",
     "release_date": "2026-03-16",
-    "version": "10.1",
+    "version": "10.3",
     "upgrade_ids": [
       "SID_守備魔防の激突2"
     ]
@@ -33651,7 +33651,7 @@
     },
     "addition_date": "2026-03-16",
     "release_date": "2026-03-16",
-    "version": "10.1",
+    "version": "10.3",
     "upgrade_ids": [
       "SID_守備魔防の激突3"
     ],
@@ -33683,7 +33683,7 @@
     },
     "addition_date": "2026-03-16",
     "release_date": "2026-03-16",
-    "version": "10.1",
+    "version": "10.3",
     "downgrade_ids": [
       "SID_守備魔防の激突2"
     ]
@@ -35826,7 +35826,7 @@
     },
     "addition_date": "2026-02-04",
     "release_date": "2026-02-05",
-    "version": "10.1",
+    "version": "10.2",
     "downgrade_ids": [
       "SID_疾風静水の祝福"
     ]
@@ -36595,7 +36595,7 @@
     },
     "addition_date": "2026-03-05",
     "release_date": "2026-03-06",
-    "version": "10.1",
+    "version": "10.3",
     "downgrade_ids": [
       "SID_罠解除3"
     ]
@@ -37797,7 +37797,7 @@
     },
     "addition_date": "2026-03-05",
     "release_date": "2026-03-06",
-    "version": "10.1",
+    "version": "10.3",
     "downgrade_ids": [
       "SID_蒼穹3"
     ]
@@ -38425,7 +38425,7 @@
     "might": 14,
     "addition_date": "2026-02-04",
     "release_date": "2026-02-05",
-    "version": "10.1",
+    "version": "10.2",
     "downgrade_ids": [
       "SID_レクスカリバー"
     ]
@@ -39288,7 +39288,7 @@
     "range": 1,
     "addition_date": "2026-03-16",
     "release_date": "2026-03-16",
-    "version": "10.1",
+    "version": "10.3",
     "downgrade_ids": [
       "SID_踊る"
     ]
@@ -44619,7 +44619,7 @@
     "tier": 1,
     "addition_date": "2026-02-04",
     "release_date": "2026-02-05",
-    "version": "10.1"
+    "version": "10.2"
   },
   {
     "id": "SID_邪竜石・屠",
@@ -48755,7 +48755,7 @@
     },
     "addition_date": "2026-03-16",
     "release_date": "2026-03-17",
-    "version": "10.1",
+    "version": "10.3",
     "upgrade_ids": [
       "SID_鍛錬の槍＋"
     ],
@@ -48787,7 +48787,7 @@
     },
     "addition_date": "2026-03-16",
     "release_date": "2026-03-17",
-    "version": "10.1",
+    "version": "10.3",
     "downgrade_ids": [
       "SID_鍛錬の槍"
     ]
@@ -50166,7 +50166,7 @@
     "cd": 3,
     "addition_date": "2026-02-16",
     "release_date": "2026-02-16",
-    "version": "10.1",
+    "version": "10.2",
     "downgrade_ids": [
       "SID_氷華"
     ]
@@ -51845,7 +51845,7 @@
     "cd": 5,
     "addition_date": "2026-03-16",
     "release_date": "2026-03-16",
-    "version": "10.1",
+    "version": "10.3",
     "downgrade_ids": [
       "SID_華炎"
     ]
@@ -52411,7 +52411,7 @@
     "might": 14,
     "addition_date": "2026-02-04",
     "release_date": "2026-02-05",
-    "version": "10.1",
+    "version": "10.2",
     "downgrade_ids": [
       "SID_トロン",
       "SID_シャイン"
@@ -56036,7 +56036,7 @@
     },
     "addition_date": "2026-02-04",
     "release_date": "2026-02-05",
-    "version": "10.1",
+    "version": "10.2",
     "upgrade_ids": [
       "SID_ガーディアン＋"
     ],
@@ -56207,7 +56207,7 @@
     },
     "addition_date": "2026-02-04",
     "release_date": "2026-02-05",
-    "version": "10.1",
+    "version": "10.2",
     "downgrade_ids": [
       "SID_ガーディアン"
     ]
@@ -58115,7 +58115,7 @@
     "tier": 1,
     "addition_date": "2026-02-27",
     "release_date": "2026-02-27",
-    "version": "10.1"
+    "version": "10.2"
   },
   {
     "id": "SID_継承フォルセティ",
@@ -58521,7 +58521,7 @@
     "might": 16,
     "addition_date": "2026-02-16",
     "release_date": "2026-02-16",
-    "version": "10.1",
+    "version": "10.2",
     "downgrade_ids": [
       "SID_銀の槍"
     ]
@@ -60740,7 +60740,7 @@
     "tier": 1,
     "addition_date": "2026-02-04",
     "release_date": "2026-02-05",
-    "version": "10.1"
+    "version": "10.2"
   },
   {
     "id": "SID_フギンの魔卵",
@@ -62016,7 +62016,7 @@
     },
     "addition_date": "2026-03-16",
     "release_date": "2026-03-16",
-    "version": "10.1",
+    "version": "10.3",
     "downgrade_ids": [
       "SID_助走3"
     ]
@@ -71205,7 +71205,7 @@
     },
     "addition_date": "2026-03-16",
     "release_date": "2026-03-16",
-    "version": "10.1",
+    "version": "10.3",
     "upgrade_ids": [
       "SID_混戦の剣＋"
     ],
@@ -71237,7 +71237,7 @@
     },
     "addition_date": "2026-03-16",
     "release_date": "2026-03-16",
-    "version": "10.1",
+    "version": "10.3",
     "downgrade_ids": [
       "SID_混戦の剣"
     ]
@@ -72534,7 +72534,7 @@
     },
     "addition_date": "2026-03-16",
     "release_date": "2026-03-16",
-    "version": "10.1"
+    "version": "10.3"
   },
   {
     "id": "SID_神竜王の剣",
@@ -77151,7 +77151,7 @@
     "tier": 1,
     "addition_date": "2026-02-16",
     "release_date": "2026-02-16",
-    "version": "10.1"
+    "version": "10.2"
   },
   {
     "id": "SID_オスティアの反撃",
@@ -90330,7 +90330,7 @@
     },
     "addition_date": "2026-02-04",
     "release_date": "2026-02-05",
-    "version": "10.1",
+    "version": "10.2",
     "downgrade_ids": [
       "SID_速さ魔防の干渉3"
     ]
@@ -97048,7 +97048,7 @@
     "might": 16,
     "addition_date": "2026-02-16",
     "release_date": "2026-02-16",
-    "version": "10.1",
+    "version": "10.2",
     "downgrade_ids": [
       "SID_銀の剣"
     ]
@@ -102313,7 +102313,7 @@
     },
     "addition_date": "2026-02-16",
     "release_date": "2026-02-16",
-    "version": "10.1",
+    "version": "10.2",
     "downgrade_ids": [
       "SID_速さ魔防の信義3"
     ]
@@ -104834,7 +104834,7 @@
     "might": 14,
     "addition_date": "2026-03-05",
     "release_date": "2026-03-06",
-    "version": "10.1",
+    "version": "10.3",
     "downgrade_ids": [
       "SID_ボルガノン",
       "SID_ノスフェラート"
@@ -104863,7 +104863,7 @@
     },
     "addition_date": "2026-03-05",
     "release_date": "2026-03-06",
-    "version": "10.1",
+    "version": "10.3",
     "upgrade_ids": [
       "SID_春兎の卵＋"
     ],
@@ -104896,7 +104896,7 @@
     },
     "addition_date": "2026-03-05",
     "release_date": "2026-03-06",
-    "version": "10.1",
+    "version": "10.3",
     "downgrade_ids": [
       "SID_春兎の卵"
     ]
@@ -104915,7 +104915,7 @@
     "might": 16,
     "addition_date": "2026-03-05",
     "release_date": "2026-03-06",
-    "version": "10.1",
+    "version": "10.3",
     "downgrade_ids": [
       "SID_銀の槍"
     ]
@@ -107956,7 +107956,7 @@
     "tier": 1,
     "addition_date": "2026-03-05",
     "release_date": "2026-03-06",
-    "version": "10.1"
+    "version": "10.3"
   },
   {
     "id": "SID_止水1",
@@ -110171,7 +110171,7 @@
     "might": 14,
     "addition_date": "2026-02-04",
     "release_date": "2026-02-05",
-    "version": "10.1",
+    "version": "10.2",
     "downgrade_ids": [
       "SID_アサルト"
     ]
@@ -110441,7 +110441,7 @@
     },
     "addition_date": "2026-02-16",
     "release_date": "2026-02-16",
-    "version": "10.1",
+    "version": "10.2",
     "downgrade_ids": [
       "SID_攻撃速さの万全3"
     ]
@@ -115361,7 +115361,7 @@
     "cd": 5,
     "addition_date": "2026-03-05",
     "release_date": "2026-03-06",
-    "version": "10.1",
+    "version": "10.3",
     "downgrade_ids": [
       "SID_月光"
     ]
@@ -115488,7 +115488,7 @@
     },
     "addition_date": "2026-02-04",
     "release_date": "2026-02-05",
-    "version": "10.1",
+    "version": "10.2",
     "downgrade_ids": [
       "SID_攻撃魔防の奮起3"
     ]
@@ -119926,7 +119926,7 @@
     "tier": 1,
     "addition_date": "2026-02-16",
     "release_date": "2026-02-16",
-    "version": "10.1"
+    "version": "10.2"
   },
   {
     "id": "SID_暴走の虎の爪牙",
@@ -121646,7 +121646,7 @@
     "tier": 1,
     "addition_date": "2026-03-05",
     "release_date": "2026-03-06",
-    "version": "10.1"
+    "version": "10.3"
   },
   {
     "id": "SID_世界樹の栗鼠の尻尾",
@@ -146166,7 +146166,7 @@
     "tier": 1,
     "addition_date": "2026-02-04",
     "release_date": "2026-02-05",
-    "version": "10.1"
+    "version": "10.2"
   },
   {
     "id": "DUO_PID_比翼ユーミル",
@@ -146274,7 +146274,7 @@
     "tier": 1,
     "addition_date": "2026-02-16",
     "release_date": "2026-02-16",
-    "version": "10.1"
+    "version": "10.2"
   },
   {
     "id": "HARMONIZED_PID_双界クロエ",
@@ -146334,7 +146334,7 @@
     "tier": 1,
     "addition_date": "2026-03-05",
     "release_date": "2026-03-06",
-    "version": "10.1"
+    "version": "10.3"
   },
   {
     "id": "HARMONIZED_PID_双界フィル",
@@ -146370,7 +146370,7 @@
     "tier": 1,
     "addition_date": "2026-02-16",
     "release_date": "2026-02-16",
-    "version": "10.1"
+    "version": "10.2"
   },
   {
     "id": "HARMONIZED_PID_双界ヒルダ",

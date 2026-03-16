@@ -2858,20 +2858,21 @@
     ]
   },
   {
+    "name": "Focus: Hall of Forms (Mar 2026)",
+    "unit_ids": [
+      "PID_双界ネフェニー",
+      "PID_比翼アイク",
+      "PID_浴衣ルキノ",
+      "PID_浴衣ワユ"
+    ]
+  },
+  {
     "name": "Focus: Hall of Forms (May 2023)",
     "unit_ids": [
       "PID_リュート",
       "PID_伝承アルム",
       "PID_外伝パオラ",
       "PID_春祭デューテ"
-    ]
-  },
-  {
-    "name": "Focus: Hall of Forms (Mar 2026)",
-    "unit_ids": [
-      "PID_双界ネフェニー",
-      "PID_浴衣ルキノ",
-      "PID_浴衣ワユ"
     ]
   },
   {
@@ -5158,6 +5159,14 @@
       "PID_フロリーナ",
       "PID_ヘクトル",
       "PID_リン"
+    ]
+  },
+  {
+    "name": "Focus: Lyn & Lucina's Battle",
+    "unit_ids": [
+      "PID_リン",
+      "PID_総選挙リン",
+      "PID_総選挙ルキナ"
     ]
   },
   {
