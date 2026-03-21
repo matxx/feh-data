@@ -9483,5 +9483,40 @@
     "recommended_boon": "spd",
     "recommended_bane": "def",
     "recommended_plus10": null
+  },
+  {
+    "id": "PID_響心エリウッド",
+    "game8_rating": "9.5",
+    "recommended_boon": "spd",
+    "recommended_bane": "res",
+    "recommended_plus10": null
+  },
+  {
+    "id": "PID_ロウエン",
+    "game8_rating": "9.0",
+    "recommended_boon": "atk",
+    "recommended_bane": "res",
+    "recommended_plus10": null
+  },
+  {
+    "id": "PID_マーカス",
+    "game8_rating": "8.5",
+    "recommended_boon": "atk",
+    "recommended_bane": "res",
+    "recommended_plus10": null
+  },
+  {
+    "id": "PID_つながりニニアン",
+    "game8_rating": "9.5",
+    "recommended_boon": "spd",
+    "recommended_bane": "def",
+    "recommended_plus10": null
+  },
+  {
+    "id": "PID_ワレス",
+    "game8_rating": "8.5",
+    "recommended_boon": "def",
+    "recommended_bane": "res",
+    "recommended_plus10": "def"
   }
 ]

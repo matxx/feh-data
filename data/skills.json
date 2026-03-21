@@ -524,6 +524,7 @@
   },
   {
     "id": "SID_攻守鼓譟・強化無効",
+    "game8_id": "587235",
     "fandom_id": "A/D Outcry Dull",
     "name": "A/D Outcry Dull",
     "category": "passivec",
@@ -1874,6 +1875,7 @@
   },
   {
     "id": "SID_攻速鼓譟・奪取無効",
+    "game8_id": "587234",
     "fandom_id": "A/S Outcry Seize",
     "name": "A/S Outcry Seize",
     "category": "passivec",
@@ -3778,6 +3780,7 @@
   },
   {
     "id": "SID_若きフェレ騎士の槍",
+    "game8_id": "587223",
     "fandom_id": "Apprentice Lance",
     "name": "Apprentice Lance",
     "category": "weapon",
@@ -20891,6 +20894,7 @@
   },
   {
     "id": "SID_氷の絆のブレス",
+    "game8_id": "587224",
     "fandom_id": "Bound by Ice",
     "name": "Bound by Ice",
     "category": "weapon",
@@ -28341,6 +28345,7 @@
   },
   {
     "id": "SID_戦友との絆の斧",
+    "game8_id": "587222",
     "fandom_id": "Comrade's Axe",
     "name": "Comrade's Axe",
     "category": "weapon",
@@ -33600,6 +33605,7 @@
   },
   {
     "id": "SID_守備魔防の激突1",
+    "game8_id": "587431",
     "fandom_id": "Def/Res Clash",
     "name": "Def/Res Clash 1",
     "category": "passivea",
@@ -33629,6 +33635,7 @@
   },
   {
     "id": "SID_守備魔防の激突2",
+    "game8_id": "587432",
     "fandom_id": "Def/Res Clash",
     "name": "Def/Res Clash 2",
     "category": "passivea",
@@ -33661,6 +33668,7 @@
   },
   {
     "id": "SID_守備魔防の激突3",
+    "game8_id": "587433",
     "fandom_id": "Def/Res Clash",
     "name": "Def/Res Clash 3",
     "category": "passivea",
@@ -39279,6 +39287,7 @@
   },
   {
     "id": "SID_真・尊き竜の血を…",
+    "game8_id": "587228",
     "fandom_id": "Dragon's Twirl",
     "name": "Dragon's Twirl",
     "category": "assist",
@@ -48735,6 +48744,7 @@
   },
   {
     "id": "SID_鍛錬の槍",
+    "game8_id": "587230",
     "fandom_id": "Forged Lance",
     "name": "Forged Lance",
     "category": "weapon",
@@ -48765,6 +48775,7 @@
   },
   {
     "id": "SID_鍛錬の槍＋",
+    "game8_id": "587229",
     "fandom_id": "Forged Lance+",
     "name": "Forged Lance+",
     "category": "weapon",
@@ -51836,6 +51847,7 @@
   },
   {
     "id": "SID_集いし炎",
+    "game8_id": "587231",
     "fandom_id": "Gathered Flames",
     "name": "Gathered Flames",
     "category": "special",
@@ -61993,6 +62005,7 @@
   },
   {
     "id": "SID_助走・キャンセル",
+    "game8_id": "587232",
     "fandom_id": "Impetus Guard",
     "name": "Impetus Guard",
     "category": "passiveb",
@@ -71185,6 +71198,7 @@
   },
   {
     "id": "SID_混戦の剣",
+    "game8_id": "587226",
     "fandom_id": "Melee Blade",
     "name": "Melee Blade",
     "category": "weapon",
@@ -71215,6 +71229,7 @@
   },
   {
     "id": "SID_混戦の剣＋",
+    "game8_id": "587225",
     "fandom_id": "Melee Blade+",
     "name": "Melee Blade+",
     "category": "weapon",
@@ -72513,6 +72528,7 @@
   },
   {
     "id": "SID_響・助走",
+    "game8_id": "587236",
     "fandom_id": "Momentum Echo",
     "name": "Momentum Echo",
     "category": "passivex",
@@ -132591,6 +132607,7 @@
   },
   {
     "id": "SSID_蒼穹3",
+    "game8_id": "587504",
     "fandom_id": "Blue Skies",
     "name": "Blue Skies 3",
     "category": "sacredseal",
