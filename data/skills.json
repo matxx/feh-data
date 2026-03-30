@@ -40207,7 +40207,9 @@
           "Infantry"
         ]
       },
-      "weapons": null
+      "weapons": {
+        "none": true
+      }
     },
     "addition_date": "2026-03-30",
     "release_date": "2026-03-30",
@@ -40231,7 +40233,9 @@
           "Infantry"
         ]
       },
-      "weapons": null
+      "weapons": {
+        "none": true
+      }
     },
     "addition_date": "2026-03-30",
     "release_date": "2026-03-30",
@@ -40258,7 +40262,9 @@
           "Infantry"
         ]
       },
-      "weapons": null
+      "weapons": {
+        "none": true
+      }
     },
     "addition_date": "2026-03-30",
     "release_date": "2026-03-30",
@@ -40285,7 +40291,9 @@
           "Infantry"
         ]
       },
-      "weapons": null
+      "weapons": {
+        "none": true
+      }
     },
     "addition_date": "2026-03-30",
     "release_date": "2026-03-30",
