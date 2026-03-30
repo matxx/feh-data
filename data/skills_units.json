@@ -65244,6 +65244,126 @@
     "unlock": 4
   },
   {
+    "unit_id": "PID_紋章ルキナ",
+    "skill_id": "SID_オールフォーワン",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_紋章ルキナ",
+    "skill_id": "SID_流星",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_紋章ルキナ",
+    "skill_id": "SID_攻撃速さの共感",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_紋章ルキナ",
+    "skill_id": "SID_攻撃速さの万全1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_紋章ルキナ",
+    "skill_id": "SID_攻撃速さの万全2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_紋章ルキナ",
+    "skill_id": "SID_攻撃速さの万全3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_紋章ルキナ",
+    "skill_id": "SID_攻撃速さの連携1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_紋章ルキナ",
+    "skill_id": "SID_攻撃速さの連携2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_紋章ルキナ",
+    "skill_id": "SID_攻撃速さの連携3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_紋章ルキナ",
+    "skill_id": "SID_デュアルサポート1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_紋章ルキナ",
+    "skill_id": "SID_デュアルサポート2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_紋章ルキナ",
+    "skill_id": "SID_デュアルサポート3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_紋章ルキナ",
+    "skill_id": "SID_デュアルサポート4",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_紋章ルキナ",
+    "skill_id": "SID_鉄の弓",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_紋章ルキナ",
+    "skill_id": "SID_星影",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_紋章ルキナ",
+    "skill_id": "SID_攻撃速さの完全",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_紋章ルキナ",
+    "skill_id": "SID_聖王女の弓",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_紋章ルキナ",
+    "skill_id": "SID_銀の弓",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_紋章ルキナ",
+    "skill_id": "SID_鋼の弓",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_紋章ルキナ",
+    "skill_id": "SID_入れ替え",
+    "default": 4,
+    "unlock": 3
+  },
+  {
     "unit_id": "PID_比翼ルキナ",
     "skill_id": "SID_曲射",
     "default": 0,
@@ -116402,6 +116522,12 @@
   {
     "unit_id": "PID_紋章アイク",
     "skill_id": "EMBLEM_PID_紋章アイク",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_紋章ルキナ",
+    "skill_id": "EMBLEM_PID_紋章ルキナ",
     "default": 0,
     "unlock": 1
   },

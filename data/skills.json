@@ -3096,6 +3096,23 @@
     ]
   },
   {
+    "id": "SID_オールフォーワン",
+    "game8_id": "590671",
+    "fandom_id": "All for One",
+    "name": "All for One",
+    "category": "special",
+    "is_prf": true,
+    "sp": 500,
+    "tier": 3,
+    "cd": 4,
+    "addition_date": "2026-03-30",
+    "release_date": "2026-03-30",
+    "version": "10.3",
+    "downgrade_ids": [
+      "SID_流星"
+    ]
+  },
+  {
     "id": "SID_ずっとみんなと一緒",
     "game8_id": "397229",
     "fandom_id": "All Together!",
@@ -7349,6 +7366,7 @@
     "release_date": "2017-02-02",
     "version": "1.0",
     "upgrade_ids": [
+      "SID_オールフォーワン",
       "SID_流星群",
       "SID_天風",
       "SID_彗星",
@@ -40172,6 +40190,108 @@
     "version": "8.9",
     "downgrade_ids": [
       "SID_聖兜"
+    ]
+  },
+  {
+    "id": "SID_デュアルサポート1",
+    "game8_id": "590675",
+    "fandom_id": "Dual Support",
+    "name": "Dual Support 1",
+    "category": "passivec",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/7a/Dual_Support_1.png/revision/latest?cb=20260330093526",
+    "sp": 60,
+    "tier": 1,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Infantry"
+        ]
+      },
+      "weapons": null
+    },
+    "addition_date": "2026-03-30",
+    "release_date": "2026-03-30",
+    "version": "10.3",
+    "upgrade_ids": [
+      "SID_デュアルサポート2"
+    ]
+  },
+  {
+    "id": "SID_デュアルサポート2",
+    "game8_id": "590674",
+    "fandom_id": "Dual Support",
+    "name": "Dual Support 2",
+    "category": "passivec",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/75/Dual_Support_2.png/revision/latest?cb=20260330093536",
+    "sp": 120,
+    "tier": 2,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Infantry"
+        ]
+      },
+      "weapons": null
+    },
+    "addition_date": "2026-03-30",
+    "release_date": "2026-03-30",
+    "version": "10.3",
+    "upgrade_ids": [
+      "SID_デュアルサポート3"
+    ],
+    "downgrade_ids": [
+      "SID_デュアルサポート1"
+    ]
+  },
+  {
+    "id": "SID_デュアルサポート3",
+    "game8_id": "590673",
+    "fandom_id": "Dual Support",
+    "name": "Dual Support 3",
+    "category": "passivec",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f0/Dual_Support_3.png/revision/latest?cb=20260330093546",
+    "sp": 240,
+    "tier": 3,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Infantry"
+        ]
+      },
+      "weapons": null
+    },
+    "addition_date": "2026-03-30",
+    "release_date": "2026-03-30",
+    "version": "10.3",
+    "upgrade_ids": [
+      "SID_デュアルサポート4"
+    ],
+    "downgrade_ids": [
+      "SID_デュアルサポート2"
+    ]
+  },
+  {
+    "id": "SID_デュアルサポート4",
+    "game8_id": "590672",
+    "fandom_id": "Dual Support",
+    "name": "Dual Support 4",
+    "category": "passivec",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/4c/Dual_Support_4.png/revision/latest?cb=20260330093557",
+    "sp": 300,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Infantry"
+        ]
+      },
+      "weapons": null
+    },
+    "addition_date": "2026-03-30",
+    "release_date": "2026-03-30",
+    "version": "10.3",
+    "downgrade_ids": [
+      "SID_デュアルサポート3"
     ]
   },
   {
@@ -78206,6 +78326,7 @@
   },
   {
     "id": "SID_これも策のう…・承",
+    "game8_id": "590043",
     "fandom_id": "Part of the Plan",
     "name": "The Plan: Part II",
     "category": "passivea",
@@ -83735,6 +83856,7 @@
   },
   {
     "id": "SID_叱咤激励・承",
+    "game8_id": "590044",
     "fandom_id": "Rallying Cry",
     "name": "Rallying Cry II",
     "category": "passivec",
@@ -84992,6 +85114,7 @@
   },
   {
     "id": "SID_狼騎士団後駆の槍",
+    "game8_id": "589991",
     "fandom_id": "Rearguard Lance",
     "name": "Rearguard Lance",
     "category": "weapon",
@@ -85010,6 +85133,7 @@
   {
     "id": "SID_狼騎士団後駆の槍_一",
     "base_id": "SID_狼騎士団後駆の槍",
+    "game8_id": "589991",
     "fandom_id": "Rearguard Lance",
     "name": "Rearguard Lance",
     "category": "weapon",
@@ -89548,6 +89672,28 @@
     "addition_date": "2017-06-14",
     "release_date": "2017-06-14",
     "version": "1.4"
+  },
+  {
+    "id": "SID_聖王女の弓",
+    "game8_id": "590670",
+    "fandom_id": "Royal Exalt Bow",
+    "name": "Royal Exalt Bow",
+    "category": "weapon",
+    "weapon_type": "All Bow",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "range": 2,
+    "might": 14,
+    "eff": [
+      "flying"
+    ],
+    "addition_date": "2026-03-30",
+    "release_date": "2026-03-30",
+    "version": "10.3",
+    "downgrade_ids": [
+      "SID_銀の弓"
+    ]
   },
   {
     "id": "SID_砂漠の狼女王の牙",
@@ -96274,6 +96420,7 @@
       "SID_ランドグリーズ",
       "SID_涙目の速射弓",
       "SID_透き通る玻璃の弓",
+      "SID_聖王女の弓",
       "SID_悠久の黄砂の絆弓",
       "SID_自警団長の弓",
       "SID_銀の弓＋",
@@ -146724,6 +146871,18 @@
     "addition_date": "2024-03-29",
     "release_date": "2024-03-29",
     "version": "8.3"
+  },
+  {
+    "id": "EMBLEM_PID_紋章ルキナ",
+    "game8_id": "590677",
+    "fandom_id": "Lucina: Of Awakening",
+    "name": "Lucina: Of Awakening",
+    "category": "emblem",
+    "is_prf": true,
+    "tier": 1,
+    "addition_date": "2026-03-30",
+    "release_date": "2026-03-30",
+    "version": "10.3"
   },
   {
     "id": "EMBLEM_PID_紋章リン",

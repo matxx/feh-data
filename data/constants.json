@@ -141,6 +141,7 @@
     "【Fringe Bonus】<br>Grants bonus to Atk/Spd/Def/Res during combat = highest bonus on each stat between unit and allies within 2 spaces of unit for 1 turn. Calculates each stat bonus independently.",
     "【Frozen】<br>Increases Spd difference necessary for unit to make a follow-up attack by X and decreases Spd difference necessary for foe to make a follow-up attack by X during combat (if foe's Def > unit's Def, X = 10 + difference between Def stats × 2; otherwise, X = 10).",
     "【Frozen】<br>Reduces inflicted unit's follow-up ability and increases foe's follow-up ability through unit's next action:<br><br>Increases Spd difference necessary for unit to make a follow-up attack by X and decreases Spd difference necessary for foe to make a follow-up attack by X during combat (if foe's Def > unit's Def, X = 10 + difference between Def stats × 2; otherwise, X = 10). (For example, if Spd difference necessary increases by 10, Spd must be ≥ 15 more than foe's Spd to make a follow-up attack; stacks with similar skills.)",
+    "【Future Witness】<br>Enables Canto (2).<br><br>Grants Atk/Spd/Def/Res+5 to unit and reduces damage from foe's first attack by 7 during combat (\"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes), and also, if unit initiates combat and foe's attack can trigger foe's Special, inflicts Special cooldown count+1 on foe before foe's first attack during combat (cannot exceed the foe's maximum Special cooldown).",
     "【Future Witness】<br>Enables【Canto (２)】.<br><br>Grants Atk/Spd/Def/Res+5 to unit and reduces damage from foe's first attack by 7 during combat (\"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes), and also, if unit initiates combat and foe's attack can trigger foe's Special, inflicts Special cooldown count+1 on foe before foe's first attack during combat (cannot exceed the foe's maximum Special cooldown).",
     "【Gallop】<br>Unit can move 2 extra spaces (that turn only; only highest value applied; does not stack).",
     "【Grand Strategy】<br>Grants bonus to Atk/Spd/Def/Res during combat = current penalty on each of unit's stats × 2 for 1 turn. (Example: if unit has -7 penalty to Atk, grants Atk+14, for a net bonus of Atk+7.) Calculates each stat bonus independently.<br><br>Unit's negative effects that last \"through unit's next action\" will remain in effect until this status (Grand Strategy) is neutralized.",
@@ -219,7 +220,7 @@
     "【Vantage】<br>If foe initiates combat, unit can counterattack before foe's first attack for 1 turn.",
     "【Warp Bubble】<br>Foes cannot warp into spaces within 4 spaces of unit. (Does not affect foes with Pass skills or warp effects from structures, like camps and fortresses in Rival Domains.)"
   ],
-  "units_count": 1360,
+  "units_count": 1361,
   "units_max_hp": 60,
   "units_max_hp_ids": [
     "PID_アーダン"
@@ -251,6 +252,7 @@
     "PID_獣人リン",
     "PID_紋章カムイ女",
     "PID_紋章ベレト",
+    "PID_紋章ルキナ",
     "PID_総選挙シャロン",
     "PID_魔器春祭サザ"
   ],

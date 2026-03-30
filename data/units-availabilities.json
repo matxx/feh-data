@@ -26868,6 +26868,43 @@
     ]
   },
   {
+    "id": "PID_紋章ルキナ",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "lowest_rarity": {
+      "foc": 5
+    },
+    "skill_ids": [
+      "EMBLEM_PID_紋章ルキナ",
+      "SID_オールフォーワン",
+      "SID_デュアルサポート1",
+      "SID_デュアルサポート2",
+      "SID_デュアルサポート3",
+      "SID_デュアルサポート4",
+      "SID_入れ替え",
+      "SID_攻撃速さの万全1",
+      "SID_攻撃速さの万全2",
+      "SID_攻撃速さの万全3",
+      "SID_攻撃速さの共感",
+      "SID_攻撃速さの完全",
+      "SID_攻撃速さの連携1",
+      "SID_攻撃速さの連携2",
+      "SID_攻撃速さの連携3",
+      "SID_星影",
+      "SID_流星",
+      "SID_聖王女の弓",
+      "SID_鉄の弓",
+      "SID_銀の弓",
+      "SID_鋼の弓"
+    ]
+  },
+  {
     "id": "PID_比翼ルキナ",
     "is_in": {
       "gsp": false,

@@ -1067,6 +1067,23 @@
     ]
   },
   {
+    "name": "Emblem Lucina: Of Awakening",
+    "unit_ids": [
+      "PID_イグナーツ",
+      "PID_イリアアクア",
+      "PID_ヴァーリ味方",
+      "PID_双界ヒルダ",
+      "PID_双界総選挙リン",
+      "PID_天の王味方",
+      "PID_年明ヘイムダル",
+      "PID_年明ヴァーリ",
+      "PID_比翼バルドル",
+      "PID_獣人リン",
+      "PID_紋章カムイ女",
+      "PID_紋章ルキナ"
+    ]
+  },
+  {
     "name": "Emblem Lyn: Of Blazing",
     "unit_ids": [
       "PID_エイクスルニル味方",
@@ -1246,6 +1263,86 @@
       "PID_比翼マルス2",
       "PID_闇レナ",
       "PID_響心若年チキ"
+    ]
+  },
+  {
+    "name": "Focus: 3,333rd Day Anniv. 10",
+    "unit_ids": [
+      "PID_フェリアクロム",
+      "PID_響心サーリャ",
+      "PID_魔器ノワール"
+    ]
+  },
+  {
+    "name": "Focus: 3,333rd Day Anniv. 11",
+    "unit_ids": [
+      "PID_幼少カミラ",
+      "PID_響心リョウマ",
+      "PID_魔器ヒノカ"
+    ]
+  },
+  {
+    "name": "Focus: 3,333rd Day Anniv. 2",
+    "unit_ids": [
+      "PID_双界セリカ",
+      "PID_魔器ソニア",
+      "PID_魔器ヌイババ"
+    ]
+  },
+  {
+    "name": "Focus: 3,333rd Day Anniv. 3",
+    "unit_ids": [
+      "PID_伝承アイラ",
+      "PID_花嫁ラクチェ",
+      "PID_響心ブリギッド"
+    ]
+  },
+  {
+    "name": "Focus: 3,333rd Day Anniv. 4",
+    "unit_ids": [
+      "PID_ティナ",
+      "PID_響心リーフ",
+      "PID_魔器マチュア"
+    ]
+  },
+  {
+    "name": "Focus: 3,333rd Day Anniv. 5",
+    "unit_ids": [
+      "PID_エルフィン",
+      "PID_双界フィル",
+      "PID_魔器リリーナ"
+    ]
+  },
+  {
+    "name": "Focus: 3,333rd Day Anniv. 6",
+    "unit_ids": [
+      "PID_水着ニノ",
+      "PID_神階アトス",
+      "PID_魔器レイラ"
+    ]
+  },
+  {
+    "name": "Focus: 3,333rd Day Anniv. 7",
+    "unit_ids": [
+      "PID_冬祭フォデス",
+      "PID_双界マリカ",
+      "PID_開花アメリア"
+    ]
+  },
+  {
+    "name": "Focus: 3,333rd Day Anniv. 8",
+    "unit_ids": [
+      "PID_ソーンバルケ",
+      "PID_浴衣ワユ",
+      "PID_魔器セネリオ"
+    ]
+  },
+  {
+    "name": "Focus: 3,333rd Day Anniv. 9",
+    "unit_ids": [
+      "PID_伝承漆黒の騎士",
+      "PID_響心ミカヤ",
+      "PID_魔器サザ"
     ]
   },
   {
@@ -4573,6 +4670,14 @@
       "PID_ギムレー女",
       "PID_ラファール",
       "PID_闇リュール女"
+    ]
+  },
+  {
+    "name": "Focus: Heroes with Scowl Skills (Mar 2026)",
+    "unit_ids": [
+      "PID_ラファール",
+      "PID_双界ナギ",
+      "PID_若年ナーガ"
     ]
   },
   {
@@ -7911,6 +8016,14 @@
       "PID_リュール男",
       "PID_総選挙グルヴェイグ",
       "PID_魔器スタルーク"
+    ]
+  },
+  {
+    "name": "Focus: Weekly Revival 122",
+    "unit_ids": [
+      "PID_魔器アイト味方",
+      "PID_魔器ターナ",
+      "PID_魔器闇クロム"
     ]
   },
   {

@@ -9518,5 +9518,12 @@
     "recommended_boon": "def",
     "recommended_bane": "res",
     "recommended_plus10": "def"
+  },
+  {
+    "id": "PID_紋章ルキナ",
+    "game8_rating": "9.9",
+    "recommended_boon": "spd",
+    "recommended_bane": "res",
+    "recommended_plus10": null
   }
 ]

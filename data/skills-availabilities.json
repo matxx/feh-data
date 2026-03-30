@@ -4867,6 +4867,33 @@
     }
   },
   {
+    "id": "SID_オールフォーワン",
+    "owner_ids": [
+      "PID_紋章ルキナ"
+    ],
+    "required_slots": {
+      "g4": 1,
+      "hg": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 3,
+      "shsr": 3,
+      "g5": 3,
+      "sh5": 3
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "olrwo": {
+      "foc": 5
+    }
+  },
+  {
     "id": "SID_ずっとみんなと一緒",
     "owner_ids": [
       "PID_開花チキ"
@@ -11229,6 +11256,7 @@
       "PID_双界リーフ",
       "PID_響心リーフ",
       "PID_伝承リーフ",
+      "PID_紋章ルキナ",
       "PID_お供ルーテ",
       "PID_リン",
       "PID_紋章リン",
@@ -22501,6 +22529,7 @@
     "owner_ids": [
       "PID_紋章ベレト",
       "PID_双界ヒルダ",
+      "PID_紋章ルキナ",
       "PID_フェリア仮面マルス"
     ],
     "required_slots": {
@@ -23504,6 +23533,7 @@
       "PID_花嫁ラクチェ",
       "PID_闇ロイド",
       "PID_ルイーズ",
+      "PID_紋章ルキナ",
       "PID_フェリア仮面マルス",
       "PID_ミリエル",
       "PID_モニカ",
@@ -23641,6 +23671,7 @@
       "PID_花嫁ラクチェ",
       "PID_闇ロイド",
       "PID_ルイーズ",
+      "PID_紋章ルキナ",
       "PID_フェリア仮面マルス",
       "PID_ミリエル",
       "PID_モニカ",
@@ -23778,6 +23809,7 @@
       "PID_花嫁ラクチェ",
       "PID_闇ロイド",
       "PID_ルイーズ",
+      "PID_紋章ルキナ",
       "PID_フェリア仮面マルス",
       "PID_ミリエル",
       "PID_モニカ",
@@ -23997,6 +24029,7 @@
       "PID_双界ヒルダ",
       "PID_温泉ヒノカ",
       "PID_水着ヨシュア",
+      "PID_紋章ルキナ",
       "PID_水着リン",
       "PID_フェリア仮面マルス",
       "PID_ハロゼロ",
@@ -24072,6 +24105,7 @@
       "PID_双界ヒルダ",
       "PID_温泉ヒノカ",
       "PID_水着ヨシュア",
+      "PID_紋章ルキナ",
       "PID_水着リン",
       "PID_フェリア仮面マルス",
       "PID_ハロゼロ",
@@ -24147,6 +24181,7 @@
       "PID_双界ヒルダ",
       "PID_温泉ヒノカ",
       "PID_水着ヨシュア",
+      "PID_紋章ルキナ",
       "PID_水着リン",
       "PID_フェリア仮面マルス",
       "PID_ハロゼロ",
@@ -70936,6 +70971,114 @@
     }
   },
   {
+    "id": "SID_デュアルサポート1",
+    "owner_ids": [
+      "PID_紋章ルキナ"
+    ],
+    "required_slots": {
+      "g4": 1,
+      "hg": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 1,
+      "shsr": 1,
+      "g5": 1,
+      "sh5": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "olrwo": {
+      "foc": 5
+    }
+  },
+  {
+    "id": "SID_デュアルサポート2",
+    "owner_ids": [
+      "PID_紋章ルキナ"
+    ],
+    "required_slots": {
+      "g4": 2,
+      "hg": 2,
+      "dc": 2,
+      "sh4": 2,
+      "gsr": 2,
+      "shsr": 2,
+      "g5": 2,
+      "sh5": 2
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "olrwo": {
+      "foc": 5
+    }
+  },
+  {
+    "id": "SID_デュアルサポート3",
+    "owner_ids": [
+      "PID_紋章ルキナ"
+    ],
+    "required_slots": {
+      "g4": 3,
+      "hg": 3,
+      "dc": 3,
+      "sh4": 3,
+      "gsr": 3,
+      "shsr": 3,
+      "g5": 3,
+      "sh5": 3
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "olrwo": {
+      "foc": 5
+    }
+  },
+  {
+    "id": "SID_デュアルサポート4",
+    "owner_ids": [
+      "PID_紋章ルキナ"
+    ],
+    "required_slots": {
+      "g4": 4,
+      "hg": 4,
+      "dc": 4,
+      "sh4": 4,
+      "gsr": 4,
+      "shsr": 4,
+      "g5": 4,
+      "sh5": 4
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "olrwo": {
+      "foc": 5
+    }
+  },
+  {
     "id": "SID_修羅の双刃",
     "owner_ids": [
       "PID_伝承シェズ男"
@@ -113763,6 +113906,7 @@
       "PID_花嫁ルイーズ",
       "PID_ルイーズ",
       "PID_伝承ルキナ",
+      "PID_紋章ルキナ",
       "PID_比翼ルキナ",
       "PID_総選挙リン",
       "PID_双界総選挙リン",
@@ -134420,6 +134564,7 @@
       "PID_レヴィン",
       "PID_比翼リーヴ",
       "PID_ロンクー",
+      "PID_紋章ルキナ",
       "PID_お供ルーテ",
       "PID_リュート",
       "PID_リン",
@@ -143119,6 +143264,7 @@
       "PID_お茶会フェリクス",
       "PID_イグナーツ",
       "PID_花嫁ラクチェ",
+      "PID_紋章ルキナ",
       "PID_フェリア仮面マルス",
       "PID_水着ニノ"
     ],
@@ -161688,6 +161834,33 @@
     }
   },
   {
+    "id": "SID_聖王女の弓",
+    "owner_ids": [
+      "PID_紋章ルキナ"
+    ],
+    "required_slots": {
+      "g4": 1,
+      "hg": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 4,
+      "shsr": 4,
+      "g5": 4,
+      "sh5": 4
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "olrwo": {
+      "foc": 5
+    }
+  },
+  {
     "id": "SID_砂漠の狼女王の牙",
     "owner_ids": [
       "PID_ハタリニケ"
@@ -172400,6 +172573,7 @@
       "PID_伝承リーフ",
       "PID_愛の祭レオン",
       "PID_伝承ルキナ",
+      "PID_紋章ルキナ",
       "PID_比翼ルキナ",
       "PID_総選挙リン",
       "PID_双界総選挙リン",
@@ -193693,6 +193867,7 @@
       "PID_花嫁ルイーズ",
       "PID_ルイーズ",
       "PID_伝承ルキナ",
+      "PID_紋章ルキナ",
       "PID_比翼ルキナ",
       "PID_総選挙リン",
       "PID_双界総選挙リン",
@@ -199990,6 +200165,7 @@
       "PID_魔器ルキナ",
       "PID_愛の祭ルキナ",
       "PID_伝承ルキナ",
+      "PID_紋章ルキナ",
       "PID_比翼ルキナ",
       "PID_水着ルーテ",
       "PID_マーカス",
@@ -224957,6 +225133,23 @@
     "id": "EMBLEM_PID_紋章アイク",
     "owner_ids": [
       "PID_紋章アイク"
+    ],
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "olrwo": {
+      "foc": 5
+    }
+  },
+  {
+    "id": "EMBLEM_PID_紋章ルキナ",
+    "owner_ids": [
+      "PID_紋章ルキナ"
     ],
     "is_in": {
       "gsp": false,
