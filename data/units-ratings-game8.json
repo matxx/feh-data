@@ -3488,8 +3488,8 @@
   {
     "id": "PID_春祭ナーシェン",
     "game8_rating": "7.0",
-    "recommended_boon": null,
-    "recommended_bane": null,
+    "recommended_boon": "spd",
+    "recommended_bane": "res",
     "recommended_plus10": null
   },
   {
@@ -4474,7 +4474,7 @@
   },
   {
     "id": "PID_双界ミルラ",
-    "game8_rating": "8.5",
+    "game8_rating": "9.0",
     "recommended_boon": "atk",
     "recommended_bane": "spd",
     "recommended_plus10": "atk"
@@ -4782,7 +4782,7 @@
   },
   {
     "id": "PID_オロチ",
-    "game8_rating": "7.5",
+    "game8_rating": "8.0",
     "recommended_boon": "atk",
     "recommended_bane": "def",
     "recommended_plus10": "atk"
@@ -4936,7 +4936,7 @@
   },
   {
     "id": "PID_ムスペル味方",
-    "game8_rating": "8.5",
+    "game8_rating": "9.0",
     "recommended_boon": "atk",
     "recommended_bane": "spd",
     "recommended_plus10": "atk"
@@ -5048,7 +5048,7 @@
   },
   {
     "id": "PID_ビラク",
-    "game8_rating": "8.0",
+    "game8_rating": "8.5",
     "recommended_boon": "atk",
     "recommended_bane": "res",
     "recommended_plus10": "atk"
@@ -5496,7 +5496,7 @@
   },
   {
     "id": "PID_セイラム",
-    "game8_rating": "8.0",
+    "game8_rating": "9.0",
     "recommended_boon": "atk",
     "recommended_bane": "def",
     "recommended_plus10": "atk"
@@ -6224,7 +6224,7 @@
   },
   {
     "id": "PID_双界ティアモ",
-    "game8_rating": "9.5",
+    "game8_rating": "9.0",
     "recommended_boon": "atk",
     "recommended_bane": "res",
     "recommended_plus10": "atk"
@@ -6364,7 +6364,7 @@
   },
   {
     "id": "PID_神階フォデス",
-    "game8_rating": "8.5",
+    "game8_rating": "9.0",
     "recommended_boon": "atk",
     "recommended_bane": "spd",
     "recommended_plus10": "atk"
@@ -6854,7 +6854,7 @@
   },
   {
     "id": "PID_フロージ味方",
-    "game8_rating": "9.9",
+    "game8_rating": "9.5",
     "recommended_boon": "atk",
     "recommended_bane": "spd",
     "recommended_plus10": "atk"
@@ -7575,7 +7575,7 @@
   },
   {
     "id": "PID_比翼ルフレ女",
-    "game8_rating": "9.5",
+    "game8_rating": "9.0",
     "recommended_boon": "spd",
     "recommended_bane": "res",
     "recommended_plus10": "spd"
@@ -7610,7 +7610,7 @@
   },
   {
     "id": "PID_響心アクア",
-    "game8_rating": "9.5",
+    "game8_rating": "9.0",
     "recommended_boon": "spd",
     "recommended_bane": "def",
     "recommended_plus10": "spd"
@@ -7666,7 +7666,7 @@
   },
   {
     "id": "PID_花嫁エンブラ",
-    "game8_rating": "9.5",
+    "game8_rating": "9.0",
     "recommended_boon": "spd",
     "recommended_bane": "res",
     "recommended_plus10": "spd"
@@ -7729,7 +7729,7 @@
   },
   {
     "id": "PID_響心ミカヤ",
-    "game8_rating": "9.5",
+    "game8_rating": "9.0",
     "recommended_boon": "atk",
     "recommended_bane": "spd",
     "recommended_plus10": "atk"
@@ -7869,7 +7869,7 @@
   },
   {
     "id": "PID_エイクスルニル味方",
-    "game8_rating": "9.5",
+    "game8_rating": "9.0",
     "recommended_boon": "def",
     "recommended_bane": "spd",
     "recommended_plus10": "def"
@@ -7918,7 +7918,7 @@
   },
   {
     "id": "PID_総選挙フェリクス",
-    "game8_rating": "9.5",
+    "game8_rating": "9.0",
     "recommended_boon": "spd",
     "recommended_bane": "res",
     "recommended_plus10": "spd"
@@ -7946,7 +7946,7 @@
   },
   {
     "id": "PID_伝承シェズ男",
-    "game8_rating": "9.5",
+    "game8_rating": "9.0",
     "recommended_boon": "spd",
     "recommended_bane": "res",
     "recommended_plus10": "spd"
@@ -7988,7 +7988,7 @@
   },
   {
     "id": "PID_響心ミスティラ",
-    "game8_rating": "9.5",
+    "game8_rating": "9.0",
     "recommended_boon": "def",
     "recommended_bane": "res",
     "recommended_plus10": "def"
@@ -8016,7 +8016,7 @@
   },
   {
     "id": "PID_マロン",
-    "game8_rating": "9.5",
+    "game8_rating": "9.0",
     "recommended_boon": "def",
     "recommended_bane": "spd",
     "recommended_plus10": "def"
@@ -8030,7 +8030,7 @@
   },
   {
     "id": "PID_紋章シグルド",
-    "game8_rating": "9.9",
+    "game8_rating": "9.5",
     "recommended_boon": "atk",
     "recommended_bane": "res",
     "recommended_plus10": "atk"
@@ -8093,7 +8093,7 @@
   },
   {
     "id": "PID_ダグ2味方",
-    "game8_rating": "9.5",
+    "game8_rating": "9.0",
     "recommended_boon": "spd",
     "recommended_bane": "res",
     "recommended_plus10": "spd"
@@ -8114,7 +8114,7 @@
   },
   {
     "id": "PID_フレスベルグ味方",
-    "game8_rating": "9.5",
+    "game8_rating": "9.0",
     "recommended_boon": "spd",
     "recommended_bane": "res",
     "recommended_plus10": "spd"
@@ -8142,7 +8142,7 @@
   },
   {
     "id": "PID_比翼ルキナ",
-    "game8_rating": "9.9",
+    "game8_rating": "9.5",
     "recommended_boon": "spd",
     "recommended_bane": "res",
     "recommended_plus10": "spd"
@@ -8233,7 +8233,7 @@
   },
   {
     "id": "PID_ルーン",
-    "game8_rating": "9.5",
+    "game8_rating": "9.0",
     "recommended_boon": "res",
     "recommended_bane": "def",
     "recommended_plus10": "res"
@@ -8261,7 +8261,7 @@
   },
   {
     "id": "PID_冬祭シェズ女",
-    "game8_rating": "9.5",
+    "game8_rating": "9.0",
     "recommended_boon": "spd",
     "recommended_bane": "res",
     "recommended_plus10": "spd"
@@ -8275,21 +8275,21 @@
   },
   {
     "id": "PID_比翼リュール男",
-    "game8_rating": "9.5",
+    "game8_rating": "9.0",
     "recommended_boon": "spd",
     "recommended_bane": "hp",
     "recommended_plus10": "spd"
   },
   {
     "id": "PID_冬祭エイクスルニル",
-    "game8_rating": "9.5",
+    "game8_rating": "9.0",
     "recommended_boon": "def",
     "recommended_bane": "spd",
     "recommended_plus10": "def"
   },
   {
     "id": "PID_紋章リン",
-    "game8_rating": "9.9",
+    "game8_rating": "9.5",
     "recommended_boon": "spd",
     "recommended_bane": "res",
     "recommended_plus10": "spd"
@@ -8310,14 +8310,14 @@
   },
   {
     "id": "PID_年明ニーズヘッグ",
-    "game8_rating": "9.9",
+    "game8_rating": "9.5",
     "recommended_boon": "def",
     "recommended_bane": "spd",
     "recommended_plus10": "def"
   },
   {
     "id": "PID_比翼ヘイズルーン",
-    "game8_rating": "9.5",
+    "game8_rating": "9.0",
     "recommended_boon": "res",
     "recommended_bane": "spd",
     "recommended_plus10": "res"
@@ -8387,7 +8387,7 @@
   },
   {
     "id": "PID_双界マリカ",
-    "game8_rating": "9.5",
+    "game8_rating": "9.0",
     "recommended_boon": "spd",
     "recommended_bane": "res",
     "recommended_plus10": "spd"
@@ -8401,21 +8401,21 @@
   },
   {
     "id": "PID_神階アトス",
-    "game8_rating": "9.5",
+    "game8_rating": "9.0",
     "recommended_boon": "res",
     "recommended_bane": "spd",
     "recommended_plus10": "res"
   },
   {
     "id": "PID_伝承アイラ",
-    "game8_rating": "9.5",
+    "game8_rating": "9.0",
     "recommended_boon": "spd",
     "recommended_bane": "res",
     "recommended_plus10": "spd"
   },
   {
     "id": "PID_愛の祭エーデル",
-    "game8_rating": "9.5",
+    "game8_rating": "9.0",
     "recommended_boon": "atk",
     "recommended_bane": "spd",
     "recommended_plus10": "atk"
@@ -8436,7 +8436,7 @@
   },
   {
     "id": "PID_比翼レア",
-    "game8_rating": "9.9",
+    "game8_rating": "9.5",
     "recommended_boon": "res",
     "recommended_bane": "spd",
     "recommended_plus10": "res"
@@ -8492,7 +8492,7 @@
   },
   {
     "id": "PID_春祭ヴェイル",
-    "game8_rating": "9.5",
+    "game8_rating": "9.0",
     "recommended_boon": "atk",
     "recommended_bane": "def",
     "recommended_plus10": "atk"
@@ -8513,7 +8513,7 @@
   },
   {
     "id": "PID_双界プルメリア",
-    "game8_rating": "9.5",
+    "game8_rating": "9.0",
     "recommended_boon": "res",
     "recommended_bane": "spd",
     "recommended_plus10": "res"
@@ -8590,7 +8590,7 @@
   },
   {
     "id": "PID_比翼カムイ男",
-    "game8_rating": "9.5",
+    "game8_rating": "9.0",
     "recommended_boon": "spd",
     "recommended_bane": "hp",
     "recommended_plus10": "spd"
@@ -8639,7 +8639,7 @@
   },
   {
     "id": "PID_エルム味方",
-    "game8_rating": "9.9",
+    "game8_rating": "9.5",
     "recommended_boon": "spd",
     "recommended_bane": "res",
     "recommended_plus10": "spd"
@@ -8653,7 +8653,7 @@
   },
   {
     "id": "PID_闇リュール女",
-    "game8_rating": "9.9",
+    "game8_rating": "9.5",
     "recommended_boon": "res",
     "recommended_bane": "spd",
     "recommended_plus10": "res"
@@ -8667,14 +8667,14 @@
   },
   {
     "id": "PID_闇レナ",
-    "game8_rating": "9.5",
+    "game8_rating": "9.0",
     "recommended_boon": "res",
     "recommended_bane": "def",
     "recommended_plus10": "res"
   },
   {
     "id": "PID_魔器魔獣ドゥドゥー",
-    "game8_rating": "9.5",
+    "game8_rating": "9.0",
     "recommended_boon": "def",
     "recommended_bane": "spd",
     "recommended_plus10": "def"
@@ -8688,14 +8688,14 @@
   },
   {
     "id": "PID_花婿セリス",
-    "game8_rating": "9.5",
+    "game8_rating": "9.0",
     "recommended_boon": "spd",
     "recommended_bane": "res",
     "recommended_plus10": "spd"
   },
   {
     "id": "PID_花嫁ラクチェ",
-    "game8_rating": "9.5",
+    "game8_rating": "9.0",
     "recommended_boon": "spd",
     "recommended_bane": "hp",
     "recommended_plus10": "spd"
@@ -8709,7 +8709,7 @@
   },
   {
     "id": "PID_比翼ユリア",
-    "game8_rating": "9.5",
+    "game8_rating": "9.0",
     "recommended_boon": "res",
     "recommended_bane": "spd",
     "recommended_plus10": "res"
@@ -8730,7 +8730,7 @@
   },
   {
     "id": "PID_魔器ノワール",
-    "game8_rating": "9.5",
+    "game8_rating": "9.0",
     "recommended_boon": "spd",
     "recommended_bane": "res",
     "recommended_plus10": "spd"
@@ -8814,7 +8814,7 @@
   },
   {
     "id": "PID_水着ユーリス",
-    "game8_rating": "9.5",
+    "game8_rating": "9.0",
     "recommended_boon": "spd",
     "recommended_bane": "def",
     "recommended_plus10": "spd"
@@ -8828,14 +8828,14 @@
   },
   {
     "id": "PID_水着エイクスルニル",
-    "game8_rating": "9.5",
+    "game8_rating": "9.0",
     "recommended_boon": null,
     "recommended_bane": "spd",
     "recommended_plus10": null
   },
   {
     "id": "PID_比翼ハピ",
-    "game8_rating": "9.5",
+    "game8_rating": "9.0",
     "recommended_boon": "spd",
     "recommended_bane": "def",
     "recommended_plus10": "spd"
@@ -8849,7 +8849,7 @@
   },
   {
     "id": "PID_メリアエ味方",
-    "game8_rating": "9.5",
+    "game8_rating": "9.0",
     "recommended_boon": "def",
     "recommended_bane": "spd",
     "recommended_plus10": "def"
@@ -8891,14 +8891,14 @@
   },
   {
     "id": "PID_ヴァーリ味方",
-    "game8_rating": "9.9",
+    "game8_rating": "9.5",
     "recommended_boon": "spd",
     "recommended_bane": "def",
     "recommended_plus10": null
   },
   {
     "id": "PID_ヘズ味方",
-    "game8_rating": "9.5",
+    "game8_rating": "9.0",
     "recommended_boon": "res",
     "recommended_bane": "def",
     "recommended_plus10": "res"
@@ -8933,7 +8933,7 @@
   },
   {
     "id": "PID_双界イングリット",
-    "game8_rating": "9.5",
+    "game8_rating": "9.0",
     "recommended_boon": "spd",
     "recommended_bane": "res",
     "recommended_plus10": "spd"
@@ -8947,7 +8947,7 @@
   },
   {
     "id": "PID_総選挙ベレト",
-    "game8_rating": "9.5",
+    "game8_rating": "9.9",
     "recommended_boon": "spd",
     "recommended_bane": "res",
     "recommended_plus10": "spd"
@@ -8989,7 +8989,7 @@
   },
   {
     "id": "PID_フェリア仮面マルス",
-    "game8_rating": "9.5",
+    "game8_rating": "9.0",
     "recommended_boon": "spd",
     "recommended_bane": "res",
     "recommended_plus10": "spd"
@@ -9010,7 +9010,7 @@
   },
   {
     "id": "PID_双界フィル",
-    "game8_rating": "9.9",
+    "game8_rating": "9.5",
     "recommended_boon": "spd",
     "recommended_bane": "res",
     "recommended_plus10": "spd"
@@ -9080,7 +9080,7 @@
   },
   {
     "id": "PID_ハロネルトゥス",
-    "game8_rating": "9.5",
+    "game8_rating": "9.0",
     "recommended_boon": "spd",
     "recommended_bane": "res",
     "recommended_plus10": "spd"
@@ -9213,7 +9213,7 @@
   },
   {
     "id": "PID_魔器ヴァニタス味方",
-    "game8_rating": "9.5",
+    "game8_rating": "9.0",
     "recommended_boon": "res",
     "recommended_bane": "spd",
     "recommended_plus10": null
@@ -9269,7 +9269,7 @@
   },
   {
     "id": "PID_冬祭アルフレッド",
-    "game8_rating": "9.0",
+    "game8_rating": "9.5",
     "recommended_boon": "spd",
     "recommended_bane": "res",
     "recommended_plus10": null
@@ -9292,12 +9292,12 @@
     "id": "PID_紋章エーデル",
     "game8_rating": "9.9",
     "recommended_boon": "atk",
-    "recommended_bane": "spd",
+    "recommended_bane": "res",
     "recommended_plus10": null
   },
   {
     "id": "PID_年明ヘイムダル",
-    "game8_rating": "9.0",
+    "game8_rating": "9.5",
     "recommended_boon": "res",
     "recommended_bane": "spd",
     "recommended_plus10": null
@@ -9318,7 +9318,7 @@
   },
   {
     "id": "PID_比翼バルドル",
-    "game8_rating": "9.5",
+    "game8_rating": "9.9",
     "recommended_boon": "spd",
     "recommended_bane": "res",
     "recommended_plus10": null
@@ -9458,7 +9458,7 @@
   },
   {
     "id": "PID_春祭トール",
-    "game8_rating": "9.5",
+    "game8_rating": "9.0",
     "recommended_boon": "def",
     "recommended_bane": "spd",
     "recommended_plus10": null
