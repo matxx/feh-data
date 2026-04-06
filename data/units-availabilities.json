@@ -20255,13 +20255,14 @@
     "id": "PID_魔器幼少イング",
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": true
     },
     "lowest_rarity": {
+      "ssp": 5,
       "foc": 5
     },
     "skill_ids": [
