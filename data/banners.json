@@ -5487,6 +5487,14 @@
     ]
   },
   {
+    "name": "Focus: Mythic Revival 2",
+    "unit_ids": [
+      "PID_神階オルティナ",
+      "PID_神階ピアニー",
+      "PID_神階ユンヌ"
+    ]
+  },
+  {
     "name": "Focus: Nergal & Ursula's Battle",
     "unit_ids": [
       "PID_ジャファル",
@@ -5566,6 +5574,15 @@
       "PID_フュリー",
       "PID_ミランダ",
       "PID_比翼リン"
+    ]
+  },
+  {
+    "name": "Focus: New Power (Apr 2026)",
+    "unit_ids": [
+      "PID_タニス",
+      "PID_パリス",
+      "PID_幼少リオン",
+      "PID_開花フィヨルム味方"
     ]
   },
   {
@@ -6764,6 +6781,14 @@
       "PID_クロム",
       "PID_ルキナ",
       "PID_ルフレ男"
+    ]
+  },
+  {
+    "name": "Focus: Tempest Trials (Alone Time)",
+    "unit_ids": [
+      "PID_イングリット",
+      "PID_シルヴァン",
+      "PID_フェリクス"
     ]
   },
   {
@@ -13750,6 +13775,15 @@
       "PID_ハロジョーカー",
       "PID_ハロノノ",
       "PID_ハロヘンリー"
+    ]
+  },
+  {
+    "name": "Unforgettable (Focus)",
+    "unit_ids": [
+      "PID_幼少クロード",
+      "PID_幼少フェリクス",
+      "PID_比翼エーデル",
+      "PID_魔器幼少イング"
     ]
   },
   {

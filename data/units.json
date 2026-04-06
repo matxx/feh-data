@@ -6238,6 +6238,34 @@
     "skills_max_sp": 2540
   },
   {
+    "id": "PID_幼少クロード",
+    "fandom_id": "Claude: Budding Ambition",
+    "name": "Claude",
+    "title": "Budding Ambition",
+    "full_name": "Claude: Budding Ambition",
+    "abbreviated_name": "Y!Claude",
+    "theme": "kids",
+    "gender": "M",
+    "move_type": "Cavalry",
+    "weapon_type": "Colorless Bow",
+    "games": [
+      "Fire Emblem: Three Houses"
+    ],
+    "id_int": 1364,
+    "origin": "120000400100",
+    "book": 10,
+    "max_df": 5,
+    "is_special": true,
+    "addition_date": "2026-04-06",
+    "release_date": "2026-04-07",
+    "version": "10.4",
+    "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d0/Claude_Budding_Ambition_Face_FC.webp/revision/latest?cb=20260406053646",
+    "bst": 191,
+    "visible_bst": 195,
+    "max_score": 764,
+    "skills_max_sp": 2540
+  },
+  {
     "id": "PID_愛の祭クロード",
     "fandom_id": "Claude: Distant Deer",
     "name": "Claude",
@@ -8924,6 +8952,36 @@
     "visible_bst": 216,
     "max_score": 774,
     "skills_max_sp": 2600
+  },
+  {
+    "id": "PID_比翼エーデル",
+    "fandom_id": "Edelgard: Promising Path",
+    "name": "Edelgard",
+    "title": "Promising Path",
+    "full_name": "Edelgard: Promising Path",
+    "abbreviated_name": "Y!Edelgard",
+    "theme": "kids",
+    "gender": "FM",
+    "move_type": "Armored",
+    "weapon_type": "Green Dagger",
+    "games": [
+      "Fire Emblem: Three Houses"
+    ],
+    "id_int": 1362,
+    "origin": "120000200100",
+    "book": 10,
+    "max_df": 5,
+    "is_special": true,
+    "is_duo": true,
+    "addition_date": "2026-04-06",
+    "release_date": "2026-04-07",
+    "version": "10.4",
+    "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/47/Edelgard_Promising_Path_Face_FC.webp/revision/latest?cb=20260406053611",
+    "bst": 207,
+    "duel_score": 220,
+    "visible_bst": 220,
+    "max_score": 774,
+    "skills_max_sp": 2540
   },
   {
     "id": "PID_冬祭エーデルガルト",
@@ -11763,6 +11821,34 @@
     "bst": 199,
     "visible_bst": 203,
     "max_score": 768,
+    "skills_max_sp": 2600
+  },
+  {
+    "id": "PID_幼少フェリクス",
+    "fandom_id": "Felix: Zealous Yearning",
+    "name": "Felix",
+    "title": "Zealous Yearning",
+    "full_name": "Felix: Zealous Yearning",
+    "abbreviated_name": "Y!Felix",
+    "theme": "kids",
+    "gender": "M",
+    "move_type": "Infantry",
+    "weapon_type": "Red Sword",
+    "games": [
+      "Fire Emblem: Three Houses"
+    ],
+    "id_int": 1365,
+    "origin": "120000300300",
+    "book": 10,
+    "max_df": 5,
+    "is_special": true,
+    "addition_date": "2026-04-06",
+    "release_date": "2026-04-07",
+    "version": "10.4",
+    "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/3e/Felix_Zealous_Yearning_Face_FC.webp/revision/latest?cb=20260406053721",
+    "bst": 203,
+    "visible_bst": 207,
+    "max_score": 770,
     "skills_max_sp": 2600
   },
   {
@@ -17292,6 +17378,33 @@
     "skills_max_sp": 2550
   },
   {
+    "id": "PID_魔器幼少イング",
+    "fandom_id": "Ingrid: Chivalrous Heart",
+    "name": "Ingrid",
+    "title": "Chivalrous Heart",
+    "full_name": "Ingrid: Chivalrous Heart",
+    "abbreviated_name": "R!Ingrid",
+    "gender": "F",
+    "move_type": "Cavalry",
+    "weapon_type": "Blue Lance",
+    "games": [
+      "Fire Emblem: Three Houses"
+    ],
+    "id_int": 1363,
+    "origin": "120000300800",
+    "book": 10,
+    "max_df": 5,
+    "is_rearmed": true,
+    "addition_date": "2026-04-06",
+    "release_date": "2026-04-07",
+    "version": "10.4",
+    "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c2/Ingrid_Chivalrous_Heart_Face_FC.webp/revision/latest?cb=20260406053756",
+    "bst": 195,
+    "visible_bst": 199,
+    "max_score": 764,
+    "skills_max_sp": 2550
+  },
+  {
     "id": "PID_双界イングリット",
     "fandom_id": "Ingrid: Cordial Teatime",
     "name": "Ingrid",
@@ -18355,6 +18468,7 @@
     "origin": "030007900100",
     "book": 3,
     "max_df": 35,
+    "has_respl": true,
     "is_legendary": true,
     "element": "Earth",
     "addition_date": "2019-08-28",
@@ -18362,6 +18476,7 @@
     "version": "3.8",
     "game8_id": "269173",
     "guide_id": "03079001000416",
+    "fehpass_id": "00079001000416",
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/0d/Julia_Crusader_of_Light_Face_FC.webp/revision/latest?cb=20190920225745",
     "image_url_for_icon_legendary": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/87/Legendary_Effect_Earth.png/revision/latest?cb=20260330031645",
     "bst": 162,
@@ -36916,6 +37031,7 @@
     "origin": "110000200900",
     "book": 7,
     "max_df": 20,
+    "is_tt": true,
     "is_special": true,
     "addition_date": "2023-02-06",
     "release_date": "2023-02-07",
@@ -37197,8 +37313,8 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/a8/Tanith_Bright_Blade_Face_FC.webp/revision/latest?cb=20211117050414",
     "bst": 177,
     "visible_bst": 181,
-    "max_score": 758,
-    "skills_max_sp": 2550
+    "max_score": 760,
+    "skills_max_sp": 2600
   },
   {
     "id": "PID_花嫁タニス",
@@ -39659,7 +39775,6 @@
     "addition_date": "2026-03-16",
     "release_date": "2026-03-17",
     "version": "10.3",
-    "game8_id": "587246",
     "guide_id": "06004001001360-2",
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/8d/Wallace_Crag_of_Caelin_Face_FC.webp/revision/latest?cb=20260316052636",
     "bst": 211,

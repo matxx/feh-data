@@ -84,8 +84,10 @@
     "【Change of Fate】<br>Enables【Canto (２)】.<br><br>Grants Atk/Spd/Def/Res+5 to unit and unit deals damage = 3 × the total of the number of Bonus and Penalty effects active on unit, excluding stat bonuses and stat penalties, during combat (max 15; including area-of-effect Specials).",
     "【Charge】<br>Unit can move up to 3 spaces in any cardinal direction. (Cannot move through foes, terrain that blocks movement, or effects of skills like Obstruct. Granted movement treated as Warp movement.)",
     "【Coax】<br>Grants a status that can trigger certain skill effects to unit.",
+    "【Collapsed Star】<br>If it is unit's first combat initiated by foe this turn, reduces damage from foe's first attack to a maximum of 1 during combat (\"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes).",
     "【Creation Pulse】<br>If unit's attack can trigger unit's Special, grants Special cooldown count-X before unit's first attack during combat (X = number of Penalty effects active on foe, excluding stat penalties; max 2). (For 1 turn.)",
     "【Creation Pulse】<br>If unit's attack can trigger unit's Special, grants Special cooldown count-X before unit's first attack during combat (X = number of Penalty effects active on foe, excluding stat penalties; max 2).<br>(For 1 turn.)",
+    "【Dagger 7】<br>After combat, if unit attacked, inflicts Def/Res-7 on target and foes within 2 spaces of target through their next actions.",
     "【Dagger ５】<br>After combat, if unit attacked, inflicts Def/Res-５ on target and foes within 2 spaces of target through their next actions.",
     "【Dagger ６】<br>After combat, if unit attacked, inflicts Def/Res-６ on target and foes within 2 spaces of target through their next actions.",
     "【Dagger ７】<br>After combat, if unit attacked, inflicts Def/Res-７ on target and foes within 2 spaces of target through their next actions.",
@@ -174,6 +176,7 @@
     "【Ploy】<br>Neutralizes Bonus Doubler, Treachery, and【Grand Strategy】effects active on unit during combat through unit's next action.",
     "【Ploy】<br>Neutralizes【Bonus Doubler】,【Treachery】, and【Grand Strategy】effects active on unit during combat through unit's next action.",
     "【Potent Follow 100%】<br>Triggers an additional follow-up attack immediately after unit's standard follow-up attack and deals damage = 100% of unit's normal attack damage (if unit cannot make a follow-up attack, this effect triggers when the standard follow-up attack would occur; this effect is treated like a follow-up attack, so effects like \"reduce damage by X%\" still apply, but this effect is not affected by effects that prevent follow-ups or \"attacks twice\" effects; only highest value applied; does not stack).",
+    "【Potent Follow 120%】<br>Triggers an additional follow-up attack immediately after unit's standard follow-up attack and deals damage = 120% of unit's normal attack damage (if unit cannot make a follow-up attack, this effect triggers when the standard follow-up attack would occur; this effect is treated like a follow-up attack, so effects like \"reduce damage by X%\" still apply, but this effect is not affected by effects that prevent follow-ups or \"attacks twice\" effects; only highest value applied; does not stack).",
     "【Potent Follow X%】<br>Triggers an additional follow-up attack immediately after unit's standard follow-up attack and deals damage = X% of unit's normal attack damage (if unit cannot make a follow-up attack, this effect triggers when the standard follow-up attack would occur; this effect is treated like a follow-up attack, so effects like \"reduce damage by X%\" still apply, but this effect is not affected by effects that prevent follow-ups or \"attacks twice\" effects; only highest value applied; does not stack).",
     "【Potent Follow】<br>If decreasing the Spd difference necessary to make a follow-up attack by 25 would allow unit to trigger a follow-up attack (excluding guaranteed or prevented follow-ups), triggers【Potent Follow X%】during combat (if unit cannot perform follow-up and attack twice, X = 80; otherwise, X = 40).",
     "【Preempt Pulse】<br>Grants Special cooldown count-1 to unit before unit's first attack during combat.",
@@ -220,7 +223,7 @@
     "【Vantage】<br>If foe initiates combat, unit can counterattack before foe's first attack for 1 turn.",
     "【Warp Bubble】<br>Foes cannot warp into spaces within 4 spaces of unit. (Does not affect foes with Pass skills or warp effects from structures, like camps and fortresses in Rival Domains.)"
   ],
-  "units_count": 1361,
+  "units_count": 1365,
   "units_max_hp": 60,
   "units_max_hp_ids": [
     "PID_アーダン"
@@ -243,6 +246,8 @@
     "PID_双界フィル",
     "PID_双界総選挙セリカ",
     "PID_双界総選挙リン",
+    "PID_幼少クロード",
+    "PID_幼少フェリクス",
     "PID_忍者シェズ女",
     "PID_忍者ユナカ",
     "PID_比翼エリンシア",
@@ -254,6 +259,7 @@
     "PID_紋章ベレト",
     "PID_紋章ルキナ",
     "PID_総選挙シャロン",
+    "PID_魔器幼少イング",
     "PID_魔器春祭サザ"
   ],
   "units_max_def": 50,
