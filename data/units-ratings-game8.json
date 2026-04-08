@@ -9513,10 +9513,45 @@
     "recommended_plus10": null
   },
   {
+    "id": "PID_ワレス",
+    "game8_rating": "8.5",
+    "recommended_boon": "def",
+    "recommended_bane": "res",
+    "recommended_plus10": "def"
+  },
+  {
     "id": "PID_紋章ルキナ",
     "game8_rating": "9.9",
     "recommended_boon": "spd",
     "recommended_bane": "res",
+    "recommended_plus10": null
+  },
+  {
+    "id": "PID_幼少フェリクス",
+    "game8_rating": "9.5",
+    "recommended_boon": "spd",
+    "recommended_bane": "res",
+    "recommended_plus10": null
+  },
+  {
+    "id": "PID_幼少クロード",
+    "game8_rating": "9.5",
+    "recommended_boon": "spd",
+    "recommended_bane": "res",
+    "recommended_plus10": null
+  },
+  {
+    "id": "PID_魔器幼少イング",
+    "game8_rating": "9.0",
+    "recommended_boon": "spd",
+    "recommended_bane": "res",
+    "recommended_plus10": null
+  },
+  {
+    "id": "PID_比翼エーデル",
+    "game8_rating": "9.5",
+    "recommended_boon": "atk",
+    "recommended_bane": "spd",
     "recommended_plus10": null
   }
 ]

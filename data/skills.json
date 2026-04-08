@@ -5519,6 +5519,7 @@
   },
   {
     "id": "SID_魔器・戦神の鋭槍",
+    "game8_id": "591955",
     "fandom_id": "Arcane Thorn",
     "name": "Arcane Thorn",
     "category": "weapon",
@@ -8615,6 +8616,7 @@
   },
   {
     "id": "SID_攻撃守備の撤去",
+    "game8_id": "591959",
     "fandom_id": "Atk/Def Clear",
     "name": "Atk/Def Clear",
     "category": "passivea",
@@ -24193,6 +24195,7 @@
   },
   {
     "id": "SID_霹靂閃電・初撃鼓動",
+    "game8_id": "591963",
     "fandom_id": "Burst of Thunder",
     "name": "Burst of Thunder",
     "category": "passivec",
@@ -28404,6 +28407,7 @@
   },
   {
     "id": "SID_正銘落星",
+    "game8_id": "591961",
     "fandom_id": "Collapsed Star",
     "name": "Collapsed Star",
     "category": "passiveb",
@@ -61165,6 +61169,7 @@
   },
   {
     "id": "SID_戦神の狩猟の弓",
+    "game8_id": "591954",
     "fandom_id": "Hunting Bow",
     "name": "Hunting Bow",
     "category": "weapon",
@@ -68961,6 +68966,7 @@
   },
   {
     "id": "SID_露払い・突貫",
+    "game8_id": "591964",
     "fandom_id": "Lookout Rush",
     "name": "Lookout Rush",
     "category": "passivec",
@@ -71255,6 +71261,7 @@
   },
   {
     "id": "SID_正真・一匹狼",
+    "game8_id": "591960",
     "fandom_id": "Matchless Wolf",
     "name": "Matchless Wolf",
     "category": "passiveb",
@@ -75936,6 +75943,7 @@
   },
   {
     "id": "SID_戦神の誓いの短剣",
+    "game8_id": "591956",
     "fandom_id": "Oath Dagger",
     "name": "Oath Dagger",
     "category": "weapon",
@@ -80990,6 +80998,7 @@
   },
   {
     "id": "SID_戦神の修練の剣",
+    "game8_id": "591953",
     "fandom_id": "Priming Sword",
     "name": "Priming Sword",
     "category": "weapon",
@@ -81305,6 +81314,7 @@
   },
   {
     "id": "SID_真女騎士",
+    "game8_id": "591958",
     "fandom_id": "Proper Knight",
     "name": "Proper Knight",
     "category": "passivea",
@@ -95361,6 +95371,7 @@
   },
   {
     "id": "SID_ブレイクラッシュ",
+    "game8_id": "591957",
     "fandom_id": "Shatter Slash",
     "name": "Shatter Slash",
     "category": "special",
@@ -117779,6 +117790,7 @@
   },
   {
     "id": "SID_正銘狂嵐",
+    "game8_id": "591962",
     "fandom_id": "Vengeful Storm",
     "name": "Vengeful Storm",
     "category": "passiveb",
@@ -146401,7 +146413,7 @@
   },
   {
     "id": "DUO_PID_比翼エーデル",
-    "game8_id": null,
+    "game8_id": "591968",
     "fandom_id": "Edelgard: Promising Path",
     "name": "Edelgard: Promising Path",
     "category": "duo",
