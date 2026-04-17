@@ -554,6 +554,65 @@
     ]
   },
   {
+    "id": "SID_攻守鼓譟・奪取無効",
+    "fandom_id": "A/D Outcry Seize",
+    "name": "A/D Outcry Seize",
+    "category": "passivec",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/9b/A_D_Outcry_Seize.png/revision/latest?cb=20260417073902",
+    "sp": 300,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Cavalry"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "All Melee",
+          "All Breath",
+          "All Beast"
+        ]
+      }
+    },
+    "addition_date": "2026-04-17",
+    "release_date": "2026-04-17",
+    "version": "10.4",
+    "downgrade_ids": [
+      "SID_攻撃の鼓舞3",
+      "SID_守備の鼓舞3"
+    ]
+  },
+  {
+    "id": "SID_攻守突破・対抗",
+    "fandom_id": "A/D Rival Break",
+    "name": "A/D Rival Break",
+    "category": "passivea",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/2/28/A_D_Rival_Break.png/revision/latest?cb=20260417073842",
+    "sp": 300,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Cavalry"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "All Melee",
+          "All Breath",
+          "All Beast"
+        ]
+      }
+    },
+    "addition_date": "2026-04-17",
+    "release_date": "2026-04-17",
+    "version": "10.4",
+    "downgrade_ids": [
+      "SID_攻撃守備の激突3"
+    ]
+  },
+  {
     "id": "SID_攻撃守備の刃壁",
     "game8_id": "483501",
     "fandom_id": "A/D Spiked Wall",
@@ -1932,6 +1991,35 @@
     "version": "7.10",
     "downgrade_ids": [
       "SID_攻撃速さの牽制3"
+    ]
+  },
+  {
+    "id": "SID_攻速突破・対抗",
+    "fandom_id": "A/S Rival Break",
+    "name": "A/S Rival Break",
+    "category": "passivea",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/2/2b/A_S_Rival_Break.png/revision/latest?cb=20260417073831",
+    "sp": 300,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Cavalry"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "All Melee",
+          "All Breath",
+          "All Beast"
+        ]
+      }
+    },
+    "addition_date": "2026-04-17",
+    "release_date": "2026-04-17",
+    "version": "10.4",
+    "downgrade_ids": [
+      "SID_攻撃速さの激突3"
     ]
   },
   {
@@ -6878,6 +6966,19 @@
     "version": "1.0"
   },
   {
+    "id": "SID_エルト兄様のような",
+    "fandom_id": "As Eldie Would",
+    "name": "As Eldie Would",
+    "category": "passiveb",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/3e/As_Eldie_Would.png/revision/latest?cb=20260417073852",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 1,
+    "addition_date": "2026-04-17",
+    "release_date": "2026-04-17",
+    "version": "10.4"
+  },
+  {
     "id": "SID_真王器",
     "game8_id": "569691",
     "fandom_id": "Ascendant King",
@@ -7161,6 +7262,7 @@
       "SID_セック",
       "SID_マシュマロの杖",
       "SID_トリレンマ",
+      "SID_バルキリー",
       "SID_キャンディの杖"
     ]
   },
@@ -8577,6 +8679,7 @@
     "release_date": "2022-09-16",
     "version": "6.9",
     "upgrade_ids": [
+      "SID_攻守突破・対抗",
       "SID_攻撃守備の激突4",
       "SID_攻撃守備の突破"
     ],
@@ -12639,6 +12742,7 @@
     "release_date": "2022-08-17",
     "version": "6.8",
     "upgrade_ids": [
+      "SID_攻速突破・対抗",
       "SID_攻撃速さの激突4",
       "SID_攻撃速さの突破"
     ],
@@ -19552,6 +19656,7 @@
     "release_date": "2017-02-02",
     "version": "1.0",
     "upgrade_ids": [
+      "SID_グランベルの聖光",
       "SID_オーバードライヴ"
     ],
     "downgrade_ids": [
@@ -45823,7 +45928,8 @@
     "release_date": "2019-01-23",
     "version": "3.1",
     "upgrade_ids": [
-      "SID_業火静水の祝福＋"
+      "SID_業火静水の祝福＋",
+      "SID_業火静水の招福"
     ],
     "downgrade_ids": [
       "SID_静水の祝福",
@@ -45879,6 +45985,31 @@
     "downgrade_ids": [
       "SID_生命の業火3",
       "SID_生命の静水3"
+    ]
+  },
+  {
+    "id": "SID_業火静水の招福",
+    "fandom_id": "Fireflood Charm",
+    "name": "Fireflood Charm",
+    "category": "special",
+    "sp": 500,
+    "tier": 3,
+    "cd": 5,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Colorless Staff"
+        ]
+      }
+    },
+    "addition_date": "2026-04-17",
+    "release_date": "2026-04-17",
+    "version": "10.4",
+    "downgrade_ids": [
+      "SID_業火静水の祝福"
     ]
   },
   {
@@ -49078,6 +49209,65 @@
     ]
   },
   {
+    "id": "SID_鍛錬の剣",
+    "fandom_id": "Forged Sword",
+    "name": "Forged Sword",
+    "category": "weapon",
+    "weapon_type": "Red Sword",
+    "sp": 200,
+    "tier": 3,
+    "range": 1,
+    "might": 10,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Red Sword"
+        ]
+      }
+    },
+    "addition_date": "2026-04-17",
+    "release_date": "2026-04-18",
+    "version": "10.4",
+    "upgrade_ids": [
+      "SID_鍛錬の剣＋"
+    ],
+    "downgrade_ids": [
+      "SID_鋼の剣"
+    ]
+  },
+  {
+    "id": "SID_鍛錬の剣＋",
+    "fandom_id": "Forged Sword+",
+    "name": "Forged Sword+",
+    "category": "weapon",
+    "weapon_type": "Red Sword",
+    "sp": 300,
+    "tier": 4,
+    "range": 1,
+    "might": 14,
+    "has_refine": true,
+    "refines_max_sp": 350,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Red Sword"
+        ]
+      }
+    },
+    "addition_date": "2026-04-17",
+    "release_date": "2026-04-18",
+    "version": "10.4",
+    "downgrade_ids": [
+      "SID_鍛錬の剣"
+    ]
+  },
+  {
     "id": "SID_フォルセティ",
     "game8_id": "265674",
     "fandom_id": "Forseti",
@@ -49404,6 +49594,7 @@
     "version": "1.0",
     "upgrade_ids": [
       "SID_攻守鼓譟・強化無効",
+      "SID_攻守鼓譟・奪取無効",
       "SID_守備の鼓舞4",
       "SID_守備の相互鼓舞"
     ],
@@ -59806,6 +59997,22 @@
     ]
   },
   {
+    "id": "SID_グランベルの聖光",
+    "fandom_id": "Holy-Knight Glow",
+    "name": "Holy-Knight Glow",
+    "category": "special",
+    "is_prf": true,
+    "sp": 500,
+    "tier": 3,
+    "cd": 4,
+    "addition_date": "2026-04-17",
+    "release_date": "2026-04-17",
+    "version": "10.4",
+    "downgrade_ids": [
+      "SID_烈光"
+    ]
+  },
+  {
     "id": "SID_グランベルの…・承",
     "game8_id": "453587",
     "fandom_id": "Holy-Knight II",
@@ -59986,6 +60193,7 @@
     "version": "1.0",
     "upgrade_ids": [
       "SID_攻守鼓譟・強化無効",
+      "SID_攻守鼓譟・奪取無効",
       "SID_攻魔鼓舞・強襲",
       "SID_攻魔鼓舞・奮激",
       "SID_攻速鼓譟・呼吸",
@@ -68568,6 +68776,24 @@
     "version": "6.0"
   },
   {
+    "id": "SID_獅子王の斧",
+    "fandom_id": "Lionheart Axe",
+    "name": "Lionheart Axe",
+    "category": "weapon",
+    "weapon_type": "Green Axe",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "range": 1,
+    "might": 16,
+    "addition_date": "2026-04-17",
+    "release_date": "2026-04-17",
+    "version": "10.4",
+    "downgrade_ids": [
+      "SID_銀の斧"
+    ]
+  },
+  {
     "id": "SID_豊穣の喜び",
     "game8_id": "266453",
     "fandom_id": "Live for Bounty",
@@ -75975,6 +76201,24 @@
     "version": "9.0"
   },
   {
+    "id": "SID_誓約ティルフィング",
+    "fandom_id": "Oath Tyrfing",
+    "name": "Oath Tyrfing",
+    "category": "weapon",
+    "weapon_type": "Red Sword",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "range": 1,
+    "might": 16,
+    "addition_date": "2026-04-17",
+    "release_date": "2026-04-17",
+    "version": "10.4",
+    "downgrade_ids": [
+      "SID_銀の剣"
+    ]
+  },
+  {
     "id": "SID_オボロの漆薙刀",
     "game8_id": "265491",
     "fandom_id": "Oboro's Spear",
@@ -81565,6 +81809,30 @@
     "addition_date": "2021-06-07",
     "release_date": "2021-06-09",
     "version": "5.6"
+  },
+  {
+    "id": "SID_響・超神速",
+    "fandom_id": "Puissant Echo",
+    "name": "Puissant Echo",
+    "category": "passivex",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f4/Puissant_Echo.png/revision/latest?cb=20260417073913",
+    "tier": 1,
+    "restrictions": {
+      "moves": {
+        "can_not_use": [
+          "Armored"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "All Melee",
+          "All Beast"
+        ]
+      }
+    },
+    "addition_date": "2026-04-17",
+    "release_date": "2026-04-17",
+    "version": "10.4"
   },
   {
     "id": "SID_追撃の鼓動・刃",
@@ -94822,6 +95090,65 @@
     ]
   },
   {
+    "id": "SID_枷の槍",
+    "fandom_id": "Shackle Lance",
+    "name": "Shackle Lance",
+    "category": "weapon",
+    "weapon_type": "Blue Lance",
+    "sp": 200,
+    "tier": 3,
+    "range": 1,
+    "might": 10,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Blue Lance"
+        ]
+      }
+    },
+    "addition_date": "2026-04-17",
+    "release_date": "2026-04-17",
+    "version": "10.4",
+    "upgrade_ids": [
+      "SID_枷の槍＋"
+    ],
+    "downgrade_ids": [
+      "SID_鋼の槍"
+    ]
+  },
+  {
+    "id": "SID_枷の槍＋",
+    "fandom_id": "Shackle Lance+",
+    "name": "Shackle Lance+",
+    "category": "weapon",
+    "weapon_type": "Blue Lance",
+    "sp": 300,
+    "tier": 4,
+    "range": 1,
+    "might": 14,
+    "has_refine": true,
+    "refines_max_sp": 350,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Blue Lance"
+        ]
+      }
+    },
+    "addition_date": "2026-04-17",
+    "release_date": "2026-04-17",
+    "version": "10.4",
+    "downgrade_ids": [
+      "SID_枷の槍"
+    ]
+  },
+  {
     "id": "SID_暗黒地竜のブレス",
     "game8_id": "376591",
     "fandom_id": "Shadow Breath",
@@ -96585,6 +96912,7 @@
       "SID_寡黙な女傭兵の閃斧",
       "SID_戦神の大斧",
       "SID_光の花婿の斧",
+      "SID_獅子王の斧",
       "SID_ロヴンヘイズ",
       "SID_護国の堅斧",
       "SID_王斧グリトニル",
@@ -97270,6 +97598,7 @@
       "SID_神竜王の剣",
       "SID_錬磨サンダーソード",
       "SID_ニーウ",
+      "SID_誓約ティルフィング",
       "SID_戦神の修練の剣",
       "SID_剣姫親娘の烈剣",
       "SID_女王の護衛の怜剣",
@@ -108372,6 +108701,7 @@
       "SID_強化反転の槍",
       "SID_ホースキラー",
       "SID_蒼海の槍",
+      "SID_枷の槍",
       "SID_貝殻の槍",
       "SID_巻貝の槍",
       "SID_銀の槍",
@@ -108436,6 +108766,7 @@
       "SID_火薙ぎの剣",
       "SID_炎の軍配",
       "SID_薔薇のステッキ",
+      "SID_鍛錬の剣",
       "SID_迎春の剣",
       "SID_キャンセルの剣",
       "SID_祝祭の剣",
@@ -117206,6 +117537,24 @@
     "version": "7.4",
     "downgrade_ids": [
       "SID_銀の斧"
+    ]
+  },
+  {
+    "id": "SID_バルキリー",
+    "fandom_id": "Valkyrie",
+    "name": "Valkyrie",
+    "category": "weapon",
+    "weapon_type": "Colorless Staff",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 2,
+    "range": 2,
+    "might": 14,
+    "addition_date": "2026-04-17",
+    "release_date": "2026-04-17",
+    "version": "10.4",
+    "downgrade_ids": [
+      "SID_アサルト"
     ]
   },
   {
@@ -146854,6 +147203,18 @@
     "addition_date": "2020-09-07",
     "release_date": "2020-09-08",
     "version": "4.9"
+  },
+  {
+    "id": "DUO_PID_比翼シグルド2",
+    "game8_id": null,
+    "fandom_id": "Sigurd: Honorable Nobles",
+    "name": "Sigurd: Honorable Nobles",
+    "category": "duo",
+    "is_prf": true,
+    "tier": 1,
+    "addition_date": "2026-04-17",
+    "release_date": "2026-04-17",
+    "version": "10.4"
   },
   {
     "id": "DUO_PID_比翼ソティス",

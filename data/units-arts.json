@@ -933,7 +933,11 @@
     "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/49/Byleth_Tested_Professor_Face.webp/revision/latest?cb=20190920225515",
     "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/74/Byleth_Tested_Professor_BtlFace.webp/revision/latest?cb=20190920225519",
     "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f6/Byleth_Tested_Professor_BtlFace_C.webp/revision/latest?cb=20190920225523",
-    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/33/Byleth_Tested_Professor_BtlFace_D.webp/revision/latest?cb=20190920225527"
+    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/33/Byleth_Tested_Professor_BtlFace_D.webp/revision/latest?cb=20190920225527",
+    "art_resp_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/99/Byleth_Tested_Professor_Resplendent_Face.webp/revision/latest?cb=20260417042616",
+    "art_resp_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/4d/Byleth_Tested_Professor_Resplendent_BtlFace.webp/revision/latest?cb=20260417042551",
+    "art_resp_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d3/Byleth_Tested_Professor_Resplendent_BtlFace_C.webp/revision/latest?cb=20260417042607",
+    "art_resp_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c1/Byleth_Tested_Professor_Resplendent_BtlFace_D.webp/revision/latest?cb=20260417042612"
   },
   {
     "id": "PID_伝承ベレス",
@@ -1520,6 +1524,13 @@
     "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/34/Clarisse_Sniper_in_the_Dark_BtlFace.webp/revision/latest?cb=20190920205615",
     "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/ce/Clarisse_Sniper_in_the_Dark_BtlFace_C.webp/revision/latest?cb=20190920205620",
     "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/ad/Clarisse_Sniper_in_the_Dark_BtlFace_D.webp/revision/latest?cb=20190920205625"
+  },
+  {
+    "id": "PID_聖戦クロード",
+    "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e5/Claud_Priest_of_Edda_Face.webp/revision/latest?cb=20260417042431",
+    "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/91/Claud_Priest_of_Edda_BtlFace.webp/revision/latest?cb=20260417042407",
+    "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/be/Claud_Priest_of_Edda_BtlFace_C.webp/revision/latest?cb=20260417042422",
+    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/10/Claud_Priest_of_Edda_BtlFace_D.webp/revision/latest?cb=20260417042425"
   },
   {
     "id": "PID_総選挙クロード",
@@ -4952,6 +4963,13 @@
     "art_resp_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/36/Lachesis_Lionhearts_Sister_Resplendent_BtlFace_D.webp/revision/latest?cb=20220406035645"
   },
   {
+    "id": "PID_響心ラケシス",
+    "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/9c/Lachesis_Loving_Sister_Face.webp/revision/latest?cb=20260417042321",
+    "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/88/Lachesis_Loving_Sister_BtlFace.webp/revision/latest?cb=20260417042257",
+    "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b3/Lachesis_Loving_Sister_BtlFace_C.webp/revision/latest?cb=20260417042312",
+    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f3/Lachesis_Loving_Sister_BtlFace_D.webp/revision/latest?cb=20260417042316"
+  },
+  {
     "id": "PID_水着レーギャルン",
     "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/69/Laegjarn_Burning_Sun_Face.webp/revision/latest?cb=20190920224928",
     "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/81/Laegjarn_Burning_Sun_BtlFace.webp/revision/latest?cb=20190920224933",
@@ -5021,6 +5039,13 @@
     "art_resp_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/cb/Laevatein_Searing_Steel_Resplendent_BtlFace.webp/revision/latest?cb=20250815053428",
     "art_resp_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/31/Laevatein_Searing_Steel_Resplendent_BtlFace_C.webp/revision/latest?cb=20250815053444",
     "art_resp_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/7c/Laevatein_Searing_Steel_Resplendent_BtlFace_D.webp/revision/latest?cb=20250815053449"
+  },
+  {
+    "id": "PID_レイミア",
+    "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/aa/Lamia_Hellspawn_Face.webp/revision/latest?cb=20260417042541",
+    "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c1/Lamia_Hellspawn_BtlFace.webp/revision/latest?cb=20260417042516",
+    "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/08/Lamia_Hellspawn_BtlFace_C.webp/revision/latest?cb=20260417042531",
+    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/92/Lamia_Hellspawn_BtlFace_D.webp/revision/latest?cb=20260417042536"
   },
   {
     "id": "PID_花嫁ラナ",
@@ -6840,6 +6865,13 @@
     "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f0/Nanna_Nordion_Princess_BtlFace.webp/revision/latest?cb=20190920214335",
     "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e3/Nanna_Nordion_Princess_BtlFace_C.webp/revision/latest?cb=20190920214340",
     "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f2/Nanna_Nordion_Princess_BtlFace_D.webp/revision/latest?cb=20190920214345"
+  },
+  {
+    "id": "PID_ノイッシュ",
+    "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/3d/Naoise_Crimson_Chivalry_Face.webp/revision/latest?cb=20260417042506",
+    "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/08/Naoise_Crimson_Chivalry_BtlFace.webp/revision/latest?cb=20260417042441",
+    "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/84/Naoise_Crimson_Chivalry_BtlFace_C.webp/revision/latest?cb=20260417042457",
+    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c2/Naoise_Crimson_Chivalry_BtlFace_D.webp/revision/latest?cb=20260417042500"
   },
   {
     "id": "PID_春祭ナーシェン",
@@ -8814,6 +8846,13 @@
     "art_resp_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/75/Sigurd_Holy_Knight_Resplendent_BtlFace.webp/revision/latest?cb=20230607045701",
     "art_resp_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/2/27/Sigurd_Holy_Knight_Resplendent_BtlFace_C.webp/revision/latest?cb=20230607045716",
     "art_resp_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/40/Sigurd_Holy_Knight_Resplendent_BtlFace_D.webp/revision/latest?cb=20230607045721"
+  },
+  {
+    "id": "PID_比翼シグルド2",
+    "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/da/Sigurd_Honorable_Nobles_Face.webp/revision/latest?cb=20260417042356",
+    "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/5d/Sigurd_Honorable_Nobles_BtlFace.webp/revision/latest?cb=20260417042331",
+    "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/6f/Sigurd_Honorable_Nobles_BtlFace_C.webp/revision/latest?cb=20260417042346",
+    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c1/Sigurd_Honorable_Nobles_BtlFace_D.webp/revision/latest?cb=20260417042350"
   },
   {
     "id": "PID_紋章シグルド",
