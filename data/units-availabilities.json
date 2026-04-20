@@ -42096,9 +42096,11 @@
       "hg": false,
       "dc": false,
       "ldc": false,
-      "foc": false
+      "foc": true
     },
-    "lowest_rarity": {},
+    "lowest_rarity": {
+      "foc": 5
+    },
     "skill_ids": [
       "DUO_PID_比翼シグルド2",
       "SID_グランベルの聖光",

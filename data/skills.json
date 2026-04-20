@@ -555,6 +555,7 @@
   },
   {
     "id": "SID_攻守鼓譟・奪取無効",
+    "game8_id": "595101",
     "fandom_id": "A/D Outcry Seize",
     "name": "A/D Outcry Seize",
     "category": "passivec",
@@ -585,6 +586,7 @@
   },
   {
     "id": "SID_攻守突破・対抗",
+    "game8_id": "595099",
     "fandom_id": "A/D Rival Break",
     "name": "A/D Rival Break",
     "category": "passivea",
@@ -1995,6 +1997,7 @@
   },
   {
     "id": "SID_攻速突破・対抗",
+    "game8_id": "595098",
     "fandom_id": "A/S Rival Break",
     "name": "A/S Rival Break",
     "category": "passivea",
@@ -6967,6 +6970,7 @@
   },
   {
     "id": "SID_エルト兄様のような",
+    "game8_id": "595100",
     "fandom_id": "As Eldie Would",
     "name": "As Eldie Would",
     "category": "passiveb",
@@ -45989,6 +45993,7 @@
   },
   {
     "id": "SID_業火静水の招福",
+    "game8_id": "595096",
     "fandom_id": "Fireflood Charm",
     "name": "Fireflood Charm",
     "category": "special",
@@ -49210,6 +49215,7 @@
   },
   {
     "id": "SID_鍛錬の剣",
+    "game8_id": "595090",
     "fandom_id": "Forged Sword",
     "name": "Forged Sword",
     "category": "weapon",
@@ -49240,6 +49246,7 @@
   },
   {
     "id": "SID_鍛錬の剣＋",
+    "game8_id": "595091",
     "fandom_id": "Forged Sword+",
     "name": "Forged Sword+",
     "category": "weapon",
@@ -59998,6 +60005,7 @@
   },
   {
     "id": "SID_グランベルの聖光",
+    "game8_id": "595097",
     "fandom_id": "Holy-Knight Glow",
     "name": "Holy-Knight Glow",
     "category": "special",
@@ -68777,6 +68785,7 @@
   },
   {
     "id": "SID_獅子王の斧",
+    "game8_id": "595092",
     "fandom_id": "Lionheart Axe",
     "name": "Lionheart Axe",
     "category": "weapon",
@@ -76202,6 +76211,7 @@
   },
   {
     "id": "SID_誓約ティルフィング",
+    "game8_id": "595095",
     "fandom_id": "Oath Tyrfing",
     "name": "Oath Tyrfing",
     "category": "weapon",
@@ -81812,6 +81822,7 @@
   },
   {
     "id": "SID_響・超神速",
+    "game8_id": "595102",
     "fandom_id": "Puissant Echo",
     "name": "Puissant Echo",
     "category": "passivex",
@@ -95091,6 +95102,7 @@
   },
   {
     "id": "SID_枷の槍",
+    "game8_id": "595094",
     "fandom_id": "Shackle Lance",
     "name": "Shackle Lance",
     "category": "weapon",
@@ -95121,6 +95133,7 @@
   },
   {
     "id": "SID_枷の槍＋",
+    "game8_id": "595093",
     "fandom_id": "Shackle Lance+",
     "name": "Shackle Lance+",
     "category": "weapon",
@@ -117541,6 +117554,7 @@
   },
   {
     "id": "SID_バルキリー",
+    "game8_id": "595089",
     "fandom_id": "Valkyrie",
     "name": "Valkyrie",
     "category": "weapon",
@@ -147206,7 +147220,7 @@
   },
   {
     "id": "DUO_PID_比翼シグルド2",
-    "game8_id": null,
+    "game8_id": "595106",
     "fandom_id": "Sigurd: Honorable Nobles",
     "name": "Sigurd: Honorable Nobles",
     "category": "duo",

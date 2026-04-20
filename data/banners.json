@@ -347,6 +347,17 @@
     ]
   },
   {
+    "name": "A Hero Rises: Next Six (2026)",
+    "unit_ids": [
+      "PID_シャロン22025味方",
+      "PID_伝承漆黒の騎士",
+      "PID_双界総選挙リン",
+      "PID_年明ヴァーリ",
+      "PID_救世アルフォンス",
+      "PID_比翼グルヴェイグ2"
+    ]
+  },
+  {
     "name": "A Monstrous Harvest / Treat Fiends (Focus)",
     "unit_ids": [
       "PID_ハロイレース",
@@ -944,6 +955,15 @@
       "PID_神階アトス",
       "PID_神階ヘイズ",
       "PID_魔器エル"
+    ]
+  },
+  {
+    "name": "Duo Sigurd & Attuned Lachesis",
+    "unit_ids": [
+      "PID_ノイッシュ",
+      "PID_比翼シグルド2",
+      "PID_聖戦クロード",
+      "PID_響心ラケシス"
     ]
   },
   {
@@ -2617,6 +2637,14 @@
     ]
   },
   {
+    "name": "Focus: Farina & Fiora's Battle",
+    "unit_ids": [
+      "PID_ファリナ",
+      "PID_フィオーラ",
+      "PID_フロリーナ"
+    ]
+  },
+  {
     "name": "Focus: Fated Battles",
     "unit_ids": [
       "PID_シグルド",
@@ -2782,6 +2810,15 @@
       "PID_愛の祭タクミ",
       "PID_愛の祭レオン",
       "PID_比翼カムイ女"
+    ]
+  },
+  {
+    "name": "Focus: Hall of Forms (Apr 2026)",
+    "unit_ids": [
+      "PID_伝承エリンシア",
+      "PID_忍者ゼルギウス",
+      "PID_忍者ヘザー",
+      "PID_比翼サナキ"
     ]
   },
   {
@@ -8065,6 +8102,14 @@
       "PID_魔器アイト味方",
       "PID_魔器ターナ",
       "PID_魔器闇クロム"
+    ]
+  },
+  {
+    "name": "Focus: Weekly Revival 123",
+    "unit_ids": [
+      "PID_闇ハイドラ",
+      "PID_闇ベレス",
+      "PID_闇マリア"
     ]
   },
   {

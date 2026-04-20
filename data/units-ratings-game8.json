@@ -9553,5 +9553,40 @@
     "recommended_boon": "atk",
     "recommended_bane": "spd",
     "recommended_plus10": null
+  },
+  {
+    "id": "PID_響心ラケシス",
+    "game8_rating": "9.0",
+    "recommended_boon": "spd",
+    "recommended_bane": "res",
+    "recommended_plus10": null
+  },
+  {
+    "id": "PID_聖戦クロード",
+    "game8_rating": "9.0",
+    "recommended_boon": "res",
+    "recommended_bane": "def",
+    "recommended_plus10": null
+  },
+  {
+    "id": "PID_ノイッシュ",
+    "game8_rating": "8.5",
+    "recommended_boon": "atk",
+    "recommended_bane": "res",
+    "recommended_plus10": null
+  },
+  {
+    "id": "PID_比翼シグルド2",
+    "game8_rating": "9.5",
+    "recommended_boon": "def",
+    "recommended_bane": "res",
+    "recommended_plus10": null
+  },
+  {
+    "id": "PID_レイミア",
+    "game8_rating": "8.5",
+    "recommended_boon": "spd",
+    "recommended_bane": "res",
+    "recommended_plus10": null
   }
 ]
