@@ -68766,6 +68766,102 @@
     "unlock": 2
   },
   {
+    "unit_id": "PID_伝承リオン",
+    "skill_id": "SID_流星",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_伝承リオン",
+    "skill_id": "SID_攻撃魔防の疑惧",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_伝承リオン",
+    "skill_id": "SID_彗星",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_伝承リオン",
+    "skill_id": "SID_エルウインド",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_伝承リオン",
+    "skill_id": "SID_星影",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_伝承リオン",
+    "skill_id": "SID_鍛錬の鼓動・謀策",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_伝承リオン",
+    "skill_id": "SID_レクスカリバー",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_伝承リオン",
+    "skill_id": "SID_魔防の混乱1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_伝承リオン",
+    "skill_id": "SID_魔防の混乱2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_伝承リオン",
+    "skill_id": "SID_魔防の混乱3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_伝承リオン",
+    "skill_id": "SID_真鈍色の迷夢",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_伝承リオン",
+    "skill_id": "SID_黒白ナグルファル",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_伝承リオン",
+    "skill_id": "SID_始まりの鼓動1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_伝承リオン",
+    "skill_id": "SID_始まりの鼓動2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_伝承リオン",
+    "skill_id": "SID_始まりの鼓動3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_伝承リオン",
+    "skill_id": "SID_ウインド",
+    "default": 1,
+    "unlock": 1
+  },
+  {
     "unit_id": "PID_年明リィレ",
     "skill_id": "SID_成獣の化身・騎馬",
     "default": 4,
@@ -102306,6 +102402,102 @@
     "unlock": 5
   },
   {
+    "unit_id": "PID_神階ソンブル",
+    "skill_id": "SID_攻守魔の竜尾",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_神階ソンブル",
+    "skill_id": "SID_重装の双氷",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_神階ソンブル",
+    "skill_id": "SID_氷点",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_神階ソンブル",
+    "skill_id": "SID_守備魔防の竜眼1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_神階ソンブル",
+    "skill_id": "SID_守備魔防の竜眼2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_神階ソンブル",
+    "skill_id": "SID_守備魔防の竜眼3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_神階ソンブル",
+    "skill_id": "SID_常闇の結界",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_神階ソンブル",
+    "skill_id": "SID_邪竜ノ波動",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_神階ソンブル",
+    "skill_id": "SID_火のブレス",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_神階ソンブル",
+    "skill_id": "SID_火炎のブレス",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_神階ソンブル",
+    "skill_id": "SID_灼熱のブレス",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_神階ソンブル",
+    "skill_id": "SID_氷華",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_神階ソンブル",
+    "skill_id": "SID_奥義隊形・竜眼",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_神階ソンブル",
+    "skill_id": "SID_奥義隊形1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_神階ソンブル",
+    "skill_id": "SID_奥義隊形2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_神階ソンブル",
+    "skill_id": "SID_奥義隊形3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
     "unit_id": "PID_ソーニャ",
     "skill_id": "SID_ブラーサーペント",
     "default": 4,
@@ -114200,7 +114392,7 @@
   {
     "unit_id": "PID_ハタリチェイニー",
     "skill_id": "SID_治癒",
-    "default": 0,
+    "default": 4,
     "unlock": 2
   },
   {
@@ -114212,7 +114404,7 @@
   {
     "unit_id": "PID_ハタリチェイニー",
     "skill_id": "SID_祈り",
-    "default": 4,
+    "default": 0,
     "unlock": 3
   },
   {

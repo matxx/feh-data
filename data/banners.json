@@ -347,17 +347,6 @@
     ]
   },
   {
-    "name": "A Hero Rises: Next Six (2026)",
-    "unit_ids": [
-      "PID_シャロン22025味方",
-      "PID_伝承漆黒の騎士",
-      "PID_双界総選挙リン",
-      "PID_年明ヴァーリ",
-      "PID_救世アルフォンス",
-      "PID_比翼グルヴェイグ2"
-    ]
-  },
-  {
     "name": "A Monstrous Harvest / Treat Fiends (Focus)",
     "unit_ids": [
       "PID_ハロイレース",
@@ -2032,6 +2021,19 @@
     ]
   },
   {
+    "name": "Focus: Double Special Heroes (Apr 2026)",
+    "unit_ids": [
+      "PID_ハロスクリミル",
+      "PID_フェリアホリン",
+      "PID_冬祭アルフレッド",
+      "PID_冬祭門番",
+      "PID_双界アイビー",
+      "PID_忍者シェズ女",
+      "PID_忍者ユナカ",
+      "PID_比翼フレイヤ"
+    ]
+  },
+  {
     "name": "Focus: Double Special Heroes (Aug 2020)",
     "unit_ids": [
       "PID_年明アンナ",
@@ -3338,6 +3340,14 @@
       "PID_ティータ",
       "PID_ベルナデッタ",
       "PID_ミランダ"
+    ]
+  },
+  {
+    "name": "Focus: Heroes w/ Combat Boosts (Apr 2026)",
+    "unit_ids": [
+      "PID_フェリアクロム",
+      "PID_ミデェール",
+      "PID_開花マリク"
     ]
   },
   {
@@ -6472,6 +6482,22 @@
     ]
   },
   {
+    "name": "Focus: Polarity of Dragonkind 1",
+    "unit_ids": [
+      "PID_ギムレー女",
+      "PID_ニフル味方",
+      "PID_神階ミラ"
+    ]
+  },
+  {
+    "name": "Focus: Polarity of Dragonkind 2",
+    "unit_ids": [
+      "PID_ムスペル味方",
+      "PID_伝承リュール男",
+      "PID_神階ドーマ"
+    ]
+  },
+  {
     "name": "Focus: Princes",
     "unit_ids": [
       "PID_エフラム",
@@ -8113,6 +8139,14 @@
     ]
   },
   {
+    "name": "Focus: Weekly Revival 124",
+    "unit_ids": [
+      "PID_フェリクス",
+      "PID_レア",
+      "PID_魔器イングリット"
+    ]
+  },
+  {
     "name": "Focus: Weekly Revival 13",
     "unit_ids": [
       "PID_ターナ",
@@ -9150,6 +9184,17 @@
     ]
   },
   {
+    "name": "GW: A Hero Rises: Next Six (2026)",
+    "unit_ids": [
+      "PID_シャロン22025味方",
+      "PID_伝承漆黒の騎士",
+      "PID_双界総選挙リン",
+      "PID_年明ヴァーリ",
+      "PID_救世アルフォンス",
+      "PID_比翼グルヴェイグ2"
+    ]
+  },
+  {
     "name": "Happy New Year! (Focus)",
     "unit_ids": [
       "PID_年明けアクア",
@@ -9403,6 +9448,23 @@
       "PID_お茶会フェルディ",
       "PID_お茶会リシテア",
       "PID_双界アイラ"
+    ]
+  },
+  {
+    "name": "Leg. Lyon & Myth. Sombron",
+    "unit_ids": [
+      "PID_お供ルーテ",
+      "PID_イリアワユ",
+      "PID_伝承エリーゼ",
+      "PID_伝承リオン",
+      "PID_双界総選挙ヘクトル",
+      "PID_愛の祭セリーヌ",
+      "PID_神階ソンブル",
+      "PID_神階チキ覚醒",
+      "PID_紋章エイリーク",
+      "PID_紋章エーデル",
+      "PID_紋章ベレト",
+      "PID_魔器リシテア"
     ]
   },
   {

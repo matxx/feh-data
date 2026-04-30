@@ -41,6 +41,7 @@
     "【Assign Decoy】<br>If foe's Range = unit's Range and foe initiates combat against an ally within 2 spaces of unit, triggers【Savior】on unit (that turn only; triggers only if unit is not equipped with a skill that can trigger the Savior effect).",
     "【Assign Decoy】<br>If foe's Range = unit's Range and foe initiates combat against an ally within 2 spaces of unit, triggers【Savior】on unit (triggers only if unit is not equipped with a skill that can trigger the Savior effect).",
     "【Atk Liberate】<br>Grants bonus to Atk during combat = number of【Bonus】effects active on unit, excluding stat bonuses, + 4 (max 8).",
+    "【Atk Shackle】<br>Inflicts penalty on unit's Atk during combat = number of Penalty effects active on unit + 4, excluding stat penalties (max 8).",
     "【Beast (Cavalry)】<br>At start of turn, if unit is adjacent to only beast or dragon allies or if unit is not adjacent to any ally, unit transforms (otherwise, unit reverts). If unit transforms, grants Atk+2, and if unit initiates combat, inflicts Atk/Def-4 on foe during combat and foe cannot make a follow-up attack.",
     "【Bonded】<br>Grants a status that can trigger certain skill effects to unit for 1 turn.",
     "【Bonus Doubler】<br>Grants bonus to Atk/Spd/Def/Res during combat = current bonus on each of unit's stats for 1 turn. Calculates each stat bonus independently.",
@@ -91,6 +92,7 @@
     "【Dagger ５】<br>After combat, if unit attacked, inflicts Def/Res-５ on target and foes within 2 spaces of target through their next actions.",
     "【Dagger ６】<br>After combat, if unit attacked, inflicts Def/Res-６ on target and foes within 2 spaces of target through their next actions.",
     "【Dagger ７】<br>After combat, if unit attacked, inflicts Def/Res-７ on target and foes within 2 spaces of target through their next actions.",
+    "【Dark Emblem】<br>Grants Atk/Spd/Def/Res+5 during combat.",
     "【Deep Star】<br>For 1 turn, if it is unit's first combat initiated by foe that turn, reduces damage from foe's first attack by 80% during combat (that turn only; \"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes).",
     "【Deep Wounds】<br>Unit's HP cannot be healed through its next action.",
     "【Def Shackle】<br>Inflicts penalty on unit's Def during combat = number of Penalty effects active on unit + 4, excluding stat penalties (max 8).",
@@ -223,7 +225,7 @@
     "【Vantage】<br>If foe initiates combat, unit can counterattack before foe's first attack for 1 turn.",
     "【Warp Bubble】<br>Foes cannot warp into spaces within 4 spaces of unit. (Does not affect foes with Pass skills or warp effects from structures, like camps and fortresses in Rival Domains.)"
   ],
-  "units_count": 1370,
+  "units_count": 1372,
   "units_max_hp": 60,
   "units_max_hp_ids": [
     "PID_アーダン"

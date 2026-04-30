@@ -697,6 +697,33 @@
     ]
   },
   {
+    "id": "SID_攻守魔の竜尾",
+    "game8_id": "597709",
+    "fandom_id": "A/D/R Slam",
+    "name": "A/D/R Slam",
+    "category": "passivea",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/52/A_D_R_Slam.png/revision/latest?cb=20260430075224",
+    "sp": 300,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "All Breath"
+        ]
+      }
+    },
+    "addition_date": "2026-04-30",
+    "release_date": "2026-04-30",
+    "version": "10.4",
+    "downgrade_ids": [
+      "SID_攻撃魔防の竜眼3",
+      "SID_守備魔防の竜眼3"
+    ]
+  },
+  {
     "id": "SID_兜の護り手・近・茨",
     "game8_id": "526827",
     "fandom_id": "A/R Briar N Save",
@@ -11815,6 +11842,7 @@
     "release_date": "2023-04-17",
     "version": "7.4",
     "upgrade_ids": [
+      "SID_攻守魔の竜尾",
       "SID_攻撃魔防の竜眼4"
     ],
     "downgrade_ids": [
@@ -12201,6 +12229,37 @@
     "version": "5.0",
     "downgrade_ids": [
       "SID_攻撃魔防の絆3"
+    ]
+  },
+  {
+    "id": "SID_攻撃魔防の疑惧",
+    "game8_id": "597711",
+    "fandom_id": "Atk/Res Unrest",
+    "name": "Atk/Res Unrest",
+    "category": "passiveb",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e5/Atk_Res_Unrest.png/revision/latest?cb=20260430075235",
+    "sp": 400,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Infantry"
+        ]
+      },
+      "weapons": {
+        "can_not_use": [
+          "All Melee",
+          "All Breath",
+          "All Beast"
+        ]
+      }
+    },
+    "addition_date": "2026-04-30",
+    "release_date": "2026-04-30",
+    "version": "10.4",
+    "downgrade_ids": [
+      "SID_攻撃の混乱3",
+      "SID_魔防の混乱3"
     ]
   },
   {
@@ -34927,6 +34986,7 @@
     "release_date": "2024-02-07",
     "version": "8.2",
     "upgrade_ids": [
+      "SID_攻守魔の竜尾",
       "SID_守備魔防の竜眼4"
     ],
     "downgrade_ids": [
@@ -44776,6 +44836,20 @@
     "version": "1.0"
   },
   {
+    "id": "SID_常闇の結界",
+    "game8_id": "597712",
+    "fandom_id": "Fell Barrier",
+    "name": "Fell Barrier",
+    "category": "passivec",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/5c/Fell_Barrier.png/revision/latest?cb=20260430075245",
+    "is_prf": true,
+    "sp": 300,
+    "tier": 1,
+    "addition_date": "2026-04-30",
+    "release_date": "2026-04-30",
+    "version": "10.4"
+  },
+  {
     "id": "SID_邪竜破",
     "game8_id": "520600",
     "fandom_id": "Fell Blast",
@@ -45027,6 +45101,25 @@
     "addition_date": "2024-05-07",
     "release_date": "2024-05-08",
     "version": "8.5"
+  },
+  {
+    "id": "SID_邪竜ノ波動",
+    "game8_id": "597707",
+    "fandom_id": "Fell Surge",
+    "name": "Fell Surge",
+    "category": "weapon",
+    "weapon_type": "All Breath",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "range": 1,
+    "might": 16,
+    "addition_date": "2026-04-30",
+    "release_date": "2026-04-30",
+    "version": "10.4",
+    "downgrade_ids": [
+      "SID_灼熱のブレス"
+    ]
   },
   {
     "id": "SID_戦神の魔書",
@@ -47013,6 +47106,7 @@
       "SID_邪神のブレス",
       "SID_邪竜の御子の体術",
       "SID_邪竜石・屠",
+      "SID_邪竜ノ波動",
       "SID_絶炎のブレス",
       "SID_灼熱のブレス＋",
       "SID_氷晶のブレス",
@@ -88939,6 +89033,7 @@
       "SID_天聖エンジェル",
       "SID_セイズ",
       "SID_暁星の輝き",
+      "SID_黒白ナグルファル",
       "SID_ストゥングの神秘",
       "SID_柔風エクスカリバー",
       "SID_儚く優しい心の器",
@@ -91624,6 +91719,7 @@
       "SID_攻撃守備の不和",
       "SID_攻撃魔防の不和",
       "SID_攻撃魔防の大混乱",
+      "SID_攻撃魔防の疑惧",
       "SID_攻撃守備の混乱3",
       "SID_攻撃魔防の混乱3"
     ],
@@ -91786,6 +91882,7 @@
     "upgrade_ids": [
       "SID_攻撃魔防の不和",
       "SID_攻撃魔防の大混乱",
+      "SID_攻撃魔防の疑惧",
       "SID_守備魔防の不和",
       "SID_攻撃魔防の混乱3",
       "SID_速さ魔防の混乱3",
@@ -98136,6 +98233,20 @@
     "downgrade_ids": [
       "SID_銀の弓"
     ]
+  },
+  {
+    "id": "SID_真鈍色の迷夢",
+    "game8_id": "597710",
+    "fandom_id": "Slate Illusion",
+    "name": "Slate Illusion",
+    "category": "passivea",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/40/Slate_Illusion.png/revision/latest?cb=20260430075214",
+    "is_prf": true,
+    "sp": 300,
+    "tier": 1,
+    "addition_date": "2026-04-30",
+    "release_date": "2026-04-30",
+    "version": "10.4"
   },
   {
     "id": "SID_キラーアクス2",
@@ -107790,6 +107901,25 @@
     ]
   },
   {
+    "id": "SID_黒白ナグルファル",
+    "game8_id": "597708",
+    "fandom_id": "Stark Naglfar",
+    "name": "Stark Naglfar",
+    "category": "weapon",
+    "weapon_type": "Green Tome",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "range": 2,
+    "might": 14,
+    "addition_date": "2026-04-30",
+    "release_date": "2026-04-30",
+    "version": "10.4",
+    "downgrade_ids": [
+      "SID_レクスカリバー"
+    ]
+  },
+  {
     "id": "SID_星夜の魔術師の竜石",
     "game8_id": "393010",
     "fandom_id": "Starlight Stone",
@@ -111292,6 +111422,7 @@
   },
   {
     "id": "SID_攻速無欠・鬼没",
+    "game8_id": "580789",
     "fandom_id": "Swift Specter",
     "name": "Swift Specter",
     "category": "passivea",

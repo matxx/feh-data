@@ -28233,6 +28233,38 @@
     ]
   },
   {
+    "id": "PID_伝承リオン",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "lowest_rarity": {
+      "foc": 5
+    },
+    "skill_ids": [
+      "SID_ウインド",
+      "SID_エルウインド",
+      "SID_レクスカリバー",
+      "SID_始まりの鼓動1",
+      "SID_始まりの鼓動2",
+      "SID_始まりの鼓動3",
+      "SID_彗星",
+      "SID_攻撃魔防の疑惧",
+      "SID_星影",
+      "SID_流星",
+      "SID_真鈍色の迷夢",
+      "SID_鍛錬の鼓動・謀策",
+      "SID_魔防の混乱1",
+      "SID_魔防の混乱2",
+      "SID_魔防の混乱3",
+      "SID_黒白ナグルファル"
+    ]
+  },
+  {
     "id": "PID_年明リィレ",
     "is_in": {
       "gsp": false,
@@ -42524,6 +42556,38 @@
       "SID_魔防の混乱1",
       "SID_魔防の混乱2",
       "SID_魔防の混乱3"
+    ]
+  },
+  {
+    "id": "PID_神階ソンブル",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "lowest_rarity": {
+      "foc": 5
+    },
+    "skill_ids": [
+      "SID_奥義隊形1",
+      "SID_奥義隊形2",
+      "SID_奥義隊形3",
+      "SID_奥義隊形・竜眼",
+      "SID_守備魔防の竜眼1",
+      "SID_守備魔防の竜眼2",
+      "SID_守備魔防の竜眼3",
+      "SID_常闇の結界",
+      "SID_攻守魔の竜尾",
+      "SID_氷点",
+      "SID_氷華",
+      "SID_火のブレス",
+      "SID_火炎のブレス",
+      "SID_灼熱のブレス",
+      "SID_邪竜ノ波動",
+      "SID_重装の双氷"
     ]
   },
   {

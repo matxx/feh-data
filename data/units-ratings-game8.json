@@ -9588,5 +9588,19 @@
     "recommended_boon": "spd",
     "recommended_bane": "res",
     "recommended_plus10": null
+  },
+  {
+    "id": "PID_神階ソンブル",
+    "game8_rating": "9.5",
+    "recommended_boon": "atk",
+    "recommended_bane": "spd",
+    "recommended_plus10": null
+  },
+  {
+    "id": "PID_伝承リオン",
+    "game8_rating": "9.5",
+    "recommended_boon": "res",
+    "recommended_bane": "spd",
+    "recommended_plus10": null
   }
 ]
