@@ -5217,6 +5217,14 @@
     ]
   },
   {
+    "name": "Focus: Legendary Revival 7",
+    "unit_ids": [
+      "PID_伝承エリウッド",
+      "PID_伝承クロム",
+      "PID_伝承セリカ"
+    ]
+  },
+  {
     "name": "Focus: Leif & Altena's Battle",
     "unit_ids": [
       "PID_アルテナ",
@@ -6177,6 +6185,15 @@
       "PID_ルイーズ",
       "PID_冬祭ベルナデッタ",
       "PID_闇マーク男"
+    ]
+  },
+  {
+    "name": "Focus: New Power (May 2026)",
+    "unit_ids": [
+      "PID_ニイメ",
+      "PID_マーシャ",
+      "PID_レナック",
+      "PID_比翼エイリーク"
     ]
   },
   {
@@ -8147,6 +8164,14 @@
     ]
   },
   {
+    "name": "Focus: Weekly Revival 125",
+    "unit_ids": [
+      "PID_総選挙カムイ女",
+      "PID_総選挙ルフレ男",
+      "PID_魔器アイト味方"
+    ]
+  },
+  {
     "name": "Focus: Weekly Revival 13",
     "unit_ids": [
       "PID_ターナ",
@@ -9192,6 +9217,19 @@
       "PID_年明ヴァーリ",
       "PID_救世アルフォンス",
       "PID_比翼グルヴェイグ2"
+    ]
+  },
+  {
+    "name": "GW: ω CYL Heroes (2026)",
+    "unit_ids": [
+      "PID_総選挙アルフォンス",
+      "PID_総選挙エイクス",
+      "PID_総選挙シャロン",
+      "PID_総選挙バルドル",
+      "PID_総選挙フェリクス",
+      "PID_総選挙ベルナデッタ",
+      "PID_総選挙ベレト",
+      "PID_総選挙ルフレ女"
     ]
   },
   {
@@ -12946,6 +12984,15 @@
       "PID_ローレンツ",
       "PID_救世アルフォンス",
       "PID_魔器リシテア"
+    ]
+  },
+  {
+    "name": "Rearmed Canis & Rearmed Tibarn",
+    "unit_ids": [
+      "PID_闇アイビー",
+      "PID_闇ベレト",
+      "PID_魔器闇エルフ",
+      "PID_魔器闇ティバーン"
     ]
   },
   {

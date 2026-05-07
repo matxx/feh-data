@@ -9602,5 +9602,40 @@
     "recommended_boon": "res",
     "recommended_bane": "spd",
     "recommended_plus10": null
+  },
+  {
+    "id": "PID_闇ベレト",
+    "game8_rating": "9.5",
+    "recommended_boon": "spd",
+    "recommended_bane": "res",
+    "recommended_plus10": null
+  },
+  {
+    "id": "PID_闇アイビー",
+    "game8_rating": "9.5",
+    "recommended_boon": "res",
+    "recommended_bane": "def",
+    "recommended_plus10": null
+  },
+  {
+    "id": "PID_魔器闇エルフ",
+    "game8_rating": "9.5",
+    "recommended_boon": "spd",
+    "recommended_bane": "def",
+    "recommended_plus10": null
+  },
+  {
+    "id": "PID_魔器闇ティバーン",
+    "game8_rating": "9.5",
+    "recommended_boon": "def",
+    "recommended_bane": "res",
+    "recommended_plus10": null
+  },
+  {
+    "id": "PID_闇マイクラン",
+    "game8_rating": "9.0",
+    "recommended_boon": "atk",
+    "recommended_bane": "spd",
+    "recommended_plus10": null
   }
 ]

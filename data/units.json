@@ -3033,6 +3033,7 @@
     "origin": "120000200600",
     "book": 7,
     "max_df": 20,
+    "is_tt": true,
     "is_special": true,
     "addition_date": "2023-03-06",
     "release_date": "2023-03-07",
@@ -3637,6 +3638,35 @@
     "bst": 204,
     "visible_bst": 208,
     "max_score": 770,
+    "skills_max_sp": 2600
+  },
+  {
+    "id": "PID_闇ベレト",
+    "fandom_id": "Byleth: Ashen Nightmare",
+    "name": "Byleth",
+    "title": "Ashen Nightmare",
+    "full_name": "Byleth: Ashen Nightmare",
+    "abbreviated_name": "Gr!Byleth(M)",
+    "theme": "wedding",
+    "gender": "M",
+    "move_type": "Infantry",
+    "weapon_type": "Green Tome",
+    "games": [
+      "Fire Emblem Warriors: Three Hopes"
+    ],
+    "id_int": 1375,
+    "origin": "120000100100",
+    "book": 10,
+    "max_df": 5,
+    "is_special": true,
+    "addition_date": "2026-05-07",
+    "release_date": "2026-05-07",
+    "version": "10.5",
+    "game8_id": "598805",
+    "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/cf/Byleth_Ashen_Nightmare_Face_FC.webp/revision/latest?cb=20260507051920",
+    "bst": 194,
+    "visible_bst": 198,
+    "max_score": 766,
     "skills_max_sp": 2600
   },
   {
@@ -4639,6 +4669,35 @@
     "bst": 188,
     "visible_bst": 192,
     "max_score": 762,
+    "skills_max_sp": 2550
+  },
+  {
+    "id": "PID_魔器闇エルフ",
+    "fandom_id": "Canis: Ill Portent",
+    "name": "Canis",
+    "title": "Ill Portent",
+    "full_name": "Canis: Ill Portent",
+    "abbreviated_name": "R!Canis",
+    "gender": "F",
+    "move_type": "Infantry",
+    "weapon_type": "Red Tome",
+    "games": [
+      "Fire Emblem: Genealogy of the Holy War",
+      "Fire Emblem: Thracia 776"
+    ],
+    "id_int": 1373,
+    "origin": "040004941100",
+    "book": 10,
+    "max_df": 5,
+    "is_rearmed": true,
+    "addition_date": "2026-05-07",
+    "release_date": "2026-05-07",
+    "version": "10.5",
+    "game8_id": "598807",
+    "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/6d/Canis_Ill_Portent_Face_FC.webp/revision/latest?cb=20260507051810",
+    "bst": 193,
+    "visible_bst": 197,
+    "max_score": 764,
     "skills_max_sp": 2550
   },
   {
@@ -6224,6 +6283,7 @@
     "origin": "030000400500",
     "book": 10,
     "max_df": 5,
+    "is_generic_pool": true,
     "addition_date": "2026-04-17",
     "release_date": "2026-04-17",
     "version": "10.4",
@@ -17897,6 +17957,35 @@
     "skills_max_sp": 2600
   },
   {
+    "id": "PID_闇アイビー",
+    "fandom_id": "Ivy: Bewitching Ruler",
+    "name": "Ivy",
+    "title": "Bewitching Ruler",
+    "full_name": "Ivy: Bewitching Ruler",
+    "abbreviated_name": "Br!Ivy",
+    "theme": "wedding",
+    "gender": "F",
+    "move_type": "Flying",
+    "weapon_type": "Colorless Tome",
+    "games": [
+      "Fire Emblem Engage"
+    ],
+    "id_int": 1376,
+    "origin": "140000400200",
+    "book": 10,
+    "max_df": 5,
+    "is_special": true,
+    "addition_date": "2026-05-07",
+    "release_date": "2026-05-07",
+    "version": "10.5",
+    "game8_id": "598806",
+    "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/64/Ivy_Bewitching_Ruler_Face_FC.webp/revision/latest?cb=20260507052030",
+    "bst": 189,
+    "visible_bst": 193,
+    "max_score": 764,
+    "skills_max_sp": 2600
+  },
+  {
     "id": "PID_双界アイビー",
     "fandom_id": "Ivy: Flurry Embrace",
     "name": "Ivy",
@@ -23835,6 +23924,7 @@
     "origin": "060000100200",
     "book": 2,
     "max_df": 40,
+    "has_respl": true,
     "is_legendary": true,
     "element": "Wind",
     "addition_date": "2018-04-27",
@@ -23842,6 +23932,7 @@
     "version": "2.4",
     "game8_id": "267338",
     "guide_id": "lyn_lady_of_the_wind",
+    "fehpass_id": "00001002000245",
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d7/Lyn_Lady_of_the_Wind_Face_FC.webp/revision/latest?cb=20190920214709",
     "image_url_for_icon_legendary": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/3d/Legendary_Effect_Wind.png/revision/latest?cb=20260330030652",
     "bst": 151,
@@ -24149,6 +24240,7 @@
     "release_date": "2026-04-30",
     "version": "10.4",
     "game8_id": "597715",
+    "guide_id": "07003001001372-2",
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/5c/Lyon_Twilight_Amends_Face_FC.webp/revision/latest?cb=20260430041827",
     "image_url_for_icon_legendary": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/87/Legendary_Effect_Earth.png/revision/latest?cb=20260330031645",
     "bst": 193,
@@ -24571,8 +24663,8 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/06/Marcia_Petulant_Knight_Face_FC.webp/revision/latest?cb=20211117050446",
     "bst": 177,
     "visible_bst": 181,
-    "max_score": 758,
-    "skills_max_sp": 2550
+    "max_score": 760,
+    "skills_max_sp": 2600
   },
   {
     "id": "PID_マーカス",
@@ -26407,6 +26499,34 @@
     "skills_max_sp": 2600
   },
   {
+    "id": "PID_闇マイクラン",
+    "fandom_id": "Miklan: Destitute Rebel",
+    "name": "Miklan",
+    "title": "Destitute Rebel",
+    "full_name": "Miklan: Destitute Rebel",
+    "abbreviated_name": "Miklan",
+    "gender": "M",
+    "move_type": "Armored",
+    "weapon_type": "Blue Beast",
+    "games": [
+      "Fire Emblem: Three Houses"
+    ],
+    "id_int": 1377,
+    "origin": "120000900530",
+    "book": 10,
+    "max_df": 5,
+    "is_ghb": true,
+    "addition_date": "2026-05-07",
+    "release_date": "2026-05-08",
+    "version": "10.5",
+    "game8_id": "598809",
+    "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/75/Miklan_Destitute_Rebel_Face_FC.webp/revision/latest?cb=20260507051955",
+    "bst": 211,
+    "visible_bst": 215,
+    "max_score": 772,
+    "skills_max_sp": 2540
+  },
+  {
     "id": "PID_夢ミコト",
     "fandom_id": "Mikoto: Caring Mother",
     "name": "Mikoto",
@@ -27868,6 +27988,7 @@
     "origin": "030000100700",
     "book": 10,
     "max_df": 5,
+    "is_generic_pool": true,
     "addition_date": "2026-04-17",
     "release_date": "2026-04-17",
     "version": "10.4",
@@ -28565,8 +28686,8 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/63/Niime_Mountain_Hermit_Face_FC.webp/revision/latest?cb=20220218063651",
     "bst": 171,
     "visible_bst": 180,
-    "max_score": 758,
-    "skills_max_sp": 2550
+    "max_score": 760,
+    "skills_max_sp": 2600
   },
   {
     "id": "PID_ゼロ",
@@ -31873,8 +31994,8 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/6c/Rennac_Rich_Merchant_Face_FC.webp/revision/latest?cb=20220106043920",
     "bst": 177,
     "visible_bst": 181,
-    "max_score": 758,
-    "skills_max_sp": 2550
+    "max_score": 760,
+    "skills_max_sp": 2600
   },
   {
     "id": "PID_リュシオン",
@@ -36115,6 +36236,7 @@
     "release_date": "2026-04-30",
     "version": "10.4",
     "game8_id": "597714",
+    "guide_id": "14009001001371-2",
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/2/21/Sombron_Fell_Dragon_King_Face_FC.webp/revision/latest?cb=20260430041902",
     "image_url_for_icon_mythic": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b8/Mythic_Effect_Anima_03.png/revision/latest?cb=20260330040834",
     "bst": 212,
@@ -38137,6 +38259,34 @@
     "visible_bst": 180,
     "max_score": 758,
     "skills_max_sp": 2540
+  },
+  {
+    "id": "PID_魔器闇ティバーン",
+    "fandom_id": "Tibarn: Storm King",
+    "name": "Tibarn",
+    "title": "Storm King",
+    "full_name": "Tibarn: Storm King",
+    "abbreviated_name": "R!Tibarn",
+    "gender": "M",
+    "move_type": "Flying",
+    "weapon_type": "Blue Beast",
+    "games": [
+      "Fire Emblem: Radiant Dawn"
+    ],
+    "id_int": 1374,
+    "origin": "090000600100",
+    "book": 10,
+    "max_df": 5,
+    "is_rearmed": true,
+    "addition_date": "2026-05-07",
+    "release_date": "2026-05-07",
+    "version": "10.5",
+    "game8_id": "598808",
+    "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/4e/Tibarn_Storm_King_Face_FC.webp/revision/latest?cb=20260507051845",
+    "bst": 200,
+    "visible_bst": 204,
+    "max_score": 764,
+    "skills_max_sp": 2490
   },
   {
     "id": "PID_開花チキ",

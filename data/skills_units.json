@@ -10542,6 +10542,120 @@
     "unlock": 4
   },
   {
+    "unit_id": "PID_闇ベレト",
+    "skill_id": "SID_攻撃速さの詠唱",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_闇ベレト",
+    "skill_id": "SID_攻撃速さの絆1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_闇ベレト",
+    "skill_id": "SID_攻撃速さの絆2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_闇ベレト",
+    "skill_id": "SID_攻撃速さの絆3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_闇ベレト",
+    "skill_id": "SID_魔の神髄・不屈",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_闇ベレト",
+    "skill_id": "SID_竜穿",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_闇ベレト",
+    "skill_id": "SID_伏竜",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_闇ベレト",
+    "skill_id": "SID_デュアルサポート1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_闇ベレト",
+    "skill_id": "SID_デュアルサポート2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_闇ベレト",
+    "skill_id": "SID_デュアルサポート3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_闇ベレト",
+    "skill_id": "SID_デュアルサポート4",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_闇ベレト",
+    "skill_id": "SID_エルウインド",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_闇ベレト",
+    "skill_id": "SID_奥の手・魔道1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_闇ベレト",
+    "skill_id": "SID_奥の手・魔道2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_闇ベレト",
+    "skill_id": "SID_奥の手・魔道3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_闇ベレト",
+    "skill_id": "SID_レクスカリバー",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_闇ベレト",
+    "skill_id": "SID_天狼・天刻の拍動",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_闇ベレト",
+    "skill_id": "SID_神祖の怒り",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_闇ベレト",
+    "skill_id": "SID_ウインド",
+    "default": 1,
+    "unlock": 1
+  },
+  {
     "unit_id": "PID_比翼ベレス",
     "skill_id": "SID_攻撃速さの渾身1",
     "default": 0,
@@ -13468,6 +13582,102 @@
     "skill_id": "SID_鋼の弓",
     "default": 2,
     "unlock": 2
+  },
+  {
+    "unit_id": "PID_魔器闇エルフ",
+    "skill_id": "SID_第十一の魔将",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_魔器闇エルフ",
+    "skill_id": "SID_魔器・十二魔将の書",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_魔器闇エルフ",
+    "skill_id": "SID_流星",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_魔器闇エルフ",
+    "skill_id": "SID_攻撃速さの詠唱",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_魔器闇エルフ",
+    "skill_id": "SID_攻撃速さの絆1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_魔器闇エルフ",
+    "skill_id": "SID_攻撃速さの絆2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_魔器闇エルフ",
+    "skill_id": "SID_攻撃速さの絆3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_魔器闇エルフ",
+    "skill_id": "SID_彗星",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_魔器闇エルフ",
+    "skill_id": "SID_ノスフェラート",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_魔器闇エルフ",
+    "skill_id": "SID_ミィル",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_魔器闇エルフ",
+    "skill_id": "SID_星影",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_魔器闇エルフ",
+    "skill_id": "SID_ルイン",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_魔器闇エルフ",
+    "skill_id": "SID_速さの混乱1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_魔器闇エルフ",
+    "skill_id": "SID_速さの混乱2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_魔器闇エルフ",
+    "skill_id": "SID_速さの混乱3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_魔器闇エルフ",
+    "skill_id": "SID_速さ魔防の疑惧",
+    "default": 0,
+    "unlock": 5
   },
   {
     "unit_id": "PID_カスパル",
@@ -37957,7 +38167,37 @@
   },
   {
     "unit_id": "PID_フロージ味方",
+    "skill_id": "SID_守備魔防の密集1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_フロージ味方",
+    "skill_id": "SID_守備魔防の密集2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_フロージ味方",
+    "skill_id": "SID_守備魔防の密集3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_フロージ味方",
+    "skill_id": "SID_守備魔防の共栄",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_フロージ味方",
     "skill_id": "SID_人に安らかな夢を",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_フロージ味方",
+    "skill_id": "SID_人に安らかな…・神",
     "default": 0,
     "unlock": 5
   },
@@ -40273,6 +40513,12 @@
   },
   {
     "unit_id": "PID_神階ガトー",
+    "skill_id": "SID_人に魔道を授けし者",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_神階ガトー",
     "skill_id": "SID_キャンセル1",
     "default": 0,
     "unlock": 2
@@ -40309,9 +40555,33 @@
   },
   {
     "unit_id": "PID_神階ガトー",
+    "skill_id": "SID_初撃の鼓動・謀策",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_神階ガトー",
     "skill_id": "SID_ロック",
     "default": 1,
     "unlock": 1
+  },
+  {
+    "unit_id": "PID_神階ガトー",
+    "skill_id": "SID_始まりの鼓動1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_神階ガトー",
+    "skill_id": "SID_始まりの鼓動2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_神階ガトー",
+    "skill_id": "SID_始まりの鼓動3",
+    "default": 0,
+    "unlock": 4
   },
   {
     "unit_id": "PID_グレイ",
@@ -51382,6 +51652,102 @@
     "skill_id": "SID_入れ替え",
     "default": 4,
     "unlock": 3
+  },
+  {
+    "unit_id": "PID_闇アイビー",
+    "skill_id": "SID_攻魔十牽制・謀策",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_闇アイビー",
+    "skill_id": "SID_攻魔の看破・俯瞰",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_闇アイビー",
+    "skill_id": "SID_攻撃魔防の牽制1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_闇アイビー",
+    "skill_id": "SID_攻撃魔防の牽制2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_闇アイビー",
+    "skill_id": "SID_攻撃魔防の牽制3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_闇アイビー",
+    "skill_id": "SID_攻撃魔防の干渉1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_闇アイビー",
+    "skill_id": "SID_攻撃魔防の干渉2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_闇アイビー",
+    "skill_id": "SID_攻撃魔防の干渉3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_闇アイビー",
+    "skill_id": "SID_アトラース",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_闇アイビー",
+    "skill_id": "SID_竜穿",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_闇アイビー",
+    "skill_id": "SID_伏竜",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_闇アイビー",
+    "skill_id": "SID_エルロック",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_闇アイビー",
+    "skill_id": "SID_邪竜信徒の書",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_闇アイビー",
+    "skill_id": "SID_傷をつけたわね",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_闇アイビー",
+    "skill_id": "SID_理路",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_闇アイビー",
+    "skill_id": "SID_ロック",
+    "default": 1,
+    "unlock": 1
   },
   {
     "unit_id": "PID_双界アイビー",
@@ -69997,6 +70363,12 @@
   },
   {
     "unit_id": "PID_マーシャ",
+    "skill_id": "SID_苦労性の騎士の槍",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_マーシャ",
     "skill_id": "SID_速さ守備の大開放1",
     "default": 0,
     "unlock": 1
@@ -75338,6 +75710,78 @@
   {
     "unit_id": "PID_ミドリコ",
     "skill_id": "SID_鋼の弓",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_闇マイクラン",
+    "skill_id": "SID_成獣の化身・重装",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_闇マイクラン",
+    "skill_id": "SID_生命の大地1",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_闇マイクラン",
+    "skill_id": "SID_生命の大地2",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_闇マイクラン",
+    "skill_id": "SID_生命の大地3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_闇マイクラン",
+    "skill_id": "SID_ゴーティエの紋章石",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_闇マイクラン",
+    "skill_id": "SID_蛍火",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_闇マイクラン",
+    "skill_id": "SID_華炎",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_闇マイクラン",
+    "skill_id": "SID_正面隊形・自己1",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_闇マイクラン",
+    "skill_id": "SID_正面隊形・自己2",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_闇マイクラン",
+    "skill_id": "SID_正面隊形・自己3",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_闇マイクラン",
+    "skill_id": "SID_幼獣の化身・重装",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_闇マイクラン",
+    "skill_id": "SID_若獣の化身・重装",
     "default": 2,
     "unlock": 2
   },
@@ -81538,6 +81982,12 @@
     "skill_id": "SID_氷点",
     "default": 4,
     "unlock": 3
+  },
+  {
+    "unit_id": "PID_ニイメ",
+    "skill_id": "SID_深き淵の書",
+    "default": 0,
+    "unlock": 5
   },
   {
     "unit_id": "PID_ニイメ",
@@ -90766,6 +91216,12 @@
     "skill_id": "SID_鋼の暗器",
     "default": 2,
     "unlock": 2
+  },
+  {
+    "unit_id": "PID_レナック",
+    "skill_id": "SID_超一流盗賊の暗器",
+    "default": 0,
+    "unlock": 5
   },
   {
     "unit_id": "PID_レナック",
@@ -108147,6 +108603,102 @@
     "unit_id": "PID_海賊ティバーン",
     "skill_id": "SID_天空の海賊の嘴爪",
     "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_魔器闇ティバーン",
+    "skill_id": "SID_成獣の化身・飛行",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_魔器闇ティバーン",
+    "skill_id": "SID_魔器・猛き嘴爪",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_魔器闇ティバーン",
+    "skill_id": "SID_攻撃守備の激突1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_魔器闇ティバーン",
+    "skill_id": "SID_攻撃守備の激突2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_魔器闇ティバーン",
+    "skill_id": "SID_攻撃守備の激突3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_魔器闇ティバーン",
+    "skill_id": "SID_攻撃守備の突破",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_魔器闇ティバーン",
+    "skill_id": "SID_無への暗闘1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_魔器闇ティバーン",
+    "skill_id": "SID_無への暗闘2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_魔器闇ティバーン",
+    "skill_id": "SID_無への暗闘3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_魔器闇ティバーン",
+    "skill_id": "SID_溢れる【負】の気",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_魔器闇ティバーン",
+    "skill_id": "SID_暗獣・敏捷",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_魔器闇ティバーン",
+    "skill_id": "SID_若獣の化身・飛行",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_魔器闇ティバーン",
+    "skill_id": "SID_蛍火",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_魔器闇ティバーン",
+    "skill_id": "SID_幼獣の化身・飛行",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_魔器闇ティバーン",
+    "skill_id": "SID_華炎",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_魔器闇ティバーン",
+    "skill_id": "SID_堅固なる野獣",
+    "default": 0,
     "unlock": 5
   },
   {

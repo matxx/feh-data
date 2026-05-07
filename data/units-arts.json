@@ -883,6 +883,13 @@
     "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/52/Byleth_Anchor_of_Hope_BtlFace_D.webp/revision/latest?cb=20250815053634"
   },
   {
+    "id": "PID_闇ベレト",
+    "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d1/Byleth_Ashen_Nightmare_Face.webp/revision/latest?cb=20260507051915",
+    "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/a6/Byleth_Ashen_Nightmare_BtlFace.webp/revision/latest?cb=20260507051850",
+    "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/0c/Byleth_Ashen_Nightmare_BtlFace_C.webp/revision/latest?cb=20260507051906",
+    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/4c/Byleth_Ashen_Nightmare_BtlFace_D.webp/revision/latest?cb=20260507051910"
+  },
+  {
     "id": "PID_比翼ベレス",
     "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f2/Byleth_Fell_Stars_Duo_Face.webp/revision/latest?cb=20200706045014",
     "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e0/Byleth_Fell_Stars_Duo_BtlFace.webp/revision/latest?cb=20200706045020",
@@ -1132,6 +1139,13 @@
     "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/41/Candace_Sly_Snatcher_BtlFace.webp/revision/latest?cb=20240415042904",
     "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/4d/Candace_Sly_Snatcher_BtlFace_C.webp/revision/latest?cb=20240415042919",
     "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/11/Candace_Sly_Snatcher_BtlFace_D.webp/revision/latest?cb=20240415042924"
+  },
+  {
+    "id": "PID_魔器闇エルフ",
+    "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/2/28/Canis_Ill_Portent_Face.webp/revision/latest?cb=20260507051805",
+    "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/2/22/Canis_Ill_Portent_BtlFace.webp/revision/latest?cb=20260507051741",
+    "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/54/Canis_Ill_Portent_BtlFace_C.webp/revision/latest?cb=20260507051756",
+    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/32/Canis_Ill_Portent_BtlFace_D.webp/revision/latest?cb=20260507051802"
   },
   {
     "id": "PID_カスパル",
@@ -4406,6 +4420,13 @@
     "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/0d/Itsuki_Finding_a_Path_BtlFace_D.webp/revision/latest?cb=20200117050620"
   },
   {
+    "id": "PID_闇アイビー",
+    "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/39/Ivy_Bewitching_Ruler_Face.webp/revision/latest?cb=20260507052026",
+    "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/67/Ivy_Bewitching_Ruler_BtlFace.webp/revision/latest?cb=20260507052001",
+    "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f6/Ivy_Bewitching_Ruler_BtlFace_C.webp/revision/latest?cb=20260507052016",
+    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/df/Ivy_Bewitching_Ruler_BtlFace_D.webp/revision/latest?cb=20260507052020"
+  },
+  {
     "id": "PID_双界アイビー",
     "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/0f/Ivy_Flurry_Embrace_Face.webp/revision/latest?cb=20251215042632",
     "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e1/Ivy_Flurry_Embrace_BtlFace.webp/revision/latest?cb=20251215042607",
@@ -5880,7 +5901,11 @@
     "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/52/Lyn_Lady_of_the_Wind_Face.webp/revision/latest?cb=20190920214715",
     "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/a9/Lyn_Lady_of_the_Wind_BtlFace.webp/revision/latest?cb=20190920214721",
     "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/ea/Lyn_Lady_of_the_Wind_BtlFace_C.webp/revision/latest?cb=20190920214727",
-    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/34/Lyn_Lady_of_the_Wind_BtlFace_D.webp/revision/latest?cb=20190920214733"
+    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/34/Lyn_Lady_of_the_Wind_BtlFace_D.webp/revision/latest?cb=20190920214733",
+    "art_resp_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/2/26/Lyn_Lady_of_the_Wind_Resplendent_Face.webp/revision/latest?cb=20260507051731",
+    "art_resp_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/2/23/Lyn_Lady_of_the_Wind_Resplendent_BtlFace.webp/revision/latest?cb=20260507051706",
+    "art_resp_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/ff/Lyn_Lady_of_the_Wind_Resplendent_BtlFace_C.webp/revision/latest?cb=20260507051722",
+    "art_resp_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/35/Lyn_Lady_of_the_Wind_Resplendent_BtlFace_D.webp/revision/latest?cb=20260507051725"
   },
   {
     "id": "PID_比翼リン",
@@ -6516,6 +6541,13 @@
     "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/7b/Midori_Reliable_Chemist_BtlFace.webp/revision/latest?cb=20200407045410",
     "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/2/2e/Midori_Reliable_Chemist_BtlFace_C.webp/revision/latest?cb=20200407045413",
     "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/16/Midori_Reliable_Chemist_BtlFace_D.webp/revision/latest?cb=20200407045418"
+  },
+  {
+    "id": "PID_闇マイクラン",
+    "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d2/Miklan_Destitute_Rebel_Face.webp/revision/latest?cb=20260507051952",
+    "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/7f/Miklan_Destitute_Rebel_BtlFace.webp/revision/latest?cb=20260507051926",
+    "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/fe/Miklan_Destitute_Rebel_BtlFace_C.webp/revision/latest?cb=20260507051942",
+    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/df/Miklan_Destitute_Rebel_BtlFace_D.webp/revision/latest?cb=20260507051945"
   },
   {
     "id": "PID_夢ミコト",
@@ -9450,6 +9482,13 @@
     "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/2/23/Tibarn_Shipless_Pirate_BtlFace.webp/revision/latest?cb=20200806012357",
     "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/af/Tibarn_Shipless_Pirate_BtlFace_C.webp/revision/latest?cb=20200806012401",
     "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/a7/Tibarn_Shipless_Pirate_BtlFace_D.webp/revision/latest?cb=20200806012407"
+  },
+  {
+    "id": "PID_魔器闇ティバーン",
+    "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/33/Tibarn_Storm_King_Face.webp/revision/latest?cb=20260507051840",
+    "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/0b/Tibarn_Storm_King_BtlFace.webp/revision/latest?cb=20260507051816",
+    "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/2/24/Tibarn_Storm_King_BtlFace_C.webp/revision/latest?cb=20260507051831",
+    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/2/26/Tibarn_Storm_King_BtlFace_D.webp/revision/latest?cb=20260507051837"
   },
   {
     "id": "PID_開花チキ",
