@@ -4242,15 +4242,13 @@
     "id": "PID_闇ベレト",
     "is_in": {
       "gsp": false,
-      "ssp": true,
+      "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "lowest_rarity": {
-      "ssp": 5
-    },
+    "lowest_rarity": {},
     "skill_ids": [
       "SID_ウインド",
       "SID_エルウインド",
@@ -20974,15 +20972,13 @@
     "id": "PID_闇アイビー",
     "is_in": {
       "gsp": false,
-      "ssp": true,
+      "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "lowest_rarity": {
-      "ssp": 5
-    },
+    "lowest_rarity": {},
     "skill_ids": [
       "SID_アトラース",
       "SID_エルロック",
