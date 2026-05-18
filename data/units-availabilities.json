@@ -1865,13 +1865,15 @@
     "id": "PID_比翼アシュ",
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "lowest_rarity": {},
+    "lowest_rarity": {
+      "ssp": 5
+    },
     "skill_ids": [
       "DUO_PID_比翼アシュ",
       "SID_アトラース",
@@ -11039,13 +11041,15 @@
     "id": "PID_花嫁エイル",
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "lowest_rarity": {},
+    "lowest_rarity": {
+      "ssp": 4
+    },
     "skill_ids": [
       "SID_引き戻し",
       "SID_生命の花嫁のベル",
@@ -36411,13 +36415,15 @@
     "id": "PID_花嫁ピアニー",
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "lowest_rarity": {},
+    "lowest_rarity": {
+      "ssp": 5
+    },
     "skill_ids": [
       "SID_夢の花嫁の樹剣",
       "SID_影助・ぶちかまし1",
@@ -37641,13 +37647,14 @@
     "id": "PID_魔器花嫁レギン",
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": true
     },
     "lowest_rarity": {
+      "ssp": 5,
       "foc": 5
     },
     "skill_ids": [

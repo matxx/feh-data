@@ -1249,6 +1249,15 @@
     ]
   },
   {
+    "name": "First Festival (Focus)",
+    "unit_ids": [
+      "PID_比翼アシュ",
+      "PID_花嫁エイル",
+      "PID_花嫁ピアニー",
+      "PID_魔器花嫁レギン"
+    ]
+  },
+  {
     "name": "Floral Royals (Focus)",
     "unit_ids": [
       "PID_愛の祭オルテンシア",
@@ -3050,6 +3059,15 @@
       "PID_双界エーデルガルト",
       "PID_水着クロード",
       "PID_水着ディミトリ"
+    ]
+  },
+  {
+    "name": "Focus: Hall of Forms (May 2026)",
+    "unit_ids": [
+      "PID_双界ティアモ",
+      "PID_忍者サーリャ",
+      "PID_比翼クロム",
+      "PID_総選挙ルフレ女"
     ]
   },
   {
@@ -6690,6 +6708,14 @@
       "PID_シグルド",
       "PID_シルヴィア",
       "PID_レヴィン"
+    ]
+  },
+  {
+    "name": "Focus: Sigurd & Quan's Battle",
+    "unit_ids": [
+      "PID_エルトシャン",
+      "PID_キュアン",
+      "PID_シグルド"
     ]
   },
   {
