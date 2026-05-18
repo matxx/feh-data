@@ -4112,6 +4112,14 @@
     ]
   },
   {
+    "name": "Focus: Heroes with Gust",
+    "unit_ids": [
+      "PID_お茶会フェリクス",
+      "PID_ソーンバルケ",
+      "PID_響心エイリーク"
+    ]
+  },
+  {
     "name": "Focus: Heroes with Hone Atk",
     "unit_ids": [
       "PID_カムイ女",
@@ -7541,6 +7549,14 @@
     ]
   },
   {
+    "name": "Focus: Tempest Trials (Secret Whisper)",
+    "unit_ids": [
+      "PID_アシュ2味方",
+      "PID_シャロン22025味方",
+      "PID_メリアエ味方"
+    ]
+  },
+  {
     "name": "Focus: Tempest Trials (Stepping into the New Year)",
     "unit_ids": [
       "PID_サクラ",
@@ -9861,6 +9877,19 @@
     ]
   },
   {
+    "name": "Legendary & Mythic Hero Remix 1 (May 2026)",
+    "unit_ids": [
+      "PID_アシュ2味方",
+      "PID_エンブラ味方",
+      "PID_シャロン22025味方",
+      "PID_セイズ",
+      "PID_プルメリア味方",
+      "PID_伝承シェズ女",
+      "PID_伝承ニニアン",
+      "PID_神階ガトー"
+    ]
+  },
+  {
     "name": "Legendary & Mythic Hero Remix 1 (Nov 2023)",
     "unit_ids": [
       "PID_プルメリア味方",
@@ -10196,6 +10225,19 @@
       "PID_神階ソティス",
       "PID_響心ミスティラ",
       "PID_魔器リリーナ"
+    ]
+  },
+  {
+    "name": "Legendary & Mythic Hero Remix 2 (May 2026)",
+    "unit_ids": [
+      "PID_フレイヤ味方",
+      "PID_フロージ味方",
+      "PID_伝承リリーナ",
+      "PID_神階アスタルテ",
+      "PID_神階ブラミモンド",
+      "PID_魔器セネリオ",
+      "PID_魔器マチュア",
+      "PID_魔器ヴァニタス味方"
     ]
   },
   {

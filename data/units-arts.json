@@ -383,6 +383,13 @@
     "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/bd/Ash_Borrowed_Power_BtlFace_D.webp/revision/latest?cb=20250904052511"
   },
   {
+    "id": "PID_比翼アシュ",
+    "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/90/Ash_Divergent_Brides_Face.webp/revision/latest?cb=20260518042403",
+    "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/1f/Ash_Divergent_Brides_BtlFace.webp/revision/latest?cb=20260518042338",
+    "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/14/Ash_Divergent_Brides_BtlFace_C.webp/revision/latest?cb=20260518042353",
+    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/97/Ash_Divergent_Brides_BtlFace_D.webp/revision/latest?cb=20260518042357"
+  },
+  {
     "id": "PID_年明アシュ",
     "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/fe/Ash_Earnest_Greetings_Face.webp/revision/latest?cb=20221228040942",
     "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/98/Ash_Earnest_Greetings_BtlFace.webp/revision/latest?cb=20221228040917",
@@ -1399,7 +1406,11 @@
     "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/5b/Cherche_Wyvern_Friend_Face.webp/revision/latest?cb=20190920200227",
     "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e7/Cherche_Wyvern_Friend_BtlFace.webp/revision/latest?cb=20190920200231",
     "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/1c/Cherche_Wyvern_Friend_BtlFace_C.webp/revision/latest?cb=20190920200235",
-    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d3/Cherche_Wyvern_Friend_BtlFace_D.webp/revision/latest?cb=20190920200240"
+    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d3/Cherche_Wyvern_Friend_BtlFace_D.webp/revision/latest?cb=20190920200240",
+    "art_resp_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/1b/Cherche_Wyvern_Friend_Resplendent_Face.webp/revision/latest?cb=20260518042438",
+    "art_resp_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d9/Cherche_Wyvern_Friend_Resplendent_BtlFace.webp/revision/latest?cb=20260518042412",
+    "art_resp_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/85/Cherche_Wyvern_Friend_Resplendent_BtlFace_C.webp/revision/latest?cb=20260518042428",
+    "art_resp_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/12/Cherche_Wyvern_Friend_Resplendent_BtlFace_D.webp/revision/latest?cb=20260518042432"
   },
   {
     "id": "PID_クロエ",
@@ -2332,6 +2343,13 @@
     "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/43/Eir_Renewed_Life_BtlFace.webp/revision/latest?cb=20191225051022",
     "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e6/Eir_Renewed_Life_BtlFace_C.webp/revision/latest?cb=20191225051026",
     "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/6a/Eir_Renewed_Life_BtlFace_D.webp/revision/latest?cb=20191225051031"
+  },
+  {
+    "id": "PID_花嫁エイル",
+    "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/2/23/Eir_Until_Death_Face.webp/revision/latest?cb=20260518042219",
+    "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/9f/Eir_Until_Death_BtlFace.webp/revision/latest?cb=20260518042153",
+    "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/4f/Eir_Until_Death_BtlFace_C.webp/revision/latest?cb=20260518042208",
+    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/9b/Eir_Until_Death_BtlFace_D.webp/revision/latest?cb=20260518042212"
   },
   {
     "id": "PID_エイリーク2",
@@ -7623,6 +7641,13 @@
     "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/11/Peony_Fruitful_Dream_BtlFace_D.webp/revision/latest?cb=20251006041702"
   },
   {
+    "id": "PID_花嫁ピアニー",
+    "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/5e/Peony_Interwoven_Dream_Face.webp/revision/latest?cb=20260518042253",
+    "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/df/Peony_Interwoven_Dream_BtlFace.webp/revision/latest?cb=20260518042228",
+    "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e9/Peony_Interwoven_Dream_BtlFace_C.webp/revision/latest?cb=20260518042243",
+    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/41/Peony_Interwoven_Dream_BtlFace_D.webp/revision/latest?cb=20260518042250"
+  },
+  {
     "id": "PID_神階ピアニー",
     "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/06/Peony_Sweet_Dream_Face.webp/revision/latest?cb=20191205143458",
     "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/7e/Peony_Sweet_Dream_BtlFace.webp/revision/latest?cb=20191205143503",
@@ -7868,6 +7893,13 @@
     "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/fc/Reginn_Dvergr_Heir_BtlFace.webp/revision/latest?cb=20240905081018",
     "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/41/Reginn_Dvergr_Heir_BtlFace_C.webp/revision/latest?cb=20240905081031",
     "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c6/Reginn_Dvergr_Heir_BtlFace_D.webp/revision/latest?cb=20240905081035"
+  },
+  {
+    "id": "PID_魔器花嫁レギン",
+    "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/73/Reginn_Full-Tilt_Bride_Face.webp/revision/latest?cb=20260518042328",
+    "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c2/Reginn_Full-Tilt_Bride_BtlFace.webp/revision/latest?cb=20260518042302",
+    "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/63/Reginn_Full-Tilt_Bride_BtlFace_C.webp/revision/latest?cb=20260518042319",
+    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c1/Reginn_Full-Tilt_Bride_BtlFace_D.webp/revision/latest?cb=20260518042322"
   },
   {
     "id": "PID_忍者ユウギリ",

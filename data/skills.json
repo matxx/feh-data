@@ -4887,6 +4887,36 @@
     ]
   },
   {
+    "id": "SID_魔器・花嫁のケーキ",
+    "fandom_id": "Arcane Cake",
+    "name": "Arcane Cake",
+    "category": "weapon",
+    "weapon_type": "Green Axe",
+    "is_arcane": true,
+    "sp": 300,
+    "tier": 4,
+    "range": 1,
+    "might": 16,
+    "has_refine": true,
+    "refines_max_sp": 350,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Green Axe"
+        ]
+      }
+    },
+    "addition_date": "2026-05-18",
+    "release_date": "2026-05-18",
+    "version": "10.5",
+    "downgrade_ids": [
+      "SID_銀の斧"
+    ]
+  },
+  {
     "id": "SID_魔器・愛らしい雪杖",
     "game8_id": "445238",
     "fandom_id": "Arcane Charmer",
@@ -14783,6 +14813,7 @@
       "SID_真夏の生命の輝き",
       "SID_幸運ぶ冬の聖菓",
       "SID_怒雷の紫書",
+      "SID_不離の花嫁の花束",
       "SID_絶無の書"
     ],
     "downgrade_ids": [
@@ -22188,6 +22219,24 @@
     ]
   },
   {
+    "id": "SID_夢の花嫁の樹剣",
+    "fandom_id": "Braided Blade",
+    "name": "Braided Blade",
+    "category": "weapon",
+    "weapon_type": "Red Sword",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "range": 1,
+    "might": 16,
+    "addition_date": "2026-05-18",
+    "release_date": "2026-05-18",
+    "version": "10.5",
+    "downgrade_ids": [
+      "SID_銀の剣"
+    ]
+  },
+  {
     "id": "SID_差し違え1",
     "game8_id": "266363",
     "fandom_id": "Brash Assault",
@@ -23577,6 +23626,24 @@
     "version": "6.5",
     "downgrade_ids": [
       "SID_花嫁の向日葵"
+    ]
+  },
+  {
+    "id": "SID_生命の花嫁のベル",
+    "fandom_id": "Bride of Life",
+    "name": "Bride of Life",
+    "category": "weapon",
+    "weapon_type": "All Dagger",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "range": 2,
+    "might": 14,
+    "addition_date": "2026-05-18",
+    "release_date": "2026-05-18",
+    "version": "10.5",
+    "downgrade_ids": [
+      "SID_銀の暗器"
     ]
   },
   {
@@ -28096,6 +28163,33 @@
     ]
   },
   {
+    "id": "SID_近反・攻守魔の絆",
+    "fandom_id": "Close A/D/R Bond",
+    "name": "Close A/D/R Bond",
+    "category": "passivea",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/61/Close_A_D_R_Bond.png/revision/latest?cb=20260518075700",
+    "sp": 300,
+    "tier": 2,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_not_use": [
+          "All Melee",
+          "All Breath",
+          "All Beast"
+        ]
+      }
+    },
+    "addition_date": "2026-05-18",
+    "release_date": "2026-05-18",
+    "version": "10.5",
+    "downgrade_ids": [
+      "SID_近距離反撃"
+    ]
+  },
+  {
     "id": "SID_回避・一撃離脱1",
     "game8_id": "275209",
     "fandom_id": "Close Call",
@@ -28240,6 +28334,7 @@
     "version": "1.0",
     "upgrade_ids": [
       "SID_近反・強化増幅",
+      "SID_近反・攻守魔の絆",
       "SID_近反・金剛の構え",
       "SID_近反・攻撃の渾身"
     ]
@@ -31316,6 +31411,7 @@
       "SID_しろいはるのゆめ",
       "SID_あまいゆめ",
       "SID_やさしいひとのゆめ",
+      "SID_真やさしいゆめ",
       "SID_しろいゆめ"
     ]
   },
@@ -33445,7 +33541,8 @@
     "version": "4.9",
     "upgrade_ids": [
       "SID_攻撃守備の魅了3",
-      "SID_守備魔防の魅了3"
+      "SID_守備魔防の魅了3",
+      "SID_速さ守備の魅惑"
     ],
     "downgrade_ids": [
       "SID_守備の魅了2"
@@ -44079,6 +44176,19 @@
     "addition_date": "2018-02-22",
     "release_date": "2018-02-22",
     "version": "2.2"
+  },
+  {
+    "id": "SID_真生命の輝き",
+    "fandom_id": "Exuberant Boost",
+    "name": "Exuberant Boost",
+    "category": "passivec",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/07/Exuberant_Boost.png/revision/latest?cb=20260518075753",
+    "is_prf": true,
+    "sp": 300,
+    "tier": 1,
+    "addition_date": "2026-05-18",
+    "release_date": "2026-05-18",
+    "version": "10.5"
   },
   {
     "id": "SID_過去の女神の扇子",
@@ -56542,7 +56652,8 @@
     "upgrade_ids": [
       "SID_キャンセル4",
       "SID_刷新",
-      "SID_一新"
+      "SID_一新",
+      "SID_狂涛・キャンセル"
     ],
     "downgrade_ids": [
       "SID_キャンセル2"
@@ -62661,6 +62772,7 @@
       "SID_肉体の咆哮",
       "SID_砂陣",
       "SID_連魔弾",
+      "SID_真魔弾",
       "SID_魔弾",
       "SID_ブレイクラッシュ",
       "SID_堅固なる獣",
@@ -63101,6 +63213,19 @@
     "range": 2,
     "might": 12,
     "refine_kind": "skill2"
+  },
+  {
+    "id": "SID_真開神の眷属",
+    "fandom_id": "Inaugural Vassal",
+    "name": "Inaugural Vassal",
+    "category": "passivec",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c6/Inaugural_Vassal.png/revision/latest?cb=20260518075742",
+    "is_prf": true,
+    "sp": 300,
+    "tier": 1,
+    "addition_date": "2026-05-18",
+    "release_date": "2026-05-18",
+    "version": "10.5"
   },
   {
     "id": "SID_理想への天質",
@@ -89761,6 +89886,36 @@
     "version": "4.4"
   },
   {
+    "id": "SID_狂涛・キャンセル",
+    "fandom_id": "Riptide Guard",
+    "name": "Riptide Guard",
+    "category": "passiveb",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f3/Riptide_Guard.png/revision/latest?cb=20260518075711",
+    "sp": 400,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Cavalry",
+          "Flying"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "All Melee",
+          "All Breath",
+          "All Beast"
+        ]
+      }
+    },
+    "addition_date": "2026-05-18",
+    "release_date": "2026-05-18",
+    "version": "10.5",
+    "downgrade_ids": [
+      "SID_キャンセル3"
+    ]
+  },
+  {
     "id": "SID_砕火",
     "game8_id": "266055",
     "fandom_id": "Rising Flame",
@@ -91082,6 +91237,36 @@
     "version": "10.1",
     "downgrade_ids": [
       "SID_速さ守備の牽制3"
+    ]
+  },
+  {
+    "id": "SID_速守の看破・俯瞰",
+    "fandom_id": "S/D Detect Aerial",
+    "name": "S/D Detect Aerial",
+    "category": "passiveb",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/cd/S_D_Detect_Aerial.png/revision/latest?cb=20260518075731",
+    "sp": 300,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Cavalry",
+          "Flying"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "All Tome",
+          "All Bow",
+          "All Dagger"
+        ]
+      }
+    },
+    "addition_date": "2026-05-18",
+    "release_date": "2026-05-18",
+    "version": "10.5",
+    "downgrade_ids": [
+      "SID_速さ守備の干渉3"
     ]
   },
   {
@@ -95137,6 +95322,22 @@
     ]
   },
   {
+    "id": "SID_真魔弾",
+    "fandom_id": "Seiðr Cannon",
+    "name": "Seiðr Cannon",
+    "category": "special",
+    "is_prf": true,
+    "sp": 500,
+    "tier": 3,
+    "cd": 4,
+    "addition_date": "2026-05-18",
+    "release_date": "2026-05-18",
+    "version": "10.5",
+    "downgrade_ids": [
+      "SID_華炎"
+    ]
+  },
+  {
     "id": "SID_魔弾",
     "game8_id": "312460",
     "fandom_id": "Seiðr Shell",
@@ -97378,6 +97579,7 @@
     "version": "1.0",
     "upgrade_ids": [
       "SID_永遠の理想郷の双斧",
+      "SID_魔器・花嫁のケーキ",
       "SID_魔器・絶死ヘル",
       "SID_魔器・ヨトゥンの斧",
       "SID_魔器スリマ",
@@ -97676,6 +97878,7 @@
       "SID_アサメイの短剣",
       "SID_ジャハナ王の砂刃",
       "SID_王者の刃",
+      "SID_生命の花嫁のベル",
       "SID_風舞う白夜の呪扇",
       "SID_影身の暗器",
       "SID_傭兵忍の双刃",
@@ -98052,6 +98255,7 @@
       "SID_影の英雄の剣",
       "SID_烈剣デュランダル",
       "SID_乳姉妹の絆の剣",
+      "SID_夢の花嫁の樹剣",
       "SID_カラドボルグ",
       "SID_白銀の剣",
       "SID_修羅アマツ",
@@ -100842,6 +101046,9 @@
     "addition_date": "2021-12-16",
     "release_date": "2021-12-16",
     "version": "6.0",
+    "upgrade_ids": [
+      "SID_速さ守備の魅惑"
+    ],
     "downgrade_ids": [
       "SID_速さの魅了2"
     ]
@@ -101406,6 +101613,28 @@
     "version": "1.6",
     "downgrade_ids": [
       "SID_速さ守備1"
+    ]
+  },
+  {
+    "id": "SID_速さ守備の魅惑",
+    "fandom_id": "Spd/Def Allure",
+    "name": "Spd/Def Allure",
+    "category": "passiveb",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/5b/Spd_Def_Allure.png/revision/latest?cb=20260518075721",
+    "sp": 400,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": null
+    },
+    "addition_date": "2026-05-18",
+    "release_date": "2026-05-18",
+    "version": "10.5",
+    "downgrade_ids": [
+      "SID_速さの魅了3",
+      "SID_守備の魅了3"
     ]
   },
   {
@@ -102963,6 +103192,7 @@
     "release_date": "2020-06-18",
     "version": "4.6",
     "upgrade_ids": [
+      "SID_速守の看破・俯瞰",
       "SID_速さ守備の看破",
       "SID_速さ守備の干渉4"
     ],
@@ -113626,6 +113856,22 @@
     ]
   },
   {
+    "id": "SID_真やさしいゆめ",
+    "fandom_id": "Tender Vision",
+    "name": "Tender Vision",
+    "category": "assist",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 2,
+    "range": 1,
+    "addition_date": "2026-05-18",
+    "release_date": "2026-05-18",
+    "version": "10.5",
+    "downgrade_ids": [
+      "SID_踊る"
+    ]
+  },
+  {
     "id": "SID_セイニー",
     "game8_id": "265910",
     "fandom_id": "Thani",
@@ -117680,6 +117926,24 @@
     "version": "10.0",
     "downgrade_ids": [
       "SID_華炎"
+    ]
+  },
+  {
+    "id": "SID_不離の花嫁の花束",
+    "fandom_id": "Uniting Bouquet",
+    "name": "Uniting Bouquet",
+    "category": "weapon",
+    "weapon_type": "Colorless Tome",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "range": 2,
+    "might": 14,
+    "addition_date": "2026-05-18",
+    "release_date": "2026-05-18",
+    "version": "10.5",
+    "downgrade_ids": [
+      "SID_アトラース"
     ]
   },
   {
@@ -132493,6 +132757,75 @@
     ]
   },
   {
+    "id": "SSID_攻撃守備の拍節1",
+    "fandom_id": "Atk/Def Tempo",
+    "name": "Atk/Def Tempo 1",
+    "category": "sacredseal",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/4d/Atk_Def_Tempo_1.png/revision/latest?cb=20260105131751",
+    "sp": 60,
+    "tier": 1,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Infantry"
+        ]
+      },
+      "weapons": {
+        "none": true
+      }
+    },
+    "upgrade_ids": [
+      "SSID_攻撃守備の拍節2"
+    ]
+  },
+  {
+    "id": "SSID_攻撃守備の拍節2",
+    "fandom_id": "Atk/Def Tempo",
+    "name": "Atk/Def Tempo 2",
+    "category": "sacredseal",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/00/Atk_Def_Tempo_2.png/revision/latest?cb=20260105131802",
+    "sp": 120,
+    "tier": 2,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Infantry"
+        ]
+      },
+      "weapons": {
+        "none": true
+      }
+    },
+    "upgrade_ids": [
+      "SSID_攻撃守備の拍節3"
+    ],
+    "downgrade_ids": [
+      "SSID_攻撃守備の拍節1"
+    ]
+  },
+  {
+    "id": "SSID_攻撃守備の拍節3",
+    "fandom_id": "Atk/Def Tempo",
+    "name": "Atk/Def Tempo 3",
+    "category": "sacredseal",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/64/Atk_Def_Tempo_3.png/revision/latest?cb=20260105131812",
+    "sp": 240,
+    "tier": 3,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Infantry"
+        ]
+      },
+      "weapons": {
+        "none": true
+      }
+    },
+    "downgrade_ids": [
+      "SSID_攻撃守備の拍節2"
+    ]
+  },
+  {
     "id": "SSID_攻撃魔防の絆1",
     "fandom_id": "Atk/Res Bond",
     "name": "Atk/Res Bond 1",
@@ -136622,6 +136955,87 @@
     },
     "downgrade_ids": [
       "SSID_守備魔防の機先2"
+    ]
+  },
+  {
+    "id": "SSID_守備魔防の激突1",
+    "fandom_id": "Def/Res Clash",
+    "name": "Def/Res Clash 1",
+    "category": "sacredseal",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/77/Def_Res_Clash_1.png/revision/latest?cb=20260316081016",
+    "sp": 60,
+    "tier": 1,
+    "restrictions": {
+      "moves": {
+        "can_not_use": [
+          "Armored"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "All Melee",
+          "All Breath",
+          "All Beast"
+        ]
+      }
+    },
+    "upgrade_ids": [
+      "SSID_守備魔防の激突2"
+    ]
+  },
+  {
+    "id": "SSID_守備魔防の激突2",
+    "fandom_id": "Def/Res Clash",
+    "name": "Def/Res Clash 2",
+    "category": "sacredseal",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/46/Def_Res_Clash_2.png/revision/latest?cb=20260316081026",
+    "sp": 120,
+    "tier": 2,
+    "restrictions": {
+      "moves": {
+        "can_not_use": [
+          "Armored"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "All Melee",
+          "All Breath",
+          "All Beast"
+        ]
+      }
+    },
+    "upgrade_ids": [
+      "SSID_守備魔防の激突3"
+    ],
+    "downgrade_ids": [
+      "SSID_守備魔防の激突1"
+    ]
+  },
+  {
+    "id": "SSID_守備魔防の激突3",
+    "fandom_id": "Def/Res Clash",
+    "name": "Def/Res Clash 3",
+    "category": "sacredseal",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/7f/Def_Res_Clash_3.png/revision/latest?cb=20260316081037",
+    "sp": 240,
+    "tier": 3,
+    "restrictions": {
+      "moves": {
+        "can_not_use": [
+          "Armored"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "All Melee",
+          "All Breath",
+          "All Beast"
+        ]
+      }
+    },
+    "downgrade_ids": [
+      "SSID_守備魔防の激突2"
     ]
   },
   {
@@ -147415,6 +147829,18 @@
     "addition_date": "2020-02-06",
     "release_date": "2020-02-06",
     "version": "4.2"
+  },
+  {
+    "id": "DUO_PID_比翼アシュ",
+    "game8_id": null,
+    "fandom_id": "Ash: Divergent Brides",
+    "name": "Ash: Divergent Brides",
+    "category": "duo",
+    "is_prf": true,
+    "tier": 1,
+    "addition_date": "2026-05-18",
+    "release_date": "2026-05-18",
+    "version": "10.5"
   },
   {
     "id": "DUO_PID_比翼アスク",

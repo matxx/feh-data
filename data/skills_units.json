@@ -4782,6 +4782,90 @@
     "unlock": 2
   },
   {
+    "unit_id": "PID_比翼アシュ",
+    "skill_id": "SID_流星",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_比翼アシュ",
+    "skill_id": "SID_攻撃魔防の疑惧",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_比翼アシュ",
+    "skill_id": "SID_アトラース",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_比翼アシュ",
+    "skill_id": "SID_近反・攻守魔の絆",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_比翼アシュ",
+    "skill_id": "SID_近距離反撃",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_比翼アシュ",
+    "skill_id": "SID_彗星",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_比翼アシュ",
+    "skill_id": "SID_エルロック",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_比翼アシュ",
+    "skill_id": "SID_真開神の眷属",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_比翼アシュ",
+    "skill_id": "SID_星影",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_比翼アシュ",
+    "skill_id": "SID_攻撃の混乱1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_比翼アシュ",
+    "skill_id": "SID_攻撃の混乱2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_比翼アシュ",
+    "skill_id": "SID_攻撃の混乱3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_比翼アシュ",
+    "skill_id": "SID_ロック",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_比翼アシュ",
+    "skill_id": "SID_不離の花嫁の花束",
+    "default": 5,
+    "unlock": 5
+  },
+  {
     "unit_id": "PID_年明アシュ",
     "skill_id": "SID_成獣の化身・歩行",
     "default": 4,
@@ -27130,6 +27214,66 @@
     "skill_id": "SID_手毬＋",
     "default": 5,
     "unlock": 5
+  },
+  {
+    "unit_id": "PID_花嫁エイル",
+    "skill_id": "SID_生命の花嫁のベル",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_花嫁エイル",
+    "skill_id": "SID_真生命の輝き",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_花嫁エイル",
+    "skill_id": "SID_鉄の暗器",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_花嫁エイル",
+    "skill_id": "SID_引き戻し",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_花嫁エイル",
+    "skill_id": "SID_速守の看破・俯瞰",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_花嫁エイル",
+    "skill_id": "SID_銀の暗器",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_花嫁エイル",
+    "skill_id": "SID_速さ守備の干渉1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_花嫁エイル",
+    "skill_id": "SID_速さ守備の干渉2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_花嫁エイル",
+    "skill_id": "SID_速さ守備の干渉3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_花嫁エイル",
+    "skill_id": "SID_鋼の暗器",
+    "default": 2,
+    "unlock": 2
   },
   {
     "unit_id": "PID_エイリーク2",
@@ -73472,8 +73616,8 @@
   {
     "unit_id": "PID_メルセデス",
     "skill_id": "SID_治癒",
-    "default": 0,
-    "unlock": 2
+    "default": 4,
+    "unlock": 3
   },
   {
     "unit_id": "PID_メルセデス",
@@ -73490,8 +73634,8 @@
   {
     "unit_id": "PID_メルセデス",
     "skill_id": "SID_祈り",
-    "default": 4,
-    "unlock": 3
+    "default": 0,
+    "unlock": 2
   },
   {
     "unit_id": "PID_メルセデス",
@@ -87918,6 +88062,90 @@
     "unlock": 5
   },
   {
+    "unit_id": "PID_花嫁ピアニー",
+    "skill_id": "SID_夢の花嫁の樹剣",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_花嫁ピアニー",
+    "skill_id": "SID_踊る",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_花嫁ピアニー",
+    "skill_id": "SID_鉄の剣",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_花嫁ピアニー",
+    "skill_id": "SID_影助・ぶちかまし1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_花嫁ピアニー",
+    "skill_id": "SID_影助・ぶちかまし2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_花嫁ピアニー",
+    "skill_id": "SID_影助・ぶちかまし3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_花嫁ピアニー",
+    "skill_id": "SID_影助・ぶちかまし4",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_花嫁ピアニー",
+    "skill_id": "SID_銀の剣",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_花嫁ピアニー",
+    "skill_id": "SID_速さの魅了1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_花嫁ピアニー",
+    "skill_id": "SID_速さの魅了2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_花嫁ピアニー",
+    "skill_id": "SID_速さの魅了3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_花嫁ピアニー",
+    "skill_id": "SID_速さ守備の魅惑",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_花嫁ピアニー",
+    "skill_id": "SID_鋼の剣",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_花嫁ピアニー",
+    "skill_id": "SID_真やさしいゆめ",
+    "default": 0,
+    "unlock": 5
+  },
+  {
     "unit_id": "PID_神階ピアニー",
     "skill_id": "SID_曲技飛行1",
     "default": 0,
@@ -90734,6 +90962,120 @@
   {
     "unit_id": "PID_レギン2味方",
     "skill_id": "SID_鋼の槍",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_魔器花嫁レギン",
+    "skill_id": "SID_魔器・花嫁のケーキ",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_魔器花嫁レギン",
+    "skill_id": "SID_攻速鼓譟・奪取無効",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_魔器花嫁レギン",
+    "skill_id": "SID_蒼穹1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_魔器花嫁レギン",
+    "skill_id": "SID_蒼穹2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_魔器花嫁レギン",
+    "skill_id": "SID_蒼穹3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_魔器花嫁レギン",
+    "skill_id": "SID_蒼穹・鬼没",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_魔器花嫁レギン",
+    "skill_id": "SID_蛍火",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_魔器花嫁レギン",
+    "skill_id": "SID_キャンセル1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_魔器花嫁レギン",
+    "skill_id": "SID_キャンセル2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_魔器花嫁レギン",
+    "skill_id": "SID_キャンセル3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_魔器花嫁レギン",
+    "skill_id": "SID_速さの鼓舞1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_魔器花嫁レギン",
+    "skill_id": "SID_速さの鼓舞2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_魔器花嫁レギン",
+    "skill_id": "SID_速さの鼓舞3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_魔器花嫁レギン",
+    "skill_id": "SID_華炎",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_魔器花嫁レギン",
+    "skill_id": "SID_鉄の斧",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_魔器花嫁レギン",
+    "skill_id": "SID_狂涛・キャンセル",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_魔器花嫁レギン",
+    "skill_id": "SID_真魔弾",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_魔器花嫁レギン",
+    "skill_id": "SID_銀の斧",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_魔器花嫁レギン",
+    "skill_id": "SID_鋼の斧",
     "default": 2,
     "unlock": 2
   },
@@ -117542,6 +117884,12 @@
   {
     "unit_id": "PID_比翼アルム",
     "skill_id": "DUO_PID_比翼アルム",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_比翼アシュ",
+    "skill_id": "DUO_PID_比翼アシュ",
     "default": 0,
     "unlock": 1
   },
