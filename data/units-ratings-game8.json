@@ -9637,5 +9637,33 @@
     "recommended_boon": "atk",
     "recommended_bane": "spd",
     "recommended_plus10": null
+  },
+  {
+    "id": "PID_花嫁ピアニー",
+    "game8_rating": "9.5",
+    "recommended_boon": "spd",
+    "recommended_bane": "def",
+    "recommended_plus10": null
+  },
+  {
+    "id": "PID_花嫁エイル",
+    "game8_rating": "9.0",
+    "recommended_boon": "spd",
+    "recommended_bane": "def",
+    "recommended_plus10": null
+  },
+  {
+    "id": "PID_魔器花嫁レギン",
+    "game8_rating": "9.5",
+    "recommended_boon": "spd",
+    "recommended_bane": "res",
+    "recommended_plus10": null
+  },
+  {
+    "id": "PID_比翼アシュ",
+    "game8_rating": "9.5",
+    "recommended_boon": "res",
+    "recommended_bane": "spd",
+    "recommended_plus10": null
   }
 ]

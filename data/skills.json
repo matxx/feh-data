@@ -4888,6 +4888,7 @@
   },
   {
     "id": "SID_魔器・花嫁のケーキ",
+    "game8_id": "601007",
     "fandom_id": "Arcane Cake",
     "name": "Arcane Cake",
     "category": "weapon",
@@ -22220,6 +22221,7 @@
   },
   {
     "id": "SID_夢の花嫁の樹剣",
+    "game8_id": "601005",
     "fandom_id": "Braided Blade",
     "name": "Braided Blade",
     "category": "weapon",
@@ -23630,6 +23632,7 @@
   },
   {
     "id": "SID_生命の花嫁のベル",
+    "game8_id": "601006",
     "fandom_id": "Bride of Life",
     "name": "Bride of Life",
     "category": "weapon",
@@ -28164,10 +28167,11 @@
   },
   {
     "id": "SID_近反・攻守魔の絆",
+    "game8_id": "601014",
     "fandom_id": "Close A/D/R Bond",
     "name": "Close A/D/R Bond",
     "category": "passivea",
-    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/61/Close_A_D_R_Bond.png/revision/latest?cb=20260518075700",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/61/Close_A_D_R_Bond.png/revision/latest?cb=20260522010806",
     "sp": 300,
     "tier": 2,
     "restrictions": {
@@ -44179,6 +44183,7 @@
   },
   {
     "id": "SID_真生命の輝き",
+    "game8_id": "601015",
     "fandom_id": "Exuberant Boost",
     "name": "Exuberant Boost",
     "category": "passivec",
@@ -63216,6 +63221,7 @@
   },
   {
     "id": "SID_真開神の眷属",
+    "game8_id": "601016",
     "fandom_id": "Inaugural Vassal",
     "name": "Inaugural Vassal",
     "category": "passivec",
@@ -89887,6 +89893,7 @@
   },
   {
     "id": "SID_狂涛・キャンセル",
+    "game8_id": "601013",
     "fandom_id": "Riptide Guard",
     "name": "Riptide Guard",
     "category": "passiveb",
@@ -91241,6 +91248,7 @@
   },
   {
     "id": "SID_速守の看破・俯瞰",
+    "game8_id": "601012",
     "fandom_id": "S/D Detect Aerial",
     "name": "S/D Detect Aerial",
     "category": "passiveb",
@@ -95323,6 +95331,7 @@
   },
   {
     "id": "SID_真魔弾",
+    "game8_id": "601010",
     "fandom_id": "Seiðr Cannon",
     "name": "Seiðr Cannon",
     "category": "special",
@@ -101617,6 +101626,7 @@
   },
   {
     "id": "SID_速さ守備の魅惑",
+    "game8_id": "601011",
     "fandom_id": "Spd/Def Allure",
     "name": "Spd/Def Allure",
     "category": "passiveb",
@@ -113861,6 +113871,7 @@
   },
   {
     "id": "SID_真やさしいゆめ",
+    "game8_id": "601009",
     "fandom_id": "Tender Vision",
     "name": "Tender Vision",
     "category": "assist",
@@ -117934,6 +117945,7 @@
   },
   {
     "id": "SID_不離の花嫁の花束",
+    "game8_id": "601008",
     "fandom_id": "Uniting Bouquet",
     "name": "Uniting Bouquet",
     "category": "weapon",
@@ -147836,7 +147848,7 @@
   },
   {
     "id": "DUO_PID_比翼アシュ",
-    "game8_id": null,
+    "game8_id": "601004",
     "fandom_id": "Ash: Divergent Brides",
     "name": "Ash: Divergent Brides",
     "category": "duo",
