@@ -89956,7 +89956,9 @@
           "Armored"
         ]
       },
-      "weapons": null
+      "weapons": {
+        "none": true
+      }
     },
     "addition_date": "2026-05-29",
     "release_date": "2026-05-29",
@@ -89981,7 +89983,9 @@
           "Armored"
         ]
       },
-      "weapons": null
+      "weapons": {
+        "none": true
+      }
     },
     "addition_date": "2026-05-29",
     "release_date": "2026-05-29",
@@ -90009,7 +90013,9 @@
           "Armored"
         ]
       },
-      "weapons": null
+      "weapons": {
+        "none": true
+      }
     },
     "addition_date": "2026-05-29",
     "release_date": "2026-05-29",
@@ -90037,7 +90043,9 @@
           "Armored"
         ]
       },
-      "weapons": null
+      "weapons": {
+        "none": true
+      }
     },
     "addition_date": "2026-05-29",
     "release_date": "2026-05-29",
