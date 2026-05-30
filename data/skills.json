@@ -19889,6 +19889,23 @@
     ]
   },
   {
+    "id": "SID_獅子紅蓮焔舞",
+    "game8_id": "603008",
+    "fandom_id": "Blazing Lion",
+    "name": "Blazing Lion",
+    "category": "special",
+    "is_prf": true,
+    "sp": 500,
+    "tier": 3,
+    "cd": 5,
+    "addition_date": "2026-05-29",
+    "release_date": "2026-05-29",
+    "version": "10.5",
+    "downgrade_ids": [
+      "SID_華炎"
+    ]
+  },
+  {
     "id": "SID_紅炎の親子の聖斧",
     "game8_id": "377369",
     "fandom_id": "Blazing Polearms",
@@ -62771,6 +62788,7 @@
     "version": "1.0",
     "upgrade_ids": [
       "SID_重装の双炎",
+      "SID_獅子紅蓮焔舞",
       "SID_竜炎",
       "SID_壁炎",
       "SID_集いし炎",
@@ -89923,6 +89941,112 @@
     ]
   },
   {
+    "id": "SID_超越1",
+    "game8_id": "603012",
+    "fandom_id": "Rise Above",
+    "name": "Rise Above 1",
+    "category": "passivea",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/ea/Rise_Above_1.png/revision/latest?cb=20260529144825",
+    "sp": 60,
+    "tier": 1,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Infantry",
+          "Armored"
+        ]
+      },
+      "weapons": null
+    },
+    "addition_date": "2026-05-29",
+    "release_date": "2026-05-29",
+    "version": "10.5",
+    "upgrade_ids": [
+      "SID_超越2"
+    ]
+  },
+  {
+    "id": "SID_超越2",
+    "game8_id": "603011",
+    "fandom_id": "Rise Above",
+    "name": "Rise Above 2",
+    "category": "passivea",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/5a/Rise_Above_2.png/revision/latest?cb=20260529144835",
+    "sp": 120,
+    "tier": 2,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Infantry",
+          "Armored"
+        ]
+      },
+      "weapons": null
+    },
+    "addition_date": "2026-05-29",
+    "release_date": "2026-05-29",
+    "version": "10.5",
+    "upgrade_ids": [
+      "SID_超越3"
+    ],
+    "downgrade_ids": [
+      "SID_超越1"
+    ]
+  },
+  {
+    "id": "SID_超越3",
+    "game8_id": "603010",
+    "fandom_id": "Rise Above",
+    "name": "Rise Above 3",
+    "category": "passivea",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e4/Rise_Above_3.png/revision/latest?cb=20260529144846",
+    "sp": 240,
+    "tier": 3,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Infantry",
+          "Armored"
+        ]
+      },
+      "weapons": null
+    },
+    "addition_date": "2026-05-29",
+    "release_date": "2026-05-29",
+    "version": "10.5",
+    "upgrade_ids": [
+      "SID_超越4"
+    ],
+    "downgrade_ids": [
+      "SID_超越2"
+    ]
+  },
+  {
+    "id": "SID_超越4",
+    "game8_id": "603009",
+    "fandom_id": "Rise Above",
+    "name": "Rise Above 4",
+    "category": "passivea",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/16/Rise_Above_4.png/revision/latest?cb=20260529144856",
+    "sp": 300,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Infantry",
+          "Armored"
+        ]
+      },
+      "weapons": null
+    },
+    "addition_date": "2026-05-29",
+    "release_date": "2026-05-29",
+    "version": "10.5",
+    "downgrade_ids": [
+      "SID_超越3"
+    ]
+  },
+  {
     "id": "SID_砕火",
     "game8_id": "266055",
     "fandom_id": "Rising Flame",
@@ -98375,7 +98499,8 @@
       "SID_武人の鉄剣",
       "SID_奔放なる風の剣",
       "SID_野花の花嫁の大剣",
-      "SID_夜刀神"
+      "SID_夜刀神",
+      "SID_若き獅子の剣"
     ],
     "downgrade_ids": [
       "SID_鋼の剣"
@@ -124410,6 +124535,25 @@
     ]
   },
   {
+    "id": "SID_若き獅子の剣",
+    "game8_id": "603007",
+    "fandom_id": "Young Lion Edge",
+    "name": "Young Lion Edge",
+    "category": "weapon",
+    "weapon_type": "Red Sword",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "range": 1,
+    "might": 16,
+    "addition_date": "2026-05-29",
+    "release_date": "2026-05-29",
+    "version": "10.5",
+    "downgrade_ids": [
+      "SID_銀の剣"
+    ]
+  },
+  {
     "id": "SID_ユンヌの見守り",
     "game8_id": "457249",
     "fandom_id": "Yune's Protection",
@@ -149045,6 +149189,18 @@
     "addition_date": "2025-06-30",
     "release_date": "2025-06-30",
     "version": "9.6"
+  },
+  {
+    "id": "EMBLEM_PID_紋章ロイ",
+    "game8_id": "603005",
+    "fandom_id": "Roy: Of Binding",
+    "name": "Roy: Of Binding",
+    "category": "emblem",
+    "is_prf": true,
+    "tier": 1,
+    "addition_date": "2026-05-29",
+    "release_date": "2026-05-29",
+    "version": "10.5"
   },
   {
     "id": "EMBLEM_PID_紋章シグルド",

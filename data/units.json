@@ -33277,6 +33277,35 @@
     "skills_max_sp": 2600
   },
   {
+    "id": "PID_紋章ロイ",
+    "fandom_id": "Roy: Of Binding",
+    "name": "Roy",
+    "title": "Of Binding",
+    "full_name": "Roy: Of Binding",
+    "abbreviated_name": "E!Roy",
+    "gender": "M",
+    "move_type": "Infantry",
+    "weapon_type": "Red Sword",
+    "games": [
+      "Fire Emblem: The Binding Blade",
+      "Fire Emblem Engage"
+    ],
+    "id_int": 1382,
+    "origin": "050000100100",
+    "book": 10,
+    "max_df": 5,
+    "is_emblem": true,
+    "addition_date": "2026-05-29",
+    "release_date": "2026-05-29",
+    "version": "10.5",
+    "game8_id": "603005",
+    "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/0c/Roy_Of_Binding_Face_FC.webp/revision/latest?cb=20260529042459",
+    "bst": 204,
+    "visible_bst": 208,
+    "max_score": 770,
+    "skills_max_sp": 2600
+  },
+  {
     "id": "PID_ロイ",
     "fandom_id": "Roy: Young Lion",
     "name": "Roy",

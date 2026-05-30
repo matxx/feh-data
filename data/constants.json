@@ -225,7 +225,7 @@
     "【Vantage】<br>If foe initiates combat, unit can counterattack before foe's first attack for 1 turn.",
     "【Warp Bubble】<br>Foes cannot warp into spaces within 4 spaces of unit. (Does not affect foes with Pass skills or warp effects from structures, like camps and fortresses in Rival Domains.)"
   ],
-  "units_count": 1381,
+  "units_count": 1382,
   "units_max_hp": 60,
   "units_max_hp_ids": [
     "PID_アーダン"
@@ -260,6 +260,7 @@
     "PID_紋章カムイ女",
     "PID_紋章ベレト",
     "PID_紋章ルキナ",
+    "PID_紋章ロイ",
     "PID_総選挙シャロン",
     "PID_魔器幼少イング",
     "PID_魔器春祭サザ"

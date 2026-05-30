@@ -94614,6 +94614,120 @@
     "unlock": 2
   },
   {
+    "unit_id": "PID_紋章ロイ",
+    "skill_id": "SID_攻撃速さの信念",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_紋章ロイ",
+    "skill_id": "SID_攻撃速さの信義1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_紋章ロイ",
+    "skill_id": "SID_攻撃速さの信義2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_紋章ロイ",
+    "skill_id": "SID_攻撃速さの信義3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_紋章ロイ",
+    "skill_id": "SID_獅子紅蓮焔舞",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_紋章ロイ",
+    "skill_id": "SID_蛍火",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_紋章ロイ",
+    "skill_id": "SID_華炎",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_紋章ロイ",
+    "skill_id": "SID_鉄の剣",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_紋章ロイ",
+    "skill_id": "SID_防陣1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_紋章ロイ",
+    "skill_id": "SID_防陣2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_紋章ロイ",
+    "skill_id": "SID_防陣3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_紋章ロイ",
+    "skill_id": "SID_防陣4",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_紋章ロイ",
+    "skill_id": "SID_超越1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_紋章ロイ",
+    "skill_id": "SID_超越2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_紋章ロイ",
+    "skill_id": "SID_超越3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_紋章ロイ",
+    "skill_id": "SID_超越4",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_紋章ロイ",
+    "skill_id": "SID_銀の剣",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_紋章ロイ",
+    "skill_id": "SID_鋼の剣",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_紋章ロイ",
+    "skill_id": "SID_若き獅子の剣",
+    "default": 5,
+    "unlock": 5
+  },
+  {
     "unit_id": "PID_ロイ",
     "skill_id": "SID_封印の剣",
     "default": 5,
@@ -118484,6 +118598,12 @@
   {
     "unit_id": "PID_紋章ミカヤ",
     "skill_id": "EMBLEM_PID_紋章ミカヤ",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_紋章ロイ",
+    "skill_id": "EMBLEM_PID_紋章ロイ",
     "default": 0,
     "unlock": 1
   },

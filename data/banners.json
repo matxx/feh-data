@@ -1144,6 +1144,23 @@
     ]
   },
   {
+    "name": "Emblem Roy: Of Binding",
+    "unit_ids": [
+      "PID_つながりニニアン",
+      "PID_ヘイムダル味方",
+      "PID_ヘズ味方",
+      "PID_ヴァーリ味方",
+      "PID_伝承ディアマンド",
+      "PID_双界総選挙セリカ",
+      "PID_愛の祭オルテンシア",
+      "PID_救世フィヨルム",
+      "PID_比翼ヴェイル",
+      "PID_紋章ルキナ",
+      "PID_紋章ロイ",
+      "PID_魔器ラーチェル"
+    ]
+  },
+  {
     "name": "Emblem Sigurd: Of the Holy War",
     "unit_ids": [
       "PID_グルヴェイグ味方",
@@ -1714,6 +1731,15 @@
       "PID_クロム",
       "PID_リズ",
       "PID_ルフレ男"
+    ]
+  },
+  {
+    "name": "Focus: Claimed by Darkness",
+    "unit_ids": [
+      "PID_闇ベレス",
+      "PID_闇リュール女",
+      "PID_闇レナ",
+      "PID_魔器魔獣ドゥドゥー"
     ]
   },
   {
@@ -8214,6 +8240,14 @@
     ]
   },
   {
+    "name": "Focus: Weekly Revival 126",
+    "unit_ids": [
+      "PID_ノア",
+      "PID_開花フィル",
+      "PID_闇マリア"
+    ]
+  },
+  {
     "name": "Focus: Weekly Revival 13",
     "unit_ids": [
       "PID_ターナ",
@@ -12201,6 +12235,19 @@
       "PID_魔器スタルーク",
       "PID_魔器マリアンヌ",
       "PID_魔器ルキナ"
+    ]
+  },
+  {
+    "name": "New Heroes Return (May 2026)",
+    "unit_ids": [
+      "PID_お供ユナカ",
+      "PID_双界総選挙リン",
+      "PID_比翼エリンシア",
+      "PID_響心リョウマ",
+      "PID_響心リーフ",
+      "PID_魔器エル",
+      "PID_魔器ヒノカ",
+      "PID_魔器リシテア"
     ]
   },
   {
