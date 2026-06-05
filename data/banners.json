@@ -5602,6 +5602,14 @@
     ]
   },
   {
+    "name": "Focus: Mythic Revival 3",
+    "unit_ids": [
+      "PID_スラシル味方",
+      "PID_リーヴ味方",
+      "PID_神階エイル"
+    ]
+  },
+  {
     "name": "Focus: Nergal & Ursula's Battle",
     "unit_ids": [
       "PID_ジャファル",
@@ -6096,6 +6104,15 @@
       "PID_外伝パオラ",
       "PID_年明ベロア",
       "PID_覇骸エーデルガルト"
+    ]
+  },
+  {
+    "name": "Focus: New Power (Jun 2026)",
+    "unit_ids": [
+      "PID_ネイミー",
+      "PID_ミリエル",
+      "PID_双界外伝カチュア",
+      "PID_開花レーギャルン"
     ]
   },
   {
@@ -8248,6 +8265,14 @@
     ]
   },
   {
+    "name": "Focus: Weekly Revival 127",
+    "unit_ids": [
+      "PID_シトリニカ",
+      "PID_ディアマンド",
+      "PID_魔器スタルーク"
+    ]
+  },
+  {
     "name": "Focus: Weekly Revival 13",
     "unit_ids": [
       "PID_ターナ",
@@ -9323,6 +9348,14 @@
       "PID_春祭カゲロウ",
       "PID_春祭カチュア",
       "PID_春祭シャロン"
+    ]
+  },
+  {
+    "name": "Harmonized CYL Alm, Micaiah",
+    "unit_ids": [
+      "PID_双界総選挙アルム",
+      "PID_双界総選挙ミカヤ",
+      "PID_救世レーギャルン"
     ]
   },
   {

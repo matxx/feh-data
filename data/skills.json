@@ -10511,6 +10511,7 @@
   },
   {
     "id": "SID_攻撃魔防の領空",
+    "game8_id": "604245",
     "fandom_id": "Atk/Res Airspace",
     "name": "Atk/Res Airspace",
     "category": "passivea",
@@ -20094,6 +20095,7 @@
   },
   {
     "id": "SID_聖なる弓",
+    "game8_id": "604244",
     "fandom_id": "Blessed Bow",
     "name": "Blessed Bow",
     "category": "passivea",
@@ -20661,6 +20663,7 @@
   },
   {
     "id": "SID_飛竜碧空",
+    "game8_id": "604247",
     "fandom_id": "Blue-Sky Wyvern",
     "name": "Blue-Sky Wyvern",
     "category": "passiveb",
@@ -28040,6 +28043,7 @@
   },
   {
     "id": "SID_炎の救世の斧",
+    "game8_id": "604242",
     "fandom_id": "Chosen Axe",
     "name": "Chosen Axe",
     "category": "weapon",
@@ -32791,6 +32795,7 @@
   },
   {
     "id": "SID_暁暗の光",
+    "game8_id": "604241",
     "fandom_id": "Dawning Light",
     "name": "Dawning Light",
     "category": "weapon",
@@ -62549,6 +62554,7 @@
   },
   {
     "id": "SID_氷鋒",
+    "game8_id": "604243",
     "fandom_id": "Ice Edge",
     "name": "Ice Edge",
     "category": "special",
@@ -76902,6 +76908,7 @@
   },
   {
     "id": "SID_追撃の鼓動・見切り",
+    "game8_id": "604248",
     "fandom_id": "Null Pulse Follow",
     "name": "Null Pulse Follow",
     "category": "passivec",
@@ -89170,6 +89177,7 @@
   },
   {
     "id": "SID_炎の決意",
+    "game8_id": "604249",
     "fandom_id": "Resolving Flame",
     "name": "Resolving Flame",
     "category": "passivec",
@@ -124890,6 +124898,7 @@
   },
   {
     "id": "SID_真ユンヌの囁き",
+    "game8_id": "604246",
     "fandom_id": "Yune's Chirps",
     "name": "Yune's Chirps",
     "category": "passiveb",
@@ -149027,7 +149036,7 @@
   },
   {
     "id": "HARMONIZED_PID_双界総選挙アルム",
-    "game8_id": null,
+    "game8_id": "604237",
     "fandom_id": "Alm: For Others' Sake",
     "name": "Alm: For Others' Sake",
     "category": "harmonized",
@@ -149375,7 +149384,7 @@
   },
   {
     "id": "HARMONIZED_PID_双界総選挙ミカヤ",
-    "game8_id": null,
+    "game8_id": "604238",
     "fandom_id": "Micaiah: Beyond Conflict",
     "name": "Micaiah: Beyond Conflict",
     "category": "harmonized",

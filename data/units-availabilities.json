@@ -734,9 +734,11 @@
       "hg": false,
       "dc": false,
       "ldc": false,
-      "foc": false
+      "foc": true
     },
-    "lowest_rarity": {},
+    "lowest_rarity": {
+      "foc": 5
+    },
     "skill_ids": [
       "HARMONIZED_PID_双界総選挙アルム",
       "SID_ブレイクラッシュ",
@@ -30838,9 +30840,11 @@
       "hg": false,
       "dc": false,
       "ldc": false,
-      "foc": false
+      "foc": true
     },
-    "lowest_rarity": {},
+    "lowest_rarity": {
+      "foc": 5
+    },
     "skill_ids": [
       "HARMONIZED_PID_双界総選挙ミカヤ",
       "SID_ウインド",
