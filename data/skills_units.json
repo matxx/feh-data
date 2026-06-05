@@ -1980,6 +1980,114 @@
     "unlock": 2
   },
   {
+    "unit_id": "PID_双界総選挙アルム",
+    "skill_id": "SID_攻撃速さの共感",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_双界総選挙アルム",
+    "skill_id": "SID_攻撃速さの連携1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_双界総選挙アルム",
+    "skill_id": "SID_攻撃速さの連携2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_双界総選挙アルム",
+    "skill_id": "SID_攻撃速さの連携3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_双界総選挙アルム",
+    "skill_id": "SID_聖なる弓",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_双界総選挙アルム",
+    "skill_id": "SID_蛍火",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_双界総選挙アルム",
+    "skill_id": "SID_竜氷ファルシオン",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_双界総選挙アルム",
+    "skill_id": "SID_華炎",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_双界総選挙アルム",
+    "skill_id": "SID_鉄の剣",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_双界総選挙アルム",
+    "skill_id": "SID_追撃の鼓動・見切り",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_双界総選挙アルム",
+    "skill_id": "SID_引き戻し",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_双界総選挙アルム",
+    "skill_id": "SID_引き戻し・歩法",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_双界総選挙アルム",
+    "skill_id": "SID_ブレイクラッシュ",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_双界総選挙アルム",
+    "skill_id": "SID_銀の剣",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_双界総選挙アルム",
+    "skill_id": "SID_鋼の剣",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_双界総選挙アルム",
+    "skill_id": "SID_始まりの鼓動1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_双界総選挙アルム",
+    "skill_id": "SID_始まりの鼓動2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_双界総選挙アルム",
+    "skill_id": "SID_始まりの鼓動3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
     "unit_id": "PID_アルム",
     "skill_id": "SID_攻撃1",
     "default": 0,
@@ -58302,6 +58410,102 @@
     "unlock": 5
   },
   {
+    "unit_id": "PID_救世レーギャルン",
+    "skill_id": "SID_角逐",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_救世レーギャルン",
+    "skill_id": "SID_蒼穹1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_救世レーギャルン",
+    "skill_id": "SID_蒼穹2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_救世レーギャルン",
+    "skill_id": "SID_蒼穹3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_救世レーギャルン",
+    "skill_id": "SID_蒼穹・鬼没",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_救世レーギャルン",
+    "skill_id": "SID_飛竜碧空",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_救世レーギャルン",
+    "skill_id": "SID_炎の救世の斧",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_救世レーギャルン",
+    "skill_id": "SID_竜穿",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_救世レーギャルン",
+    "skill_id": "SID_伏竜",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_救世レーギャルン",
+    "skill_id": "SID_鉄の斧",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_救世レーギャルン",
+    "skill_id": "SID_炎の決意",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_救世レーギャルン",
+    "skill_id": "SID_銀の斧",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_救世レーギャルン",
+    "skill_id": "SID_鋼の斧",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_救世レーギャルン",
+    "skill_id": "SID_飛竜行空1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_救世レーギャルン",
+    "skill_id": "SID_飛竜行空2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_救世レーギャルン",
+    "skill_id": "SID_飛竜行空3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
     "unit_id": "PID_年明レーギャルン",
     "skill_id": "SID_魔防の封印1",
     "default": 0,
@@ -74820,6 +75024,114 @@
     "unlock": 2
   },
   {
+    "unit_id": "PID_双界総選挙ミカヤ",
+    "skill_id": "SID_攻魔十牽制・謀策",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_双界総選挙ミカヤ",
+    "skill_id": "SID_献身",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_双界総選挙ミカヤ",
+    "skill_id": "SID_攻撃魔防の領空",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_双界総選挙ミカヤ",
+    "skill_id": "SID_攻撃魔防の機先1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_双界総選挙ミカヤ",
+    "skill_id": "SID_攻撃魔防の機先2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_双界総選挙ミカヤ",
+    "skill_id": "SID_攻撃魔防の機先3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_双界総選挙ミカヤ",
+    "skill_id": "SID_攻撃魔防の牽制1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_双界総選挙ミカヤ",
+    "skill_id": "SID_攻撃魔防の牽制2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_双界総選挙ミカヤ",
+    "skill_id": "SID_攻撃魔防の牽制3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_双界総選挙ミカヤ",
+    "skill_id": "SID_氷点",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_双界総選挙ミカヤ",
+    "skill_id": "SID_暁暗の光",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_双界総選挙ミカヤ",
+    "skill_id": "SID_エルウインド",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_双界総選挙ミカヤ",
+    "skill_id": "SID_氷華",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_双界総選挙ミカヤ",
+    "skill_id": "SID_氷鋒",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_双界総選挙ミカヤ",
+    "skill_id": "SID_癒しの乙女",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_双界総選挙ミカヤ",
+    "skill_id": "SID_レクスカリバー",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_双界総選挙ミカヤ",
+    "skill_id": "SID_ウインド",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_双界総選挙ミカヤ",
+    "skill_id": "SID_真ユンヌの囁き",
+    "default": 0,
+    "unlock": 5
+  },
+  {
     "unit_id": "PID_比翼ミカヤ",
     "skill_id": "SID_献身",
     "default": 4,
@@ -76803,6 +77115,12 @@
     "unit_id": "PID_ミリエル",
     "skill_id": "SID_ブラーライオン＋",
     "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_ミリエル",
+    "skill_id": "SID_知的興味の手記",
+    "default": 0,
     "unlock": 5
   },
   {
@@ -118314,6 +118632,12 @@
     "unlock": 1
   },
   {
+    "unit_id": "PID_双界総選挙アルム",
+    "skill_id": "HARMONIZED_PID_双界総選挙アルム",
+    "default": 0,
+    "unlock": 1
+  },
+  {
     "unit_id": "PID_双界オルティナ",
     "skill_id": "HARMONIZED_PID_双界オルティナ",
     "default": 0,
@@ -118478,6 +118802,12 @@
   {
     "unit_id": "PID_双界ワユ",
     "skill_id": "HARMONIZED_PID_双界ワユ",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_双界総選挙ミカヤ",
+    "skill_id": "HARMONIZED_PID_双界総選挙ミカヤ",
     "default": 0,
     "unlock": 1
   },

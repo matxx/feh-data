@@ -727,6 +727,39 @@
     ]
   },
   {
+    "id": "PID_双界総選挙アルム",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {},
+    "skill_ids": [
+      "HARMONIZED_PID_双界総選挙アルム",
+      "SID_ブレイクラッシュ",
+      "SID_始まりの鼓動1",
+      "SID_始まりの鼓動2",
+      "SID_始まりの鼓動3",
+      "SID_引き戻し",
+      "SID_引き戻し・歩法",
+      "SID_攻撃速さの共感",
+      "SID_攻撃速さの連携1",
+      "SID_攻撃速さの連携2",
+      "SID_攻撃速さの連携3",
+      "SID_竜氷ファルシオン",
+      "SID_聖なる弓",
+      "SID_華炎",
+      "SID_蛍火",
+      "SID_追撃の鼓動・見切り",
+      "SID_鉄の剣",
+      "SID_銀の剣",
+      "SID_鋼の剣"
+    ]
+  },
+  {
     "id": "PID_アルム",
     "is_in": {
       "gsp": true,
@@ -12283,13 +12316,14 @@
     "is_in": {
       "gsp": false,
       "ssp": true,
-      "hg": false,
+      "hg": true,
       "dc": false,
       "ldc": true,
       "foc": false
     },
     "lowest_rarity": {
       "ssp": 5,
+      "hg": 5,
       "ldc": 5
     },
     "skill_ids": [
@@ -12793,11 +12827,12 @@
       "ssp": true,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "lowest_rarity": {
-      "ssp": 5
+      "ssp": 5,
+      "ldc": 5
     },
     "skill_ids": [
       "SID_攻撃守備の奮起1",
@@ -12815,7 +12850,17 @@
       "SID_鉄の斧",
       "SID_銀の斧",
       "SID_鋼の斧"
-    ]
+    ],
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2026,
+          "month": 6,
+          "rarity": 5,
+          "cost": 300
+        }
+      ]
+    }
   },
   {
     "id": "PID_エレミヤ",
@@ -19493,11 +19538,12 @@
       "ssp": true,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "lowest_rarity": {
-      "ssp": 5
+      "ssp": 5,
+      "ldc": 5
     },
     "skill_ids": [
       "SID_守備の波・奇数1",
@@ -19511,7 +19557,17 @@
       "SID_鉄の槍",
       "SID_銀の槍",
       "SID_鋼の槍"
-    ]
+    ],
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2026,
+          "month": 6,
+          "rarity": 5,
+          "cost": 300
+        }
+      ]
+    }
   },
   {
     "id": "PID_年明フリーズ",
@@ -23058,6 +23114,12 @@
           "month": 6,
           "rarity": 4,
           "cost": 100
+        },
+        {
+          "year": 2026,
+          "month": 6,
+          "rarity": 4,
+          "cost": 100
         }
       ]
     }
@@ -23916,6 +23978,38 @@
         }
       ]
     }
+  },
+  {
+    "id": "PID_救世レーギャルン",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "lowest_rarity": {
+      "foc": 5
+    },
+    "skill_ids": [
+      "SID_伏竜",
+      "SID_炎の救世の斧",
+      "SID_炎の決意",
+      "SID_竜穿",
+      "SID_蒼穹1",
+      "SID_蒼穹2",
+      "SID_蒼穹3",
+      "SID_蒼穹・鬼没",
+      "SID_角逐",
+      "SID_鉄の斧",
+      "SID_銀の斧",
+      "SID_鋼の斧",
+      "SID_飛竜碧空",
+      "SID_飛竜行空1",
+      "SID_飛竜行空2",
+      "SID_飛竜行空3"
+    ]
   },
   {
     "id": "PID_年明レーギャルン",
@@ -30091,11 +30185,12 @@
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "lowest_rarity": {
-      "gsp": 3
+      "gsp": 3,
+      "ldc": 4
     },
     "skill_ids": [
       "SID_古の地竜族のブレス",
@@ -30110,7 +30205,17 @@
       "SID_火のブレス",
       "SID_火炎のブレス",
       "SID_灼熱のブレス"
-    ]
+    ],
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2026,
+          "month": 6,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "PID_ミレディ",
@@ -30724,6 +30829,39 @@
         }
       ]
     }
+  },
+  {
+    "id": "PID_双界総選挙ミカヤ",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {},
+    "skill_ids": [
+      "HARMONIZED_PID_双界総選挙ミカヤ",
+      "SID_ウインド",
+      "SID_エルウインド",
+      "SID_レクスカリバー",
+      "SID_攻撃魔防の機先1",
+      "SID_攻撃魔防の機先2",
+      "SID_攻撃魔防の機先3",
+      "SID_攻撃魔防の牽制1",
+      "SID_攻撃魔防の牽制2",
+      "SID_攻撃魔防の牽制3",
+      "SID_攻撃魔防の領空",
+      "SID_攻魔十牽制・謀策",
+      "SID_暁暗の光",
+      "SID_氷点",
+      "SID_氷華",
+      "SID_氷鋒",
+      "SID_献身",
+      "SID_癒しの乙女",
+      "SID_真ユンヌの囁き"
+    ]
   },
   {
     "id": "PID_比翼ミカヤ",
@@ -31539,6 +31677,7 @@
       "SID_攻撃速さの万全1",
       "SID_攻撃速さの万全2",
       "SID_攻撃速さの万全3",
+      "SID_知的興味の手記",
       "SID_速さ魔防の連携1",
       "SID_速さ魔防の連携2",
       "SID_速さ魔防の連携3"
@@ -34394,6 +34533,12 @@
       "limited": [
         {
           "year": 2021,
+          "month": 6,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2026,
           "month": 6,
           "rarity": 4,
           "cost": 100
@@ -45023,11 +45168,12 @@
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "lowest_rarity": {
-      "gsp": 3
+      "gsp": 3,
+      "ldc": 4
     },
     "skill_ids": [
       "SID_サーリャの禁呪",
@@ -45043,7 +45189,17 @@
       "SID_魔防の紋章1",
       "SID_魔防の紋章2",
       "SID_魔防の紋章3"
-    ]
+    ],
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2026,
+          "month": 6,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "PID_砂漠サーリャ",
@@ -48816,11 +48972,12 @@
       "ssp": false,
       "hg": true,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "lowest_rarity": {
-      "hg": 4
+      "hg": 4,
+      "ldc": 4
     },
     "skill_ids": [
       "SID_冬祭の飾り",
@@ -48835,7 +48992,17 @@
       "SID_速さ守備の拍節3",
       "SID_鉄の暗器",
       "SID_鋼の暗器"
-    ]
+    ],
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2026,
+          "month": 6,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "PID_花婿ゼロット",

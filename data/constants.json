@@ -15,6 +15,8 @@
     "NF"
   ],
   "games": [
+    "Echoes",
+    "Fates",
     "Fire Emblem Awakening",
     "Fire Emblem Echoes: Shadows of Valentia",
     "Fire Emblem Engage",
@@ -33,6 +35,8 @@
     "Fire Emblem: The Sacred Stones",
     "Fire Emblem: Thracia 776",
     "Fire Emblem: Three Houses",
+    "Radiant Dawn",
+    "The Blazing Blade",
     "Tokyo Mirage Sessions ♯FE Encore"
   ],
   "keywords": [
@@ -40,6 +44,7 @@
     "【Assign Decoy Twin】<br>If foe's Range = unit's Range and foe initiates combat against an ally within 2 spaces of unit, triggers【Savior】on unit (triggers only if unit is not equipped with a skill that can trigger another Savior effect; if unit is granted multiple statuses that enable【Savior】effects to trigger,【Savior】will not trigger).<br><br>If foe's Range = unit's Range and foe initiates combat, any \"reduces damage by X%\" effect that can be triggered only once per combat by unit's equipped Special skill can be triggered up to twice per combat (excludes boosted Special effects from engaging; only highest value applied; does not stack).",
     "【Assign Decoy】<br>If foe's Range = unit's Range and foe initiates combat against an ally within 2 spaces of unit, triggers【Savior】on unit (that turn only; triggers only if unit is not equipped with a skill that can trigger the Savior effect).",
     "【Assign Decoy】<br>If foe's Range = unit's Range and foe initiates combat against an ally within 2 spaces of unit, triggers【Savior】on unit (triggers only if unit is not equipped with a skill that can trigger the Savior effect).",
+    "【Atk Liberate】<br>Grants bonus to Atk during combat = number of Bonus effects active on unit, excluding stat bonuses, + 4 (max 8).",
     "【Atk Liberate】<br>Grants bonus to Atk during combat = number of【Bonus】effects active on unit, excluding stat bonuses, + 4 (max 8).",
     "【Atk Shackle】<br>Inflicts penalty on unit's Atk during combat = number of Penalty effects active on unit + 4, excluding stat penalties (max 8).",
     "【Beast (Cavalry)】<br>At start of turn, if unit is adjacent to only beast or dragon allies or if unit is not adjacent to any ally, unit transforms (otherwise, unit reverts). If unit transforms, grants Atk+2, and if unit initiates combat, inflicts Atk/Def-4 on foe during combat and foe cannot make a follow-up attack.",
@@ -87,6 +92,7 @@
     "【Charge】<br>Unit can move up to 3 spaces in any cardinal direction. (Cannot move through foes, terrain that blocks movement, or effects of skills like Obstruct. Granted movement treated as Warp movement.)",
     "【Coax】<br>Grants a status that can trigger certain skill effects to unit.",
     "【Collapsed Star】<br>If it is unit's first combat initiated by foe this turn, reduces damage from foe's first attack to a maximum of 1 during combat (\"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes).",
+    "【Creation Pulse】<br>If unit's attack can trigger unit's Special, grants Special cooldown count-X before unit's first attack during combat (X = number of Penalty effects active on foe, excluding stat penalties; max 2). (For 1 turn.)",
     "【Creation Pulse】<br>If unit's attack can trigger unit's Special, grants Special cooldown count-X before unit's first attack during combat (X = number of Penalty effects active on foe, excluding stat penalties; max 2).<br>(For 1 turn.)",
     "【Dagger 7】<br>After combat, if unit attacked, inflicts Def/Res-7 on target and foes within 2 spaces of target through their next actions.",
     "【Dagger ５】<br>After combat, if unit attacked, inflicts Def/Res-５ on target and foes within 2 spaces of target through their next actions.",
@@ -127,6 +133,7 @@
     "【Empathy】<br>Grants bonus to unit's Atk/Spd/Def/Res = number of types of【Bonus】effects, excluding stat bonuses, and【Penalty】effects, excluding stat penalties, active on player team and enemy team during combat (max 7).",
     "【En Garde】<br>Neutralizes damage outside of combat (from skills like Poison Strike, structures like Bolt Tower, etc.) (excluding area-of-effect Specials).",
     "【En Garde】<br>Neutralizes damage outside of combat (from skills like Poison Strike, structures like Bolt Tower, etc.) except damage dealt by area-of-effect Specials.",
+    "【Essence Drain】<br>After combat, if unit attacked, grants any Bonus effects active on target and foes within 2 spaces of target to unit and allies with the Essence Drain effect, and neutralizes any Bonus active on target and foes within 2 spaces of target (excluding Bonus effects being granted at the same time). After combat, if foe was defeated in combat, restores 10 HP to unit and allies with the Essence Drain effect.",
     "【Essence Drain】<br>After combat, if unit attacked, grants any 【Bonus】effects active on target and foes within 2 spaces of target to unit and allies with the Essence Drain effect, and neutralizes any【Bonus】active on target and foes within 2 spaces of target (excluding Bonus effects being granted at the same time). After combat, if foe was defeated in combat, restores 10 HP to unit and allies with the Essence Drain effect.",
     "【Exposure】<br>Foe's attacks deal +10 damage.",
     "【Fallen Star】<br>For 1 turn, during unit's first combat in player phase and enemy phase, reduces damage from foe's first attack by 80%.",
@@ -206,6 +213,7 @@
     "【Shove】<br>Range = 1. Pushes target ally 1 space away.",
     "【Sing/Dance】<br>Range = 1. Grants another action to target ally.",
     "【Smite】<br>Range = 1. Pushes target ally 2 spaces away.",
+    "【Spd Liberate】<br>Grants bonus to Spd during combat = number of Bonus effects active on unit, excluding stat bonuses, + 4 (max 8).",
     "【Spd Liberate】<br>Grants bonus to Spd during combat = number of【Bonus】effects active on unit, excluding stat bonuses, + 4 (max 8).",
     "【Spd Shackle】<br>Inflicts penalty on unit's Spd during combat = number of Penalty effects active on unit + 4, excluding stat penalties (max 8).",
     "【Spd Shackle】<br>Inflicts penalty on unit's Spd during combat = number of【Penalty】effects active on unit + 4, excluding stat penalties (max 8; through unit's next action).",
@@ -225,7 +233,7 @@
     "【Vantage】<br>If foe initiates combat, unit can counterattack before foe's first attack for 1 turn.",
     "【Warp Bubble】<br>Foes cannot warp into spaces within 4 spaces of unit. (Does not affect foes with Pass skills or warp effects from structures, like camps and fortresses in Rival Domains.)"
   ],
-  "units_count": 1382,
+  "units_count": 1385,
   "units_max_hp": 60,
   "units_max_hp_ids": [
     "PID_アーダン"
@@ -252,6 +260,7 @@
     "PID_幼少フェリクス",
     "PID_忍者シェズ女",
     "PID_忍者ユナカ",
+    "PID_救世レーギャルン",
     "PID_比翼エリンシア",
     "PID_比翼グルヴェイグ2",
     "PID_比翼バルドル",
