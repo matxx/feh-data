@@ -10523,7 +10523,9 @@
           "Flying"
         ]
       },
-      "weapons": null
+      "weapons": {
+        "none": true
+      }
     },
     "addition_date": "2026-06-04",
     "release_date": "2026-06-05",
@@ -62560,7 +62562,11 @@
           "Flying"
         ]
       },
-      "weapons": null
+      "weapons": {
+        "can_not_use": [
+          "Colorless Staff"
+        ]
+      }
     },
     "addition_date": "2026-06-04",
     "release_date": "2026-06-05",
@@ -76908,7 +76914,9 @@
           "Infantry"
         ]
       },
-      "weapons": null
+      "weapons": {
+        "none": true
+      }
     },
     "addition_date": "2026-06-04",
     "release_date": "2026-06-05",
@@ -130337,7 +130345,9 @@
       "moves": {
         "none": true
       },
-      "weapons": null
+      "weapons": {
+        "none": true
+      }
     },
     "upgrade_ids": [
       "SSID_第107迷宮の覇者2"
@@ -130355,7 +130365,9 @@
       "moves": {
         "none": true
       },
-      "weapons": null
+      "weapons": {
+        "none": true
+      }
     },
     "upgrade_ids": [
       "SSID_第107迷宮の覇者3"
@@ -130376,7 +130388,9 @@
       "moves": {
         "none": true
       },
-      "weapons": null
+      "weapons": {
+        "none": true
+      }
     },
     "downgrade_ids": [
       "SSID_第107迷宮の覇者2"
