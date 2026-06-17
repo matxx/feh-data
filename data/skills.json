@@ -122809,7 +122809,11 @@
           "Flying"
         ]
       },
-      "weapons": null
+      "weapons": {
+        "can_not_use": [
+          "Colorless Staff"
+        ]
+      }
     },
     "addition_date": "2026-06-17",
     "release_date": "2026-06-17",
