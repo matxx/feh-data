@@ -1728,6 +1728,90 @@
     "unlock": 4
   },
   {
+    "unit_id": "PID_水着アルフォンス",
+    "skill_id": "SID_攻守鼓譟・強化無効",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_水着アルフォンス",
+    "skill_id": "SID_真王器",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_水着アルフォンス",
+    "skill_id": "SID_攻撃守備の激突1",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_水着アルフォンス",
+    "skill_id": "SID_攻撃守備の激突2",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_水着アルフォンス",
+    "skill_id": "SID_攻撃守備の激突3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_水着アルフォンス",
+    "skill_id": "SID_ビーチパラソル",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_水着アルフォンス",
+    "skill_id": "SID_緋炎",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_水着アルフォンス",
+    "skill_id": "SID_守備の鼓舞1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_水着アルフォンス",
+    "skill_id": "SID_守備の鼓舞2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_水着アルフォンス",
+    "skill_id": "SID_守備の鼓舞3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_水着アルフォンス",
+    "skill_id": "SID_蛍火",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_水着アルフォンス",
+    "skill_id": "SID_鉄の槍",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_水着アルフォンス",
+    "skill_id": "SID_銀の槍",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_水着アルフォンス",
+    "skill_id": "SID_鋼の槍",
+    "default": 2,
+    "unlock": 2
+  },
+  {
     "unit_id": "PID_愛の祭アルフォンス",
     "skill_id": "SID_共感の花",
     "default": 3,
@@ -7743,6 +7827,102 @@
     "unit_id": "PID_バルドル味方",
     "skill_id": "SID_天日の神剣",
     "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_比翼バルドル2",
+    "skill_id": "SID_流星",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_比翼バルドル2",
+    "skill_id": "SID_魔の神髄・不屈",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_比翼バルドル2",
+    "skill_id": "SID_エルウインド",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_比翼バルドル2",
+    "skill_id": "SID_天の長姉末妹の祭器",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_比翼バルドル2",
+    "skill_id": "SID_真天に代わりて",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_比翼バルドル2",
+    "skill_id": "SID_奥の手・魔道1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_比翼バルドル2",
+    "skill_id": "SID_奥の手・魔道2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_比翼バルドル2",
+    "skill_id": "SID_奥の手・魔道3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_比翼バルドル2",
+    "skill_id": "SID_星影",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_比翼バルドル2",
+    "skill_id": "SID_レクスカリバー",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_比翼バルドル2",
+    "skill_id": "SID_計略・一斉突撃1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_比翼バルドル2",
+    "skill_id": "SID_計略・一斉突撃2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_比翼バルドル2",
+    "skill_id": "SID_計略・一斉突撃3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_比翼バルドル2",
+    "skill_id": "SID_計略・一斉突撃4",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_比翼バルドル2",
+    "skill_id": "SID_ウインド",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_比翼バルドル2",
+    "skill_id": "SID_風鋒",
+    "default": 0,
     "unlock": 5
   },
   {
@@ -47342,6 +47522,102 @@
   {
     "unit_id": "PID_ヘズ味方",
     "skill_id": "SID_真実の弁護者",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_魔器水着ヘズ",
+    "skill_id": "SID_攻守の看破・俯瞰",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_魔器水着ヘズ",
+    "skill_id": "SID_魔器・天女の日傘",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_魔器水着ヘズ",
+    "skill_id": "SID_攻撃守備の干渉1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_魔器水着ヘズ",
+    "skill_id": "SID_攻撃守備の干渉2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_魔器水着ヘズ",
+    "skill_id": "SID_攻撃守備の干渉3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_魔器水着ヘズ",
+    "skill_id": "SID_攻撃魔防の領空",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_魔器水着ヘズ",
+    "skill_id": "SID_攻撃魔防の機先1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_魔器水着ヘズ",
+    "skill_id": "SID_攻撃魔防の機先2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_魔器水着ヘズ",
+    "skill_id": "SID_攻撃魔防の機先3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_魔器水着ヘズ",
+    "skill_id": "SID_氷点",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_魔器水着ヘズ",
+    "skill_id": "SID_氷華",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_魔器水着ヘズ",
+    "skill_id": "SID_氷壁",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_魔器水着ヘズ",
+    "skill_id": "SID_鉄の弓",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_魔器水着ヘズ",
+    "skill_id": "SID_銀の弓",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_魔器水着ヘズ",
+    "skill_id": "SID_鋼の弓",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_魔器水着ヘズ",
+    "skill_id": "SID_真・真実の弁護者",
     "default": 0,
     "unlock": 5
   },
@@ -100788,6 +101064,102 @@
     "unlock": 2
   },
   {
+    "unit_id": "PID_水着シャロン",
+    "skill_id": "SID_角逐",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_水着シャロン",
+    "skill_id": "SID_攻速吸収・初撃鼓動",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_水着シャロン",
+    "skill_id": "SID_攻撃速さの万全1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_水着シャロン",
+    "skill_id": "SID_攻撃速さの万全2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_水着シャロン",
+    "skill_id": "SID_攻撃速さの万全3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_水着シャロン",
+    "skill_id": "SID_特製バーベキュー",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_水着シャロン",
+    "skill_id": "SID_竜穿",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_水着シャロン",
+    "skill_id": "SID_伏竜",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_水着シャロン",
+    "skill_id": "SID_鉄の剣",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_水着シャロン",
+    "skill_id": "SID_銀の剣",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_水着シャロン",
+    "skill_id": "SID_速さの吸収1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_水着シャロン",
+    "skill_id": "SID_速さの吸収2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_水着シャロン",
+    "skill_id": "SID_速さの吸収3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_水着シャロン",
+    "skill_id": "SID_鋼の剣",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_水着シャロン",
+    "skill_id": "SID_攻速無欠・鬼没",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_水着シャロン",
+    "skill_id": "SID_真あなたのシャロン",
+    "default": 0,
+    "unlock": 5
+  },
+  {
     "unit_id": "PID_春祭シャロン",
     "skill_id": "SID_飛燕の構え1",
     "default": 0,
@@ -118328,6 +118700,12 @@
   {
     "unit_id": "PID_比翼アスク",
     "skill_id": "DUO_PID_比翼アスク",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_比翼バルドル2",
+    "skill_id": "DUO_PID_比翼バルドル2",
     "default": 0,
     "unlock": 1
   },

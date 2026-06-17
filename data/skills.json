@@ -137,6 +137,36 @@
     ]
   },
   {
+    "id": "SID_攻守の看破・俯瞰",
+    "fandom_id": "A/D Detect Aerial",
+    "name": "A/D Detect Aerial",
+    "category": "passiveb",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/1e/A_D_Detect_Aerial.png/revision/latest?cb=20260617202501",
+    "sp": 300,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Cavalry",
+          "Flying"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "All Tome",
+          "All Bow",
+          "All Dagger"
+        ]
+      }
+    },
+    "addition_date": "2026-06-17",
+    "release_date": "2026-06-17",
+    "version": "10.6",
+    "downgrade_ids": [
+      "SID_攻撃守備の干渉3"
+    ]
+  },
+  {
     "id": "SID_鎧の護り手・遠間1",
     "game8_id": "356551",
     "fandom_id": "A/D Far Save",
@@ -2120,6 +2150,35 @@
     "version": "9.1",
     "downgrade_ids": [
       "SID_攻撃速さの防壁3"
+    ]
+  },
+  {
+    "id": "SID_攻速吸収・初撃鼓動",
+    "fandom_id": "A/S Taker Burst",
+    "name": "A/S Taker Burst",
+    "category": "passiveb",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/78/A_S_Taker_Burst.png/revision/latest?cb=20260617202511",
+    "sp": 400,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Infantry"
+        ]
+      },
+      "weapons": {
+        "can_not_use": [
+          "Colorless Staff",
+          "All Tome",
+          "All Breath"
+        ]
+      }
+    },
+    "addition_date": "2026-06-17",
+    "release_date": "2026-06-17",
+    "version": "10.6",
+    "downgrade_ids": [
+      "SID_速さの吸収3"
     ]
   },
   {
@@ -5588,6 +5647,39 @@
     ]
   },
   {
+    "id": "SID_魔器・天女の日傘",
+    "fandom_id": "Arcane Parasol",
+    "name": "Arcane Parasol",
+    "category": "weapon",
+    "weapon_type": "All Bow",
+    "is_arcane": true,
+    "sp": 300,
+    "tier": 4,
+    "range": 2,
+    "might": 14,
+    "has_refine": true,
+    "refines_max_sp": 350,
+    "eff": [
+      "flying"
+    ],
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "All Bow"
+        ]
+      }
+    },
+    "addition_date": "2026-06-17",
+    "release_date": "2026-06-17",
+    "version": "10.6",
+    "downgrade_ids": [
+      "SID_銀の弓"
+    ]
+  },
+  {
     "id": "SID_魔器・鍛錬の花槍",
     "game8_id": "402563",
     "fandom_id": "Arcane Qiang",
@@ -7704,7 +7796,8 @@
       "SID_剣姫の流星",
       "SID_無双の流星",
       "SID_真・ノヴァの聖戦士",
-      "SID_心流星"
+      "SID_心流星",
+      "SID_風鋒"
     ],
     "downgrade_ids": [
       "SID_星影"
@@ -10240,6 +10333,7 @@
     "release_date": "2021-01-01",
     "version": "5.0",
     "upgrade_ids": [
+      "SID_攻守の看破・俯瞰",
       "SID_攻撃守備の干渉4"
     ],
     "downgrade_ids": [
@@ -17090,6 +17184,24 @@
     "version": "2.6",
     "downgrade_ids": [
       "SID_ビーチフラッグ"
+    ]
+  },
+  {
+    "id": "SID_ビーチパラソル",
+    "fandom_id": "Beach Umbrella",
+    "name": "Beach Umbrella",
+    "category": "weapon",
+    "weapon_type": "Blue Lance",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "range": 1,
+    "might": 16,
+    "addition_date": "2026-06-17",
+    "release_date": "2026-06-17",
+    "version": "10.6",
+    "downgrade_ids": [
+      "SID_銀の槍"
     ]
   },
   {
@@ -36701,6 +36813,24 @@
     ]
   },
   {
+    "id": "SID_特製バーベキュー",
+    "fandom_id": "Deluxe BBQ",
+    "name": "Deluxe BBQ",
+    "category": "weapon",
+    "weapon_type": "Red Sword",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "range": 1,
+    "might": 16,
+    "addition_date": "2026-06-17",
+    "release_date": "2026-06-17",
+    "version": "10.6",
+    "downgrade_ids": [
+      "SID_銀の剣"
+    ]
+  },
+  {
     "id": "SID_魔竜のブレス",
     "game8_id": "265600",
     "fandom_id": "Demonic Breath",
@@ -54712,6 +54842,24 @@
     ]
   },
   {
+    "id": "SID_天の長姉末妹の祭器",
+    "fandom_id": "Godly Infusions",
+    "name": "Godly Infusions",
+    "category": "weapon",
+    "weapon_type": "Green Tome",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "range": 2,
+    "might": 14,
+    "addition_date": "2026-06-17",
+    "release_date": "2026-06-17",
+    "version": "10.6",
+    "downgrade_ids": [
+      "SID_レクスカリバー"
+    ]
+  },
+  {
     "id": "SID_黄金の蛇",
     "game8_id": "414921",
     "fandom_id": "Gold Serpent",
@@ -58980,6 +59128,19 @@
     "downgrade_ids": [
       "SID_銀の弓"
     ]
+  },
+  {
+    "id": "SID_真天に代わりて",
+    "fandom_id": "Heaven's Ethos",
+    "name": "Heaven's Ethos",
+    "category": "passivea",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/93/Heavens_Ethos.png/revision/latest?cb=20260617202452",
+    "is_prf": true,
+    "sp": 300,
+    "tier": 1,
+    "addition_date": "2026-06-17",
+    "release_date": "2026-06-17",
+    "version": "10.6"
   },
   {
     "id": "SID_天に代わりて",
@@ -89870,6 +90031,7 @@
       "SID_フォルセティ",
       "SID_ギガスカリバー",
       "SID_王書グラズヘイム",
+      "SID_天の長姉末妹の祭器",
       "SID_ヘイズ敵",
       "SID_グラフカリバー",
       "SID_魔銃ブロック",
@@ -98191,6 +98353,7 @@
       "SID_魔器・優しさの影弓",
       "SID_魔器・呪術の秘弓",
       "SID_魔器ナーストレンド",
+      "SID_魔器・天女の日傘",
       "SID_フレリアの玉弓",
       "SID_忠臣との絆の弓",
       "SID_うたた寝の春の弓",
@@ -98493,6 +98656,7 @@
       "SID_魔器・戦神の鋭槍",
       "SID_アラドヴァル",
       "SID_開神の加護宿す刃",
+      "SID_ビーチパラソル",
       "SID_虚ろな槍",
       "SID_黒鷲の聖夜の槍",
       "SID_壊刃の戦槍",
@@ -98720,6 +98884,7 @@
       "SID_黒き血の大剣",
       "SID_命なき狼牙の剣",
       "SID_聖王の軍師の剣",
+      "SID_特製バーベキュー",
       "SID_聖剣ティルフィング",
       "SID_竜剣ファルシオン",
       "SID_魔竜封印の剣",
@@ -106326,6 +106491,7 @@
     "release_date": "2024-12-25",
     "version": "9.0",
     "upgrade_ids": [
+      "SID_攻速吸収・初撃鼓動",
       "SID_速さの吸収4"
     ],
     "downgrade_ids": [
@@ -117761,6 +117927,19 @@
     ]
   },
   {
+    "id": "SID_真あなたのシャロン",
+    "fandom_id": "Truly Yours",
+    "name": "Truly Yours",
+    "category": "passivec",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/96/Truly_Yours.png/revision/latest?cb=20260617202532",
+    "is_prf": true,
+    "sp": 300,
+    "tier": 1,
+    "addition_date": "2026-06-17",
+    "release_date": "2026-06-17",
+    "version": "10.6"
+  },
+  {
     "id": "SID_真実の弁護者",
     "game8_id": "539560",
     "fandom_id": "Truth Keeper",
@@ -119655,6 +119834,19 @@
     "downgrade_ids": [
       "SID_死線3"
     ]
+  },
+  {
+    "id": "SID_真・真実の弁護者",
+    "fandom_id": "Verity Keeper",
+    "name": "Verity Keeper",
+    "category": "passivec",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/5b/Verity_Keeper.png/revision/latest?cb=20260617202522",
+    "is_prf": true,
+    "sp": 300,
+    "tier": 1,
+    "addition_date": "2026-06-17",
+    "release_date": "2026-06-17",
+    "version": "10.6"
   },
   {
     "id": "SID_祝杯のボトル",
@@ -122600,6 +122792,30 @@
     ],
     "downgrade_ids": [
       "SID_生命の疾風2"
+    ]
+  },
+  {
+    "id": "SID_風鋒",
+    "fandom_id": "Wind Edge",
+    "name": "Wind Edge",
+    "category": "special",
+    "sp": 500,
+    "tier": 3,
+    "cd": 5,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Cavalry",
+          "Flying"
+        ]
+      },
+      "weapons": null
+    },
+    "addition_date": "2026-06-17",
+    "release_date": "2026-06-17",
+    "version": "10.6",
+    "downgrade_ids": [
+      "SID_流星"
     ]
   },
   {
@@ -133273,6 +133489,84 @@
     ]
   },
   {
+    "id": "SSID_攻撃守備の干渉1",
+    "fandom_id": "Atk/Def Snag",
+    "name": "Atk/Def Snag 1",
+    "category": "sacredseal",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/60/Atk_Def_Snag_1.png/revision/latest?cb=20201228104932",
+    "sp": 60,
+    "tier": 1,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Cavalry",
+          "Flying"
+        ]
+      },
+      "weapons": {
+        "can_not_use": [
+          "Colorless Staff"
+        ]
+      }
+    },
+    "upgrade_ids": [
+      "SSID_攻撃守備の干渉2"
+    ]
+  },
+  {
+    "id": "SSID_攻撃守備の干渉2",
+    "fandom_id": "Atk/Def Snag",
+    "name": "Atk/Def Snag 2",
+    "category": "sacredseal",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/0b/Atk_Def_Snag_2.png/revision/latest?cb=20201228104942",
+    "sp": 120,
+    "tier": 2,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Cavalry",
+          "Flying"
+        ]
+      },
+      "weapons": {
+        "can_not_use": [
+          "Colorless Staff"
+        ]
+      }
+    },
+    "upgrade_ids": [
+      "SSID_攻撃守備の干渉3"
+    ],
+    "downgrade_ids": [
+      "SSID_攻撃守備の干渉1"
+    ]
+  },
+  {
+    "id": "SSID_攻撃守備の干渉3",
+    "fandom_id": "Atk/Def Snag",
+    "name": "Atk/Def Snag 3",
+    "category": "sacredseal",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/bd/Atk_Def_Snag_3.png/revision/latest?cb=20201228104952",
+    "sp": 240,
+    "tier": 3,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Cavalry",
+          "Flying"
+        ]
+      },
+      "weapons": {
+        "can_not_use": [
+          "Colorless Staff"
+        ]
+      }
+    },
+    "downgrade_ids": [
+      "SSID_攻撃守備の干渉2"
+    ]
+  },
+  {
     "id": "SSID_攻撃守備の孤軍1",
     "fandom_id": "Atk/Def Solo",
     "name": "Atk/Def Solo 1",
@@ -143729,6 +144023,78 @@
     ]
   },
   {
+    "id": "SSID_影助・体当たり1",
+    "fandom_id": "Shadow Shove",
+    "name": "Shadow Shove 1",
+    "category": "sacredseal",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/af/Shadow_Shove_1.png/revision/latest?cb=20251006043421",
+    "sp": 60,
+    "tier": 1,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Cavalry",
+          "Flying"
+        ]
+      },
+      "weapons": {
+        "none": true
+      }
+    },
+    "upgrade_ids": [
+      "SSID_影助・体当たり2"
+    ]
+  },
+  {
+    "id": "SSID_影助・体当たり2",
+    "fandom_id": "Shadow Shove",
+    "name": "Shadow Shove 2",
+    "category": "sacredseal",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/5d/Shadow_Shove_2.png/revision/latest?cb=20251006043432",
+    "sp": 120,
+    "tier": 2,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Cavalry",
+          "Flying"
+        ]
+      },
+      "weapons": {
+        "none": true
+      }
+    },
+    "upgrade_ids": [
+      "SSID_影助・体当たり3"
+    ],
+    "downgrade_ids": [
+      "SSID_影助・体当たり1"
+    ]
+  },
+  {
+    "id": "SSID_影助・体当たり3",
+    "fandom_id": "Shadow Shove",
+    "name": "Shadow Shove 3",
+    "category": "sacredseal",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c1/Shadow_Shove_3.png/revision/latest?cb=20251006043442",
+    "sp": 240,
+    "tier": 3,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Cavalry",
+          "Flying"
+        ]
+      },
+      "weapons": {
+        "none": true
+      }
+    },
+    "downgrade_ids": [
+      "SSID_影助・体当たり2"
+    ]
+  },
+  {
     "id": "SSID_盾のセッション1",
     "fandom_id": "Shield Session",
     "name": "Shield Session 1",
@@ -148433,6 +148799,18 @@
     "addition_date": "2022-12-28",
     "release_date": "2023-01-01",
     "version": "7.0"
+  },
+  {
+    "id": "DUO_PID_比翼バルドル2",
+    "game8_id": null,
+    "fandom_id": "Baldr: Eternal Shimmer",
+    "name": "Baldr: Eternal Shimmer",
+    "category": "duo",
+    "is_prf": true,
+    "tier": 1,
+    "addition_date": "2026-06-17",
+    "release_date": "2026-06-17",
+    "version": "10.6"
   },
   {
     "id": "DUO_PID_比翼バルドル",

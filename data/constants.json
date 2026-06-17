@@ -97,6 +97,7 @@
     "【Dark Emblem】<br>Grants Atk/Spd/Def/Res+5 during combat.",
     "【Deep Star】<br>For 1 turn, if it is unit's first combat initiated by foe that turn, reduces damage from foe's first attack by 80% during combat (that turn only; \"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes).",
     "【Deep Wounds】<br>Unit's HP cannot be healed through its next action.",
+    "【Def Liberate】<br>Grants bonus to Def during combat = number of【Bonus】effects active on unit, excluding stat bonuses, + 4 (max 8).",
     "【Def Shackle】<br>Inflicts penalty on unit's Def during combat = number of Penalty effects active on unit + 4, excluding stat penalties (max 8).",
     "【Def Shackle】<br>Inflicts penalty on unit's Def during combat = number of【Penalty】effects active on unit + 4, excluding stat penalties (max 8; through unit's next action).",
     "【Desperation】<br>Grants the following effect for 1 turn: \"If unit initiates combat, unit can make a follow-up attack before foe can counterattack.\"",
@@ -124,6 +125,7 @@
     "【Dosage】<br>Grants Atk/Spd/Def/Res+5 to unit during combat and restores 10 HP to unit after combat.<br><br>When a foe triggers both \"grants the【Bonus】effects active on foe\" and \"neutralizes any【Bonus】active on foe\" effects from skills such as Essence Drain on unit with this status active, prevents those effects on unit and other targets and neutralizes any【Bonus】effects active on that foe (does not neutralize【Bonus】effects applied at the same time).",
     "【Draconic Hex】<br>Inflicts Atk/Spd/Def/Res-5 on foe during combat and inflicts penalty on each of those stats = 5 - current penalty on each of those stats during combat for 1 turn (min 0; calculates each stat penalty independently).",
     "【Drain Cancel】<br>Grants Atk/Spd/Def/Res+4 to unit during combat.<br><br>When a foe triggers both \"grants the【Bonus】 effects active on foe\" and \"neutralizes any 【Bonus】active on foe\" effects from skills such as Essence Drain on unit with this status active, prevents those effects on unit and other targets and neutralizes any【Bonus】effects active on that foe (does not neutralize【Bonus】 effects applied at the same time).",
+    "【Drain Cancel】<br>Grants Atk/Spd/Def/Res+4 to unit during combat.<br><br>When a foe triggers both \"grants the【Bonus】<br>effects active on foe\" and \"neutralizes any 【Bonus】active on foe\" effects from skills such as Essence Drain on unit with this status active, prevents those effects on unit and other targets and neutralizes any【Bonus】effects active on that foe (does not neutralize【Bonus】<br>effects applied at the same time).",
     "【Dual Strike】<br>If unit initiates combat and is adjacent to an ally with Dual Strike (excluding unit), unit attacks twice. (That turn only. Does not stack.)",
     "【Empathy】<br>Grants bonus to unit's Atk/Spd/Def/Res = number of types of Bonus effects, excluding stat bonuses, and Penalty effects, excluding stat penalties, active on player team and enemy team during combat (max 7).",
     "【Empathy】<br>Grants bonus to unit's Atk/Spd/Def/Res = number of types of【Bonus】effects, excluding stat bonuses, and【Penalty】effects, excluding stat penalties, active on player team and enemy team during combat (max 7).",
@@ -229,7 +231,7 @@
     "【Vantage】<br>If foe initiates combat, unit can counterattack before foe's first attack for 1 turn.",
     "【Warp Bubble】<br>Foes cannot warp into spaces within 4 spaces of unit. (Does not affect foes with Pass skills or warp effects from structures, like camps and fortresses in Rival Domains.)"
   ],
-  "units_count": 1385,
+  "units_count": 1389,
   "units_max_hp": 60,
   "units_max_hp_ids": [
     "PID_アーダン"
@@ -260,7 +262,9 @@
     "PID_比翼エリンシア",
     "PID_比翼グルヴェイグ2",
     "PID_比翼バルドル",
+    "PID_比翼バルドル2",
     "PID_比翼フレイヤ",
+    "PID_水着シャロン",
     "PID_獣人リン",
     "PID_紋章カムイ女",
     "PID_紋章ベレト",

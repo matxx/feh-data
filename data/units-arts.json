@@ -126,6 +126,13 @@
     "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/07/Alfonse_Spring_Prince_BtlFace_D.webp/revision/latest?cb=20190920213944"
   },
   {
+    "id": "PID_水着アルフォンス",
+    "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/69/Alfonse_Sunlit_Spirit_Face.webp/revision/latest?cb=20260617044150",
+    "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/2/26/Alfonse_Sunlit_Spirit_BtlFace.webp/revision/latest?cb=20260617044126",
+    "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b9/Alfonse_Sunlit_Spirit_BtlFace_C.webp/revision/latest?cb=20260617044141",
+    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/71/Alfonse_Sunlit_Spirit_BtlFace_D.webp/revision/latest?cb=20260617044146"
+  },
+  {
     "id": "PID_愛の祭アルフォンス",
     "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/44/Alfonse_Uplifting_Love_Face.webp/revision/latest?cb=20210204074017",
     "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/fd/Alfonse_Uplifting_Love_BtlFace.webp/revision/latest?cb=20210204074019",
@@ -632,6 +639,13 @@
     "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/18/Baldr_Celestial_Sun_God_BtlFace.webp/revision/latest?cb=20241205202624",
     "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/a7/Baldr_Celestial_Sun_God_BtlFace_C.webp/revision/latest?cb=20241205202639",
     "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b1/Baldr_Celestial_Sun_God_BtlFace_D.webp/revision/latest?cb=20241205202644"
+  },
+  {
+    "id": "PID_比翼バルドル2",
+    "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/1b/Baldr_Eternal_Shimmer_Face.webp/revision/latest?cb=20260617044302",
+    "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/aa/Baldr_Eternal_Shimmer_BtlFace.webp/revision/latest?cb=20260617044238",
+    "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/46/Baldr_Eternal_Shimmer_BtlFace_C.webp/revision/latest?cb=20260617044253",
+    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/63/Baldr_Eternal_Shimmer_BtlFace_D.webp/revision/latest?cb=20260617044257"
   },
   {
     "id": "PID_比翼バルドル",
@@ -4055,6 +4069,13 @@
     "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/a6/Hodr_Dusk_Shadow_God_BtlFace.webp/revision/latest?cb=20241205202814",
     "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/74/Hodr_Dusk_Shadow_God_BtlFace_C.webp/revision/latest?cb=20241205202830",
     "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e3/Hodr_Dusk_Shadow_God_BtlFace_D.webp/revision/latest?cb=20241205202834"
+  },
+  {
+    "id": "PID_魔器水着ヘズ",
+    "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b9/Hodr_Twilight_Breeze_Face.webp/revision/latest?cb=20260617044337",
+    "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/44/Hodr_Twilight_Breeze_BtlFace.webp/revision/latest?cb=20260617044313",
+    "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/2/2f/Hodr_Twilight_Breeze_BtlFace_C.webp/revision/latest?cb=20260617044328",
+    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f4/Hodr_Twilight_Breeze_BtlFace_D.webp/revision/latest?cb=20260617044333"
   },
   {
     "id": "PID_ホルスト",
@@ -7835,7 +7856,11 @@
     "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c5/Ranulf_Friend_of_Nations_Face.webp/revision/latest?cb=20190920223747",
     "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/0a/Ranulf_Friend_of_Nations_BtlFace.webp/revision/latest?cb=20190920223752",
     "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/7c/Ranulf_Friend_of_Nations_BtlFace_C.webp/revision/latest?cb=20190920223757",
-    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f6/Ranulf_Friend_of_Nations_BtlFace_D.webp/revision/latest?cb=20190920223802"
+    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f6/Ranulf_Friend_of_Nations_BtlFace_D.webp/revision/latest?cb=20190920223802",
+    "art_resp_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/07/Ranulf_Friend_of_Nations_Resplendent_Face.webp/revision/latest?cb=20260617044412",
+    "art_resp_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/3f/Ranulf_Friend_of_Nations_Resplendent_BtlFace.webp/revision/latest?cb=20260617044347",
+    "art_resp_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/60/Ranulf_Friend_of_Nations_Resplendent_BtlFace_C.webp/revision/latest?cb=20260617044403",
+    "art_resp_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/ac/Ranulf_Friend_of_Nations_Resplendent_BtlFace_D.webp/revision/latest?cb=20260617044407"
   },
   {
     "id": "PID_ラファエル",
@@ -8776,6 +8801,13 @@
     "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/68/Sharena_Princess_of_Askr_BtlFace.webp/revision/latest?cb=20190920195304",
     "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/2/2f/Sharena_Princess_of_Askr_BtlFace_C.webp/revision/latest?cb=20190920195308",
     "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/1a/Sharena_Princess_of_Askr_BtlFace_D.webp/revision/latest?cb=20190920195311"
+  },
+  {
+    "id": "PID_水着シャロン",
+    "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/2/28/Sharena_Sea_of_Hope_Face.webp/revision/latest?cb=20260617044225",
+    "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/2/26/Sharena_Sea_of_Hope_BtlFace.webp/revision/latest?cb=20260617044200",
+    "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/ce/Sharena_Sea_of_Hope_BtlFace_C.webp/revision/latest?cb=20260617044216",
+    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/cc/Sharena_Sea_of_Hope_BtlFace_D.webp/revision/latest?cb=20260617044221"
   },
   {
     "id": "PID_春祭シャロン",

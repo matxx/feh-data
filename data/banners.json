@@ -1466,6 +1466,14 @@
     ]
   },
   {
+    "name": "Focus: Alear & Alear's Battle",
+    "unit_ids": [
+      "PID_闇リュール女",
+      "PID_闇リュール男",
+      "PID_闇ヴェイル"
+    ]
+  },
+  {
     "name": "Focus: Alear & Céline's Battle",
     "unit_ids": [
       "PID_クロエ",
@@ -1873,6 +1881,19 @@
       "PID_カイネギス",
       "PID_セリーヌ",
       "PID_リュール女"
+    ]
+  },
+  {
+    "name": "Focus: Double Emblem Heroes",
+    "unit_ids": [
+      "PID_紋章アイク",
+      "PID_紋章エイリーク",
+      "PID_紋章カムイ女",
+      "PID_紋章シグルド",
+      "PID_紋章セリカ",
+      "PID_紋章マルス",
+      "PID_紋章ミカヤ",
+      "PID_紋章リン"
     ]
   },
   {
@@ -3024,6 +3045,15 @@
       "PID_ディアマンド",
       "PID_ハロミスティラ",
       "PID_伝承リュール女"
+    ]
+  },
+  {
+    "name": "Focus: Hall of Forms (Jun 2026)",
+    "unit_ids": [
+      "PID_幼少カミラ",
+      "PID_幼少レオン",
+      "PID_比翼エリーゼ",
+      "PID_総選挙カムイ女"
     ]
   },
   {
@@ -7399,6 +7429,14 @@
     ]
   },
   {
+    "name": "Focus: Tempest Trials (Memories With You)",
+    "unit_ids": [
+      "PID_総選挙アルフォンス",
+      "PID_総選挙シャロン",
+      "PID_総選挙バルドル"
+    ]
+  },
+  {
     "name": "Focus: Tempest Trials (Mid-fest Digest)",
     "unit_ids": [
       "PID_キヌ",
@@ -8270,6 +8308,14 @@
       "PID_シトリニカ",
       "PID_ディアマンド",
       "PID_魔器スタルーク"
+    ]
+  },
+  {
+    "name": "Focus: Weekly Revival 128",
+    "unit_ids": [
+      "PID_総選挙グルヴェイグ",
+      "PID_総選挙セネリオ",
+      "PID_総選挙ルフレ男"
     ]
   },
   {
@@ -13923,6 +13969,15 @@
       "PID_水着オグマ",
       "PID_水着フレイヤ",
       "PID_水着フロージ"
+    ]
+  },
+  {
+    "name": "Summer's Gift (Focus)",
+    "unit_ids": [
+      "PID_比翼バルドル2",
+      "PID_水着アルフォンス",
+      "PID_水着シャロン",
+      "PID_魔器水着ヘズ"
     ]
   },
   {
