@@ -21732,6 +21732,38 @@
     ]
   },
   {
+    "id": "PID_ヨルムンガンド味方",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "lowest_rarity": {
+      "foc": 5
+    },
+    "skill_ids": [
+      "SID_のんびりだらーん",
+      "SID_世界蛇の神牙",
+      "SID_守備隊形1",
+      "SID_守備隊形2",
+      "SID_守備隊形3",
+      "SID_幼獣の化身・重装",
+      "SID_成獣の化身・重装",
+      "SID_盾の護り手・遠・茨",
+      "SID_盾の護り手・遠間1",
+      "SID_盾の護り手・遠間2",
+      "SID_盾の護り手・遠間3",
+      "SID_若獣の化身・重装",
+      "SID_華炎",
+      "SID_蛍火",
+      "SID_重装の双炎",
+      "SID_鉄壁隊形"
+    ]
+  },
+  {
     "id": "PID_開花ヨシュア",
     "is_in": {
       "gsp": true,

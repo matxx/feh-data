@@ -1470,7 +1470,7 @@
     "unit_ids": [
       "PID_闇リュール女",
       "PID_闇リュール男",
-      "PID_闇ヴェイル"
+      "PID_魔器魔獣ドゥドゥー"
     ]
   },
   {
@@ -2360,6 +2360,19 @@
       "PID_忍者サーリャ",
       "PID_比翼レア",
       "PID_氷部族ティト"
+    ]
+  },
+  {
+    "name": "Focus: Double Special Heroes (Jun 2026)",
+    "unit_ids": [
+      "PID_イリアアクア",
+      "PID_イリアミネルバ",
+      "PID_ハロネルトゥス",
+      "PID_双界ヒルダ",
+      "PID_年明ヴァーリ",
+      "PID_忍者フリーズ",
+      "PID_愛の祭オルテンシア",
+      "PID_比翼バルドル"
     ]
   },
   {
@@ -4642,6 +4655,14 @@
     ]
   },
   {
+    "name": "Focus: Heroes with Perfect Skills",
+    "unit_ids": [
+      "PID_お茶会フェリクス",
+      "PID_イグナーツ",
+      "PID_フェリア仮面マルス"
+    ]
+  },
+  {
     "name": "Focus: Heroes with Ploy Skills",
     "unit_ids": [
       "PID_ソニア",
@@ -6830,6 +6851,22 @@
       "PID_闇マリア",
       "PID_闇ヴェイル",
       "PID_闇魔器ルミエル"
+    ]
+  },
+  {
+    "name": "Focus: Surpassing Father 1",
+    "unit_ids": [
+      "PID_総選挙セリス",
+      "PID_総選挙ベレト",
+      "PID_響心リーフ"
+    ]
+  },
+  {
+    "name": "Focus: Surpassing Father 2",
+    "unit_ids": [
+      "PID_シャロン22025味方",
+      "PID_伝承ミルラ",
+      "PID_開花フィル"
     ]
   },
   {
@@ -11757,6 +11794,23 @@
     ]
   },
   {
+    "name": "Mythic Heroes - Jörmungandr",
+    "unit_ids": [
+      "PID_ムルヴァ",
+      "PID_ヨルムンガンド味方",
+      "PID_伝承漆黒の騎士",
+      "PID_双界エイリーク",
+      "PID_幼少フェリクス",
+      "PID_春祭トール",
+      "PID_神階チキ覚醒",
+      "PID_紋章ベレト",
+      "PID_響心エリウッド",
+      "PID_響心ラケシス",
+      "PID_魔器幼少イング",
+      "PID_魔器春祭サザ"
+    ]
+  },
+  {
     "name": "Mythic Heroes - Líf",
     "unit_ids": [
       "PID_カイネギス",
@@ -12262,6 +12316,19 @@
       "PID_魔器サザ",
       "PID_魔器リリーナ",
       "PID_魔器レイラ"
+    ]
+  },
+  {
+    "name": "New Heroes Return (Jun 2026)",
+    "unit_ids": [
+      "PID_お供ルーテ",
+      "PID_アシュ2味方",
+      "PID_双界総選挙アイク",
+      "PID_双界総選挙ヘクトル",
+      "PID_比翼マルス2",
+      "PID_魔器セネリオ",
+      "PID_魔器レイラ",
+      "PID_魔器ヴァニタス味方"
     ]
   },
   {

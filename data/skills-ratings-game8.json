@@ -21740,6 +21740,71 @@
     "game8_grade": "S"
   },
   {
+    "id": "SID_特製バーベキュー",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_ビーチパラソル",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_魔器・天女の日傘",
+    "game8_rating": "9.0",
+    "game8_grade": "A"
+  },
+  {
+    "id": "SID_天の長姉末妹の祭器",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_風鋒",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_真天に代わりて",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_攻速吸収・初撃鼓動",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_攻守の看破・俯瞰",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_真あなたのシャロン",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_真・真実の弁護者",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_のんびりだらーん",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_鉄壁隊形",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_盾の護り手・遠・茨",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
     "id": "SSID_金剛の呼吸",
     "game8_grade": "S"
   },
@@ -22869,6 +22934,10 @@
   },
   {
     "id": "SSID_蒼穹3",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SSID_第102迷宮の覇者3",
     "game8_grade": "S"
   }
 ]

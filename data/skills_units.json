@@ -53544,6 +53544,102 @@
     "unlock": 2
   },
   {
+    "unit_id": "PID_ヨルムンガンド味方",
+    "skill_id": "SID_成獣の化身・重装",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_ヨルムンガンド味方",
+    "skill_id": "SID_重装の双炎",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_ヨルムンガンド味方",
+    "skill_id": "SID_盾の護り手・遠・茨",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_ヨルムンガンド味方",
+    "skill_id": "SID_盾の護り手・遠間1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_ヨルムンガンド味方",
+    "skill_id": "SID_盾の護り手・遠間2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_ヨルムンガンド味方",
+    "skill_id": "SID_盾の護り手・遠間3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_ヨルムンガンド味方",
+    "skill_id": "SID_蛍火",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_ヨルムンガンド味方",
+    "skill_id": "SID_華炎",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_ヨルムンガンド味方",
+    "skill_id": "SID_鉄壁隊形",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_ヨルムンガンド味方",
+    "skill_id": "SID_のんびりだらーん",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_ヨルムンガンド味方",
+    "skill_id": "SID_世界蛇の神牙",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_ヨルムンガンド味方",
+    "skill_id": "SID_守備隊形1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_ヨルムンガンド味方",
+    "skill_id": "SID_守備隊形2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_ヨルムンガンド味方",
+    "skill_id": "SID_守備隊形3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_ヨルムンガンド味方",
+    "skill_id": "SID_幼獣の化身・重装",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_ヨルムンガンド味方",
+    "skill_id": "SID_若獣の化身・重装",
+    "default": 2,
+    "unlock": 2
+  },
+  {
     "unit_id": "PID_開花ヨシュア",
     "skill_id": "SID_ジャハナ王の砂刃",
     "default": 5,

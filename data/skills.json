@@ -138,6 +138,7 @@
   },
   {
     "id": "SID_攻守の看破・俯瞰",
+    "game8_id": "605694",
     "fandom_id": "A/D Detect Aerial",
     "name": "A/D Detect Aerial",
     "category": "passiveb",
@@ -2154,6 +2155,7 @@
   },
   {
     "id": "SID_攻速吸収・初撃鼓動",
+    "game8_id": "605693",
     "fandom_id": "A/S Taker Burst",
     "name": "A/S Taker Burst",
     "category": "passiveb",
@@ -5648,6 +5650,7 @@
   },
   {
     "id": "SID_魔器・天女の日傘",
+    "game8_id": "605689",
     "fandom_id": "Arcane Parasol",
     "name": "Arcane Parasol",
     "category": "weapon",
@@ -17188,6 +17191,7 @@
   },
   {
     "id": "SID_ビーチパラソル",
+    "game8_id": "605688",
     "fandom_id": "Beach Umbrella",
     "name": "Beach Umbrella",
     "category": "weapon",
@@ -31114,6 +31118,30 @@
     "version": "9.0"
   },
   {
+    "id": "SID_盾の護り手・遠・茨",
+    "game8_id": "607102",
+    "fandom_id": "D/R Briar F Save",
+    "name": "D/R Briar F Save",
+    "category": "passivec",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/ef/D_R_Briar_F_Save.png/revision/latest?cb=20260629191040",
+    "sp": 300,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Armored"
+        ]
+      },
+      "weapons": null
+    },
+    "addition_date": "2026-06-04",
+    "release_date": "2026-06-29",
+    "version": "10.6",
+    "downgrade_ids": [
+      "SID_盾の護り手・遠間3"
+    ]
+  },
+  {
     "id": "SID_守備魔防の魅了3",
     "game8_id": "556374",
     "fandom_id": "D/R Cantrip",
@@ -31218,6 +31246,7 @@
     "release_date": "2021-12-16",
     "version": "6.0",
     "upgrade_ids": [
+      "SID_盾の護り手・遠・茨",
       "SID_盾の護り手・遠・双"
     ],
     "downgrade_ids": [
@@ -36814,6 +36843,7 @@
   },
   {
     "id": "SID_特製バーベキュー",
+    "game8_id": "605687",
     "fandom_id": "Deluxe BBQ",
     "name": "Deluxe BBQ",
     "category": "weapon",
@@ -54843,6 +54873,7 @@
   },
   {
     "id": "SID_天の長姉末妹の祭器",
+    "game8_id": "605690",
     "fandom_id": "Godly Infusions",
     "name": "Godly Infusions",
     "category": "weapon",
@@ -59131,6 +59162,7 @@
   },
   {
     "id": "SID_真天に代わりて",
+    "game8_id": "605692",
     "fandom_id": "Heaven's Ethos",
     "name": "Heaven's Ethos",
     "category": "passivea",
@@ -65249,6 +65281,30 @@
     "version": "1.0",
     "upgrade_ids": [
       "SID_鋼の暗器"
+    ]
+  },
+  {
+    "id": "SID_鉄壁隊形",
+    "game8_id": "607101",
+    "fandom_id": "Iron Fighter",
+    "name": "Iron Fighter",
+    "category": "passiveb",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/99/Iron_Fighter.png/revision/latest?cb=20260629191026",
+    "sp": 400,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Armored"
+        ]
+      },
+      "weapons": null
+    },
+    "addition_date": "2026-06-04",
+    "release_date": "2026-06-29",
+    "version": "10.6",
+    "downgrade_ids": [
+      "SID_守備隊形3"
     ]
   },
   {
@@ -87922,6 +87978,20 @@
     ]
   },
   {
+    "id": "SID_のんびりだらーん",
+    "game8_id": "607100",
+    "fandom_id": "Relax",
+    "name": "Relax",
+    "category": "passivea",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c9/Relax.png/revision/latest?cb=20260629191016",
+    "is_prf": true,
+    "sp": 300,
+    "tier": 1,
+    "addition_date": "2026-06-04",
+    "release_date": "2026-06-29",
+    "version": "10.6"
+  },
+  {
     "id": "SID_悠遠のブレス",
     "game8_id": "385532",
     "fandom_id": "Remote Breath",
@@ -96159,6 +96229,24 @@
     "version": "6.10",
     "downgrade_ids": [
       "SID_幽静のブレス"
+    ]
+  },
+  {
+    "id": "SID_世界蛇の神牙",
+    "fandom_id": "Serpent's Fang",
+    "name": "Serpent's Fang",
+    "category": "weapon",
+    "weapon_type": "All Beast",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "range": 1,
+    "might": 14,
+    "addition_date": "2026-06-04",
+    "release_date": "2026-06-29",
+    "version": "10.6",
+    "downgrade_ids": [
+      "SID_成獣の化身・重装"
     ]
   },
   {
@@ -117928,6 +118016,7 @@
   },
   {
     "id": "SID_真あなたのシャロン",
+    "game8_id": "605695",
     "fandom_id": "Truly Yours",
     "name": "Truly Yours",
     "category": "passivec",
@@ -119837,6 +119926,7 @@
   },
   {
     "id": "SID_真・真実の弁護者",
+    "game8_id": "605696",
     "fandom_id": "Verity Keeper",
     "name": "Verity Keeper",
     "category": "passivec",
@@ -121549,6 +121639,7 @@
     "version": "1.0",
     "upgrade_ids": [
       "SID_魔の守備隊形",
+      "SID_鉄壁隊形",
       "SID_理の守備隊形"
     ],
     "downgrade_ids": [
@@ -122796,6 +122887,7 @@
   },
   {
     "id": "SID_風鋒",
+    "game8_id": "605691",
     "fandom_id": "Wind Edge",
     "name": "Wind Edge",
     "category": "special",
@@ -130228,6 +130320,7 @@
   },
   {
     "id": "SSID_第102迷宮の覇者3",
+    "game8_id": "607116",
     "fandom_id": "Squad Ace CX",
     "name": "Squad Ace CX 3",
     "category": "sacredseal",
@@ -148806,7 +148899,7 @@
   },
   {
     "id": "DUO_PID_比翼バルドル2",
-    "game8_id": null,
+    "game8_id": "605700",
     "fandom_id": "Baldr: Eternal Shimmer",
     "name": "Baldr: Eternal Shimmer",
     "category": "duo",
