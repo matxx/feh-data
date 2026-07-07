@@ -83364,7 +83364,9 @@
           "Infantry"
         ]
       },
-      "weapons": null
+      "weapons": {
+        "none": true
+      }
     },
     "addition_date": "2026-07-06",
     "release_date": "2026-07-07",
@@ -131200,7 +131202,9 @@
       "moves": {
         "none": true
       },
-      "weapons": null
+      "weapons": {
+        "none": true
+      }
     },
     "upgrade_ids": [
       "SSID_第108迷宮の覇者2"
@@ -131218,7 +131222,9 @@
       "moves": {
         "none": true
       },
-      "weapons": null
+      "weapons": {
+        "none": true
+      }
     },
     "upgrade_ids": [
       "SSID_第108迷宮の覇者3"
@@ -131239,7 +131245,9 @@
       "moves": {
         "none": true
       },
-      "weapons": null
+      "weapons": {
+        "none": true
+      }
     },
     "downgrade_ids": [
       "SSID_第108迷宮の覇者2"
