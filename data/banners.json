@@ -837,6 +837,15 @@
     ]
   },
   {
+    "name": "Cheer Leaders (Focus)",
+    "unit_ids": [
+      "PID_双界ベレス",
+      "PID_運動着アイク",
+      "PID_運動着エイクス",
+      "PID_運動着サーリャ"
+    ]
+  },
+  {
     "name": "Childhood Encounter (Focus)",
     "unit_ids": [
       "PID_幼少ターナ",
@@ -6087,6 +6096,15 @@
     ]
   },
   {
+    "name": "Focus: New Power (Jul 2026)",
+    "unit_ids": [
+      "PID_バジーリオ",
+      "PID_ヒュウ",
+      "PID_花嫁シャニー",
+      "PID_開花ヨシュア"
+    ]
+  },
+  {
     "name": "Focus: New Power (Jun 2018)",
     "unit_ids": [
       "PID_チキ",
@@ -7166,6 +7184,14 @@
       "PID_ノノ",
       "PID_ルキナ",
       "PID_ルフレ男"
+    ]
+  },
+  {
+    "name": "Focus: Tempest Trials (Daughters 1)",
+    "unit_ids": [
+      "PID_アイク",
+      "PID_サーリャ",
+      "PID_ベレス"
     ]
   },
   {

@@ -397,11 +397,12 @@
       "ssp": true,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "lowest_rarity": {
-      "ssp": 5
+      "ssp": 5,
+      "ldc": 5
     },
     "skill_ids": [
       "SID_凶星",
@@ -423,7 +424,17 @@
       "SID_魔防の波・偶数1",
       "SID_魔防の波・偶数2",
       "SID_魔防の波・偶数3"
-    ]
+    ],
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2026,
+          "month": 7,
+          "rarity": 5,
+          "cost": 300
+        }
+      ]
+    }
   },
   {
     "id": "PID_天の王味方",
@@ -1270,13 +1281,14 @@
     "is_in": {
       "gsp": false,
       "ssp": true,
-      "hg": false,
+      "hg": true,
       "dc": false,
       "ldc": true,
       "foc": false
     },
     "lowest_rarity": {
       "ssp": 5,
+      "hg": 5,
       "ldc": 5
     },
     "skill_ids": [
@@ -3357,6 +3369,7 @@
       "SID_攻撃守備の絆2",
       "SID_攻撃守備の絆3",
       "SID_月虹",
+      "SID_豪傑の大斧",
       "SID_鉄の斧",
       "SID_鋼の斧"
     ],
@@ -4398,6 +4411,42 @@
       "SID_神祖の怒り",
       "SID_竜穿",
       "SID_魔の神髄・不屈"
+    ]
+  },
+  {
+    "id": "PID_双界ベレス",
+    "is_in": {
+      "gsp": false,
+      "ssp": true,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {
+      "ssp": 5
+    },
+    "skill_ids": [
+      "HARMONIZED_PID_双界ベレス",
+      "SID_伏竜",
+      "SID_合気・強化無効",
+      "SID_回避・拍節1",
+      "SID_回避・拍節2",
+      "SID_回避・拍節3",
+      "SID_攻撃速さの万全1",
+      "SID_攻撃速さの万全2",
+      "SID_攻撃速さの万全3",
+      "SID_攻撃速さの信義1",
+      "SID_攻撃速さの信義2",
+      "SID_攻撃速さの信義3",
+      "SID_攻速信念・弱化無効",
+      "SID_攻速無欠・鬼没",
+      "SID_教え導く師の槍",
+      "SID_真天刻の拍動",
+      "SID_竜穿",
+      "SID_鉄の槍",
+      "SID_銀の槍",
+      "SID_鋼の槍"
     ]
   },
   {
@@ -7812,12 +7861,13 @@
       "ssp": true,
       "hg": false,
       "dc": true,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "lowest_rarity": {
       "ssp": 4,
-      "dc": 5
+      "dc": 5,
+      "ldc": 4
     },
     "skill_ids": [
       "SID_ブーケのステッキ",
@@ -7838,6 +7888,14 @@
           "number": 2,
           "title": "Mystery of the Emblem / Echoes",
           "cost": 400
+        }
+      ],
+      "limited": [
+        {
+          "year": 2026,
+          "month": 7,
+          "rarity": 4,
+          "cost": 100
         }
       ]
     }
@@ -9445,11 +9503,12 @@
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "lowest_rarity": {
-      "gsp": 4.5
+      "gsp": 4.5,
+      "ldc": 5
     },
     "skill_ids": [
       "SID_始まりの鼓動1",
@@ -9469,7 +9528,17 @@
       "SID_鉄の剣",
       "SID_銀の剣",
       "SID_鋼の剣"
-    ]
+    ],
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2026,
+          "month": 7,
+          "rarity": 5,
+          "cost": 300
+        }
+      ]
+    }
   },
   {
     "id": "PID_ディーク",
@@ -10925,6 +10994,36 @@
         }
       ]
     }
+  },
+  {
+    "id": "PID_運動着エイクス",
+    "is_in": {
+      "gsp": false,
+      "ssp": true,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {
+      "ssp": 4
+    },
+    "skill_ids": [
+      "SID_幼獣の化身・騎馬",
+      "SID_成獣の化身・騎馬",
+      "SID_攻撃守備の激突1",
+      "SID_攻撃守備の激突2",
+      "SID_攻撃守備の激突3",
+      "SID_暗獣・初撃の鼓動",
+      "SID_無への暗闘1",
+      "SID_無への暗闘2",
+      "SID_無への暗闘3",
+      "SID_真肉体の咆哮",
+      "SID_若獣の化身・騎馬",
+      "SID_華炎",
+      "SID_蛍火",
+      "SID_運動する体の角"
+    ]
   },
   {
     "id": "PID_水着エイクスルニル",
@@ -16785,11 +16884,12 @@
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "lowest_rarity": {
-      "gsp": 3
+      "gsp": 3,
+      "ldc": 4
     },
     "skill_ids": [
       "SID_堅牢のブレス",
@@ -16804,7 +16904,17 @@
       "SID_氷華",
       "SID_火のブレス",
       "SID_火炎のブレス"
-    ]
+    ],
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2026,
+          "month": 7,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "PID_グリ",
@@ -16922,6 +17032,7 @@
       "SID_アトラース",
       "SID_エルロック",
       "SID_ロック",
+      "SID_新たなるベル…・承",
       "SID_新たなるベルンの道",
       "SID_氷点",
       "SID_氷蒼",
@@ -16930,10 +17041,14 @@
       "SID_見切り・反撃不可2",
       "SID_見切り・反撃不可3",
       "SID_見切り・反撃不可4",
+      "SID_速さ魔防の疑惧",
       "SID_速さ魔防の秘奥1",
       "SID_速さ魔防の秘奥2",
       "SID_速さ魔防の秘奥3",
-      "SID_速さ魔防の秘奥4"
+      "SID_速さ魔防の秘奥4",
+      "SID_魔防の混乱1",
+      "SID_魔防の混乱2",
+      "SID_魔防の混乱3"
     ]
   },
   {
@@ -18287,7 +18402,11 @@
       "SID_恐慌の幻煙3",
       "SID_恐慌の幻煙4",
       "SID_攻撃の応援",
+      "SID_攻撃速さの共感",
       "SID_攻撃速さの応援",
+      "SID_攻撃速さの連携1",
+      "SID_攻撃速さの連携2",
+      "SID_攻撃速さの連携3",
       "SID_見切り・追撃効果1",
       "SID_見切り・追撃効果2",
       "SID_見切り・追撃効果3",
@@ -18296,7 +18415,8 @@
       "SID_鬼神飛燕の一撃2",
       "SID_鬼神飛燕の離撃3",
       "SID_魔の見切り・追撃",
-      "SID_黄金の蛇"
+      "SID_黄金の蛇",
+      "SID_黄金の蛇・神"
     ]
   },
   {
@@ -20235,6 +20355,41 @@
     }
   },
   {
+    "id": "PID_運動着アイク",
+    "is_in": {
+      "gsp": false,
+      "ssp": true,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {
+      "ssp": 5
+    },
+    "skill_ids": [
+      "SID_グレイル傭兵団の旗",
+      "SID_切り返し1",
+      "SID_切り返し2",
+      "SID_切り返し3",
+      "SID_守備魔防の信義1",
+      "SID_守備魔防の信義2",
+      "SID_守備魔防の信義3",
+      "SID_守魔信念・弱化無効",
+      "SID_影月",
+      "SID_後の先",
+      "SID_月光",
+      "SID_正真蒼炎の天空",
+      "SID_超越1",
+      "SID_超越2",
+      "SID_超越3",
+      "SID_超越4",
+      "SID_鉄の剣",
+      "SID_銀の剣",
+      "SID_鋼の剣"
+    ]
+  },
+  {
     "id": "PID_紋章アイク",
     "is_in": {
       "gsp": false,
@@ -21459,11 +21614,12 @@
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "lowest_rarity": {
-      "gsp": 3
+      "gsp": 3,
+      "ldc": 4
     },
     "skill_ids": [
       "SID_ジョーカーの食器",
@@ -21478,7 +21634,17 @@
       "SID_銀の暗器＋",
       "SID_鋼の暗器",
       "SID_魔防の応援"
-    ]
+    ],
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2026,
+          "month": 7,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "PID_ジャムカ",
@@ -40987,6 +41153,12 @@
           "month": 9,
           "rarity": 4,
           "cost": 100
+        },
+        {
+          "year": 2026,
+          "month": 7,
+          "rarity": 4,
+          "cost": 100
         }
       ]
     }
@@ -44583,6 +44755,12 @@
           "month": 5,
           "rarity": 4,
           "cost": 100
+        },
+        {
+          "year": 2026,
+          "month": 7,
+          "rarity": 4,
+          "cost": 100
         }
       ]
     }
@@ -45364,6 +45542,38 @@
         }
       ]
     }
+  },
+  {
+    "id": "PID_運動着サーリャ",
+    "is_in": {
+      "gsp": false,
+      "ssp": true,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {
+      "ssp": 5
+    },
+    "skill_ids": [
+      "SID_アトラース",
+      "SID_エルロック",
+      "SID_ロック",
+      "SID_始まりの鼓動1",
+      "SID_始まりの鼓動2",
+      "SID_始まりの鼓動3",
+      "SID_彗星",
+      "SID_星影",
+      "SID_流星",
+      "SID_物陰からのバトン",
+      "SID_真あの世行きよ…",
+      "SID_追撃の鼓動・術策",
+      "SID_速さの混乱1",
+      "SID_速さの混乱2",
+      "SID_速さの混乱3",
+      "SID_速さ魔防の疑惧"
+    ]
   },
   {
     "id": "PID_砂漠サーリャ",

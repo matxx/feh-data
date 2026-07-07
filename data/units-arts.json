@@ -918,6 +918,13 @@
     "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/4c/Byleth_Ashen_Nightmare_BtlFace_D.webp/revision/latest?cb=20260507051910"
   },
   {
+    "id": "PID_双界ベレス",
+    "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/06/Byleth_Cheer_Power_Face.webp/revision/latest?cb=20260706154039",
+    "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/6e/Byleth_Cheer_Power_BtlFace.webp/revision/latest?cb=20260706154016",
+    "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/6b/Byleth_Cheer_Power_BtlFace_C.webp/revision/latest?cb=20260706154030",
+    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b3/Byleth_Cheer_Power_BtlFace_D.webp/revision/latest?cb=20260706154034"
+  },
+  {
     "id": "PID_比翼ベレス",
     "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f2/Byleth_Fell_Stars_Duo_Face.webp/revision/latest?cb=20200706045014",
     "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e0/Byleth_Fell_Stars_Duo_BtlFace.webp/revision/latest?cb=20200706045020",
@@ -2322,6 +2329,13 @@
     "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/51/Eikthyrnir_Blessed_Strength_BtlFace.webp/revision/latest?cb=20241213043916",
     "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/8a/Eikthyrnir_Blessed_Strength_BtlFace_C.webp/revision/latest?cb=20241213043931",
     "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d7/Eikthyrnir_Blessed_Strength_BtlFace_D.webp/revision/latest?cb=20241213043936"
+  },
+  {
+    "id": "PID_運動着エイクス",
+    "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/dc/Eikthyrnir_Chiseled_Trainer_Face.webp/revision/latest?cb=20260706153746",
+    "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c1/Eikthyrnir_Chiseled_Trainer_BtlFace.webp/revision/latest?cb=20260706153719",
+    "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c9/Eikthyrnir_Chiseled_Trainer_BtlFace_C.webp/revision/latest?cb=20260706153735",
+    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/2/2e/Eikthyrnir_Chiseled_Trainer_BtlFace_D.webp/revision/latest?cb=20260706153739"
   },
   {
     "id": "PID_水着エイクスルニル",
@@ -3843,7 +3857,11 @@
     "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/05/Hector_Marquess_of_Ostia_Face.webp/revision/latest?cb=20190920215534",
     "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/94/Hector_Marquess_of_Ostia_BtlFace.webp/revision/latest?cb=20190920215538",
     "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/a2/Hector_Marquess_of_Ostia_BtlFace_C.webp/revision/latest?cb=20190920215543",
-    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/8b/Hector_Marquess_of_Ostia_BtlFace_D.webp/revision/latest?cb=20190920215548"
+    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/8b/Hector_Marquess_of_Ostia_BtlFace_D.webp/revision/latest?cb=20190920215548",
+    "art_resp_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/eb/Hector_Marquess_of_Ostia_Resplendent_Face.webp/revision/latest?cb=20260706153854",
+    "art_resp_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e2/Hector_Marquess_of_Ostia_Resplendent_BtlFace.webp/revision/latest?cb=20260706153829",
+    "art_resp_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/3c/Hector_Marquess_of_Ostia_Resplendent_BtlFace_C.webp/revision/latest?cb=20260706153846",
+    "art_resp_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/0b/Hector_Marquess_of_Ostia_Resplendent_BtlFace_D.webp/revision/latest?cb=20260706153849"
   },
   {
     "id": "PID_響心ヘクトル",
@@ -4262,6 +4280,13 @@
     "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/a0/Ike_Desert_Mercenary_BtlFace.webp/revision/latest?cb=20250117050839",
     "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/3f/Ike_Desert_Mercenary_BtlFace_C.webp/revision/latest?cb=20250117050855",
     "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c1/Ike_Desert_Mercenary_BtlFace_D.webp/revision/latest?cb=20250117050900"
+  },
+  {
+    "id": "PID_運動着アイク",
+    "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/5e/Ike_Full-Tilt_Merc_Face.webp/revision/latest?cb=20260706154004",
+    "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/be/Ike_Full-Tilt_Merc_BtlFace.webp/revision/latest?cb=20260706153939",
+    "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b3/Ike_Full-Tilt_Merc_BtlFace_C.webp/revision/latest?cb=20260706153955",
+    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/8b/Ike_Full-Tilt_Merc_BtlFace_D.webp/revision/latest?cb=20260706153959"
   },
   {
     "id": "PID_紋章アイク",
@@ -9497,6 +9522,13 @@
     "art_resp_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/57/Tharja_Dark_Shadow_Resplendent_BtlFace.webp/revision/latest?cb=20240806051222",
     "art_resp_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/92/Tharja_Dark_Shadow_Resplendent_BtlFace_C.webp/revision/latest?cb=20240806051236",
     "art_resp_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/8e/Tharja_Dark_Shadow_Resplendent_BtlFace_D.webp/revision/latest?cb=20240806051240"
+  },
+  {
+    "id": "PID_運動着サーリャ",
+    "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/73/Tharja_Dour_Cheer_Face.webp/revision/latest?cb=20260706153929",
+    "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/ae/Tharja_Dour_Cheer_BtlFace.webp/revision/latest?cb=20260706153904",
+    "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/55/Tharja_Dour_Cheer_BtlFace_C.webp/revision/latest?cb=20260706153919",
+    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/68/Tharja_Dour_Cheer_BtlFace_D.webp/revision/latest?cb=20260706153924"
   },
   {
     "id": "PID_砂漠サーリャ",

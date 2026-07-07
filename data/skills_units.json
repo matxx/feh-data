@@ -8575,6 +8575,12 @@
   },
   {
     "unit_id": "PID_バジーリオ",
+    "skill_id": "SID_豪傑の大斧",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_バジーリオ",
     "skill_id": "SID_鉄の斧",
     "default": 1,
     "unlock": 1
@@ -11026,6 +11032,120 @@
     "skill_id": "SID_ウインド",
     "default": 1,
     "unlock": 1
+  },
+  {
+    "unit_id": "PID_双界ベレス",
+    "skill_id": "SID_攻速信念・弱化無効",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_双界ベレス",
+    "skill_id": "SID_攻撃速さの万全1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_双界ベレス",
+    "skill_id": "SID_攻撃速さの万全2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_双界ベレス",
+    "skill_id": "SID_攻撃速さの万全3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_双界ベレス",
+    "skill_id": "SID_攻撃速さの信義1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_双界ベレス",
+    "skill_id": "SID_攻撃速さの信義2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_双界ベレス",
+    "skill_id": "SID_攻撃速さの信義3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_双界ベレス",
+    "skill_id": "SID_合気・強化無効",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_双界ベレス",
+    "skill_id": "SID_真天刻の拍動",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_双界ベレス",
+    "skill_id": "SID_竜穿",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_双界ベレス",
+    "skill_id": "SID_伏竜",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_双界ベレス",
+    "skill_id": "SID_教え導く師の槍",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_双界ベレス",
+    "skill_id": "SID_鉄の槍",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_双界ベレス",
+    "skill_id": "SID_銀の槍",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_双界ベレス",
+    "skill_id": "SID_鋼の槍",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_双界ベレス",
+    "skill_id": "SID_攻速無欠・鬼没",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_双界ベレス",
+    "skill_id": "SID_回避・拍節1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_双界ベレス",
+    "skill_id": "SID_回避・拍節2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_双界ベレス",
+    "skill_id": "SID_回避・拍節3",
+    "default": 0,
+    "unlock": 4
   },
   {
     "unit_id": "PID_比翼ベレス",
@@ -26952,6 +27072,90 @@
     "unlock": 3
   },
   {
+    "unit_id": "PID_運動着エイクス",
+    "skill_id": "SID_成獣の化身・騎馬",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_運動着エイクス",
+    "skill_id": "SID_攻撃守備の激突1",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_運動着エイクス",
+    "skill_id": "SID_攻撃守備の激突2",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_運動着エイクス",
+    "skill_id": "SID_攻撃守備の激突3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_運動着エイクス",
+    "skill_id": "SID_無への暗闘1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_運動着エイクス",
+    "skill_id": "SID_無への暗闘2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_運動着エイクス",
+    "skill_id": "SID_無への暗闘3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_運動着エイクス",
+    "skill_id": "SID_運動する体の角",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_運動着エイクス",
+    "skill_id": "SID_蛍火",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_運動着エイクス",
+    "skill_id": "SID_華炎",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_運動着エイクス",
+    "skill_id": "SID_真肉体の咆哮",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_運動着エイクス",
+    "skill_id": "SID_暗獣・初撃の鼓動",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_運動着エイクス",
+    "skill_id": "SID_幼獣の化身・騎馬",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_運動着エイクス",
+    "skill_id": "SID_若獣の化身・騎馬",
+    "default": 2,
+    "unlock": 2
+  },
+  {
     "unit_id": "PID_水着エイクスルニル",
     "skill_id": "SID_成獣の化身・騎馬",
     "default": 4,
@@ -41731,6 +41935,12 @@
   },
   {
     "unit_id": "PID_伝承ギネヴィア",
+    "skill_id": "SID_新たなるベル…・承",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_伝承ギネヴィア",
     "skill_id": "SID_見切り・反撃不可1",
     "default": 0,
     "unlock": 2
@@ -41761,6 +41971,24 @@
   },
   {
     "unit_id": "PID_伝承ギネヴィア",
+    "skill_id": "SID_魔防の混乱1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_伝承ギネヴィア",
+    "skill_id": "SID_魔防の混乱2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_伝承ギネヴィア",
+    "skill_id": "SID_魔防の混乱3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_伝承ギネヴィア",
     "skill_id": "SID_速さ魔防の秘奥1",
     "default": 0,
     "unlock": 2
@@ -41780,6 +42008,12 @@
   {
     "unit_id": "PID_伝承ギネヴィア",
     "skill_id": "SID_速さ魔防の秘奥4",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_伝承ギネヴィア",
+    "skill_id": "SID_速さ魔防の疑惧",
     "default": 0,
     "unlock": 5
   },
@@ -44947,6 +45181,30 @@
   },
   {
     "unit_id": "PID_神階ヘイズ",
+    "skill_id": "SID_攻撃速さの共感",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_神階ヘイズ",
+    "skill_id": "SID_攻撃速さの連携1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_神階ヘイズ",
+    "skill_id": "SID_攻撃速さの連携2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_神階ヘイズ",
+    "skill_id": "SID_攻撃速さの連携3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_神階ヘイズ",
     "skill_id": "SID_飛燕の一撃1",
     "default": 0,
     "unlock": 2
@@ -44960,6 +45218,12 @@
   {
     "unit_id": "PID_神階ヘイズ",
     "skill_id": "SID_黄金の蛇",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_神階ヘイズ",
+    "skill_id": "SID_黄金の蛇・神",
     "default": 0,
     "unlock": 5
   },
@@ -49912,6 +50176,120 @@
     "skill_id": "SID_始まりの鼓動3",
     "default": 0,
     "unlock": 4
+  },
+  {
+    "unit_id": "PID_運動着アイク",
+    "skill_id": "SID_正真蒼炎の天空",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_運動着アイク",
+    "skill_id": "SID_守備魔防の信義1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_運動着アイク",
+    "skill_id": "SID_守備魔防の信義2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_運動着アイク",
+    "skill_id": "SID_守備魔防の信義3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_運動着アイク",
+    "skill_id": "SID_守魔信念・弱化無効",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_運動着アイク",
+    "skill_id": "SID_グレイル傭兵団の旗",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_運動着アイク",
+    "skill_id": "SID_鉄の剣",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_運動着アイク",
+    "skill_id": "SID_月光",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_運動着アイク",
+    "skill_id": "SID_影月",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_運動着アイク",
+    "skill_id": "SID_後の先",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_運動着アイク",
+    "skill_id": "SID_切り返し1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_運動着アイク",
+    "skill_id": "SID_切り返し2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_運動着アイク",
+    "skill_id": "SID_切り返し3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_運動着アイク",
+    "skill_id": "SID_超越1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_運動着アイク",
+    "skill_id": "SID_超越2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_運動着アイク",
+    "skill_id": "SID_超越3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_運動着アイク",
+    "skill_id": "SID_超越4",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_運動着アイク",
+    "skill_id": "SID_銀の剣",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_運動着アイク",
+    "skill_id": "SID_鋼の剣",
+    "default": 2,
+    "unlock": 2
   },
   {
     "unit_id": "PID_紋章アイク",
@@ -108720,6 +109098,102 @@
     "unlock": 4
   },
   {
+    "unit_id": "PID_運動着サーリャ",
+    "skill_id": "SID_流星",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_運動着サーリャ",
+    "skill_id": "SID_アトラース",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_運動着サーリャ",
+    "skill_id": "SID_彗星",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_運動着サーリャ",
+    "skill_id": "SID_物陰からのバトン",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_運動着サーリャ",
+    "skill_id": "SID_エルロック",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_運動着サーリャ",
+    "skill_id": "SID_真あの世行きよ…",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_運動着サーリャ",
+    "skill_id": "SID_星影",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_運動着サーリャ",
+    "skill_id": "SID_追撃の鼓動・術策",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_運動着サーリャ",
+    "skill_id": "SID_速さの混乱1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_運動着サーリャ",
+    "skill_id": "SID_速さの混乱2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_運動着サーリャ",
+    "skill_id": "SID_速さの混乱3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_運動着サーリャ",
+    "skill_id": "SID_速さ魔防の疑惧",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_運動着サーリャ",
+    "skill_id": "SID_ロック",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_運動着サーリャ",
+    "skill_id": "SID_始まりの鼓動1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_運動着サーリャ",
+    "skill_id": "SID_始まりの鼓動2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_運動着サーリャ",
+    "skill_id": "SID_始まりの鼓動3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
     "unit_id": "PID_砂漠サーリャ",
     "skill_id": "SID_飛燕の一撃1",
     "default": 0,
@@ -119132,6 +119606,12 @@
   {
     "unit_id": "PID_双界アクア",
     "skill_id": "HARMONIZED_PID_双界アクア",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_双界ベレス",
+    "skill_id": "HARMONIZED_PID_双界ベレス",
     "default": 0,
     "unlock": 1
   },

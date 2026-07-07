@@ -9709,6 +9709,13 @@
     "recommended_plus10": null
   },
   {
+    "id": "PID_魔器水着ヘズ",
+    "game8_rating": "9.5",
+    "recommended_boon": "res",
+    "recommended_bane": "def",
+    "recommended_plus10": "res"
+  },
+  {
     "id": "PID_比翼バルドル2",
     "game8_rating": "9.9",
     "recommended_boon": "spd",
