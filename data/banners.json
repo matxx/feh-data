@@ -10339,6 +10339,19 @@
     ]
   },
   {
+    "name": "Legendary & Mythic Hero Remix 2 (Jul 2026)",
+    "unit_ids": [
+      "PID_ノート味方",
+      "PID_伝承カムイ女",
+      "PID_伝承セリス",
+      "PID_神階ウル",
+      "PID_神階ヘイズ",
+      "PID_神階ミラ",
+      "PID_神階ルピナス",
+      "PID_魔器リシテア"
+    ]
+  },
+  {
     "name": "Legendary & Mythic Hero Remix 2 (Mar 2023)",
     "unit_ids": [
       "PID_スリーズ",
@@ -10656,6 +10669,19 @@
       "PID_伝承リョウマ",
       "PID_伝承ルフレ女",
       "PID_魔王リオン"
+    ]
+  },
+  {
+    "name": "Legendary Hero Remix 1 (Jul 2026)",
+    "unit_ids": [
+      "PID_伝承カミラ",
+      "PID_伝承ギネヴィア",
+      "PID_伝承ヒノカ",
+      "PID_伝承ファ",
+      "PID_伝承ベレス",
+      "PID_双界総選挙リン",
+      "PID_響心リョウマ",
+      "PID_響心リーフ"
     ]
   },
   {

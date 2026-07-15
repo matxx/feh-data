@@ -9728,5 +9728,33 @@
     "recommended_boon": "def",
     "recommended_bane": "spd",
     "recommended_plus10": null
+  },
+  {
+    "id": "PID_運動着アイク",
+    "game8_rating": "9.5",
+    "recommended_boon": null,
+    "recommended_bane": null,
+    "recommended_plus10": "hp"
+  },
+  {
+    "id": "PID_運動着サーリャ",
+    "game8_rating": "9.0",
+    "recommended_boon": "spd",
+    "recommended_bane": "def",
+    "recommended_plus10": null
+  },
+  {
+    "id": "PID_運動着エイクス",
+    "game8_rating": "9.0",
+    "recommended_boon": null,
+    "recommended_bane": null,
+    "recommended_plus10": "def"
+  },
+  {
+    "id": "PID_双界ベレス",
+    "game8_rating": "9.5",
+    "recommended_boon": "spd",
+    "recommended_bane": "res",
+    "recommended_plus10": null
   }
 ]

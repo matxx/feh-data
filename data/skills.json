@@ -2185,6 +2185,7 @@
   },
   {
     "id": "SID_攻速信念・弱化無効",
+    "game8_id": "608811",
     "fandom_id": "A/S Tenet Hone",
     "name": "A/S Tenet Hone",
     "category": "passivec",
@@ -2913,6 +2914,7 @@
   },
   {
     "id": "SID_正真蒼炎の天空",
+    "game8_id": "608808",
     "fandom_id": "Aether's Route",
     "name": "Aether's Route",
     "category": "special",
@@ -28207,6 +28209,7 @@
   },
   {
     "id": "SID_運動する体の角",
+    "game8_id": "608803",
     "fandom_id": "Chiseled Antler",
     "name": "Chiseled Antler",
     "category": "weapon",
@@ -29849,6 +29852,7 @@
   },
   {
     "id": "SID_合気・強化無効",
+    "game8_id": "608810",
     "fandom_id": "Counter Dull",
     "name": "Counter Dull",
     "category": "passiveb",
@@ -31504,6 +31508,7 @@
   },
   {
     "id": "SID_守魔信念・弱化無効",
+    "game8_id": "608813",
     "fandom_id": "D/R Tenet Hone",
     "name": "D/R Tenet Hone",
     "category": "passivec",
@@ -38950,6 +38955,7 @@
   },
   {
     "id": "SID_真天刻の拍動",
+    "game8_id": "608806",
     "fandom_id": "Divine Rumble",
     "name": "Divine Rumble",
     "category": "special",
@@ -39537,6 +39543,7 @@
   },
   {
     "id": "SID_物陰からのバトン",
+    "game8_id": "608804",
     "fandom_id": "Dour Baton",
     "name": "Dour Baton",
     "category": "weapon",
@@ -56189,6 +56196,7 @@
   },
   {
     "id": "SID_グレイル傭兵団の旗",
+    "game8_id": "608805",
     "fandom_id": "Greil Flag",
     "name": "Greil Flag",
     "category": "weapon",
@@ -58061,6 +58069,7 @@
   },
   {
     "id": "SID_教え導く師の槍",
+    "game8_id": "608802",
     "fandom_id": "Guiding Lance",
     "name": "Guiding Lance",
     "category": "weapon",
@@ -59815,6 +59824,7 @@
     "name": "Heiðr",
     "category": "weapon",
     "weapon_type": "Green Tome",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/2/22/Heidr_weapon_W.png/revision/latest?cb=20260707005842",
     "is_prf": true,
     "sp": 400,
     "tier": 1,
@@ -70480,6 +70490,7 @@
   },
   {
     "id": "SID_真あの世行きよ…",
+    "game8_id": "608809",
     "fandom_id": "Long-Dead",
     "name": "Long-Dead",
     "category": "passivea",
@@ -73714,6 +73725,7 @@
   },
   {
     "id": "SID_真肉体の咆哮",
+    "game8_id": "608807",
     "fandom_id": "Mighty Growl",
     "name": "Mighty Growl",
     "category": "special",
@@ -150250,7 +150262,7 @@
   },
   {
     "id": "HARMONIZED_PID_双界ベレス",
-    "game8_id": null,
+    "game8_id": "608817",
     "fandom_id": "Byleth: Cheer Power",
     "name": "Byleth: Cheer Power",
     "category": "harmonized",
