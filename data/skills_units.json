@@ -318,6 +318,102 @@
     "unlock": 2
   },
   {
+    "unit_id": "PID_お供リュール男",
+    "skill_id": "SID_神竜王とお供の体術",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_お供リュール男",
+    "skill_id": "SID_竜の炎茨",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_お供リュール男",
+    "skill_id": "SID_真紋章の奇跡",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_お供リュール男",
+    "skill_id": "SID_火のブレス",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_お供リュール男",
+    "skill_id": "SID_火炎のブレス",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_お供リュール男",
+    "skill_id": "SID_灼熱のブレス",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_お供リュール男",
+    "skill_id": "SID_蛍火",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_お供リュール男",
+    "skill_id": "SID_華炎",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_お供リュール男",
+    "skill_id": "SID_迅雷風烈・奇数1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_お供リュール男",
+    "skill_id": "SID_迅雷風烈・奇数2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_お供リュール男",
+    "skill_id": "SID_迅雷風烈・奇数3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_お供リュール男",
+    "skill_id": "SID_防陣1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_お供リュール男",
+    "skill_id": "SID_防陣2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_お供リュール男",
+    "skill_id": "SID_防陣3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_お供リュール男",
+    "skill_id": "SID_防陣4",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_お供リュール男",
+    "skill_id": "SID_霹靂閃電・鬼没",
+    "default": 0,
+    "unlock": 5
+  },
+  {
     "unit_id": "PID_伝承リュール女",
     "skill_id": "SID_攻撃速さの秘奥1",
     "default": 0,
@@ -428,6 +524,120 @@
   {
     "unit_id": "PID_伝承リュール女",
     "skill_id": "SID_見切り・反撃不可4",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_魔器リュール女",
+    "skill_id": "SID_魔器・神竜王の剣",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_魔器リュール女",
+    "skill_id": "SID_攻速吸収・初撃鼓動",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_魔器リュール女",
+    "skill_id": "SID_流星",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_魔器リュール女",
+    "skill_id": "SID_攻撃速さの万全1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_魔器リュール女",
+    "skill_id": "SID_攻撃速さの万全2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_魔器リュール女",
+    "skill_id": "SID_攻撃速さの万全3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_魔器リュール女",
+    "skill_id": "SID_真絆・神竜破",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_魔器リュール女",
+    "skill_id": "SID_迅雷風烈・偶数1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_魔器リュール女",
+    "skill_id": "SID_迅雷風烈・偶数2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_魔器リュール女",
+    "skill_id": "SID_迅雷風烈・偶数3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_魔器リュール女",
+    "skill_id": "SID_鉄の剣",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_魔器リュール女",
+    "skill_id": "SID_星影",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_魔器リュール女",
+    "skill_id": "SID_銀の剣",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_魔器リュール女",
+    "skill_id": "SID_速さの吸収1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_魔器リュール女",
+    "skill_id": "SID_速さの吸収2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_魔器リュール女",
+    "skill_id": "SID_速さの吸収3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_魔器リュール女",
+    "skill_id": "SID_鋼の剣",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_魔器リュール女",
+    "skill_id": "SID_攻速無欠・生命",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_魔器リュール女",
+    "skill_id": "SID_霹靂閃電・鬼没",
     "default": 0,
     "unlock": 5
   },
@@ -9946,6 +10156,78 @@
     "skill_id": "SID_迎撃隊形3",
     "default": 0,
     "unlock": 5
+  },
+  {
+    "unit_id": "PID_ブシュロン",
+    "skill_id": "SID_竜穿",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_ブシュロン",
+    "skill_id": "SID_伏竜",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_ブシュロン",
+    "skill_id": "SID_回避・攻め立て1",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_ブシュロン",
+    "skill_id": "SID_回避・攻め立て2",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_ブシュロン",
+    "skill_id": "SID_回避・攻め立て3",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_ブシュロン",
+    "skill_id": "SID_歩行の鼓動1",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_ブシュロン",
+    "skill_id": "SID_歩行の鼓動2",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_ブシュロン",
+    "skill_id": "SID_歩行の鼓動3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_ブシュロン",
+    "skill_id": "SID_鉄の斧",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_ブシュロン",
+    "skill_id": "SID_枷の斧",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_ブシュロン",
+    "skill_id": "SID_枷の斧＋",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_ブシュロン",
+    "skill_id": "SID_鋼の斧",
+    "default": 2,
+    "unlock": 2
   },
   {
     "unit_id": "PID_幼少ボーレ",
@@ -41730,6 +42012,108 @@
     "unlock": 1
   },
   {
+    "unit_id": "PID_グロア味方",
+    "skill_id": "SID_攻撃速さの詠唱",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_グロア味方",
+    "skill_id": "SID_攻撃速さの絆1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_グロア味方",
+    "skill_id": "SID_攻撃速さの絆2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_グロア味方",
+    "skill_id": "SID_攻撃速さの絆3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_グロア味方",
+    "skill_id": "SID_竜穿",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_グロア味方",
+    "skill_id": "SID_伏竜",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_グロア味方",
+    "skill_id": "SID_エルライト",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_グロア味方",
+    "skill_id": "SID_グロア",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_グロア味方",
+    "skill_id": "SID_ライト",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_グロア味方",
+    "skill_id": "SID_理路",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_グロア味方",
+    "skill_id": "SID_光の女神の娘",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_グロア味方",
+    "skill_id": "SID_引き戻し",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_グロア味方",
+    "skill_id": "SID_影助・引き戻し1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_グロア味方",
+    "skill_id": "SID_影助・引き戻し2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_グロア味方",
+    "skill_id": "SID_影助・引き戻し3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_グロア味方",
+    "skill_id": "SID_影助・引戻・十紋章",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_グロア味方",
+    "skill_id": "SID_シャイン",
+    "default": 4,
+    "unlock": 3
+  },
+  {
     "unit_id": "PID_グローメル",
     "skill_id": "SID_ボルトアクス",
     "default": 5,
@@ -52954,6 +53338,78 @@
     "skill_id": "SID_ウインド",
     "default": 1,
     "unlock": 1
+  },
+  {
+    "unit_id": "PID_ジェーデ",
+    "skill_id": "SID_攻撃守備の万全1",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_ジェーデ",
+    "skill_id": "SID_攻撃守備の万全2",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_ジェーデ",
+    "skill_id": "SID_攻撃守備の万全3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_ジェーデ",
+    "skill_id": "SID_鍛錬の斧",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_ジェーデ",
+    "skill_id": "SID_鍛錬の斧＋",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_ジェーデ",
+    "skill_id": "SID_蛍火",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_ジェーデ",
+    "skill_id": "SID_華炎",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_ジェーデ",
+    "skill_id": "SID_鉄の斧",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_ジェーデ",
+    "skill_id": "SID_鋼の斧",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_ジェーデ",
+    "skill_id": "SID_正面隊形・敵方1",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_ジェーデ",
+    "skill_id": "SID_正面隊形・敵方2",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_ジェーデ",
+    "skill_id": "SID_正面隊形・敵方3",
+    "default": 0,
+    "unlock": 5
   },
   {
     "unit_id": "PID_ジャファル",

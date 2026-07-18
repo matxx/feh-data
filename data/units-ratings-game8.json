@@ -9756,5 +9756,40 @@
     "recommended_boon": "spd",
     "recommended_bane": "res",
     "recommended_plus10": null
+  },
+  {
+    "id": "PID_魔器リュール女",
+    "game8_rating": "9.5",
+    "recommended_boon": "spd",
+    "recommended_bane": "res",
+    "recommended_plus10": null
+  },
+  {
+    "id": "PID_お供リュール男",
+    "game8_rating": "9.5",
+    "recommended_boon": "spd",
+    "recommended_bane": "res",
+    "recommended_plus10": null
+  },
+  {
+    "id": "PID_ジェーデ",
+    "game8_rating": "8.5",
+    "recommended_boon": "def",
+    "recommended_bane": "spd",
+    "recommended_plus10": null
+  },
+  {
+    "id": "PID_グロア味方",
+    "game8_rating": "9.5",
+    "recommended_boon": "spd",
+    "recommended_bane": "res",
+    "recommended_plus10": null
+  },
+  {
+    "id": "PID_ブシュロン",
+    "game8_rating": "8.5",
+    "recommended_boon": "spd",
+    "recommended_bane": "res",
+    "recommended_plus10": null
   }
 ]

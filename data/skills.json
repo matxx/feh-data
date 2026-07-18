@@ -5029,6 +5029,37 @@
     ]
   },
   {
+    "id": "SID_魔器・神竜王の剣",
+    "game8_id": "611605",
+    "fandom_id": "Arcane Caladbolg",
+    "name": "Arcane Caladbolg",
+    "category": "weapon",
+    "weapon_type": "Red Sword",
+    "is_arcane": true,
+    "sp": 300,
+    "tier": 4,
+    "range": 1,
+    "might": 16,
+    "has_refine": true,
+    "refines_max_sp": 350,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Red Sword"
+        ]
+      }
+    },
+    "addition_date": "2026-07-16",
+    "release_date": "2026-07-17",
+    "version": "10.7",
+    "downgrade_ids": [
+      "SID_銀の剣"
+    ]
+  },
+  {
     "id": "SID_魔器・愛らしい雪杖",
     "game8_id": "445238",
     "fandom_id": "Arcane Charmer",
@@ -7838,6 +7869,7 @@
       "SID_流星群",
       "SID_天風",
       "SID_彗星",
+      "SID_真絆・神竜破",
       "SID_剣聖の流星雨",
       "SID_疾風迅雷",
       "SID_疾風迅雷・霞",
@@ -13705,6 +13737,7 @@
     "upgrade_ids": [
       "SID_攻撃速さの万全4",
       "SID_攻撃速さの完全",
+      "SID_攻速無欠・生命",
       "SID_攻速無欠・鬼没"
     ],
     "downgrade_ids": [
@@ -30269,6 +30302,23 @@
     ]
   },
   {
+    "id": "SID_真絆・神竜破",
+    "game8_id": "611607",
+    "fandom_id": "Covenant Blast",
+    "name": "Covenant Blast",
+    "category": "special",
+    "is_prf": true,
+    "sp": 500,
+    "tier": 3,
+    "cd": 5,
+    "addition_date": "2026-07-16",
+    "release_date": "2026-07-17",
+    "version": "10.7",
+    "downgrade_ids": [
+      "SID_流星"
+    ]
+  },
+  {
     "id": "SID_柔なる戦猫の爪牙",
     "game8_id": "267076",
     "fandom_id": "Covert Cat Fang",
@@ -38637,6 +38687,25 @@
     ]
   },
   {
+    "id": "SID_神竜王とお供の体術",
+    "game8_id": "611604",
+    "fandom_id": "Divine Aide Arts",
+    "name": "Divine Aide Arts",
+    "category": "weapon",
+    "weapon_type": "All Breath",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "range": 1,
+    "might": 11,
+    "addition_date": "2026-07-16",
+    "release_date": "2026-07-17",
+    "version": "10.7",
+    "downgrade_ids": [
+      "SID_灼熱のブレス"
+    ]
+  },
+  {
     "id": "SID_神獣の逞しき肉体",
     "game8_id": "535471",
     "fandom_id": "Divine Brawn",
@@ -40232,6 +40301,32 @@
     ],
     "downgrade_ids": [
       "SID_竜鱗障壁2"
+    ]
+  },
+  {
+    "id": "SID_竜の炎茨",
+    "game8_id": "611606",
+    "fandom_id": "Dragon's Briar",
+    "name": "Dragon's Briar",
+    "category": "special",
+    "sp": 500,
+    "tier": 3,
+    "cd": 5,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "All Breath"
+        ]
+      }
+    },
+    "addition_date": "2026-07-16",
+    "release_date": "2026-07-17",
+    "version": "10.7",
+    "downgrade_ids": [
+      "SID_華炎"
     ]
   },
   {
@@ -43149,6 +43244,20 @@
     ]
   },
   {
+    "id": "SID_真紋章の奇跡",
+    "game8_id": "611608",
+    "fandom_id": "Emblems' Marvel",
+    "name": "Emblems' Marvel",
+    "category": "passivea",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/07/Emblems_Marvel.png/revision/latest?cb=20260716221328",
+    "is_prf": true,
+    "sp": 300,
+    "tier": 1,
+    "addition_date": "2026-07-16",
+    "release_date": "2026-07-17",
+    "version": "10.7"
+  },
+  {
     "id": "SID_紋章の奇跡",
     "game8_id": "446229",
     "fandom_id": "Emblems' Miracle",
@@ -44468,7 +44577,8 @@
       "SID_霹靂閃電・初撃鼓動",
       "SID_迅雷風烈・無極",
       "SID_迅雷風烈・追撃鼓動",
-      "SID_迅雷風烈・初撃鼓動"
+      "SID_迅雷風烈・初撃鼓動",
+      "SID_霹靂閃電・鬼没"
     ],
     "downgrade_ids": [
       "SID_迅雷風烈・偶数2"
@@ -48122,6 +48232,7 @@
       "SID_深き絶望のブレス",
       "SID_永き愛のブレス",
       "SID_芽生えし心の竜石",
+      "SID_神竜王とお供の体術",
       "SID_神竜王のブレス",
       "SID_神霧のブレス",
       "SID_神竜王の体術",
@@ -50276,6 +50387,67 @@
     "addition_date": "2024-05-20",
     "release_date": "2024-05-20",
     "version": "8.5"
+  },
+  {
+    "id": "SID_鍛錬の斧",
+    "game8_id": "611602",
+    "fandom_id": "Forged Axe",
+    "name": "Forged Axe",
+    "category": "weapon",
+    "weapon_type": "Green Axe",
+    "sp": 200,
+    "tier": 3,
+    "range": 1,
+    "might": 10,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Green Axe"
+        ]
+      }
+    },
+    "addition_date": "2026-07-16",
+    "release_date": "2026-07-17",
+    "version": "10.7",
+    "upgrade_ids": [
+      "SID_鍛錬の斧＋"
+    ],
+    "downgrade_ids": [
+      "SID_鋼の斧"
+    ]
+  },
+  {
+    "id": "SID_鍛錬の斧＋",
+    "game8_id": "611603",
+    "fandom_id": "Forged Axe+",
+    "name": "Forged Axe+",
+    "category": "weapon",
+    "weapon_type": "Green Axe",
+    "sp": 300,
+    "tier": 4,
+    "range": 1,
+    "might": 14,
+    "has_refine": true,
+    "refines_max_sp": 350,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Green Axe"
+        ]
+      }
+    },
+    "addition_date": "2026-07-16",
+    "release_date": "2026-07-17",
+    "version": "10.7",
+    "downgrade_ids": [
+      "SID_鍛錬の斧"
+    ]
   },
   {
     "id": "SID_鍛錬の槍",
@@ -56352,6 +56524,26 @@
     "addition_date": "2017-10-30",
     "release_date": "2017-10-30",
     "version": "1.8"
+  },
+  {
+    "id": "SID_グロア",
+    "game8_id": "611601",
+    "fandom_id": "Gróa (weapon)",
+    "name": "Gróa",
+    "category": "weapon",
+    "weapon_type": "Blue Tome",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "range": 2,
+    "might": 14,
+    "addition_date": "2026-07-06",
+    "release_date": "2026-07-17",
+    "version": "10.7",
+    "downgrade_ids": [
+      "SID_トロン",
+      "SID_シャイン"
+    ]
   },
   {
     "id": "SID_スレッダグラン",
@@ -63554,6 +63746,7 @@
       "SID_重装の双炎",
       "SID_獅子紅蓮焔舞",
       "SID_竜炎",
+      "SID_竜の炎茨",
       "SID_壁炎",
       "SID_集いし炎",
       "SID_真肉体の咆哮",
@@ -72530,6 +72723,20 @@
     ]
   },
   {
+    "id": "SID_光の女神の娘",
+    "game8_id": "611610",
+    "fandom_id": "Maiden of Light",
+    "name": "Maiden of Light",
+    "category": "passiveb",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/65/Maiden_of_Light.png/revision/latest?cb=20260716221349",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 1,
+    "addition_date": "2026-07-06",
+    "release_date": "2026-07-17",
+    "version": "10.7"
+  },
+  {
     "id": "SID_癒しの乙女",
     "game8_id": "341285",
     "fandom_id": "Maiden's Solace",
@@ -78862,7 +79069,8 @@
       "SID_霹靂閃電・初撃鼓動",
       "SID_迅雷風烈・無極",
       "SID_迅雷風烈・追撃鼓動",
-      "SID_迅雷風烈・初撃鼓動"
+      "SID_迅雷風烈・初撃鼓動",
+      "SID_霹靂閃電・鬼没"
     ],
     "downgrade_ids": [
       "SID_迅雷風烈・奇数2"
@@ -96984,6 +97192,67 @@
     ]
   },
   {
+    "id": "SID_枷の斧",
+    "game8_id": "611599",
+    "fandom_id": "Shackle Axe",
+    "name": "Shackle Axe",
+    "category": "weapon",
+    "weapon_type": "Green Axe",
+    "sp": 200,
+    "tier": 3,
+    "range": 1,
+    "might": 10,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Green Axe"
+        ]
+      }
+    },
+    "addition_date": "2026-07-16",
+    "release_date": "2026-07-18",
+    "version": "10.7",
+    "upgrade_ids": [
+      "SID_枷の斧＋"
+    ],
+    "downgrade_ids": [
+      "SID_鋼の斧"
+    ]
+  },
+  {
+    "id": "SID_枷の斧＋",
+    "game8_id": "611600",
+    "fandom_id": "Shackle Axe+",
+    "name": "Shackle Axe+",
+    "category": "weapon",
+    "weapon_type": "Green Axe",
+    "sp": 300,
+    "tier": 4,
+    "range": 1,
+    "might": 14,
+    "has_refine": true,
+    "refines_max_sp": 350,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "Green Axe"
+        ]
+      }
+    },
+    "addition_date": "2026-07-16",
+    "release_date": "2026-07-18",
+    "version": "10.7",
+    "downgrade_ids": [
+      "SID_枷の斧"
+    ]
+  },
+  {
     "id": "SID_枷の槍",
     "game8_id": "595094",
     "fandom_id": "Shackle Lance",
@@ -97165,7 +97434,8 @@
     "release_date": "2024-09-17",
     "version": "8.9",
     "upgrade_ids": [
-      "SID_影助・引き戻し4"
+      "SID_影助・引き戻し4",
+      "SID_影助・引戻・十紋章"
     ],
     "downgrade_ids": [
       "SID_影助・引き戻し2"
@@ -97194,6 +97464,31 @@
     "addition_date": "2024-09-05",
     "release_date": "2024-09-17",
     "version": "8.9",
+    "downgrade_ids": [
+      "SID_影助・引き戻し3"
+    ]
+  },
+  {
+    "id": "SID_影助・引戻・十紋章",
+    "game8_id": "611611",
+    "fandom_id": "Shadow Shift X",
+    "name": "Shadow Shift X",
+    "category": "passivec",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/7c/Shadow_Shift_X.png/revision/latest?cb=20260716221409",
+    "sp": 300,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Cavalry",
+          "Flying"
+        ]
+      },
+      "weapons": null
+    },
+    "addition_date": "2026-07-06",
+    "release_date": "2026-07-17",
+    "version": "10.7",
     "downgrade_ids": [
       "SID_影助・引き戻し3"
     ]
@@ -99421,6 +99716,7 @@
       "SID_アマツ",
       "SID_アミーテ",
       "SID_末流ラグネル",
+      "SID_魔器・神竜王の剣",
       "SID_魔器・屍王の絶剣",
       "SID_魔器エリューズニル",
       "SID_魔器・マギ団の剣",
@@ -110450,6 +110746,7 @@
       "SID_祝祭の斧",
       "SID_ヤシの葉",
       "SID_火薙ぎの斧",
+      "SID_鍛錬の斧",
       "SID_ビッグスプーン",
       "SID_キャンセルの斧",
       "SID_カボチャの斧",
@@ -110478,6 +110775,7 @@
       "SID_強化反転の斧",
       "SID_プレゼント袋",
       "SID_竜の落とし子の斧",
+      "SID_枷の斧",
       "SID_砂浜のクワ",
       "SID_忍の三叉斧",
       "SID_銀の斧",
@@ -113166,6 +113464,30 @@
     "version": "5.1",
     "downgrade_ids": [
       "SID_飛燕明鏡の一撃2"
+    ]
+  },
+  {
+    "id": "SID_攻速無欠・生命",
+    "game8_id": "611609",
+    "fandom_id": "Swift Life",
+    "name": "Swift Life",
+    "category": "passivea",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/65/Swift_Life.png/revision/latest?cb=20260716221339",
+    "sp": 300,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Infantry"
+        ]
+      },
+      "weapons": null
+    },
+    "addition_date": "2026-07-16",
+    "release_date": "2026-07-17",
+    "version": "10.7",
+    "downgrade_ids": [
+      "SID_攻撃速さの万全3"
     ]
   },
   {
@@ -116501,6 +116823,38 @@
     "addition_date": "2018-06-28",
     "release_date": "2018-06-28",
     "version": "2.6"
+  },
+  {
+    "id": "SID_霹靂閃電・鬼没",
+    "game8_id": "611612",
+    "fandom_id": "Thunder Specter",
+    "name": "Thunder Specter",
+    "category": "passivec",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/cf/Thunder_Specter.png/revision/latest?cb=20260716221359",
+    "sp": 300,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Infantry",
+          "Flying"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "All Melee",
+          "All Breath",
+          "All Beast"
+        ]
+      }
+    },
+    "addition_date": "2026-07-16",
+    "release_date": "2026-07-17",
+    "version": "10.7",
+    "downgrade_ids": [
+      "SID_迅雷風烈・奇数3",
+      "SID_迅雷風烈・偶数3"
+    ]
   },
   {
     "id": "SID_雷神の右腕",

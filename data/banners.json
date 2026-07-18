@@ -410,6 +410,15 @@
     ]
   },
   {
+    "name": "Aid. & Rea. Heroes & Gróa",
+    "unit_ids": [
+      "PID_お供リュール男",
+      "PID_グロア味方",
+      "PID_ジェーデ",
+      "PID_魔器リュール女"
+    ]
+  },
+  {
     "name": "Aided Dagr & Rearmed Marianne",
     "unit_ids": [
       "PID_アッシュ",
@@ -3040,6 +3049,15 @@
       "PID_比翼トール",
       "PID_水着ニフル",
       "PID_水着フレイヤ"
+    ]
+  },
+  {
+    "name": "Focus: Hall of Forms (Jul 2026)",
+    "unit_ids": [
+      "PID_お茶会リシテア",
+      "PID_比翼ベレト",
+      "PID_総選挙フェリクス",
+      "PID_総選挙ベルナデッタ"
     ]
   },
   {

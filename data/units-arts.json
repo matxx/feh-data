@@ -28,11 +28,25 @@
     "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/96/Alcryst_Tender_Groom_BtlFace_D.webp/revision/latest?cb=20240520052201"
   },
   {
+    "id": "PID_お供リュール男",
+    "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/a5/Alear_And_Sommie_Face.webp/revision/latest?cb=20260716063337",
+    "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/10/Alear_And_Sommie_BtlFace.webp/revision/latest?cb=20260716063312",
+    "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/fc/Alear_And_Sommie_BtlFace_C.webp/revision/latest?cb=20260716063328",
+    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e8/Alear_And_Sommie_BtlFace_D.webp/revision/latest?cb=20260716063332"
+  },
+  {
     "id": "PID_伝承リュール女",
     "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/70/Alear_Awoken_Divinity_Face.webp/revision/latest?cb=20230831043230",
     "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/00/Alear_Awoken_Divinity_BtlFace.webp/revision/latest?cb=20230831043205",
     "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/88/Alear_Awoken_Divinity_BtlFace_C.webp/revision/latest?cb=20230831043220",
     "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c2/Alear_Awoken_Divinity_BtlFace_D.webp/revision/latest?cb=20230831043225"
+  },
+  {
+    "id": "PID_魔器リュール女",
+    "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/05/Alear_Casual_Duelist_Face.webp/revision/latest?cb=20260716063412",
+    "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/1f/Alear_Casual_Duelist_BtlFace.webp/revision/latest?cb=20260716063347",
+    "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d5/Alear_Casual_Duelist_BtlFace_C.webp/revision/latest?cb=20260716063402",
+    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/cc/Alear_Casual_Duelist_BtlFace_D.webp/revision/latest?cb=20260716063407"
   },
   {
     "id": "PID_リュール女",
@@ -825,6 +839,13 @@
     "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/62/Bors_Ostias_Bastion_BtlFace.webp/revision/latest?cb=20241115043757",
     "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/7d/Bors_Ostias_Bastion_BtlFace_C.webp/revision/latest?cb=20241115043812",
     "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/4f/Bors_Ostias_Bastion_BtlFace_D.webp/revision/latest?cb=20241115043817"
+  },
+  {
+    "id": "PID_ブシュロン",
+    "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f9/Boucheron_Big_Softy_Face.webp/revision/latest?cb=20260716063447",
+    "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/fe/Boucheron_Big_Softy_BtlFace.webp/revision/latest?cb=20260716063422",
+    "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/39/Boucheron_Big_Softy_BtlFace_C.webp/revision/latest?cb=20260716063438",
+    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/be/Boucheron_Big_Softy_BtlFace_D.webp/revision/latest?cb=20260716063442"
   },
   {
     "id": "PID_幼少ボーレ",
@@ -3571,6 +3592,13 @@
     "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b9/Griss_Indulging_Pain_BtlFace_D.webp/revision/latest?cb=20250217042633"
   },
   {
+    "id": "PID_グロア味方",
+    "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/df/Groa_Future_Daughter_Face.webp/revision/latest?cb=20260716064018",
+    "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/a3/Groa_Future_Daughter_BtlFace.webp/revision/latest?cb=20260706153755",
+    "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f7/Groa_Future_Daughter_BtlFace_C.webp/revision/latest?cb=20260706153810",
+    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/30/Groa_Future_Daughter_BtlFace_D.webp/revision/latest?cb=20260706153816"
+  },
+  {
     "id": "PID_グローメル",
     "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/1f/Gromell_Bolt_Axe_General_Face.webp/revision/latest?cb=20251017043716",
     "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/ec/Gromell_Bolt_Axe_General_BtlFace.webp/revision/latest?cb=20251017043643",
@@ -4519,6 +4547,13 @@
     "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/0a/Ivy_Tidal_Breeze_BtlFace_D.webp/revision/latest?cb=20230706042726"
   },
   {
+    "id": "PID_ジェーデ",
+    "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/41/Jade_Iron_Wall_Face.webp/revision/latest?cb=20260716063523",
+    "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/0e/Jade_Iron_Wall_BtlFace.webp/revision/latest?cb=20260716063457",
+    "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/ee/Jade_Iron_Wall_BtlFace_C.webp/revision/latest?cb=20260716063516",
+    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f9/Jade_Iron_Wall_BtlFace_D.webp/revision/latest?cb=20260716063518"
+  },
+  {
     "id": "PID_ジャファル",
     "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/5a/Jaffar_Angel_of_Death_Face.webp/revision/latest?cb=20190920202013",
     "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/eb/Jaffar_Angel_of_Death_BtlFace.webp/revision/latest?cb=20190920202017",
@@ -4781,7 +4816,11 @@
     "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/78/Kana_Dragon_Princess_Face.webp/revision/latest?cb=20190920214550",
     "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/4a/Kana_Dragon_Princess_BtlFace.webp/revision/latest?cb=20190920214556",
     "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/0d/Kana_Dragon_Princess_BtlFace_C.webp/revision/latest?cb=20190920214603",
-    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/a5/Kana_Dragon_Princess_BtlFace_D.webp/revision/latest?cb=20190920214610"
+    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/a5/Kana_Dragon_Princess_BtlFace_D.webp/revision/latest?cb=20190920214610",
+    "art_resp_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/32/Kana_Dragon_Princess_Resplendent_Face.webp/revision/latest?cb=20260716063302",
+    "art_resp_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/8b/Kana_Dragon_Princess_Resplendent_BtlFace.webp/revision/latest?cb=20260716063237",
+    "art_resp_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e0/Kana_Dragon_Princess_Resplendent_BtlFace_C.webp/revision/latest?cb=20260716063253",
+    "art_resp_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/6d/Kana_Dragon_Princess_Resplendent_BtlFace_D.webp/revision/latest?cb=20260716063257"
   },
   {
     "id": "PID_カンナ男",
