@@ -97484,7 +97484,9 @@
           "Flying"
         ]
       },
-      "weapons": null
+      "weapons": {
+        "none": true
+      }
     },
     "addition_date": "2026-07-06",
     "release_date": "2026-07-17",
@@ -113481,7 +113483,9 @@
           "Infantry"
         ]
       },
-      "weapons": null
+      "weapons": {
+        "none": true
+      }
     },
     "addition_date": "2026-07-16",
     "release_date": "2026-07-17",
