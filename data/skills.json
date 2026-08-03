@@ -7286,8 +7286,10 @@
         "none": true
       },
       "weapons": {
-        "can_use": [
-          "All Melee"
+        "can_not_use": [
+          "All Tome",
+          "All Breath",
+          "Colorless"
         ]
       }
     },
@@ -7312,8 +7314,10 @@
         "none": true
       },
       "weapons": {
-        "can_use": [
-          "All Melee"
+        "can_not_use": [
+          "All Tome",
+          "All Breath",
+          "Colorless"
         ]
       }
     },
@@ -7341,8 +7345,10 @@
         "none": true
       },
       "weapons": {
-        "can_use": [
-          "All Melee"
+        "can_not_use": [
+          "All Tome",
+          "All Breath",
+          "Colorless"
         ]
       }
     },
@@ -7370,8 +7376,10 @@
         "none": true
       },
       "weapons": {
-        "can_use": [
-          "All Melee"
+        "can_not_use": [
+          "All Tome",
+          "All Breath",
+          "Colorless"
         ]
       }
     },
