@@ -10579,6 +10579,12 @@
   },
   {
     "unit_id": "PID_盗賊頭",
+    "skill_id": "SID_乱世の斧",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_盗賊頭",
     "skill_id": "SID_守備の封印1",
     "default": 0,
     "unlock": 3
@@ -61768,6 +61774,120 @@
     "skill_id": "SID_鋼の弓",
     "default": 2,
     "unlock": 2
+  },
+  {
+    "unit_id": "PID_紋章リーフ",
+    "skill_id": "SID_急所ずらし1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_紋章リーフ",
+    "skill_id": "SID_急所ずらし2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_紋章リーフ",
+    "skill_id": "SID_急所ずらし3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_紋章リーフ",
+    "skill_id": "SID_急所ずらし4",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_紋章リーフ",
+    "skill_id": "SID_流星",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_紋章リーフ",
+    "skill_id": "SID_合気・強化無効",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_紋章リーフ",
+    "skill_id": "SID_鉄の斧",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_紋章リーフ",
+    "skill_id": "SID_星影",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_紋章リーフ",
+    "skill_id": "SID_迅雷風烈・奇数1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_紋章リーフ",
+    "skill_id": "SID_迅雷風烈・奇数2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_紋章リーフ",
+    "skill_id": "SID_迅雷風烈・奇数3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_紋章リーフ",
+    "skill_id": "SID_テトラトリック",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_紋章リーフ",
+    "skill_id": "SID_賢王の斧",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_紋章リーフ",
+    "skill_id": "SID_銀の斧",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_紋章リーフ",
+    "skill_id": "SID_鋼の斧",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_紋章リーフ",
+    "skill_id": "SID_霹靂閃電・鬼没",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_紋章リーフ",
+    "skill_id": "SID_回避・拍節1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_紋章リーフ",
+    "skill_id": "SID_回避・拍節2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_紋章リーフ",
+    "skill_id": "SID_回避・拍節3",
+    "default": 0,
+    "unlock": 4
   },
   {
     "unit_id": "PID_リーフ",
@@ -120314,6 +120434,12 @@
   {
     "unit_id": "PID_紋章アイク",
     "skill_id": "EMBLEM_PID_紋章アイク",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_紋章リーフ",
+    "skill_id": "EMBLEM_PID_紋章リーフ",
     "default": 0,
     "unlock": 1
   },

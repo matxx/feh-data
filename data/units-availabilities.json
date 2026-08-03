@@ -4213,6 +4213,7 @@
       "hg": 4
     },
     "skill_ids": [
+      "SID_乱世の斧",
       "SID_伏竜",
       "SID_守備の封印1",
       "SID_攻撃の紫煙1",
@@ -25337,6 +25338,42 @@
       "SID_鼓動の幻煙2",
       "SID_鼓動の幻煙3",
       "SID_Ｓドリンク"
+    ]
+  },
+  {
+    "id": "PID_紋章リーフ",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "lowest_rarity": {
+      "foc": 5
+    },
+    "skill_ids": [
+      "EMBLEM_PID_紋章リーフ",
+      "SID_テトラトリック",
+      "SID_合気・強化無効",
+      "SID_回避・拍節1",
+      "SID_回避・拍節2",
+      "SID_回避・拍節3",
+      "SID_急所ずらし1",
+      "SID_急所ずらし2",
+      "SID_急所ずらし3",
+      "SID_急所ずらし4",
+      "SID_星影",
+      "SID_流星",
+      "SID_賢王の斧",
+      "SID_迅雷風烈・奇数1",
+      "SID_迅雷風烈・奇数2",
+      "SID_迅雷風烈・奇数3",
+      "SID_鉄の斧",
+      "SID_銀の斧",
+      "SID_鋼の斧",
+      "SID_霹靂閃電・鬼没"
     ]
   },
   {

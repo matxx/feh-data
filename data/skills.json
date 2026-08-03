@@ -7273,6 +7273,116 @@
     ]
   },
   {
+    "id": "SID_急所ずらし1",
+    "game8_id": "613268",
+    "fandom_id": "Arms Shield",
+    "name": "Arms Shield 1",
+    "category": "passivea",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b9/Arms_Shield_1.png/revision/latest?cb=20260802140035",
+    "sp": 60,
+    "tier": 1,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "All Melee"
+        ]
+      }
+    },
+    "addition_date": "2026-07-29",
+    "release_date": "2026-07-29",
+    "version": "10.7",
+    "upgrade_ids": [
+      "SID_急所ずらし2"
+    ]
+  },
+  {
+    "id": "SID_急所ずらし2",
+    "game8_id": "613269",
+    "fandom_id": "Arms Shield",
+    "name": "Arms Shield 2",
+    "category": "passivea",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/96/Arms_Shield_2.png/revision/latest?cb=20260802140045",
+    "sp": 120,
+    "tier": 2,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "All Melee"
+        ]
+      }
+    },
+    "addition_date": "2026-07-29",
+    "release_date": "2026-07-29",
+    "version": "10.7",
+    "upgrade_ids": [
+      "SID_急所ずらし3"
+    ],
+    "downgrade_ids": [
+      "SID_急所ずらし1"
+    ]
+  },
+  {
+    "id": "SID_急所ずらし3",
+    "game8_id": "613270",
+    "fandom_id": "Arms Shield",
+    "name": "Arms Shield 3",
+    "category": "passivea",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/a1/Arms_Shield_3.png/revision/latest?cb=20260802140055",
+    "sp": 240,
+    "tier": 3,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "All Melee"
+        ]
+      }
+    },
+    "addition_date": "2026-07-29",
+    "release_date": "2026-07-29",
+    "version": "10.7",
+    "upgrade_ids": [
+      "SID_急所ずらし4"
+    ],
+    "downgrade_ids": [
+      "SID_急所ずらし2"
+    ]
+  },
+  {
+    "id": "SID_急所ずらし4",
+    "game8_id": "613271",
+    "fandom_id": "Arms Shield",
+    "name": "Arms Shield 4",
+    "category": "passivea",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/55/Arms_Shield_4.png/revision/latest?cb=20260802140106",
+    "sp": 300,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "All Melee"
+        ]
+      }
+    },
+    "addition_date": "2026-07-29",
+    "release_date": "2026-07-29",
+    "version": "10.7",
+    "downgrade_ids": [
+      "SID_急所ずらし3"
+    ]
+  },
+  {
     "id": "SID_ハロルドの雄斧",
     "game8_id": "275243",
     "fandom_id": "Arthur's Axe",
@@ -7877,6 +7987,7 @@
       "SID_剣皇の流星",
       "SID_敏捷なる獣",
       "SID_ノヴァの聖戦士",
+      "SID_テトラトリック",
       "SID_剣姫の流星",
       "SID_無双の流星",
       "SID_真・ノヴァの聖戦士",
@@ -15813,7 +15924,10 @@
     "range": 1,
     "might": 16,
     "has_refine": true,
-    "refines_max_sp": 400
+    "refines_max_sp": 400,
+    "addition_date": "2022-07-19",
+    "release_date": "2022-07-20",
+    "version": "6.7"
   },
   {
     "id": "SID_乱世の斧_一",
@@ -15828,7 +15942,10 @@
     "tier": 1,
     "range": 1,
     "might": 16,
-    "refine_kind": "skill1"
+    "refine_kind": "skill1",
+    "addition_date": "2022-07-19",
+    "release_date": "2022-07-20",
+    "version": "6.7"
   },
   {
     "id": "SID_バアトルの豪斧",
@@ -84269,6 +84386,23 @@
     ]
   },
   {
+    "id": "SID_テトラトリック",
+    "game8_id": "613267",
+    "fandom_id": "Quadruple Hit",
+    "name": "Quadruple Hit",
+    "category": "special",
+    "is_prf": true,
+    "sp": 500,
+    "tier": 3,
+    "cd": 5,
+    "addition_date": "2026-07-29",
+    "release_date": "2026-07-29",
+    "version": "10.7",
+    "downgrade_ids": [
+      "SID_流星"
+    ]
+  },
+  {
     "id": "SID_女王の護衛の怜剣",
     "game8_id": "405127",
     "fandom_id": "Queensblade",
@@ -94216,6 +94350,25 @@
     ]
   },
   {
+    "id": "SID_賢王の斧",
+    "game8_id": "613266",
+    "fandom_id": "Sage Lord's Axe",
+    "name": "Sage Lord's Axe",
+    "category": "weapon",
+    "weapon_type": "Green Axe",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "range": 1,
+    "might": 16,
+    "addition_date": "2026-07-29",
+    "release_date": "2026-07-29",
+    "version": "10.7",
+    "downgrade_ids": [
+      "SID_銀の斧"
+    ]
+  },
+  {
     "id": "SID_アロー",
     "game8_id": "265839",
     "fandom_id": "Sagittae",
@@ -99120,6 +99273,7 @@
       "SID_一攫千金の巨大袋",
       "SID_風の大斧",
       "SID_リンカの鬼金棒",
+      "SID_賢王の斧",
       "SID_愛の祭器",
       "SID_蒼海割る裂帛の斧",
       "SID_銀の斧＋",
@@ -151121,6 +151275,18 @@
     "addition_date": "2024-03-29",
     "release_date": "2024-03-29",
     "version": "8.3"
+  },
+  {
+    "id": "EMBLEM_PID_紋章リーフ",
+    "game8_id": "613273",
+    "fandom_id": "Leif: Of Genealogy",
+    "name": "Leif: Of Genealogy",
+    "category": "emblem",
+    "is_prf": true,
+    "tier": 1,
+    "addition_date": "2026-07-29",
+    "release_date": "2026-07-29",
+    "version": "10.7"
   },
   {
     "id": "EMBLEM_PID_紋章ルキナ",

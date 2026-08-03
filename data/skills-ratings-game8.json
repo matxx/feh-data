@@ -21935,6 +21935,36 @@
     "game8_grade": "S"
   },
   {
+    "id": "SID_賢王の斧",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_テトラトリック",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_急所ずらし1",
+    "game8_rating": null,
+    "game8_grade": null
+  },
+  {
+    "id": "SID_急所ずらし2",
+    "game8_rating": null,
+    "game8_grade": null
+  },
+  {
+    "id": "SID_急所ずらし3",
+    "game8_rating": null,
+    "game8_grade": null
+  },
+  {
+    "id": "SID_急所ずらし4",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
     "id": "SSID_金剛の呼吸",
     "game8_grade": "S"
   },

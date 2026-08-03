@@ -1094,6 +1094,23 @@
     ]
   },
   {
+    "name": "Emblem Leif: Of Genealogy",
+    "unit_ids": [
+      "PID_ロウエン",
+      "PID_伝承リオン",
+      "PID_救世アルフォンス",
+      "PID_比翼エーデル",
+      "PID_比翼シグルド2",
+      "PID_神階ソンブル",
+      "PID_紋章カムイ女",
+      "PID_紋章シグルド",
+      "PID_紋章リーフ",
+      "PID_聖戦クロード",
+      "PID_闇アイビー",
+      "PID_魔器闇ティバーン"
+    ]
+  },
+  {
     "name": "Emblem Lucina: Of Awakening",
     "unit_ids": [
       "PID_イグナーツ",
@@ -3432,11 +3449,28 @@
     ]
   },
   {
+    "name": "Focus: Hector & Ephraim's Battle",
+    "unit_ids": [
+      "PID_ヘクトル",
+      "PID_総選挙エフラム",
+      "PID_総選挙ヘクトル"
+    ]
+  },
+  {
     "name": "Focus: Hector & Matthew's Battle",
     "unit_ids": [
       "PID_セーラ",
       "PID_ヘクトル",
       "PID_マシュー"
+    ]
+  },
+  {
+    "name": "Focus: Hero Fest (Aug 2026)",
+    "unit_ids": [
+      "PID_双界総選挙アイク",
+      "PID_双界総選挙セリカ",
+      "PID_双界総選挙ヘクトル",
+      "PID_双界総選挙リン"
     ]
   },
   {
@@ -4855,6 +4889,14 @@
       "PID_暴走レア",
       "PID_開花フィヨルム味方",
       "PID_闇ハイドラ"
+    ]
+  },
+  {
+    "name": "Focus: Heroes with Savior Skills (Jul 2026)",
+    "unit_ids": [
+      "PID_メリアエ味方",
+      "PID_冬祭アルフレッド",
+      "PID_総選挙エイクス"
     ]
   },
   {
@@ -12386,6 +12428,19 @@
       "PID_魔器サザ",
       "PID_魔器リリーナ",
       "PID_魔器レイラ"
+    ]
+  },
+  {
+    "name": "New Heroes Return (Jul 2026)",
+    "unit_ids": [
+      "PID_シャロン22025味方",
+      "PID_双界総選挙セリカ",
+      "PID_双界総選挙リン",
+      "PID_響心ブリギッド",
+      "PID_響心リョウマ",
+      "PID_魔器ヒノカ",
+      "PID_魔器ラーチェル",
+      "PID_魔器リシテア"
     ]
   },
   {
