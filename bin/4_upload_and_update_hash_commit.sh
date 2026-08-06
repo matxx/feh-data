@@ -19,4 +19,9 @@ Dir['data/*.json'].each do |filename|
   end
 end
 
+matxx_path = File.expand_path('~/matxx.sh')
+content = File.read(matxx_path)
+content.sub!(/^export FEH_PEELER_COMMIT_HASH=.*$/, "export FEH_PEELER_COMMIT_HASH=#{hash}")
+File.write(matxx_path, content)
+
 puts hash
