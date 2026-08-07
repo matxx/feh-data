@@ -123,7 +123,7 @@
     ]
   },
   {
-    "name": "4 Star & 5 Star Heroes (Apr 2018) (Focus)",
+    "name": "4 Star & 5 Star Heroes (Apr 2018)",
     "unit_ids": [
       "PID_アベル",
       "PID_カイン",
@@ -140,7 +140,7 @@
     ]
   },
   {
-    "name": "4 Star & 5 Star Heroes (Jan 2018) (Focus)",
+    "name": "4 Star & 5 Star Heroes (Jan 2018)",
     "unit_ids": [
       "PID_アベル",
       "PID_オスカー",
@@ -157,7 +157,7 @@
     ]
   },
   {
-    "name": "4 Star & 5 Star Heroes (Mar 2018) (Focus)",
+    "name": "4 Star & 5 Star Heroes (Mar 2018)",
     "unit_ids": [
       "PID_アベル",
       "PID_カミラ",
@@ -327,7 +327,16 @@
     ]
   },
   {
-    "name": "A Festival Miracle (Focus)",
+    "name": "A Blissful Soak",
+    "unit_ids": [
+      "PID_双界マルス",
+      "PID_浴衣クロム",
+      "PID_浴衣シーダ",
+      "PID_魔器浴衣ルフレ女"
+    ]
+  },
+  {
+    "name": "A Festival Miracle",
     "unit_ids": [
       "PID_冬祭セフェラン",
       "PID_冬祭ヒルダ",
@@ -347,7 +356,7 @@
     ]
   },
   {
-    "name": "A Monstrous Harvest / Treat Fiends (Focus)",
+    "name": "A Monstrous Harvest / Treat Fiends",
     "unit_ids": [
       "PID_ハロイレース",
       "PID_ハロドズラ",
@@ -356,7 +365,7 @@
     ]
   },
   {
-    "name": "A New Self (Focus)",
+    "name": "A New Self",
     "unit_ids": [
       "PID_比翼ハピ",
       "PID_水着エイクスルニル",
@@ -365,7 +374,7 @@
     ]
   },
   {
-    "name": "A Place to Rest (Focus)",
+    "name": "A Place to Rest",
     "unit_ids": [
       "PID_双界クロエ",
       "PID_春祭シルヴァン",
@@ -374,7 +383,7 @@
     ]
   },
   {
-    "name": "A Season for Picnics (Focus)",
+    "name": "A Season for Picnics",
     "unit_ids": [
       "PID_行楽ジェニー",
       "PID_行楽フェリシア",
@@ -383,7 +392,7 @@
     ]
   },
   {
-    "name": "A Sketchy Summer (Focus)",
+    "name": "A Sketchy Summer",
     "unit_ids": [
       "PID_水着カミラ",
       "PID_水着タクミ",
@@ -392,7 +401,7 @@
     ]
   },
   {
-    "name": "A Special Gift (Focus)",
+    "name": "A Special Gift",
     "unit_ids": [
       "PID_愛の祭カザハナ",
       "PID_愛の祭タクミ",
@@ -401,7 +410,7 @@
     ]
   },
   {
-    "name": "A Splendid Soiree (Focus)",
+    "name": "A Splendid Soiree",
     "unit_ids": [
       "PID_舞踏イシュタル",
       "PID_舞踏ネフェニー",
@@ -459,7 +468,7 @@
     ]
   },
   {
-    "name": "Altered Future (Focus)",
+    "name": "Altered Future",
     "unit_ids": [
       "PID_ハロスクリミル",
       "PID_ハロネルトゥス",
@@ -597,7 +606,7 @@
     ]
   },
   {
-    "name": "Be Brave, Great Hero! (Focus)",
+    "name": "Be Brave, Great Hero!",
     "unit_ids": [
       "PID_総選挙アルフォンス",
       "PID_総選挙フェリクス",
@@ -606,7 +615,7 @@
     ]
   },
   {
-    "name": "Beside Kin (Focus)",
+    "name": "Beside Kin",
     "unit_ids": [
       "PID_フェリアクロム",
       "PID_フェリアホリン",
@@ -615,7 +624,7 @@
     ]
   },
   {
-    "name": "Bite of Flame (Focus)",
+    "name": "Bite of Flame",
     "unit_ids": [
       "PID_双界ターナ",
       "PID_炎部族ムスペル",
@@ -705,7 +714,7 @@
     ]
   },
   {
-    "name": "Bound Hero Battle (Morgan & Morgan) (Focus)",
+    "name": "Bound Hero Battle (Morgan & Morgan)",
     "unit_ids": [
       "PID_マーク女",
       "PID_マーク男",
@@ -713,7 +722,7 @@
     ]
   },
   {
-    "name": "Brave Redux (Focus)",
+    "name": "Brave Redux",
     "unit_ids": [
       "PID_ウード",
       "PID_クリフ",
@@ -721,7 +730,7 @@
     ]
   },
   {
-    "name": "Brave Reprisals (Focus)",
+    "name": "Brave Reprisals",
     "unit_ids": [
       "PID_催眠チキ",
       "PID_闇ベルクト",
@@ -729,7 +738,7 @@
     ]
   },
   {
-    "name": "Bridal Belonging (Focus)",
+    "name": "Bridal Belonging",
     "unit_ids": [
       "PID_花婿パント",
       "PID_花嫁シグルーン",
@@ -738,7 +747,7 @@
     ]
   },
   {
-    "name": "Bridal Beloveds (Focus)",
+    "name": "Bridal Beloveds",
     "unit_ids": [
       "PID_比翼ミカヤ",
       "PID_花婿ラフィエル",
@@ -747,7 +756,7 @@
     ]
   },
   {
-    "name": "Bridal Blessings (Focus)",
+    "name": "Bridal Blessings",
     "unit_ids": [
       "PID_花嫁シャーロッテ",
       "PID_花嫁シーダ",
@@ -756,7 +765,7 @@
     ]
   },
   {
-    "name": "Bridal Bloom (Focus)",
+    "name": "Bridal Bloom",
     "unit_ids": [
       "PID_花嫁サナキ",
       "PID_花嫁サーリャ",
@@ -764,7 +773,7 @@
     ]
   },
   {
-    "name": "Bridal Blossoms (Focus)",
+    "name": "Bridal Blossoms",
     "unit_ids": [
       "PID_双界ロイ",
       "PID_花嫁セシリア",
@@ -773,7 +782,7 @@
     ]
   },
   {
-    "name": "Bridal Dreams (Focus)",
+    "name": "Bridal Dreams",
     "unit_ids": [
       "PID_双界チキ覚醒",
       "PID_花嫁アンナ覚醒",
@@ -782,7 +791,7 @@
     ]
   },
   {
-    "name": "Bridal Grace (Focus)",
+    "name": "Bridal Grace",
     "unit_ids": [
       "PID_双界外伝カチュア",
       "PID_立会人サウル",
@@ -791,7 +800,7 @@
     ]
   },
   {
-    "name": "Brides to Be (Focus)",
+    "name": "Brides to Be",
     "unit_ids": [
       "PID_比翼シャロン",
       "PID_花嫁エル",
@@ -829,7 +838,7 @@
     ]
   },
   {
-    "name": "Camilla: Alluring Darkness (Focus)",
+    "name": "Camilla: Alluring Darkness",
     "unit_ids": [
       "PID_ラタトスク",
       "PID_ヴェロニカ2味方",
@@ -846,7 +855,7 @@
     ]
   },
   {
-    "name": "Cheer Leaders (Focus)",
+    "name": "Cheer Leaders",
     "unit_ids": [
       "PID_双界ベレス",
       "PID_運動着アイク",
@@ -855,7 +864,7 @@
     ]
   },
   {
-    "name": "Childhood Encounter (Focus)",
+    "name": "Childhood Encounter",
     "unit_ids": [
       "PID_幼少ターナ",
       "PID_幼少ラーチェル",
@@ -864,7 +873,7 @@
     ]
   },
   {
-    "name": "Cure for Shyness (Focus)",
+    "name": "Cure for Shyness",
     "unit_ids": [
       "PID_イリアアクア",
       "PID_イリアミネルバ",
@@ -873,7 +882,7 @@
     ]
   },
   {
-    "name": "Dark Desert Rituals (Focus)",
+    "name": "Dark Desert Rituals",
     "unit_ids": [
       "PID_双界ドロテア",
       "PID_砂漠カタリナ",
@@ -882,7 +891,7 @@
     ]
   },
   {
-    "name": "Divine Harvest (Focus)",
+    "name": "Divine Harvest",
     "unit_ids": [
       "PID_ハロカムイ女",
       "PID_ハロカムイ男",
@@ -930,7 +939,7 @@
     ]
   },
   {
-    "name": "Double Vision (Focus)",
+    "name": "Double Vision",
     "unit_ids": [
       "PID_幼少エメリナ",
       "PID_幼少リズ",
@@ -939,7 +948,7 @@
     ]
   },
   {
-    "name": "Dragons Harvest (Focus)",
+    "name": "Dragons Harvest",
     "unit_ids": [
       "PID_ハロチェイニー",
       "PID_ハロデギンハンザー",
@@ -983,7 +992,7 @@
     ]
   },
   {
-    "name": "Dust Storm Mercs (Focus)",
+    "name": "Dust Storm Mercs",
     "unit_ids": [
       "PID_ジャハナアイク",
       "PID_ジャハナテティス",
@@ -1256,7 +1265,7 @@
     ]
   },
   {
-    "name": "Familial Festivities (Focus)",
+    "name": "Familial Festivities",
     "unit_ids": [
       "PID_春祭エスト",
       "PID_春祭ナーシェン",
@@ -1265,7 +1274,7 @@
     ]
   },
   {
-    "name": "Family Ninja Class (Focus)",
+    "name": "Family Ninja Class",
     "unit_ids": [
       "PID_忍者サーリャ",
       "PID_忍者セリーヌ",
@@ -1283,7 +1292,7 @@
     ]
   },
   {
-    "name": "Festival Guide (Focus)",
+    "name": "Festival Guide",
     "unit_ids": [
       "PID_ハロアスク",
       "PID_ハロレテ",
@@ -1292,7 +1301,7 @@
     ]
   },
   {
-    "name": "Festival in Hoshido (Focus)",
+    "name": "Festival in Hoshido",
     "unit_ids": [
       "PID_夏祭エリンシア",
       "PID_夏祭マークス",
@@ -1301,7 +1310,7 @@
     ]
   },
   {
-    "name": "First Festival (Focus)",
+    "name": "First Festival",
     "unit_ids": [
       "PID_比翼アシュ",
       "PID_花嫁エイル",
@@ -1310,7 +1319,7 @@
     ]
   },
   {
-    "name": "Floral Royals (Focus)",
+    "name": "Floral Royals",
     "unit_ids": [
       "PID_愛の祭オルテンシア",
       "PID_愛の祭セリーヌ",
@@ -1319,7 +1328,7 @@
     ]
   },
   {
-    "name": "Flush Summer (Focus)",
+    "name": "Flush Summer",
     "unit_ids": [
       "PID_比翼グルヴェイグ",
       "PID_水着オリヴィエ",
@@ -5730,6 +5739,14 @@
     ]
   },
   {
+    "name": "Focus: Mythic Revival 4",
+    "unit_ids": [
+      "PID_プルメリア味方",
+      "PID_ヘル味方",
+      "PID_神階ブラミモンド"
+    ]
+  },
+  {
     "name": "Focus: Nergal & Ursula's Battle",
     "unit_ids": [
       "PID_ジャファル",
@@ -5880,6 +5897,15 @@
       "PID_ファリナ",
       "PID_砂漠カタリナ",
       "PID_闇マーク女"
+    ]
+  },
+  {
+    "name": "Focus: New Power (Aug 2026)",
+    "unit_ids": [
+      "PID_コーマ",
+      "PID_ティニー",
+      "PID_水着アッシュ",
+      "PID_開花マリータ"
     ]
   },
   {
@@ -7255,6 +7281,14 @@
     ]
   },
   {
+    "name": "Focus: Tempest Trials (Daughters 2)",
+    "unit_ids": [
+      "PID_クロム",
+      "PID_マルス",
+      "PID_ルキナ"
+    ]
+  },
+  {
     "name": "Focus: Tempest Trials (Daughters of the Black Fang)",
     "unit_ids": [
       "PID_サラ",
@@ -8442,6 +8476,14 @@
     ]
   },
   {
+    "name": "Focus: Weekly Revival 129",
+    "unit_ids": [
+      "PID_闇魔器ルミエル",
+      "PID_魔器ソニア",
+      "PID_魔器ラインハルト"
+    ]
+  },
+  {
     "name": "Focus: Weekly Revival 13",
     "unit_ids": [
       "PID_ターナ",
@@ -9399,7 +9441,7 @@
     ]
   },
   {
-    "name": "Gift I'll Give Again (Focus)",
+    "name": "Gift I'll Give Again",
     "unit_ids": [
       "PID_冬祭アルフレッド",
       "PID_冬祭セイズ",
@@ -9408,7 +9450,7 @@
     ]
   },
   {
-    "name": "Gifts of Winter (Focus)",
+    "name": "Gifts of Winter",
     "unit_ids": [
       "PID_冬祭エイリーク",
       "PID_冬祭エフラム",
@@ -9416,7 +9458,7 @@
     ]
   },
   {
-    "name": "Glorious Gifts (Focus)",
+    "name": "Glorious Gifts",
     "unit_ids": [
       "PID_冬祭ソティス",
       "PID_冬祭ニノ",
@@ -9425,7 +9467,7 @@
     ]
   },
   {
-    "name": "Gods Renewed (Focus)",
+    "name": "Gods Renewed",
     "unit_ids": [
       "PID_年明アシュ",
       "PID_年明エルム",
@@ -9434,7 +9476,7 @@
     ]
   },
   {
-    "name": "Greetings to You (Focus)",
+    "name": "Greetings to You",
     "unit_ids": [
       "PID_年明ターナ",
       "PID_年明ニーズヘッグ",
@@ -9443,7 +9485,7 @@
     ]
   },
   {
-    "name": "Greil's Devoted (Focus)",
+    "name": "Greil's Devoted",
     "unit_ids": [
       "PID_愛の祭アイク",
       "PID_愛の祭グレイル",
@@ -9503,7 +9545,7 @@
     ]
   },
   {
-    "name": "Happy New Year! (Focus)",
+    "name": "Happy New Year!",
     "unit_ids": [
       "PID_年明けアクア",
       "PID_年明けカミラ",
@@ -9511,7 +9553,7 @@
     ]
   },
   {
-    "name": "Hares at the Fair (Focus)",
+    "name": "Hares at the Fair",
     "unit_ids": [
       "PID_春祭アルフォンス",
       "PID_春祭カゲロウ",
@@ -9544,7 +9586,7 @@
     ]
   },
   {
-    "name": "Here with Me (Focus)",
+    "name": "Here with Me",
     "unit_ids": [
       "PID_愛の祭ウード",
       "PID_愛の祭ルキナ",
@@ -9704,7 +9746,7 @@
     ]
   },
   {
-    "name": "Holiday Handoff (Focus)",
+    "name": "Holiday Handoff",
     "unit_ids": [
       "PID_冬祭アネット",
       "PID_冬祭ドロテア",
@@ -9713,7 +9755,7 @@
     ]
   },
   {
-    "name": "Holiday Lessons (Focus)",
+    "name": "Holiday Lessons",
     "unit_ids": [
       "PID_冬祭エーデルガルト",
       "PID_冬祭ディミトリ",
@@ -9722,7 +9764,7 @@
     ]
   },
   {
-    "name": "Hop-and-Go-Seek (Focus)",
+    "name": "Hop-and-Go-Seek",
     "unit_ids": [
       "PID_双界ソニア",
       "PID_春祭デューテ",
@@ -9731,7 +9773,7 @@
     ]
   },
   {
-    "name": "Hostile Springs (Focus)",
+    "name": "Hostile Springs",
     "unit_ids": [
       "PID_温泉エリーゼ",
       "PID_温泉サクラ",
@@ -9740,7 +9782,7 @@
     ]
   },
   {
-    "name": "Icy Invitation (Focus)",
+    "name": "Icy Invitation",
     "unit_ids": [
       "PID_比翼フィヨルム",
       "PID_氷部族ティト",
@@ -9749,7 +9791,7 @@
     ]
   },
   {
-    "name": "In the Moment (Focus)",
+    "name": "In the Moment",
     "unit_ids": [
       "PID_忍者ツイハーク",
       "PID_忍者ナバール",
@@ -9758,7 +9800,7 @@
     ]
   },
   {
-    "name": "Invitation to Tea (Focus)",
+    "name": "Invitation to Tea",
     "unit_ids": [
       "PID_お茶会シグルド",
       "PID_お茶会フェルディ",
@@ -11612,7 +11654,7 @@
     ]
   },
   {
-    "name": "Like Clockwork (Focus)",
+    "name": "Like Clockwork",
     "unit_ids": [
       "PID_年明ファフニール",
       "PID_年明リィレ",
@@ -11621,7 +11663,7 @@
     ]
   },
   {
-    "name": "Love Abounds (Focus)",
+    "name": "Love Abounds",
     "unit_ids": [
       "PID_愛の祭ヘクトル",
       "PID_愛の祭リリーナ",
@@ -11630,7 +11672,7 @@
     ]
   },
   {
-    "name": "Love of a King (Focus)",
+    "name": "Love of a King",
     "unit_ids": [
       "PID_愛の祭アルフォンス",
       "PID_愛の祭グスタフ",
@@ -11639,7 +11681,7 @@
     ]
   },
   {
-    "name": "Lovely Gifts (Focus)",
+    "name": "Lovely Gifts",
     "unit_ids": [
       "PID_愛の祭エフィ",
       "PID_愛の祭コンラート",
@@ -11648,7 +11690,7 @@
     ]
   },
   {
-    "name": "Lovely Teatime (Focus)",
+    "name": "Lovely Teatime",
     "unit_ids": [
       "PID_お茶会セリーヌ",
       "PID_お茶会フェリクス",
@@ -11657,7 +11699,7 @@
     ]
   },
   {
-    "name": "Loving Sea (Focus)",
+    "name": "Loving Sea",
     "unit_ids": [
       "PID_双界ゴルドマリー",
       "PID_水着クラン",
@@ -11666,7 +11708,7 @@
     ]
   },
   {
-    "name": "May This Last (Focus)",
+    "name": "May This Last",
     "unit_ids": [
       "PID_愛の祭エフラム",
       "PID_愛の祭セライナ",
@@ -11675,7 +11717,7 @@
     ]
   },
   {
-    "name": "Merchant's Harvest (Focus)",
+    "name": "Merchant's Harvest",
     "unit_ids": [
       "PID_ハロセアダス",
       "PID_ハロフレン",
@@ -11684,7 +11726,7 @@
     ]
   },
   {
-    "name": "Moment of Joy (Focus)",
+    "name": "Moment of Joy",
     "unit_ids": [
       "PID_比翼ユリア",
       "PID_花婿セリス",
@@ -11693,7 +11735,7 @@
     ]
   },
   {
-    "name": "Mortal's New Year (Focus)",
+    "name": "Mortal's New Year",
     "unit_ids": [
       "PID_年明ザガロ",
       "PID_年明ヘイムダル",
@@ -12178,7 +12220,7 @@
     ]
   },
   {
-    "name": "Nabata's Shield (Focus)",
+    "name": "Nabata's Shield",
     "unit_ids": [
       "PID_ナバタオルティナ",
       "PID_ナバタトパック",
@@ -13238,7 +13280,7 @@
     ]
   },
   {
-    "name": "New Year's of Fire and Ice (Focus)",
+    "name": "New Year's of Fire and Ice",
     "unit_ids": [
       "PID_年明スリーズ",
       "PID_年明フィヨルム",
@@ -13247,7 +13289,7 @@
     ]
   },
   {
-    "name": "Ninja of Time (Focus)",
+    "name": "Ninja of Time",
     "unit_ids": [
       "PID_忍者シェズ女",
       "PID_忍者フリーズ",
@@ -13256,7 +13298,7 @@
     ]
   },
   {
-    "name": "Ninja Training (Focus)",
+    "name": "Ninja Training",
     "unit_ids": [
       "PID_忍者イグレーヌ",
       "PID_忍者カムイ男",
@@ -13265,7 +13307,7 @@
     ]
   },
   {
-    "name": "No Matter Where (Focus)",
+    "name": "No Matter Where",
     "unit_ids": [
       "PID_幼少エリウッド",
       "PID_幼少ヘクトル",
@@ -13274,7 +13316,7 @@
     ]
   },
   {
-    "name": "Nohrian Summer (Focus)",
+    "name": "Nohrian Summer",
     "unit_ids": [
       "PID_水着エリーゼ",
       "PID_水着カムイ女",
@@ -13283,7 +13325,7 @@
     ]
   },
   {
-    "name": "Of Lost Kingdoms (Focus)",
+    "name": "Of Lost Kingdoms",
     "unit_ids": [
       "PID_ハタリカアラ",
       "PID_ハタリチェイニー",
@@ -13292,7 +13334,7 @@
     ]
   },
   {
-    "name": "Our Path Ahead (Focus)",
+    "name": "Our Path Ahead",
     "unit_ids": [
       "PID_忍者ゼルギウス",
       "PID_忍者ヘザー",
@@ -13301,7 +13343,7 @@
     ]
   },
   {
-    "name": "Overseas Memories (Focus)",
+    "name": "Overseas Memories",
     "unit_ids": [
       "PID_比翼ベレス",
       "PID_水着イングリット",
@@ -13310,7 +13352,7 @@
     ]
   },
   {
-    "name": "Past Preconceptions (Focus)",
+    "name": "Past Preconceptions",
     "unit_ids": [
       "PID_双界プルメリア",
       "PID_春祭アイト",
@@ -13319,7 +13361,7 @@
     ]
   },
   {
-    "name": "Performing Arts (Focus)",
+    "name": "Performing Arts",
     "unit_ids": [
       "PID_舞踏祭アズール",
       "PID_舞踏祭オリヴィエ",
@@ -13328,7 +13370,7 @@
     ]
   },
   {
-    "name": "Perilous Seas (Focus)",
+    "name": "Perilous Seas",
     "unit_ids": [
       "PID_比翼ヒノカ",
       "PID_海賊スルト",
@@ -13337,7 +13379,7 @@
     ]
   },
   {
-    "name": "Pious Summer (Focus)",
+    "name": "Pious Summer",
     "unit_ids": [
       "PID_双界セリカ",
       "PID_水着ニノ",
@@ -13346,7 +13388,7 @@
     ]
   },
   {
-    "name": "Pirate's Pride (Focus)",
+    "name": "Pirate's Pride",
     "unit_ids": [
       "PID_双界ヴェロニカ",
       "PID_海賊ギース",
@@ -13355,7 +13397,7 @@
     ]
   },
   {
-    "name": "Precious Siblings (Focus)",
+    "name": "Precious Siblings",
     "unit_ids": [
       "PID_幼少エリーゼ",
       "PID_幼少カミラ",
@@ -13427,7 +13469,7 @@
     ]
   },
   {
-    "name": "Regal Rabbits (Focus)",
+    "name": "Regal Rabbits",
     "unit_ids": [
       "PID_春祭パオラ",
       "PID_春祭ブルーノ",
@@ -13436,7 +13478,7 @@
     ]
   },
   {
-    "name": "Renewed Spirit (Focus)",
+    "name": "Renewed Spirit",
     "unit_ids": [
       "PID_年明アンナ",
       "PID_年明キヌ",
@@ -13523,7 +13565,7 @@
     ]
   },
   {
-    "name": "Ring In the Year (Focus)",
+    "name": "Ring In the Year",
     "unit_ids": [
       "PID_年明カンナ男",
       "PID_年明クワシル",
@@ -13532,7 +13574,7 @@
     ]
   },
   {
-    "name": "Risk and Reward (Focus)",
+    "name": "Risk and Reward",
     "unit_ids": [
       "PID_怪盗キャス",
       "PID_怪盗サザ",
@@ -13541,7 +13583,7 @@
     ]
   },
   {
-    "name": "Sage of Khadein? (Focus)",
+    "name": "Sage of Khadein?",
     "unit_ids": [
       "PID_カダインウルスラ",
       "PID_カダインニノ",
@@ -13550,7 +13592,7 @@
     ]
   },
   {
-    "name": "Scions of Twelve (Focus)",
+    "name": "Scions of Twelve",
     "unit_ids": [
       "PID_双界リーフ",
       "PID_聖祭ユリア",
@@ -13559,7 +13601,7 @@
     ]
   },
   {
-    "name": "Seeking and Finding (Focus)",
+    "name": "Seeking and Finding",
     "unit_ids": [
       "PID_愛の祭エーデル",
       "PID_愛の祭クロード",
@@ -13568,7 +13610,7 @@
     ]
   },
   {
-    "name": "Shared Bounty (Focus)",
+    "name": "Shared Bounty",
     "unit_ids": [
       "PID_ハロクルトナーガ",
       "PID_ハロルフレ男",
@@ -14056,7 +14098,7 @@
     ]
   },
   {
-    "name": "Spring Eternal (Focus)",
+    "name": "Spring Eternal",
     "unit_ids": [
       "PID_双界カアラ",
       "PID_春祭アッシュ",
@@ -14065,7 +14107,7 @@
     ]
   },
   {
-    "name": "Spring Festival (Focus)",
+    "name": "Spring Festival",
     "unit_ids": [
       "PID_春祭カミラ",
       "PID_春祭クロム",
@@ -14074,7 +14116,7 @@
     ]
   },
   {
-    "name": "Springtime Sisters (Focus)",
+    "name": "Springtime Sisters",
     "unit_ids": [
       "PID_双界エイリーク",
       "PID_春祭トール",
@@ -14083,7 +14125,7 @@
     ]
   },
   {
-    "name": "Summer Firsts (Focus)",
+    "name": "Summer Firsts",
     "unit_ids": [
       "PID_比翼ユーミル",
       "PID_水着アイビー",
@@ -14092,7 +14134,7 @@
     ]
   },
   {
-    "name": "Summer Longing (Focus)",
+    "name": "Summer Longing",
     "unit_ids": [
       "PID_比翼シャミア",
       "PID_水着エフラム",
@@ -14101,7 +14143,7 @@
     ]
   },
   {
-    "name": "Summer Passing (Focus)",
+    "name": "Summer Passing",
     "unit_ids": [
       "PID_双界ワユ",
       "PID_水着セライナ",
@@ -14110,7 +14152,7 @@
     ]
   },
   {
-    "name": "Summer Refreshes (Focus)",
+    "name": "Summer Refreshes",
     "unit_ids": [
       "PID_水着ウォルト",
       "PID_水着ウルスラ",
@@ -14119,7 +14161,7 @@
     ]
   },
   {
-    "name": "Summer Returns (Focus)",
+    "name": "Summer Returns",
     "unit_ids": [
       "PID_水着スリーズ",
       "PID_水着ヘルビンディ",
@@ -14128,7 +14170,7 @@
     ]
   },
   {
-    "name": "Summer Vacation (Focus)",
+    "name": "Summer Vacation",
     "unit_ids": [
       "PID_双界エーデルガルト",
       "PID_水着クロード",
@@ -14137,7 +14179,7 @@
     ]
   },
   {
-    "name": "Summer Vibrance (Focus)",
+    "name": "Summer Vibrance",
     "unit_ids": [
       "PID_比翼ヒルダ",
       "PID_水着アッシュ",
@@ -14146,7 +14188,7 @@
     ]
   },
   {
-    "name": "Summer's Arrival (Focus)",
+    "name": "Summer's Arrival",
     "unit_ids": [
       "PID_水着ターナ",
       "PID_水着ティアモ",
@@ -14155,7 +14197,7 @@
     ]
   },
   {
-    "name": "Summer's Dream (Focus)",
+    "name": "Summer's Dream",
     "unit_ids": [
       "PID_双界シーダ",
       "PID_水着オグマ",
@@ -14164,7 +14206,7 @@
     ]
   },
   {
-    "name": "Summer's Gift (Focus)",
+    "name": "Summer's Gift",
     "unit_ids": [
       "PID_比翼バルドル2",
       "PID_水着アルフォンス",
@@ -14173,7 +14215,7 @@
     ]
   },
   {
-    "name": "Take Flight, Pegasus! (Focus)",
+    "name": "Take Flight, Pegasus!",
     "unit_ids": [
       "PID_伝承エリンシア",
       "PID_伝承シーダ",
@@ -14182,7 +14224,7 @@
     ]
   },
   {
-    "name": "Taken by the Tide (Focus)",
+    "name": "Taken by the Tide",
     "unit_ids": [
       "PID_比翼トール",
       "PID_水着エイリーク",
@@ -14191,7 +14233,7 @@
     ]
   },
   {
-    "name": "The Land's Bounty (Focus)",
+    "name": "The Land's Bounty",
     "unit_ids": [
       "PID_ハロカゲロウ",
       "PID_ハロゼロ",
@@ -14200,7 +14242,7 @@
     ]
   },
   {
-    "name": "The Start of It All (Focus)",
+    "name": "The Start of It All",
     "unit_ids": [
       "PID_幼少シーダ",
       "PID_幼少マリク",
@@ -14313,7 +14355,7 @@
     ]
   },
   {
-    "name": "Timidity Trials (Focus)",
+    "name": "Timidity Trials",
     "unit_ids": [
       "PID_双界ネフェニー",
       "PID_浴衣ルキノ",
@@ -14322,7 +14364,7 @@
     ]
   },
   {
-    "name": "To Stay Dreaming (Focus)",
+    "name": "To Stay Dreaming",
     "unit_ids": [
       "PID_比翼シグルド",
       "PID_舞踏エスリン",
@@ -14331,7 +14373,7 @@
     ]
   },
   {
-    "name": "Trick or Defeat! (Focus)",
+    "name": "Trick or Defeat!",
     "unit_ids": [
       "PID_ハロサクラ",
       "PID_ハロジョーカー",
@@ -14340,7 +14382,7 @@
     ]
   },
   {
-    "name": "Unforgettable (Focus)",
+    "name": "Unforgettable",
     "unit_ids": [
       "PID_幼少クロード",
       "PID_幼少フェリクス",
@@ -14349,7 +14391,7 @@
     ]
   },
   {
-    "name": "Unlikely Friends (Focus)",
+    "name": "Unlikely Friends",
     "unit_ids": [
       "PID_幼少イレース",
       "PID_幼少セネリオ",
@@ -14358,7 +14400,7 @@
     ]
   },
   {
-    "name": "Voting Gauntlet: Swift-Shadow Series (Focus)",
+    "name": "Voting Gauntlet: Swift-Shadow Series",
     "unit_ids": [
       "PID_ジャファル",
       "PID_スズカゼ",
@@ -14379,7 +14421,7 @@
     ]
   },
   {
-    "name": "Willful Rabbits (Focus)",
+    "name": "Willful Rabbits",
     "unit_ids": [
       "PID_双界ミルラ",
       "PID_春祭アズール",
@@ -14388,7 +14430,7 @@
     ]
   },
   {
-    "name": "Winds Offered (Focus)",
+    "name": "Winds Offered",
     "unit_ids": [
       "PID_比翼カゲロウ",
       "PID_風部族カチュア",
@@ -14397,7 +14439,7 @@
     ]
   },
   {
-    "name": "Winter Dreamland (Focus)",
+    "name": "Winter Dreamland",
     "unit_ids": [
       "PID_冬祭アスレイ",
       "PID_冬祭マヌエラ",
@@ -14419,7 +14461,7 @@
     ]
   },
   {
-    "name": "Winter's Envoy (Focus)",
+    "name": "Winter's Envoy",
     "unit_ids": [
       "PID_冬祭クロム",
       "PID_冬祭サーリャ",
@@ -14428,7 +14470,7 @@
     ]
   },
   {
-    "name": "Wyvern Ninja (Focus)",
+    "name": "Wyvern Ninja",
     "unit_ids": [
       "PID_忍者カミラ",
       "PID_忍者セルジュ",
@@ -14473,7 +14515,7 @@
     ]
   },
   {
-    "name": "Yearning to Give (Focus)",
+    "name": "Yearning to Give",
     "unit_ids": [
       "PID_冬祭オルテンシア",
       "PID_冬祭シェズ女",
@@ -14482,7 +14524,7 @@
     ]
   },
   {
-    "name": "Ylissean Summer (Focus)",
+    "name": "Ylissean Summer",
     "unit_ids": [
       "PID_水着ガイア",
       "PID_水着チキ覚醒",

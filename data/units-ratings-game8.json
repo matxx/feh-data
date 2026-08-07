@@ -9798,5 +9798,33 @@
     "recommended_boon": "spd",
     "recommended_bane": "res",
     "recommended_plus10": null
+  },
+  {
+    "id": "PID_浴衣クロム",
+    "game8_rating": "9.5",
+    "recommended_boon": "atk",
+    "recommended_bane": "res",
+    "recommended_plus10": null
+  },
+  {
+    "id": "PID_浴衣シーダ",
+    "game8_rating": "9.5",
+    "recommended_boon": "spd",
+    "recommended_bane": "res",
+    "recommended_plus10": null
+  },
+  {
+    "id": "PID_魔器浴衣ルフレ女",
+    "game8_rating": "9.5",
+    "recommended_boon": "spd",
+    "recommended_bane": "res",
+    "recommended_plus10": null
+  },
+  {
+    "id": "PID_双界マルス",
+    "game8_rating": "9.5",
+    "recommended_boon": "spd",
+    "recommended_bane": "res",
+    "recommended_plus10": null
   }
 ]

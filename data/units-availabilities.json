@@ -4972,13 +4972,15 @@
     "id": "PID_浴衣シーダ",
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "lowest_rarity": {},
+    "lowest_rarity": {
+      "ssp": 4
+    },
     "skill_ids": [
       "SID_ウインド",
       "SID_エルウインド",
@@ -7382,13 +7384,15 @@
     "id": "PID_浴衣クロム",
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "lowest_rarity": {},
+    "lowest_rarity": {
+      "ssp": 5
+    },
     "skill_ids": [
       "SID_引き戻し",
       "SID_攻め立て1",
@@ -21709,14 +21713,16 @@
   {
     "id": "PID_ジェーデ",
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "lowest_rarity": {},
+    "lowest_rarity": {
+      "gsp": 5
+    },
     "skill_ids": [
       "SID_攻撃守備の万全1",
       "SID_攻撃守備の万全2",
@@ -30629,13 +30635,15 @@
     "id": "PID_双界マルス",
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "lowest_rarity": {},
+    "lowest_rarity": {
+      "ssp": 5
+    },
     "skill_ids": [
       "HARMONIZED_PID_双界マルス",
       "SID_二人のマルスの提灯",
@@ -39558,13 +39566,14 @@
     "id": "PID_魔器浴衣ルフレ女",
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": true
     },
     "lowest_rarity": {
+      "ssp": 5,
       "foc": 5
     },
     "skill_ids": [

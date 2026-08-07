@@ -352,6 +352,7 @@
   },
   {
     "id": "SID_攻撃守備の予知逆用",
+    "game8_id": "614622",
     "fandom_id": "A/D Foresight Nix",
     "name": "A/D Foresight Nix",
     "category": "passivea",
@@ -1766,6 +1767,7 @@
   },
   {
     "id": "SID_攻撃速さの予知逆用",
+    "game8_id": "614623",
     "fandom_id": "A/S Foresight Nix",
     "name": "A/S Foresight Nix",
     "category": "passivea",
@@ -5310,6 +5312,7 @@
   },
   {
     "id": "SID_魔器・アヒルの湯桶",
+    "game8_id": "614618",
     "fandom_id": "Arcane Duck Pail",
     "name": "Arcane Duck Pail",
     "category": "weapon",
@@ -18877,6 +18880,7 @@
   },
   {
     "id": "SID_真封印の盾",
+    "game8_id": "614628",
     "fandom_id": "Binding Barrier",
     "name": "Binding Barrier",
     "category": "passiveb",
@@ -31521,6 +31525,7 @@
   },
   {
     "id": "SID_遠反・攻速守の絆",
+    "game8_id": "614624",
     "fandom_id": "D A/S/D Bond",
     "name": "D A/S/D Bond",
     "category": "passivea",
@@ -62541,6 +62546,7 @@
   },
   {
     "id": "SID_温泉の湯桶",
+    "game8_id": "614617",
     "fandom_id": "Hot-Spring Pail",
     "name": "Hot-Spring Pail",
     "category": "weapon",
@@ -62564,6 +62570,7 @@
   },
   {
     "id": "SID_温泉の看板",
+    "game8_id": "614616",
     "fandom_id": "Hot-Spring Sign",
     "name": "Hot-Spring Sign",
     "category": "weapon",
@@ -70677,6 +70684,7 @@
   },
   {
     "id": "SID_二人のマルスの提灯",
+    "game8_id": "614619",
     "fandom_id": "Lineage Lantern",
     "name": "Lineage Lantern",
     "category": "weapon",
@@ -81667,6 +81675,7 @@
   },
   {
     "id": "SID_真読み通りです！",
+    "game8_id": "614627",
     "fandom_id": "Perfect Plan",
     "name": "Perfect Plan",
     "category": "passiveb",
@@ -91541,6 +91550,7 @@
   },
   {
     "id": "SID_狂涛・攻め立て",
+    "game8_id": "614625",
     "fandom_id": "Riptide Despair",
     "name": "Riptide Despair",
     "category": "passiveb",
@@ -117953,6 +117963,7 @@
   },
   {
     "id": "SID_真運命を変える！",
+    "game8_id": "614620",
     "fandom_id": "To Conquer Fate",
     "name": "To Conquer Fate",
     "category": "assist",
@@ -119282,6 +119293,7 @@
   },
   {
     "id": "SID_正真炎の紋章",
+    "game8_id": "614621",
     "fandom_id": "True Emblem",
     "name": "True Emblem",
     "category": "special",
@@ -119326,6 +119338,7 @@
   },
   {
     "id": "SID_真愛を信じますか？",
+    "game8_id": "614626",
     "fandom_id": "True Love",
     "name": "True Love",
     "category": "passiveb",
@@ -151679,7 +151692,7 @@
   },
   {
     "id": "HARMONIZED_PID_双界マルス",
-    "game8_id": null,
+    "game8_id": "614632",
     "fandom_id": "Marth: Timeless Warmth",
     "name": "Marth: Timeless Warmth",
     "category": "harmonized",
