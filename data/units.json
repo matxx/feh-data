@@ -893,6 +893,7 @@
     "origin": "020000100100",
     "book": 3,
     "max_df": 35,
+    "has_respl": true,
     "is_legendary": true,
     "element": "Earth",
     "addition_date": "2019-04-26",
@@ -900,6 +901,7 @@
     "version": "3.4",
     "game8_id": "267536",
     "guide_id": "02001001000371",
+    "fehpass_id": "00001001000371",
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/53/Alm_Saint-King_Face_FC.webp/revision/latest?cb=20190920223951",
     "image_url_for_icon_legendary": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/87/Legendary_Effect_Earth.png/revision/latest?cb=20260330031645",
     "bst": 162,
@@ -4259,6 +4261,34 @@
     "skills_max_sp": 2600
   },
   {
+    "id": "PID_浴衣シーダ",
+    "fandom_id": "Caeda: Cleansed Princess",
+    "name": "Caeda",
+    "title": "Cleansed Princess",
+    "full_name": "Caeda: Cleansed Princess",
+    "abbreviated_name": "HSp!Caeda",
+    "theme": "hostile_spring",
+    "gender": "F",
+    "move_type": "Flying",
+    "weapon_type": "Green Tome",
+    "games": [
+      "Fire Emblem: Mystery of the Emblem"
+    ],
+    "id_int": 1403,
+    "origin": "010000200100",
+    "book": 10,
+    "max_df": 5,
+    "is_special": true,
+    "addition_date": "2026-08-06",
+    "release_date": "2026-08-07",
+    "version": "10.8",
+    "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c5/Caeda_Cleansed_Princess_Face_FC.webp/revision/latest?cb=20260806050238",
+    "bst": 189,
+    "visible_bst": 193,
+    "max_score": 764,
+    "skills_max_sp": 2600
+  },
+  {
     "id": "PID_響心シーダ",
     "fandom_id": "Caeda: Marth's Faithful",
     "name": "Caeda",
@@ -6280,6 +6310,34 @@
     "skills_max_sp": 2700
   },
   {
+    "id": "PID_浴衣クロム",
+    "fandom_id": "Chrom: Revitalized Fate",
+    "name": "Chrom",
+    "title": "Revitalized Fate",
+    "full_name": "Chrom: Revitalized Fate",
+    "abbreviated_name": "HSp!Chrom",
+    "theme": "hostile_spring",
+    "gender": "M",
+    "move_type": "Cavalry",
+    "weapon_type": "Blue Lance",
+    "games": [
+      "Fire Emblem Awakening"
+    ],
+    "id_int": 1404,
+    "origin": "100000100100",
+    "book": 10,
+    "max_df": 5,
+    "is_special": true,
+    "addition_date": "2026-08-06",
+    "release_date": "2026-08-07",
+    "version": "10.8",
+    "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e5/Chrom_Revitalized_Fate_Face_FC.webp/revision/latest?cb=20260806050313",
+    "bst": 196,
+    "visible_bst": 200,
+    "max_score": 770,
+    "skills_max_sp": 2700
+  },
+  {
     "id": "PID_春祭クロム",
     "fandom_id": "Chrom: Spring Exalt",
     "name": "Chrom",
@@ -6845,8 +6903,8 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/9c/Colm_Capable_Thief_Face_FC.webp/revision/latest?cb=20220106043931",
     "bst": 176,
     "visible_bst": 180,
-    "max_score": 758,
-    "skills_max_sp": 2550
+    "max_score": 760,
+    "skills_max_sp": 2600
   },
   {
     "id": "PID_コンラート",
@@ -11326,6 +11384,7 @@
     "origin": "070000100200",
     "book": 7,
     "max_df": 20,
+    "is_tt": true,
     "is_special": true,
     "addition_date": "2023-06-19",
     "release_date": "2023-06-19",
@@ -26008,6 +26067,36 @@
     "skills_max_sp": 2600
   },
   {
+    "id": "PID_双界マルス",
+    "fandom_id": "Marth: Timeless Warmth",
+    "name": "Marth",
+    "title": "Timeless Warmth",
+    "full_name": "Marth: Timeless Warmth",
+    "abbreviated_name": "HSp!Marth",
+    "theme": "hostile_spring",
+    "gender": "MF",
+    "move_type": "Infantry",
+    "weapon_type": "Red Sword",
+    "games": [
+      "Shadow Dragon / (New) Mystery",
+      "Awakening"
+    ],
+    "id_int": 1401,
+    "origin": "010000100100",
+    "book": 10,
+    "max_df": 5,
+    "is_special": true,
+    "is_harmonized": true,
+    "addition_date": "2026-08-06",
+    "release_date": "2026-08-07",
+    "version": "10.8",
+    "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d5/Marth_Timeless_Warmth_Face_FC.webp/revision/latest?cb=20260806050203",
+    "bst": 204,
+    "visible_bst": 208,
+    "max_score": 770,
+    "skills_max_sp": 2600
+  },
+  {
     "id": "PID_マチルダ",
     "fandom_id": "Mathilda: Legendary Knight",
     "name": "Mathilda",
@@ -33408,6 +33497,35 @@
     "visible_bst": 180,
     "max_score": 760,
     "skills_max_sp": 2600
+  },
+  {
+    "id": "PID_魔器浴衣ルフレ女",
+    "fandom_id": "Robin: Onsen Tactician",
+    "name": "Robin",
+    "title": "Onsen Tactician",
+    "full_name": "Robin: Onsen Tactician",
+    "abbreviated_name": "HSp!R!Robin(F)",
+    "theme": "hostile_spring",
+    "gender": "F",
+    "move_type": "Flying",
+    "weapon_type": "Colorless Tome",
+    "games": [
+      "Fire Emblem Awakening"
+    ],
+    "id_int": 1402,
+    "origin": "100000100300",
+    "book": 10,
+    "max_df": 5,
+    "is_special": true,
+    "is_rearmed": true,
+    "addition_date": "2026-08-06",
+    "release_date": "2026-08-07",
+    "version": "10.8",
+    "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/7a/Robin_Onsen_Tactician_Face_FC.webp/revision/latest?cb=20260806050349",
+    "bst": 189,
+    "visible_bst": 193,
+    "max_score": 762,
+    "skills_max_sp": 2550
   },
   {
     "id": "PID_水着ルフレ女",

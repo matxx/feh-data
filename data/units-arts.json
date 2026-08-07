@@ -215,7 +215,11 @@
     "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/2/2e/Alm_Saint-King_Face.webp/revision/latest?cb=20190920223956",
     "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/dd/Alm_Saint-King_BtlFace.webp/revision/latest?cb=20190920224002",
     "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/fb/Alm_Saint-King_BtlFace_C.webp/revision/latest?cb=20190920224007",
-    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f2/Alm_Saint-King_BtlFace_D.webp/revision/latest?cb=20190920224012"
+    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f2/Alm_Saint-King_BtlFace_D.webp/revision/latest?cb=20190920224012",
+    "art_resp_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/03/Alm_Saint-King_Resplendent_Face.webp/revision/latest?cb=20260806050418",
+    "art_resp_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d8/Alm_Saint-King_Resplendent_BtlFace.webp/revision/latest?cb=20260806050354",
+    "art_resp_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/92/Alm_Saint-King_Resplendent_BtlFace_C.webp/revision/latest?cb=20260806050410",
+    "art_resp_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/85/Alm_Saint-King_Resplendent_BtlFace_D.webp/revision/latest?cb=20260806050414"
   },
   {
     "id": "PID_アルテナ",
@@ -1031,6 +1035,13 @@
     "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b5/Caeda_Beloved_Queen_BtlFace_D.webp/revision/latest?cb=20220225063842"
   },
   {
+    "id": "PID_浴衣シーダ",
+    "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/fa/Caeda_Cleansed_Princess_Face.webp/revision/latest?cb=20260806050233",
+    "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/8e/Caeda_Cleansed_Princess_BtlFace.webp/revision/latest?cb=20260806050209",
+    "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b6/Caeda_Cleansed_Princess_BtlFace_C.webp/revision/latest?cb=20260806050224",
+    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/8b/Caeda_Cleansed_Princess_BtlFace_D.webp/revision/latest?cb=20260806050229"
+  },
+  {
     "id": "PID_響心シーダ",
     "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/ff/Caeda_Marths_Faithful_Face.webp/revision/latest?cb=20240315043904",
     "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/ba/Caeda_Marths_Faithful_BtlFace.webp/revision/latest?cb=20240315043838",
@@ -1538,6 +1549,13 @@
     "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/7b/Chrom_Pivotal_Blow_BtlFace.webp/revision/latest?cb=20250904052636",
     "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/ce/Chrom_Pivotal_Blow_BtlFace_C.webp/revision/latest?cb=20251006042453",
     "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/2/20/Chrom_Pivotal_Blow_BtlFace_D.webp/revision/latest?cb=20250904052656"
+  },
+  {
+    "id": "PID_浴衣クロム",
+    "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/ab/Chrom_Revitalized_Fate_Face.webp/revision/latest?cb=20260806050309",
+    "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/32/Chrom_Revitalized_Fate_BtlFace.webp/revision/latest?cb=20260806050244",
+    "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/34/Chrom_Revitalized_Fate_BtlFace_C.webp/revision/latest?cb=20260806050259",
+    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d6/Chrom_Revitalized_Fate_BtlFace_D.webp/revision/latest?cb=20260806050303"
   },
   {
     "id": "PID_春祭クロム",
@@ -6416,6 +6434,13 @@
     "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/0d/Marth_Royal_Altean_Duo_BtlFace_D.webp/revision/latest?cb=20191216113107"
   },
   {
+    "id": "PID_双界マルス",
+    "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/2/22/Marth_Timeless_Warmth_Face.webp/revision/latest?cb=20260806050159",
+    "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/cf/Marth_Timeless_Warmth_BtlFace.webp/revision/latest?cb=20260806050134",
+    "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/32/Marth_Timeless_Warmth_BtlFace_C.webp/revision/latest?cb=20260806050149",
+    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/6f/Marth_Timeless_Warmth_BtlFace_D.webp/revision/latest?cb=20260806050153"
+  },
+  {
     "id": "PID_マチルダ",
     "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/1c/Mathilda_Legendary_Knight_Face.webp/revision/latest?cb=20190920210014",
     "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/1c/Mathilda_Legendary_Knight_BtlFace.webp/revision/latest?cb=20190920210021",
@@ -8268,6 +8293,13 @@
     "art_resp_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e7/Robin_Mystery_Tactician_Resplendent_BtlFace.webp/revision/latest?cb=20230619041830",
     "art_resp_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/ca/Robin_Mystery_Tactician_Resplendent_BtlFace_C.webp/revision/latest?cb=20230619041845",
     "art_resp_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f6/Robin_Mystery_Tactician_Resplendent_BtlFace_D.webp/revision/latest?cb=20230619041850"
+  },
+  {
+    "id": "PID_魔器浴衣ルフレ女",
+    "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/11/Robin_Onsen_Tactician_Face.webp/revision/latest?cb=20260806050344",
+    "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/cb/Robin_Onsen_Tactician_BtlFace.webp/revision/latest?cb=20260806050319",
+    "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/0d/Robin_Onsen_Tactician_BtlFace_C.webp/revision/latest?cb=20260806050334",
+    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/a2/Robin_Onsen_Tactician_BtlFace_D.webp/revision/latest?cb=20260806050338"
   },
   {
     "id": "PID_水着ルフレ女",

@@ -12600,6 +12600,72 @@
     "unlock": 5
   },
   {
+    "unit_id": "PID_浴衣シーダ",
+    "skill_id": "SID_流星",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_浴衣シーダ",
+    "skill_id": "SID_攻撃速さの領空",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_浴衣シーダ",
+    "skill_id": "SID_攻撃速さの機先1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_浴衣シーダ",
+    "skill_id": "SID_攻撃速さの機先2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_浴衣シーダ",
+    "skill_id": "SID_攻撃速さの機先3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_浴衣シーダ",
+    "skill_id": "SID_エルウインド",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_浴衣シーダ",
+    "skill_id": "SID_温泉の湯桶",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_浴衣シーダ",
+    "skill_id": "SID_星影",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_浴衣シーダ",
+    "skill_id": "SID_レクスカリバー",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_浴衣シーダ",
+    "skill_id": "SID_真愛を信じますか？",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_浴衣シーダ",
+    "skill_id": "SID_ウインド",
+    "default": 1,
+    "unlock": 1
+  },
+  {
     "unit_id": "PID_響心シーダ",
     "skill_id": "SID_愛する人がいますか",
     "default": 0,
@@ -18216,6 +18282,126 @@
     "unlock": 4
   },
   {
+    "unit_id": "PID_浴衣クロム",
+    "skill_id": "SID_攻撃守備の予知逆用",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_浴衣クロム",
+    "skill_id": "SID_攻守鼓譟・強化無効",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_浴衣クロム",
+    "skill_id": "SID_攻撃守備の攻城戦1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_浴衣クロム",
+    "skill_id": "SID_攻撃守備の攻城戦2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_浴衣クロム",
+    "skill_id": "SID_攻撃守備の攻城戦3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_浴衣クロム",
+    "skill_id": "SID_烈風",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_浴衣クロム",
+    "skill_id": "SID_攻め立て1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_浴衣クロム",
+    "skill_id": "SID_攻め立て2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_浴衣クロム",
+    "skill_id": "SID_攻め立て3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_浴衣クロム",
+    "skill_id": "SID_攻撃の鼓舞1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_浴衣クロム",
+    "skill_id": "SID_攻撃の鼓舞2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_浴衣クロム",
+    "skill_id": "SID_攻撃の鼓舞3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_浴衣クロム",
+    "skill_id": "SID_温泉の看板",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_浴衣クロム",
+    "skill_id": "SID_鉄の槍",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_浴衣クロム",
+    "skill_id": "SID_引き戻し",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_浴衣クロム",
+    "skill_id": "SID_狂涛・攻め立て",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_浴衣クロム",
+    "skill_id": "SID_砕風",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_浴衣クロム",
+    "skill_id": "SID_銀の槍",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_浴衣クロム",
+    "skill_id": "SID_鋼の槍",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_浴衣クロム",
+    "skill_id": "SID_真運命を変える！",
+    "default": 0,
+    "unlock": 5
+  },
+  {
     "unit_id": "PID_春祭クロム",
     "skill_id": "SID_攻撃守備1",
     "default": 0,
@@ -19678,6 +19864,12 @@
     "skill_id": "SID_鉄の暗器",
     "default": 1,
     "unlock": 1
+  },
+  {
+    "unit_id": "PID_コーマ",
+    "skill_id": "SID_ラクの村の暗器",
+    "default": 0,
+    "unlock": 5
   },
   {
     "unit_id": "PID_コーマ",
@@ -74448,6 +74640,90 @@
     "unlock": 5
   },
   {
+    "unit_id": "PID_双界マルス",
+    "skill_id": "SID_真封印の盾",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_双界マルス",
+    "skill_id": "SID_遠反・攻速守の絆",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_双界マルス",
+    "skill_id": "SID_遠距離反撃",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_双界マルス",
+    "skill_id": "SID_竜裂",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_双界マルス",
+    "skill_id": "SID_伏竜",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_双界マルス",
+    "skill_id": "SID_鉄の剣",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_双界マルス",
+    "skill_id": "SID_二人のマルスの提灯",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_双界マルス",
+    "skill_id": "SID_追撃の鼓動・見切り",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_双界マルス",
+    "skill_id": "SID_銀の剣",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_双界マルス",
+    "skill_id": "SID_鋼の剣",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_双界マルス",
+    "skill_id": "SID_始まりの鼓動1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_双界マルス",
+    "skill_id": "SID_始まりの鼓動2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_双界マルス",
+    "skill_id": "SID_始まりの鼓動3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_双界マルス",
+    "skill_id": "SID_正真炎の紋章",
+    "default": 0,
+    "unlock": 5
+  },
+  {
     "unit_id": "PID_マチルダ",
     "skill_id": "SID_相性殺し1",
     "default": 0,
@@ -95300,6 +95576,120 @@
   {
     "unit_id": "PID_ルフレ女",
     "skill_id": "SID_ウインド",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_魔器浴衣ルフレ女",
+    "skill_id": "SID_攻撃速さの攻城戦1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_魔器浴衣ルフレ女",
+    "skill_id": "SID_攻撃速さの攻城戦2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_魔器浴衣ルフレ女",
+    "skill_id": "SID_攻撃速さの攻城戦3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_魔器浴衣ルフレ女",
+    "skill_id": "SID_魔器・アヒルの湯桶",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_魔器浴衣ルフレ女",
+    "skill_id": "SID_攻撃速さの予知逆用",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_魔器浴衣ルフレ女",
+    "skill_id": "SID_アトラース",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_魔器浴衣ルフレ女",
+    "skill_id": "SID_竜穿",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_魔器浴衣ルフレ女",
+    "skill_id": "SID_伏竜",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_魔器浴衣ルフレ女",
+    "skill_id": "SID_エルロック",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_魔器浴衣ルフレ女",
+    "skill_id": "SID_理路",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_魔器浴衣ルフレ女",
+    "skill_id": "SID_攻速十紋章・見切り",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_魔器浴衣ルフレ女",
+    "skill_id": "SID_真読み通りです！",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_魔器浴衣ルフレ女",
+    "skill_id": "SID_速さの応援",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_魔器浴衣ルフレ女",
+    "skill_id": "SID_速さの大応援",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_魔器浴衣ルフレ女",
+    "skill_id": "SID_速さの大応援＋",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_魔器浴衣ルフレ女",
+    "skill_id": "SID_攻撃速さの紋章1",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_魔器浴衣ルフレ女",
+    "skill_id": "SID_攻撃速さの紋章2",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_魔器浴衣ルフレ女",
+    "skill_id": "SID_速さの紋章1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_魔器浴衣ルフレ女",
+    "skill_id": "SID_ロック",
     "default": 1,
     "unlock": 1
   },
@@ -120326,6 +120716,12 @@
   {
     "unit_id": "PID_双界マリカ",
     "skill_id": "HARMONIZED_PID_双界マリカ",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_双界マルス",
+    "skill_id": "HARMONIZED_PID_双界マルス",
     "default": 0,
     "unlock": 1
   },

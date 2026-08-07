@@ -15,6 +15,7 @@
     "NF"
   ],
   "games": [
+    "Awakening",
     "Fire Emblem Awakening",
     "Fire Emblem Echoes: Shadows of Valentia",
     "Fire Emblem Engage",
@@ -33,6 +34,7 @@
     "Fire Emblem: The Sacred Stones",
     "Fire Emblem: Thracia 776",
     "Fire Emblem: Three Houses",
+    "Shadow Dragon / (New) Mystery",
     "Tokyo Mirage Sessions ♯FE Encore"
   ],
   "keywords": [
@@ -84,6 +86,7 @@
     "【Canto Control】<br>If unit's Range = 1, unit can move 1 space when Canto triggers. If unit's Range = 2, their action ends when Canto triggers.",
     "【Canto Control】<br>Limits the number of spaces target can move with Canto through their next action. If target's Range = 1, target can move 1 space when Canto triggers. If target's Range = 2, target's action ends when Canto triggers.",
     "【Canto Control】<br>Limits the number of spaces unit can move with Canto through their next action. If unit's Range = 1, unit can move 1 space when Canto triggers. If unit's Range = 2, unit's action ends when Canto triggers.",
+    "【Change of Fate】<br>Enables【Canto (２)】.<br><br>Grants Atk/Spd/Def/Res+5 to unit and unit deals damage = 3 × the total of the number of Bonus and Penalty effects active on unit, excluding stat bonuses and stat penalties, during combat (max 15; including area-of- effect Specials).",
     "【Change of Fate】<br>Enables【Canto (２)】.<br><br>Grants Atk/Spd/Def/Res+5 to unit and unit deals damage = 3 × the total of the number of Bonus and Penalty effects active on unit, excluding stat bonuses and stat penalties, during combat (max 15; including area-of-effect Specials).",
     "【Charge】<br>Unit can move up to 3 spaces in any cardinal direction. (Cannot move through foes, terrain that blocks movement, or effects of skills like Obstruct. Granted movement treated as Warp movement.)",
     "【Coax】<br>Grants a status that can trigger certain skill effects to unit.",
@@ -146,6 +149,7 @@
     "【Foe Penalty Doubler】<br>Inflicts penalty on unit's Atk/Spd/Def/Res during combat = any current penalty on each of those stats for 1 turn.<br>Calculates each stat penalty independently.",
     "【Foe Penalty Doubler】<br>Inflicts penalty on unit's Atk/Spd/Def/Res during combat = any current penalty on each of those stats. Calculates each stat penalty independently.",
     "【Foresight Snare】<br>If foe initiates combat and there were no combat instances on the current turn yet (player phase and enemy phase are counted separately), triggers the following effects: - Cancels foe's attack, completing their action. - Inflicts【Isolation】and status preventing counterattacks on foe through foe's next action. - Cancels Foresight Snare granted to your army.<br><br>(These effect trigger after Aether Raids traps but before Savior; does not trigger in Pawns of Loki).",
+    "【Foresight Snare】<br>If foe initiates combat and there were no combat instances on the current turn yet (player phase and enemy phase are counted separately), triggers the following effects:<br>- Cancels foe's attack, completing their action.<br>- Inflicts Isolation and status preventing counterattacks on foe through foe's next action.<br>- Cancels Foresight Snare granted to your army.<br><br>(These effects trigger after Aether Raids traps but before Savior; does not trigger in Pawns of Loki).",
     "【Foresight Snare】<br>If foe initiates combat and there were no combat instances on the current turn yet (player phase and enemy phase are counted separately), triggers the following effects:<br>- Cancels foe's attack, completing their action.<br>- Inflicts【Isolation】and status preventing counterattacks on foe through foe's next action.<br>- Cancels Foresight Snare granted to your army.<br><br>(These effect trigger after Aether Raids traps but before Savior; does not trigger in Pawns of Loki).",
     "【Foul Play】<br>Range = 3. Unit and target ally swap spaces.",
     "【Fringe Bonus】<br>Grants bonus to Atk/Spd/Def/Res during combat = highest bonus on each stat between unit and allies within 2 spaces of unit for 1 turn. Calculates each stat bonus independently.",
@@ -168,6 +172,7 @@
     "【Magic Twin Save】<br>If a magic, staff, or dragon foe initiates combat against an ally within 2 spaces of unit, triggers Savior on unit (triggers only if unit is not equipped with a skill that can trigger another Savior effect; if unit is granted multiple statuses that enable \"Savior\" effects to trigger, Savior will not trigger).<br><br>If foe uses magic, staff, or dragon damage, disables foe's effects that \"calculate damage using the lower of foe's Def or Res\" (including area-of-effect Specials), and any \"reduces damage by X%\" effect that can be triggered only once per combat by unit's equipped Special skill can be triggered up to twice per combat during combat (excludes boosted Special effects from engaging; only highest value applied; does not stack).",
     "【Null Follow-Up】<br>If unit's Spd > foe's Spd during combat, neutralizes effects that guarantee foe's follow-up attacks and effects that prevent unit's follow-up attacks for 1 turn.",
     "【Null Follow-Up】<br>If unit's Spd > foe's Spd, neutralizes effects that guarantee foe's follow-up attacks and effects that prevent unit's follow-up attacks during combat.",
+    "【Null Foresight Snare】<br>Neutralizes effects of foe's【Foresight Snare】.",
     "【Null Panic】<br>If unit is inflicted with Panic (bonuses converted into penalties), neutralizes the \"converts bonuses on target into penalties\" effect for 1 turn.",
     "【Null Panic】<br>If unit is inflicted with Panic (bonuses converted into penalties), neutralizes the \"converts bonuses on target into penalties\" effect for 1 turn. (Even though the effect is neutralized, the Panic status remains, and is treated as a Penalty status.)",
     "【P Save】<br>\"If sword, lance, axe, bow, dagger, or beast foe initiates combat\" is an activation condition for \"Savior.\"",
@@ -234,7 +239,7 @@
     "【Vantage】<br>If foe initiates combat, unit can counterattack before foe's first attack for 1 turn.",
     "【Warp Bubble】<br>Foes cannot warp into spaces within 4 spaces of unit. (Does not affect foes with Pass skills or warp effects from structures, like camps and fortresses in Rival Domains.)"
   ],
-  "units_count": 1400,
+  "units_count": 1404,
   "units_max_hp": 60,
   "units_max_hp_ids": [
     "PID_アーダン"
@@ -257,6 +262,7 @@
     "PID_冬祭ゼルコバ",
     "PID_双界エイリーク",
     "PID_双界フィル",
+    "PID_双界マルス",
     "PID_双界総選挙セリカ",
     "PID_双界総選挙リン",
     "PID_幼少クロード",
@@ -270,6 +276,7 @@
     "PID_比翼バルドル2",
     "PID_比翼フレイヤ",
     "PID_水着シャロン",
+    "PID_浴衣シーダ",
     "PID_獣人リン",
     "PID_紋章カムイ女",
     "PID_紋章ベレト",
