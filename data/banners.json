@@ -2964,6 +2964,15 @@
     ]
   },
   {
+    "name": "Focus: Hall of Forms (Aug 2026)",
+    "unit_ids": [
+      "PID_双界クロエ",
+      "PID_双界ゴルドマリー",
+      "PID_神階ルミエル",
+      "PID_神階ヴェイル"
+    ]
+  },
+  {
     "name": "Focus: Hall of Forms (Dec 2023)",
     "unit_ids": [
       "PID_ハタリニケ",
@@ -5747,6 +5756,13 @@
     ]
   },
   {
+    "name": "Focus: Nel & Rafal's Battle",
+    "unit_ids": [
+      "PID_ラファール",
+      "PID_魔器エル"
+    ]
+  },
+  {
     "name": "Focus: Nergal & Ursula's Battle",
     "unit_ids": [
       "PID_ジャファル",
@@ -8497,6 +8513,14 @@
       "PID_総選挙エフラム",
       "PID_総選挙セリカ",
       "PID_総選挙ヴェロニカ"
+    ]
+  },
+  {
+    "name": "Focus: Weekly Revival 130",
+    "unit_ids": [
+      "PID_スカビオサ2",
+      "PID_ピアニー2味方",
+      "PID_響心シーダ"
     ]
   },
   {
@@ -12910,6 +12934,15 @@
       "PID_シャミア",
       "PID_セテス",
       "PID_フレン"
+    ]
+  },
+  {
+    "name": "New Heroes: Grand Festival",
+    "unit_ids": [
+      "PID_総選挙つばさ",
+      "PID_総選挙アクア",
+      "PID_総選挙シグルド",
+      "PID_総選挙シルヴァン"
     ]
   },
   {

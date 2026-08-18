@@ -7470,6 +7470,114 @@
     "unlock": 5
   },
   {
+    "unit_id": "PID_総選挙アクア",
+    "skill_id": "SID_アトラース",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_総選挙アクア",
+    "skill_id": "SID_エルロック",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_総選挙アクア",
+    "skill_id": "SID_リズムセッション",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_総選挙アクア",
+    "skill_id": "SID_影助・突進・十紋章",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_総選挙アクア",
+    "skill_id": "SID_影助・ぶちかまし1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_総選挙アクア",
+    "skill_id": "SID_影助・ぶちかまし2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_総選挙アクア",
+    "skill_id": "SID_影助・ぶちかまし3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_総選挙アクア",
+    "skill_id": "SID_盾のセッション1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_総選挙アクア",
+    "skill_id": "SID_盾のセッション2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_総選挙アクア",
+    "skill_id": "SID_盾のセッション3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_総選挙アクア",
+    "skill_id": "SID_歌う",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_総選挙アクア",
+    "skill_id": "SID_速さ魔防の干渉1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_総選挙アクア",
+    "skill_id": "SID_速さ魔防の干渉2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_総選挙アクア",
+    "skill_id": "SID_速さ魔防の干渉3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_総選挙アクア",
+    "skill_id": "SID_速魔の看破・俯瞰",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_総選挙アクア",
+    "skill_id": "SID_ロック",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_総選挙アクア",
+    "skill_id": "SID_三夜の歌の書",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_総選挙アクア",
+    "skill_id": "SID_その手が拓く未来は",
+    "default": 0,
+    "unlock": 5
+  },
+  {
     "unit_id": "PID_アクア",
     "skill_id": "SID_魔防の鼓舞1",
     "default": 0,
@@ -96000,6 +96108,78 @@
     "unlock": 2
   },
   {
+    "unit_id": "PID_ロドリグ",
+    "skill_id": "SID_攻撃魔防の絆1",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_ロドリグ",
+    "skill_id": "SID_攻撃魔防の絆2",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_ロドリグ",
+    "skill_id": "SID_攻撃魔防の絆3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_ロドリグ",
+    "skill_id": "SID_氷点",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_ロドリグ",
+    "skill_id": "SID_エルライト",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_ロドリグ",
+    "skill_id": "SID_氷華",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_ロドリグ",
+    "skill_id": "SID_ライト",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_ロドリグ",
+    "skill_id": "SID_奥の手・魔道1",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_ロドリグ",
+    "skill_id": "SID_奥の手・魔道2",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_ロドリグ",
+    "skill_id": "SID_奥の手・魔道3",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_ロドリグ",
+    "skill_id": "SID_練達オーラ",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_ロドリグ",
+    "skill_id": "SID_シャイン",
+    "default": 4,
+    "unlock": 3
+  },
+  {
     "unit_id": "PID_ハロヨファ",
     "skill_id": "SID_ロウソクの弓",
     "default": 4,
@@ -104604,6 +104784,120 @@
     "unlock": 2
   },
   {
+    "unit_id": "PID_総選挙シグルド",
+    "skill_id": "SID_攻守突破・対抗",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_総選挙シグルド",
+    "skill_id": "SID_攻撃守備の激突1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_総選挙シグルド",
+    "skill_id": "SID_攻撃守備の激突2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_総選挙シグルド",
+    "skill_id": "SID_攻撃守備の激突3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_総選挙シグルド",
+    "skill_id": "SID_烈光",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_総選挙シグルド",
+    "skill_id": "SID_差し違え1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_総選挙シグルド",
+    "skill_id": "SID_差し違え2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_総選挙シグルド",
+    "skill_id": "SID_差し違え3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_総選挙シグルド",
+    "skill_id": "SID_聖騎士バルドの末裔",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_総選挙シグルド",
+    "skill_id": "SID_鉄の剣",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_総選挙シグルド",
+    "skill_id": "SID_虎穴虎子",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_総選挙シグルド",
+    "skill_id": "SID_砕光",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_総選挙シグルド",
+    "skill_id": "SID_気高き志の聖剣",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_総選挙シグルド",
+    "skill_id": "SID_影助・引き戻し1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_総選挙シグルド",
+    "skill_id": "SID_影助・引き戻し2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_総選挙シグルド",
+    "skill_id": "SID_影助・引き戻し3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_総選挙シグルド",
+    "skill_id": "SID_影助・引戻・十紋章",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_総選挙シグルド",
+    "skill_id": "SID_銀の剣",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_総選挙シグルド",
+    "skill_id": "SID_鋼の剣",
+    "default": 2,
+    "unlock": 2
+  },
+  {
     "unit_id": "PID_紋章シグルド",
     "skill_id": "SID_攻撃守備の激突1",
     "default": 0,
@@ -108100,6 +108394,108 @@
     "skill_id": "SID_ウインド",
     "default": 1,
     "unlock": 1
+  },
+  {
+    "unit_id": "PID_総選挙シルヴァン",
+    "skill_id": "SID_攻速突破・対抗",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_総選挙シルヴァン",
+    "skill_id": "SID_攻撃速さの激突1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_総選挙シルヴァン",
+    "skill_id": "SID_攻撃速さの激突2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_総選挙シルヴァン",
+    "skill_id": "SID_攻撃速さの激突3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_総選挙シルヴァン",
+    "skill_id": "SID_守備の共謀1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_総選挙シルヴァン",
+    "skill_id": "SID_守備の共謀2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_総選挙シルヴァン",
+    "skill_id": "SID_守備の共謀3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_総選挙シルヴァン",
+    "skill_id": "SID_蛍火",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_総選挙シルヴァン",
+    "skill_id": "SID_華炎",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_総選挙シルヴァン",
+    "skill_id": "SID_鉄の槍",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_総選挙シルヴァン",
+    "skill_id": "SID_破裂の槍",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_総選挙シルヴァン",
+    "skill_id": "SID_女好き",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_総選挙シルヴァン",
+    "skill_id": "SID_引き戻し",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_総選挙シルヴァン",
+    "skill_id": "SID_ブレイクラッシュ",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_総選挙シルヴァン",
+    "skill_id": "SID_銀の槍",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_総選挙シルヴァン",
+    "skill_id": "SID_速さ守備の団結",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_総選挙シルヴァン",
+    "skill_id": "SID_鋼の槍",
+    "default": 2,
+    "unlock": 2
   },
   {
     "unit_id": "PID_春祭シルヴァン",
@@ -113716,6 +114112,102 @@
     "skill_id": "SID_鋼の槍",
     "default": 3,
     "unlock": 2
+  },
+  {
+    "unit_id": "PID_総選挙つばさ",
+    "skill_id": "SID_刃のセッション1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_総選挙つばさ",
+    "skill_id": "SID_刃のセッション2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_総選挙つばさ",
+    "skill_id": "SID_刃のセッション3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_総選挙つばさ",
+    "skill_id": "SID_魔の神髄・枷",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_総選挙つばさ",
+    "skill_id": "SID_竜穿",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_総選挙つばさ",
+    "skill_id": "SID_伏竜",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_総選挙つばさ",
+    "skill_id": "SID_エルウインド",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_総選挙つばさ",
+    "skill_id": "SID_羽ばたけ、私！",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_総選挙つばさ",
+    "skill_id": "SID_ジャムセッション",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_総選挙つばさ",
+    "skill_id": "SID_理路",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_総選挙つばさ",
+    "skill_id": "SID_奥の手・魔道1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_総選挙つばさ",
+    "skill_id": "SID_奥の手・魔道2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_総選挙つばさ",
+    "skill_id": "SID_奥の手・魔道3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_総選挙つばさ",
+    "skill_id": "SID_幻影エクスカリバー",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_総選挙つばさ",
+    "skill_id": "SID_レクスカリバー",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_総選挙つばさ",
+    "skill_id": "SID_ウインド",
+    "default": 1,
+    "unlock": 1
   },
   {
     "unit_id": "PID_神階ウル",

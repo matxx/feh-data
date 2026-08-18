@@ -15254,6 +15254,7 @@
       "SID_未来と過去の忍法帖",
       "SID_真夏の生命の輝き",
       "SID_幸運ぶ冬の聖菓",
+      "SID_三夜の歌の書",
       "SID_怒雷の紫書",
       "SID_不離の花嫁の花束",
       "SID_絶無の書"
@@ -19443,6 +19444,10 @@
     "addition_date": "2020-01-17",
     "release_date": "2020-01-20",
     "version": "4.1",
+    "upgrade_ids": [
+      "SID_ジャムセッション",
+      "SID_リズムセッション"
+    ],
     "downgrade_ids": [
       "SID_刃のセッション2"
     ]
@@ -20430,6 +20435,7 @@
     "release_date": "2017-02-02",
     "version": "1.0",
     "upgrade_ids": [
+      "SID_聖騎士バルドの末裔",
       "SID_グランベルの聖光",
       "SID_オーバードライヴ"
     ],
@@ -22919,7 +22925,8 @@
     "release_date": "2017-02-02",
     "version": "1.0",
     "upgrade_ids": [
-      "SID_差し違え4"
+      "SID_差し違え4",
+      "SID_虎穴虎子"
     ],
     "downgrade_ids": [
       "SID_差し違え2"
@@ -31165,6 +31172,23 @@
     ]
   },
   {
+    "id": "SID_聖騎士バルドの末裔",
+    "game8_id": "616097",
+    "fandom_id": "Crusader's Heir",
+    "name": "Crusader's Heir",
+    "category": "special",
+    "is_prf": true,
+    "sp": 500,
+    "tier": 3,
+    "cd": 4,
+    "addition_date": "2026-08-17",
+    "release_date": "2026-08-17",
+    "version": "10.8",
+    "downgrade_ids": [
+      "SID_烈光"
+    ]
+  },
+  {
     "id": "SID_聖騎士の加護",
     "game8_id": "266383",
     "fandom_id": "Crusader's Ward",
@@ -34485,6 +34509,9 @@
     "addition_date": "2018-06-21",
     "release_date": "2018-06-21",
     "version": "2.6",
+    "upgrade_ids": [
+      "SID_速さ守備の団結"
+    ],
     "downgrade_ids": [
       "SID_守備の共謀2"
     ]
@@ -37479,6 +37506,32 @@
     "addition_date": "2026-05-07",
     "release_date": "2026-05-07",
     "version": "10.5",
+    "downgrade_ids": [
+      "SID_奥の手・魔道3"
+    ]
+  },
+  {
+    "id": "SID_魔の神髄・枷",
+    "game8_id": "616100",
+    "fandom_id": "Demonic Shackle",
+    "name": "Demonic Shackle",
+    "category": "passiveb",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b8/Demonic_Shackle.png/revision/latest?cb=20260818092624",
+    "sp": 400,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "All Tome"
+        ]
+      }
+    },
+    "addition_date": "2026-08-17",
+    "release_date": "2026-08-17",
+    "version": "10.8",
     "downgrade_ids": [
       "SID_奥の手・魔道3"
     ]
@@ -43709,8 +43762,9 @@
     "might": 14,
     "has_refine": true,
     "refines_max_sp": 400,
-    "addition_date": "2022-10-17",
-    "release_date": "",
+    "addition_date": "2022-11-30",
+    "release_date": "2022-11-30",
+    "version": "6.11",
     "downgrade_ids": [
       "SID_ボルガノン",
       "SID_ノスフェラート"
@@ -43731,8 +43785,9 @@
     "range": 2,
     "might": 14,
     "refine_kind": "skill1",
-    "addition_date": "2022-10-17",
-    "release_date": ""
+    "addition_date": "2022-11-30",
+    "release_date": "2022-11-30",
+    "version": "6.11"
   },
   {
     "id": "SID_閉界",
@@ -50577,8 +50632,9 @@
     "might": 16,
     "has_refine": true,
     "refines_max_sp": 400,
-    "addition_date": "2020-10-18",
-    "release_date": "",
+    "addition_date": "2017-02-02",
+    "release_date": "2017-02-02",
+    "version": "1.0",
     "downgrade_ids": [
       "SID_銀の剣"
     ]
@@ -50598,8 +50654,9 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2020-10-18",
-    "release_date": ""
+    "addition_date": "2017-02-02",
+    "release_date": "2017-02-02",
+    "version": "1.0"
   },
   {
     "id": "SID_追撃リング",
@@ -55634,8 +55691,9 @@
     "sp": 400,
     "tier": 3,
     "range": 1,
-    "addition_date": "2023-07-18",
-    "release_date": "",
+    "addition_date": "2023-06-07",
+    "release_date": "2023-06-08",
+    "version": "7.6",
     "upgrade_ids": [
       "SID_黄金の蛇・神"
     ],
@@ -63490,6 +63548,20 @@
     "version": "9.1"
   },
   {
+    "id": "SID_羽ばたけ、私！",
+    "game8_id": "616103",
+    "fandom_id": "I'll Soar Higher!",
+    "name": "I'll Soar Higher!",
+    "category": "passivec",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/01/Ill_Soar_Higher.png/revision/latest?cb=20260818092635",
+    "is_prf": true,
+    "sp": 300,
+    "tier": 1,
+    "addition_date": "2026-08-17",
+    "release_date": "2026-08-17",
+    "version": "10.8"
+  },
+  {
     "id": "SID_マクベスの惑書",
     "game8_id": "286360",
     "fandom_id": "Iago's Tome",
@@ -66432,6 +66504,32 @@
     "version": "1.0"
   },
   {
+    "id": "SID_ジャムセッション",
+    "game8_id": "616098",
+    "fandom_id": "Jam Session",
+    "name": "Jam Session",
+    "category": "passivea",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/1d/Jam_Session.png/revision/latest?cb=20260818092534",
+    "sp": 300,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Cavalry",
+          "Flying"
+        ]
+      },
+      "weapons": null
+    },
+    "addition_date": "2026-08-17",
+    "release_date": "2026-08-17",
+    "version": "10.8",
+    "downgrade_ids": [
+      "SID_刃のセッション3",
+      "SID_盾のセッション3"
+    ]
+  },
+  {
     "id": "SID_閉ざす者の鋭き爪牙",
     "game8_id": "517567",
     "fandom_id": "Jaws of Closure",
@@ -68576,8 +68674,9 @@
     "tier": 4,
     "range": 2,
     "might": 14,
-    "addition_date": "2022-06-07",
-    "release_date": "",
+    "addition_date": "2022-02-18",
+    "release_date": "2022-06-08",
+    "version": "6.6",
     "downgrade_ids": [
       "SID_レクスカリバー"
     ]
@@ -69333,6 +69432,25 @@
     "addition_date": "2019-06-10",
     "release_date": "2019-06-13",
     "version": "3.6"
+  },
+  {
+    "id": "SID_破裂の槍",
+    "game8_id": "616095",
+    "fandom_id": "Lance of Ruin",
+    "name": "Lance of Ruin",
+    "category": "weapon",
+    "weapon_type": "Blue Lance",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "range": 1,
+    "might": 16,
+    "addition_date": "2026-08-17",
+    "release_date": "2026-08-17",
+    "version": "10.8",
+    "downgrade_ids": [
+      "SID_銀の槍"
+    ]
   },
   {
     "id": "SID_槍の技量1",
@@ -72953,6 +73071,7 @@
     "version": "8.4",
     "upgrade_ids": [
       "SID_魔の神髄・不屈",
+      "SID_魔の神髄・枷",
       "SID_奥の手・魔道4"
     ],
     "downgrade_ids": [
@@ -73529,6 +73648,25 @@
     "addition_date": "2023-02-28",
     "release_date": "2023-02-28",
     "version": "7.2"
+  },
+  {
+    "id": "SID_練達オーラ",
+    "fandom_id": "Masterful Aura",
+    "name": "Masterful Aura",
+    "category": "weapon",
+    "weapon_type": "Blue Tome",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "range": 2,
+    "might": 14,
+    "addition_date": "2026-08-17",
+    "release_date": "2026-08-18",
+    "version": "10.8",
+    "downgrade_ids": [
+      "SID_トロン",
+      "SID_シャイン"
+    ]
   },
   {
     "id": "SID_天才",
@@ -74571,6 +74709,28 @@
     "addition_date": "2020-01-17",
     "release_date": "2020-01-20",
     "version": "4.1"
+  },
+  {
+    "id": "SID_幻影エクスカリバー",
+    "game8_id": "616092",
+    "fandom_id": "Mirage Excalibur",
+    "name": "Mirage Excalibur",
+    "category": "weapon",
+    "weapon_type": "Green Tome",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "range": 2,
+    "might": 14,
+    "eff": [
+      "flying"
+    ],
+    "addition_date": "2026-08-17",
+    "release_date": "2026-08-17",
+    "version": "10.8",
+    "downgrade_ids": [
+      "SID_レクスカリバー"
+    ]
   },
   {
     "id": "SID_幻影ファルシオン",
@@ -77583,6 +77743,31 @@
     "version": "8.0",
     "downgrade_ids": [
       "SID_竜裂"
+    ]
+  },
+  {
+    "id": "SID_虎穴虎子",
+    "game8_id": "616101",
+    "fandom_id": "No Risk...",
+    "name": "No Risk...",
+    "category": "passiveb",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/94/No_Risk....png/revision/latest?cb=20260818092603",
+    "sp": 400,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Cavalry",
+          "Flying"
+        ]
+      },
+      "weapons": null
+    },
+    "addition_date": "2026-08-17",
+    "release_date": "2026-08-17",
+    "version": "10.8",
+    "downgrade_ids": [
+      "SID_差し違え3"
     ]
   },
   {
@@ -82146,6 +82331,20 @@
     "addition_date": "2021-08-17",
     "release_date": "2021-08-17",
     "version": "5.8"
+  },
+  {
+    "id": "SID_女好き",
+    "game8_id": "616105",
+    "fandom_id": "Philanderer",
+    "name": "Philanderer",
+    "category": "passivec",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/fb/Philanderer.png/revision/latest?cb=20260818092645",
+    "is_prf": true,
+    "sp": 300,
+    "tier": 1,
+    "addition_date": "2026-08-17",
+    "release_date": "2026-08-17",
+    "version": "10.8"
   },
   {
     "id": "SID_理の見切り・追撃",
@@ -91212,6 +91411,7 @@
       "SID_暁の光",
       "SID_二羽の魔兎の揺籃",
       "SID_神軍師の書",
+      "SID_幻影エクスカリバー",
       "SID_被造フィンブル",
       "SID_ムニンの魔卵",
       "SID_ナーガ",
@@ -91320,6 +91520,29 @@
     "addition_date": "2017-04-14",
     "release_date": "2017-04-14",
     "version": "1.2"
+  },
+  {
+    "id": "SID_リズムセッション",
+    "game8_id": "616099",
+    "fandom_id": "Rhythm Session",
+    "name": "Rhythm Session",
+    "category": "passivea",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/7a/Rhythm_Session.png/revision/latest?cb=20260818092552",
+    "sp": 300,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": null
+    },
+    "addition_date": "2026-08-17",
+    "release_date": "2026-08-17",
+    "version": "10.8",
+    "downgrade_ids": [
+      "SID_刃のセッション3",
+      "SID_盾のセッション3"
+    ]
   },
   {
     "id": "SID_ホースキラー",
@@ -94555,6 +94778,25 @@
     "version": "2.0",
     "downgrade_ids": [
       "SID_プレゼント袋"
+    ]
+  },
+  {
+    "id": "SID_気高き志の聖剣",
+    "game8_id": "616093",
+    "fandom_id": "Sacred Ambition",
+    "name": "Sacred Ambition",
+    "category": "weapon",
+    "weapon_type": "Red Sword",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "range": 1,
+    "might": 16,
+    "addition_date": "2026-08-17",
+    "release_date": "2026-08-17",
+    "version": "10.8",
+    "downgrade_ids": [
+      "SID_銀の剣"
     ]
   },
   {
@@ -97862,6 +98104,31 @@
     "version": "6.4"
   },
   {
+    "id": "SID_影助・突進・十紋章",
+    "game8_id": "616104",
+    "fandom_id": "Shadow Rush X",
+    "name": "Shadow Rush X",
+    "category": "passivec",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/97/Shadow_Rush_X.png/revision/latest?cb=20260818092654",
+    "sp": 300,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Cavalry",
+          "Flying"
+        ]
+      },
+      "weapons": null
+    },
+    "addition_date": "2026-08-17",
+    "release_date": "2026-08-17",
+    "version": "10.8",
+    "downgrade_ids": [
+      "SID_影助・ぶちかまし3"
+    ]
+  },
+  {
     "id": "SID_影助・引き戻し1",
     "game8_id": "473582",
     "fandom_id": "Shadow Shift",
@@ -98212,6 +98479,7 @@
     "release_date": "2025-03-07",
     "version": "9.3",
     "upgrade_ids": [
+      "SID_影助・突進・十紋章",
       "SID_影助・ぶちかまし4"
     ],
     "downgrade_ids": [
@@ -98783,6 +99051,10 @@
     "addition_date": "2020-01-17",
     "release_date": "2020-01-20",
     "version": "4.1",
+    "upgrade_ids": [
+      "SID_ジャムセッション",
+      "SID_リズムセッション"
+    ],
     "downgrade_ids": [
       "SID_盾のセッション2"
     ]
@@ -98846,6 +99118,7 @@
       "SID_イーヴァルディ",
       "SID_聖騎士の嗜み",
       "SID_気高き怪盗の予告状",
+      "SID_練達オーラ",
       "SID_魔書ミステルトィン",
       "SID_魔笛ギャラルホルン",
       "SID_ニザヴェリルの箱",
@@ -100081,6 +100354,7 @@
       "SID_クリムヒルド",
       "SID_フレリアの宝槍",
       "SID_グラドの将の重槍",
+      "SID_破裂の槍",
       "SID_レイプト",
       "SID_ルーン",
       "SID_マルテ",
@@ -100325,6 +100599,7 @@
       "SID_リガルブレイド",
       "SID_強靭なる女王の大傘",
       "SID_王家の剣",
+      "SID_気高き志の聖剣",
       "SID_封剣ファルシオン",
       "SID_暗黒の剣",
       "SID_戦神の鋭剣",
@@ -100451,7 +100726,8 @@
     "upgrade_ids": [
       "SID_つたうみなすじ",
       "SID_ユラリユルレリ",
-      "SID_うたうせいひつ"
+      "SID_うたうせいひつ",
+      "SID_その手が拓く未来は"
     ]
   },
   {
@@ -103127,6 +103403,9 @@
     "addition_date": "2018-05-21",
     "release_date": "2018-05-21",
     "version": "2.5",
+    "upgrade_ids": [
+      "SID_速さ守備の団結"
+    ],
     "downgrade_ids": [
       "SID_速さの共謀2"
     ]
@@ -105441,6 +105720,29 @@
     "version": "7.11",
     "downgrade_ids": [
       "SID_速さ守備の拍節3"
+    ]
+  },
+  {
+    "id": "SID_速さ守備の団結",
+    "game8_id": "616102",
+    "fandom_id": "Spd/Def Union",
+    "name": "Spd/Def Union",
+    "category": "passiveb",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/a6/Spd_Def_Union.png/revision/latest?cb=20260818092613",
+    "sp": 400,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": null
+    },
+    "addition_date": "2026-08-17",
+    "release_date": "2026-08-17",
+    "version": "10.8",
+    "downgrade_ids": [
+      "SID_速さの共謀3",
+      "SID_守備の共謀3"
     ]
   },
   {
@@ -113097,8 +113399,9 @@
     "tier": 4,
     "range": 1,
     "might": 16,
-    "addition_date": "2025-05-07",
-    "release_date": "",
+    "addition_date": "2024-12-05",
+    "release_date": "2025-07-29",
+    "version": "9.7",
     "downgrade_ids": [
       "SID_銀の剣"
     ]
@@ -116459,6 +116762,7 @@
       "SID_導き手の書",
       "SID_聖騎士の嗜み",
       "SID_気高き怪盗の予告状",
+      "SID_練達オーラ",
       "SID_トールハンマー",
       "SID_魔笛ギャラルホルン",
       "SID_ニザヴェリルの箱",
@@ -117269,6 +117573,25 @@
     "version": "1.0",
     "downgrade_ids": [
       "SID_速さの威嚇2"
+    ]
+  },
+  {
+    "id": "SID_三夜の歌の書",
+    "game8_id": "616094",
+    "fandom_id": "Threefold Hymn",
+    "name": "Threefold Hymn",
+    "category": "weapon",
+    "weapon_type": "Colorless Tome",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "range": 2,
+    "might": 14,
+    "addition_date": "2026-08-17",
+    "release_date": "2026-08-17",
+    "version": "10.8",
+    "downgrade_ids": [
+      "SID_アトラース"
     ]
   },
   {
@@ -126628,6 +126951,23 @@
     "version": "10.5",
     "downgrade_ids": [
       "SID_銀の剣"
+    ]
+  },
+  {
+    "id": "SID_その手が拓く未来は",
+    "game8_id": "616096",
+    "fandom_id": "Yours to Climb",
+    "name": "Yours to Climb",
+    "category": "assist",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 2,
+    "range": 1,
+    "addition_date": "2026-08-17",
+    "release_date": "2026-08-17",
+    "version": "10.8",
+    "downgrade_ids": [
+      "SID_歌う"
     ]
   },
   {

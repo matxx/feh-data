@@ -613,6 +613,13 @@
     "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/82/Azura_Lady_of_Ballads_BtlFace_D.webp/revision/latest?cb=20190920211449"
   },
   {
+    "id": "PID_総選挙アクア",
+    "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/0e/Azura_Lady_of_Reflection_Face.webp/revision/latest?cb=20260817042228",
+    "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f7/Azura_Lady_of_Reflection_BtlFace.webp/revision/latest?cb=20260817042204",
+    "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/1a/Azura_Lady_of_Reflection_BtlFace_C.webp/revision/latest?cb=20260817042218",
+    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/64/Azura_Lady_of_Reflection_BtlFace_D.webp/revision/latest?cb=20260817042224"
+  },
+  {
     "id": "PID_アクア",
     "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/9e/Azura_Lady_of_the_Lake_Face.webp/revision/latest?cb=20190920195240",
     "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f9/Azura_Lady_of_the_Lake_BtlFace.webp/revision/latest?cb=20190920195244",
@@ -768,7 +775,11 @@
     "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/af/Bernadetta_Eternal_Loner_Face.webp/revision/latest?cb=20200305082620",
     "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/4e/Bernadetta_Eternal_Loner_BtlFace.webp/revision/latest?cb=20200305082624",
     "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/7c/Bernadetta_Eternal_Loner_BtlFace_C.webp/revision/latest?cb=20200305082628",
-    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/88/Bernadetta_Eternal_Loner_BtlFace_D.webp/revision/latest?cb=20200305082633"
+    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/88/Bernadetta_Eternal_Loner_BtlFace_D.webp/revision/latest?cb=20200305082633",
+    "art_resp_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/45/Bernadetta_Eternal_Loner_Resplendent_Face.webp/revision/latest?cb=20260817042413",
+    "art_resp_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/dc/Bernadetta_Eternal_Loner_Resplendent_BtlFace.webp/revision/latest?cb=20260817042349",
+    "art_resp_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/8d/Bernadetta_Eternal_Loner_Resplendent_BtlFace_C.webp/revision/latest?cb=20260817042404",
+    "art_resp_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/3a/Bernadetta_Eternal_Loner_Resplendent_BtlFace_D.webp/revision/latest?cb=20260817042408"
   },
   {
     "id": "PID_冬祭ベルナデッタ",
@@ -8330,6 +8341,13 @@
     "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/3e/Roderick_Steady_Squire_BtlFace_D.webp/revision/latest?cb=20190920205446"
   },
   {
+    "id": "PID_ロドリグ",
+    "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/47/Rodrigue_Faerghus_Shield_Face.webp/revision/latest?cb=20260817042524",
+    "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/cf/Rodrigue_Faerghus_Shield_BtlFace.webp/revision/latest?cb=20260817042458",
+    "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/98/Rodrigue_Faerghus_Shield_BtlFace_C.webp/revision/latest?cb=20260817042514",
+    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/0a/Rodrigue_Faerghus_Shield_BtlFace_D.webp/revision/latest?cb=20260817042518"
+  },
+  {
     "id": "PID_ハロヨファ",
     "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/3f/Rolf_Tricky_Archer_Face.webp/revision/latest?cb=20191008161253",
     "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/92/Rolf_Tricky_Archer_BtlFace.webp/revision/latest?cb=20191008161255",
@@ -9100,6 +9118,13 @@
     "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c1/Sigurd_Honorable_Nobles_BtlFace_D.webp/revision/latest?cb=20260417042350"
   },
   {
+    "id": "PID_総選挙シグルド",
+    "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/09/Sigurd_Legacy_of_Justice_Face.webp/revision/latest?cb=20260817042304",
+    "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/a5/Sigurd_Legacy_of_Justice_BtlFace.webp/revision/latest?cb=20260817042238",
+    "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/5c/Sigurd_Legacy_of_Justice_BtlFace_C.webp/revision/latest?cb=20260817042254",
+    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/87/Sigurd_Legacy_of_Justice_BtlFace_D.webp/revision/latest?cb=20260817042258"
+  },
+  {
     "id": "PID_紋章シグルド",
     "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f9/Sigurd_Of_the_Holy_War_Face.webp/revision/latest?cb=20240927043245",
     "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/5a/Sigurd_Of_the_Holy_War_BtlFace.webp/revision/latest?cb=20240927043220",
@@ -9409,6 +9434,13 @@
     "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/7c/Sylvain_Hanging_with_Tens_BtlFace.webp/revision/latest?cb=20200706044050",
     "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/33/Sylvain_Hanging_with_Tens_BtlFace_C.webp/revision/latest?cb=20200706044054",
     "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/3e/Sylvain_Hanging_with_Tens_BtlFace_D.webp/revision/latest?cb=20200706044100"
+  },
+  {
+    "id": "PID_総選挙シルヴァン",
+    "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b4/Sylvain_Ladies_Knight_Face.webp/revision/latest?cb=20260817042449",
+    "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/a2/Sylvain_Ladies_Knight_BtlFace.webp/revision/latest?cb=20260817042424",
+    "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/3e/Sylvain_Ladies_Knight_BtlFace_C.webp/revision/latest?cb=20260817042439",
+    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/2/2e/Sylvain_Ladies_Knight_BtlFace_D.webp/revision/latest?cb=20260817042443"
   },
   {
     "id": "PID_春祭シルヴァン",
@@ -9900,6 +9932,13 @@
     "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/52/Tsubasa_Madcap_Idol_BtlFace.webp/revision/latest?cb=20200117045926",
     "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/1b/Tsubasa_Madcap_Idol_BtlFace_C.webp/revision/latest?cb=20200117045930",
     "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d7/Tsubasa_Madcap_Idol_BtlFace_D.webp/revision/latest?cb=20200117045937"
+  },
+  {
+    "id": "PID_総選挙つばさ",
+    "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/03/Tsubasa_Summoned_Girl_Face.webp/revision/latest?cb=20260817042338",
+    "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/8b/Tsubasa_Summoned_Girl_BtlFace.webp/revision/latest?cb=20260817042314",
+    "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/74/Tsubasa_Summoned_Girl_BtlFace_C.webp/revision/latest?cb=20260817042329",
+    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f3/Tsubasa_Summoned_Girl_BtlFace_D.webp/revision/latest?cb=20260817042334"
   },
   {
     "id": "PID_神階ウル",

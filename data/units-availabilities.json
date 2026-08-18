@@ -1225,7 +1225,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "gsp": 5
+      "gsp": 4.5
     },
     "skill_ids": [
       "SID_グラドの将の重槍",
@@ -1736,7 +1736,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "gsp": 5
+      "gsp": 4.5
     },
     "skill_ids": [
       "SID_アトラース",
@@ -2853,6 +2853,38 @@
       "SID_魔防の大紋章1",
       "SID_魔防の大紋章2",
       "SID_魔防の紋章1"
+    ]
+  },
+  {
+    "id": "PID_総選挙アクア",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {},
+    "skill_ids": [
+      "SID_その手が拓く未来は",
+      "SID_アトラース",
+      "SID_エルロック",
+      "SID_リズムセッション",
+      "SID_ロック",
+      "SID_三夜の歌の書",
+      "SID_影助・ぶちかまし1",
+      "SID_影助・ぶちかまし2",
+      "SID_影助・ぶちかまし3",
+      "SID_影助・突進・十紋章",
+      "SID_歌う",
+      "SID_盾のセッション1",
+      "SID_盾のセッション2",
+      "SID_盾のセッション3",
+      "SID_速さ魔防の干渉1",
+      "SID_速さ魔防の干渉2",
+      "SID_速さ魔防の干渉3",
+      "SID_速魔の看破・俯瞰"
     ]
   },
   {
@@ -6344,7 +6376,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "gsp": 5,
+      "gsp": 4.5,
       "dc": 5
     },
     "skill_ids": [
@@ -11028,7 +11060,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "gsp": 5,
+      "gsp": 4.5,
       "dc": 5
     },
     "skill_ids": [
@@ -13975,7 +14007,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "gsp": 5
+      "gsp": 4.5
     },
     "skill_ids": [
       "SID_影月",
@@ -15545,7 +15577,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "gsp": 5
+      "gsp": 4.5
     },
     "skill_ids": [
       "SID_奔放なる風の剣",
@@ -18110,7 +18142,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "gsp": 5
+      "gsp": 4.5
     },
     "skill_ids": [
       "SID_差し違え1",
@@ -19658,11 +19690,10 @@
       "hg": false,
       "dc": false,
       "ldc": false,
-      "foc": true
+      "foc": false
     },
     "lowest_rarity": {
-      "ssp": 5,
-      "foc": 5
+      "ssp": 5
     },
     "skill_ids": [
       "SID_攻守の看破・俯瞰",
@@ -20998,11 +21029,10 @@
       "hg": false,
       "dc": false,
       "ldc": false,
-      "foc": true
+      "foc": false
     },
     "lowest_rarity": {
-      "ssp": 5,
-      "foc": 5
+      "ssp": 5
     },
     "skill_ids": [
       "SID_ブレイクラッシュ",
@@ -21397,7 +21427,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "gsp": 5
+      "gsp": 4.5
     },
     "skill_ids": [
       "SID_守護騎士の白槍",
@@ -21721,7 +21751,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "gsp": 5
+      "gsp": 3
     },
     "skill_ids": [
       "SID_攻撃守備の万全1",
@@ -31177,7 +31207,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "gsp": 5
+      "gsp": 4.5
     },
     "skill_ids": [
       "SID_ウインド",
@@ -32783,7 +32813,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "gsp": 5
+      "gsp": 4.5
     },
     "skill_ids": [
       "SID_強化増幅1",
@@ -32985,7 +33015,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "gsp": 5,
+      "gsp": 4.5,
       "dc": 5
     },
     "skill_ids": [
@@ -34190,7 +34220,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "gsp": 5
+      "gsp": 4.5
     },
     "skill_ids": [
       "SID_ウインド",
@@ -34364,7 +34394,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "gsp": 5
+      "gsp": 4.5
     },
     "skill_ids": [
       "SID_ニザヴェリルの弩弓",
@@ -38457,11 +38487,10 @@
       "hg": false,
       "dc": false,
       "ldc": false,
-      "foc": true
+      "foc": false
     },
     "lowest_rarity": {
-      "ssp": 5,
-      "foc": 5
+      "ssp": 5
     },
     "skill_ids": [
       "SID_キャンセル1",
@@ -39570,11 +39599,10 @@
       "hg": false,
       "dc": false,
       "ldc": false,
-      "foc": true
+      "foc": false
     },
     "lowest_rarity": {
-      "ssp": 5,
-      "foc": 5
+      "ssp": 5
     },
     "skill_ids": [
       "SID_アトラース",
@@ -39737,6 +39765,34 @@
     }
   },
   {
+    "id": "PID_ロドリグ",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": true,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {
+      "hg": 4
+    },
+    "skill_ids": [
+      "SID_エルライト",
+      "SID_シャイン",
+      "SID_ライト",
+      "SID_奥の手・魔道1",
+      "SID_奥の手・魔道2",
+      "SID_奥の手・魔道3",
+      "SID_攻撃魔防の絆1",
+      "SID_攻撃魔防の絆2",
+      "SID_攻撃魔防の絆3",
+      "SID_氷点",
+      "SID_氷華",
+      "SID_練達オーラ"
+    ]
+  },
+  {
     "id": "PID_ハロヨファ",
     "is_in": {
       "gsp": false,
@@ -39805,7 +39861,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "gsp": 5
+      "gsp": 4.5
     },
     "skill_ids": [
       "SID_可憐の斧",
@@ -40488,7 +40544,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "gsp": 5,
+      "gsp": 4.5,
       "dc": 5
     },
     "skill_ids": [
@@ -42143,7 +42199,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "gsp": 5,
+      "gsp": 4.5,
       "dc": 5
     },
     "skill_ids": [
@@ -43404,6 +43460,39 @@
     ]
   },
   {
+    "id": "PID_総選挙シグルド",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {},
+    "skill_ids": [
+      "SID_差し違え1",
+      "SID_差し違え2",
+      "SID_差し違え3",
+      "SID_影助・引き戻し1",
+      "SID_影助・引き戻し2",
+      "SID_影助・引き戻し3",
+      "SID_影助・引戻・十紋章",
+      "SID_攻守突破・対抗",
+      "SID_攻撃守備の激突1",
+      "SID_攻撃守備の激突2",
+      "SID_攻撃守備の激突3",
+      "SID_気高き志の聖剣",
+      "SID_烈光",
+      "SID_砕光",
+      "SID_聖騎士バルドの末裔",
+      "SID_虎穴虎子",
+      "SID_鉄の剣",
+      "SID_銀の剣",
+      "SID_鋼の剣"
+    ]
+  },
+  {
     "id": "PID_紋章シグルド",
     "is_in": {
       "gsp": false,
@@ -44378,11 +44467,10 @@
       "hg": false,
       "dc": false,
       "ldc": false,
-      "foc": true
+      "foc": false
     },
     "lowest_rarity": {
-      "ssp": 5,
-      "foc": 5
+      "ssp": 5
     },
     "skill_ids": [
       "SID_影月",
@@ -44997,6 +45085,37 @@
         }
       ]
     }
+  },
+  {
+    "id": "PID_総選挙シルヴァン",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {},
+    "skill_ids": [
+      "SID_ブレイクラッシュ",
+      "SID_女好き",
+      "SID_守備の共謀1",
+      "SID_守備の共謀2",
+      "SID_守備の共謀3",
+      "SID_引き戻し",
+      "SID_攻撃速さの激突1",
+      "SID_攻撃速さの激突2",
+      "SID_攻撃速さの激突3",
+      "SID_攻速突破・対抗",
+      "SID_破裂の槍",
+      "SID_華炎",
+      "SID_蛍火",
+      "SID_速さ守備の団結",
+      "SID_鉄の槍",
+      "SID_銀の槍",
+      "SID_鋼の槍"
+    ]
   },
   {
     "id": "PID_春祭シルヴァン",
@@ -46909,7 +47028,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "gsp": 5,
+      "gsp": 4.5,
       "dc": 5
     },
     "skill_ids": [
@@ -47300,6 +47419,36 @@
     ]
   },
   {
+    "id": "PID_総選挙つばさ",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {},
+    "skill_ids": [
+      "SID_ウインド",
+      "SID_エルウインド",
+      "SID_ジャムセッション",
+      "SID_レクスカリバー",
+      "SID_伏竜",
+      "SID_刃のセッション1",
+      "SID_刃のセッション2",
+      "SID_刃のセッション3",
+      "SID_奥の手・魔道1",
+      "SID_奥の手・魔道2",
+      "SID_奥の手・魔道3",
+      "SID_幻影エクスカリバー",
+      "SID_理路",
+      "SID_竜穿",
+      "SID_羽ばたけ、私！",
+      "SID_魔の神髄・枷"
+    ]
+  },
+  {
     "id": "PID_神階ウル",
     "is_in": {
       "gsp": false,
@@ -47346,7 +47495,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "gsp": 5
+      "gsp": 4.5
     },
     "skill_ids": [
       "SID_エルサンダー",
@@ -48127,7 +48276,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "gsp": 5
+      "gsp": 4.5
     },
     "skill_ids": [
       "SID_アトラース",
@@ -49248,7 +49397,7 @@
       "foc": false
     },
     "lowest_rarity": {
-      "gsp": 5
+      "gsp": 4.5
     },
     "skill_ids": [
       "SID_守備の混乱1",
