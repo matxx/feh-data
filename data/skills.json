@@ -66519,7 +66519,9 @@
           "Flying"
         ]
       },
-      "weapons": null
+      "weapons": {
+        "none": true
+      }
     },
     "addition_date": "2026-08-17",
     "release_date": "2026-08-17",
@@ -77761,7 +77763,9 @@
           "Flying"
         ]
       },
-      "weapons": null
+      "weapons": {
+        "none": true
+      }
     },
     "addition_date": "2026-08-17",
     "release_date": "2026-08-17",
@@ -91534,7 +91538,9 @@
       "moves": {
         "none": true
       },
-      "weapons": null
+      "weapons": {
+        "none": true
+      }
     },
     "addition_date": "2026-08-17",
     "release_date": "2026-08-17",
@@ -98119,7 +98125,9 @@
           "Flying"
         ]
       },
-      "weapons": null
+      "weapons": {
+        "none": true
+      }
     },
     "addition_date": "2026-08-17",
     "release_date": "2026-08-17",
@@ -105735,7 +105743,11 @@
       "moves": {
         "none": true
       },
-      "weapons": null
+      "weapons": {
+        "can_not_use": [
+          "Colorless Staff"
+        ]
+      }
     },
     "addition_date": "2026-08-17",
     "release_date": "2026-08-17",
