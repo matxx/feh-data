@@ -7290,6 +7290,9 @@
         ]
       }
     },
+    "addition_date": "2018-09-14",
+    "release_date": "2018-09-14",
+    "version": "2.9",
     "upgrade_ids": [
       "SID_アーマーキラー2＋"
     ],
@@ -7323,6 +7326,9 @@
         ]
       }
     },
+    "addition_date": "2018-09-14",
+    "release_date": "2018-09-14",
+    "version": "2.9",
     "downgrade_ids": [
       "SID_アーマーキラー2"
     ]
@@ -7344,7 +7350,10 @@
     "refine_kind": "skill1",
     "eff": [
       "armored"
-    ]
+    ],
+    "addition_date": "2018-09-14",
+    "release_date": "2018-09-14",
+    "version": "2.9"
   },
   {
     "id": "SID_三雄の双刃",
@@ -15283,6 +15292,9 @@
         ]
       }
     },
+    "addition_date": "2020-03-31",
+    "release_date": "2020-03-31",
+    "version": "4.3",
     "downgrade_ids": [
       "SID_アトラース"
     ]
@@ -67662,6 +67674,9 @@
         ]
       }
     },
+    "addition_date": "2017-12-02",
+    "release_date": "2017-12-02",
+    "version": "2.0",
     "upgrade_ids": [
       "SID_ブラーウルフ2＋"
     ],
@@ -67696,6 +67711,9 @@
         ]
       }
     },
+    "addition_date": "2017-12-02",
+    "release_date": "2017-12-02",
+    "version": "2.0",
     "downgrade_ids": [
       "SID_ブラーウルフ2"
     ]
@@ -67717,7 +67735,10 @@
     "refine_kind": "skill1",
     "eff": [
       "cavalry"
-    ]
+    ],
+    "addition_date": "2017-12-02",
+    "release_date": "2017-12-02",
+    "version": "2.0"
   },
   {
     "id": "SID_猛き狼の弓",
@@ -67900,6 +67921,9 @@
         ]
       }
     },
+    "addition_date": "2017-12-02",
+    "release_date": "2017-12-02",
+    "version": "2.0",
     "upgrade_ids": [
       "SID_ラウアウルフ2＋"
     ],
@@ -67934,6 +67958,9 @@
         ]
       }
     },
+    "addition_date": "2017-12-02",
+    "release_date": "2017-12-02",
+    "version": "2.0",
     "downgrade_ids": [
       "SID_ラウアウルフ2"
     ]
@@ -67955,7 +67982,10 @@
     "refine_kind": "skill1",
     "eff": [
       "cavalry"
-    ]
+    ],
+    "addition_date": "2017-12-02",
+    "release_date": "2017-12-02",
+    "version": "2.0"
   },
   {
     "id": "SID_鬼神飛燕の構え1",
@@ -101371,6 +101401,9 @@
         ]
       }
     },
+    "addition_date": "2018-09-14",
+    "release_date": "2018-09-14",
+    "version": "2.9",
     "upgrade_ids": [
       "SID_ハンマー2＋"
     ],
@@ -101404,6 +101437,9 @@
         ]
       }
     },
+    "addition_date": "2018-09-14",
+    "release_date": "2018-09-14",
+    "version": "2.9",
     "downgrade_ids": [
       "SID_ハンマー2"
     ]
@@ -101425,7 +101461,10 @@
     "refine_kind": "skill1",
     "eff": [
       "armored"
-    ]
+    ],
+    "addition_date": "2018-09-14",
+    "release_date": "2018-09-14",
+    "version": "2.9"
   },
   {
     "id": "SID_キラーランス2",
