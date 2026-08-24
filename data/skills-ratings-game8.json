@@ -22030,6 +22030,11 @@
     "game8_grade": "S"
   },
   {
+    "id": "SID_練達オーラ",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
     "id": "SID_幻影エクスカリバー",
     "game8_rating": "9.9",
     "game8_grade": "SS"
@@ -23233,6 +23238,14 @@
   },
   {
     "id": "SSID_第102迷宮の覇者3",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SSID_第101迷宮の覇者3",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SSID_第103迷宮の覇者3",
     "game8_grade": "S"
   }
 ]

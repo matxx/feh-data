@@ -9854,5 +9854,12 @@
     "recommended_boon": "spd",
     "recommended_bane": "def",
     "recommended_plus10": null
+  },
+  {
+    "id": "PID_ロドリグ",
+    "game8_rating": "9.0",
+    "recommended_boon": "res",
+    "recommended_bane": "spd",
+    "recommended_plus10": null
   }
 ]
