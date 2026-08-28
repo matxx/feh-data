@@ -1,16 +1,5 @@
 [
   {
-    "name": "Focus: Legendary Heroes",
-    "start_time": "2017-02-02 07:00:00",
-    "end_time": "2017-02-15 06:59:59",
-    "unit_ids": [
-      "PID_チキ",
-      "PID_マルス",
-      "PID_ルキナ",
-      "PID_ルフレ男"
-    ]
-  },
-  {
     "name": "Focus: Deep Devotion",
     "start_time": "2017-02-02 07:00:00",
     "end_time": "2017-02-15 06:59:59",
@@ -19,6 +8,17 @@
       "PID_タクミ",
       "PID_リン",
       "PID_ロイ"
+    ]
+  },
+  {
+    "name": "Focus: Legendary Heroes",
+    "start_time": "2017-02-02 07:00:00",
+    "end_time": "2017-02-15 06:59:59",
+    "unit_ids": [
+      "PID_チキ",
+      "PID_マルス",
+      "PID_ルキナ",
+      "PID_ルフレ男"
     ]
   },
   {
@@ -57,16 +57,6 @@
     ]
   },
   {
-    "name": "Focus: Princesses",
-    "start_time": "2017-03-07 07:00:00",
-    "end_time": "2017-03-13 06:59:59",
-    "unit_ids": [
-      "PID_エイリーク",
-      "PID_エリーゼ",
-      "PID_ルキナ"
-    ]
-  },
-  {
     "name": "Focus: Princes",
     "start_time": "2017-03-07 07:00:00",
     "end_time": "2017-03-13 06:59:59",
@@ -74,6 +64,16 @@
       "PID_エフラム",
       "PID_クロム",
       "PID_レオン"
+    ]
+  },
+  {
+    "name": "Focus: Princesses",
+    "start_time": "2017-03-07 07:00:00",
+    "end_time": "2017-03-13 06:59:59",
+    "unit_ids": [
+      "PID_エイリーク",
+      "PID_エリーゼ",
+      "PID_ルキナ"
     ]
   },
   {
@@ -211,17 +211,6 @@
     ]
   },
   {
-    "name": "Focus: Male Mages",
-    "start_time": "2017-05-08 07:00:00",
-    "end_time": "2017-05-18 06:59:59",
-    "unit_ids": [
-      "PID_ヘンリー",
-      "PID_マリク",
-      "PID_ルフレ男",
-      "PID_レオン"
-    ]
-  },
-  {
     "name": "Focus: Female Mages",
     "start_time": "2017-05-08 07:00:00",
     "end_time": "2017-05-18 06:59:59",
@@ -230,6 +219,17 @@
       "PID_サーリャ",
       "PID_ユリア",
       "PID_リンダ"
+    ]
+  },
+  {
+    "name": "Focus: Male Mages",
+    "start_time": "2017-05-08 07:00:00",
+    "end_time": "2017-05-18 06:59:59",
+    "unit_ids": [
+      "PID_ヘンリー",
+      "PID_マリク",
+      "PID_ルフレ男",
+      "PID_レオン"
     ]
   },
   {
@@ -320,17 +320,6 @@
     ]
   },
   {
-    "name": "Focus: The War of the Clerics, Block B",
-    "start_time": "2017-06-23 07:00:00",
-    "end_time": "2017-07-03 06:59:59",
-    "unit_ids": [
-      "PID_クラリーネ",
-      "PID_プリシラ",
-      "PID_ミスト",
-      "PID_リズ"
-    ]
-  },
-  {
     "name": "Focus: The War of the Clerics, Block A",
     "start_time": "2017-06-23 07:00:00",
     "end_time": "2017-07-03 06:59:59",
@@ -339,6 +328,17 @@
       "PID_サクラ",
       "PID_マリア",
       "PID_ラケシス"
+    ]
+  },
+  {
+    "name": "Focus: The War of the Clerics, Block B",
+    "start_time": "2017-06-23 07:00:00",
+    "end_time": "2017-07-03 06:59:59",
+    "unit_ids": [
+      "PID_クラリーネ",
+      "PID_プリシラ",
+      "PID_ミスト",
+      "PID_リズ"
     ]
   },
   {
@@ -394,16 +394,6 @@
     ]
   },
   {
-    "name": "New Heroes: Celica's Army",
-    "start_time": "2017-07-13 07:00:00",
-    "end_time": "2017-07-28 06:59:59",
-    "unit_ids": [
-      "PID_セーバー",
-      "PID_ソニア",
-      "PID_レオ"
-    ]
-  },
-  {
     "name": "New Heroes: Alm's Army",
     "start_time": "2017-07-13 07:00:00",
     "end_time": "2017-07-28 06:59:59",
@@ -411,6 +401,16 @@
       "PID_グレイ",
       "PID_デューテ",
       "PID_マチルダ"
+    ]
+  },
+  {
+    "name": "New Heroes: Celica's Army",
+    "start_time": "2017-07-13 07:00:00",
+    "end_time": "2017-07-28 06:59:59",
+    "unit_ids": [
+      "PID_セーバー",
+      "PID_ソニア",
+      "PID_レオ"
     ]
   },
   {
@@ -707,17 +707,6 @@
     ]
   },
   {
-    "name": "Focus: Short-Haired Ladies",
-    "start_time": "2017-11-02 07:00:00",
-    "end_time": "2017-11-12 06:59:59",
-    "unit_ids": [
-      "PID_アメリア",
-      "PID_カタリナ",
-      "PID_シャニー",
-      "PID_ヒノカ"
-    ]
-  },
-  {
     "name": "Focus: Long-Haired Gents",
     "start_time": "2017-11-02 07:00:00",
     "end_time": "2017-11-12 06:59:59",
@@ -726,6 +715,17 @@
       "PID_セネリオ",
       "PID_タクミ",
       "PID_リョウマ"
+    ]
+  },
+  {
+    "name": "Focus: Short-Haired Ladies",
+    "start_time": "2017-11-02 07:00:00",
+    "end_time": "2017-11-12 06:59:59",
+    "unit_ids": [
+      "PID_アメリア",
+      "PID_カタリナ",
+      "PID_シャニー",
+      "PID_ヒノカ"
     ]
   },
   {
@@ -1766,16 +1766,6 @@
     ]
   },
   {
-    "name": "Focus: Voting Gauntlet Fathers",
-    "start_time": "2018-09-29 07:00:00",
-    "end_time": "2018-10-08 06:59:59",
-    "unit_ids": [
-      "PID_ゼロ",
-      "PID_ヘクトル",
-      "PID_ルフレ男"
-    ]
-  },
-  {
     "name": "Focus: Voting Gauntlet Daughters",
     "start_time": "2018-09-29 07:00:00",
     "end_time": "2018-10-08 06:59:59",
@@ -1783,6 +1773,16 @@
       "PID_マーク女",
       "PID_ユリア",
       "PID_リリーナ"
+    ]
+  },
+  {
+    "name": "Focus: Voting Gauntlet Fathers",
+    "start_time": "2018-09-29 07:00:00",
+    "end_time": "2018-10-08 06:59:59",
+    "unit_ids": [
+      "PID_ゼロ",
+      "PID_ヘクトル",
+      "PID_ルフレ男"
     ]
   },
   {
@@ -2189,16 +2189,6 @@
     ]
   },
   {
-    "name": "Focus: Voting Gauntlet Sons",
-    "start_time": "2019-01-28 07:00:00",
-    "end_time": "2019-02-06 06:59:59",
-    "unit_ids": [
-      "PID_ウード",
-      "PID_リーフ",
-      "PID_夢カムイ男"
-    ]
-  },
-  {
     "name": "Focus: Voting Gauntlet Mothers",
     "start_time": "2019-01-28 07:00:00",
     "end_time": "2019-02-06 06:59:59",
@@ -2206,6 +2196,16 @@
       "PID_セルジュ",
       "PID_リズ",
       "PID_夢ミコト"
+    ]
+  },
+  {
+    "name": "Focus: Voting Gauntlet Sons",
+    "start_time": "2019-01-28 07:00:00",
+    "end_time": "2019-02-06 06:59:59",
+    "unit_ids": [
+      "PID_ウード",
+      "PID_リーフ",
+      "PID_夢カムイ男"
     ]
   },
   {
@@ -2287,6 +2287,16 @@
     ]
   },
   {
+    "name": "Focus: Tempest Trials (Greil's Request)",
+    "start_time": "2019-02-09 07:00:00",
+    "end_time": "2019-02-20 06:59:59",
+    "unit_ids": [
+      "PID_アイク",
+      "PID_オスカー",
+      "PID_ワユ"
+    ]
+  },
+  {
     "name": "Special Hero Summon (Year 2)",
     "start_time": "2019-02-09 07:00:00",
     "end_time": "2019-02-16 06:59:59",
@@ -2325,16 +2335,6 @@
       "PID_花嫁サナキ",
       "PID_花嫁サーリャ",
       "PID_花嫁ニニアン"
-    ]
-  },
-  {
-    "name": "Focus: Tempest Trials (Greil's Request)",
-    "start_time": "2019-02-09 07:00:00",
-    "end_time": "2019-02-20 06:59:59",
-    "unit_ids": [
-      "PID_アイク",
-      "PID_オスカー",
-      "PID_ワユ"
     ]
   },
   {
@@ -2607,16 +2607,6 @@
     ]
   },
   {
-    "name": "Focus: Children's Day B",
-    "start_time": "2019-04-26 07:00:00",
-    "end_time": "2019-05-06 06:59:59",
-    "unit_ids": [
-      "PID_デューテ",
-      "PID_ニノ2",
-      "PID_ファ"
-    ]
-  },
-  {
     "name": "Focus: Children's Day A",
     "start_time": "2019-04-26 07:00:00",
     "end_time": "2019-05-06 06:59:59",
@@ -2624,6 +2614,16 @@
       "PID_チキ",
       "PID_ユルグ",
       "PID_ルゥ"
+    ]
+  },
+  {
+    "name": "Focus: Children's Day B",
+    "start_time": "2019-04-26 07:00:00",
+    "end_time": "2019-05-06 06:59:59",
+    "unit_ids": [
+      "PID_デューテ",
+      "PID_ニノ2",
+      "PID_ファ"
     ]
   },
   {
@@ -2646,17 +2646,6 @@
     ]
   },
   {
-    "name": "Year-Two CYL Hero Fest",
-    "start_time": "2019-04-27 07:00:00",
-    "end_time": "2025-05-16 06:59:59",
-    "unit_ids": [
-      "PID_総選挙エフラム",
-      "PID_総選挙セリカ",
-      "PID_総選挙ヘクトル",
-      "PID_総選挙ヴェロニカ"
-    ]
-  },
-  {
     "name": "Year-One CYL Hero Fest",
     "start_time": "2019-04-27 07:00:00",
     "end_time": "2025-05-16 06:59:59",
@@ -2665,6 +2654,17 @@
       "PID_総選挙リン",
       "PID_総選挙ルキナ",
       "PID_総選挙ロイ"
+    ]
+  },
+  {
+    "name": "Year-Two CYL Hero Fest",
+    "start_time": "2019-04-27 07:00:00",
+    "end_time": "2025-05-16 06:59:59",
+    "unit_ids": [
+      "PID_総選挙エフラム",
+      "PID_総選挙セリカ",
+      "PID_総選挙ヘクトル",
+      "PID_総選挙ヴェロニカ"
     ]
   },
   {
@@ -2854,17 +2854,6 @@
     ]
   },
   {
-    "name": "Focus: Headband Brawl (Block B)",
-    "start_time": "2019-06-27 07:00:00",
-    "end_time": "2019-07-07 06:59:59",
-    "unit_ids": [
-      "PID_グレイ",
-      "PID_ジョルジュ",
-      "PID_ティバーン",
-      "PID_バーツ"
-    ]
-  },
-  {
     "name": "Focus: Headband Brawl (Block A)",
     "start_time": "2019-06-27 07:00:00",
     "end_time": "2019-07-07 06:59:59",
@@ -2873,6 +2862,17 @@
       "PID_サナキ",
       "PID_スー",
       "PID_ワユ"
+    ]
+  },
+  {
+    "name": "Focus: Headband Brawl (Block B)",
+    "start_time": "2019-06-27 07:00:00",
+    "end_time": "2019-07-07 06:59:59",
+    "unit_ids": [
+      "PID_グレイ",
+      "PID_ジョルジュ",
+      "PID_ティバーン",
+      "PID_バーツ"
     ]
   },
   {
@@ -3151,16 +3151,6 @@
     ]
   },
   {
-    "name": "Focus: Weekly Revival 12",
-    "start_time": "2019-08-25 07:00:00",
-    "end_time": "2020-06-07 06:59:59",
-    "unit_ids": [
-      "PID_ドルカス",
-      "PID_ルーテ",
-      "PID_ワユ"
-    ]
-  },
-  {
     "name": "Focus: Voting Gauntlet (Brave Rivalries)",
     "start_time": "2019-08-25 07:00:00",
     "end_time": "2019-09-04 06:59:59",
@@ -3168,6 +3158,16 @@
       "PID_ヒノカ2",
       "PID_ヘクトル",
       "PID_闇ベルクト"
+    ]
+  },
+  {
+    "name": "Focus: Weekly Revival 12",
+    "start_time": "2019-08-25 07:00:00",
+    "end_time": "2020-06-07 06:59:59",
+    "unit_ids": [
+      "PID_ドルカス",
+      "PID_ルーテ",
+      "PID_ワユ"
     ]
   },
   {
@@ -3200,16 +3200,6 @@
     ]
   },
   {
-    "name": "Focus: Weekly Revival 13",
-    "start_time": "2019-09-01 07:00:00",
-    "end_time": "2020-06-14 06:59:59",
-    "unit_ids": [
-      "PID_ターナ",
-      "PID_ヘクトル",
-      "PID_ルーク"
-    ]
-  },
-  {
     "name": "Focus: Heroes with Desperation",
     "start_time": "2019-09-01 07:00:00",
     "end_time": "2019-09-11 06:59:59",
@@ -3217,6 +3207,16 @@
       "PID_アイラ",
       "PID_カレル",
       "PID_メイ"
+    ]
+  },
+  {
+    "name": "Focus: Weekly Revival 13",
+    "start_time": "2019-09-01 07:00:00",
+    "end_time": "2020-06-14 06:59:59",
+    "unit_ids": [
+      "PID_ターナ",
+      "PID_ヘクトル",
+      "PID_ルーク"
     ]
   },
   {
@@ -3252,16 +3252,6 @@
     ]
   },
   {
-    "name": "Focus: Weekly Revival 15",
-    "start_time": "2019-09-15 07:00:00",
-    "end_time": "2020-06-28 06:59:59",
-    "unit_ids": [
-      "PID_アクア",
-      "PID_エルトシャン",
-      "PID_ディアドラ"
-    ]
-  },
-  {
     "name": "Focus: Tibarn & Caineghis's Battle",
     "start_time": "2019-09-15 07:00:00",
     "end_time": "2020-08-13 06:59:59",
@@ -3269,6 +3259,16 @@
       "PID_カイネギス",
       "PID_ティバーン",
       "PID_リュシオン"
+    ]
+  },
+  {
+    "name": "Focus: Weekly Revival 15",
+    "start_time": "2019-09-15 07:00:00",
+    "end_time": "2020-06-28 06:59:59",
+    "unit_ids": [
+      "PID_アクア",
+      "PID_エルトシャン",
+      "PID_ディアドラ"
     ]
   },
   {
@@ -3496,6 +3496,16 @@
     ]
   },
   {
+    "name": "Focus: Tempest Trials (Sands of Time)",
+    "start_time": "2019-11-19 07:00:00",
+    "end_time": "2019-12-02 06:59:59",
+    "unit_ids": [
+      "PID_チャド",
+      "PID_ルゥ",
+      "PID_レイ"
+    ]
+  },
+  {
     "name": "New Heroes: Guardians of Peace",
     "start_time": "2019-11-19 07:00:00",
     "end_time": "2019-12-06 06:59:59",
@@ -3504,16 +3514,6 @@
       "PID_エキドナ",
       "PID_パーシバル",
       "PID_ララム"
-    ]
-  },
-  {
-    "name": "Focus: Tempest Trials (Sands of Time)",
-    "start_time": "2019-11-19 07:00:00",
-    "end_time": "2019-12-02 06:59:59",
-    "unit_ids": [
-      "PID_チャド",
-      "PID_ルゥ",
-      "PID_レイ"
     ]
   },
   {
@@ -4220,17 +4220,6 @@
     ]
   },
   {
-    "name": "Focus: Green Grapple, Block B",
-    "start_time": "2020-04-27 07:00:00",
-    "end_time": "2020-05-07 06:59:59",
-    "unit_ids": [
-      "PID_セシリア",
-      "PID_ナギ",
-      "PID_マリク",
-      "PID_レヴィン"
-    ]
-  },
-  {
     "name": "Focus: Green Grapple, Block A",
     "start_time": "2020-04-27 07:00:00",
     "end_time": "2020-05-07 06:59:59",
@@ -4239,6 +4228,17 @@
       "PID_セティ",
       "PID_ニノ",
       "PID_ルゥ"
+    ]
+  },
+  {
+    "name": "Focus: Green Grapple, Block B",
+    "start_time": "2020-04-27 07:00:00",
+    "end_time": "2020-05-07 06:59:59",
+    "unit_ids": [
+      "PID_セシリア",
+      "PID_ナギ",
+      "PID_マリク",
+      "PID_レヴィン"
     ]
   },
   {
@@ -4418,17 +4418,6 @@
     ]
   },
   {
-    "name": "Summer Passing",
-    "start_time": "2020-06-18 07:00:00",
-    "end_time": "2026-07-07 06:59:59",
-    "unit_ids": [
-      "PID_双界ワユ",
-      "PID_水着セライナ",
-      "PID_水着ヨシュア",
-      "PID_水着ルーテ"
-    ]
-  },
-  {
     "name": "Call of the Sea - Special Hero Gift",
     "start_time": "2020-06-18 07:00:00",
     "end_time": "2020-07-02 06:59:59",
@@ -4457,6 +4446,17 @@
       "PID_水着レオン",
       "PID_水着レーギャルン",
       "PID_水着レーヴァテイン"
+    ]
+  },
+  {
+    "name": "Summer Passing",
+    "start_time": "2020-06-18 07:00:00",
+    "end_time": "2026-07-07 06:59:59",
+    "unit_ids": [
+      "PID_双界ワユ",
+      "PID_水着セライナ",
+      "PID_水着ヨシュア",
+      "PID_水着ルーテ"
     ]
   },
   {
@@ -4921,16 +4921,6 @@
     ]
   },
   {
-    "name": "Focus: Voting Gauntlet, Part 2 (Ponytails vs. Pigtails)",
-    "start_time": "2020-09-28 07:00:00",
-    "end_time": "2020-10-07 06:59:59",
-    "unit_ids": [
-      "PID_エーヴェル",
-      "PID_レーヴァテイン味方",
-      "PID_夢ミコト"
-    ]
-  },
-  {
     "name": "Focus: Voting Gauntlet, Part 1 (Ponytails vs. Pigtails)",
     "start_time": "2020-09-28 07:00:00",
     "end_time": "2020-10-07 06:59:59",
@@ -4938,6 +4928,16 @@
       "PID_クリス女",
       "PID_ヒルダ",
       "PID_霧亜"
+    ]
+  },
+  {
+    "name": "Focus: Voting Gauntlet, Part 2 (Ponytails vs. Pigtails)",
+    "start_time": "2020-09-28 07:00:00",
+    "end_time": "2020-10-07 06:59:59",
+    "unit_ids": [
+      "PID_エーヴェル",
+      "PID_レーヴァテイン味方",
+      "PID_夢ミコト"
     ]
   },
   {
@@ -6206,16 +6206,6 @@
     ]
   },
   {
-    "name": "Focus: Maternal Matchups, Part 2",
-    "start_time": "2021-05-29 07:00:00",
-    "end_time": "2021-06-07 06:59:59",
-    "unit_ids": [
-      "PID_クレイン",
-      "PID_ユアン",
-      "PID_ユルグ"
-    ]
-  },
-  {
     "name": "Focus: Maternal Matchups, Part 1",
     "start_time": "2021-05-29 07:00:00",
     "end_time": "2021-06-07 06:59:59",
@@ -6223,6 +6213,16 @@
       "PID_メルセデス",
       "PID_ラクチェ",
       "PID_暴走カムイ男"
+    ]
+  },
+  {
+    "name": "Focus: Maternal Matchups, Part 2",
+    "start_time": "2021-05-29 07:00:00",
+    "end_time": "2021-06-07 06:59:59",
+    "unit_ids": [
+      "PID_クレイン",
+      "PID_ユアン",
+      "PID_ユルグ"
     ]
   },
   {
@@ -6657,16 +6657,6 @@
     ]
   },
   {
-    "name": "Focus: Weekly Revival 34",
-    "start_time": "2021-09-05 07:00:00",
-    "end_time": "2026-08-23 06:59:59",
-    "unit_ids": [
-      "PID_ティバーン",
-      "PID_ニケ",
-      "PID_リアーネ"
-    ]
-  },
-  {
     "name": "Focus: Tempest Trials (Ice & Flame 3)",
     "start_time": "2021-09-05 07:00:00",
     "end_time": "2021-09-17 06:59:59",
@@ -6674,6 +6664,16 @@
       "PID_セリス",
       "PID_リーフ",
       "PID_レヴィン"
+    ]
+  },
+  {
+    "name": "Focus: Weekly Revival 34",
+    "start_time": "2021-09-05 07:00:00",
+    "end_time": "2026-08-23 06:59:59",
+    "unit_ids": [
+      "PID_ティバーン",
+      "PID_ニケ",
+      "PID_リアーネ"
     ]
   },
   {
@@ -7740,16 +7740,6 @@
     ]
   },
   {
-    "name": "Focus: Impenetrable Defenses 2",
-    "start_time": "2022-03-29 07:00:00",
-    "end_time": "2022-04-07 06:59:59",
-    "unit_ids": [
-      "PID_アメリア",
-      "PID_バルボ",
-      "PID_ブノワ"
-    ]
-  },
-  {
     "name": "Focus: Impenetrable Defenses 1",
     "start_time": "2022-03-29 07:00:00",
     "end_time": "2022-04-07 06:59:59",
@@ -7757,6 +7747,16 @@
       "PID_デジェル",
       "PID_ドゥドゥ―",
       "PID_ドーガ"
+    ]
+  },
+  {
+    "name": "Focus: Impenetrable Defenses 2",
+    "start_time": "2022-03-29 07:00:00",
+    "end_time": "2022-04-07 06:59:59",
+    "unit_ids": [
+      "PID_アメリア",
+      "PID_バルボ",
+      "PID_ブノワ"
     ]
   },
   {
@@ -7916,16 +7916,6 @@
     ]
   },
   {
-    "name": "Focus: Chivalric Struggle 2",
-    "start_time": "2022-04-30 07:00:00",
-    "end_time": "2022-05-10 06:59:59",
-    "unit_ids": [
-      "PID_ジェイガン",
-      "PID_ティアマト",
-      "PID_パーシバル"
-    ]
-  },
-  {
     "name": "Focus: Chivalric Struggle 1",
     "start_time": "2022-04-30 07:00:00",
     "end_time": "2022-05-10 06:59:59",
@@ -7933,6 +7923,16 @@
       "PID_イングリット",
       "PID_ゼト",
       "PID_フレデリク"
+    ]
+  },
+  {
+    "name": "Focus: Chivalric Struggle 2",
+    "start_time": "2022-04-30 07:00:00",
+    "end_time": "2022-05-10 06:59:59",
+    "unit_ids": [
+      "PID_ジェイガン",
+      "PID_ティアマト",
+      "PID_パーシバル"
     ]
   },
   {
@@ -8144,16 +8144,6 @@
     ]
   },
   {
-    "name": "Three Hopes Release Event 4",
-    "start_time": "2022-06-11 07:00:00",
-    "end_time": "2022-06-15 06:59:59",
-    "unit_ids": [
-      "PID_クロード",
-      "PID_リシテア",
-      "PID_冬祭ヒルダ"
-    ]
-  },
-  {
     "name": "Focus: New Power (Jun 2022)",
     "start_time": "2022-06-11 07:00:00",
     "end_time": "2022-06-16 06:59:59",
@@ -8162,6 +8152,16 @@
       "PID_ライ",
       "PID_行楽フローラ",
       "PID_闇ベルクト"
+    ]
+  },
+  {
+    "name": "Three Hopes Release Event 4",
+    "start_time": "2022-06-11 07:00:00",
+    "end_time": "2022-06-15 06:59:59",
+    "unit_ids": [
+      "PID_クロード",
+      "PID_リシテア",
+      "PID_冬祭ヒルダ"
     ]
   },
   {
@@ -8195,16 +8195,6 @@
     ]
   },
   {
-    "name": "Three Hopes Release Event 8",
-    "start_time": "2022-06-15 07:00:00",
-    "end_time": "2022-06-19 06:59:59",
-    "unit_ids": [
-      "PID_フェルディナント",
-      "PID_冬祭ベルナデッタ",
-      "PID_水着ドロテア"
-    ]
-  },
-  {
     "name": "Focus: Tempest Trials (Summer Aside)",
     "start_time": "2022-06-15 07:00:00",
     "end_time": "2022-06-27 06:59:59",
@@ -8212,6 +8202,16 @@
       "PID_エーデルガルト",
       "PID_クロード",
       "PID_ディミトリ"
+    ]
+  },
+  {
+    "name": "Three Hopes Release Event 8",
+    "start_time": "2022-06-15 07:00:00",
+    "end_time": "2022-06-19 06:59:59",
+    "unit_ids": [
+      "PID_フェルディナント",
+      "PID_冬祭ベルナデッタ",
+      "PID_水着ドロテア"
     ]
   },
   {
@@ -8235,16 +8235,6 @@
     ]
   },
   {
-    "name": "Three Hopes Release Event 10",
-    "start_time": "2022-06-17 07:00:00",
-    "end_time": "2022-06-21 06:59:59",
-    "unit_ids": [
-      "PID_ヒルダ",
-      "PID_マリアンヌ",
-      "PID_砂漠ラファエル"
-    ]
-  },
-  {
     "name": "Summer Vacation",
     "start_time": "2022-06-17 07:00:00",
     "end_time": "2026-07-01 06:59:59",
@@ -8253,6 +8243,16 @@
       "PID_水着クロード",
       "PID_水着ディミトリ",
       "PID_水着ミカヤ"
+    ]
+  },
+  {
+    "name": "Three Hopes Release Event 10",
+    "start_time": "2022-06-17 07:00:00",
+    "end_time": "2022-06-21 06:59:59",
+    "unit_ids": [
+      "PID_ヒルダ",
+      "PID_マリアンヌ",
+      "PID_砂漠ラファエル"
     ]
   },
   {
@@ -9001,16 +9001,6 @@
     ]
   },
   {
-    "name": "Focus: Weekly Revival 61",
-    "start_time": "2022-11-06 07:00:00",
-    "end_time": "2026-05-03 06:59:59",
-    "unit_ids": [
-      "PID_フィオーラ",
-      "PID_レイラ",
-      "PID_霧亜"
-    ]
-  },
-  {
     "name": "Focus: Tempest Trials (Life & Death 5)",
     "start_time": "2022-11-06 07:00:00",
     "end_time": "2022-11-18 06:59:59",
@@ -9018,6 +9008,16 @@
       "PID_カミラ",
       "PID_セルジュ",
       "PID_レーギャルン味方"
+    ]
+  },
+  {
+    "name": "Focus: Weekly Revival 61",
+    "start_time": "2022-11-06 07:00:00",
+    "end_time": "2026-05-03 06:59:59",
+    "unit_ids": [
+      "PID_フィオーラ",
+      "PID_レイラ",
+      "PID_霧亜"
     ]
   },
   {
@@ -9429,6 +9429,16 @@
     ]
   },
   {
+    "name": "Natural Competition A",
+    "start_time": "2023-01-26 07:00:00",
+    "end_time": "2023-02-03 06:59:59",
+    "unit_ids": [
+      "PID_マリアンヌ",
+      "PID_ユーミル",
+      "PID_リリス"
+    ]
+  },
+  {
     "name": "Natural Competition B",
     "start_time": "2023-01-26 07:00:00",
     "end_time": "2023-02-03 06:59:59",
@@ -9437,16 +9447,6 @@
       "PID_ブノワ",
       "PID_ヘンリー",
       "PID_モゥディ"
-    ]
-  },
-  {
-    "name": "Natural Competition A",
-    "start_time": "2023-01-26 07:00:00",
-    "end_time": "2023-02-03 06:59:59",
-    "unit_ids": [
-      "PID_マリアンヌ",
-      "PID_ユーミル",
-      "PID_リリス"
     ]
   },
   {
@@ -9486,6 +9486,17 @@
       "PID_シノン",
       "PID_パント",
       "PID_フォルカ"
+    ]
+  },
+  {
+    "name": "Hero Fest (6th Anniversary)",
+    "start_time": "2023-02-02 07:00:00",
+    "end_time": "2023-03-02 06:59:59",
+    "unit_ids": [
+      "PID_エイトリ味方",
+      "PID_双界リシテア",
+      "PID_開花イドゥン",
+      "PID_開花マリータ"
     ]
   },
   {
@@ -9545,17 +9556,6 @@
       "PID_花嫁セシリア",
       "PID_花嫁ソフィーヤ",
       "PID_花嫁リリーナ"
-    ]
-  },
-  {
-    "name": "Hero Fest (6th Anniversary)",
-    "start_time": "2023-02-02 07:00:00",
-    "end_time": "2023-03-02 06:59:59",
-    "unit_ids": [
-      "PID_エイトリ味方",
-      "PID_双界リシテア",
-      "PID_開花イドゥン",
-      "PID_開花マリータ"
     ]
   },
   {
@@ -10417,21 +10417,6 @@
     ]
   },
   {
-    "name": "Legendary & Mythic Hero Remix 2 (Jul 2023)",
-    "start_time": "2023-07-13 07:00:00",
-    "end_time": "2023-07-27 06:59:59",
-    "unit_ids": [
-      "PID_スラシル味方",
-      "PID_リーヴ2味方",
-      "PID_伝承チキ",
-      "PID_神階オルティナ",
-      "PID_神階ナーガ",
-      "PID_神階ブラミモンド",
-      "PID_神階ユンヌ",
-      "PID_魔器ルフレ女"
-    ]
-  },
-  {
     "name": "Legendary & Mythic Hero Remix 1 (Jul 2023)",
     "start_time": "2023-07-13 07:00:00",
     "end_time": "2023-07-27 06:59:59",
@@ -10444,6 +10429,21 @@
       "PID_神階ミラ",
       "PID_総選挙クロム",
       "PID_総選挙セリス"
+    ]
+  },
+  {
+    "name": "Legendary & Mythic Hero Remix 2 (Jul 2023)",
+    "start_time": "2023-07-13 07:00:00",
+    "end_time": "2023-07-27 06:59:59",
+    "unit_ids": [
+      "PID_スラシル味方",
+      "PID_リーヴ2味方",
+      "PID_伝承チキ",
+      "PID_神階オルティナ",
+      "PID_神階ナーガ",
+      "PID_神階ブラミモンド",
+      "PID_神階ユンヌ",
+      "PID_魔器ルフレ女"
     ]
   },
   {
@@ -10560,21 +10560,6 @@
     ]
   },
   {
-    "name": "Legendary & Mythic Hero Remix 2 (Aug 2023)",
-    "start_time": "2023-08-12 07:00:00",
-    "end_time": "2023-08-26 06:59:59",
-    "unit_ids": [
-      "PID_フレイヤ味方",
-      "PID_レギン",
-      "PID_伝承アクア",
-      "PID_伝承ユリア",
-      "PID_伝承ルフレ女",
-      "PID_神階ドーマ",
-      "PID_開花エイル味方",
-      "PID_開花チキ"
-    ]
-  },
-  {
     "name": "Legendary & Mythic Hero Remix 1 (Aug 2023)",
     "start_time": "2023-08-12 07:00:00",
     "end_time": "2023-08-26 06:59:59",
@@ -10587,6 +10572,21 @@
       "PID_神階エイル",
       "PID_魔器アルフレッド",
       "PID_魔器オフェリア"
+    ]
+  },
+  {
+    "name": "Legendary & Mythic Hero Remix 2 (Aug 2023)",
+    "start_time": "2023-08-12 07:00:00",
+    "end_time": "2023-08-26 06:59:59",
+    "unit_ids": [
+      "PID_フレイヤ味方",
+      "PID_レギン",
+      "PID_伝承アクア",
+      "PID_伝承ユリア",
+      "PID_伝承ルフレ女",
+      "PID_神階ドーマ",
+      "PID_開花エイル味方",
+      "PID_開花チキ"
     ]
   },
   {
@@ -11290,16 +11290,6 @@
     ]
   },
   {
-    "name": "Focus: Riches or Stitches! 2",
-    "start_time": "2023-12-24 07:00:00",
-    "end_time": "2024-01-03 06:59:59",
-    "unit_ids": [
-      "PID_パティ",
-      "PID_フォルカ",
-      "PID_レナック"
-    ]
-  },
-  {
     "name": "Focus: Riches or Stitches! 1",
     "start_time": "2023-12-24 07:00:00",
     "end_time": "2024-01-03 06:59:59",
@@ -11307,6 +11297,16 @@
       "PID_キャス",
       "PID_ジュリアン",
       "PID_マシュー"
+    ]
+  },
+  {
+    "name": "Focus: Riches or Stitches! 2",
+    "start_time": "2023-12-24 07:00:00",
+    "end_time": "2024-01-03 06:59:59",
+    "unit_ids": [
+      "PID_パティ",
+      "PID_フォルカ",
+      "PID_レナック"
     ]
   },
   {
@@ -11515,6 +11515,25 @@
     ]
   },
   {
+    "name": "Emblem Marth & Mythic Lumera",
+    "start_time": "2024-01-30 07:00:00",
+    "end_time": "2024-02-20 06:59:59",
+    "unit_ids": [
+      "PID_アシュ",
+      "PID_トール味方",
+      "PID_伝承ヒノカ",
+      "PID_伝承ミカヤ",
+      "PID_神階エリミーヌ",
+      "PID_神階ルミエル",
+      "PID_神階ヴェイル",
+      "PID_紋章マルス",
+      "PID_開花セティ",
+      "PID_開花フィル",
+      "PID_魔器ソニア",
+      "PID_魔器プルメリア味方"
+    ]
+  },
+  {
     "name": "Special Hero Summon (Year 7)",
     "start_time": "2024-01-30 07:00:00",
     "end_time": "2024-03-05 06:59:59",
@@ -11571,25 +11590,6 @@
       "PID_風部族カチュア",
       "PID_風部族クロード",
       "PID_風部族ダグ"
-    ]
-  },
-  {
-    "name": "Emblem Marth & Mythic Lumera",
-    "start_time": "2024-01-30 07:00:00",
-    "end_time": "2024-02-20 06:59:59",
-    "unit_ids": [
-      "PID_アシュ",
-      "PID_トール味方",
-      "PID_伝承ヒノカ",
-      "PID_伝承ミカヤ",
-      "PID_神階エリミーヌ",
-      "PID_神階ルミエル",
-      "PID_神階ヴェイル",
-      "PID_紋章マルス",
-      "PID_開花セティ",
-      "PID_開花フィル",
-      "PID_魔器ソニア",
-      "PID_魔器プルメリア味方"
     ]
   },
   {
@@ -11675,6 +11675,16 @@
     ]
   },
   {
+    "name": "Focus: Weekly Revival 81",
+    "start_time": "2024-02-11 07:00:00",
+    "end_time": "2025-08-03 06:59:59",
+    "unit_ids": [
+      "PID_ニフル味方",
+      "PID_闇マーク女",
+      "PID_闇マーク男"
+    ]
+  },
+  {
     "name": "Legendary & Mythic Hero Remix 1 (Feb 2024)",
     "start_time": "2024-02-11 07:00:00",
     "end_time": "2024-02-25 06:59:59",
@@ -11687,16 +11697,6 @@
       "PID_神階ユンヌ",
       "PID_総選挙グルヴェイグ",
       "PID_総選挙ルフレ男"
-    ]
-  },
-  {
-    "name": "Focus: Weekly Revival 81",
-    "start_time": "2024-02-11 07:00:00",
-    "end_time": "2025-08-03 06:59:59",
-    "unit_ids": [
-      "PID_ニフル味方",
-      "PID_闇マーク女",
-      "PID_闇マーク男"
     ]
   },
   {
@@ -11865,16 +11865,6 @@
     ]
   },
   {
-    "name": "Focus: Weekly Revival 83",
-    "start_time": "2024-03-10 07:00:00",
-    "end_time": "2025-08-17 06:59:59",
-    "unit_ids": [
-      "PID_マリアンヌ",
-      "PID_総選挙マリアンヌ",
-      "PID_総選挙マルス"
-    ]
-  },
-  {
     "name": "Focus: New Power (Mar 2024)",
     "start_time": "2024-03-10 07:00:00",
     "end_time": "2024-03-18 06:59:59",
@@ -11883,6 +11873,16 @@
       "PID_ミドリコ",
       "PID_暴走カムイ男",
       "PID_比翼ミカヤ"
+    ]
+  },
+  {
+    "name": "Focus: Weekly Revival 83",
+    "start_time": "2024-03-10 07:00:00",
+    "end_time": "2025-08-17 06:59:59",
+    "unit_ids": [
+      "PID_マリアンヌ",
+      "PID_総選挙マリアンヌ",
+      "PID_総選挙マルス"
     ]
   },
   {
@@ -12059,16 +12059,6 @@
     ]
   },
   {
-    "name": "Focus: Weekly Revival 85",
-    "start_time": "2024-04-07 07:00:00",
-    "end_time": "2025-08-31 06:59:59",
-    "unit_ids": [
-      "PID_総選挙エイリーク",
-      "PID_覇骸エーデルガルト",
-      "PID_闇マーク男"
-    ]
-  },
-  {
     "name": "Focus: New Power (Apr 2024)",
     "start_time": "2024-04-07 07:00:00",
     "end_time": "2024-04-18 06:59:59",
@@ -12077,6 +12067,16 @@
       "PID_リリス",
       "PID_催眠ユリア",
       "PID_花嫁ニケ"
+    ]
+  },
+  {
+    "name": "Focus: Weekly Revival 85",
+    "start_time": "2024-04-07 07:00:00",
+    "end_time": "2025-08-31 06:59:59",
+    "unit_ids": [
+      "PID_総選挙エイリーク",
+      "PID_覇骸エーデルガルト",
+      "PID_闇マーク男"
     ]
   },
   {
@@ -12289,16 +12289,6 @@
     ]
   },
   {
-    "name": "Focus: Weekly Revival 88",
-    "start_time": "2024-05-19 07:00:00",
-    "end_time": "2025-09-21 06:59:59",
-    "unit_ids": [
-      "PID_イングリット",
-      "PID_ドゥドゥ―",
-      "PID_総選挙マリアンヌ"
-    ]
-  },
-  {
     "name": "Focus: Tempest Trials (Just for Today)",
     "start_time": "2024-05-19 07:00:00",
     "end_time": "2024-05-30 06:59:59",
@@ -12306,6 +12296,16 @@
       "PID_ラピス",
       "PID_総選挙ヴェロニカ",
       "PID_魔器スタルーク"
+    ]
+  },
+  {
+    "name": "Focus: Weekly Revival 88",
+    "start_time": "2024-05-19 07:00:00",
+    "end_time": "2025-09-21 06:59:59",
+    "unit_ids": [
+      "PID_イングリット",
+      "PID_ドゥドゥ―",
+      "PID_総選挙マリアンヌ"
     ]
   },
   {
@@ -12527,16 +12527,6 @@
     ]
   },
   {
-    "name": "Focus: Rhea & Byleth's Battle",
-    "start_time": "2024-06-30 07:00:00",
-    "end_time": "2024-07-06 06:59:59",
-    "unit_ids": [
-      "PID_ベレス",
-      "PID_ベレト",
-      "PID_レア"
-    ]
-  },
-  {
     "name": "Focus: Heroes with Luna (Jun 2024)",
     "start_time": "2024-06-30 07:00:00",
     "end_time": "2024-07-07 06:59:59",
@@ -12544,6 +12534,16 @@
       "PID_ファバル",
       "PID_ラピス",
       "PID_総選挙グルヴェイグ"
+    ]
+  },
+  {
+    "name": "Focus: Rhea & Byleth's Battle",
+    "start_time": "2024-06-30 07:00:00",
+    "end_time": "2024-07-06 06:59:59",
+    "unit_ids": [
+      "PID_ベレス",
+      "PID_ベレト",
+      "PID_レア"
     ]
   },
   {
@@ -12938,21 +12938,6 @@
     ]
   },
   {
-    "name": "Legendary & Mythic Hero Remix 2 (Sep 2024)",
-    "start_time": "2024-09-09 07:00:00",
-    "end_time": "2024-10-04 06:59:59",
-    "unit_ids": [
-      "PID_アシュ",
-      "PID_スラシル味方",
-      "PID_スリーズ",
-      "PID_フリーズ",
-      "PID_伝承エリウッド",
-      "PID_伝承ベレス",
-      "PID_神階ブラミモンド",
-      "PID_響心シーダ"
-    ]
-  },
-  {
     "name": "Legendary & Mythic Hero Remix 1 (Sep 2024)",
     "start_time": "2024-09-09 07:00:00",
     "end_time": "2024-10-04 06:59:59",
@@ -12965,6 +12950,21 @@
       "PID_神階エリミーヌ",
       "PID_神階ドーマ",
       "PID_開花マリク"
+    ]
+  },
+  {
+    "name": "Legendary & Mythic Hero Remix 2 (Sep 2024)",
+    "start_time": "2024-09-09 07:00:00",
+    "end_time": "2024-10-04 06:59:59",
+    "unit_ids": [
+      "PID_アシュ",
+      "PID_スラシル味方",
+      "PID_スリーズ",
+      "PID_フリーズ",
+      "PID_伝承エリウッド",
+      "PID_伝承ベレス",
+      "PID_神階ブラミモンド",
+      "PID_響心シーダ"
     ]
   },
   {
@@ -13575,6 +13575,17 @@
     ]
   },
   {
+    "name": "Greetings to You",
+    "start_time": "2025-01-01 07:00:00",
+    "end_time": "2025-02-01 06:59:59",
+    "unit_ids": [
+      "PID_年明ターナ",
+      "PID_年明ニーズヘッグ",
+      "PID_年明フレスベルグ",
+      "PID_比翼ヘイズルーン"
+    ]
+  },
+  {
     "name": "New Year: ω Special Heroes 1 (2025)",
     "start_time": "2025-01-01 07:00:00",
     "end_time": "2025-02-01 06:59:59",
@@ -13587,17 +13598,6 @@
       "PID_年明ベルベット",
       "PID_比翼アスク",
       "PID_比翼セイズ"
-    ]
-  },
-  {
-    "name": "Greetings to You",
-    "start_time": "2025-01-01 07:00:00",
-    "end_time": "2025-02-01 06:59:59",
-    "unit_ids": [
-      "PID_年明ターナ",
-      "PID_年明ニーズヘッグ",
-      "PID_年明フレスベルグ",
-      "PID_比翼ヘイズルーン"
     ]
   },
   {
@@ -13634,21 +13634,6 @@
     ]
   },
   {
-    "name": "Legendary & Mythic Hero Remix 2 (Jan 2025)",
-    "start_time": "2025-01-13 07:00:00",
-    "end_time": "2025-01-27 06:59:59",
-    "unit_ids": [
-      "PID_エイトリ味方",
-      "PID_プルメリア味方",
-      "PID_伝承アルム",
-      "PID_伝承ファ",
-      "PID_伝承リン",
-      "PID_神階エイル",
-      "PID_神階ルピナス",
-      "PID_開花アメリア"
-    ]
-  },
-  {
     "name": "Legendary & Mythic Hero Remix 1 (Jan 2025)",
     "start_time": "2025-01-13 07:00:00",
     "end_time": "2025-01-27 06:59:59",
@@ -13661,6 +13646,21 @@
       "PID_伝承ロイ",
       "PID_神階ウル",
       "PID_魔器サザ"
+    ]
+  },
+  {
+    "name": "Legendary & Mythic Hero Remix 2 (Jan 2025)",
+    "start_time": "2025-01-13 07:00:00",
+    "end_time": "2025-01-27 06:59:59",
+    "unit_ids": [
+      "PID_エイトリ味方",
+      "PID_プルメリア味方",
+      "PID_伝承アルム",
+      "PID_伝承ファ",
+      "PID_伝承リン",
+      "PID_神階エイル",
+      "PID_神階ルピナス",
+      "PID_開花アメリア"
     ]
   },
   {
@@ -13760,6 +13760,17 @@
     ]
   },
   {
+    "name": "Focus: Hero Fest (Feb 2025)",
+    "start_time": "2025-02-02 07:00:00",
+    "end_time": "2025-03-07 06:59:59",
+    "unit_ids": [
+      "PID_神階ロキ",
+      "PID_紋章マルス",
+      "PID_響心アイビー",
+      "PID_魔器ルキナ"
+    ]
+  },
+  {
     "name": "Special Hero Summon (Year 8)",
     "start_time": "2025-02-02 07:00:00",
     "end_time": "2025-03-07 06:59:59",
@@ -13819,17 +13830,6 @@
     ]
   },
   {
-    "name": "Focus: Hero Fest (Feb 2025)",
-    "start_time": "2025-02-02 07:00:00",
-    "end_time": "2025-03-07 06:59:59",
-    "unit_ids": [
-      "PID_神階ロキ",
-      "PID_紋章マルス",
-      "PID_響心アイビー",
-      "PID_魔器ルキナ"
-    ]
-  },
-  {
     "name": "8th Anniv. \"12 Luminaries\" 1",
     "start_time": "2025-02-05 07:00:00",
     "end_time": "2025-02-15 06:59:59",
@@ -13881,16 +13881,6 @@
     ]
   },
   {
-    "name": "Focus: Weekly Revival 98",
-    "start_time": "2025-02-09 07:00:00",
-    "end_time": "2025-11-30 06:59:59",
-    "unit_ids": [
-      "PID_グスタフ味方",
-      "PID_暴走レア",
-      "PID_闇リリス"
-    ]
-  },
-  {
     "name": "Focus: Legendary Revival 1",
     "start_time": "2025-02-09 07:00:00",
     "end_time": "2026-01-11 06:59:59",
@@ -13898,6 +13888,16 @@
       "PID_伝承アイク",
       "PID_伝承ルキナ",
       "PID_伝承ルフレ女"
+    ]
+  },
+  {
+    "name": "Focus: Weekly Revival 98",
+    "start_time": "2025-02-09 07:00:00",
+    "end_time": "2025-11-30 06:59:59",
+    "unit_ids": [
+      "PID_グスタフ味方",
+      "PID_暴走レア",
+      "PID_闇リリス"
     ]
   },
   {
@@ -14061,13 +14061,13 @@
     ]
   },
   {
-    "name": "Focus: Weekly Revival 100",
+    "name": "Focus: Legendary Revival 2",
     "start_time": "2025-03-09 07:00:00",
-    "end_time": "2025-12-14 06:59:59",
+    "end_time": "2026-02-08 06:59:59",
     "unit_ids": [
-      "PID_セイン",
-      "PID_レティシア味方",
-      "PID_開花フロリーナ"
+      "PID_伝承アクア",
+      "PID_伝承リョウマ",
+      "PID_伝承リン"
     ]
   },
   {
@@ -14082,13 +14082,13 @@
     ]
   },
   {
-    "name": "Focus: Legendary Revival 2",
+    "name": "Focus: Weekly Revival 100",
     "start_time": "2025-03-09 07:00:00",
-    "end_time": "2026-02-08 06:59:59",
+    "end_time": "2025-12-14 06:59:59",
     "unit_ids": [
-      "PID_伝承アクア",
-      "PID_伝承リョウマ",
-      "PID_伝承リン"
+      "PID_セイン",
+      "PID_レティシア味方",
+      "PID_開花フロリーナ"
     ]
   },
   {
@@ -14209,17 +14209,6 @@
     ]
   },
   {
-    "name": "Focus: En Garde, Ready... 2",
-    "start_time": "2025-03-26 07:00:00",
-    "end_time": "2025-04-04 06:59:59",
-    "unit_ids": [
-      "PID_魔器イングリット",
-      "PID_魔器ガングレト味方",
-      "PID_魔器ターナ",
-      "PID_魔器闇クロム"
-    ]
-  },
-  {
     "name": "Focus: En Garde, Ready... 1",
     "start_time": "2025-03-26 07:00:00",
     "end_time": "2025-04-04 06:59:59",
@@ -14228,6 +14217,17 @@
       "PID_魔器アルフレッド",
       "PID_魔器オフェリア",
       "PID_魔器ルフレ女"
+    ]
+  },
+  {
+    "name": "Focus: En Garde, Ready... 2",
+    "start_time": "2025-03-26 07:00:00",
+    "end_time": "2025-04-04 06:59:59",
+    "unit_ids": [
+      "PID_魔器イングリット",
+      "PID_魔器ガングレト味方",
+      "PID_魔器ターナ",
+      "PID_魔器闇クロム"
     ]
   },
   {
@@ -14312,17 +14312,6 @@
     ]
   },
   {
-    "name": "New Heroes & Attuned Tiki",
-    "start_time": "2025-04-15 07:00:00",
-    "end_time": "2026-06-17 06:59:59",
-    "unit_ids": [
-      "PID_若年ガトー",
-      "PID_若年ナーガ",
-      "PID_若年メディウス",
-      "PID_響心若年チキ"
-    ]
-  },
-  {
     "name": "35th Anniv.: Guaranteed Leg. Hero",
     "start_time": "2025-04-15 07:00:00",
     "end_time": "2025-05-06 06:59:59",
@@ -14366,6 +14355,17 @@
     ]
   },
   {
+    "name": "New Heroes & Attuned Tiki",
+    "start_time": "2025-04-15 07:00:00",
+    "end_time": "2026-06-17 06:59:59",
+    "unit_ids": [
+      "PID_若年ガトー",
+      "PID_若年ナーガ",
+      "PID_若年メディウス",
+      "PID_響心若年チキ"
+    ]
+  },
+  {
     "name": "35th Anniv.: Rising Heroes Summon 1",
     "start_time": "2025-04-17 07:00:00",
     "end_time": "2025-05-06 06:59:59",
@@ -14385,16 +14385,6 @@
     ]
   },
   {
-    "name": "Focus: Weekly Revival 103",
-    "start_time": "2025-04-20 07:00:00",
-    "end_time": "2026-01-04 06:59:59",
-    "unit_ids": [
-      "PID_アウグスト",
-      "PID_アーサー",
-      "PID_ガルザス"
-    ]
-  },
-  {
     "name": "35th Anniv.: Rising Heroes Summon 2",
     "start_time": "2025-04-20 07:00:00",
     "end_time": "2025-05-06 06:59:59",
@@ -14411,6 +14401,16 @@
       "PID_紋章リン",
       "PID_響心シーダ",
       "PID_響心ミカヤ"
+    ]
+  },
+  {
+    "name": "Focus: Weekly Revival 103",
+    "start_time": "2025-04-20 07:00:00",
+    "end_time": "2026-01-04 06:59:59",
+    "unit_ids": [
+      "PID_アウグスト",
+      "PID_アーサー",
+      "PID_ガルザス"
     ]
   },
   {
@@ -14514,16 +14514,6 @@
     ]
   },
   {
-    "name": "Focus: Weekly Revival 107",
-    "start_time": "2025-05-05 07:00:00",
-    "end_time": "2026-02-01 06:59:59",
-    "unit_ids": [
-      "PID_催眠ニニアン",
-      "PID_暴走レア",
-      "PID_総選挙覚醒チキ"
-    ]
-  },
-  {
     "name": "Focus: Weekly Revival 106",
     "start_time": "2025-05-05 07:00:00",
     "end_time": "2026-01-25 06:59:59",
@@ -14531,6 +14521,16 @@
       "PID_グスタフ味方",
       "PID_開花イシュタル",
       "PID_開花セリカ"
+    ]
+  },
+  {
+    "name": "Focus: Weekly Revival 107",
+    "start_time": "2025-05-05 07:00:00",
+    "end_time": "2026-02-01 06:59:59",
+    "unit_ids": [
+      "PID_催眠ニニアン",
+      "PID_暴走レア",
+      "PID_総選挙覚醒チキ"
     ]
   },
   {
@@ -14576,21 +14576,6 @@
     ]
   },
   {
-    "name": "Legendary & Mythic Hero Remix 2 (May 2025)",
-    "start_time": "2025-05-12 07:00:00",
-    "end_time": "2025-05-26 06:59:59",
-    "unit_ids": [
-      "PID_セイズ",
-      "PID_ヴェロニカ2味方",
-      "PID_伝承クロード",
-      "PID_伝承ミカヤ",
-      "PID_伝承ミルラ",
-      "PID_神階ソティス",
-      "PID_響心ミスティラ",
-      "PID_魔器リリーナ"
-    ]
-  },
-  {
     "name": "Legendary & Mythic Hero Remix 1 (May 2025)",
     "start_time": "2025-05-12 07:00:00",
     "end_time": "2025-05-26 06:59:59",
@@ -14603,6 +14588,21 @@
       "PID_伝承リリーナ",
       "PID_神階メディウス",
       "PID_神階ラルヴァ"
+    ]
+  },
+  {
+    "name": "Legendary & Mythic Hero Remix 2 (May 2025)",
+    "start_time": "2025-05-12 07:00:00",
+    "end_time": "2025-05-26 06:59:59",
+    "unit_ids": [
+      "PID_セイズ",
+      "PID_ヴェロニカ2味方",
+      "PID_伝承クロード",
+      "PID_伝承ミカヤ",
+      "PID_伝承ミルラ",
+      "PID_神階ソティス",
+      "PID_響心ミスティラ",
+      "PID_魔器リリーナ"
     ]
   },
   {
@@ -14891,21 +14891,6 @@
     ]
   },
   {
-    "name": "Legendary & Mythic Hero Remix 2 (Jul 2025)",
-    "start_time": "2025-07-13 07:00:00",
-    "end_time": "2025-07-27 06:59:59",
-    "unit_ids": [
-      "PID_エンブラ味方",
-      "PID_スラシル味方",
-      "PID_ダグ味方",
-      "PID_ノート味方",
-      "PID_伝承ファ",
-      "PID_神階ドーマ",
-      "PID_神階ブラミモンド",
-      "PID_魔器マリアンヌ"
-    ]
-  },
-  {
     "name": "Legendary & Mythic Hero Remix 1 (Jul 2025)",
     "start_time": "2025-07-13 07:00:00",
     "end_time": "2025-07-27 06:59:59",
@@ -14918,6 +14903,21 @@
       "PID_神階アスタルテ",
       "PID_神階ウル",
       "PID_魔器シアチ味方"
+    ]
+  },
+  {
+    "name": "Legendary & Mythic Hero Remix 2 (Jul 2025)",
+    "start_time": "2025-07-13 07:00:00",
+    "end_time": "2025-07-27 06:59:59",
+    "unit_ids": [
+      "PID_エンブラ味方",
+      "PID_スラシル味方",
+      "PID_ダグ味方",
+      "PID_ノート味方",
+      "PID_伝承ファ",
+      "PID_神階ドーマ",
+      "PID_神階ブラミモンド",
+      "PID_魔器マリアンヌ"
     ]
   },
   {
@@ -15406,21 +15406,6 @@
     ]
   },
   {
-    "name": "Legendary & Mythic Hero Remix 2 (Oct 2025)",
-    "start_time": "2025-10-11 07:00:00",
-    "end_time": "2025-10-25 06:59:59",
-    "unit_ids": [
-      "PID_伝承ギネヴィア",
-      "PID_伝承クロム",
-      "PID_伝承シーダ",
-      "PID_伝承ニニアン",
-      "PID_神階エイル",
-      "PID_神階オルティナ",
-      "PID_神階ルピナス",
-      "PID_響心若年チキ"
-    ]
-  },
-  {
     "name": "Legendary & Mythic Hero Remix 1 (Oct 2025)",
     "start_time": "2025-10-11 07:00:00",
     "end_time": "2025-10-25 06:59:59",
@@ -15433,6 +15418,21 @@
       "PID_伝承ディアドラ",
       "PID_伝承ロイ",
       "PID_神階ラルヴァ"
+    ]
+  },
+  {
+    "name": "Legendary & Mythic Hero Remix 2 (Oct 2025)",
+    "start_time": "2025-10-11 07:00:00",
+    "end_time": "2025-10-25 06:59:59",
+    "unit_ids": [
+      "PID_伝承ギネヴィア",
+      "PID_伝承クロム",
+      "PID_伝承シーダ",
+      "PID_伝承ニニアン",
+      "PID_神階エイル",
+      "PID_神階オルティナ",
+      "PID_神階ルピナス",
+      "PID_響心若年チキ"
     ]
   },
   {
@@ -15608,6 +15608,16 @@
     ]
   },
   {
+    "name": "Focus: Muscles Don't Betray 1",
+    "start_time": "2025-11-16 07:00:00",
+    "end_time": "2025-11-23 06:59:59",
+    "unit_ids": [
+      "PID_エーティエ",
+      "PID_ダグ2味方",
+      "PID_魔器シアチ味方"
+    ]
+  },
+  {
     "name": "Focus: Muscles Don't Betray 2",
     "start_time": "2025-11-16 07:00:00",
     "end_time": "2025-11-23 06:59:59",
@@ -15626,16 +15636,6 @@
       "PID_クロエ",
       "PID_魔器オフェリア",
       "PID_魔器ガングレト味方"
-    ]
-  },
-  {
-    "name": "Focus: Muscles Don't Betray 1",
-    "start_time": "2025-11-16 07:00:00",
-    "end_time": "2025-11-23 06:59:59",
-    "unit_ids": [
-      "PID_エーティエ",
-      "PID_ダグ2味方",
-      "PID_魔器シアチ味方"
     ]
   },
   {
@@ -15906,6 +15906,17 @@
     ]
   },
   {
+    "name": "Mortal's New Year",
+    "start_time": "2026-01-01 07:00:00",
+    "end_time": "2026-02-01 06:59:59",
+    "unit_ids": [
+      "PID_年明ザガロ",
+      "PID_年明ヘイムダル",
+      "PID_年明ヴァーリ",
+      "PID_比翼バルドル"
+    ]
+  },
+  {
     "name": "New Year: ω Special Heroes 1 (2026)",
     "start_time": "2026-01-01 07:00:00",
     "end_time": "2026-02-01 06:59:59",
@@ -15918,17 +15929,6 @@
       "PID_年明フレスベルグ",
       "PID_比翼セイズ",
       "PID_比翼ヘイズルーン"
-    ]
-  },
-  {
-    "name": "Mortal's New Year",
-    "start_time": "2026-01-01 07:00:00",
-    "end_time": "2026-02-01 06:59:59",
-    "unit_ids": [
-      "PID_年明ザガロ",
-      "PID_年明ヘイムダル",
-      "PID_年明ヴァーリ",
-      "PID_比翼バルドル"
     ]
   },
   {
@@ -15954,21 +15954,6 @@
     ]
   },
   {
-    "name": "Legendary & Mythic Hero Remix 2 (Jan 2026)",
-    "start_time": "2026-01-12 07:00:00",
-    "end_time": "2026-01-26 06:59:59",
-    "unit_ids": [
-      "PID_ノート味方",
-      "PID_ヴェロニカ2味方",
-      "PID_伝承シグルド",
-      "PID_伝承セリカ",
-      "PID_伝承ベレト",
-      "PID_神階フォデス",
-      "PID_総選挙エイクス",
-      "PID_総選挙バルドル"
-    ]
-  },
-  {
     "name": "Legendary & Mythic Hero Remix 1 (Jan 2026)",
     "start_time": "2026-01-12 07:00:00",
     "end_time": "2026-01-26 06:59:59",
@@ -15981,6 +15966,21 @@
       "PID_神階ミラ",
       "PID_総選挙シャロン",
       "PID_総選挙ベレト"
+    ]
+  },
+  {
+    "name": "Legendary & Mythic Hero Remix 2 (Jan 2026)",
+    "start_time": "2026-01-12 07:00:00",
+    "end_time": "2026-01-26 06:59:59",
+    "unit_ids": [
+      "PID_ノート味方",
+      "PID_ヴェロニカ2味方",
+      "PID_伝承シグルド",
+      "PID_伝承セリカ",
+      "PID_伝承ベレト",
+      "PID_神階フォデス",
+      "PID_総選挙エイクス",
+      "PID_総選挙バルドル"
     ]
   },
   {
@@ -16080,6 +16080,25 @@
     ]
   },
   {
+    "name": "9th Anniv. \"12 Luminaries\" 1",
+    "start_time": "2026-02-02 07:00:00",
+    "end_time": "2026-02-11 06:59:59",
+    "unit_ids": [
+      "PID_ハロネルトゥス",
+      "PID_冬祭アルフレッド",
+      "PID_冬祭セイズ",
+      "PID_双界イングリット",
+      "PID_年明ザガロ",
+      "PID_年明ヘイムダル",
+      "PID_年明ヴァーリ",
+      "PID_忍者ユナカ",
+      "PID_比翼ハピ",
+      "PID_比翼バルドル",
+      "PID_水着ニノ",
+      "PID_水着ヘイズルーン"
+    ]
+  },
+  {
     "name": "Special Hero Summon (Year 9)",
     "start_time": "2026-02-02 07:00:00",
     "end_time": "2026-03-06 06:59:59",
@@ -16139,25 +16158,6 @@
     ]
   },
   {
-    "name": "9th Anniv. \"12 Luminaries\" 1",
-    "start_time": "2026-02-02 07:00:00",
-    "end_time": "2026-02-11 06:59:59",
-    "unit_ids": [
-      "PID_ハロネルトゥス",
-      "PID_冬祭アルフレッド",
-      "PID_冬祭セイズ",
-      "PID_双界イングリット",
-      "PID_年明ザガロ",
-      "PID_年明ヘイムダル",
-      "PID_年明ヴァーリ",
-      "PID_忍者ユナカ",
-      "PID_比翼ハピ",
-      "PID_比翼バルドル",
-      "PID_水着ニノ",
-      "PID_水着ヘイズルーン"
-    ]
-  },
-  {
     "name": "Focus: Tempest Trials (Floral Tea Party)",
     "start_time": "2026-02-04 07:00:00",
     "end_time": "2026-02-15 06:59:59",
@@ -16190,6 +16190,16 @@
     ]
   },
   {
+    "name": "Focus: Mythic Revival 1",
+    "start_time": "2026-02-08 07:00:00",
+    "end_time": "2026-03-08 06:59:59",
+    "unit_ids": [
+      "PID_神階ソティス",
+      "PID_神階ドーマ",
+      "PID_神階ナーガ"
+    ]
+  },
+  {
     "name": "Focus: Weekly Revival 118",
     "start_time": "2026-02-08 07:00:00",
     "end_time": "2026-06-28 06:59:59",
@@ -16212,16 +16222,6 @@
       "PID_神階ヘイズ",
       "PID_響心サーリャ",
       "PID_魔器ヒノカ"
-    ]
-  },
-  {
-    "name": "Focus: Mythic Revival 1",
-    "start_time": "2026-02-08 07:00:00",
-    "end_time": "2026-03-08 06:59:59",
-    "unit_ids": [
-      "PID_神階ソティス",
-      "PID_神階ドーマ",
-      "PID_神階ナーガ"
     ]
   },
   {
@@ -16642,16 +16642,6 @@
     ]
   },
   {
-    "name": "Focus: 3,333rd Day Anniv. 11",
-    "start_time": "2026-03-30 07:00:00",
-    "end_time": "2026-04-04 06:59:59",
-    "unit_ids": [
-      "PID_幼少カミラ",
-      "PID_響心リョウマ",
-      "PID_魔器ヒノカ"
-    ]
-  },
-  {
     "name": "Emblem Lucina: Of Awakening",
     "start_time": "2026-03-30 07:00:00",
     "end_time": "2026-04-17 06:59:59",
@@ -16668,6 +16658,16 @@
       "PID_獣人リン",
       "PID_紋章カムイ女",
       "PID_紋章ルキナ"
+    ]
+  },
+  {
+    "name": "Focus: 3,333rd Day Anniv. 11",
+    "start_time": "2026-03-30 07:00:00",
+    "end_time": "2026-04-04 06:59:59",
+    "unit_ids": [
+      "PID_幼少カミラ",
+      "PID_響心リョウマ",
+      "PID_魔器ヒノカ"
     ]
   },
   {
@@ -16828,6 +16828,16 @@
     ]
   },
   {
+    "name": "Focus: Farina & Fiora's Battle",
+    "start_time": "2026-04-29 07:00:00",
+    "end_time": "2026-05-08 06:59:59",
+    "unit_ids": [
+      "PID_ファリナ",
+      "PID_フィオーラ",
+      "PID_フロリーナ"
+    ]
+  },
+  {
     "name": "Focus: Polarity of Dragonkind 1",
     "start_time": "2026-04-29 07:00:00",
     "end_time": "2026-05-07 06:59:59",
@@ -16845,16 +16855,6 @@
       "PID_ムスペル味方",
       "PID_伝承リュール男",
       "PID_神階ドーマ"
-    ]
-  },
-  {
-    "name": "Focus: Farina & Fiora's Battle",
-    "start_time": "2026-04-29 07:00:00",
-    "end_time": "2026-05-08 06:59:59",
-    "unit_ids": [
-      "PID_ファリナ",
-      "PID_フィオーラ",
-      "PID_フロリーナ"
     ]
   },
   {
@@ -16934,21 +16934,6 @@
     ]
   },
   {
-    "name": "Legendary & Mythic Hero Remix 2 (May 2026)",
-    "start_time": "2026-05-13 07:00:00",
-    "end_time": "2026-05-27 06:59:59",
-    "unit_ids": [
-      "PID_フレイヤ味方",
-      "PID_フロージ味方",
-      "PID_伝承リリーナ",
-      "PID_神階アスタルテ",
-      "PID_神階ブラミモンド",
-      "PID_魔器セネリオ",
-      "PID_魔器マチュア",
-      "PID_魔器ヴァニタス味方"
-    ]
-  },
-  {
     "name": "Legendary & Mythic Hero Remix 1 (May 2026)",
     "start_time": "2026-05-13 07:00:00",
     "end_time": "2026-05-27 06:59:59",
@@ -16964,6 +16949,21 @@
     ]
   },
   {
+    "name": "Legendary & Mythic Hero Remix 2 (May 2026)",
+    "start_time": "2026-05-13 07:00:00",
+    "end_time": "2026-05-27 06:59:59",
+    "unit_ids": [
+      "PID_フレイヤ味方",
+      "PID_フロージ味方",
+      "PID_伝承リリーナ",
+      "PID_神階アスタルテ",
+      "PID_神階ブラミモンド",
+      "PID_魔器セネリオ",
+      "PID_魔器マチュア",
+      "PID_魔器ヴァニタス味方"
+    ]
+  },
+  {
     "name": "Focus: Heroes with Gust",
     "start_time": "2026-05-16 07:00:00",
     "end_time": "2026-06-06 06:59:59",
@@ -16974,16 +16974,6 @@
     ]
   },
   {
-    "name": "Focus: Weekly Revival 125",
-    "start_time": "2026-05-17 07:00:00",
-    "end_time": "2026-09-06 06:59:59",
-    "unit_ids": [
-      "PID_総選挙カムイ女",
-      "PID_総選挙ルフレ男",
-      "PID_魔器アイト味方"
-    ]
-  },
-  {
     "name": "Focus: Tempest Trials (Secret Whisper)",
     "start_time": "2026-05-17 07:00:00",
     "end_time": "2026-05-28 06:59:59",
@@ -16991,6 +16981,16 @@
       "PID_アシュ2味方",
       "PID_シャロン22025味方",
       "PID_メリアエ味方"
+    ]
+  },
+  {
+    "name": "Focus: Weekly Revival 125",
+    "start_time": "2026-05-17 07:00:00",
+    "end_time": "2026-09-06 06:59:59",
+    "unit_ids": [
+      "PID_総選挙カムイ女",
+      "PID_総選挙ルフレ男",
+      "PID_魔器アイト味方"
     ]
   },
   {
@@ -17508,6 +17508,36 @@
       "PID_スカビオサ2",
       "PID_ピアニー2味方",
       "PID_響心シーダ"
+    ]
+  },
+  {
+    "name": "Focus: Double Special Heroes (Aug 2026)",
+    "start_time": "2026-08-24 07:00:00",
+    "end_time": "2026-09-07 06:59:59",
+    "unit_ids": [
+      "PID_イリアワユ",
+      "PID_双界エイリーク",
+      "PID_年明ザガロ",
+      "PID_年明ヘイムダル",
+      "PID_幼少クロード",
+      "PID_愛の祭セリーヌ",
+      "PID_比翼ヴェイル",
+      "PID_魔器幼少イング"
+    ]
+  },
+  {
+    "name": "New Heroes Return",
+    "start_time": "2026-08-27 07:00:00",
+    "end_time": "2026-09-10 06:59:59",
+    "unit_ids": [
+      "PID_つながりニニアン",
+      "PID_アシュ2味方",
+      "PID_双界総選挙ヘクトル",
+      "PID_比翼エリンシア",
+      "PID_響心エリウッド",
+      "PID_響心リーフ",
+      "PID_魔器セネリオ",
+      "PID_魔器マチュア"
     ]
   },
   {
