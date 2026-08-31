@@ -31924,6 +31924,36 @@
     ]
   },
   {
+    "id": "SID_守魔信念・治癒",
+    "game8_id": "618044",
+    "fandom_id": "D/R Tenet Imbue",
+    "name": "D/R Tenet Imbue",
+    "category": "passivec",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c6/D_R_Tenet_Imbue.png/revision/latest?cb=20260831190539",
+    "sp": 300,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Infantry"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "All Melee",
+          "All Breath",
+          "All Beast"
+        ]
+      }
+    },
+    "addition_date": "2026-08-31",
+    "release_date": "2026-08-31",
+    "version": "10.8",
+    "downgrade_ids": [
+      "SID_守備魔防の信義3"
+    ]
+  },
+  {
     "id": "SID_盾の護り手・遠・双",
     "game8_id": "571456",
     "fandom_id": "D/R Twin F Save",
@@ -35874,6 +35904,7 @@
     "version": "4.0",
     "upgrade_ids": [
       "SID_守魔信念・弱化無効",
+      "SID_守魔信念・治癒",
       "SID_守備魔防の信義4",
       "SID_守備魔防の信条4"
     ],
@@ -38472,6 +38503,32 @@
     ]
   },
   {
+    "id": "SID_長距離ブレス",
+    "game8_id": "618043",
+    "fandom_id": "Distant Breath",
+    "name": "Distant Breath",
+    "category": "passiveb",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/9b/Distant_Breath.png/revision/latest?cb=20260831190529",
+    "sp": 400,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "All Breath"
+        ]
+      }
+    },
+    "addition_date": "2026-08-31",
+    "release_date": "2026-08-31",
+    "version": "10.8",
+    "downgrade_ids": [
+      "SID_竜の逆鱗3"
+    ]
+  },
+  {
     "id": "SID_遠距離反撃",
     "game8_id": "266180",
     "fandom_id": "Distant Counter",
@@ -40853,6 +40910,7 @@
     "release_date": "2020-10-08",
     "version": "4.10",
     "upgrade_ids": [
+      "SID_長距離ブレス",
       "SID_竜の逆鱗4",
       "SID_竜の堅鱗"
     ],
@@ -48670,6 +48728,7 @@
       "SID_暗黒地竜のブレス",
       "SID_透魔竜のブレス",
       "SID_神祖の恵み",
+      "SID_隠棲のブレス",
       "SID_精霊のブレス",
       "SID_星夜の魔術師の竜石",
       "SID_収穫の恵みの竜石",
@@ -54983,7 +55042,8 @@
       "SID_氷鋒",
       "SID_氷壁",
       "SID_鎮魂の舞",
-      "SID_鎮魂の願い"
+      "SID_鎮魂の願い",
+      "SID_宝杯の儀"
     ],
     "downgrade_ids": [
       "SID_氷点"
@@ -92094,6 +92154,23 @@
     ]
   },
   {
+    "id": "SID_宝杯の儀",
+    "game8_id": "618042",
+    "fandom_id": "Rite of Rising",
+    "name": "Rite of Rising",
+    "category": "special",
+    "is_prf": true,
+    "sp": 500,
+    "tier": 3,
+    "cd": 5,
+    "addition_date": "2026-08-31",
+    "release_date": "2026-08-31",
+    "version": "10.8",
+    "downgrade_ids": [
+      "SID_氷華"
+    ]
+  },
+  {
     "id": "SID_魂の秘儀",
     "game8_id": "394618",
     "fandom_id": "Rite of Souls",
@@ -102897,6 +102974,25 @@
     "addition_date": "2017-02-02",
     "release_date": "2017-02-02",
     "version": "1.0"
+  },
+  {
+    "id": "SID_隠棲のブレス",
+    "game8_id": "618041",
+    "fandom_id": "Solitary Breath",
+    "name": "Solitary Breath",
+    "category": "weapon",
+    "weapon_type": "All Breath",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "range": 1,
+    "might": 16,
+    "addition_date": "2026-08-31",
+    "release_date": "2026-08-31",
+    "version": "10.8",
+    "downgrade_ids": [
+      "SID_灼熱のブレス"
+    ]
   },
   {
     "id": "SID_ひとりぼっちのゆめ",

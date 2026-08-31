@@ -9861,5 +9861,12 @@
     "recommended_boon": "res",
     "recommended_bane": "spd",
     "recommended_plus10": null
+  },
+  {
+    "id": "PID_伝承レア",
+    "game8_rating": "9.5",
+    "recommended_boon": "def",
+    "recommended_bane": "hp",
+    "recommended_plus10": null
   }
 ]

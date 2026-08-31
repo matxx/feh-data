@@ -354,7 +354,7 @@
   {
     "name": "Ylissean Summer",
     "start_time": "2017-06-30 07:00:00",
-    "end_time": "2026-07-10 06:59:59",
+    "end_time": "2026-09-08 06:59:59",
     "unit_ids": [
       "PID_水着ガイア",
       "PID_水着チキ覚醒",
@@ -436,7 +436,7 @@
   {
     "name": "Nohrian Summer",
     "start_time": "2017-07-28 07:00:00",
-    "end_time": "2026-08-04 06:59:59",
+    "end_time": "2026-09-08 06:59:59",
     "unit_ids": [
       "PID_水着エリーゼ",
       "PID_水着カムイ女",
@@ -1444,7 +1444,7 @@
   {
     "name": "Summer's Arrival",
     "start_time": "2018-06-21 07:00:00",
-    "end_time": "2026-07-09 06:59:59",
+    "end_time": "2026-09-07 06:59:59",
     "unit_ids": [
       "PID_水着ターナ",
       "PID_水着ティアモ",
@@ -1515,7 +1515,7 @@
   {
     "name": "A Sketchy Summer",
     "start_time": "2018-07-10 07:00:00",
-    "end_time": "2026-08-02 06:59:59",
+    "end_time": "2026-09-07 06:59:59",
     "unit_ids": [
       "PID_水着カミラ",
       "PID_水着タクミ",
@@ -2815,7 +2815,7 @@
   {
     "name": "Summer Returns",
     "start_time": "2019-06-20 07:00:00",
-    "end_time": "2026-07-08 06:59:59",
+    "end_time": "2026-09-06 06:59:59",
     "unit_ids": [
       "PID_水着スリーズ",
       "PID_水着ヘルビンディ",
@@ -2937,7 +2937,7 @@
   {
     "name": "Summer Refreshes",
     "start_time": "2019-07-09 07:00:00",
-    "end_time": "2026-07-30 06:59:59",
+    "end_time": "2026-09-06 06:59:59",
     "unit_ids": [
       "PID_水着ウォルト",
       "PID_水着ウルスラ",
@@ -4451,7 +4451,7 @@
   {
     "name": "Summer Passing",
     "start_time": "2020-06-18 07:00:00",
-    "end_time": "2026-07-07 06:59:59",
+    "end_time": "2026-09-05 06:59:59",
     "unit_ids": [
       "PID_双界ワユ",
       "PID_水着セライナ",
@@ -4532,7 +4532,7 @@
   {
     "name": "Overseas Memories",
     "start_time": "2020-07-08 07:00:00",
-    "end_time": "2026-07-29 06:59:59",
+    "end_time": "2026-09-05 06:59:59",
     "unit_ids": [
       "PID_比翼ベレス",
       "PID_水着イングリット",
@@ -6324,7 +6324,7 @@
   {
     "name": "Summer Vibrance",
     "start_time": "2021-06-21 07:00:00",
-    "end_time": "2026-07-02 06:59:59",
+    "end_time": "2026-09-04 06:59:59",
     "unit_ids": [
       "PID_比翼ヒルダ",
       "PID_水着アッシュ",
@@ -6394,7 +6394,7 @@
   {
     "name": "Summer's Dream",
     "start_time": "2021-07-07 07:00:00",
-    "end_time": "2026-07-26 06:59:59",
+    "end_time": "2026-09-04 06:59:59",
     "unit_ids": [
       "PID_双界シーダ",
       "PID_水着オグマ",
@@ -6873,7 +6873,7 @@
   {
     "name": "Focus: Weekly Revival 37",
     "start_time": "2021-10-17 07:00:00",
-    "end_time": "2025-10-19 06:59:59",
+    "end_time": "2026-09-13 06:59:59",
     "unit_ids": [
       "PID_キヌ",
       "PID_フランネル",
@@ -8237,7 +8237,7 @@
   {
     "name": "Summer Vacation",
     "start_time": "2022-06-17 07:00:00",
-    "end_time": "2026-07-01 06:59:59",
+    "end_time": "2026-09-03 06:59:59",
     "unit_ids": [
       "PID_双界エーデルガルト",
       "PID_水着クロード",
@@ -8392,7 +8392,7 @@
   {
     "name": "Taken by the Tide",
     "start_time": "2022-07-07 07:00:00",
-    "end_time": "2026-07-25 06:59:59",
+    "end_time": "2026-09-03 06:59:59",
     "unit_ids": [
       "PID_比翼トール",
       "PID_水着エイリーク",
@@ -11035,7 +11035,7 @@
   {
     "name": "Focus: Weekly Revival 80",
     "start_time": "2023-11-05 07:00:00",
-    "end_time": "2025-07-27 06:59:59",
+    "end_time": "2026-09-13 06:59:59",
     "unit_ids": [
       "PID_アゼル",
       "PID_ギネヴィア",
@@ -17541,12 +17541,53 @@
     ]
   },
   {
+    "name": "Focus: Heroes Aglow",
+    "start_time": "2026-08-28 07:00:00",
+    "end_time": "2026-09-08 06:59:59",
+    "unit_ids": [
+      "PID_総選挙エイクス",
+      "PID_総選挙シャロン",
+      "PID_総選挙バルドル",
+      "PID_総選挙ベレト"
+    ]
+  },
+  {
     "name": "Focus: Nel & Rafal's Battle",
     "start_time": "2026-08-30 07:00:00",
     "end_time": "2026-09-09 06:59:59",
     "unit_ids": [
+      "PID_セレスティア",
       "PID_ラファール",
       "PID_魔器エル"
+    ]
+  },
+  {
+    "name": "Legendary Heroes - Rhea",
+    "start_time": "2026-08-31 07:00:00",
+    "end_time": "2026-09-18 06:59:59",
+    "unit_ids": [
+      "PID_エルム味方",
+      "PID_ヨルムンガンド味方",
+      "PID_伝承エリーゼ",
+      "PID_伝承レア",
+      "PID_救世フィヨルム",
+      "PID_比翼アシュ",
+      "PID_紋章エーデル",
+      "PID_紋章ベレト",
+      "PID_花嫁ピアニー",
+      "PID_闇ベレト",
+      "PID_魔器花嫁レギン",
+      "PID_魔器闇エルフ"
+    ]
+  },
+  {
+    "name": "Focus: Weekly Revival 131",
+    "start_time": "2026-09-06 07:00:00",
+    "end_time": "2026-09-13 06:59:59",
+    "unit_ids": [
+      "PID_開花アメリア",
+      "PID_魔器サザ",
+      "PID_魔器ルキナ"
     ]
   }
 ]

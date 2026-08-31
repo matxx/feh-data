@@ -32904,6 +32904,37 @@
     "skills_max_sp": 2600
   },
   {
+    "id": "PID_伝承レア",
+    "fandom_id": "Rhea: The Final Child",
+    "name": "Rhea",
+    "title": "The Final Child",
+    "full_name": "Rhea: The Final Child",
+    "abbreviated_name": "L!Rhea",
+    "gender": "F",
+    "move_type": "Infantry",
+    "weapon_type": "Blue Breath",
+    "games": [
+      "Fire Emblem: Three Houses"
+    ],
+    "id_int": 1410,
+    "origin": "120000100500",
+    "book": 10,
+    "max_df": 5,
+    "is_legendary": true,
+    "element": "Wind",
+    "addition_date": "2026-08-31",
+    "release_date": "2026-08-31",
+    "version": "10.8",
+    "game8_id": "618045",
+    "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/05/Rhea_The_Final_Child_Face_FC.webp/revision/latest?cb=20260831064407",
+    "image_url_for_icon_legendary": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/3d/Legendary_Effect_Wind.png/revision/latest?cb=20260330030652",
+    "bst": 210,
+    "duel_score": 220,
+    "visible_bst": 220,
+    "max_score": 776,
+    "skills_max_sp": 2600
+  },
+  {
     "id": "PID_ハロレア",
     "fandom_id": "Rhea: Witch of Creation",
     "name": "Rhea",

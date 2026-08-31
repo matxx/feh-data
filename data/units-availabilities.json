@@ -38878,6 +38878,41 @@
     ]
   },
   {
+    "id": "PID_伝承レア",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "lowest_rarity": {
+      "foc": 5
+    },
+    "skill_ids": [
+      "SID_守備魔防の信義1",
+      "SID_守備魔防の信義2",
+      "SID_守備魔防の信義3",
+      "SID_守魔信念・治癒",
+      "SID_宝杯の儀",
+      "SID_攻守魔の竜尾",
+      "SID_攻撃魔防の竜眼1",
+      "SID_攻撃魔防の竜眼2",
+      "SID_攻撃魔防の竜眼3",
+      "SID_氷点",
+      "SID_氷華",
+      "SID_火のブレス",
+      "SID_火炎のブレス",
+      "SID_灼熱のブレス",
+      "SID_竜の逆鱗1",
+      "SID_竜の逆鱗2",
+      "SID_竜の逆鱗3",
+      "SID_長距離ブレス",
+      "SID_隠棲のブレス"
+    ]
+  },
+  {
     "id": "PID_ハロレア",
     "is_in": {
       "gsp": false,

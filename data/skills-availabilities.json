@@ -1259,6 +1259,7 @@
   {
     "id": "SID_攻守魔の竜尾",
     "owner_ids": [
+      "PID_伝承レア",
       "PID_神階ソンブル"
     ],
     "required_slots": {
@@ -21995,6 +21996,7 @@
       "PID_若年ナーガ",
       "PID_双界ナギ",
       "PID_レア",
+      "PID_伝承レア",
       "PID_神階セイロス"
     ],
     "required_slots": {
@@ -22042,6 +22044,7 @@
       "PID_若年ナーガ",
       "PID_双界ナギ",
       "PID_レア",
+      "PID_伝承レア",
       "PID_神階セイロス"
     ],
     "required_slots": {
@@ -22089,6 +22092,7 @@
       "PID_若年ナーガ",
       "PID_双界ナギ",
       "PID_レア",
+      "PID_伝承レア",
       "PID_神階セイロス"
     ],
     "required_slots": {
@@ -51984,6 +51988,7 @@
       "PID_魔器ヌイババ",
       "PID_フィレイン",
       "PID_比翼レア",
+      "PID_伝承レア",
       "PID_ハロレア",
       "PID_アーヴ",
       "PID_愛の祭ルフレ女",
@@ -57966,6 +57971,35 @@
     },
     "olrwo": {
       "ssp": 5
+    }
+  },
+  {
+    "id": "SID_守魔信念・治癒",
+    "owner_ids": [
+      "PID_伝承レア"
+    ],
+    "required_slots": {
+      "g4": 4,
+      "hg": 4,
+      "hg4": 4,
+      "hg5": 4,
+      "dc": 1,
+      "sh4": 4,
+      "gsr": 1,
+      "shsr": 1,
+      "g5": 4,
+      "sh5": 4
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "olrwo": {
+      "foc": 5
     }
   },
   {
@@ -65337,7 +65371,8 @@
       "PID_比翼アルフォンス",
       "PID_響心シーダ",
       "PID_運動着アイク",
-      "PID_闇ネルガル"
+      "PID_闇ネルガル",
+      "PID_伝承レア"
     ],
     "required_slots": {
       "g4": 1,
@@ -65381,7 +65416,8 @@
       "PID_比翼アルフォンス",
       "PID_響心シーダ",
       "PID_運動着アイク",
-      "PID_闇ネルガル"
+      "PID_闇ネルガル",
+      "PID_伝承レア"
     ],
     "required_slots": {
       "g4": 2,
@@ -65425,7 +65461,8 @@
       "PID_比翼アルフォンス",
       "PID_響心シーダ",
       "PID_運動着アイク",
-      "PID_闇ネルガル"
+      "PID_闇ネルガル",
+      "PID_伝承レア"
     ],
     "required_slots": {
       "g4": 3,
@@ -69993,6 +70030,35 @@
           "cost": 300
         }
       ]
+    }
+  },
+  {
+    "id": "SID_長距離ブレス",
+    "owner_ids": [
+      "PID_伝承レア"
+    ],
+    "required_slots": {
+      "g4": 4,
+      "hg": 1,
+      "hg4": 1,
+      "hg5": 4,
+      "dc": 1,
+      "sh4": 4,
+      "gsr": 4,
+      "shsr": 1,
+      "g5": 1,
+      "sh5": 4
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "olrwo": {
+      "foc": 5
     }
   },
   {
@@ -74958,6 +75024,7 @@
       "PID_双界ミルラ",
       "PID_双界ナギ",
       "PID_ハロンン",
+      "PID_伝承レア",
       "PID_ハロルフレ女"
     ],
     "required_slots": {
@@ -75028,6 +75095,7 @@
       "PID_双界ミルラ",
       "PID_双界ナギ",
       "PID_ハロンン",
+      "PID_伝承レア",
       "PID_ハロルフレ女"
     ],
     "required_slots": {
@@ -75098,6 +75166,7 @@
       "PID_双界ミルラ",
       "PID_双界ナギ",
       "PID_ハロンン",
+      "PID_伝承レア",
       "PID_ハロルフレ女"
     ],
     "required_slots": {
@@ -88743,6 +88812,7 @@
       "PID_比翼レア",
       "PID_暴走レア",
       "PID_レア",
+      "PID_伝承レア",
       "PID_ハロレア",
       "PID_ハロルフレ男",
       "PID_ハロルフレ女",
@@ -89094,6 +89164,7 @@
       "PID_比翼レア",
       "PID_暴走レア",
       "PID_レア",
+      "PID_伝承レア",
       "PID_ハロレア",
       "PID_ハロルフレ男",
       "PID_ハロルフレ女",
@@ -91034,6 +91105,7 @@
       "PID_比翼レア",
       "PID_暴走レア",
       "PID_レア",
+      "PID_伝承レア",
       "PID_ハロレア",
       "PID_ハロルフレ男",
       "PID_ハロルフレ女",
@@ -101852,6 +101924,7 @@
       "PID_双界総選挙ミカヤ",
       "PID_闇ネルガル",
       "PID_ノーマ",
+      "PID_伝承レア",
       "PID_アーヴ",
       "PID_ロドリグ",
       "PID_サイアス",
@@ -174620,6 +174693,35 @@
     }
   },
   {
+    "id": "SID_宝杯の儀",
+    "owner_ids": [
+      "PID_伝承レア"
+    ],
+    "required_slots": {
+      "g4": 1,
+      "hg": 1,
+      "hg4": 1,
+      "hg5": 3,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 3,
+      "shsr": 3,
+      "g5": 3,
+      "sh5": 3
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "olrwo": {
+      "foc": 5
+    }
+  },
+  {
     "id": "SID_魂の秘儀",
     "owner_ids": [
       "PID_神階ラルヴァ"
@@ -193619,6 +193721,35 @@
           "cost": 100
         }
       ]
+    }
+  },
+  {
+    "id": "SID_隠棲のブレス",
+    "owner_ids": [
+      "PID_伝承レア"
+    ],
+    "required_slots": {
+      "g4": 1,
+      "hg": 1,
+      "hg4": 1,
+      "hg5": 4,
+      "dc": 1,
+      "sh4": 2,
+      "gsr": 4,
+      "shsr": 1,
+      "g5": 4,
+      "sh5": 4
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "olrwo": {
+      "foc": 5
     }
   },
   {
