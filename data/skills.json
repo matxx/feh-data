@@ -154,9 +154,9 @@
       },
       "weapons": {
         "can_use": [
-          "All Tome",
           "All Bow",
-          "All Dagger"
+          "All Dagger",
+          "All Tome"
         ]
       }
     },
@@ -890,9 +890,9 @@
       },
       "weapons": {
         "can_use": [
-          "All Tome",
           "All Bow",
-          "All Dagger"
+          "All Dagger",
+          "All Tome"
         ]
       }
     },
@@ -921,8 +921,8 @@
       },
       "weapons": {
         "can_use": [
-          "Colorless Staff",
-          "All Tome"
+          "All Tome",
+          "Colorless Staff"
         ]
       }
     },
@@ -2220,9 +2220,9 @@
       },
       "weapons": {
         "can_not_use": [
-          "Colorless Staff",
           "All Tome",
-          "All Breath"
+          "All Breath",
+          "Colorless Staff"
         ]
       }
     },
@@ -7387,9 +7387,9 @@
       },
       "weapons": {
         "can_not_use": [
+          "Colorless",
           "All Tome",
-          "All Breath",
-          "Colorless"
+          "All Breath"
         ]
       }
     },
@@ -7415,9 +7415,9 @@
       },
       "weapons": {
         "can_not_use": [
+          "Colorless",
           "All Tome",
-          "All Breath",
-          "Colorless"
+          "All Breath"
         ]
       }
     },
@@ -7446,9 +7446,9 @@
       },
       "weapons": {
         "can_not_use": [
+          "Colorless",
           "All Tome",
-          "All Breath",
-          "Colorless"
+          "All Breath"
         ]
       }
     },
@@ -7477,9 +7477,9 @@
       },
       "weapons": {
         "can_not_use": [
+          "Colorless",
           "All Tome",
-          "All Breath",
-          "Colorless"
+          "All Breath"
         ]
       }
     },
@@ -7750,9 +7750,9 @@
       },
       "weapons": {
         "can_not_use": [
-          "Colorless Staff",
           "All Tome",
-          "All Breath"
+          "All Breath",
+          "Colorless Staff"
         ]
       }
     },
@@ -10080,9 +10080,9 @@
       },
       "weapons": {
         "can_not_use": [
-          "Colorless Staff",
           "All Tome",
-          "All Breath"
+          "All Breath",
+          "Colorless Staff"
         ]
       }
     },
@@ -10108,9 +10108,9 @@
       },
       "weapons": {
         "can_not_use": [
-          "Colorless Staff",
           "All Tome",
-          "All Breath"
+          "All Breath",
+          "Colorless Staff"
         ]
       }
     },
@@ -10139,9 +10139,9 @@
       },
       "weapons": {
         "can_not_use": [
-          "Colorless Staff",
           "All Tome",
-          "All Breath"
+          "All Breath",
+          "Colorless Staff"
         ]
       }
     },
@@ -10171,9 +10171,9 @@
       },
       "weapons": {
         "can_not_use": [
-          "Colorless Staff",
           "All Tome",
-          "All Breath"
+          "All Breath",
+          "Colorless Staff"
         ]
       }
     },
@@ -10968,8 +10968,8 @@
       },
       "weapons": {
         "can_use": [
-          "Colorless Staff",
-          "All Tome"
+          "All Tome",
+          "Colorless Staff"
         ]
       }
     },
@@ -12940,8 +12940,8 @@
       },
       "weapons": {
         "can_use": [
-          "Colorless Staff",
-          "All Tome"
+          "All Tome",
+          "Colorless Staff"
         ]
       }
     },
@@ -14381,9 +14381,9 @@
       },
       "weapons": {
         "can_not_use": [
-          "Colorless Staff",
           "All Tome",
-          "All Breath"
+          "All Breath",
+          "Colorless Staff"
         ]
       }
     },
@@ -14409,9 +14409,9 @@
       },
       "weapons": {
         "can_not_use": [
-          "Colorless Staff",
           "All Tome",
-          "All Breath"
+          "All Breath",
+          "Colorless Staff"
         ]
       }
     },
@@ -14440,9 +14440,9 @@
       },
       "weapons": {
         "can_not_use": [
-          "Colorless Staff",
           "All Tome",
-          "All Breath"
+          "All Breath",
+          "Colorless Staff"
         ]
       }
     },
@@ -14471,9 +14471,9 @@
       },
       "weapons": {
         "can_not_use": [
-          "Colorless Staff",
           "All Tome",
-          "All Breath"
+          "All Breath",
+          "Colorless Staff"
         ]
       }
     },
@@ -26335,8 +26335,13 @@
         "none": true
       },
       "weapons": {
-        "can_not_use": [
-          "Colorless Staff"
+        "can_use": [
+          "All Melee",
+          "All Breath",
+          "All Beast",
+          "Colorless Bow",
+          "Colorless Dagger",
+          "Colorless Tome"
         ]
       }
     },
@@ -26361,8 +26366,13 @@
         "none": true
       },
       "weapons": {
-        "can_not_use": [
-          "Colorless Staff"
+        "can_use": [
+          "All Melee",
+          "All Breath",
+          "All Beast",
+          "Colorless Bow",
+          "Colorless Dagger",
+          "Colorless Tome"
         ]
       }
     },
@@ -26390,8 +26400,13 @@
         "none": true
       },
       "weapons": {
-        "can_not_use": [
-          "Colorless Staff"
+        "can_use": [
+          "All Melee",
+          "All Breath",
+          "All Beast",
+          "Colorless Bow",
+          "Colorless Dagger",
+          "Colorless Tome"
         ]
       }
     },
@@ -26745,9 +26760,9 @@
       },
       "weapons": {
         "can_use": [
-          "Colorless Staff",
           "All Tome",
-          "All Breath"
+          "All Breath",
+          "Colorless Staff"
         ]
       }
     },
@@ -34937,8 +34952,8 @@
       },
       "weapons": {
         "can_use": [
-          "Colorless Staff",
-          "All Tome"
+          "All Tome",
+          "Colorless Staff"
         ]
       }
     },
@@ -45210,9 +45225,9 @@
       },
       "weapons": {
         "can_not_use": [
-          "Colorless Staff",
           "All Tome",
-          "All Breath"
+          "All Breath",
+          "Colorless Staff"
         ]
       }
     },
@@ -49220,9 +49235,9 @@
       },
       "weapons": {
         "can_use": [
-          "All Tome",
           "All Bow",
-          "All Dagger"
+          "All Dagger",
+          "All Tome"
         ]
       }
     },
@@ -73071,9 +73086,9 @@
       },
       "weapons": {
         "can_use": [
-          "Colorless Staff",
           "All Tome",
-          "All Breath"
+          "All Breath",
+          "Colorless Staff"
         ]
       }
     },
@@ -82458,9 +82473,9 @@
       },
       "weapons": {
         "can_not_use": [
-          "Colorless Staff",
           "All Tome",
-          "All Breath"
+          "All Breath",
+          "Colorless Staff"
         ]
       }
     },
@@ -89442,9 +89457,9 @@
       },
       "weapons": {
         "can_use": [
-          "All Tome",
           "All Bow",
-          "All Dagger"
+          "All Dagger",
+          "All Tome"
         ]
       }
     },
@@ -89470,9 +89485,9 @@
       },
       "weapons": {
         "can_use": [
-          "All Tome",
           "All Bow",
-          "All Dagger"
+          "All Dagger",
+          "All Tome"
         ]
       }
     },
@@ -89498,9 +89513,9 @@
       },
       "weapons": {
         "can_use": [
-          "All Tome",
           "All Bow",
-          "All Dagger"
+          "All Dagger",
+          "All Tome"
         ]
       }
     },
@@ -90826,8 +90841,8 @@
       },
       "weapons": {
         "can_use": [
-          "Colorless Staff",
-          "All Tome"
+          "All Tome",
+          "Colorless Staff"
         ]
       }
     },
@@ -90853,8 +90868,8 @@
       },
       "weapons": {
         "can_use": [
-          "Colorless Staff",
-          "All Tome"
+          "All Tome",
+          "Colorless Staff"
         ]
       }
     },
@@ -90883,8 +90898,8 @@
       },
       "weapons": {
         "can_use": [
-          "Colorless Staff",
-          "All Tome"
+          "All Tome",
+          "Colorless Staff"
         ]
       }
     },
@@ -90915,8 +90930,8 @@
       },
       "weapons": {
         "can_use": [
-          "Colorless Staff",
-          "All Tome"
+          "All Tome",
+          "Colorless Staff"
         ]
       }
     },
@@ -93357,9 +93372,9 @@
       },
       "weapons": {
         "can_not_use": [
-          "Colorless Staff",
           "All Breath",
-          "All Beast"
+          "All Beast",
+          "Colorless Staff"
         ]
       }
     },
@@ -93428,9 +93443,9 @@
       },
       "weapons": {
         "can_use": [
-          "All Tome",
           "All Bow",
-          "All Dagger"
+          "All Dagger",
+          "All Tome"
         ]
       }
     },
@@ -93915,9 +93930,9 @@
       },
       "weapons": {
         "can_use": [
-          "All Tome",
           "All Bow",
-          "All Dagger"
+          "All Dagger",
+          "All Tome"
         ]
       }
     },
@@ -93946,8 +93961,8 @@
       },
       "weapons": {
         "can_use": [
-          "Colorless Staff",
-          "All Tome"
+          "All Tome",
+          "Colorless Staff"
         ]
       }
     },
@@ -99725,8 +99740,8 @@
       },
       "weapons": {
         "can_use": [
-          "Colorless Staff",
-          "All Tome"
+          "All Tome",
+          "Colorless Staff"
         ]
       }
     },
@@ -99754,8 +99769,8 @@
       },
       "weapons": {
         "can_use": [
-          "Colorless Staff",
-          "All Tome"
+          "All Tome",
+          "Colorless Staff"
         ]
       }
     },
@@ -99786,8 +99801,8 @@
       },
       "weapons": {
         "can_use": [
-          "Colorless Staff",
-          "All Tome"
+          "All Tome",
+          "Colorless Staff"
         ]
       }
     },
@@ -99818,8 +99833,8 @@
       },
       "weapons": {
         "can_use": [
-          "Colorless Staff",
-          "All Tome"
+          "All Tome",
+          "Colorless Staff"
         ]
       }
     },
@@ -105218,9 +105233,9 @@
       },
       "weapons": {
         "can_not_use": [
-          "Colorless Staff",
           "All Tome",
-          "All Breath"
+          "All Breath",
+          "Colorless Staff"
         ]
       }
     },
@@ -105246,9 +105261,9 @@
       },
       "weapons": {
         "can_not_use": [
-          "Colorless Staff",
           "All Tome",
-          "All Breath"
+          "All Breath",
+          "Colorless Staff"
         ]
       }
     },
@@ -105277,9 +105292,9 @@
       },
       "weapons": {
         "can_not_use": [
-          "Colorless Staff",
           "All Tome",
-          "All Breath"
+          "All Breath",
+          "Colorless Staff"
         ]
       }
     },
@@ -105308,9 +105323,9 @@
       },
       "weapons": {
         "can_not_use": [
-          "Colorless Staff",
           "All Tome",
-          "All Breath"
+          "All Breath",
+          "Colorless Staff"
         ]
       }
     },
@@ -108245,9 +108260,9 @@
       },
       "weapons": {
         "can_not_use": [
-          "Colorless Staff",
           "All Tome",
-          "All Breath"
+          "All Breath",
+          "Colorless Staff"
         ]
       }
     },
@@ -108276,9 +108291,9 @@
       },
       "weapons": {
         "can_not_use": [
-          "Colorless Staff",
           "All Tome",
-          "All Breath"
+          "All Breath",
+          "Colorless Staff"
         ]
       }
     },
@@ -108310,9 +108325,9 @@
       },
       "weapons": {
         "can_not_use": [
-          "Colorless Staff",
           "All Tome",
-          "All Breath"
+          "All Breath",
+          "Colorless Staff"
         ]
       }
     },
@@ -108345,9 +108360,9 @@
       },
       "weapons": {
         "can_not_use": [
-          "Colorless Staff",
           "All Tome",
-          "All Breath"
+          "All Breath",
+          "Colorless Staff"
         ]
       }
     },
@@ -123827,9 +123842,9 @@
       },
       "weapons": {
         "can_not_use": [
-          "Colorless Staff",
           "All Tome",
-          "All Breath"
+          "All Breath",
+          "Colorless Staff"
         ]
       }
     },
@@ -127411,8 +127426,8 @@
       },
       "weapons": {
         "can_use": [
-          "Colorless Staff",
-          "All Tome"
+          "All Tome",
+          "Colorless Staff"
         ]
       }
     }
@@ -135429,9 +135444,9 @@
       },
       "weapons": {
         "can_not_use": [
-          "Colorless Staff",
           "All Tome",
-          "All Breath"
+          "All Breath",
+          "Colorless Staff"
         ]
       }
     },
@@ -135453,9 +135468,9 @@
       },
       "weapons": {
         "can_not_use": [
-          "Colorless Staff",
           "All Tome",
-          "All Breath"
+          "All Breath",
+          "Colorless Staff"
         ]
       }
     },
@@ -135481,9 +135496,9 @@
       },
       "weapons": {
         "can_not_use": [
-          "Colorless Staff",
           "All Tome",
-          "All Breath"
+          "All Breath",
+          "Colorless Staff"
         ]
       }
     },
@@ -137077,9 +137092,9 @@
       },
       "weapons": {
         "can_not_use": [
-          "Colorless Staff",
           "All Tome",
-          "All Breath"
+          "All Breath",
+          "Colorless Staff"
         ]
       }
     },
@@ -137101,9 +137116,9 @@
       },
       "weapons": {
         "can_not_use": [
-          "Colorless Staff",
           "All Tome",
-          "All Breath"
+          "All Breath",
+          "Colorless Staff"
         ]
       }
     },
@@ -137129,9 +137144,9 @@
       },
       "weapons": {
         "can_not_use": [
-          "Colorless Staff",
           "All Tome",
-          "All Breath"
+          "All Breath",
+          "Colorless Staff"
         ]
       }
     },
@@ -145744,8 +145759,8 @@
       },
       "weapons": {
         "can_use": [
-          "Colorless Staff",
-          "All Tome"
+          "All Tome",
+          "Colorless Staff"
         ]
       }
     },
@@ -145767,8 +145782,8 @@
       },
       "weapons": {
         "can_use": [
-          "Colorless Staff",
-          "All Tome"
+          "All Tome",
+          "Colorless Staff"
         ]
       }
     },
@@ -145793,8 +145808,8 @@
       },
       "weapons": {
         "can_use": [
-          "Colorless Staff",
-          "All Tome"
+          "All Tome",
+          "Colorless Staff"
         ]
       }
     },
@@ -147685,9 +147700,9 @@
       },
       "weapons": {
         "can_not_use": [
-          "Colorless Staff",
           "All Tome",
-          "All Breath"
+          "All Breath",
+          "Colorless Staff"
         ]
       }
     },
@@ -147709,9 +147724,9 @@
       },
       "weapons": {
         "can_not_use": [
-          "Colorless Staff",
           "All Tome",
-          "All Breath"
+          "All Breath",
+          "Colorless Staff"
         ]
       }
     },
@@ -147737,9 +147752,9 @@
       },
       "weapons": {
         "can_not_use": [
-          "Colorless Staff",
           "All Tome",
-          "All Breath"
+          "All Breath",
+          "Colorless Staff"
         ]
       }
     },
