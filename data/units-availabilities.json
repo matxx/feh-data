@@ -5265,6 +5265,38 @@
     ]
   },
   {
+    "id": "PID_つながりカイ",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "lowest_rarity": {
+      "foc": 5
+    },
+    "skill_ids": [
+      "SID_リベイラ村の槍",
+      "SID_伏竜",
+      "SID_助走1",
+      "SID_助走2",
+      "SID_助走3",
+      "SID_助走・青への分断",
+      "SID_攻撃速さの激突1",
+      "SID_攻撃速さの激突2",
+      "SID_攻撃速さの激突3",
+      "SID_攻速突破・対抗",
+      "SID_活発",
+      "SID_竜穿",
+      "SID_角逐",
+      "SID_鉄の槍",
+      "SID_銀の槍",
+      "SID_鋼の槍"
+    ]
+  },
+  {
     "id": "PID_カイン",
     "is_in": {
       "gsp": true,
@@ -7815,11 +7847,12 @@
       "ssp": true,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "lowest_rarity": {
-      "ssp": 5
+      "ssp": 5,
+      "ldc": 5
     },
     "skill_ids": [
       "SID_影月",
@@ -7838,7 +7871,17 @@
       "SID_銀の暗器",
       "SID_鋼の暗器",
       "SID_風車"
-    ]
+    ],
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 5,
+          "cost": 300
+        }
+      ]
+    }
   },
   {
     "id": "PID_伝承クロード",
@@ -8662,11 +8705,12 @@
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "lowest_rarity": {
-      "gsp": 3
+      "gsp": 3,
+      "ldc": 4
     },
     "skill_ids": [
       "SID_伏竜",
@@ -8681,7 +8725,17 @@
       "SID_鉄の剣",
       "SID_銀の剣",
       "SID_鋼の剣"
-    ]
+    ],
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "PID_カムイ女",
@@ -9793,6 +9847,38 @@
       "SID_鉄の斧",
       "SID_銀の斧",
       "SID_鋼の斧"
+    ]
+  },
+  {
+    "id": "PID_風光ディートリヒ",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "lowest_rarity": {
+      "foc": 5
+    },
+    "skill_ids": [
+      "SID_ブレイクラッシュ",
+      "SID_助走1",
+      "SID_助走2",
+      "SID_助走3",
+      "SID_助走・赤への分断",
+      "SID_影渡り",
+      "SID_攻撃速さの万全1",
+      "SID_攻撃速さの万全2",
+      "SID_攻撃速さの万全3",
+      "SID_攻速無欠・鬼没",
+      "SID_華炎",
+      "SID_蛍火",
+      "SID_鉄の剣",
+      "SID_銀の剣",
+      "SID_鋼の剣",
+      "SID_魔剣アンスウェラー"
     ]
   },
   {
@@ -12317,7 +12403,9 @@
     },
     "skill_ids": [
       "SID_クリミアの心",
+      "SID_クリミアの心・承",
       "SID_伏竜",
+      "SID_天舞い立つ",
       "SID_攻撃速さの激突1",
       "SID_攻撃速さの激突2",
       "SID_攻撃速さの激突3",
@@ -12328,6 +12416,9 @@
       "SID_空からの急襲3",
       "SID_空からの猛襲4",
       "SID_竜穿",
+      "SID_編隊飛行1",
+      "SID_編隊飛行2",
+      "SID_編隊飛行3",
       "SID_鉄の剣",
       "SID_銀の剣",
       "SID_鋼の剣"
@@ -14077,12 +14168,13 @@
       "ssp": true,
       "hg": false,
       "dc": true,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "lowest_rarity": {
       "ssp": 5,
-      "dc": 5
+      "dc": 5,
+      "ldc": 5
     },
     "skill_ids": [
       "SID_影月",
@@ -14110,6 +14202,14 @@
           "number": 6,
           "title": "Fates / Three Houses",
           "cost": 1200
+        }
+      ],
+      "limited": [
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 5,
+          "cost": 300
         }
       ]
     }
@@ -17912,11 +18012,12 @@
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "lowest_rarity": {
-      "gsp": 3
+      "gsp": 3,
+      "ldc": 4
     },
     "skill_ids": [
       "SID_アーマーキラー",
@@ -17931,7 +18032,17 @@
       "SID_進軍阻止3",
       "SID_鉄の剣",
       "SID_鋼の剣"
-    ]
+    ],
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "PID_愛の祭カザハナ",
@@ -19749,11 +19860,12 @@
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "lowest_rarity": {
-      "gsp": 3
+      "gsp": 3,
+      "ldc": 4
     },
     "skill_ids": [
       "SID_エルサンダー",
@@ -19767,7 +19879,17 @@
       "SID_速さ魔防の信義3",
       "SID_速さ魔防の封印1",
       "SID_速さ魔防の封印2"
-    ]
+    ],
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
   },
   {
     "id": "PID_愛の祭オルテンシア",
@@ -21701,13 +21823,14 @@
     "is_in": {
       "gsp": false,
       "ssp": true,
-      "hg": false,
+      "hg": true,
       "dc": true,
       "ldc": false,
       "foc": false
     },
     "lowest_rarity": {
       "ssp": 5,
+      "hg": 5,
       "dc": 5
     },
     "skill_ids": [
@@ -25368,6 +25491,43 @@
         }
       ]
     }
+  },
+  {
+    "id": "PID_風光レダ",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "lowest_rarity": {
+      "foc": 5
+    },
+    "skill_ids": [
+      "SID_ウィークショット",
+      "SID_リズムセッション",
+      "SID_刃のセッション1",
+      "SID_刃のセッション2",
+      "SID_刃のセッション3",
+      "SID_初撃・追撃の鼓動",
+      "SID_即興",
+      "SID_奏でる",
+      "SID_始まりの鼓動1",
+      "SID_始まりの鼓動2",
+      "SID_始まりの鼓動3",
+      "SID_華炎",
+      "SID_蛍火",
+      "SID_速さの魅了1",
+      "SID_速さの魅了2",
+      "SID_速さの魅了3",
+      "SID_速さ守備の魅惑",
+      "SID_鉄の弓",
+      "SID_銀の弓",
+      "SID_鋼の弓",
+      "SID_魅惑の奏者の弓"
+    ]
   },
   {
     "id": "PID_ラガルト",
@@ -30455,7 +30615,7 @@
     },
     "lowest_rarity": {
       "ssp": 4,
-      "ldc": 5
+      "ldc": 4
     },
     "skill_ids": [
       "SID_レイピア",
@@ -30480,6 +30640,12 @@
           "month": 4,
           "rarity": 5,
           "cost": 300
+        },
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 4,
+          "cost": 100
         }
       ]
     }
@@ -43663,6 +43829,12 @@
           "month": 1,
           "rarity": 4,
           "cost": 100
+        },
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 4,
+          "cost": 100
         }
       ]
     }
@@ -46354,6 +46526,42 @@
     }
   },
   {
+    "id": "PID_響心セオドラ",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "lowest_rarity": {
+      "foc": 5
+    },
+    "skill_ids": [
+      "SID_キャンセル1",
+      "SID_キャンセル2",
+      "SID_キャンセル3",
+      "SID_マハマドゥの槍",
+      "SID_不退の覚悟",
+      "SID_刷新・拍節",
+      "SID_攻守信念・弱化無効",
+      "SID_攻撃守備の信義1",
+      "SID_攻撃守備の信義2",
+      "SID_攻撃守備の信義3",
+      "SID_華炎",
+      "SID_蛍火",
+      "SID_超越1",
+      "SID_超越2",
+      "SID_超越3",
+      "SID_超越4",
+      "SID_鉄の槍",
+      "SID_銀の槍",
+      "SID_鋼の槍",
+      "SID_響・後の先"
+    ]
+  },
+  {
     "id": "PID_春祭トール",
     "is_in": {
       "gsp": false,
@@ -48353,13 +48561,18 @@
       "SID_攻撃魔防の拍節2",
       "SID_攻撃魔防の拍節3",
       "SID_攻撃魔防の拍節4",
+      "SID_攻撃魔防の疑惧",
       "SID_攻撃魔防の秘奥1",
       "SID_攻撃魔防の秘奥2",
       "SID_攻撃魔防の秘奥3",
       "SID_攻撃魔防の秘奥4",
       "SID_氷点",
       "SID_氷蒼",
-      "SID_邪竜の救済"
+      "SID_邪竜の救済",
+      "SID_邪竜の救済・神",
+      "SID_魔防の混乱1",
+      "SID_魔防の混乱2",
+      "SID_魔防の混乱3"
     ]
   },
   {

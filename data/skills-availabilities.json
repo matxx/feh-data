@@ -1178,6 +1178,35 @@
     }
   },
   {
+    "id": "SID_攻守信念・弱化無効",
+    "owner_ids": [
+      "PID_響心セオドラ"
+    ],
+    "required_slots": {
+      "g4": 1,
+      "hg": 1,
+      "hg4": 1,
+      "hg5": 4,
+      "dc": 1,
+      "sh4": 4,
+      "gsr": 4,
+      "shsr": 4,
+      "g5": 4,
+      "sh5": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "olrwo": {
+      "foc": 5
+    }
+  },
+  {
     "id": "SID_鎧の護り手・遠・双",
     "owner_ids": [
       "PID_響心ヘクトル",
@@ -3096,6 +3125,7 @@
   {
     "id": "SID_攻速突破・対抗",
     "owner_ids": [
+      "PID_つながりカイ",
       "PID_響心ラケシス",
       "PID_総選挙シルヴァン"
     ],
@@ -3244,6 +3274,35 @@
       "shsr": 4,
       "g5": 4,
       "sh5": 4
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "olrwo": {
+      "foc": 5
+    }
+  },
+  {
+    "id": "SID_清真アミーテ_一",
+    "owner_ids": [
+      "PID_伝承エリンシア"
+    ],
+    "required_slots": {
+      "g4": 1,
+      "hg": 1,
+      "hg4": 1,
+      "hg5": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 1,
+      "shsr": 1,
+      "g5": 1,
+      "sh5": 1
     },
     "is_in": {
       "gsp": false,
@@ -6575,6 +6634,35 @@
     }
   },
   {
+    "id": "SID_魔剣アンスウェラー",
+    "owner_ids": [
+      "PID_風光ディートリヒ"
+    ],
+    "required_slots": {
+      "g4": 1,
+      "hg": 1,
+      "hg4": 1,
+      "hg5": 4,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 4,
+      "shsr": 4,
+      "g5": 4,
+      "sh5": 4
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "olrwo": {
+      "foc": 5
+    }
+  },
+  {
     "id": "SID_裏の五連闘の宝槍",
     "owner_ids": [
       "PID_覚醒アンナ"
@@ -9236,6 +9324,7 @@
     "owner_ids": [
       "PID_比翼バルドル",
       "PID_総選挙バルドル",
+      "PID_つながりカイ",
       "PID_双界総選挙セリカ",
       "PID_伝承ディアマンド",
       "PID_幼少フェリクス",
@@ -11174,6 +11263,12 @@
           "month": 7,
           "rarity": 4,
           "cost": 100
+        },
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 4,
+          "cost": 100
         }
       ]
     }
@@ -11252,6 +11347,12 @@
         {
           "year": 2026,
           "month": 7,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2026,
+          "month": 9,
           "rarity": 4,
           "cost": 100
         }
@@ -17081,7 +17182,8 @@
       "PID_忍者ハール",
       "PID_ナバタユーノ",
       "PID_外伝カムイ",
-      "PID_年明キサ"
+      "PID_年明キサ",
+      "PID_響心セオドラ"
     ],
     "required_slots": {
       "g4": 1,
@@ -17156,7 +17258,8 @@
       "PID_忍者ハール",
       "PID_ナバタユーノ",
       "PID_外伝カムイ",
-      "PID_年明キサ"
+      "PID_年明キサ",
+      "PID_響心セオドラ"
     ],
     "required_slots": {
       "g4": 1,
@@ -17231,7 +17334,8 @@
       "PID_忍者ハール",
       "PID_ナバタユーノ",
       "PID_外伝カムイ",
-      "PID_年明キサ"
+      "PID_年明キサ",
+      "PID_響心セオドラ"
     ],
     "required_slots": {
       "g4": 1,
@@ -22869,7 +22973,8 @@
     "id": "SID_攻撃魔防の疑惧",
     "owner_ids": [
       "PID_比翼アシュ",
-      "PID_伝承リオン"
+      "PID_伝承リオン",
+      "PID_神階ヴェイル"
     ],
     "required_slots": {
       "g4": 1,
@@ -24346,6 +24451,7 @@
     "owner_ids": [
       "PID_伝承アイラ",
       "PID_双界アイラ",
+      "PID_つながりカイ",
       "PID_魔器闇クロム",
       "PID_双界ティアモ",
       "PID_風部族ダグ",
@@ -24444,6 +24550,12 @@
           "month": 9,
           "rarity": 5,
           "cost": 300
+        },
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 5,
+          "cost": 300
         }
       ]
     }
@@ -24453,6 +24565,7 @@
     "owner_ids": [
       "PID_伝承アイラ",
       "PID_双界アイラ",
+      "PID_つながりカイ",
       "PID_魔器闇クロム",
       "PID_双界ティアモ",
       "PID_風部族ダグ",
@@ -24551,6 +24664,12 @@
           "month": 9,
           "rarity": 5,
           "cost": 300
+        },
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 5,
+          "cost": 300
         }
       ]
     }
@@ -24560,6 +24679,7 @@
     "owner_ids": [
       "PID_伝承アイラ",
       "PID_双界アイラ",
+      "PID_つながりカイ",
       "PID_魔器闇クロム",
       "PID_双界ティアモ",
       "PID_風部族ダグ",
@@ -24655,6 +24775,12 @@
       "limited": [
         {
           "year": 2025,
+          "month": 9,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
+          "year": 2026,
           "month": 9,
           "rarity": 5,
           "cost": 300
@@ -24761,13 +24887,14 @@
       "ssp": true,
       "hg": false,
       "dc": true,
-      "ldc": false,
+      "ldc": true,
       "foc": true
     },
     "olrwo": {
       "gsp": 5,
       "ssp": 5,
       "dc": 5,
+      "ldc": 5,
       "foc": 5
     },
     "divine_codes": {
@@ -24791,6 +24918,14 @@
           "number": 7,
           "title": "Heroes / Genealogy / Thracia 776",
           "cost": 1200
+        }
+      ],
+      "limited": [
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 5,
+          "cost": 300
         }
       ]
     }
@@ -25915,6 +26050,7 @@
       "PID_伝承ベレス",
       "PID_開花セティ",
       "PID_双界総選挙セリカ",
+      "PID_風光ディートリヒ",
       "PID_お茶会フェリクス",
       "PID_ガンズ",
       "PID_ツクヨミ",
@@ -26058,6 +26194,7 @@
       "PID_伝承ベレス",
       "PID_開花セティ",
       "PID_双界総選挙セリカ",
+      "PID_風光ディートリヒ",
       "PID_お茶会フェリクス",
       "PID_ガンズ",
       "PID_ツクヨミ",
@@ -26201,6 +26338,7 @@
       "PID_伝承ベレス",
       "PID_開花セティ",
       "PID_双界総選挙セリカ",
+      "PID_風光ディートリヒ",
       "PID_お茶会フェリクス",
       "PID_ガンズ",
       "PID_ツクヨミ",
@@ -26883,6 +27021,12 @@
           "month": 3,
           "rarity": 4,
           "cost": 100
+        },
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 5,
+          "cost": 300
         }
       ]
     }
@@ -26998,6 +27142,12 @@
           "month": 3,
           "rarity": 4,
           "cost": 100
+        },
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 5,
+          "cost": 300
         }
       ]
     }
@@ -27113,6 +27263,12 @@
           "month": 3,
           "rarity": 4,
           "cost": 100
+        },
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 5,
+          "cost": 300
         }
       ]
     }
@@ -27181,6 +27337,12 @@
         {
           "year": 2025,
           "month": 8,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
+          "year": 2026,
+          "month": 9,
           "rarity": 5,
           "cost": 300
         }
@@ -27285,14 +27447,15 @@
       "ssp": true,
       "hg": true,
       "dc": true,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "olrwo": {
       "gsp": 5,
       "ssp": 5,
       "hg": 4,
-      "dc": 5
+      "dc": 5,
+      "ldc": 5
     },
     "divine_codes": {
       "normal": [
@@ -27305,6 +27468,14 @@
           "number": 6,
           "title": "Heroes / Mystery / Echoes",
           "cost": 1200
+        }
+      ],
+      "limited": [
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 5,
+          "cost": 300
         }
       ]
     }
@@ -27337,14 +27508,15 @@
       "ssp": true,
       "hg": true,
       "dc": true,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "olrwo": {
       "gsp": 5,
       "ssp": 5,
       "hg": 4,
-      "dc": 5
+      "dc": 5,
+      "ldc": 5
     },
     "divine_codes": {
       "normal": [
@@ -27357,6 +27529,14 @@
           "number": 6,
           "title": "Heroes / Mystery / Echoes",
           "cost": 1200
+        }
+      ],
+      "limited": [
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 5,
+          "cost": 300
         }
       ]
     }
@@ -27389,14 +27569,15 @@
       "ssp": true,
       "hg": true,
       "dc": true,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "olrwo": {
       "gsp": 5,
       "ssp": 5,
       "hg": 4,
-      "dc": 5
+      "dc": 5,
+      "ldc": 5
     },
     "divine_codes": {
       "normal": [
@@ -27409,6 +27590,14 @@
           "number": 6,
           "title": "Heroes / Mystery / Echoes",
           "cost": 1200
+        }
+      ],
+      "limited": [
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 5,
+          "cost": 300
         }
       ]
     }
@@ -27440,13 +27629,14 @@
       "ssp": true,
       "hg": false,
       "dc": true,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "olrwo": {
       "gsp": 5,
       "ssp": 5,
-      "dc": 5
+      "dc": 5,
+      "ldc": 5
     },
     "divine_codes": {
       "normal": [
@@ -27459,6 +27649,14 @@
           "number": 6,
           "title": "Heroes / Mystery / Echoes",
           "cost": 1200
+        }
+      ],
+      "limited": [
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 5,
+          "cost": 300
         }
       ]
     }
@@ -31518,6 +31716,35 @@
     },
     "olrwo": {
       "gsp": 4.5
+    }
+  },
+  {
+    "id": "SID_助走・青への分断",
+    "owner_ids": [
+      "PID_つながりカイ"
+    ],
+    "required_slots": {
+      "g4": 4,
+      "hg": 4,
+      "hg4": 4,
+      "hg5": 4,
+      "dc": 4,
+      "sh4": 4,
+      "gsr": 4,
+      "shsr": 4,
+      "g5": 4,
+      "sh5": 4
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "olrwo": {
+      "foc": 5
     }
   },
   {
@@ -36085,6 +36312,7 @@
     "id": "SID_刃のセッション1",
     "owner_ids": [
       "PID_水着ラーチェル",
+      "PID_風光レダ",
       "PID_つばさ",
       "PID_総選挙つばさ"
     ],
@@ -36106,17 +36334,19 @@
       "hg": false,
       "dc": false,
       "ldc": false,
-      "foc": false
+      "foc": true
     },
     "olrwo": {
       "gsp": 4.5,
-      "ssp": 4
+      "ssp": 4,
+      "foc": 5
     }
   },
   {
     "id": "SID_刃のセッション2",
     "owner_ids": [
       "PID_水着ラーチェル",
+      "PID_風光レダ",
       "PID_つばさ",
       "PID_総選挙つばさ"
     ],
@@ -36138,17 +36368,19 @@
       "hg": false,
       "dc": false,
       "ldc": false,
-      "foc": false
+      "foc": true
     },
     "olrwo": {
       "gsp": 4.5,
-      "ssp": 4
+      "ssp": 4,
+      "foc": 5
     }
   },
   {
     "id": "SID_刃のセッション3",
     "owner_ids": [
       "PID_水着ラーチェル",
+      "PID_風光レダ",
       "PID_つばさ",
       "PID_総選挙つばさ"
     ],
@@ -36170,11 +36402,12 @@
       "hg": false,
       "dc": false,
       "ldc": false,
-      "foc": false
+      "foc": true
     },
     "olrwo": {
       "gsp": 4.5,
-      "ssp": 4
+      "ssp": 4,
+      "foc": 5
     }
   },
   {
@@ -36469,11 +36702,22 @@
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "olrwo": {
-      "gsp": 3
+      "gsp": 3,
+      "ldc": 4
+    },
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
     }
   },
   {
@@ -36498,11 +36742,22 @@
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "olrwo": {
-      "gsp": 3
+      "gsp": 3,
+      "ldc": 4
+    },
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
     }
   },
   {
@@ -45263,7 +45518,7 @@
     },
     "olrwo": {
       "ssp": 4,
-      "ldc": 5
+      "ldc": 4
     },
     "divine_codes": {
       "limited": [
@@ -45272,6 +45527,12 @@
           "month": 4,
           "rarity": 5,
           "cost": 300
+        },
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 4,
+          "cost": 100
         }
       ]
     }
@@ -45303,7 +45564,7 @@
     },
     "olrwo": {
       "ssp": 4,
-      "ldc": 5
+      "ldc": 4
     },
     "divine_codes": {
       "limited": [
@@ -45312,6 +45573,12 @@
           "month": 4,
           "rarity": 5,
           "cost": 300
+        },
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 4,
+          "cost": 100
         }
       ]
     }
@@ -45349,6 +45616,35 @@
     "id": "SID_聖光スターライト_一",
     "owner_ids": [
       "PID_神階ガトー"
+    ],
+    "required_slots": {
+      "g4": 1,
+      "hg": 1,
+      "hg4": 1,
+      "hg5": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 1,
+      "shsr": 1,
+      "g5": 1,
+      "sh5": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "olrwo": {
+      "foc": 5
+    }
+  },
+  {
+    "id": "SID_活発",
+    "owner_ids": [
+      "PID_つながりカイ"
     ],
     "required_slots": {
       "g4": 1,
@@ -50743,6 +51039,12 @@
           "month": 1,
           "rarity": 4,
           "cost": 100
+        },
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 4,
+          "cost": 100
         }
       ]
     }
@@ -50805,6 +51107,12 @@
           "month": 12,
           "rarity": 4,
           "cost": 100
+        },
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 4,
+          "cost": 100
         }
       ]
     }
@@ -50865,6 +51173,12 @@
         {
           "year": 2023,
           "month": 12,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2026,
+          "month": 9,
           "rarity": 4,
           "cost": 100
         }
@@ -51364,6 +51678,12 @@
           "month": 8,
           "rarity": 4,
           "cost": 100
+        },
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 4,
+          "cost": 100
         }
       ]
     }
@@ -51680,7 +52000,7 @@
     "olrwo": {
       "gsp": 3,
       "ssp": 4.5,
-      "ldc": 5,
+      "ldc": 4,
       "foc": 5
     },
     "divine_codes": {
@@ -51690,6 +52010,12 @@
           "month": 1,
           "rarity": 5,
           "cost": 300
+        },
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 4,
+          "cost": 100
         }
       ]
     }
@@ -51728,7 +52054,7 @@
     "olrwo": {
       "gsp": 3,
       "ssp": 4.5,
-      "ldc": 5,
+      "ldc": 4,
       "foc": 5
     },
     "divine_codes": {
@@ -51738,6 +52064,12 @@
           "month": 1,
           "rarity": 5,
           "cost": 300
+        },
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 4,
+          "cost": 100
         }
       ]
     }
@@ -56545,6 +56877,35 @@
           "cost": 1600
         }
       ]
+    }
+  },
+  {
+    "id": "SID_助走・赤への分断",
+    "owner_ids": [
+      "PID_風光ディートリヒ"
+    ],
+    "required_slots": {
+      "g4": 4,
+      "hg": 4,
+      "hg4": 4,
+      "hg5": 4,
+      "dc": 4,
+      "sh4": 4,
+      "gsr": 4,
+      "shsr": 4,
+      "g5": 4,
+      "sh5": 4
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "olrwo": {
+      "foc": 5
     }
   },
   {
@@ -62796,11 +63157,22 @@
       "ssp": true,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "olrwo": {
-      "ssp": 5
+      "ssp": 5,
+      "ldc": 5
+    },
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 5,
+          "cost": 300
+        }
+      ]
     }
   },
   {
@@ -66598,6 +66970,12 @@
           "month": 7,
           "rarity": 4,
           "cost": 100
+        },
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 4,
+          "cost": 100
         }
       ]
     }
@@ -66667,6 +67045,12 @@
           "month": 7,
           "rarity": 4,
           "cost": 100
+        },
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 4,
+          "cost": 100
         }
       ]
     }
@@ -66734,6 +67118,12 @@
         {
           "year": 2026,
           "month": 7,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2026,
+          "month": 9,
           "rarity": 4,
           "cost": 100
         }
@@ -71603,7 +71993,7 @@
       "g4": 1,
       "hg": 1,
       "hg4": 1,
-      "hg5": 4,
+      "hg5": 1,
       "dc": 1,
       "sh4": 1,
       "gsr": 4,
@@ -71614,13 +72004,14 @@
     "is_in": {
       "gsp": false,
       "ssp": true,
-      "hg": false,
+      "hg": true,
       "dc": true,
       "ldc": false,
       "foc": false
     },
     "olrwo": {
       "ssp": 5,
+      "hg": 5,
       "dc": 5
     },
     "divine_codes": {
@@ -73360,6 +73751,12 @@
           "month": 5,
           "rarity": 5,
           "cost": 300
+        },
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 4,
+          "cost": 100
         }
       ]
     }
@@ -73858,6 +74255,7 @@
       "PID_闇ベレト",
       "PID_双界ベレス",
       "PID_ケセルダ",
+      "PID_つながりカイ",
       "PID_カシム",
       "PID_双界総選挙セリカ",
       "PID_幼少クロード",
@@ -74030,6 +74428,12 @@
           "month": 5,
           "rarity": 5,
           "cost": 300
+        },
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 4,
+          "cost": 100
         }
       ]
     }
@@ -74163,6 +74567,7 @@
       "PID_闇ベレス",
       "PID_マトイ",
       "PID_ケセルダ",
+      "PID_つながりカイ",
       "PID_伝承カミラ",
       "PID_カミラ",
       "PID_年明けカミラ",
@@ -74598,6 +75003,18 @@
           "month": 5,
           "rarity": 5,
           "cost": 300
+        },
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 4,
+          "cost": 100
         }
       ]
     }
@@ -76283,6 +76700,12 @@
         {
           "year": 2026,
           "month": 6,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2026,
+          "month": 9,
           "rarity": 4,
           "cost": 100
         }
@@ -80927,6 +81350,12 @@
           "month": 7,
           "rarity": 4,
           "cost": 100
+        },
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 4,
+          "cost": 100
         }
       ]
     }
@@ -81562,6 +81991,35 @@
           "cost": 100
         }
       ]
+    }
+  },
+  {
+    "id": "SID_魅惑の奏者の弓",
+    "owner_ids": [
+      "PID_風光レダ"
+    ],
+    "required_slots": {
+      "g4": 1,
+      "hg": 1,
+      "hg4": 1,
+      "hg5": 4,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 4,
+      "shsr": 4,
+      "g5": 4,
+      "sh5": 4
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "olrwo": {
+      "foc": 5
     }
   },
   {
@@ -83115,6 +83573,12 @@
           "month": 1,
           "rarity": 4,
           "cost": 100
+        },
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 4,
+          "cost": 100
         }
       ]
     }
@@ -83198,6 +83662,12 @@
           "month": 1,
           "rarity": 4,
           "cost": 100
+        },
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 4,
+          "cost": 100
         }
       ]
     }
@@ -83279,6 +83749,12 @@
         {
           "year": 2025,
           "month": 1,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2026,
+          "month": 9,
           "rarity": 4,
           "cost": 100
         }
@@ -84371,6 +84847,35 @@
       "shsr": 4,
       "g5": 1,
       "sh5": 4
+    },
+    "is_in": {
+      "gsp": true,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "olrwo": {
+      "gsp": 5
+    }
+  },
+  {
+    "id": "SID_聖王の参謀の術書_一",
+    "owner_ids": [
+      "PID_総選挙ルフレ女"
+    ],
+    "required_slots": {
+      "g4": 1,
+      "hg": 1,
+      "hg4": 1,
+      "hg5": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 1,
+      "shsr": 1,
+      "g5": 1,
+      "sh5": 1
     },
     "is_in": {
       "gsp": true,
@@ -86999,6 +87504,35 @@
     }
   },
   {
+    "id": "SID_邪竜の救済・神",
+    "owner_ids": [
+      "PID_神階ヴェイル"
+    ],
+    "required_slots": {
+      "g4": 2,
+      "hg": 2,
+      "hg4": 2,
+      "hg5": 2,
+      "dc": 2,
+      "sh4": 2,
+      "gsr": 2,
+      "shsr": 2,
+      "g5": 2,
+      "sh5": 2
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "olrwo": {
+      "foc": 5
+    }
+  },
+  {
     "id": "SID_真邪竜の救済",
     "owner_ids": [
       "PID_比翼ヴェイル"
@@ -88039,6 +88573,46 @@
       "shsr": 4,
       "g5": 4,
       "sh5": 4
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": true,
+      "dc": false,
+      "ldc": true,
+      "foc": false
+    },
+    "olrwo": {
+      "hg": 4,
+      "ldc": 4
+    },
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2023,
+          "month": 3,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
+    }
+  },
+  {
+    "id": "SID_炎虎の爪牙_一",
+    "owner_ids": [
+      "PID_炎部族モゥディ"
+    ],
+    "required_slots": {
+      "g4": 1,
+      "hg": 1,
+      "hg4": 1,
+      "hg5": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 1,
+      "shsr": 1,
+      "g5": 1,
+      "sh5": 1
     },
     "is_in": {
       "gsp": false,
@@ -92051,6 +92625,7 @@
       "PID_水着カミラ",
       "PID_ディートバ",
       "PID_エリンシア",
+      "PID_伝承エリンシア",
       "PID_ヒノカ2",
       "PID_水着レーギャルン",
       "PID_リアーネ",
@@ -92079,14 +92654,15 @@
       "hg": true,
       "dc": true,
       "ldc": true,
-      "foc": false
+      "foc": true
     },
     "olrwo": {
       "gsp": 3,
       "ssp": 4.5,
       "hg": 4,
       "dc": 5,
-      "ldc": 4
+      "ldc": 4,
+      "foc": 5
     },
     "divine_codes": {
       "normal": [
@@ -92130,6 +92706,7 @@
       "PID_水着カミラ",
       "PID_ディートバ",
       "PID_エリンシア",
+      "PID_伝承エリンシア",
       "PID_ヒノカ2",
       "PID_水着レーギャルン",
       "PID_リアーネ",
@@ -92158,14 +92735,15 @@
       "hg": true,
       "dc": true,
       "ldc": true,
-      "foc": false
+      "foc": true
     },
     "olrwo": {
       "gsp": 3,
       "ssp": 4.5,
       "hg": 4,
       "dc": 5,
-      "ldc": 4
+      "ldc": 4,
+      "foc": 5
     },
     "divine_codes": {
       "normal": [
@@ -92209,6 +92787,7 @@
       "PID_水着カミラ",
       "PID_ディートバ",
       "PID_エリンシア",
+      "PID_伝承エリンシア",
       "PID_ヒノカ2",
       "PID_水着レーギャルン",
       "PID_リアーネ",
@@ -92237,14 +92816,15 @@
       "hg": true,
       "dc": true,
       "ldc": true,
-      "foc": false
+      "foc": true
     },
     "olrwo": {
       "gsp": 3,
       "ssp": 4.5,
       "hg": 4,
       "dc": 5,
-      "ldc": 4
+      "ldc": 4,
+      "foc": 5
     },
     "divine_codes": {
       "normal": [
@@ -103104,6 +103684,7 @@
       "PID_魔器魔獣ドゥドゥー",
       "PID_忍者ディアマンド",
       "PID_ディアマンド",
+      "PID_風光ディートリヒ",
       "PID_デュッセル",
       "PID_愛の祭エーデル",
       "PID_伝承エーデルガルト",
@@ -103155,6 +103736,7 @@
       "PID_ヨルムンガンド味方",
       "PID_ハロカラム",
       "PID_レーギャルン味方",
+      "PID_風光レダ",
       "PID_レオ",
       "PID_リーヴ2味方",
       "PID_リーヴ味方",
@@ -103218,6 +103800,7 @@
       "PID_スルト味方",
       "PID_総選挙シルヴァン",
       "PID_ティト",
+      "PID_響心セオドラ",
       "PID_トール味方",
       "PID_魔器闇ティバーン",
       "PID_響心若年チキ",
@@ -103567,6 +104150,35 @@
           "cost": 100
         }
       ]
+    }
+  },
+  {
+    "id": "SID_響・後の先",
+    "owner_ids": [
+      "PID_響心セオドラ"
+    ],
+    "required_slots": {
+      "g4": 1,
+      "hg": 1,
+      "hg4": 1,
+      "hg5": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 1,
+      "shsr": 1,
+      "g5": 1,
+      "sh5": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "olrwo": {
+      "foc": 5
     }
   },
   {
@@ -107589,6 +108201,7 @@
       "PID_ネサラ",
       "PID_魔器花嫁レギン",
       "PID_ハロサクラ",
+      "PID_響心セオドラ",
       "PID_ティアマト"
     ],
     "required_slots": {
@@ -107669,6 +108282,7 @@
       "PID_ネサラ",
       "PID_魔器花嫁レギン",
       "PID_ハロサクラ",
+      "PID_響心セオドラ",
       "PID_ティアマト"
     ],
     "required_slots": {
@@ -107749,6 +108363,7 @@
       "PID_ネサラ",
       "PID_魔器花嫁レギン",
       "PID_ハロサクラ",
+      "PID_響心セオドラ",
       "PID_ティアマト"
     ],
     "required_slots": {
@@ -109867,11 +110482,22 @@
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "olrwo": {
-      "gsp": 3
+      "gsp": 3,
+      "ldc": 4
+    },
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
     }
   },
   {
@@ -109896,11 +110522,22 @@
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "olrwo": {
-      "gsp": 3
+      "gsp": 3,
+      "ldc": 4
+    },
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
     }
   },
   {
@@ -111412,6 +112049,35 @@
     }
   },
   {
+    "id": "SID_クリミアの心・承",
+    "owner_ids": [
+      "PID_伝承エリンシア"
+    ],
+    "required_slots": {
+      "g4": 2,
+      "hg": 2,
+      "hg4": 2,
+      "hg5": 2,
+      "dc": 2,
+      "sh4": 2,
+      "gsr": 2,
+      "shsr": 2,
+      "g5": 2,
+      "sh5": 2
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "olrwo": {
+      "foc": 5
+    }
+  },
+  {
     "id": "SID_祝祭の剣",
     "owner_ids": [
       "PID_愛の祭アイク"
@@ -111870,6 +112536,7 @@
     "id": "SID_天舞い立つ",
     "owner_ids": [
       "PID_比翼バルドル",
+      "PID_伝承エリンシア",
       "PID_イリアワユ",
       "PID_春祭トール"
     ],
@@ -111891,11 +112558,12 @@
       "hg": false,
       "dc": true,
       "ldc": false,
-      "foc": false
+      "foc": true
     },
     "olrwo": {
       "ssp": 5,
-      "dc": 5
+      "dc": 5,
+      "foc": 5
     },
     "divine_codes": {
       "normal": [
@@ -112970,7 +113638,7 @@
     },
     "olrwo": {
       "ssp": 4,
-      "ldc": 5
+      "ldc": 4
     },
     "divine_codes": {
       "limited": [
@@ -112979,6 +113647,12 @@
           "month": 4,
           "rarity": 5,
           "cost": 300
+        },
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 4,
+          "cost": 100
         }
       ]
     }
@@ -118861,12 +119535,13 @@
       "ssp": true,
       "hg": false,
       "dc": true,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "olrwo": {
       "ssp": 5,
-      "dc": 5
+      "dc": 5,
+      "ldc": 5
     },
     "divine_codes": {
       "normal": [
@@ -118874,6 +119549,14 @@
           "number": 6,
           "title": "Fates / Three Houses",
           "cost": 1200
+        }
+      ],
+      "limited": [
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 5,
+          "cost": 300
         }
       ]
     }
@@ -119486,6 +120169,7 @@
       "PID_クーガー",
       "PID_ダグダ",
       "PID_魔器魔獣ドゥドゥー",
+      "PID_風光ディートリヒ",
       "PID_紋章エーデル",
       "PID_比翼エーデル",
       "PID_運動着エイクス",
@@ -119513,6 +120197,7 @@
       "PID_ジョージ",
       "PID_ヨルムンガンド味方",
       "PID_ハロカラム",
+      "PID_風光レダ",
       "PID_レオ",
       "PID_愛の祭ルイ",
       "PID_ロウエン",
@@ -119549,6 +120234,7 @@
       "PID_ハロスクリミル",
       "PID_総選挙シルヴァン",
       "PID_ティト",
+      "PID_響心セオドラ",
       "PID_魔器闇ティバーン",
       "PID_響心若年チキ",
       "PID_催眠チキ",
@@ -120593,6 +121279,35 @@
       "shsr": 4,
       "g5": 4,
       "sh5": 4
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "olrwo": {
+      "foc": 5
+    }
+  },
+  {
+    "id": "SID_即興",
+    "owner_ids": [
+      "PID_風光レダ"
+    ],
+    "required_slots": {
+      "g4": 2,
+      "hg": 1,
+      "hg4": 1,
+      "hg5": 2,
+      "dc": 1,
+      "sh4": 2,
+      "gsr": 1,
+      "shsr": 2,
+      "g5": 2,
+      "sh5": 2
     },
     "is_in": {
       "gsp": false,
@@ -124234,6 +124949,12 @@
           "month": 8,
           "rarity": 4,
           "cost": 100
+        },
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 5,
+          "cost": 300
         }
       ]
     }
@@ -124311,6 +125032,7 @@
       "PID_クレイン",
       "PID_比翼レーギャルン",
       "PID_開花レーギャルン",
+      "PID_風光レダ",
       "PID_双界リーフ",
       "PID_響心リーフ",
       "PID_伝承リーフ",
@@ -125385,6 +126107,12 @@
           "month": 7,
           "rarity": 4,
           "cost": 100
+        },
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 5,
+          "cost": 300
         }
       ]
     }
@@ -125472,6 +126200,7 @@
       "PID_伝承シーダ",
       "PID_響心シーダ",
       "PID_マトイ",
+      "PID_つながりカイ",
       "PID_カミュ",
       "PID_カチュア",
       "PID_セルバンテス",
@@ -125630,6 +126359,7 @@
       "PID_ターナ",
       "PID_花嫁タニス",
       "PID_ティト",
+      "PID_響心セオドラ",
       "PID_春祭トール",
       "PID_響心ミスティラ",
       "PID_ハロミスティラ",
@@ -126335,6 +127065,12 @@
           "month": 8,
           "rarity": 5,
           "cost": 300
+        },
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 4,
+          "cost": 100
         }
       ]
     }
@@ -126391,6 +127127,7 @@
       "PID_風部族ダグ",
       "PID_ダグ2味方",
       "PID_ディアマンド",
+      "PID_風光ディートリヒ",
       "PID_愛の祭ディミトリ",
       "PID_ドーガ",
       "PID_双界エーデルガルト",
@@ -127250,6 +127987,24 @@
           "month": 7,
           "rarity": 5,
           "cost": 300
+        },
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 4,
+          "cost": 100
         }
       ]
     }
@@ -133273,13 +134028,14 @@
       "ssp": true,
       "hg": false,
       "dc": true,
-      "ldc": false,
+      "ldc": true,
       "foc": true
     },
     "olrwo": {
       "gsp": 4.5,
       "ssp": 4.5,
       "dc": 5,
+      "ldc": 5,
       "foc": 5
     },
     "divine_codes": {
@@ -133293,6 +134049,14 @@
           "number": 5,
           "title": "Heroes / Radiance",
           "cost": 2000
+        }
+      ],
+      "limited": [
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 5,
+          "cost": 300
         }
       ]
     }
@@ -133529,6 +134293,12 @@
           "month": 9,
           "rarity": 4,
           "cost": 100
+        },
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 4,
+          "cost": 100
         }
       ]
     }
@@ -133677,6 +134447,12 @@
           "month": 9,
           "rarity": 4,
           "cost": 100
+        },
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 4,
+          "cost": 100
         }
       ]
     }
@@ -133822,6 +134598,12 @@
         },
         {
           "year": 2025,
+          "month": 9,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2026,
           "month": 9,
           "rarity": 4,
           "cost": 100
@@ -138385,6 +139167,18 @@
           "month": 6,
           "rarity": 4,
           "cost": 100
+        },
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 5,
+          "cost": 300
         }
       ]
     }
@@ -139330,6 +140124,35 @@
     }
   },
   {
+    "id": "SID_マハマドゥの槍",
+    "owner_ids": [
+      "PID_響心セオドラ"
+    ],
+    "required_slots": {
+      "g4": 1,
+      "hg": 1,
+      "hg4": 1,
+      "hg5": 4,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 4,
+      "shsr": 4,
+      "g5": 4,
+      "sh5": 4
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "olrwo": {
+      "foc": 5
+    }
+  },
+  {
     "id": "SID_光の女神の娘",
     "owner_ids": [
       "PID_グロア味方"
@@ -139455,6 +140278,35 @@
       "shsr": 4,
       "g5": 1,
       "sh5": 4
+    },
+    "is_in": {
+      "gsp": true,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "olrwo": {
+      "gsp": 5
+    }
+  },
+  {
+    "id": "SID_王斧グリトニル_一",
+    "owner_ids": [
+      "PID_総選挙アルフォンス"
+    ],
+    "required_slots": {
+      "g4": 1,
+      "hg": 1,
+      "hg4": 1,
+      "hg5": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 1,
+      "shsr": 1,
+      "g5": 1,
+      "sh5": 1
     },
     "is_in": {
       "gsp": true,
@@ -142706,6 +143558,8 @@
   {
     "id": "SID_助走1",
     "owner_ids": [
+      "PID_つながりカイ",
+      "PID_風光ディートリヒ",
       "PID_響心エリウッド",
       "PID_つながりニニアン",
       "PID_比翼シグルド2",
@@ -142738,6 +143592,8 @@
   {
     "id": "SID_助走2",
     "owner_ids": [
+      "PID_つながりカイ",
+      "PID_風光ディートリヒ",
       "PID_響心エリウッド",
       "PID_つながりニニアン",
       "PID_比翼シグルド2",
@@ -142770,6 +143626,8 @@
   {
     "id": "SID_助走3",
     "owner_ids": [
+      "PID_つながりカイ",
+      "PID_風光ディートリヒ",
       "PID_響心エリウッド",
       "PID_つながりニニアン",
       "PID_比翼シグルド2",
@@ -143938,6 +144796,35 @@
     "id": "SID_恐山の妖術",
     "owner_ids": [
       "PID_魔器ヌイババ"
+    ],
+    "required_slots": {
+      "g4": 1,
+      "hg": 1,
+      "hg4": 1,
+      "hg5": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 1,
+      "shsr": 1,
+      "g5": 1,
+      "sh5": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "olrwo": {
+      "foc": 5
+    }
+  },
+  {
+    "id": "SID_影渡り",
+    "owner_ids": [
+      "PID_風光ディートリヒ"
     ],
     "required_slots": {
       "g4": 1,
@@ -145246,6 +146133,35 @@
     }
   },
   {
+    "id": "SID_錬磨サンダーソード_一",
+    "owner_ids": [
+      "PID_総選挙フェリクス"
+    ],
+    "required_slots": {
+      "g4": 1,
+      "hg": 1,
+      "hg4": 1,
+      "hg5": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 1,
+      "shsr": 1,
+      "g5": 1,
+      "sh5": 1
+    },
+    "is_in": {
+      "gsp": true,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "olrwo": {
+      "gsp": 5
+    }
+  },
+  {
     "id": "SID_影月",
     "owner_ids": [
       "PID_リュール女",
@@ -146064,6 +146980,18 @@
           "month": 6,
           "rarity": 4,
           "cost": 100
+        },
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 5,
+          "cost": 300
         }
       ]
     }
@@ -150029,6 +150957,35 @@
     }
   },
   {
+    "id": "SID_オヴスキュリテ_一",
+    "owner_ids": [
+      "PID_神階ヴェイル"
+    ],
+    "required_slots": {
+      "g4": 1,
+      "hg": 1,
+      "hg4": 1,
+      "hg5": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 1,
+      "shsr": 1,
+      "g5": 1,
+      "sh5": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "olrwo": {
+      "foc": 5
+    }
+  },
+  {
     "id": "SID_立会人の杖",
     "owner_ids": [
       "PID_立会人サウル"
@@ -150523,6 +151480,18 @@
           "month": 8,
           "rarity": 4,
           "cost": 100
+        },
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 4,
+          "cost": 100
         }
       ]
     }
@@ -150588,6 +151557,18 @@
           "month": 8,
           "rarity": 4,
           "cost": 100
+        },
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 4,
+          "cost": 100
         }
       ]
     }
@@ -150651,6 +151632,18 @@
         {
           "year": 2025,
           "month": 8,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2026,
+          "month": 9,
           "rarity": 4,
           "cost": 100
         }
@@ -151877,6 +152870,12 @@
           "month": 7,
           "rarity": 4,
           "cost": 100
+        },
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 5,
+          "cost": 300
         }
       ]
     }
@@ -151948,6 +152947,12 @@
           "month": 7,
           "rarity": 4,
           "cost": 100
+        },
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 5,
+          "cost": 300
         }
       ]
     }
@@ -152019,6 +153024,12 @@
           "month": 7,
           "rarity": 4,
           "cost": 100
+        },
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 5,
+          "cost": 300
         }
       ]
     }
@@ -152050,13 +153061,14 @@
       "ssp": true,
       "hg": false,
       "dc": true,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "olrwo": {
       "gsp": 5,
       "ssp": 5,
-      "dc": 5
+      "dc": 5,
+      "ldc": 5
     },
     "divine_codes": {
       "normal": [
@@ -152064,6 +153076,14 @@
           "number": 6,
           "title": "Fates / Three Houses",
           "cost": 1200
+        }
+      ],
+      "limited": [
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 5,
+          "cost": 300
         }
       ]
     }
@@ -157461,6 +158481,7 @@
     "id": "SID_奏でる",
     "owner_ids": [
       "PID_エルフィン",
+      "PID_風光レダ",
       "PID_ニルス",
       "PID_氷部族ニルス",
       "PID_ハロニルス"
@@ -157483,13 +158504,14 @@
       "hg": true,
       "dc": true,
       "ldc": true,
-      "foc": false
+      "foc": true
     },
     "olrwo": {
       "gsp": 4.5,
       "hg": 4,
       "dc": 5,
-      "ldc": 4
+      "ldc": 4,
+      "foc": 5
     },
     "divine_codes": {
       "normal": [
@@ -157542,11 +158564,22 @@
       "ssp": true,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "olrwo": {
-      "ssp": 5
+      "ssp": 5,
+      "ldc": 5
+    },
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 5,
+          "cost": 300
+        }
+      ]
     }
   },
   {
@@ -163920,6 +164953,12 @@
           "month": 6,
           "rarity": 4,
           "cost": 100
+        },
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 4,
+          "cost": 100
         }
       ]
     }
@@ -165523,7 +166562,7 @@
     "olrwo": {
       "gsp": 4.5,
       "ssp": 4,
-      "ldc": 5
+      "ldc": 4
     },
     "divine_codes": {
       "limited": [
@@ -165532,6 +166571,12 @@
           "month": 4,
           "rarity": 5,
           "cost": 300
+        },
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 4,
+          "cost": 100
         }
       ]
     }
@@ -170358,6 +171403,12 @@
           "month": 7,
           "rarity": 4,
           "cost": 100
+        },
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 4,
+          "cost": 100
         }
       ]
     }
@@ -173789,7 +174840,8 @@
   {
     "id": "SID_リズムセッション",
     "owner_ids": [
-      "PID_総選挙アクア"
+      "PID_総選挙アクア",
+      "PID_風光レダ"
     ],
     "required_slots": {
       "g4": 4,
@@ -173809,7 +174861,39 @@
       "hg": false,
       "dc": false,
       "ldc": false,
-      "foc": false
+      "foc": true
+    },
+    "olrwo": {
+      "foc": 5
+    }
+  },
+  {
+    "id": "SID_リベイラ村の槍",
+    "owner_ids": [
+      "PID_つながりカイ"
+    ],
+    "required_slots": {
+      "g4": 1,
+      "hg": 1,
+      "hg4": 1,
+      "hg5": 4,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 4,
+      "shsr": 4,
+      "g5": 4,
+      "sh5": 4
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "olrwo": {
+      "foc": 5
     }
   },
   {
@@ -174218,7 +175302,8 @@
     "id": "SID_超越1",
     "owner_ids": [
       "PID_運動着アイク",
-      "PID_紋章ロイ"
+      "PID_紋章ロイ",
+      "PID_響心セオドラ"
     ],
     "required_slots": {
       "g4": 1,
@@ -174249,7 +175334,8 @@
     "id": "SID_超越2",
     "owner_ids": [
       "PID_運動着アイク",
-      "PID_紋章ロイ"
+      "PID_紋章ロイ",
+      "PID_響心セオドラ"
     ],
     "required_slots": {
       "g4": 2,
@@ -174280,7 +175366,8 @@
     "id": "SID_超越3",
     "owner_ids": [
       "PID_運動着アイク",
-      "PID_紋章ロイ"
+      "PID_紋章ロイ",
+      "PID_響心セオドラ"
     ],
     "required_slots": {
       "g4": 3,
@@ -174311,7 +175398,8 @@
     "id": "SID_超越4",
     "owner_ids": [
       "PID_運動着アイク",
-      "PID_紋章ロイ"
+      "PID_紋章ロイ",
+      "PID_響心セオドラ"
     ],
     "required_slots": {
       "g4": 4,
@@ -176622,6 +177710,35 @@
     }
   },
   {
+    "id": "SID_不退の覚悟",
+    "owner_ids": [
+      "PID_響心セオドラ"
+    ],
+    "required_slots": {
+      "g4": 1,
+      "hg": 1,
+      "hg4": 1,
+      "hg5": 3,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 3,
+      "shsr": 3,
+      "g5": 3,
+      "sh5": 3
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "olrwo": {
+      "foc": 5
+    }
+  },
+  {
     "id": "SID_王家の剣",
     "owner_ids": [
       "PID_総選挙セリカ"
@@ -178398,6 +179515,12 @@
           "month": 7,
           "rarity": 5,
           "cost": 300
+        },
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 5,
+          "cost": 300
         }
       ]
     }
@@ -178447,6 +179570,12 @@
         {
           "year": 2024,
           "month": 7,
+          "rarity": 5,
+          "cost": 300
+        },
+        {
+          "year": 2026,
+          "month": 9,
           "rarity": 5,
           "cost": 300
         }
@@ -178500,6 +179629,12 @@
           "month": 7,
           "rarity": 5,
           "cost": 300
+        },
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 5,
+          "cost": 300
         }
       ]
     }
@@ -178526,12 +179661,13 @@
       "ssp": true,
       "hg": false,
       "dc": true,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "olrwo": {
       "ssp": 5,
-      "dc": 5
+      "dc": 5,
+      "ldc": 5
     },
     "divine_codes": {
       "normal": [
@@ -178539,6 +179675,14 @@
           "number": 6,
           "title": "Fates / Three Houses",
           "cost": 1200
+        }
+      ],
+      "limited": [
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 5,
+          "cost": 300
         }
       ]
     }
@@ -178775,7 +179919,7 @@
       "g4": 1,
       "hg": 1,
       "hg4": 1,
-      "hg5": 4,
+      "hg5": 1,
       "dc": 1,
       "sh4": 1,
       "gsr": 1,
@@ -178786,13 +179930,14 @@
     "is_in": {
       "gsp": false,
       "ssp": true,
-      "hg": false,
+      "hg": true,
       "dc": true,
       "ldc": false,
       "foc": true
     },
     "olrwo": {
       "ssp": 5,
+      "hg": 5,
       "dc": 5,
       "foc": 5
     },
@@ -179208,6 +180353,7 @@
       "PID_ソロン",
       "PID_ハロソフィーヤ",
       "PID_魔器セネリオ",
+      "PID_神階ヴェイル",
       "PID_神階ユンヌ"
     ],
     "required_slots": {
@@ -179306,6 +180452,7 @@
       "PID_ソロン",
       "PID_ハロソフィーヤ",
       "PID_魔器セネリオ",
+      "PID_神階ヴェイル",
       "PID_神階ユンヌ"
     ],
     "required_slots": {
@@ -179404,6 +180551,7 @@
       "PID_ソロン",
       "PID_ハロソフィーヤ",
       "PID_魔器セネリオ",
+      "PID_神階ヴェイル",
       "PID_神階ユンヌ"
     ],
     "required_slots": {
@@ -186164,6 +187312,7 @@
     "id": "SID_ブレイクラッシュ",
     "owner_ids": [
       "PID_双界総選挙アルム",
+      "PID_風光ディートリヒ",
       "PID_魔器幼少イング",
       "PID_総選挙シルヴァン"
     ],
@@ -188197,6 +189346,12 @@
           "month": 6,
           "rarity": 5,
           "cost": 300
+        },
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 5,
+          "cost": 300
         }
       ]
     }
@@ -188290,6 +189445,7 @@
       "PID_ジョージ",
       "PID_比翼レーギャルン",
       "PID_開花レーギャルン",
+      "PID_風光レダ",
       "PID_双界リーフ",
       "PID_響心リーフ",
       "PID_伝承リーフ",
@@ -188718,6 +189874,12 @@
           "month": 7,
           "rarity": 4,
           "cost": 100
+        },
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 5,
+          "cost": 300
         }
       ]
     }
@@ -188858,6 +190020,7 @@
       "PID_伝承シーダ",
       "PID_響心シーダ",
       "PID_マトイ",
+      "PID_つながりカイ",
       "PID_カミュ",
       "PID_クロエ",
       "PID_総選挙クロム",
@@ -188939,6 +190102,7 @@
       "PID_総選挙シルヴァン",
       "PID_春祭シルヴァン",
       "PID_幼少ターナ",
+      "PID_響心セオドラ",
       "PID_春祭トール",
       "PID_響心ミスティラ",
       "PID_ハロミスティラ",
@@ -189369,6 +190533,7 @@
       "PID_風部族ダグ",
       "PID_ダグ2味方",
       "PID_ディアマンド",
+      "PID_風光ディートリヒ",
       "PID_愛の祭ディミトリ",
       "PID_双界エーデルガルト",
       "PID_エディ",
@@ -189795,6 +190960,18 @@
           "month": 7,
           "rarity": 5,
           "cost": 300
+        },
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 4,
+          "cost": 100
         }
       ]
     }
@@ -191099,6 +192276,12 @@
           "month": 1,
           "rarity": 4,
           "cost": 100
+        },
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 4,
+          "cost": 100
         }
       ]
     }
@@ -191161,6 +192344,12 @@
         {
           "year": 2025,
           "month": 1,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2026,
+          "month": 9,
           "rarity": 4,
           "cost": 100
         }
@@ -191227,6 +192416,12 @@
         {
           "year": 2025,
           "month": 1,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2026,
+          "month": 9,
           "rarity": 4,
           "cost": 100
         }
@@ -192778,7 +193973,7 @@
       "g4": 4,
       "hg": 1,
       "hg4": 1,
-      "hg5": 4,
+      "hg5": 1,
       "dc": 1,
       "sh4": 4,
       "gsr": 1,
@@ -192789,13 +193984,14 @@
     "is_in": {
       "gsp": false,
       "ssp": true,
-      "hg": false,
+      "hg": true,
       "dc": true,
       "ldc": false,
       "foc": false
     },
     "olrwo": {
       "ssp": 5,
+      "hg": 5,
       "dc": 5
     },
     "divine_codes": {
@@ -194505,6 +195701,7 @@
     "id": "SID_速さの魅了1",
     "owner_ids": [
       "PID_ドロテア",
+      "PID_風光レダ",
       "PID_冬祭ルピナス",
       "PID_花嫁ピアニー"
     ],
@@ -194526,12 +195723,13 @@
       "hg": false,
       "dc": false,
       "ldc": true,
-      "foc": false
+      "foc": true
     },
     "olrwo": {
       "gsp": 3,
       "ssp": 4.5,
-      "ldc": 4
+      "ldc": 4,
+      "foc": 5
     },
     "divine_codes": {
       "limited": [
@@ -194554,6 +195752,7 @@
     "id": "SID_速さの魅了2",
     "owner_ids": [
       "PID_ドロテア",
+      "PID_風光レダ",
       "PID_冬祭ルピナス",
       "PID_花嫁ピアニー"
     ],
@@ -194575,12 +195774,13 @@
       "hg": false,
       "dc": false,
       "ldc": true,
-      "foc": false
+      "foc": true
     },
     "olrwo": {
       "gsp": 3,
       "ssp": 4.5,
-      "ldc": 4
+      "ldc": 4,
+      "foc": 5
     },
     "divine_codes": {
       "limited": [
@@ -194603,6 +195803,7 @@
     "id": "SID_速さの魅了3",
     "owner_ids": [
       "PID_ドロテア",
+      "PID_風光レダ",
       "PID_冬祭ルピナス",
       "PID_花嫁ピアニー"
     ],
@@ -194624,12 +195825,13 @@
       "hg": false,
       "dc": false,
       "ldc": true,
-      "foc": false
+      "foc": true
     },
     "olrwo": {
       "gsp": 3,
       "ssp": 4.5,
-      "ldc": 4
+      "ldc": 4,
+      "foc": 5
     },
     "divine_codes": {
       "limited": [
@@ -196023,6 +197225,7 @@
   {
     "id": "SID_速さ守備の魅惑",
     "owner_ids": [
+      "PID_風光レダ",
       "PID_花嫁ピアニー"
     ],
     "required_slots": {
@@ -196043,10 +197246,11 @@
       "hg": false,
       "dc": false,
       "ldc": false,
-      "foc": false
+      "foc": true
     },
     "olrwo": {
-      "ssp": 5
+      "ssp": 5,
+      "foc": 5
     }
   },
   {
@@ -197959,6 +199163,12 @@
           "month": 7,
           "rarity": 4,
           "cost": 100
+        },
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 4,
+          "cost": 100
         }
       ]
     }
@@ -198015,6 +199225,12 @@
           "month": 7,
           "rarity": 4,
           "cost": 100
+        },
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 4,
+          "cost": 100
         }
       ]
     }
@@ -198069,6 +199285,12 @@
         {
           "year": 2024,
           "month": 7,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2026,
+          "month": 9,
           "rarity": 4,
           "cost": 100
         }
@@ -201273,6 +202495,12 @@
           "month": 3,
           "rarity": 4,
           "cost": 100
+        },
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 4,
+          "cost": 100
         }
       ]
     }
@@ -201327,6 +202555,12 @@
           "month": 3,
           "rarity": 4,
           "cost": 100
+        },
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 4,
+          "cost": 100
         }
       ]
     }
@@ -201379,6 +202613,12 @@
         {
           "year": 2024,
           "month": 3,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2026,
+          "month": 9,
           "rarity": 4,
           "cost": 100
         }
@@ -210043,6 +211283,12 @@
           "month": 3,
           "rarity": 5,
           "cost": 300
+        },
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 4,
+          "cost": 100
         }
       ]
     }
@@ -210112,6 +211358,12 @@
           "month": 1,
           "rarity": 4,
           "cost": 100
+        },
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 4,
+          "cost": 100
         }
       ]
     }
@@ -210178,6 +211430,12 @@
         {
           "year": 2025,
           "month": 1,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2026,
+          "month": 9,
           "rarity": 4,
           "cost": 100
         }
@@ -210990,6 +212248,12 @@
           "month": 8,
           "rarity": 4,
           "cost": 100
+        },
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 5,
+          "cost": 300
         }
       ]
     }
@@ -211067,6 +212331,7 @@
       "PID_クレイン",
       "PID_比翼レーギャルン",
       "PID_開花レーギャルン",
+      "PID_風光レダ",
       "PID_双界リーフ",
       "PID_響心リーフ",
       "PID_伝承リーフ",
@@ -212141,6 +213406,12 @@
           "month": 7,
           "rarity": 4,
           "cost": 100
+        },
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 5,
+          "cost": 300
         }
       ]
     }
@@ -212170,6 +213441,7 @@
       "PID_伝承シーダ",
       "PID_響心シーダ",
       "PID_マトイ",
+      "PID_つながりカイ",
       "PID_カミュ",
       "PID_カチュア",
       "PID_セルバンテス",
@@ -212328,6 +213600,7 @@
       "PID_ターナ",
       "PID_花嫁タニス",
       "PID_ティト",
+      "PID_響心セオドラ",
       "PID_春祭トール",
       "PID_響心ミスティラ",
       "PID_ハロミスティラ",
@@ -213033,6 +214306,12 @@
           "month": 8,
           "rarity": 5,
           "cost": 300
+        },
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 4,
+          "cost": 100
         }
       ]
     }
@@ -213089,6 +214368,7 @@
       "PID_風部族ダグ",
       "PID_ダグ2味方",
       "PID_ディアマンド",
+      "PID_風光ディートリヒ",
       "PID_愛の祭ディミトリ",
       "PID_ドーガ",
       "PID_双界エーデルガルト",
@@ -213948,6 +215228,24 @@
           "month": 7,
           "rarity": 5,
           "cost": 300
+        },
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 4,
+          "cost": 100
         }
       ]
     }
@@ -214281,7 +215579,7 @@
       "g4": 4,
       "hg": 1,
       "hg4": 1,
-      "hg5": 4,
+      "hg5": 1,
       "dc": 1,
       "sh4": 1,
       "gsr": 1,
@@ -214292,7 +215590,7 @@
     "is_in": {
       "gsp": true,
       "ssp": true,
-      "hg": false,
+      "hg": true,
       "dc": true,
       "ldc": true,
       "foc": true
@@ -214300,6 +215598,7 @@
     "olrwo": {
       "gsp": 4.5,
       "ssp": 4.5,
+      "hg": 5,
       "dc": 5,
       "ldc": 5,
       "foc": 5
@@ -219121,6 +220420,7 @@
     "owner_ids": [
       "PID_双界ベレス",
       "PID_双界総選挙セリカ",
+      "PID_風光ディートリヒ",
       "PID_水着シャロン"
     ],
     "required_slots": {
@@ -220159,6 +221459,12 @@
           "month": 1,
           "rarity": 4,
           "cost": 100
+        },
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 4,
+          "cost": 100
         }
       ]
     }
@@ -220221,6 +221527,12 @@
         {
           "year": 2025,
           "month": 1,
+          "rarity": 4,
+          "cost": 100
+        },
+        {
+          "year": 2026,
+          "month": 9,
           "rarity": 4,
           "cost": 100
         }
@@ -222218,6 +223530,35 @@
       "shsr": 4,
       "g5": 1,
       "sh5": 4
+    },
+    "is_in": {
+      "gsp": true,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "olrwo": {
+      "gsp": 5
+    }
+  },
+  {
+    "id": "SID_尽きざるもの_一",
+    "owner_ids": [
+      "PID_総選挙ベルナデッタ"
+    ],
+    "required_slots": {
+      "g4": 1,
+      "hg": 1,
+      "hg4": 1,
+      "hg5": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 1,
+      "shsr": 1,
+      "g5": 1,
+      "sh5": 1
     },
     "is_in": {
       "gsp": true,
@@ -225172,6 +226513,12 @@
           "month": 7,
           "rarity": 4,
           "cost": 100
+        },
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 4,
+          "cost": 100
         }
       ]
     }
@@ -226008,6 +227355,7 @@
       "PID_ジャハナアイク",
       "PID_開花イシュタル",
       "PID_比翼ユリア",
+      "PID_風光レダ",
       "PID_闇レナ",
       "PID_リーヴ味方",
       "PID_幼少リズ",
@@ -226199,6 +227547,7 @@
       "PID_ジャハナアイク",
       "PID_開花イシュタル",
       "PID_比翼ユリア",
+      "PID_風光レダ",
       "PID_闇レナ",
       "PID_リーヴ味方",
       "PID_幼少リズ",
@@ -226390,6 +227739,7 @@
       "PID_ジャハナアイク",
       "PID_開花イシュタル",
       "PID_比翼ユリア",
+      "PID_風光レダ",
       "PID_闇レナ",
       "PID_リーヴ味方",
       "PID_幼少リズ",
@@ -229823,6 +231173,35 @@
     },
     "olrwo": {
       "ssp": 5
+    }
+  },
+  {
+    "id": "SID_初撃・追撃の鼓動",
+    "owner_ids": [
+      "PID_風光レダ"
+    ],
+    "required_slots": {
+      "g4": 4,
+      "hg": 1,
+      "hg4": 4,
+      "hg5": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 1,
+      "shsr": 4,
+      "g5": 4,
+      "sh5": 4
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "olrwo": {
+      "foc": 5
     }
   },
   {
@@ -233625,6 +235004,35 @@
     }
   },
   {
+    "id": "SID_刷新・拍節",
+    "owner_ids": [
+      "PID_響心セオドラ"
+    ],
+    "required_slots": {
+      "g4": 1,
+      "hg": 1,
+      "hg4": 1,
+      "hg5": 4,
+      "dc": 4,
+      "sh4": 4,
+      "gsr": 4,
+      "shsr": 1,
+      "g5": 4,
+      "sh5": 4
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "olrwo": {
+      "foc": 5
+    }
+  },
+  {
     "id": "SID_絶無の書",
     "owner_ids": [
       "PID_神階ブラミモンド"
@@ -234302,7 +235710,8 @@
   {
     "id": "SID_ウィークショット",
     "owner_ids": [
-      "PID_双界ヒルダ"
+      "PID_双界ヒルダ",
+      "PID_風光レダ"
     ],
     "required_slots": {
       "g4": 1,
@@ -234322,11 +235731,12 @@
       "hg": false,
       "dc": true,
       "ldc": false,
-      "foc": false
+      "foc": true
     },
     "olrwo": {
       "ssp": 5,
-      "dc": 5
+      "dc": 5,
+      "foc": 5
     },
     "divine_codes": {
       "normal": [
@@ -242231,11 +243641,22 @@
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "olrwo": {
-      "gsp": 3
+      "gsp": 3,
+      "ldc": 4
+    },
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
     }
   },
   {
@@ -242260,11 +243681,22 @@
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
     },
     "olrwo": {
-      "gsp": 3
+      "gsp": 3,
+      "ldc": 4
+    },
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2026,
+          "month": 9,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
     }
   },
   {

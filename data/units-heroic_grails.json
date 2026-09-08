@@ -1,112 +1,7 @@
 [
   {
     "start_time": "2018-11-08 05:00:00",
-    "unit_id": "PID_ベルクト",
-    "rarity": 4
-  },
-  {
-    "start_time": "2018-11-08 05:00:00",
-    "unit_id": "PID_エスリン",
-    "rarity": 4
-  },
-  {
-    "start_time": "2018-11-08 05:00:00",
-    "unit_id": "PID_カミュ",
-    "rarity": 4
-  },
-  {
-    "start_time": "2018-11-08 05:00:00",
-    "unit_id": "PID_カナス",
-    "rarity": 4
-  },
-  {
-    "start_time": "2018-11-08 05:00:00",
-    "unit_id": "PID_ルフレ女",
-    "rarity": 4
-  },
-  {
-    "start_time": "2018-11-08 05:00:00",
-    "unit_id": "PID_ゼフィール",
-    "rarity": 4
-  },
-  {
-    "start_time": "2018-11-08 05:00:00",
-    "unit_id": "PID_クライネ",
-    "rarity": 4
-  },
-  {
-    "start_time": "2018-11-08 05:00:00",
-    "unit_id": "PID_クレーベ",
-    "rarity": 4
-  },
-  {
-    "start_time": "2018-11-08 05:00:00",
-    "unit_id": "PID_ローロー",
-    "rarity": 4
-  },
-  {
-    "start_time": "2018-11-08 05:00:00",
-    "unit_id": "PID_年明けカムイ男",
-    "rarity": 4
-  },
-  {
-    "start_time": "2018-11-08 05:00:00",
-    "unit_id": "PID_オリヴァー",
-    "rarity": 4
-  },
-  {
-    "start_time": "2018-11-08 05:00:00",
-    "unit_id": "PID_フィン",
-    "rarity": 4
-  },
-  {
-    "start_time": "2018-11-08 05:00:00",
-    "unit_id": "PID_ジャムカ",
-    "rarity": 4
-  },
-  {
-    "start_time": "2018-11-08 05:00:00",
     "unit_id": "PID_ライナス",
-    "rarity": 4
-  },
-  {
-    "start_time": "2018-11-08 05:00:00",
-    "unit_id": "PID_ナバール",
-    "rarity": 4
-  },
-  {
-    "start_time": "2018-11-08 05:00:00",
-    "unit_id": "PID_ナーシェン",
-    "rarity": 4
-  },
-  {
-    "start_time": "2018-11-08 05:00:00",
-    "unit_id": "PID_ロイド",
-    "rarity": 4
-  },
-  {
-    "start_time": "2018-11-08 05:00:00",
-    "unit_id": "PID_ミシェイル",
-    "rarity": 4
-  },
-  {
-    "start_time": "2018-11-08 05:00:00",
-    "unit_id": "PID_仮面ルキナ",
-    "rarity": 4
-  },
-  {
-    "start_time": "2018-11-08 05:00:00",
-    "unit_id": "PID_愛の祭エリウッド",
-    "rarity": 4
-  },
-  {
-    "start_time": "2018-11-08 05:00:00",
-    "unit_id": "PID_花婿マルス",
-    "rarity": 4
-  },
-  {
-    "start_time": "2018-11-08 05:00:00",
-    "unit_id": "PID_リオン",
     "rarity": 4
   },
   {
@@ -136,27 +31,12 @@
   },
   {
     "start_time": "2018-11-08 05:00:00",
-    "unit_id": "PID_ヨシュア",
-    "rarity": 4
-  },
-  {
-    "start_time": "2018-11-08 05:00:00",
     "unit_id": "PID_ウルスラ",
     "rarity": 4
   },
   {
     "start_time": "2018-11-08 05:00:00",
-    "unit_id": "PID_ユリウス",
-    "rarity": 4
-  },
-  {
-    "start_time": "2018-11-08 05:00:00",
-    "unit_id": "PID_マリカ",
-    "rarity": 4
-  },
-  {
-    "start_time": "2018-11-08 05:00:00",
-    "unit_id": "PID_カンナ男",
+    "unit_id": "PID_ベルクト",
     "rarity": 4
   },
   {
@@ -176,7 +56,107 @@
   },
   {
     "start_time": "2018-11-08 05:00:00",
-    "unit_id": "PID_ジェローム",
+    "unit_id": "PID_サイアス",
+    "rarity": 4
+  },
+  {
+    "start_time": "2018-11-08 05:00:00",
+    "unit_id": "PID_カミュ",
+    "rarity": 4
+  },
+  {
+    "start_time": "2018-11-08 05:00:00",
+    "unit_id": "PID_カナス",
+    "rarity": 4
+  },
+  {
+    "start_time": "2018-11-08 05:00:00",
+    "unit_id": "PID_ルフレ女",
+    "rarity": 4
+  },
+  {
+    "start_time": "2018-11-08 05:00:00",
+    "unit_id": "PID_クライネ",
+    "rarity": 4
+  },
+  {
+    "start_time": "2018-11-08 05:00:00",
+    "unit_id": "PID_クレーベ",
+    "rarity": 4
+  },
+  {
+    "start_time": "2018-11-08 05:00:00",
+    "unit_id": "PID_年明けカムイ男",
+    "rarity": 4
+  },
+  {
+    "start_time": "2018-11-08 05:00:00",
+    "unit_id": "PID_オリヴァー",
+    "rarity": 4
+  },
+  {
+    "start_time": "2018-11-08 05:00:00",
+    "unit_id": "PID_ナバール",
+    "rarity": 4
+  },
+  {
+    "start_time": "2018-11-08 05:00:00",
+    "unit_id": "PID_ナーシェン",
+    "rarity": 4
+  },
+  {
+    "start_time": "2018-11-08 05:00:00",
+    "unit_id": "PID_ミシェイル",
+    "rarity": 4
+  },
+  {
+    "start_time": "2018-11-08 05:00:00",
+    "unit_id": "PID_仮面ルキナ",
+    "rarity": 4
+  },
+  {
+    "start_time": "2018-11-08 05:00:00",
+    "unit_id": "PID_花婿マルス",
+    "rarity": 4
+  },
+  {
+    "start_time": "2018-11-08 05:00:00",
+    "unit_id": "PID_愛の祭エリウッド",
+    "rarity": 4
+  },
+  {
+    "start_time": "2018-11-08 05:00:00",
+    "unit_id": "PID_マリカ",
+    "rarity": 4
+  },
+  {
+    "start_time": "2018-11-08 05:00:00",
+    "unit_id": "PID_リオン",
+    "rarity": 4
+  },
+  {
+    "start_time": "2018-11-08 05:00:00",
+    "unit_id": "PID_エスリン",
+    "rarity": 4
+  },
+  {
+    "start_time": "2018-11-08 05:00:00",
+    "unit_id": "PID_ロイド",
+    "rarity": 4
+  },
+  {
+    "start_time": "2018-11-08 05:00:00",
+    "unit_id": "PID_フィン",
+    "rarity": 4
+  },
+  {
+    "start_time": "2018-11-08 05:00:00",
+    "unit_id": "PID_ローロー",
+    "rarity": 4
+  },
+  {
+    "start_time": "2018-11-08 05:00:00",
+    "unit_id": "PID_ゼフィール",
     "rarity": 4
   },
   {
@@ -186,7 +166,27 @@
   },
   {
     "start_time": "2018-11-08 05:00:00",
-    "unit_id": "PID_サイアス",
+    "unit_id": "PID_ジェローム",
+    "rarity": 4
+  },
+  {
+    "start_time": "2018-11-08 05:00:00",
+    "unit_id": "PID_カンナ男",
+    "rarity": 4
+  },
+  {
+    "start_time": "2018-11-08 05:00:00",
+    "unit_id": "PID_ユリウス",
+    "rarity": 4
+  },
+  {
+    "start_time": "2018-11-08 05:00:00",
+    "unit_id": "PID_ヨシュア",
+    "rarity": 4
+  },
+  {
+    "start_time": "2018-11-08 05:00:00",
+    "unit_id": "PID_ジャムカ",
     "rarity": 4
   },
   {
@@ -241,17 +241,12 @@
   },
   {
     "start_time": "2019-05-09 01:30:00",
-    "unit_id": "PID_ルトガー",
-    "rarity": 4
-  },
-  {
-    "start_time": "2019-05-09 01:30:00",
     "unit_id": "PID_春祭ロキ",
     "rarity": 4
   },
   {
-    "start_time": "2019-06-10 01:30:00",
-    "unit_id": "PID_行楽レオン",
+    "start_time": "2019-05-09 01:30:00",
+    "unit_id": "PID_ルトガー",
     "rarity": 4
   },
   {
@@ -260,13 +255,18 @@
     "rarity": 4
   },
   {
-    "start_time": "2019-07-08 01:30:00",
-    "unit_id": "PID_花嫁ルイーズ",
+    "start_time": "2019-06-10 01:30:00",
+    "unit_id": "PID_行楽レオン",
     "rarity": 4
   },
   {
     "start_time": "2019-07-08 01:30:00",
     "unit_id": "PID_催眠デューテ",
+    "rarity": 4
+  },
+  {
+    "start_time": "2019-07-08 01:30:00",
+    "unit_id": "PID_花嫁ルイーズ",
     "rarity": 4
   },
   {
@@ -301,12 +301,12 @@
   },
   {
     "start_time": "2019-11-06 03:30:00",
-    "unit_id": "PID_アストリア",
+    "unit_id": "PID_舞踏リネア",
     "rarity": 4
   },
   {
     "start_time": "2019-11-06 03:30:00",
-    "unit_id": "PID_舞踏リネア",
+    "unit_id": "PID_アストリア",
     "rarity": 4
   },
   {
@@ -331,17 +331,17 @@
   },
   {
     "start_time": "2020-02-06 04:00:00",
+    "unit_id": "PID_年明エイル",
+    "rarity": 4
+  },
+  {
+    "start_time": "2020-02-06 04:00:00",
     "unit_id": "PID_ケンプフ",
     "rarity": 4
   },
   {
     "start_time": "2020-02-06 04:00:00",
     "unit_id": "PID_冬祭ジャファル",
-    "rarity": 4
-  },
-  {
-    "start_time": "2020-02-06 04:00:00",
-    "unit_id": "PID_年明エイル",
     "rarity": 4
   },
   {
@@ -356,22 +356,22 @@
   },
   {
     "start_time": "2020-04-07 03:00:00",
-    "unit_id": "PID_愛の祭シルク",
-    "rarity": 4
-  },
-  {
-    "start_time": "2020-04-07 03:00:00",
     "unit_id": "PID_ヒース",
     "rarity": 4
   },
   {
-    "start_time": "2020-05-07 01:00:00",
-    "unit_id": "PID_春祭バアトル",
+    "start_time": "2020-04-07 03:00:00",
+    "unit_id": "PID_愛の祭シルク",
     "rarity": 4
   },
   {
     "start_time": "2020-05-07 01:00:00",
     "unit_id": "PID_炎帝",
+    "rarity": 4
+  },
+  {
+    "start_time": "2020-05-07 01:00:00",
+    "unit_id": "PID_春祭バアトル",
     "rarity": 4
   },
   {
@@ -396,12 +396,12 @@
   },
   {
     "start_time": "2020-08-06 02:00:00",
-    "unit_id": "PID_ギャンレル",
+    "unit_id": "PID_水着キルロイ",
     "rarity": 4
   },
   {
     "start_time": "2020-08-06 02:00:00",
-    "unit_id": "PID_水着キルロイ",
+    "unit_id": "PID_ギャンレル",
     "rarity": 4
   },
   {
@@ -426,22 +426,22 @@
   },
   {
     "start_time": "2020-11-05 03:00:00",
-    "unit_id": "PID_舞踏エルトシャン",
-    "rarity": 4
-  },
-  {
-    "start_time": "2020-11-05 03:00:00",
     "unit_id": "PID_プラハ",
     "rarity": 4
   },
   {
-    "start_time": "2020-12-08 01:00:00",
-    "unit_id": "PID_ハロイナ",
+    "start_time": "2020-11-05 03:00:00",
+    "unit_id": "PID_舞踏エルトシャン",
     "rarity": 4
   },
   {
     "start_time": "2020-12-08 01:00:00",
     "unit_id": "PID_ネメシス",
+    "rarity": 4
+  },
+  {
+    "start_time": "2020-12-08 01:00:00",
+    "unit_id": "PID_ハロイナ",
     "rarity": 4
   },
   {
@@ -456,17 +456,17 @@
   },
   {
     "start_time": "2021-02-04 03:00:00",
-    "unit_id": "PID_ケセルダ",
-    "rarity": 4
-  },
-  {
-    "start_time": "2021-02-04 03:00:00",
     "unit_id": "PID_冬祭フェリクス",
     "rarity": 4
   },
   {
     "start_time": "2021-02-04 03:00:00",
     "unit_id": "PID_年明フランネル",
+    "rarity": 4
+  },
+  {
+    "start_time": "2021-02-04 03:00:00",
+    "unit_id": "PID_ケセルダ",
     "rarity": 4
   },
   {
@@ -501,12 +501,12 @@
   },
   {
     "start_time": "2021-06-07 03:00:00",
-    "unit_id": "PID_幼少ヒーニアス",
+    "unit_id": "PID_ソーニャ",
     "rarity": 4
   },
   {
     "start_time": "2021-06-07 03:00:00",
-    "unit_id": "PID_ソーニャ",
+    "unit_id": "PID_幼少ヒーニアス",
     "rarity": 4
   },
   {
@@ -521,17 +521,12 @@
   },
   {
     "start_time": "2021-08-04 03:00:00",
-    "unit_id": "PID_フェルナン",
-    "rarity": 4
-  },
-  {
-    "start_time": "2021-08-04 03:00:00",
     "unit_id": "PID_水着レオニー",
     "rarity": 4
   },
   {
-    "start_time": "2021-09-06 03:00:00",
-    "unit_id": "PID_水着ノルン",
+    "start_time": "2021-08-04 03:00:00",
+    "unit_id": "PID_フェルナン",
     "rarity": 4
   },
   {
@@ -540,8 +535,8 @@
     "rarity": 4
   },
   {
-    "start_time": "2021-10-06 01:00:00",
-    "unit_id": "PID_海賊リフィス",
+    "start_time": "2021-09-06 03:00:00",
+    "unit_id": "PID_水着ノルン",
     "rarity": 4
   },
   {
@@ -550,8 +545,8 @@
     "rarity": 4
   },
   {
-    "start_time": "2021-11-04 03:00:00",
-    "unit_id": "PID_聖祭ナンナ",
+    "start_time": "2021-10-06 01:00:00",
+    "unit_id": "PID_海賊リフィス",
     "rarity": 4
   },
   {
@@ -560,13 +555,18 @@
     "rarity": 4
   },
   {
-    "start_time": "2021-12-06 00:00:00",
-    "unit_id": "PID_ザガロ",
+    "start_time": "2021-11-04 03:00:00",
+    "unit_id": "PID_聖祭ナンナ",
     "rarity": 4
   },
   {
     "start_time": "2021-12-06 00:00:00",
     "unit_id": "PID_ハロソフィーヤ",
+    "rarity": 4
+  },
+  {
+    "start_time": "2021-12-06 00:00:00",
+    "unit_id": "PID_ザガロ",
     "rarity": 4
   },
   {
@@ -596,12 +596,12 @@
   },
   {
     "start_time": "2022-03-07 09:00:00",
-    "unit_id": "PID_アーヴ",
+    "unit_id": "PID_ハタリディーン",
     "rarity": 4
   },
   {
     "start_time": "2022-03-07 09:00:00",
-    "unit_id": "PID_ハタリディーン",
+    "unit_id": "PID_アーヴ",
     "rarity": 4
   },
   {
@@ -616,12 +616,12 @@
   },
   {
     "start_time": "2022-05-09 09:00:00",
-    "unit_id": "PID_セイラム",
+    "unit_id": "PID_春祭リュート",
     "rarity": 4
   },
   {
     "start_time": "2022-05-09 09:00:00",
-    "unit_id": "PID_春祭リュート",
+    "unit_id": "PID_セイラム",
     "rarity": 4
   },
   {
@@ -646,22 +646,22 @@
   },
   {
     "start_time": "2022-08-08 03:00:00",
-    "unit_id": "PID_水着エリンシア",
-    "rarity": 4
-  },
-  {
-    "start_time": "2022-08-08 03:00:00",
     "unit_id": "PID_リムステラ",
     "rarity": 4
   },
   {
-    "start_time": "2022-09-06 03:00:00",
-    "unit_id": "PID_水着ゼト",
+    "start_time": "2022-08-08 03:00:00",
+    "unit_id": "PID_水着エリンシア",
     "rarity": 4
   },
   {
     "start_time": "2022-09-06 03:00:00",
     "unit_id": "PID_盗賊頭",
+    "rarity": 4
+  },
+  {
+    "start_time": "2022-09-06 03:00:00",
+    "unit_id": "PID_水着ゼト",
     "rarity": 4
   },
   {
@@ -676,12 +676,12 @@
   },
   {
     "start_time": "2022-11-07 09:00:00",
-    "unit_id": "PID_炎部族モゥディ",
+    "unit_id": "PID_ホルスト",
     "rarity": 4
   },
   {
     "start_time": "2022-11-07 09:00:00",
-    "unit_id": "PID_ホルスト",
+    "unit_id": "PID_炎部族モゥディ",
     "rarity": 4
   },
   {
@@ -711,12 +711,12 @@
   },
   {
     "start_time": "2023-02-06 00:00:00",
-    "unit_id": "PID_年明シャンブレー",
+    "unit_id": "PID_ガンズ",
     "rarity": 4
   },
   {
     "start_time": "2023-02-06 00:00:00",
-    "unit_id": "PID_ガンズ",
+    "unit_id": "PID_年明シャンブレー",
     "rarity": 4
   },
   {
@@ -731,12 +731,12 @@
   },
   {
     "start_time": "2023-04-06 09:00:00",
-    "unit_id": "PID_愛の祭エルフィ",
+    "unit_id": "PID_ルドベック",
     "rarity": 4
   },
   {
     "start_time": "2023-04-06 09:00:00",
-    "unit_id": "PID_ルドベック",
+    "unit_id": "PID_愛の祭エルフィ",
     "rarity": 4
   },
   {
@@ -751,17 +751,12 @@
   },
   {
     "start_time": "2023-06-07 03:00:00",
-    "unit_id": "PID_幼少ルセア",
-    "rarity": 4
-  },
-  {
-    "start_time": "2023-06-07 03:00:00",
     "unit_id": "PID_コルネリア",
     "rarity": 4
   },
   {
-    "start_time": "2023-07-06 03:00:00",
-    "unit_id": "PID_花婿ルフレ男",
+    "start_time": "2023-06-07 03:00:00",
+    "unit_id": "PID_幼少ルセア",
     "rarity": 4
   },
   {
@@ -770,8 +765,8 @@
     "rarity": 4
   },
   {
-    "start_time": "2023-08-07 00:00:00",
-    "unit_id": "PID_マードック",
+    "start_time": "2023-07-06 03:00:00",
+    "unit_id": "PID_花婿ルフレ男",
     "rarity": 4
   },
   {
@@ -780,8 +775,8 @@
     "rarity": 4
   },
   {
-    "start_time": "2023-09-06 00:00:00",
-    "unit_id": "PID_水着ドニ",
+    "start_time": "2023-08-07 00:00:00",
+    "unit_id": "PID_マードック",
     "rarity": 4
   },
   {
@@ -790,8 +785,8 @@
     "rarity": 4
   },
   {
-    "start_time": "2023-10-02 23:00:00",
-    "unit_id": "PID_お茶会ティルテュ",
+    "start_time": "2023-09-06 00:00:00",
+    "unit_id": "PID_水着ドニ",
     "rarity": 4
   },
   {
@@ -800,8 +795,8 @@
     "rarity": 4
   },
   {
-    "start_time": "2023-11-07 07:00:00",
-    "unit_id": "PID_風部族フウガ",
+    "start_time": "2023-10-02 23:00:00",
+    "unit_id": "PID_お茶会ティルテュ",
     "rarity": 4
   },
   {
@@ -810,13 +805,18 @@
     "rarity": 4
   },
   {
-    "start_time": "2023-12-06 05:00:00",
-    "unit_id": "PID_マーラ",
+    "start_time": "2023-11-07 07:00:00",
+    "unit_id": "PID_風部族フウガ",
     "rarity": 4
   },
   {
     "start_time": "2023-12-06 05:00:00",
     "unit_id": "PID_ハロカラム",
+    "rarity": 4
+  },
+  {
+    "start_time": "2023-12-06 05:00:00",
+    "unit_id": "PID_マーラ",
     "rarity": 4
   },
   {
@@ -831,7 +831,7 @@
   },
   {
     "start_time": "2024-02-06 03:00:00",
-    "unit_id": "PID_ファウダー",
+    "unit_id": "PID_年明カンナ女",
     "rarity": 4
   },
   {
@@ -841,12 +841,7 @@
   },
   {
     "start_time": "2024-02-06 03:00:00",
-    "unit_id": "PID_年明カンナ女",
-    "rarity": 4
-  },
-  {
-    "start_time": "2024-03-06 03:00:00",
-    "unit_id": "PID_ナバタホークアイ",
+    "unit_id": "PID_ファウダー",
     "rarity": 4
   },
   {
@@ -855,8 +850,8 @@
     "rarity": 4
   },
   {
-    "start_time": "2024-04-04 03:00:00",
-    "unit_id": "PID_愛の祭ヴィガルド",
+    "start_time": "2024-03-06 03:00:00",
+    "unit_id": "PID_ナバタホークアイ",
     "rarity": 4
   },
   {
@@ -865,8 +860,8 @@
     "rarity": 4
   },
   {
-    "start_time": "2024-05-07 03:00:00",
-    "unit_id": "PID_カシム",
+    "start_time": "2024-04-04 03:00:00",
+    "unit_id": "PID_愛の祭ヴィガルド",
     "rarity": 4
   },
   {
@@ -875,13 +870,18 @@
     "rarity": 4
   },
   {
-    "start_time": "2024-06-06 04:00:00",
-    "unit_id": "PID_ドラジェ",
+    "start_time": "2024-05-07 03:00:00",
+    "unit_id": "PID_カシム",
     "rarity": 4
   },
   {
     "start_time": "2024-06-06 04:00:00",
     "unit_id": "PID_幼少フレデリク",
+    "rarity": 4
+  },
+  {
+    "start_time": "2024-06-06 04:00:00",
+    "unit_id": "PID_ドラジェ",
     "rarity": 4
   },
   {
@@ -896,17 +896,12 @@
   },
   {
     "start_time": "2024-08-06 03:00:00",
-    "unit_id": "PID_ジェルド",
-    "rarity": 4
-  },
-  {
-    "start_time": "2024-08-06 03:00:00",
     "unit_id": "PID_水着ヴェイク",
     "rarity": 4
   },
   {
-    "start_time": "2024-09-05 07:00:00",
-    "unit_id": "PID_水着ドゥドゥー",
+    "start_time": "2024-08-06 03:00:00",
+    "unit_id": "PID_ジェルド",
     "rarity": 4
   },
   {
@@ -915,13 +910,18 @@
     "rarity": 4
   },
   {
-    "start_time": "2024-10-03 03:00:00",
-    "unit_id": "PID_パネトネ",
+    "start_time": "2024-09-05 07:00:00",
+    "unit_id": "PID_水着ドゥドゥー",
     "rarity": 4
   },
   {
     "start_time": "2024-10-03 03:00:00",
     "unit_id": "PID_浴衣タクミ",
+    "rarity": 4
+  },
+  {
+    "start_time": "2024-10-03 03:00:00",
+    "unit_id": "PID_パネトネ",
     "rarity": 4
   },
   {
@@ -936,12 +936,17 @@
   },
   {
     "start_time": "2024-12-05 04:00:00",
-    "unit_id": "PID_メトジェイ",
+    "unit_id": "PID_ハロシャンブレー",
     "rarity": 4
   },
   {
     "start_time": "2024-12-05 04:00:00",
-    "unit_id": "PID_ハロシャンブレー",
+    "unit_id": "PID_メトジェイ",
+    "rarity": 4
+  },
+  {
+    "start_time": "2025-01-06 07:00:00",
+    "unit_id": "PID_ツァイス",
     "rarity": 4
   },
   {
@@ -950,8 +955,8 @@
     "rarity": 4
   },
   {
-    "start_time": "2025-01-06 07:00:00",
-    "unit_id": "PID_ツァイス",
+    "start_time": "2025-02-06 03:00:00",
+    "unit_id": "PID_ヴァイダ",
     "rarity": 4
   },
   {
@@ -962,11 +967,6 @@
   {
     "start_time": "2025-02-06 03:00:00",
     "unit_id": "PID_年明ヒーニアス",
-    "rarity": 4
-  },
-  {
-    "start_time": "2025-02-06 03:00:00",
-    "unit_id": "PID_ヴァイダ",
     "rarity": 4
   },
   {
@@ -991,12 +991,12 @@
   },
   {
     "start_time": "2025-05-07 00:00:00",
-    "unit_id": "PID_ジュダ",
+    "unit_id": "PID_春祭ロンクー",
     "rarity": 4
   },
   {
     "start_time": "2025-05-07 00:00:00",
-    "unit_id": "PID_春祭ロンクー",
+    "unit_id": "PID_ジュダ",
     "rarity": 4
   },
   {
@@ -1031,12 +1031,12 @@
   },
   {
     "start_time": "2025-09-04 04:00:00",
-    "unit_id": "PID_ダグダ",
+    "unit_id": "PID_水着バルタザール",
     "rarity": 4
   },
   {
     "start_time": "2025-09-04 04:00:00",
-    "unit_id": "PID_水着バルタザール",
+    "unit_id": "PID_ダグダ",
     "rarity": 4
   },
   {
@@ -1051,12 +1051,12 @@
   },
   {
     "start_time": "2025-11-05 03:00:00",
-    "unit_id": "PID_フェリアオグマ",
+    "unit_id": "PID_ハイタカ",
     "rarity": 4
   },
   {
     "start_time": "2025-11-05 03:00:00",
-    "unit_id": "PID_ハイタカ",
+    "unit_id": "PID_フェリアオグマ",
     "rarity": 4
   },
   {
@@ -1076,8 +1076,8 @@
   },
   {
     "start_time": "2026-02-05 04:00:00",
-    "unit_id": "PID_年明アシュ",
-    "rarity": 5
+    "unit_id": "PID_冬祭ゼルコバ",
+    "rarity": 4
   },
   {
     "start_time": "2026-02-05 04:00:00",
@@ -1086,8 +1086,8 @@
   },
   {
     "start_time": "2026-02-05 04:00:00",
-    "unit_id": "PID_冬祭ゼルコバ",
-    "rarity": 4
+    "unit_id": "PID_年明アシュ",
+    "rarity": 5
   },
   {
     "start_time": "2026-03-05 07:00:00",
@@ -1106,17 +1106,12 @@
   },
   {
     "start_time": "2026-05-07 01:00:00",
-    "unit_id": "PID_春祭ベルナデッタ",
-    "rarity": 5
-  },
-  {
-    "start_time": "2026-05-07 01:00:00",
     "unit_id": "PID_ワレス",
     "rarity": 4
   },
   {
-    "start_time": "2026-06-04 05:00:00",
-    "unit_id": "PID_幼少エリウッド",
+    "start_time": "2026-05-07 01:00:00",
+    "unit_id": "PID_春祭ベルナデッタ",
     "rarity": 5
   },
   {
@@ -1125,8 +1120,8 @@
     "rarity": 4
   },
   {
-    "start_time": "2026-07-06 08:00:00",
-    "unit_id": "PID_花嫁アンナ覚醒",
+    "start_time": "2026-06-04 05:00:00",
+    "unit_id": "PID_幼少エリウッド",
     "rarity": 5
   },
   {
@@ -1135,8 +1130,23 @@
     "rarity": 4
   },
   {
+    "start_time": "2026-07-06 08:00:00",
+    "unit_id": "PID_花嫁アンナ覚醒",
+    "rarity": 5
+  },
+  {
     "start_time": "2026-08-06 04:00:00",
     "unit_id": "PID_水着エフラム",
+    "rarity": 5
+  },
+  {
+    "start_time": "2026-09-08 01:00:00",
+    "unit_id": "PID_ブシュロン",
+    "rarity": 4
+  },
+  {
+    "start_time": "2026-09-08 01:00:00",
+    "unit_id": "PID_水着アイビー",
     "rarity": 5
   }
 ]

@@ -1106,6 +1106,13 @@
     "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/9d/Caellach_Tiger_Eye_BtlFace_D.webp/revision/latest?cb=20201208090935"
   },
   {
+    "id": "PID_つながりカイ",
+    "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/7f/Cai_Child_of_Ribeira_Face.webp/revision/latest?cb=20260908024948",
+    "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/55/Cai_Child_of_Ribeira_BtlFace.webp/revision/latest?cb=20260908025615",
+    "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/51/Cai_Child_of_Ribeira_BtlFace_C.webp/revision/latest?cb=20260908025631",
+    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/db/Cai_Child_of_Ribeira_BtlFace_D.webp/revision/latest?cb=20260908025635"
+  },
+  {
     "id": "PID_カイン",
     "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e0/Cain_The_Bull_Face.webp/revision/latest?cb=20190920194951",
     "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/68/Cain_The_Bull_BtlFace.webp/revision/latest?cb=20190920194955",
@@ -2082,6 +2089,13 @@
     "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/9b/Dieck_Wounded_Tiger_BtlFace.webp/revision/latest?cb=20201117060534",
     "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/cb/Dieck_Wounded_Tiger_BtlFace_C.webp/revision/latest?cb=20201117060536",
     "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e2/Dieck_Wounded_Tiger_BtlFace_D.webp/revision/latest?cb=20201117060538"
+  },
+  {
+    "id": "PID_風光ディートリヒ",
+    "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/14/Dietrich_Alluring_Killer_Face.webp/revision/latest?cb=20260908024953",
+    "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/7c/Dietrich_Alluring_Killer_BtlFace.webp/revision/latest?cb=20260908025646",
+    "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/67/Dietrich_Alluring_Killer_BtlFace_C.webp/revision/latest?cb=20260908025701",
+    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/2/25/Dietrich_Alluring_Killer_BtlFace_D.webp/revision/latest?cb=20260908025705"
   },
   {
     "id": "PID_冬祭ディミトリ",
@@ -5320,6 +5334,13 @@
     "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/2/22/Leanne_Forests_Song_BtlFace_D.webp/revision/latest?cb=20190920222442"
   },
   {
+    "id": "PID_風光レダ",
+    "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/de/Leda_Rose_of_Caelus_Face.webp/revision/latest?cb=20260908025004",
+    "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/df/Leda_Rose_of_Caelus_BtlFace.webp/revision/latest?cb=20260908025745",
+    "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/7f/Leda_Rose_of_Caelus_BtlFace_C.webp/revision/latest?cb=20260908025802",
+    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/71/Leda_Rose_of_Caelus_BtlFace_D.webp/revision/latest?cb=20260908025805"
+  },
+  {
     "id": "PID_ラガルト",
     "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/9a/Legault_The_Hurricane_Face.webp/revision/latest?cb=20190920215243",
     "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e1/Legault_The_Hurricane_BtlFace.webp/revision/latest?cb=20190920215248",
@@ -8274,7 +8295,11 @@
     "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d8/Robin_Fell_Vessel_Face.webp/revision/latest?cb=20190920214128",
     "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/35/Robin_Fell_Vessel_BtlFace.webp/revision/latest?cb=20190920214134",
     "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f1/Robin_Fell_Vessel_BtlFace_C.webp/revision/latest?cb=20190920214139",
-    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c4/Robin_Fell_Vessel_BtlFace_D.webp/revision/latest?cb=20190920214145"
+    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c4/Robin_Fell_Vessel_BtlFace_D.webp/revision/latest?cb=20190920214145",
+    "art_resp_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/56/Robin_Fell_Vessel_Resplendent_Face.webp/revision/latest?cb=20260908025551",
+    "art_resp_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/45/Robin_Fell_Vessel_Resplendent_BtlFace.webp/revision/latest?cb=20260908025526",
+    "art_resp_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/af/Robin_Fell_Vessel_Resplendent_BtlFace_C.webp/revision/latest?cb=20260908025541",
+    "art_resp_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/31/Robin_Fell_Vessel_Resplendent_BtlFace_D.webp/revision/latest?cb=20260908025545"
   },
   {
     "id": "PID_冬祭ルフレ男",
@@ -9688,6 +9713,13 @@
     "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/6c/Thea_Wings_of_Winter_BtlFace.webp/revision/latest?cb=20240905081049",
     "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/48/Thea_Wings_of_Winter_BtlFace_C.webp/revision/latest?cb=20240905081105",
     "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/db/Thea_Wings_of_Winter_BtlFace_D.webp/revision/latest?cb=20240905081110"
+  },
+  {
+    "id": "PID_響心セオドラ",
+    "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c4/Theodora_Mighty_Queen_Face.webp/revision/latest?cb=20260908024958",
+    "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/3b/Theodora_Mighty_Queen_BtlFace.webp/revision/latest?cb=20260908025716",
+    "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/2/25/Theodora_Mighty_Queen_BtlFace_C.webp/revision/latest?cb=20260908025731",
+    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/5b/Theodora_Mighty_Queen_BtlFace_D.webp/revision/latest?cb=20260908025736"
   },
   {
     "id": "PID_春祭トール",

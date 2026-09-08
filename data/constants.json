@@ -22,6 +22,7 @@
     "Fire Emblem Heroes",
     "Fire Emblem Shadows",
     "Fire Emblem Warriors: Three Hopes",
+    "Fire Emblem: Fortune's Weave",
     "Fire Emblem: Genealogy of the Holy War",
     "Fire Emblem: Mystery of the Emblem",
     "Fire Emblem: New Mystery of the Emblem",
@@ -113,6 +114,7 @@
     "【Divine Vein (Green)】<br>Applies the following effects on space for foes: Foe cannot warp from this space or into this space (does not affect units with Pass skills or warp effects from structures like camps and fortresses in Rival Domains). Inflicts Special cooldown charge -1 on foe per attack (only highest value applied; does not stack). (Divine Vein effects do not stack; replaces any existing Divine Vein effect; Divine Vein effects applied simultaneously cancel each other out.)",
     "【Divine Vein (Haze)】<br>Applies the following effects on space: Inflicts Atk/Spd/Def/Res-5 on foe and neutralizes foe's bonuses (from skills like Fortify, Rally, etc.) during combat. (Divine Vein effects do not stack; replaces any existing Divine Vein effect; Divine Vein effects applied simultaneously cancel each other out.)",
     "【Divine Vein (Haze)】<br>Applies the following effects on space: Inflicts Atk/Spd/Def/Res-5 on foe and neutralizes foe's bonuses during combat.",
+    "【Divine Vein (Hell)】<br>Applies the following effects on space: Acts as difficult terrain for foes (moving over this space costs +1 movement; does not apply to \"cannot be slowed by terrain\" effects; movement cost cannot exceed unit's allowed movement). At start of enemy phase, deals 10 damage to foes (will not reduce foe's HP below 1). Inflicts Spd-5 on foes and foes suffer +10 damage (excluding area-of-effect Specials) during combat. (Divine Vein effects do not stack; replaces any existing Divine Vein effect; Divine Vein effects applied simultaneously cancel each other out.)",
     "【Divine Vein (Ice)】<br>Applies the following status on space: Foes treat space as impassable terrain while status is active, but status is destructible (with 1 HP). Allies can move into and occupy space. If any allies occupy spaces with Divine Vein (Ice) applied, attacks targeting those spaces will hit the ally over destroying the Divine Vein (Ice). (Divine Vein effects do not stack; replaces any existing Divine Vein effect; Divine Vein effects applied simultaneously cancel each other out. Does not count as defensive terrain. Does not trigger in Pawns of Loki.)",
     "【Divine Vein (Ice)】<br>Applies the following status on space: Foes treat space as impassable terrain while status is active, but status is destructible (with 1 HP). Allies can move into and occupy space. If any allies occupy spaces with Divine Vein (Ice) applied, attacks targeting those spaces will hit the ally over destroying the Divine Vein (Ice). (Does not trigger in Pawns of Loki.)",
     "【Divine Vein (Icicle)】<br>Applies the following status on space: Foes treat space as impassable terrain while status is active, but status is destructible (with 1 HP). When destroyed, it changes to 【Divine Vein (Vert)】. Allies can move into and occupy space. If any allies occupy spaces with Divine Vein (Icicle) applied, attacks targeting those spaces will hit the ally over destroying the Divine Vein (Icicle).",
@@ -128,6 +130,7 @@
     "【Dominance】<br>Unit deals additional damage = total penalties on foe for 1 turn.",
     "【Dosage】<br>Grants Atk/Spd/Def/Res+5 to unit during combat and restores 10 HP to unit after combat.<br><br>When a foe triggers both \"grants the【Bonus】effects active on foe\" and \"neutralizes any【Bonus】active on foe\" effects from skills such as Essence Drain on unit with this status active, prevents those effects on unit and other targets and neutralizes any【Bonus】effects active on that foe (does not neutralize【Bonus】effects applied at the same time).",
     "【Draconic Hex】<br>Inflicts Atk/Spd/Def/Res-5 on foe during combat and inflicts penalty on each of those stats = 5 - current penalty on each of those stats during combat for 1 turn (min 0; calculates each stat penalty independently).",
+    "【Drain Cancel】<br>Grants Atk/Spd/Def/Res+4 to unit during combat.<br><br>When a foe triggers both \"grants the Bonus effects active on foe\" and \"neutralizes any Bonus active on foe\" effects from skills such as Essence Drain on unit with this status active, prevents those effects on unit and other targets and neutralizes any Bonus effects active on that foe (does not neutralize Bonus effects applied at the same time).",
     "【Drain Cancel】<br>Grants Atk/Spd/Def/Res+4 to unit during combat.<br><br>When a foe triggers both \"grants the【Bonus】 effects active on foe\" and \"neutralizes any 【Bonus】active on foe\" effects from skills such as Essence Drain on unit with this status active, prevents those effects on unit and other targets and neutralizes any【Bonus】effects active on that foe (does not neutralize【Bonus】 effects applied at the same time).",
     "【Drain Cancel】<br>Grants Atk/Spd/Def/Res+4 to unit during combat.<br><br>When a foe triggers both \"grants the【Bonus】<br>effects active on foe\" and \"neutralizes any 【Bonus】active on foe\" effects from skills such as Essence Drain on unit with this status active, prevents those effects on unit and other targets and neutralizes any【Bonus】effects active on that foe (does not neutralize【Bonus】<br>effects applied at the same time).",
     "【Dual Strike】<br>If unit initiates combat and is adjacent to an ally with Dual Strike (excluding unit), unit attacks twice. (That turn only. Does not stack.)",
@@ -169,6 +172,7 @@
     "【Imbue】<br>Reduces the effect of【Deep Wounds】on unit by 50% during combat, and restores 40% of unit's maximum HP as unit's combat begins for 1 turn (triggers after effects that deal damage as combat begins; only highest value applied; does not stack).",
     "【Incited】<br>If unit initiates combat, grants bonus to unit's Atk/Spd/Def/Res = number of spaces from start position to end position of unit during combat (max 3; that turn only).",
     "【Isolation】<br>Target cannot use or be the target of Assist skills through its next action. (Target can neither use nor be the target of skills like Dance and Sing, skills that neutralize penalties, like Restore and Harsh Command+, etc.)",
+    "【Leap】<br>Unit can move through spaces that are normally impassable by unit and passable by flying units, as long as those spaces are not contiguous.",
     "【Magic Twin Save】<br>If a magic, staff, or dragon foe initiates combat against an ally within 2 spaces of unit, triggers Savior on unit (triggers only if unit is not equipped with a skill that can trigger another Savior effect; if unit is granted multiple statuses that enable \"Savior\" effects to trigger, Savior will not trigger).<br><br>If foe uses magic, staff, or dragon damage, disables foe's effects that \"calculate damage using the lower of foe's Def or Res\" (including area-of-effect Specials), and any \"reduces damage by X%\" effect that can be triggered only once per combat by unit's equipped Special skill can be triggered up to twice per combat during combat (excludes boosted Special effects from engaging; only highest value applied; does not stack).",
     "【Null Follow-Up】<br>If unit's Spd > foe's Spd during combat, neutralizes effects that guarantee foe's follow-up attacks and effects that prevent unit's follow-up attacks for 1 turn.",
     "【Null Follow-Up】<br>If unit's Spd > foe's Spd, neutralizes effects that guarantee foe's follow-up attacks and effects that prevent unit's follow-up attacks during combat.",
@@ -241,7 +245,7 @@
     "【Vantage】<br>If foe initiates combat, unit can counterattack before foe's first attack for 1 turn.",
     "【Warp Bubble】<br>Foes cannot warp into spaces within 4 spaces of unit. (Does not affect foes with Pass skills or warp effects from structures, like camps and fortresses in Rival Domains.)"
   ],
-  "units_count": 1410,
+  "units_count": 1414,
   "units_max_hp": 60,
   "units_max_hp_ids": [
     "PID_アーダン"
@@ -252,11 +256,14 @@
     "PID_愛の祭エーデル",
     "PID_総選挙エイクス",
     "PID_総選挙シグルド",
+    "PID_響心セオドラ",
     "PID_魔器シアチ味方"
   ],
   "units_max_spd": 50,
   "units_max_spd_ids": [
-    "PID_総選挙つばさ"
+    "PID_総選挙つばさ",
+    "PID_風光ディートリヒ",
+    "PID_風光レダ"
   ],
   "units_max_def": 50,
   "units_max_def_ids": [
