@@ -9868,5 +9868,33 @@
     "recommended_boon": "def",
     "recommended_bane": "hp",
     "recommended_plus10": null
+  },
+  {
+    "id": "PID_つながりカイ",
+    "game8_rating": "9.5",
+    "recommended_boon": "spd",
+    "recommended_bane": "res",
+    "recommended_plus10": null
+  },
+  {
+    "id": "PID_響心セオドラ",
+    "game8_rating": "9.5",
+    "recommended_boon": "def",
+    "recommended_bane": "hp",
+    "recommended_plus10": null
+  },
+  {
+    "id": "PID_風光ディートリヒ",
+    "game8_rating": "9.9",
+    "recommended_boon": "spd",
+    "recommended_bane": "res",
+    "recommended_plus10": null
+  },
+  {
+    "id": "PID_風光レダ",
+    "game8_rating": "9.5",
+    "recommended_boon": "spd",
+    "recommended_bane": "res",
+    "recommended_plus10": null
   }
 ]

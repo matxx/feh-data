@@ -6933,7 +6933,7 @@
   {
     "name": "Focus: Weekly Revival 38",
     "start_time": "2021-10-31 07:00:00",
-    "end_time": "2025-11-02 06:59:59",
+    "end_time": "2026-09-20 06:59:59",
     "unit_ids": [
       "PID_ウード",
       "PID_キュアン",
@@ -8683,7 +8683,7 @@
   {
     "name": "Bite of Flame",
     "start_time": "2022-09-07 07:00:00",
-    "end_time": "2026-08-09 06:59:59",
+    "end_time": "2026-09-25 06:59:59",
     "unit_ids": [
       "PID_双界ターナ",
       "PID_炎部族ムスペル",
@@ -10724,7 +10724,7 @@
   {
     "name": "Winds Offered",
     "start_time": "2023-09-07 07:00:00",
-    "end_time": "2025-09-21 06:59:59",
+    "end_time": "2026-09-22 06:59:59",
     "unit_ids": [
       "PID_比翼カゲロウ",
       "PID_風部族カチュア",
@@ -11677,7 +11677,7 @@
   {
     "name": "Focus: Weekly Revival 81",
     "start_time": "2024-02-11 07:00:00",
-    "end_time": "2025-08-03 06:59:59",
+    "end_time": "2026-09-20 06:59:59",
     "unit_ids": [
       "PID_ニフル味方",
       "PID_闇マーク女",
@@ -12128,7 +12128,7 @@
   {
     "name": "Focus: Hall of Forms (Apr 2024)",
     "start_time": "2024-04-22 07:00:00",
-    "end_time": "2024-05-13 06:59:59",
+    "end_time": "2026-09-30 06:59:59",
     "unit_ids": [
       "PID_クロエ",
       "PID_セリーヌ",
@@ -12908,7 +12908,7 @@
   {
     "name": "Icy Invitation",
     "start_time": "2024-09-06 07:00:00",
-    "end_time": "2025-09-18 06:59:59",
+    "end_time": "2026-09-21 06:59:59",
     "unit_ids": [
       "PID_比翼フィヨルム",
       "PID_氷部族ティト",
@@ -15170,7 +15170,7 @@
   {
     "name": "Beside Kin",
     "start_time": "2025-09-05 07:00:00",
-    "end_time": "2025-10-07 06:59:59",
+    "end_time": "2026-09-20 06:59:59",
     "unit_ids": [
       "PID_フェリアクロム",
       "PID_フェリアホリン",
@@ -16192,7 +16192,7 @@
   {
     "name": "Focus: Mythic Revival 1",
     "start_time": "2026-02-08 07:00:00",
-    "end_time": "2026-03-08 06:59:59",
+    "end_time": "2026-10-11 06:59:59",
     "unit_ids": [
       "PID_神階ソティス",
       "PID_神階ドーマ",
@@ -17073,7 +17073,7 @@
   {
     "name": "Focus: Weekly Revival 126",
     "start_time": "2026-05-31 07:00:00",
-    "end_time": "2026-06-07 06:59:59",
+    "end_time": "2026-09-20 06:59:59",
     "unit_ids": [
       "PID_ノア",
       "PID_開花フィル",
@@ -17588,6 +17588,38 @@
       "PID_開花アメリア",
       "PID_魔器サザ",
       "PID_魔器ルキナ"
+    ]
+  },
+  {
+    "name": "New Heroes: Fortune's Weave",
+    "start_time": "2026-09-08 07:00:00",
+    "end_time": "2026-10-07 06:59:59",
+    "unit_ids": [
+      "PID_つながりカイ",
+      "PID_響心セオドラ",
+      "PID_風光ディートリヒ",
+      "PID_風光レダ"
+    ]
+  },
+  {
+    "name": "Focus: New Power (Sep 2026)",
+    "start_time": "2026-09-09 07:00:00",
+    "end_time": "2026-09-24 06:59:59",
+    "unit_ids": [
+      "PID_総選挙アルフォンス",
+      "PID_総選挙フェリクス",
+      "PID_総選挙ベルナデッタ",
+      "PID_総選挙ルフレ女"
+    ]
+  },
+  {
+    "name": "Focus: Legendary Revival 8",
+    "start_time": "2026-09-13 07:00:00",
+    "end_time": "2026-10-11 06:59:59",
+    "unit_ids": [
+      "PID_伝承カムイ女",
+      "PID_伝承セリス",
+      "PID_伝承ディミトリ"
     ]
   }
 ]

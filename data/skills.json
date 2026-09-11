@@ -716,6 +716,7 @@
   },
   {
     "id": "SID_攻守信念・弱化無効",
+    "game8_id": "619771",
     "fandom_id": "A/D Tenet Hone",
     "name": "A/D Tenet Hone",
     "category": "passivec",
@@ -4149,6 +4150,7 @@
   },
   {
     "id": "SID_魔剣アンスウェラー",
+    "game8_id": "619762",
     "fandom_id": "Answerer",
     "name": "Answerer",
     "category": "weapon",
@@ -16437,6 +16439,7 @@
   },
   {
     "id": "SID_助走・青への分断",
+    "game8_id": "619766",
     "fandom_id": "Azure Impetus",
     "name": "Azure Impetus",
     "category": "passiveb",
@@ -24642,6 +24645,7 @@
   },
   {
     "id": "SID_活発",
+    "game8_id": "619770",
     "fandom_id": "Brio",
     "name": "Brio",
     "category": "passivec",
@@ -31130,6 +31134,7 @@
   },
   {
     "id": "SID_助走・赤への分断",
+    "game8_id": "619768",
     "fandom_id": "Crimson Impetus",
     "name": "Crimson Impetus",
     "category": "passiveb",
@@ -43939,6 +43944,7 @@
   },
   {
     "id": "SID_魅惑の奏者の弓",
+    "game8_id": "619763",
     "fandom_id": "Enchanting Bow",
     "name": "Enchanting Bow",
     "category": "weapon",
@@ -55644,6 +55650,7 @@
   },
   {
     "id": "SID_響・後の先",
+    "game8_id": "619774",
     "fandom_id": "Go No Sen Echo",
     "name": "Go No Sen Echo",
     "category": "passivex",
@@ -64901,6 +64908,7 @@
   },
   {
     "id": "SID_即興",
+    "game8_id": "619764",
     "fandom_id": "Improviso",
     "name": "Improviso",
     "category": "assist",
@@ -73661,6 +73669,7 @@
   },
   {
     "id": "SID_マハマドゥの槍",
+    "game8_id": "619761",
     "fandom_id": "Mahadu's Spear",
     "name": "Mahadu's Spear",
     "category": "weapon",
@@ -76215,6 +76224,7 @@
   },
   {
     "id": "SID_影渡り",
+    "game8_id": "619772",
     "fandom_id": "Moving Shadow",
     "name": "Moving Shadow",
     "category": "passivec",
@@ -92044,6 +92054,7 @@
   },
   {
     "id": "SID_リベイラ村の槍",
+    "game8_id": "619760",
     "fandom_id": "Ribeira Spear",
     "name": "Ribeira Spear",
     "category": "weapon",
@@ -93534,6 +93545,7 @@
   },
   {
     "id": "SID_不退の覚悟",
+    "game8_id": "619765",
     "fandom_id": "Royal Resolve",
     "name": "Royal Resolve",
     "category": "special",
@@ -120642,6 +120654,7 @@
   },
   {
     "id": "SID_初撃・追撃の鼓動",
+    "game8_id": "619773",
     "fandom_id": "Twofold Pulse",
     "name": "Twofold Pulse",
     "category": "passivec",
@@ -122852,6 +122865,7 @@
   },
   {
     "id": "SID_刷新・拍節",
+    "game8_id": "619767",
     "fandom_id": "Vivace",
     "name": "Vivace",
     "category": "passiveb",
