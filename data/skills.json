@@ -21436,6 +21436,20 @@
     ]
   },
   {
+    "id": "SID_攻防一体の陣",
+    "game8_id": "624218",
+    "fandom_id": "Bold Stance",
+    "name": "Bold Stance",
+    "category": "passiveb",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/43/Bold_Stance.png/revision/latest?cb=20260918213617",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 1,
+    "addition_date": "2026-09-18",
+    "release_date": "2026-09-18",
+    "version": "10.9"
+  },
+  {
     "id": "SID_ボルガノン",
     "game8_id": "265470",
     "fandom_id": "Bolganone",
@@ -21501,6 +21515,7 @@
       "SID_ストーン",
       "SID_光炎の姉妹の忍法帖",
       "SID_ライナロック",
+      "SID_希望の女神の聖具",
       "SID_呪い忍者の忍法帳",
       "SID_雇われ魔道士の書",
       "SID_皆への七つの贈り物",
@@ -22555,6 +22570,28 @@
     "addition_date": "2023-03-06",
     "release_date": "2023-03-07",
     "version": "7.3",
+    "downgrade_ids": [
+      "SID_銀の弓"
+    ]
+  },
+  {
+    "id": "SID_サカの娘二人の弓",
+    "game8_id": "624210",
+    "fandom_id": "Bow of Sacae",
+    "name": "Bow of Sacae",
+    "category": "weapon",
+    "weapon_type": "All Bow",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "range": 2,
+    "might": 14,
+    "eff": [
+      "flying"
+    ],
+    "addition_date": "2026-09-18",
+    "release_date": "2026-09-18",
+    "version": "10.9",
     "downgrade_ids": [
       "SID_銀の弓"
     ]
@@ -27633,6 +27670,35 @@
     "downgrade_ids": [
       "SID_ボルガノン",
       "SID_ノスフェラート"
+    ]
+  },
+  {
+    "id": "SID_凶鳥の一撃",
+    "game8_id": "624216",
+    "fandom_id": "Certain Blow",
+    "name": "Certain Blow",
+    "category": "passivea",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/a4/Certain_Blow.png/revision/latest?cb=20260918213606",
+    "sp": 300,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_not_use": [
+          "All Tome",
+          "All Breath",
+          "Colorless Staff"
+        ]
+      }
+    },
+    "addition_date": "2026-09-18",
+    "release_date": "2026-09-18",
+    "version": "10.9",
+    "downgrade_ids": [
+      "SID_鬼神の一撃3",
+      "SID_飛燕の一撃3"
     ]
   },
   {
@@ -33498,6 +33564,7 @@
     "release_date": "2017-02-02",
     "version": "1.0",
     "upgrade_ids": [
+      "SID_凶鳥の一撃",
       "SID_飛燕の一撃4",
       "SID_清流の一撃"
     ],
@@ -34313,6 +34380,7 @@
     "release_date": "2017-02-02",
     "version": "1.0",
     "upgrade_ids": [
+      "SID_凶鳥の一撃",
       "SID_鬼神の一撃4"
     ],
     "downgrade_ids": [
@@ -40613,6 +40681,7 @@
       "SID_真竜穿射",
       "SID_竜穿射",
       "SID_猛獣",
+      "SID_ハンターボレー",
       "SID_理路",
       "SID_反竜穿",
       "SID_天狼・天刻の拍動",
@@ -42523,6 +42592,32 @@
     "version": "2.3",
     "downgrade_ids": [
       "SID_強化無効・遠距離2"
+    ]
+  },
+  {
+    "id": "SID_牽制射撃・強化無効",
+    "game8_id": "624217",
+    "fandom_id": "Dull Suppress",
+    "name": "Dull Suppress",
+    "category": "passiveb",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/ca/Dull_Suppress.png/revision/latest?cb=20260918213627",
+    "sp": 400,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "All Bow"
+        ]
+      }
+    },
+    "addition_date": "2026-09-18",
+    "release_date": "2026-09-18",
+    "version": "10.9",
+    "downgrade_ids": [
+      "SID_速さ守備封じ2"
     ]
   },
   {
@@ -47022,6 +47117,7 @@
       "SID_四狗頭領の魔書",
       "SID_ストーン",
       "SID_光炎の姉妹の忍法帖",
+      "SID_希望の女神の聖具",
       "SID_呪い忍者の忍法帳",
       "SID_雇われ魔道士の書",
       "SID_皆への七つの贈り物",
@@ -63624,6 +63720,35 @@
     "version": "8.10",
     "downgrade_ids": [
       "SID_成獣の化身・騎馬"
+    ]
+  },
+  {
+    "id": "SID_ハンターボレー",
+    "game8_id": "624214",
+    "fandom_id": "Hunter's Volley",
+    "name": "Hunter's Volley",
+    "category": "special",
+    "sp": 500,
+    "tier": 3,
+    "cd": 5,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Infantry",
+          "Armored"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "All Bow"
+        ]
+      }
+    },
+    "addition_date": "2026-09-18",
+    "release_date": "2026-09-18",
+    "version": "10.9",
+    "downgrade_ids": [
+      "SID_竜穿"
     ]
   },
   {
@@ -80485,6 +80610,30 @@
     "version": "5.5"
   },
   {
+    "id": "SID_草原の飾り弓",
+    "game8_id": "624212",
+    "fandom_id": "Ornate Bow",
+    "name": "Ornate Bow",
+    "category": "weapon",
+    "weapon_type": "All Bow",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "range": 2,
+    "might": 14,
+    "eff": [
+      "beast",
+      "cavalry",
+      "flying"
+    ],
+    "addition_date": "2026-09-18",
+    "release_date": "2026-09-18",
+    "version": "10.9",
+    "downgrade_ids": [
+      "SID_銀の弓"
+    ]
+  },
+  {
     "id": "SID_鋭骨の槍",
     "game8_id": "535460",
     "fandom_id": "Osseous Trident",
@@ -85672,6 +85821,30 @@
     "version": "6.11",
     "downgrade_ids": [
       "SID_切り返し3"
+    ]
+  },
+  {
+    "id": "SID_始鼓動・見切り",
+    "game8_id": "624219",
+    "fandom_id": "Quicken Null",
+    "name": "Quicken Null",
+    "category": "passivec",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c4/Quicken_Null.png/revision/latest?cb=20260918213637",
+    "sp": 300,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Infantry"
+        ]
+      },
+      "weapons": null
+    },
+    "addition_date": "2026-09-18",
+    "release_date": "2026-09-18",
+    "version": "10.9",
+    "downgrade_ids": [
+      "SID_始まりの鼓動3"
     ]
   },
   {
@@ -95238,6 +95411,42 @@
     "version": "9.11"
   },
   {
+    "id": "SID_正真サカの掟",
+    "game8_id": "624215",
+    "fandom_id": "Sacaen Edicts",
+    "name": "Sacaen Edicts",
+    "category": "passivea",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/85/Sacaen_Edicts.png/revision/latest?cb=20260918213556",
+    "is_prf": true,
+    "sp": 300,
+    "tier": 1,
+    "addition_date": "2026-09-18",
+    "release_date": "2026-09-18",
+    "version": "10.9"
+  },
+  {
+    "id": "SID_草原の狩人の弓",
+    "game8_id": "624213",
+    "fandom_id": "Sacaen Hunter",
+    "name": "Sacaen Hunter",
+    "category": "weapon",
+    "weapon_type": "All Bow",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "range": 2,
+    "might": 14,
+    "eff": [
+      "flying"
+    ],
+    "addition_date": "2026-09-18",
+    "release_date": "2026-09-18",
+    "version": "10.9",
+    "downgrade_ids": [
+      "SID_銀の弓"
+    ]
+  },
+  {
     "id": "SID_若き狼の鋭弓",
     "game8_id": "435911",
     "fandom_id": "Sacaen-Wolf Bow",
@@ -97478,6 +97687,7 @@
     "release_date": "2019-03-08",
     "version": "3.3",
     "upgrade_ids": [
+      "SID_牽制射撃・強化無効",
       "SID_速さ守備封じ3"
     ],
     "downgrade_ids": [
@@ -100566,6 +100776,7 @@
       "SID_フレリアの玉弓",
       "SID_忠臣との絆の弓",
       "SID_うたた寝の春の弓",
+      "SID_サカの娘二人の弓",
       "SID_見えざる忍の暗殺弓",
       "SID_双聖戦士の聖弓",
       "SID_波間の欠片の鋭弓",
@@ -100607,6 +100818,7 @@
       "SID_友の風舞う翼弓",
       "SID_蛇弓ニーズヘッグ",
       "SID_ニザヴェリルの弩弓",
+      "SID_草原の飾り弓",
       "SID_パルティア",
       "SID_生涯の相棒の鋭弓",
       "SID_被害妄想の弓",
@@ -100615,6 +100827,7 @@
       "SID_涙目の速射弓",
       "SID_透き通る玻璃の弓",
       "SID_聖王女の弓",
+      "SID_草原の狩人の弓",
       "SID_悠久の黄砂の絆弓",
       "SID_自警団長の弓",
       "SID_銀の弓＋",
@@ -100630,7 +100843,8 @@
       "SID_戦姫の和弓",
       "SID_精緻なる観察眼の弓",
       "SID_翠風パルティア",
-      "SID_聖王国の父娘の神弓"
+      "SID_聖王国の父娘の神弓",
+      "SID_草原の風呼びの弓"
     ],
     "downgrade_ids": [
       "SID_鋼の弓"
@@ -118822,6 +119036,7 @@
       "SID_追撃の鼓動・刃",
       "SID_鍛錬の鼓動・刃",
       "SID_鍛錬の鼓動・謀策",
+      "SID_始鼓動・見切り",
       "SID_始まりの鼓動・鎧",
       "SID_始まりの鼓動・刃",
       "SID_始まりの鼓動・兜",
@@ -127781,6 +127996,28 @@
     "addition_date": "2017-07-13",
     "release_date": "2017-07-13",
     "version": "1.5"
+  },
+  {
+    "id": "SID_草原の風呼びの弓",
+    "game8_id": "624211",
+    "fandom_id": "Zephyr Bow",
+    "name": "Zephyr Bow",
+    "category": "weapon",
+    "weapon_type": "All Bow",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "range": 2,
+    "might": 14,
+    "eff": [
+      "flying"
+    ],
+    "addition_date": "2026-09-18",
+    "release_date": "2026-09-18",
+    "version": "10.9",
+    "downgrade_ids": [
+      "SID_銀の弓"
+    ]
   },
   {
     "id": "SID_春風のブレス",
@@ -146835,6 +147072,90 @@
     ]
   },
   {
+    "id": "SSID_速さ守備の遠影1",
+    "fandom_id": "S/D Far Trace",
+    "name": "S/D Far Trace 1",
+    "category": "sacredseal",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/a5/S_D_Far_Trace_1.png/revision/latest?cb=20220607041545",
+    "sp": 60,
+    "tier": 1,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Cavalry",
+          "Flying"
+        ]
+      },
+      "weapons": {
+        "can_not_use": [
+          "All Melee",
+          "All Breath",
+          "All Beast"
+        ]
+      }
+    },
+    "upgrade_ids": [
+      "SSID_速さ守備の遠影2"
+    ]
+  },
+  {
+    "id": "SSID_速さ守備の遠影2",
+    "fandom_id": "S/D Far Trace",
+    "name": "S/D Far Trace 2",
+    "category": "sacredseal",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/3a/S_D_Far_Trace_2.png/revision/latest?cb=20220607041550",
+    "sp": 120,
+    "tier": 2,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Cavalry",
+          "Flying"
+        ]
+      },
+      "weapons": {
+        "can_not_use": [
+          "All Melee",
+          "All Breath",
+          "All Beast"
+        ]
+      }
+    },
+    "upgrade_ids": [
+      "SSID_速さ守備の遠影3"
+    ],
+    "downgrade_ids": [
+      "SSID_速さ守備の遠影1"
+    ]
+  },
+  {
+    "id": "SSID_速さ守備の遠影3",
+    "fandom_id": "S/D Far Trace",
+    "name": "S/D Far Trace 3",
+    "category": "sacredseal",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/7e/S_D_Far_Trace_3.png/revision/latest?cb=20220607041554",
+    "sp": 240,
+    "tier": 3,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Cavalry",
+          "Flying"
+        ]
+      },
+      "weapons": {
+        "can_not_use": [
+          "All Melee",
+          "All Breath",
+          "All Beast"
+        ]
+      }
+    },
+    "downgrade_ids": [
+      "SSID_速さ守備の遠影2"
+    ]
+  },
+  {
     "id": "SSID_死の吐息1",
     "fandom_id": "Savage Blow",
     "name": "Savage Blow 1",
@@ -149425,6 +149746,90 @@
     },
     "downgrade_ids": [
       "SSID_速さ2"
+    ]
+  },
+  {
+    "id": "SSID_速さの吸収1",
+    "fandom_id": "Speedtaker",
+    "name": "Speedtaker 1",
+    "category": "sacredseal",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b6/Speedtaker_1.png/revision/latest?cb=20241225063932",
+    "sp": 60,
+    "tier": 1,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Infantry",
+          "Flying"
+        ]
+      },
+      "weapons": {
+        "can_not_use": [
+          "All Tome",
+          "All Breath",
+          "Colorless Staff"
+        ]
+      }
+    },
+    "upgrade_ids": [
+      "SSID_速さの吸収2"
+    ]
+  },
+  {
+    "id": "SSID_速さの吸収2",
+    "fandom_id": "Speedtaker",
+    "name": "Speedtaker 2",
+    "category": "sacredseal",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/be/Speedtaker_2.png/revision/latest?cb=20241225063940",
+    "sp": 120,
+    "tier": 2,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Infantry",
+          "Flying"
+        ]
+      },
+      "weapons": {
+        "can_not_use": [
+          "All Tome",
+          "All Breath",
+          "Colorless Staff"
+        ]
+      }
+    },
+    "upgrade_ids": [
+      "SSID_速さの吸収3"
+    ],
+    "downgrade_ids": [
+      "SSID_速さの吸収1"
+    ]
+  },
+  {
+    "id": "SSID_速さの吸収3",
+    "fandom_id": "Speedtaker",
+    "name": "Speedtaker 3",
+    "category": "sacredseal",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/2/22/Speedtaker_3.png/revision/latest?cb=20241225063951",
+    "sp": 240,
+    "tier": 3,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Infantry",
+          "Flying"
+        ]
+      },
+      "weapons": {
+        "can_not_use": [
+          "All Tome",
+          "All Breath",
+          "Colorless Staff"
+        ]
+      }
+    },
+    "downgrade_ids": [
+      "SSID_速さの吸収2"
     ]
   },
   {
@@ -152739,6 +153144,18 @@
     "addition_date": "2023-01-10",
     "release_date": "2023-01-10",
     "version": "7.1"
+  },
+  {
+    "id": "HARMONIZED_PID_双界リン2",
+    "game8_id": "624223",
+    "fandom_id": "Lyn: Earth and Sky",
+    "name": "Lyn: Earth and Sky",
+    "category": "harmonized",
+    "is_prf": true,
+    "tier": 1,
+    "addition_date": "2026-09-18",
+    "release_date": "2026-09-18",
+    "version": "10.9"
   },
   {
     "id": "HARMONIZED_PID_双界総選挙リン",

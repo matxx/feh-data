@@ -1120,11 +1120,11 @@
       "sh4": 1,
       "gsr": 4,
       "shsr": 4,
-      "g5": 4,
+      "g5": 1,
       "sh5": 4
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
@@ -1132,6 +1132,7 @@
       "foc": true
     },
     "olrwo": {
+      "gsp": 5,
       "foc": 5
     }
   },
@@ -2697,7 +2698,8 @@
   {
     "id": "SID_攻撃速さの予知逆用",
     "owner_ids": [
-      "PID_魔器浴衣ルフレ女"
+      "PID_魔器浴衣ルフレ女",
+      "PID_サカシャミア"
     ],
     "required_slots": {
       "g4": 4,
@@ -3138,11 +3140,11 @@
       "sh4": 1,
       "gsr": 1,
       "shsr": 4,
-      "g5": 4,
+      "g5": 1,
       "sh5": 4
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
@@ -3150,6 +3152,7 @@
       "foc": true
     },
     "olrwo": {
+      "gsp": 5,
       "foc": 5
     }
   },
@@ -3202,6 +3205,7 @@
     "id": "SID_攻速吸収・初撃鼓動",
     "owner_ids": [
       "PID_魔器リュール女",
+      "PID_サカシャミア",
       "PID_水着シャロン"
     ],
     "required_slots": {
@@ -7702,7 +7706,8 @@
     "id": "SID_攻撃速さの攻城戦1",
     "owner_ids": [
       "PID_神階ナーガ",
-      "PID_魔器浴衣ルフレ女"
+      "PID_魔器浴衣ルフレ女",
+      "PID_サカシャミア"
     ],
     "required_slots": {
       "g4": 1,
@@ -7733,7 +7738,8 @@
     "id": "SID_攻撃速さの攻城戦2",
     "owner_ids": [
       "PID_神階ナーガ",
-      "PID_魔器浴衣ルフレ女"
+      "PID_魔器浴衣ルフレ女",
+      "PID_サカシャミア"
     ],
     "required_slots": {
       "g4": 2,
@@ -7764,7 +7770,8 @@
     "id": "SID_攻撃速さの攻城戦3",
     "owner_ids": [
       "PID_神階ナーガ",
-      "PID_魔器浴衣ルフレ女"
+      "PID_魔器浴衣ルフレ女",
+      "PID_サカシャミア"
     ],
     "required_slots": {
       "g4": 3,
@@ -12857,6 +12864,7 @@
       "PID_伝承リーフ",
       "PID_紋章ルキナ",
       "PID_お供ルーテ",
+      "PID_双界リン2",
       "PID_リン",
       "PID_紋章リン",
       "PID_獣人リン",
@@ -25795,6 +25803,7 @@
       "PID_デュー",
       "PID_双界エイリーク",
       "PID_双界ワユ",
+      "PID_サカレベッカ",
       "PID_水着サーリャ"
     ],
     "required_slots": {
@@ -25848,6 +25857,7 @@
       "PID_デュー",
       "PID_双界エイリーク",
       "PID_双界ワユ",
+      "PID_サカレベッカ",
       "PID_水着サーリャ"
     ],
     "required_slots": {
@@ -25901,6 +25911,7 @@
       "PID_デュー",
       "PID_双界エイリーク",
       "PID_双界ワユ",
+      "PID_サカレベッカ",
       "PID_水着サーリャ"
     ],
     "required_slots": {
@@ -26539,7 +26550,8 @@
   {
     "id": "SID_攻撃速さの解放",
     "owner_ids": [
-      "PID_双界エイリーク"
+      "PID_双界エイリーク",
+      "PID_サカレベッカ"
     ],
     "required_slots": {
       "g4": 1,
@@ -26551,7 +26563,7 @@
       "gsr": 4,
       "shsr": 4,
       "g5": 4,
-      "sh5": 1
+      "sh5": 4
     },
     "is_in": {
       "gsp": false,
@@ -26562,7 +26574,7 @@
       "foc": false
     },
     "olrwo": {
-      "ssp": 5
+      "ssp": 4
     }
   },
   {
@@ -39504,6 +39516,35 @@
     }
   },
   {
+    "id": "SID_攻防一体の陣",
+    "owner_ids": [
+      "PID_つながりサカタクミ"
+    ],
+    "required_slots": {
+      "g4": 1,
+      "hg": 1,
+      "hg4": 1,
+      "hg5": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 1,
+      "shsr": 1,
+      "g5": 1,
+      "sh5": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": true,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "olrwo": {
+      "ssp": 5
+    }
+  },
+  {
     "id": "SID_ボルガノン",
     "owner_ids": [
       "PID_アルヴィス",
@@ -41421,6 +41462,35 @@
           "cost": 300
         }
       ]
+    }
+  },
+  {
+    "id": "SID_サカの娘二人の弓",
+    "owner_ids": [
+      "PID_双界リン2"
+    ],
+    "required_slots": {
+      "g4": 1,
+      "hg": 1,
+      "hg4": 1,
+      "hg5": 4,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 4,
+      "shsr": 4,
+      "g5": 4,
+      "sh5": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": true,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "olrwo": {
+      "ssp": 5
     }
   },
   {
@@ -50037,6 +50107,35 @@
     }
   },
   {
+    "id": "SID_凶鳥の一撃",
+    "owner_ids": [
+      "PID_つながりサカタクミ"
+    ],
+    "required_slots": {
+      "g4": 1,
+      "hg": 1,
+      "hg4": 1,
+      "hg5": 4,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 4,
+      "shsr": 3,
+      "g5": 4,
+      "sh5": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": true,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "olrwo": {
+      "ssp": 5
+    }
+  },
+  {
     "id": "SID_つたうみなすじ",
     "owner_ids": [
       "PID_響心アクア"
@@ -57240,16 +57339,19 @@
       "sh4": 2,
       "gsr": 1,
       "shsr": 3,
-      "g5": 3,
+      "g5": 1,
       "sh5": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
+    },
+    "olrwo": {
+      "gsp": 5
     }
   },
   {
@@ -62507,6 +62609,7 @@
       "PID_ハタリニケ",
       "PID_ニノ2",
       "PID_オフェリア",
+      "PID_サカレベッカ",
       "PID_年明レギン",
       "PID_レギン",
       "PID_舞踏ラインハルト",
@@ -62515,6 +62618,7 @@
       "PID_愛の祭ロイ",
       "PID_ジークベルト",
       "PID_怪盗サザ",
+      "PID_つながりサカタクミ",
       "PID_忍者サーリャ",
       "PID_ティバーン",
       "PID_ウルスラ",
@@ -62719,10 +62823,12 @@
       "PID_ホークアイ",
       "PID_クレイン",
       "PID_リシテア",
+      "PID_サカレベッカ",
       "PID_舞踏ラインハルト",
       "PID_ラインハルト2",
       "PID_愛の祭ロイ",
       "PID_ジークベルト",
+      "PID_つながりサカタクミ",
       "PID_ウルスラ"
     ],
     "required_slots": {
@@ -62733,7 +62839,7 @@
       "dc": 1,
       "sh4": 1,
       "gsr": 2,
-      "shsr": 1,
+      "shsr": 2,
       "g5": 2,
       "sh5": 2
     },
@@ -62747,7 +62853,7 @@
     },
     "olrwo": {
       "gsp": 3,
-      "ssp": 4.5,
+      "ssp": 4,
       "hg": 4,
       "ldc": 4,
       "foc": 5
@@ -62840,10 +62946,12 @@
       "PID_ホークアイ",
       "PID_クレイン",
       "PID_リシテア",
+      "PID_サカレベッカ",
       "PID_舞踏ラインハルト",
       "PID_ラインハルト2",
       "PID_愛の祭ロイ",
       "PID_ジークベルト",
+      "PID_つながりサカタクミ",
       "PID_ウルスラ"
     ],
     "required_slots": {
@@ -62852,9 +62960,9 @@
       "hg4": 1,
       "hg5": 3,
       "dc": 2,
-      "sh4": 2,
+      "sh4": 1,
       "gsr": 3,
-      "shsr": 1,
+      "shsr": 3,
       "g5": 3,
       "sh5": 3
     },
@@ -62868,7 +62976,7 @@
     },
     "olrwo": {
       "gsp": 3,
-      "ssp": 4.5,
+      "ssp": 4,
       "hg": 4,
       "ldc": 4,
       "foc": 5
@@ -62959,7 +63067,7 @@
       "hg4": 1,
       "hg5": 4,
       "dc": 3,
-      "sh4": 3,
+      "sh4": 1,
       "gsr": 1,
       "shsr": 1,
       "g5": 4,
@@ -63404,7 +63512,7 @@
       "sh5": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": true,
       "hg": false,
       "dc": false,
@@ -63412,6 +63520,7 @@
       "foc": false
     },
     "olrwo": {
+      "gsp": 5,
       "ssp": 4.5,
       "ldc": 5
     },
@@ -63441,11 +63550,11 @@
       "sh4": 2,
       "gsr": 2,
       "shsr": 1,
-      "g5": 2,
+      "g5": 1,
       "sh5": 2
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": true,
       "hg": false,
       "dc": false,
@@ -63453,6 +63562,7 @@
       "foc": false
     },
     "olrwo": {
+      "gsp": 5,
       "ssp": 4.5,
       "ldc": 5
     },
@@ -63482,11 +63592,11 @@
       "sh4": 3,
       "gsr": 3,
       "shsr": 1,
-      "g5": 3,
+      "g5": 1,
       "sh5": 3
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": true,
       "hg": false,
       "dc": false,
@@ -63494,6 +63604,7 @@
       "foc": false
     },
     "olrwo": {
+      "gsp": 5,
       "ssp": 4.5,
       "ldc": 5
     },
@@ -68749,12 +68860,15 @@
       "sh5": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
+    },
+    "olrwo": {
+      "gsp": 5
     }
   },
   {
@@ -74313,6 +74427,7 @@
       "PID_パーン",
       "PID_魔器浴衣ルフレ女",
       "PID_伝承ロイ",
+      "PID_サカシャミア",
       "PID_シャロン22025味方",
       "PID_水着シャロン",
       "PID_ジークベルト",
@@ -74677,6 +74792,7 @@
       "PID_伝承ロイ",
       "PID_花嫁サイリ",
       "PID_花婿セリス",
+      "PID_サカシャミア",
       "PID_花嫁シャニー",
       "PID_シャロン22025味方",
       "PID_比翼シャロン",
@@ -78741,6 +78857,35 @@
           "cost": 100
         }
       ]
+    }
+  },
+  {
+    "id": "SID_牽制射撃・強化無効",
+    "owner_ids": [
+      "PID_双界リン2"
+    ],
+    "required_slots": {
+      "g4": 1,
+      "hg": 3,
+      "hg4": 3,
+      "hg5": 3,
+      "dc": 3,
+      "sh4": 4,
+      "gsr": 4,
+      "shsr": 3,
+      "g5": 4,
+      "sh5": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": true,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "olrwo": {
+      "ssp": 5
     }
   },
   {
@@ -103799,6 +103944,7 @@
       "PID_海賊スルト",
       "PID_スルト味方",
       "PID_総選挙シルヴァン",
+      "PID_つながりサカタクミ",
       "PID_ティト",
       "PID_響心セオドラ",
       "PID_トール味方",
@@ -111070,6 +111216,7 @@
       "PID_ギュンター",
       "PID_比翼ヒノカ",
       "PID_ルキノ",
+      "PID_サカレベッカ",
       "PID_サイゾウ",
       "PID_サナキ",
       "PID_怪盗サザ",
@@ -111187,6 +111334,7 @@
       "PID_総選挙門番",
       "PID_比翼ヒノカ",
       "PID_ルキノ",
+      "PID_サカレベッカ",
       "PID_怪盗サザ",
       "PID_花嫁タニス"
     ],
@@ -118446,6 +118594,35 @@
     }
   },
   {
+    "id": "SID_ハンターボレー",
+    "owner_ids": [
+      "PID_サカシャミア"
+    ],
+    "required_slots": {
+      "g4": 1,
+      "hg": 1,
+      "hg4": 1,
+      "hg5": 3,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 3,
+      "shsr": 3,
+      "g5": 3,
+      "sh5": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": true,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "olrwo": {
+      "ssp": 5
+    }
+  },
+  {
     "id": "SID_狩猟の鋭刃",
     "owner_ids": [
       "PID_ペトラ"
@@ -118921,12 +119098,15 @@
       "sh5": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
+    },
+    "olrwo": {
+      "gsp": 5
     }
   },
   {
@@ -120233,6 +120413,7 @@
       "PID_忍者シェズ男",
       "PID_ハロスクリミル",
       "PID_総選挙シルヴァン",
+      "PID_つながりサカタクミ",
       "PID_ティト",
       "PID_響心セオドラ",
       "PID_魔器闇ティバーン",
@@ -125049,6 +125230,7 @@
       "PID_紋章ルキナ",
       "PID_比翼ルキナ",
       "PID_総選挙リン",
+      "PID_双界リン2",
       "PID_双界総選挙リン",
       "PID_水着リン",
       "PID_伝承リン",
@@ -125072,6 +125254,7 @@
       "PID_砂漠ラファエル",
       "PID_ラス",
       "PID_幼少レベッカ",
+      "PID_サカレベッカ",
       "PID_レベッカ",
       "PID_忍者ユウギリ",
       "PID_ハロヨファ",
@@ -125082,11 +125265,13 @@
       "PID_セツナ",
       "PID_シャミア",
       "PID_比翼シャミア",
+      "PID_サカシャミア",
       "PID_花嫁シャニー",
       "PID_シノン",
       "PID_忍者シノン",
       "PID_アシュラ",
       "PID_スー",
+      "PID_つながりサカタクミ",
       "PID_眷属タクミ",
       "PID_水着タクミ",
       "PID_タクミ",
@@ -128275,16 +128460,19 @@
       "sh4": 1,
       "gsr": 1,
       "shsr": 4,
-      "g5": 4,
+      "g5": 1,
       "sh5": 4
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
+    },
+    "olrwo": {
+      "gsp": 5
     }
   },
   {
@@ -132803,16 +132991,19 @@
       "sh4": 1,
       "gsr": 4,
       "shsr": 4,
-      "g5": 4,
+      "g5": 1,
       "sh5": 4
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
+    },
+    "olrwo": {
+      "gsp": 5
     }
   },
   {
@@ -142622,16 +142813,19 @@
       "sh4": 1,
       "gsr": 4,
       "shsr": 4,
-      "g5": 4,
+      "g5": 1,
       "sh5": 4
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
+    },
+    "olrwo": {
+      "gsp": 5
     }
   },
   {
@@ -147652,6 +147846,7 @@
       "PID_紋章ルキナ",
       "PID_お供ルーテ",
       "PID_リュート",
+      "PID_双界リン2",
       "PID_リン",
       "PID_紋章リン",
       "PID_獣人リン",
@@ -149260,16 +149455,19 @@
       "sh4": 4,
       "gsr": 4,
       "shsr": 4,
-      "g5": 4,
+      "g5": 1,
       "sh5": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
+    },
+    "olrwo": {
+      "gsp": 5
     }
   },
   {
@@ -153832,6 +154030,35 @@
     }
   },
   {
+    "id": "SID_草原の飾り弓",
+    "owner_ids": [
+      "PID_サカレベッカ"
+    ],
+    "required_slots": {
+      "g4": 1,
+      "hg": 1,
+      "hg4": 1,
+      "hg5": 4,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 4,
+      "shsr": 4,
+      "g5": 4,
+      "sh5": 4
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": true,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "olrwo": {
+      "ssp": 4
+    }
+  },
+  {
     "id": "SID_鋭骨の槍",
     "owner_ids": [
       "PID_水着バルタザール"
@@ -157956,12 +158183,15 @@
       "sh5": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
+    },
+    "olrwo": {
+      "gsp": 5
     }
   },
   {
@@ -162829,6 +163059,35 @@
     },
     "olrwo": {
       "foc": 5
+    }
+  },
+  {
+    "id": "SID_始鼓動・見切り",
+    "owner_ids": [
+      "PID_つながりサカタクミ"
+    ],
+    "required_slots": {
+      "g4": 4,
+      "hg": 1,
+      "hg4": 4,
+      "hg5": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 1,
+      "shsr": 4,
+      "g5": 4,
+      "sh5": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": true,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "olrwo": {
+      "ssp": 5
     }
   },
   {
@@ -174852,11 +175111,11 @@
       "sh4": 1,
       "gsr": 1,
       "shsr": 4,
-      "g5": 4,
+      "g5": 1,
       "sh5": 4
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
@@ -174864,6 +175123,7 @@
       "foc": true
     },
     "olrwo": {
+      "gsp": 5,
       "foc": 5
     }
   },
@@ -179120,11 +179380,11 @@
       "sh4": 4,
       "gsr": 4,
       "shsr": 1,
-      "g5": 4,
+      "g5": 1,
       "sh5": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": true,
       "hg": false,
       "dc": false,
@@ -179132,6 +179392,7 @@
       "foc": false
     },
     "olrwo": {
+      "gsp": 5,
       "ssp": 5
     }
   },
@@ -180921,6 +181182,64 @@
     }
   },
   {
+    "id": "SID_正真サカの掟",
+    "owner_ids": [
+      "PID_双界リン2"
+    ],
+    "required_slots": {
+      "g4": 1,
+      "hg": 1,
+      "hg4": 1,
+      "hg5": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 1,
+      "shsr": 1,
+      "g5": 1,
+      "sh5": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": true,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "olrwo": {
+      "ssp": 5
+    }
+  },
+  {
+    "id": "SID_草原の狩人の弓",
+    "owner_ids": [
+      "PID_サカシャミア"
+    ],
+    "required_slots": {
+      "g4": 1,
+      "hg": 1,
+      "hg4": 1,
+      "hg5": 4,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 4,
+      "shsr": 4,
+      "g5": 4,
+      "sh5": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": true,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "olrwo": {
+      "ssp": 5
+    }
+  },
+  {
     "id": "SID_若き狼の鋭弓",
     "owner_ids": [
       "PID_ラス"
@@ -181094,16 +181413,19 @@
       "sh4": 1,
       "gsr": 4,
       "shsr": 4,
-      "g5": 4,
+      "g5": 1,
       "sh5": 4
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
+    },
+    "olrwo": {
+      "gsp": 5
     }
   },
   {
@@ -184522,6 +184844,7 @@
       "PID_アッシュ",
       "PID_エスト",
       "PID_水着フレデリク",
+      "PID_双界リン2",
       "PID_開花マリク",
       "PID_忍者ノワール",
       "PID_伝承シェズ女",
@@ -184706,6 +185029,7 @@
     "id": "SID_速さ守備封じ1",
     "owner_ids": [
       "PID_アッシュ",
+      "PID_双界リン2",
       "PID_伝承シェズ女",
       "PID_ティト"
     ],
@@ -184719,11 +185043,11 @@
       "gsr": 2,
       "shsr": 1,
       "g5": 2,
-      "sh5": 2
+      "sh5": 1
     },
     "is_in": {
       "gsp": true,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
       "ldc": true,
@@ -184731,6 +185055,7 @@
     },
     "olrwo": {
       "gsp": 3,
+      "ssp": 5,
       "ldc": 4,
       "foc": 5
     },
@@ -184749,6 +185074,7 @@
     "id": "SID_速さ守備封じ2",
     "owner_ids": [
       "PID_アッシュ",
+      "PID_双界リン2",
       "PID_伝承シェズ女",
       "PID_ティト"
     ],
@@ -184762,11 +185088,11 @@
       "gsr": 3,
       "shsr": 2,
       "g5": 3,
-      "sh5": 3
+      "sh5": 1
     },
     "is_in": {
       "gsp": true,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
       "ldc": true,
@@ -184774,6 +185100,7 @@
     },
     "olrwo": {
       "gsp": 3,
+      "ssp": 5,
       "ldc": 4,
       "foc": 5
     },
@@ -184804,7 +185131,7 @@
       "gsr": 4,
       "shsr": 3,
       "g5": 1,
-      "sh5": 4
+      "sh5": 1
     },
     "is_in": {
       "gsp": true,
@@ -186461,16 +186788,19 @@
       "sh4": 4,
       "gsr": 4,
       "shsr": 4,
-      "g5": 4,
+      "g5": 1,
       "sh5": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
+    },
+    "olrwo": {
+      "gsp": 5
     }
   },
   {
@@ -186482,6 +186812,7 @@
       "PID_グロア味方",
       "PID_響心リーフ",
       "PID_比翼ルキナ",
+      "PID_双界リン2",
       "PID_つながりニニアン",
       "PID_レギン2味方",
       "PID_総選挙シグルド"
@@ -186499,7 +186830,7 @@
       "sh5": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": true,
       "hg": false,
       "dc": true,
@@ -186507,6 +186838,7 @@
       "foc": true
     },
     "olrwo": {
+      "gsp": 5,
       "ssp": 4,
       "dc": 5,
       "foc": 5
@@ -186540,6 +186872,7 @@
       "PID_グロア味方",
       "PID_響心リーフ",
       "PID_比翼ルキナ",
+      "PID_双界リン2",
       "PID_つながりニニアン",
       "PID_レギン2味方",
       "PID_総選挙シグルド"
@@ -186553,11 +186886,11 @@
       "sh4": 1,
       "gsr": 2,
       "shsr": 2,
-      "g5": 2,
+      "g5": 1,
       "sh5": 2
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": true,
       "hg": false,
       "dc": true,
@@ -186565,6 +186898,7 @@
       "foc": true
     },
     "olrwo": {
+      "gsp": 5,
       "ssp": 4,
       "dc": 5,
       "foc": 5
@@ -186598,6 +186932,7 @@
       "PID_グロア味方",
       "PID_響心リーフ",
       "PID_比翼ルキナ",
+      "PID_双界リン2",
       "PID_つながりニニアン",
       "PID_レギン2味方",
       "PID_総選挙シグルド"
@@ -186611,11 +186946,11 @@
       "sh4": 1,
       "gsr": 3,
       "shsr": 3,
-      "g5": 3,
+      "g5": 1,
       "sh5": 3
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": true,
       "hg": false,
       "dc": true,
@@ -186623,6 +186958,7 @@
       "foc": true
     },
     "olrwo": {
+      "gsp": 5,
       "ssp": 4,
       "dc": 5,
       "foc": 5
@@ -186666,7 +187002,7 @@
       "sh4": 1,
       "gsr": 4,
       "shsr": 4,
-      "g5": 4,
+      "g5": 1,
       "sh5": 1
     },
     "is_in": {
@@ -186706,6 +187042,7 @@
     "id": "SID_影助・引戻・十紋章",
     "owner_ids": [
       "PID_グロア味方",
+      "PID_双界リン2",
       "PID_総選挙シグルド"
     ],
     "required_slots": {
@@ -186717,18 +187054,20 @@
       "sh4": 1,
       "gsr": 4,
       "shsr": 4,
-      "g5": 4,
-      "sh5": 4
+      "g5": 1,
+      "sh5": 1
     },
     "is_in": {
-      "gsp": false,
-      "ssp": false,
+      "gsp": true,
+      "ssp": true,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": true
     },
     "olrwo": {
+      "gsp": 5,
+      "ssp": 5,
       "foc": 5
     }
   },
@@ -186897,7 +187236,7 @@
       "sh5": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": true,
       "hg": false,
       "dc": false,
@@ -186905,6 +187244,7 @@
       "foc": false
     },
     "olrwo": {
+      "gsp": 5,
       "ssp": 5
     }
   },
@@ -186924,11 +187264,11 @@
       "sh4": 2,
       "gsr": 2,
       "shsr": 2,
-      "g5": 2,
+      "g5": 1,
       "sh5": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": true,
       "hg": false,
       "dc": false,
@@ -186936,6 +187276,7 @@
       "foc": false
     },
     "olrwo": {
+      "gsp": 5,
       "ssp": 5
     }
   },
@@ -186955,11 +187296,11 @@
       "sh4": 3,
       "gsr": 3,
       "shsr": 3,
-      "g5": 3,
+      "g5": 1,
       "sh5": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": true,
       "hg": false,
       "dc": false,
@@ -186967,6 +187308,7 @@
       "foc": false
     },
     "olrwo": {
+      "gsp": 5,
       "ssp": 5
     }
   },
@@ -186985,7 +187327,7 @@
       "sh4": 4,
       "gsr": 4,
       "shsr": 4,
-      "g5": 4,
+      "g5": 1,
       "sh5": 1
     },
     "is_in": {
@@ -187325,11 +187667,11 @@
       "sh4": 1,
       "gsr": 3,
       "shsr": 3,
-      "g5": 3,
+      "g5": 1,
       "sh5": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": true,
       "hg": false,
       "dc": false,
@@ -187337,6 +187679,7 @@
       "foc": true
     },
     "olrwo": {
+      "gsp": 5,
       "ssp": 5,
       "foc": 5
     }
@@ -189454,6 +189797,7 @@
       "PID_紋章ルキナ",
       "PID_比翼ルキナ",
       "PID_総選挙リン",
+      "PID_双界リン2",
       "PID_双界総選挙リン",
       "PID_水着リン",
       "PID_伝承リン",
@@ -189466,12 +189810,15 @@
       "PID_水着ペトラ",
       "PID_年明プルメリア",
       "PID_幼少レベッカ",
+      "PID_サカレベッカ",
       "PID_レベッカ",
       "PID_ロナン",
       "PID_シャミア",
       "PID_比翼シャミア",
+      "PID_サカシャミア",
       "PID_花嫁シャニー",
       "PID_シノン",
+      "PID_つながりサカタクミ",
       "PID_眷属タクミ",
       "PID_タクミ",
       "PID_魔器ターナ",
@@ -200585,16 +200932,19 @@
       "sh4": 4,
       "gsr": 4,
       "shsr": 1,
-      "g5": 4,
+      "g5": 1,
       "sh5": 4
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
+    },
+    "olrwo": {
+      "gsp": 5
     }
   },
   {
@@ -201288,7 +201638,7 @@
       "sh4": 4,
       "gsr": 4,
       "shsr": 1,
-      "g5": 4,
+      "g5": 1,
       "sh5": 1
     },
     "is_in": {
@@ -203249,7 +203599,7 @@
       "sh5": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": true,
       "hg": true,
       "dc": false,
@@ -203257,6 +203607,7 @@
       "foc": false
     },
     "olrwo": {
+      "gsp": 5,
       "ssp": 4.5,
       "hg": 4,
       "ldc": 4
@@ -203290,11 +203641,11 @@
       "sh4": 2,
       "gsr": 2,
       "shsr": 1,
-      "g5": 2,
+      "g5": 1,
       "sh5": 2
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": true,
       "hg": true,
       "dc": false,
@@ -203302,6 +203653,7 @@
       "foc": false
     },
     "olrwo": {
+      "gsp": 5,
       "ssp": 4.5,
       "hg": 4,
       "ldc": 4
@@ -203335,11 +203687,11 @@
       "sh4": 3,
       "gsr": 3,
       "shsr": 1,
-      "g5": 3,
+      "g5": 1,
       "sh5": 3
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": true,
       "hg": true,
       "dc": false,
@@ -203347,6 +203699,7 @@
       "foc": false
     },
     "olrwo": {
+      "gsp": 5,
       "ssp": 4.5,
       "hg": 4,
       "ldc": 4
@@ -204859,6 +205212,7 @@
       "PID_伝承ヒノカ",
       "PID_紋章リン",
       "PID_魔器ノワール",
+      "PID_サカシャミア",
       "PID_水着シャロン"
     ],
     "required_slots": {
@@ -204907,6 +205261,7 @@
       "PID_伝承ヒノカ",
       "PID_紋章リン",
       "PID_魔器ノワール",
+      "PID_サカシャミア",
       "PID_水着シャロン"
     ],
     "required_slots": {
@@ -204955,6 +205310,7 @@
       "PID_伝承ヒノカ",
       "PID_紋章リン",
       "PID_魔器ノワール",
+      "PID_サカシャミア",
       "PID_水着シャロン"
     ],
     "required_slots": {
@@ -212348,6 +212704,7 @@
       "PID_紋章ルキナ",
       "PID_比翼ルキナ",
       "PID_総選挙リン",
+      "PID_双界リン2",
       "PID_双界総選挙リン",
       "PID_水着リン",
       "PID_伝承リン",
@@ -212371,6 +212728,7 @@
       "PID_砂漠ラファエル",
       "PID_ラス",
       "PID_幼少レベッカ",
+      "PID_サカレベッカ",
       "PID_レベッカ",
       "PID_忍者ユウギリ",
       "PID_ハロヨファ",
@@ -212381,11 +212739,13 @@
       "PID_セツナ",
       "PID_シャミア",
       "PID_比翼シャミア",
+      "PID_サカシャミア",
       "PID_花嫁シャニー",
       "PID_シノン",
       "PID_忍者シノン",
       "PID_アシュラ",
       "PID_スー",
+      "PID_つながりサカタクミ",
       "PID_眷属タクミ",
       "PID_水着タクミ",
       "PID_タクミ",
@@ -226162,16 +226522,19 @@
       "sh4": 1,
       "gsr": 1,
       "shsr": 4,
-      "g5": 4,
+      "g5": 1,
       "sh5": 4
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
+    },
+    "olrwo": {
+      "gsp": 5
     }
   },
   {
@@ -227378,6 +227741,7 @@
       "PID_魔器セネリオ",
       "PID_総選挙セネリオ",
       "PID_神階ソティス",
+      "PID_つながりサカタクミ",
       "PID_運動着サーリャ",
       "PID_ハロミスティラ",
       "PID_神階ウル",
@@ -227570,6 +227934,7 @@
       "PID_魔器セネリオ",
       "PID_総選挙セネリオ",
       "PID_神階ソティス",
+      "PID_つながりサカタクミ",
       "PID_運動着サーリャ",
       "PID_ハロミスティラ",
       "PID_神階ウル",
@@ -227762,6 +228127,7 @@
       "PID_魔器セネリオ",
       "PID_総選挙セネリオ",
       "PID_神階ソティス",
+      "PID_つながりサカタクミ",
       "PID_運動着サーリャ",
       "PID_ハロミスティラ",
       "PID_神階ウル",
@@ -235711,7 +236077,8 @@
     "id": "SID_ウィークショット",
     "owner_ids": [
       "PID_双界ヒルダ",
-      "PID_風光レダ"
+      "PID_風光レダ",
+      "PID_つながりサカタクミ"
     ],
     "required_slots": {
       "g4": 1,
@@ -239988,7 +240355,8 @@
   {
     "id": "SID_風鋒",
     "owner_ids": [
-      "PID_比翼バルドル2"
+      "PID_比翼バルドル2",
+      "PID_双界リン2"
     ],
     "required_slots": {
       "g4": 1,
@@ -244214,16 +244582,19 @@
       "sh4": 1,
       "gsr": 2,
       "shsr": 2,
-      "g5": 2,
+      "g5": 1,
       "sh5": 2
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
+    },
+    "olrwo": {
+      "gsp": 5
     }
   },
   {
@@ -244408,6 +244779,35 @@
     },
     "olrwo": {
       "gsp": 4.5
+    }
+  },
+  {
+    "id": "SID_草原の風呼びの弓",
+    "owner_ids": [
+      "PID_つながりサカタクミ"
+    ],
+    "required_slots": {
+      "g4": 1,
+      "hg": 1,
+      "hg4": 1,
+      "hg5": 4,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 4,
+      "shsr": 4,
+      "g5": 4,
+      "sh5": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": true,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "olrwo": {
+      "ssp": 5
     }
   },
   {
@@ -245978,6 +246378,23 @@
     },
     "olrwo": {
       "ssp": 4.5
+    }
+  },
+  {
+    "id": "HARMONIZED_PID_双界リン2",
+    "owner_ids": [
+      "PID_双界リン2"
+    ],
+    "is_in": {
+      "gsp": false,
+      "ssp": true,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "olrwo": {
+      "ssp": 5
     }
   },
   {

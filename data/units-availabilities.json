@@ -2858,14 +2858,16 @@
   {
     "id": "PID_総選挙アクア",
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "lowest_rarity": {},
+    "lowest_rarity": {
+      "gsp": 5
+    },
     "skill_ids": [
       "SID_その手が拓く未来は",
       "SID_アトラース",
@@ -28920,6 +28922,39 @@
     ]
   },
   {
+    "id": "PID_双界リン2",
+    "is_in": {
+      "gsp": false,
+      "ssp": true,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {
+      "ssp": 5
+    },
+    "skill_ids": [
+      "HARMONIZED_PID_双界リン2",
+      "SID_サカの娘二人の弓",
+      "SID_影助・引き戻し1",
+      "SID_影助・引き戻し2",
+      "SID_影助・引き戻し3",
+      "SID_影助・引戻・十紋章",
+      "SID_星影",
+      "SID_正真サカの掟",
+      "SID_流星",
+      "SID_牽制射撃・強化無効",
+      "SID_速さ守備封じ1",
+      "SID_速さ守備封じ2",
+      "SID_速さ封じ1",
+      "SID_鉄の弓",
+      "SID_銀の弓",
+      "SID_鋼の弓",
+      "SID_風鋒"
+    ]
+  },
+  {
     "id": "PID_双界総選挙リン",
     "is_in": {
       "gsp": false,
@@ -38517,6 +38552,35 @@
     }
   },
   {
+    "id": "PID_サカレベッカ",
+    "is_in": {
+      "gsp": false,
+      "ssp": true,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {
+      "ssp": 4
+    },
+    "skill_ids": [
+      "SID_一喝",
+      "SID_一喝＋",
+      "SID_攻撃速さの大開放1",
+      "SID_攻撃速さの大開放2",
+      "SID_攻撃速さの大開放3",
+      "SID_攻撃速さの解放",
+      "SID_草原の飾り弓",
+      "SID_鉄の弓",
+      "SID_銀の弓",
+      "SID_鋼の弓",
+      "SID_鬼神の一撃1",
+      "SID_鬼神の一撃2",
+      "SID_鬼神の一撃3"
+    ]
+  },
+  {
     "id": "PID_レベッカ",
     "is_in": {
       "gsp": true,
@@ -42537,6 +42601,37 @@
     }
   },
   {
+    "id": "PID_サカシャミア",
+    "is_in": {
+      "gsp": false,
+      "ssp": true,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {
+      "ssp": 5
+    },
+    "skill_ids": [
+      "SID_ハンターボレー",
+      "SID_伏竜",
+      "SID_攻撃速さの予知逆用",
+      "SID_攻撃速さの攻城戦1",
+      "SID_攻撃速さの攻城戦2",
+      "SID_攻撃速さの攻城戦3",
+      "SID_攻速吸収・初撃鼓動",
+      "SID_竜穿",
+      "SID_草原の狩人の弓",
+      "SID_速さの吸収1",
+      "SID_速さの吸収2",
+      "SID_速さの吸収3",
+      "SID_鉄の弓",
+      "SID_銀の弓",
+      "SID_鋼の弓"
+    ]
+  },
+  {
     "id": "PID_花嫁シャニー",
     "is_in": {
       "gsp": false,
@@ -43663,14 +43758,16 @@
   {
     "id": "PID_総選挙シグルド",
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "lowest_rarity": {},
+    "lowest_rarity": {
+      "gsp": 5
+    },
     "skill_ids": [
       "SID_差し違え1",
       "SID_差し違え2",
@@ -45296,14 +45393,16 @@
   {
     "id": "PID_総選挙シルヴァン",
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "lowest_rarity": {},
+    "lowest_rarity": {
+      "gsp": 5
+    },
     "skill_ids": [
       "SID_ブレイクラッシュ",
       "SID_女好き",
@@ -45489,6 +45588,38 @@
         }
       ]
     }
+  },
+  {
+    "id": "PID_つながりサカタクミ",
+    "is_in": {
+      "gsp": false,
+      "ssp": true,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
+    },
+    "lowest_rarity": {
+      "ssp": 5
+    },
+    "skill_ids": [
+      "SID_ウィークショット",
+      "SID_凶鳥の一撃",
+      "SID_始まりの鼓動1",
+      "SID_始まりの鼓動2",
+      "SID_始まりの鼓動3",
+      "SID_始鼓動・見切り",
+      "SID_攻防一体の陣",
+      "SID_草原の風呼びの弓",
+      "SID_華炎",
+      "SID_蛍火",
+      "SID_鉄の弓",
+      "SID_銀の弓",
+      "SID_鋼の弓",
+      "SID_鬼神の一撃1",
+      "SID_鬼神の一撃2",
+      "SID_鬼神の一撃3"
+    ]
   },
   {
     "id": "PID_眷属タクミ",
@@ -47664,14 +47795,16 @@
   {
     "id": "PID_総選挙つばさ",
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
     },
-    "lowest_rarity": {},
+    "lowest_rarity": {
+      "gsp": 5
+    },
     "skill_ids": [
       "SID_ウインド",
       "SID_エルウインド",

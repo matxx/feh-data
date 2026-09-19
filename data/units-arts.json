@@ -2688,7 +2688,11 @@
     "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/a0/Eliwood_Blazing_Knight_Face.webp/revision/latest?cb=20190920224906",
     "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/77/Eliwood_Blazing_Knight_BtlFace.webp/revision/latest?cb=20210405074127",
     "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/3b/Eliwood_Blazing_Knight_BtlFace_C.webp/revision/latest?cb=20190920224914",
-    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e8/Eliwood_Blazing_Knight_BtlFace_D.webp/revision/latest?cb=20190920224920"
+    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e8/Eliwood_Blazing_Knight_BtlFace_D.webp/revision/latest?cb=20190920224920",
+    "art_resp_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/63/Eliwood_Blazing_Knight_Resplendent_Face.webp/revision/latest?cb=20260918052717",
+    "art_resp_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/ec/Eliwood_Blazing_Knight_Resplendent_BtlFace.webp/revision/latest?cb=20260918052651",
+    "art_resp_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/a1/Eliwood_Blazing_Knight_Resplendent_BtlFace_C.webp/revision/latest?cb=20260918052707",
+    "art_resp_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/71/Eliwood_Blazing_Knight_Resplendent_BtlFace_D.webp/revision/latest?cb=20260918052711"
   },
   {
     "id": "PID_愛の祭エリウッド",
@@ -6053,6 +6057,13 @@
     "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d5/Lyn_Bride_of_the_Plains_BtlFace_D.webp/revision/latest?cb=20190920205225"
   },
   {
+    "id": "PID_双界リン2",
+    "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c5/Lyn_Earth_and_Sky_Face.webp/revision/latest?cb=20260918052642",
+    "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/39/Lyn_Earth_and_Sky_BtlFace.webp/revision/latest?cb=20260918052617",
+    "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/95/Lyn_Earth_and_Sky_BtlFace_C.webp/revision/latest?cb=20260918052632",
+    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/ee/Lyn_Earth_and_Sky_BtlFace_D.webp/revision/latest?cb=20260918052636"
+  },
+  {
     "id": "PID_双界総選挙リン",
     "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/31/Lyn_Glitters_of_Hope_Face.webp/revision/latest?cb=20251128043542",
     "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c6/Lyn_Glitters_of_Hope_BtlFace.webp/revision/latest?cb=20251128043517",
@@ -8044,6 +8055,13 @@
     "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f0/Rebecca_Breezy_Scamp_BtlFace_D.webp/revision/latest?cb=20230406075105"
   },
   {
+    "id": "PID_サカレベッカ",
+    "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/6e/Rebecca_In_the_Suns_Rays_Face.webp/revision/latest?cb=20260918052752",
+    "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/ee/Rebecca_In_the_Suns_Rays_BtlFace.webp/revision/latest?cb=20260918052726",
+    "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/8c/Rebecca_In_the_Suns_Rays_BtlFace_C.webp/revision/latest?cb=20260918052741",
+    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/02/Rebecca_In_the_Suns_Rays_BtlFace_D.webp/revision/latest?cb=20260918052746"
+  },
+  {
     "id": "PID_レベッカ",
     "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/5d/Rebecca_Wildflower_Face.webp/revision/latest?cb=20190920202033",
     "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/bd/Rebecca_Wildflower_BtlFace.webp/revision/latest?cb=20190920202037",
@@ -8910,6 +8928,13 @@
     "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/7a/Shamir_Lone-Moon_Ninja_BtlFace_D.webp/revision/latest?cb=20211104050941"
   },
   {
+    "id": "PID_サカシャミア",
+    "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/8b/Shamir_Snipers_Path_Face.webp/revision/latest?cb=20260918052901",
+    "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/77/Shamir_Snipers_Path_BtlFace.webp/revision/latest?cb=20260918052837",
+    "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/bf/Shamir_Snipers_Path_BtlFace_C.webp/revision/latest?cb=20260918052852",
+    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/0f/Shamir_Snipers_Path_BtlFace_D.webp/revision/latest?cb=20260918052856"
+  },
+  {
     "id": "PID_花嫁シャニー",
     "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f8/Shanna_Bridal_Novice_Face.webp/revision/latest?cb=20210520043947",
     "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/34/Shanna_Bridal_Novice_BtlFace.webp/revision/latest?cb=20210520043949",
@@ -9505,6 +9530,13 @@
     "art_resp_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c1/Tailtiu_Thunder_Noble_Resplendent_BtlFace.webp/revision/latest?cb=20210906081815",
     "art_resp_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/dc/Tailtiu_Thunder_Noble_Resplendent_BtlFace_C.webp/revision/latest?cb=20210906081827",
     "art_resp_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/3f/Tailtiu_Thunder_Noble_Resplendent_BtlFace_D.webp/revision/latest?cb=20210906081832"
+  },
+  {
+    "id": "PID_つながりサカタクミ",
+    "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c9/Takumi_Divine_Bow_Prince_Face.webp/revision/latest?cb=20260918052827",
+    "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/3a/Takumi_Divine_Bow_Prince_BtlFace.webp/revision/latest?cb=20260918052801",
+    "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/a6/Takumi_Divine_Bow_Prince_BtlFace_C.webp/revision/latest?cb=20260918052817",
+    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/a7/Takumi_Divine_Bow_Prince_BtlFace_D.webp/revision/latest?cb=20260918052822"
   },
   {
     "id": "PID_眷属タクミ",

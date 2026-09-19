@@ -70296,6 +70296,102 @@
     "unlock": 3
   },
   {
+    "unit_id": "PID_双界リン2",
+    "skill_id": "SID_流星",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_双界リン2",
+    "skill_id": "SID_サカの娘二人の弓",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_双界リン2",
+    "skill_id": "SID_牽制射撃・強化無効",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_双界リン2",
+    "skill_id": "SID_鉄の弓",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_双界リン2",
+    "skill_id": "SID_星影",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_双界リン2",
+    "skill_id": "SID_正真サカの掟",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_双界リン2",
+    "skill_id": "SID_速さ封じ1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_双界リン2",
+    "skill_id": "SID_速さ守備封じ1",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_双界リン2",
+    "skill_id": "SID_速さ守備封じ2",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_双界リン2",
+    "skill_id": "SID_影助・引き戻し1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_双界リン2",
+    "skill_id": "SID_影助・引き戻し2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_双界リン2",
+    "skill_id": "SID_影助・引き戻し3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_双界リン2",
+    "skill_id": "SID_影助・引戻・十紋章",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_双界リン2",
+    "skill_id": "SID_銀の弓",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_双界リン2",
+    "skill_id": "SID_鋼の弓",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_双界リン2",
+    "skill_id": "SID_風鋒",
+    "default": 0,
+    "unlock": 5
+  },
+  {
     "unit_id": "PID_双界総選挙リン",
     "skill_id": "SID_角逐",
     "default": 0,
@@ -92952,6 +93048,84 @@
     "unlock": 2
   },
   {
+    "unit_id": "PID_サカレベッカ",
+    "skill_id": "SID_攻撃速さの大開放1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_サカレベッカ",
+    "skill_id": "SID_攻撃速さの大開放2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_サカレベッカ",
+    "skill_id": "SID_攻撃速さの大開放3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_サカレベッカ",
+    "skill_id": "SID_攻撃速さの解放",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_サカレベッカ",
+    "skill_id": "SID_鬼神の一撃1",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_サカレベッカ",
+    "skill_id": "SID_鬼神の一撃2",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_サカレベッカ",
+    "skill_id": "SID_鬼神の一撃3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_サカレベッカ",
+    "skill_id": "SID_一喝",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_サカレベッカ",
+    "skill_id": "SID_一喝＋",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_サカレベッカ",
+    "skill_id": "SID_鉄の弓",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_サカレベッカ",
+    "skill_id": "SID_草原の飾り弓",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_サカレベッカ",
+    "skill_id": "SID_銀の弓",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_サカレベッカ",
+    "skill_id": "SID_鋼の弓",
+    "default": 2,
+    "unlock": 2
+  },
+  {
     "unit_id": "PID_レベッカ",
     "skill_id": "SID_献身",
     "default": 4,
@@ -102516,6 +102690,96 @@
     "unlock": 2
   },
   {
+    "unit_id": "PID_サカシャミア",
+    "skill_id": "SID_攻撃速さの攻城戦1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_サカシャミア",
+    "skill_id": "SID_攻撃速さの攻城戦2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_サカシャミア",
+    "skill_id": "SID_攻撃速さの攻城戦3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_サカシャミア",
+    "skill_id": "SID_攻撃速さの予知逆用",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_サカシャミア",
+    "skill_id": "SID_攻速吸収・初撃鼓動",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_サカシャミア",
+    "skill_id": "SID_竜穿",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_サカシャミア",
+    "skill_id": "SID_伏竜",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_サカシャミア",
+    "skill_id": "SID_ハンターボレー",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_サカシャミア",
+    "skill_id": "SID_鉄の弓",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_サカシャミア",
+    "skill_id": "SID_草原の狩人の弓",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_サカシャミア",
+    "skill_id": "SID_銀の弓",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_サカシャミア",
+    "skill_id": "SID_速さの吸収1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_サカシャミア",
+    "skill_id": "SID_速さの吸収2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_サカシャミア",
+    "skill_id": "SID_速さの吸収3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_サカシャミア",
+    "skill_id": "SID_鋼の弓",
+    "default": 2,
+    "unlock": 2
+  },
+  {
     "unit_id": "PID_花嫁シャニー",
     "skill_id": "SID_攻撃守備の遠影1",
     "default": 0,
@@ -109293,6 +109557,102 @@
     "unit_id": "PID_ティルテュ",
     "skill_id": "SID_トローン",
     "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_つながりサカタクミ",
+    "skill_id": "SID_攻防一体の陣",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_つながりサカタクミ",
+    "skill_id": "SID_凶鳥の一撃",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_つながりサカタクミ",
+    "skill_id": "SID_鬼神の一撃1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_つながりサカタクミ",
+    "skill_id": "SID_鬼神の一撃2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_つながりサカタクミ",
+    "skill_id": "SID_鬼神の一撃3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_つながりサカタクミ",
+    "skill_id": "SID_蛍火",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_つながりサカタクミ",
+    "skill_id": "SID_華炎",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_つながりサカタクミ",
+    "skill_id": "SID_鉄の弓",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_つながりサカタクミ",
+    "skill_id": "SID_始鼓動・見切り",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_つながりサカタクミ",
+    "skill_id": "SID_銀の弓",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_つながりサカタクミ",
+    "skill_id": "SID_鋼の弓",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_つながりサカタクミ",
+    "skill_id": "SID_始まりの鼓動1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_つながりサカタクミ",
+    "skill_id": "SID_始まりの鼓動2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_つながりサカタクミ",
+    "skill_id": "SID_始まりの鼓動3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_つながりサカタクミ",
+    "skill_id": "SID_ウィークショット",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_つながりサカタクミ",
+    "skill_id": "SID_草原の風呼びの弓",
+    "default": 5,
     "unlock": 5
   },
   {
@@ -121802,6 +122162,12 @@
   {
     "unit_id": "PID_双界リンダ",
     "skill_id": "HARMONIZED_PID_双界リンダ",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_双界リン2",
+    "skill_id": "HARMONIZED_PID_双界リン2",
     "default": 0,
     "unlock": 1
   },
