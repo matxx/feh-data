@@ -85838,7 +85838,9 @@
           "Infantry"
         ]
       },
-      "weapons": null
+      "weapons": {
+        "none": true
+      }
     },
     "addition_date": "2026-09-18",
     "release_date": "2026-09-18",
