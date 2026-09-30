@@ -13452,6 +13452,42 @@
     }
   },
   {
+    "id": "PID_伝承イシュマール女",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "lowest_rarity": {
+      "foc": 5
+    },
+    "skill_ids": [
+      "SID_九天神撃",
+      "SID_凶鳥の一撃",
+      "SID_始まりの鼓動1",
+      "SID_始まりの鼓動2",
+      "SID_始まりの鼓動3",
+      "SID_始鼓動・見切り",
+      "SID_引き戻し",
+      "SID_烈光",
+      "SID_無銘の槍",
+      "SID_砕光",
+      "SID_神速1",
+      "SID_神速2",
+      "SID_神速3",
+      "SID_超神速・奥義の旋風",
+      "SID_鉄の槍",
+      "SID_銀の槍",
+      "SID_鋼の槍",
+      "SID_飛燕の一撃1",
+      "SID_飛燕の一撃2",
+      "SID_飛燕の一撃3"
+    ]
+  },
+  {
     "id": "PID_エスト",
     "is_in": {
       "gsp": true,
@@ -41716,6 +41752,37 @@
       "SID_氷点",
       "SID_氷蒼",
       "SID_魔防の封印1"
+    ]
+  },
+  {
+    "id": "PID_セイズ2味方",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "lowest_rarity": {
+      "foc": 5
+    },
+    "skill_ids": [
+      "SID_エルファイアー",
+      "SID_ファイアー",
+      "SID_ボルガノン",
+      "SID_全封じ・柵破",
+      "SID_共に未来を重ねて",
+      "SID_希望の女神の聖具",
+      "SID_攻撃封じ1",
+      "SID_攻撃速さ封じ1",
+      "SID_攻撃速さ封じ2",
+      "SID_明鏡止水",
+      "SID_止水1",
+      "SID_止水2",
+      "SID_止水3",
+      "SID_烈光",
+      "SID_砕光"
     ]
   },
   {

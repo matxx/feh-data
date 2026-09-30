@@ -12073,6 +12073,10 @@
       {
         "start_time": "2025-12-07 07:00:00",
         "end_time": "2025-12-14 06:59:59"
+      },
+      {
+        "start_time": "2026-10-04 07:00:00",
+        "end_time": "2026-10-11 06:59:59"
       }
     ],
     "unit_ids": [
@@ -19294,6 +19298,10 @@
       {
         "start_time": "2025-08-17 07:00:00",
         "end_time": "2025-08-24 06:59:59"
+      },
+      {
+        "start_time": "2026-10-04 07:00:00",
+        "end_time": "2026-10-11 06:59:59"
       }
     ],
     "unit_ids": [
@@ -23930,6 +23938,12 @@
     "fandom_id": "Duo, Rea. Heroes & Etw. Sharena",
     "start_time": "2025-10-17 07:00:00",
     "end_time": "2025-11-06 06:59:59",
+    "reruns": [
+      {
+        "start_time": "2026-10-03 07:00:00",
+        "end_time": "2026-10-11 06:59:59"
+      }
+    ],
     "unit_ids": [
       "PID_シャロン22025味方",
       "PID_ソーンバルケ",
@@ -26485,6 +26499,76 @@
       "PID_比翼シャロン",
       "PID_神階ヘイズルーン",
       "PID_神階ロキ"
+    ]
+  },
+  {
+    "name": "Focus: Heroes with Excel Skills (Sep 2026)",
+    "fandom_id": "Focus: Heroes with Excel Skills (Sep 2026)",
+    "start_time": "2026-09-24 07:00:00",
+    "end_time": "2026-10-08 06:59:59",
+    "unit_ids": [
+      "PID_ハロネルトゥス",
+      "PID_ロウエン",
+      "PID_花婿セリス"
+    ]
+  },
+  {
+    "name": "New Heroes Return (Sep 2026)",
+    "fandom_id": "New Heroes Return (Sep 2026)",
+    "start_time": "2026-09-26 07:00:00",
+    "end_time": "2026-10-10 06:59:59",
+    "unit_ids": [
+      "PID_シャロン22025味方",
+      "PID_双界総選挙セリカ",
+      "PID_双界総選挙リン",
+      "PID_比翼シグルド2",
+      "PID_響心アルム",
+      "PID_響心ラケシス",
+      "PID_魔器リシテア",
+      "PID_魔器闇ティバーン"
+    ]
+  },
+  {
+    "name": "Focus: Select Your Path",
+    "fandom_id": "Focus: Select Your Path",
+    "start_time": "2026-09-27 07:00:00",
+    "end_time": "2026-10-07 06:59:59",
+    "unit_ids": [
+      "PID_エーデルガルト",
+      "PID_クロード",
+      "PID_ディミトリ",
+      "PID_ユーリス"
+    ]
+  },
+  {
+    "name": "Legendary Eshmel & Mythic Seiðr",
+    "fandom_id": "Legendary Eshmel & Mythic Seiðr",
+    "start_time": "2026-09-30 07:00:00",
+    "end_time": "2026-10-16 06:59:59",
+    "unit_ids": [
+      "PID_グロア味方",
+      "PID_セイズ2味方",
+      "PID_ヴァーリ味方",
+      "PID_伝承イシュマール女",
+      "PID_伝承サクラ",
+      "PID_双界総選挙アルム",
+      "PID_双界総選挙ミカヤ",
+      "PID_天の王味方",
+      "PID_比翼バルドル2",
+      "PID_神階ソンブル",
+      "PID_紋章ロイ",
+      "PID_魔器水着ヘズ"
+    ]
+  },
+  {
+    "name": "Focus: Weekly Revival 133",
+    "fandom_id": "Focus: Weekly Revival 133",
+    "start_time": "2026-10-04 07:00:00",
+    "end_time": "2026-10-11 06:59:59",
+    "unit_ids": [
+      "PID_響心アイビー",
+      "PID_響心エイリーク",
+      "PID_魔器ギンヌン味方"
     ]
   }
 ]

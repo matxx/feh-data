@@ -33396,6 +33396,126 @@
     "unlock": 5
   },
   {
+    "unit_id": "PID_伝承イシュマール女",
+    "skill_id": "SID_烈光",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_伝承イシュマール女",
+    "skill_id": "SID_凶鳥の一撃",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_伝承イシュマール女",
+    "skill_id": "SID_飛燕の一撃1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_伝承イシュマール女",
+    "skill_id": "SID_飛燕の一撃2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_伝承イシュマール女",
+    "skill_id": "SID_飛燕の一撃3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_伝承イシュマール女",
+    "skill_id": "SID_鉄の槍",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_伝承イシュマール女",
+    "skill_id": "SID_九天神撃",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_伝承イシュマール女",
+    "skill_id": "SID_神速1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_伝承イシュマール女",
+    "skill_id": "SID_神速2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_伝承イシュマール女",
+    "skill_id": "SID_神速3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_伝承イシュマール女",
+    "skill_id": "SID_超神速・奥義の旋風",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_伝承イシュマール女",
+    "skill_id": "SID_始鼓動・見切り",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_伝承イシュマール女",
+    "skill_id": "SID_引き戻し",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_伝承イシュマール女",
+    "skill_id": "SID_砕光",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_伝承イシュマール女",
+    "skill_id": "SID_銀の槍",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_伝承イシュマール女",
+    "skill_id": "SID_鋼の槍",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_伝承イシュマール女",
+    "skill_id": "SID_無銘の槍",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_伝承イシュマール女",
+    "skill_id": "SID_始まりの鼓動1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_伝承イシュマール女",
+    "skill_id": "SID_始まりの鼓動2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_伝承イシュマール女",
+    "skill_id": "SID_始まりの鼓動3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
     "unit_id": "PID_エスト",
     "skill_id": "SID_魔防の覚醒1",
     "default": 0,
@@ -100750,6 +100870,96 @@
     "skill_id": "SID_ウインド",
     "default": 1,
     "unlock": 1
+  },
+  {
+    "unit_id": "PID_セイズ2味方",
+    "skill_id": "SID_烈光",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_セイズ2味方",
+    "skill_id": "SID_ボルガノン",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_セイズ2味方",
+    "skill_id": "SID_明鏡止水",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_セイズ2味方",
+    "skill_id": "SID_全封じ・柵破",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_セイズ2味方",
+    "skill_id": "SID_エルファイアー",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_セイズ2味方",
+    "skill_id": "SID_ファイアー",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_セイズ2味方",
+    "skill_id": "SID_共に未来を重ねて",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_セイズ2味方",
+    "skill_id": "SID_砕光",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_セイズ2味方",
+    "skill_id": "SID_希望の女神の聖具",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_セイズ2味方",
+    "skill_id": "SID_攻撃封じ1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_セイズ2味方",
+    "skill_id": "SID_攻撃速さ封じ1",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_セイズ2味方",
+    "skill_id": "SID_攻撃速さ封じ2",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_セイズ2味方",
+    "skill_id": "SID_止水1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_セイズ2味方",
+    "skill_id": "SID_止水2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_セイズ2味方",
+    "skill_id": "SID_止水3",
+    "default": 0,
+    "unlock": 4
   },
   {
     "unit_id": "PID_比翼セイズ",

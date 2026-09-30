@@ -20552,6 +20552,7 @@
     "upgrade_ids": [
       "SID_聖騎士バルドの末裔",
       "SID_グランベルの聖光",
+      "SID_九天神撃",
       "SID_オーバードライヴ"
     ],
     "downgrade_ids": [
@@ -38416,6 +38417,35 @@
     ]
   },
   {
+    "id": "SID_全封じ・柵破",
+    "game8_id": "627420",
+    "fandom_id": "Dim Smash",
+    "name": "Dim Smash",
+    "category": "passiveb",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/06/Dim_Smash.png/revision/latest?cb=20260930080454",
+    "sp": 400,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "All Bow",
+          "All Dagger",
+          "All Tome"
+        ]
+      }
+    },
+    "addition_date": "2026-09-18",
+    "release_date": "2026-09-30",
+    "version": "10.9",
+    "downgrade_ids": [
+      "SID_攻撃速さ封じ2",
+      "SID_守備魔防封じ2"
+    ]
+  },
+  {
     "id": "SID_軍師の諫言の杖",
     "game8_id": "371677",
     "fandom_id": "Diplomacy Staff",
@@ -46891,6 +46921,7 @@
   },
   {
     "id": "SID_邪竜の救済・神",
+    "game8_id": "624843",
     "fandom_id": "Fell Protection",
     "name": "Fell Protection+",
     "category": "passivec",
@@ -53299,6 +53330,20 @@
     "addition_date": "2025-12-15",
     "release_date": "2025-12-15",
     "version": "10.0"
+  },
+  {
+    "id": "SID_共に未来を重ねて",
+    "game8_id": "627422",
+    "fandom_id": "Future-Shared",
+    "name": "Future-Shared",
+    "category": "passivec",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/39/Future-Shared.png/revision/latest?cb=20260930080515",
+    "is_prf": true,
+    "sp": 300,
+    "tier": 1,
+    "addition_date": "2026-09-18",
+    "release_date": "2026-09-30",
+    "version": "10.9"
   },
   {
     "id": "SID_共に未来を変えて",
@@ -60354,6 +60399,7 @@
   },
   {
     "id": "SID_クリミアの心・承",
+    "game8_id": "624844",
     "fandom_id": "Heart of Crimea",
     "name": "Heart of Crimea II",
     "category": "passivec",
@@ -77804,6 +77850,23 @@
     ]
   },
   {
+    "id": "SID_九天神撃",
+    "game8_id": "627419",
+    "fandom_id": "Nine-Sky Strike",
+    "name": "Nine-Sky Strike",
+    "category": "special",
+    "is_prf": true,
+    "sp": 500,
+    "tier": 3,
+    "cd": 4,
+    "addition_date": "2026-09-30",
+    "release_date": "2026-09-30",
+    "version": "10.9",
+    "downgrade_ids": [
+      "SID_烈光"
+    ]
+  },
+  {
     "id": "SID_氷精ニニスの槍",
     "game8_id": "269103",
     "fandom_id": "Ninis's Ice Lance",
@@ -83937,7 +84000,8 @@
     "version": "8.1",
     "upgrade_ids": [
       "SID_神速4",
-      "SID_秘奥・神速"
+      "SID_秘奥・神速",
+      "SID_超神速・奥義の旋風"
     ],
     "downgrade_ids": [
       "SID_神速2"
@@ -84861,6 +84925,36 @@
     "addition_date": "2026-04-17",
     "release_date": "2026-04-17",
     "version": "10.4"
+  },
+  {
+    "id": "SID_超神速・奥義の旋風",
+    "game8_id": "627421",
+    "fandom_id": "Puissant Squall",
+    "name": "Puissant Squall",
+    "category": "passiveb",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/67/Puissant_Squall.png/revision/latest?cb=20260930080504",
+    "sp": 400,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Infantry"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "All Melee",
+          "All Beast"
+        ]
+      }
+    },
+    "addition_date": "2026-09-30",
+    "release_date": "2026-09-30",
+    "version": "10.9",
+    "downgrade_ids": [
+      "SID_神速3",
+      "SID_奥義の螺旋3"
+    ]
   },
   {
     "id": "SID_追撃の鼓動・術策",
@@ -95605,6 +95699,26 @@
     ]
   },
   {
+    "id": "SID_希望の女神の聖具",
+    "game8_id": "627417",
+    "fandom_id": "Sacred Hope",
+    "name": "Sacred Hope",
+    "category": "weapon",
+    "weapon_type": "Red Tome",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "range": 2,
+    "might": 14,
+    "addition_date": "2026-09-18",
+    "release_date": "2026-09-30",
+    "version": "10.9",
+    "downgrade_ids": [
+      "SID_ボルガノン",
+      "SID_ノスフェラート"
+    ]
+  },
+  {
     "id": "SID_神聖風",
     "game8_id": "448051",
     "fandom_id": "Sacred Wind",
@@ -97207,6 +97321,9 @@
     "addition_date": "2017-06-30",
     "release_date": "2017-06-30",
     "version": "1.4",
+    "upgrade_ids": [
+      "SID_全封じ・柵破"
+    ],
     "downgrade_ids": [
       "SID_攻撃速さ封じ1"
     ]
@@ -97378,6 +97495,7 @@
     "release_date": "2018-05-10",
     "version": "2.5",
     "upgrade_ids": [
+      "SID_全封じ・柵破",
       "SID_守備魔防封じ3"
     ],
     "downgrade_ids": [
@@ -101170,6 +101288,7 @@
       "SID_深き海の底の双槍",
       "SID_砂塵貫く蒼き剛槍",
       "SID_お茶会の警護の槍",
+      "SID_無銘の槍",
       "SID_薔薇の槍",
       "SID_天馬姉妹の三角槍",
       "SID_二国の花嫁のブーケ",
@@ -108719,6 +108838,7 @@
     "release_date": "2018-09-07",
     "version": "2.9",
     "upgrade_ids": [
+      "SID_超神速・奥義の旋風",
       "SID_奥義の螺旋4"
     ],
     "downgrade_ids": [
@@ -117285,6 +117405,25 @@
     "addition_date": "2024-08-16",
     "release_date": "2024-08-16",
     "version": "8.8"
+  },
+  {
+    "id": "SID_無銘の槍",
+    "game8_id": "627418",
+    "fandom_id": "The Nameless",
+    "name": "The Nameless",
+    "category": "weapon",
+    "weapon_type": "Blue Lance",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "range": 1,
+    "might": 16,
+    "addition_date": "2026-09-30",
+    "release_date": "2026-09-30",
+    "version": "10.9",
+    "downgrade_ids": [
+      "SID_銀の槍"
+    ]
   },
   {
     "id": "SID_真・ドローミの鎖環",

@@ -2865,6 +2865,13 @@
     "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f9/Erk_Studious_Mage_BtlFace_D.webp/revision/latest?cb=20210405010931"
   },
   {
+    "id": "PID_伝承イシュマール女",
+    "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/8d/Eshmel_Pale_Raven_Herald_Face.webp/revision/latest?cb=20260930050657",
+    "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f5/Eshmel_Pale_Raven_Herald_BtlFace.webp/revision/latest?cb=20260930050633",
+    "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/fa/Eshmel_Pale_Raven_Herald_BtlFace_C.webp/revision/latest?cb=20260930050648",
+    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f2/Eshmel_Pale_Raven_Herald_BtlFace_D.webp/revision/latest?cb=20260930050652"
+  },
+  {
     "id": "PID_エスト",
     "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b9/Est_Junior_Whitewing_Face.webp/revision/latest?cb=20190920195607",
     "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/66/Est_Junior_Whitewing_BtlFace.webp/revision/latest?cb=20190920195613",
@@ -8749,6 +8756,13 @@
     "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/4e/Seidr_Goddess_of_Hope_BtlFace.webp/revision/latest?cb=20221205085730",
     "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c9/Seidr_Goddess_of_Hope_BtlFace_C.webp/revision/latest?cb=20221205085925",
     "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e2/Seidr_Goddess_of_Hope_BtlFace_D.webp/revision/latest?cb=20221205085935"
+  },
+  {
+    "id": "PID_セイズ2味方",
+    "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/49/Seidr_Hope_Reborn_Face.webp/revision/latest?cb=20260918052606",
+    "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d7/Seidr_Hope_Reborn_BtlFace.webp/revision/latest?cb=20260918052542",
+    "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/eb/Seidr_Hope_Reborn_BtlFace_C.webp/revision/latest?cb=20260918052556",
+    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/83/Seidr_Hope_Reborn_BtlFace_D.webp/revision/latest?cb=20260918052601"
   },
   {
     "id": "PID_比翼セイズ",
