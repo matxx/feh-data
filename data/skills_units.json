@@ -439,6 +439,24 @@
   },
   {
     "unit_id": "PID_伝承リュール女",
+    "skill_id": "SID_攻撃速さの万全1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_伝承リュール女",
+    "skill_id": "SID_攻撃速さの万全2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_伝承リュール女",
+    "skill_id": "SID_攻撃速さの万全3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_伝承リュール女",
     "skill_id": "SID_攻撃速さの信義1",
     "default": 0,
     "unlock": 2
@@ -464,6 +482,12 @@
   {
     "unit_id": "PID_伝承リュール女",
     "skill_id": "SID_絆・神竜破",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_伝承リュール女",
+    "skill_id": "SID_神竜破・承",
     "default": 0,
     "unlock": 5
   },
@@ -524,6 +548,12 @@
   {
     "unit_id": "PID_伝承リュール女",
     "skill_id": "SID_見切り・反撃不可4",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_伝承リュール女",
+    "skill_id": "SID_攻速無欠・鬼没",
     "default": 0,
     "unlock": 5
   },
@@ -15064,6 +15094,12 @@
     "skill_id": "SID_鉄の暗器",
     "default": 1,
     "unlock": 1
+  },
+  {
+    "unit_id": "PID_キャス",
+    "skill_id": "SID_自称怪盗の暗器",
+    "default": 5,
+    "unlock": 5
   },
   {
     "unit_id": "PID_キャス",
@@ -40207,6 +40243,12 @@
   },
   {
     "unit_id": "PID_ガルザス",
+    "skill_id": "SID_イザークの黒剣",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_ガルザス",
     "skill_id": "SID_月光",
     "default": 0,
     "unlock": 4
@@ -41786,6 +41828,96 @@
   {
     "unit_id": "PID_双界ゴルドマリー",
     "skill_id": "SID_鋼の槍",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_ハロゴルドマリー",
+    "skill_id": "SID_角逐",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_ハロゴルドマリー",
+    "skill_id": "SID_攻速鼓譟・奪取無効",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_ハロゴルドマリー",
+    "skill_id": "SID_収穫祭の飴の大鎌",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_ハロゴルドマリー",
+    "skill_id": "SID_竜穿",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_ハロゴルドマリー",
+    "skill_id": "SID_伏竜",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_ハロゴルドマリー",
+    "skill_id": "SID_助走・緑への分断",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_ハロゴルドマリー",
+    "skill_id": "SID_攻撃の鼓舞1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_ハロゴルドマリー",
+    "skill_id": "SID_攻撃の鼓舞2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_ハロゴルドマリー",
+    "skill_id": "SID_攻撃の鼓舞3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_ハロゴルドマリー",
+    "skill_id": "SID_鉄の斧",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_ハロゴルドマリー",
+    "skill_id": "SID_助走1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_ハロゴルドマリー",
+    "skill_id": "SID_助走2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_ハロゴルドマリー",
+    "skill_id": "SID_助走3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_ハロゴルドマリー",
+    "skill_id": "SID_銀の斧",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_ハロゴルドマリー",
+    "skill_id": "SID_鋼の斧",
     "default": 2,
     "unlock": 2
   },
@@ -51385,6 +51517,12 @@
   },
   {
     "unit_id": "PID_紋章アイク",
+    "skill_id": "SID_覇克・天空・紋",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_紋章アイク",
     "skill_id": "SID_鉄の剣",
     "default": 1,
     "unlock": 1
@@ -51412,6 +51550,30 @@
     "skill_id": "SID_不動4",
     "default": 0,
     "unlock": 5
+  },
+  {
+    "unit_id": "PID_紋章アイク",
+    "skill_id": "SID_後の先",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_紋章アイク",
+    "skill_id": "SID_切り返し1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_紋章アイク",
+    "skill_id": "SID_切り返し2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_紋章アイク",
+    "skill_id": "SID_切り返し3",
+    "default": 0,
+    "unlock": 4
   },
   {
     "unit_id": "PID_紋章アイク",
@@ -54496,6 +54658,90 @@
     "skill_id": "SID_鋼の弓",
     "default": 3,
     "unlock": 2
+  },
+  {
+    "unit_id": "PID_ハロヤナフ",
+    "skill_id": "SID_成獣の化身・飛行",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_ハロヤナフ",
+    "skill_id": "SID_攻撃速さの機先1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_ハロヤナフ",
+    "skill_id": "SID_攻撃速さの機先2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_ハロヤナフ",
+    "skill_id": "SID_攻撃速さの機先3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_ハロヤナフ",
+    "skill_id": "SID_若獣の化身・飛行",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_ハロヤナフ",
+    "skill_id": "SID_見守る千里眼の嘴爪",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_ハロヤナフ",
+    "skill_id": "SID_幼獣の化身・飛行",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_ハロヤナフ",
+    "skill_id": "SID_速さの応援",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_ハロヤナフ",
+    "skill_id": "SID_速さの大応援",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_ハロヤナフ",
+    "skill_id": "SID_速さの大応援＋",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_ハロヤナフ",
+    "skill_id": "SID_速さの吸収1",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_ハロヤナフ",
+    "skill_id": "SID_速さの吸収2",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_ハロヤナフ",
+    "skill_id": "SID_速さの吸収3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_ハロヤナフ",
+    "skill_id": "SID_見下す者",
+    "default": 0,
+    "unlock": 5
   },
   {
     "unit_id": "PID_ジェルド",
@@ -58822,6 +59068,102 @@
     "skill_id": "SID_鋼の暗器",
     "default": 3,
     "unlock": 2
+  },
+  {
+    "unit_id": "PID_比翼クルト",
+    "skill_id": "SID_攻撃速さの万全1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_比翼クルト",
+    "skill_id": "SID_攻撃速さの万全2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_比翼クルト",
+    "skill_id": "SID_攻撃速さの万全3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_比翼クルト",
+    "skill_id": "SID_ボルガノン",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_比翼クルト",
+    "skill_id": "SID_竜穿",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_比翼クルト",
+    "skill_id": "SID_伏竜",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_比翼クルト",
+    "skill_id": "SID_エルファイアー",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_比翼クルト",
+    "skill_id": "SID_ファイアー",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_比翼クルト",
+    "skill_id": "SID_いつか必ず祖国を",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_比翼クルト",
+    "skill_id": "SID_理路",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_比翼クルト",
+    "skill_id": "SID_獣人王子王女の佳肴",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_比翼クルト",
+    "skill_id": "SID_速さの混乱1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_比翼クルト",
+    "skill_id": "SID_速さの混乱2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_比翼クルト",
+    "skill_id": "SID_速さの混乱3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_比翼クルト",
+    "skill_id": "SID_速さ魔防の疑惧",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_比翼クルト",
+    "skill_id": "SID_攻速無欠・攻め立て",
+    "default": 0,
+    "unlock": 5
   },
   {
     "unit_id": "PID_ハロクルトナーガ",
@@ -103794,6 +104136,102 @@
     "unlock": 1
   },
   {
+    "unit_id": "PID_魔器ハロシア",
+    "skill_id": "SID_魔器・収穫祭の灯火",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_魔器ハロシア",
+    "skill_id": "SID_氷点",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_魔器ハロシア",
+    "skill_id": "SID_火のブレス",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_魔器ハロシア",
+    "skill_id": "SID_火炎のブレス",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_魔器ハロシア",
+    "skill_id": "SID_灼熱のブレス",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_魔器ハロシア",
+    "skill_id": "SID_竜の氷茨",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_魔器ハロシア",
+    "skill_id": "SID_氷華",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_魔器ハロシア",
+    "skill_id": "SID_キャンセル1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_魔器ハロシア",
+    "skill_id": "SID_キャンセル2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_魔器ハロシア",
+    "skill_id": "SID_キャンセル3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_魔器ハロシア",
+    "skill_id": "SID_ナーガ様のために",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_魔器ハロシア",
+    "skill_id": "SID_迅雷風烈・奇数1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_魔器ハロシア",
+    "skill_id": "SID_迅雷風烈・奇数2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_魔器ハロシア",
+    "skill_id": "SID_迅雷風烈・奇数3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_魔器ハロシア",
+    "skill_id": "SID_狂涛・キャンセル",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_魔器ハロシア",
+    "skill_id": "SID_霹靂閃電・鬼没",
+    "default": 0,
+    "unlock": 5
+  },
+  {
     "unit_id": "PID_シーマ",
     "skill_id": "SID_小盾",
     "default": 4,
@@ -122072,6 +122510,12 @@
   {
     "unit_id": "PID_比翼カゲロウ",
     "skill_id": "DUO_PID_比翼カゲロウ",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_比翼クルト",
+    "skill_id": "DUO_PID_比翼クルト",
     "default": 0,
     "unlock": 1
   },

@@ -3572,6 +3572,13 @@
     "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/4b/Goldmary_Coy_Beach_Divas_BtlFace_D.webp/revision/latest?cb=20240704074821"
   },
   {
+    "id": "PID_ハロゴルドマリー",
+    "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/a5/Goldmary_Darling_Demon_Face.webp/revision/latest?cb=20261006044053",
+    "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/7f/Goldmary_Darling_Demon_BtlFace.webp/revision/latest?cb=20261006044028",
+    "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/8a/Goldmary_Darling_Demon_BtlFace_C.webp/revision/latest?cb=20261006044044",
+    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d1/Goldmary_Darling_Demon_BtlFace_D.webp/revision/latest?cb=20261006044048"
+  },
+  {
     "id": "PID_ゴンザレス",
     "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/bd/Gonzalez_Kindly_Bandit_Face.webp/revision/latest?cb=20220218063820",
     "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e3/Gonzalez_Kindly_Bandit_BtlFace.webp/revision/latest?cb=20220218063745",
@@ -4654,6 +4661,13 @@
     "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/04/Jamke_Prince_of_Verdane_BtlFace_D.webp/revision/latest?cb=20190920220419"
   },
   {
+    "id": "PID_ハロヤナフ",
+    "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/ee/Janaff_Treat_or_Talon_Face.webp/revision/latest?cb=20261006044018",
+    "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/33/Janaff_Treat_or_Talon_BtlFace.webp/revision/latest?cb=20261006043953",
+    "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/73/Janaff_Treat_or_Talon_BtlFace_C.webp/revision/latest?cb=20261006044008",
+    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/37/Janaff_Treat_or_Talon_BtlFace_D.webp/revision/latest?cb=20261006044013"
+  },
+  {
     "id": "PID_ジェルド",
     "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/1b/Jarod_Nevassa_General_Face.webp/revision/latest?cb=20240606050706",
     "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/99/Jarod_Nevassa_General_BtlFace.webp/revision/latest?cb=20240606050642",
@@ -5061,6 +5075,13 @@
     "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/2/25/Kronya_Gleaming_Blade_BtlFace.webp/revision/latest?cb=20190920225544",
     "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/75/Kronya_Gleaming_Blade_BtlFace_C.webp/revision/latest?cb=20190920225550",
     "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/fa/Kronya_Gleaming_Blade_BtlFace_D.webp/revision/latest?cb=20190920225554"
+  },
+  {
+    "id": "PID_比翼クルト",
+    "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/ce/Kurt_Light_Seekers_Face.webp/revision/latest?cb=20261006044128",
+    "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/6f/Kurt_Light_Seekers_BtlFace.webp/revision/latest?cb=20261006044103",
+    "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/3f/Kurt_Light_Seekers_BtlFace_C.webp/revision/latest?cb=20261006044119",
+    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b8/Kurt_Light_Seekers_BtlFace_D.webp/revision/latest?cb=20261006044123"
   },
   {
     "id": "PID_ハロクルトナーガ",
@@ -8451,7 +8472,11 @@
     "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e9/Roy_Blazing_Lion_Face.webp/revision/latest?cb=20190920223036",
     "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/ea/Roy_Blazing_Lion_BtlFace.webp/revision/latest?cb=20190920223042",
     "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b1/Roy_Blazing_Lion_BtlFace_C.webp/revision/latest?cb=20190920223047",
-    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/3d/Roy_Blazing_Lion_BtlFace_D.webp/revision/latest?cb=20190920223053"
+    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/3d/Roy_Blazing_Lion_BtlFace_D.webp/revision/latest?cb=20190920223053",
+    "art_resp_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/bb/Roy_Blazing_Lion_Resplendent_Face.webp/revision/latest?cb=20261006043943",
+    "art_resp_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/2/2e/Roy_Blazing_Lion_Resplendent_BtlFace.webp/revision/latest?cb=20261006043918",
+    "art_resp_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/36/Roy_Blazing_Lion_Resplendent_BtlFace_C.webp/revision/latest?cb=20261006043933",
+    "art_resp_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/5c/Roy_Blazing_Lion_Resplendent_BtlFace_D.webp/revision/latest?cb=20261006043938"
   },
   {
     "id": "PID_総選挙ロイ",
@@ -9014,6 +9039,13 @@
     "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/ca/Sharena_Spring_Princess_BtlFace.webp/revision/latest?cb=20190920213958",
     "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b8/Sharena_Spring_Princess_BtlFace_C.webp/revision/latest?cb=20190920214005",
     "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/12/Sharena_Spring_Princess_BtlFace_D.webp/revision/latest?cb=20190920214014"
+  },
+  {
+    "id": "PID_魔器ハロシア",
+    "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/5a/Shea_Guide_to_Bounty_Face.webp/revision/latest?cb=20261006044204",
+    "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/04/Shea_Guide_to_Bounty_BtlFace.webp/revision/latest?cb=20261006044138",
+    "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/35/Shea_Guide_to_Bounty_BtlFace_C.webp/revision/latest?cb=20261006044154",
+    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/39/Shea_Guide_to_Bounty_BtlFace_D.webp/revision/latest?cb=20261006044158"
   },
   {
     "id": "PID_シーマ",

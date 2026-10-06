@@ -4842,8 +4842,8 @@
     "guide_id": "05049005000774-2",
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/6e/Cath_Master_Thief_Face_FC.webp/revision/latest?cb=20220218063737",
     "bst": 177,
-    "max_score": 758,
-    "skills_max_sp": 2550
+    "max_score": 760,
+    "skills_max_sp": 2600
   },
   {
     "id": "PID_カトリーヌ",
@@ -13020,8 +13020,8 @@
     "guide_id": "04059010000784-2",
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/ce/Galzus_Dark_Blade_of_Od_Face_FC.webp/revision/latest?cb=20220318043616",
     "bst": 182,
-    "max_score": 760,
-    "skills_max_sp": 2550
+    "max_score": 762,
+    "skills_max_sp": 2600
   },
   {
     "id": "PID_魔器ガングレト味方",
@@ -13514,6 +13514,32 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/fb/Goldmary_Coy_Beach_Divas_Face_FC.webp/revision/latest?cb=20240704074830",
     "bst": 193,
     "max_score": 766,
+    "skills_max_sp": 2600
+  },
+  {
+    "id": "PID_ハロゴルドマリー",
+    "fandom_id": "Goldmary: Darling Demon",
+    "name": "Goldmary",
+    "title": "Darling Demon",
+    "full_name": "Goldmary: Darling Demon",
+    "abbreviated_name": "H!Goldmary",
+    "theme": "halloween",
+    "gender": "F",
+    "move_type": "Cavalry",
+    "weapon_type": "Green Axe",
+    "games": [
+      "Fire Emblem Engage"
+    ],
+    "id_int": 1423,
+    "origin": "140000400700",
+    "book": 10,
+    "max_df": 5,
+    "is_special": true,
+    "release_date": "2026-10-07",
+    "version": "10.10",
+    "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/1b/Goldmary_Darling_Demon_Face_FC.webp/revision/latest?cb=20261006044058",
+    "bst": 201,
+    "max_score": 770,
     "skills_max_sp": 2600
   },
   {
@@ -17627,6 +17653,32 @@
     "skills_max_sp": 2600
   },
   {
+    "id": "PID_ハロヤナフ",
+    "fandom_id": "Janaff: Treat or Talon",
+    "name": "Janaff",
+    "title": "Treat or Talon",
+    "full_name": "Janaff: Treat or Talon",
+    "abbreviated_name": "H!Janaff",
+    "theme": "halloween",
+    "gender": "M",
+    "move_type": "Flying",
+    "weapon_type": "Colorless Beast",
+    "games": [
+      "Fire Emblem: Radiant Dawn"
+    ],
+    "id_int": 1424,
+    "origin": "090000600200",
+    "book": 10,
+    "max_df": 5,
+    "is_special": true,
+    "release_date": "2026-10-07",
+    "version": "10.10",
+    "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f4/Janaff_Treat_or_Talon_Face_FC.webp/revision/latest?cb=20261006044023",
+    "bst": 205,
+    "max_score": 768,
+    "skills_max_sp": 2540
+  },
+  {
     "id": "PID_ジェルド",
     "fandom_id": "Jarod: Nevassa General",
     "name": "Jarod",
@@ -19151,6 +19203,34 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/3a/Kronya_Gleaming_Blade_Face_FC.webp/revision/latest?cb=20190920225532",
     "bst": 162,
     "max_score": 760,
+    "skills_max_sp": 2600
+  },
+  {
+    "id": "PID_比翼クルト",
+    "fandom_id": "Kurt: Light Seekers",
+    "name": "Kurt",
+    "title": "Light Seekers",
+    "full_name": "Kurt: Light Seekers",
+    "abbreviated_name": "H!Kurt",
+    "theme": "halloween",
+    "gender": "FF",
+    "move_type": "Infantry",
+    "weapon_type": "Red Tome",
+    "games": [
+      "Fire Emblem Shadows"
+    ],
+    "id_int": 1421,
+    "origin": "150000100100",
+    "book": 10,
+    "max_df": 5,
+    "is_special": true,
+    "is_duo": true,
+    "release_date": "2026-10-07",
+    "version": "10.10",
+    "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/55/Kurt_Light_Seekers_Face_FC.webp/revision/latest?cb=20261006044133",
+    "bst": 199,
+    "duel_score": 225,
+    "max_score": 778,
     "skills_max_sp": 2600
   },
   {
@@ -31867,12 +31947,14 @@
     "origin": "050000100100",
     "book": 3,
     "max_df": 40,
+    "has_respl": true,
     "is_legendary": true,
     "element": "Fire",
     "release_date": "2019-02-27",
     "version": "3.2",
     "game8_id": "267102",
     "guide_id": "roy_blazing_lion",
+    "fehpass_id": "00001001000349",
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/1b/Roy_Blazing_Lion_Face_FC.webp/revision/latest?cb=20190920223031",
     "image_url_for_icon_legendary": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/ab/Legendary_Effect_Fire.png/revision/latest?cb=20260330024751",
     "bst": 169,
@@ -33960,6 +34042,31 @@
     "bst": 151,
     "max_score": 760,
     "skills_max_sp": 2600
+  },
+  {
+    "id": "PID_魔器ハロシア",
+    "fandom_id": "Shea: Guide to Bounty",
+    "name": "Shea",
+    "title": "Guide to Bounty",
+    "full_name": "Shea: Guide to Bounty",
+    "abbreviated_name": "R!Shea",
+    "gender": "F",
+    "move_type": "Flying",
+    "weapon_type": "Blue Breath",
+    "games": [
+      "Fire Emblem Shadows"
+    ],
+    "id_int": 1422,
+    "origin": "150002900200",
+    "book": 10,
+    "max_df": 5,
+    "is_rearmed": true,
+    "release_date": "2026-10-07",
+    "version": "10.10",
+    "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/92/Shea_Guide_to_Bounty_Face_FC.webp/revision/latest?cb=20261006044208",
+    "bst": 211,
+    "max_score": 772,
+    "skills_max_sp": 2550
   },
   {
     "id": "PID_シーマ",

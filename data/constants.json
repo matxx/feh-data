@@ -38,6 +38,7 @@
   ],
   "keywords": [
     "【Anathema】<br>Inflicts Spd/Def/Res-4 on foes within 3 spaces of unit during combat.",
+    "【Arcane Style】<br>Change Style using the Style button at the bottom of the screen.<br><br>A unit's Style is only active when that unit is taking an action. If unit is deployed using Pair Up or is equipped with skills (excluding status effects) that can trigger other Styles, this arcane weapon's Style does not take effect (the Styles of the other skills can still be triggered).",
     "【Assign Decoy Twin】<br>If foe's Range = unit's Range and foe initiates combat against an ally within 2 spaces of unit, triggers【Savior】on unit (triggers only if unit is not equipped with a skill that can trigger another Savior effect; if unit is granted multiple statuses that enable【Savior】effects to trigger,【Savior】will not trigger).<br><br>If foe's Range = unit's Range and foe initiates combat, any \"reduces damage by X%\" effect that can be triggered only once per combat by unit's equipped Special skill can be triggered up to twice per combat (excludes boosted Special effects from engaging; only highest value applied; does not stack).",
     "【Assign Decoy】<br>If foe's Range = unit's Range and foe initiates combat against an ally within 2 spaces of unit, triggers【Savior】on unit (that turn only; triggers only if unit is not equipped with a skill that can trigger the Savior effect).",
     "【Assign Decoy】<br>If foe's Range = unit's Range and foe initiates combat against an ally within 2 spaces of unit, triggers【Savior】on unit (triggers only if unit is not equipped with a skill that can trigger the Savior effect).",
@@ -246,7 +247,7 @@
     "【Vantage】<br>If foe initiates combat, unit can counterattack before foe's first attack for 1 turn.",
     "【Warp Bubble】<br>Foes cannot warp into spaces within 4 spaces of unit. (Does not affect foes with Pass skills or warp effects from structures, like camps and fortresses in Rival Domains.)"
   ],
-  "units_count": 1420,
+  "units_count": 1424,
   "units_max_hp": 60,
   "units_max_hp_ids": [
     "PID_アーダン"
