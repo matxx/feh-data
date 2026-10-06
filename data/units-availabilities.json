@@ -43169,14 +43169,14 @@
     "id": "PID_魔器ハロシア",
     "is_in": {
       "gsp": false,
-      "ssp": false,
+      "ssp": true,
       "hg": false,
       "dc": false,
       "ldc": false,
-      "foc": true
+      "foc": false
     },
     "lowest_rarity": {
-      "foc": 5
+      "ssp": 5
     },
     "skill_ids": [
       "SID_キャンセル1",
