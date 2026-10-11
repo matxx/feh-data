@@ -5700,6 +5700,7 @@
   },
   {
     "id": "SID_魔器・収穫祭の灯火",
+    "game8_id": "629940",
     "fandom_id": "Arcane_Lantern",
     "name": "Arcane Lantern",
     "category": "weapon",
@@ -26934,6 +26935,7 @@
   },
   {
     "id": "SID_収穫祭の飴の大鎌",
+    "game8_id": "629944",
     "fandom_id": "Candy_Scythe",
     "name": "Candy Scythe",
     "category": "weapon",
@@ -44206,6 +44208,7 @@
   },
   {
     "id": "SID_助走・緑への分断",
+    "game8_id": "629948",
     "fandom_id": "Emerald_Impetus",
     "name": "Emerald Impetus",
     "category": "passiveb",
@@ -52950,6 +52953,7 @@
   },
   {
     "id": "SID_竜の氷茨",
+    "game8_id": "629945",
     "fandom_id": "Frozen_Thorn",
     "name": "Frozen Thorn",
     "category": "special",
@@ -59169,6 +59173,7 @@
   },
   {
     "id": "SID_見守る千里眼の嘴爪",
+    "game8_id": "629943",
     "fandom_id": "Guardian%27s_Talon",
     "name": "Guardian's Talon",
     "category": "weapon",
@@ -62719,6 +62724,7 @@
   },
   {
     "id": "SID_いつか必ず祖国を",
+    "game8_id": "629949",
     "fandom_id": "Homeland_Vow",
     "name": "Homeland Vow",
     "category": "passivec",
@@ -77232,6 +77238,7 @@
   },
   {
     "id": "SID_ナーガ様のために",
+    "game8_id": "629947",
     "fandom_id": "Naga_the_Eternal",
     "name": "Naga the Eternal",
     "category": "passivea",
@@ -94201,6 +94208,7 @@
   },
   {
     "id": "SID_獣人王子王女の佳肴",
+    "game8_id": "629939",
     "fandom_id": "Royal_Treats",
     "name": "Royal Treats",
     "category": "weapon",
@@ -115545,6 +115553,7 @@
   },
   {
     "id": "SID_攻速無欠・攻め立て",
+    "game8_id": "629946",
     "fandom_id": "Swift_Despair",
     "name": "Swift Despair",
     "category": "passivea",

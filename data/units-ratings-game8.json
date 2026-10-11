@@ -9938,5 +9938,26 @@
     "recommended_boon": "spd",
     "recommended_bane": "res",
     "recommended_plus10": null
+  },
+  {
+    "id": "PID_ハロゴルドマリー",
+    "game8_rating": "9.0",
+    "recommended_boon": "spd",
+    "recommended_bane": "res",
+    "recommended_plus10": null
+  },
+  {
+    "id": "PID_ハロヤナフ",
+    "game8_rating": "9.0",
+    "recommended_boon": "spd",
+    "recommended_bane": "res",
+    "recommended_plus10": null
+  },
+  {
+    "id": "PID_魔器ハロシア",
+    "game8_rating": "9.5",
+    "recommended_boon": "spd",
+    "recommended_bane": "hp",
+    "recommended_plus10": null
   }
 ]
