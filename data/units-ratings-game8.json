@@ -9966,5 +9966,26 @@
     "recommended_boon": "spd",
     "recommended_bane": "def",
     "recommended_plus10": "spd"
+  },
+  {
+    "id": "PID_比翼総選挙ディミ",
+    "game8_rating": "9.5",
+    "recommended_boon": "spd",
+    "recommended_bane": "res",
+    "recommended_plus10": null
+  },
+  {
+    "id": "PID_比翼総選挙エーデル",
+    "game8_rating": "9.9",
+    "recommended_boon": "def",
+    "recommended_bane": "spd",
+    "recommended_plus10": null
+  },
+  {
+    "id": "PID_グルヴェイグ2味方",
+    "game8_rating": "9.9",
+    "recommended_boon": "spd",
+    "recommended_bane": "res",
+    "recommended_plus10": null
   }
 ]

@@ -181,6 +181,7 @@
     "【Null Foresight Snare】<br>Neutralizes effects of foe's【Foresight Snare】.",
     "【Null Panic】<br>If unit is inflicted with Panic (bonuses converted into penalties), neutralizes the \"converts bonuses on target into penalties\" effect for 1 turn.",
     "【Null Panic】<br>If unit is inflicted with Panic (bonuses converted into penalties), neutralizes the \"converts bonuses on target into penalties\" effect for 1 turn. (Even though the effect is neutralized, the Panic status remains, and is treated as a Penalty status.)",
+    "【Null Undefended】<br>Neutralizes effects of【Undefended】. (Only the Undefended status is neutralized, does not neutralize effects such as \"when unit is in combat, foes' Savior effects will not trigger\".)",
     "【P Save】<br>\"If sword, lance, axe, bow, dagger, or beast foe initiates combat\" is an activation condition for \"Savior.\"",
     "【Panic】<br>Converts bonuses on unit into penalties through its next action.",
     "【Panic】<br>Converts bonuses on unit into penalties.",
@@ -234,6 +235,7 @@
     "【Stall】<br>If unit has \"unit can move 1 extra space,\" converts that effect into \"restricts movement to 1 space.\"",
     "【Style】<br>Change Style using the Style button at the bottom of the screen.<br><br>A unit's Style is only active when that unit is taking an action. Style use is disabled when unit is deployed using Pair Up or when unit is equipped with multiple skills that have a Style.",
     "【Style】<br>Change Style using the Style button at the bottom of the screen.<br><br>A unit's Style is only active when that unit is taking an action. When unit has a status or a skill that enables use of a Style, Duo Skills and Harmonized Skills cannot be used while unit can take an action (those skills can be used after unit has acted).<br>Style use is disabled when unit is deployed using Pair Up or when unit is equipped with multiple skills that have a Style.",
+    "【Time Dilation】<br>Grants Atk/Spd/Def/Res+5 to unit and unit deals +10 damage during combat (excluding area-of-effect Specials), and if unit initiated combat, enables【Cadenza】against any foe within X spaces of unit after combat (excluding after【Cadenza】; X = unit's attack range +1; 【Cadenza】can only be enabled by this effect once per turn for the entire map).",
     "【Time's Gate】<br>Allies within 4 spaces of unit can move to a space adjacent to unit (that turn only).",
     "【Time's Grip】<br>Inflicts Atk/Spd/Def/Res-4 during combat. Neutralizes unit's skills during allies' combat through unit's next action.",
     "【Treachery】<br>Unit deals additional damage = total bonuses on unit for 1 turn.",
@@ -247,7 +249,7 @@
     "【Vantage】<br>If foe initiates combat, unit can counterattack before foe's first attack for 1 turn.",
     "【Warp Bubble】<br>Foes cannot warp into spaces within 4 spaces of unit. (Does not affect foes with Pass skills or warp effects from structures, like camps and fortresses in Rival Domains.)"
   ],
-  "units_count": 1424,
+  "units_count": 1427,
   "units_max_hp": 60,
   "units_max_hp_ids": [
     "PID_アーダン"
@@ -256,6 +258,8 @@
   "units_max_atk_ids": [
     "PID_伝承ディアマンド",
     "PID_愛の祭エーデル",
+    "PID_比翼総選挙エーデル",
+    "PID_比翼総選挙ディミ",
     "PID_総選挙エイクス",
     "PID_総選挙シグルド",
     "PID_響心セオドラ",
@@ -279,8 +283,8 @@
     "PID_天の王味方",
     "PID_比翼レア"
   ],
-  "units_max_bst": 213,
+  "units_max_bst": 217,
   "units_max_bst_ids": [
-    "PID_紋章カムイ女"
+    "PID_比翼総選挙エーデル"
   ]
 }

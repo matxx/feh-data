@@ -7021,6 +7021,30 @@
     ]
   },
   {
+    "id": "SID_重装の炎紋",
+    "game8_id": "632108",
+    "fandom_id": "Armored_Flames",
+    "name": "Armored Flames",
+    "category": "special",
+    "sp": 500,
+    "tier": 3,
+    "cd": 4,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Armored"
+        ]
+      },
+      "weapons": null
+    },
+    "addition_date": "2026-10-16",
+    "release_date": "2026-10-16",
+    "version": "10.10",
+    "downgrade_ids": [
+      "SID_華炎"
+    ]
+  },
+  {
     "id": "SID_重装の双炎",
     "game8_id": "580786",
     "fandom_id": "Armored_Flare",
@@ -13129,7 +13153,8 @@
     "upgrade_ids": [
       "SID_攻撃速さの詠唱",
       "SID_攻撃速さの絆4",
-      "SID_攻撃速さの連帯4"
+      "SID_攻撃速さの連帯4",
+      "SID_攻撃速さの吟詠"
     ],
     "downgrade_ids": [
       "SID_攻撃速さの絆2"
@@ -15253,6 +15278,33 @@
     ]
   },
   {
+    "id": "SID_攻撃速さの吟詠",
+    "game8_id": "632109",
+    "fandom_id": "Atk_Spd_Verse",
+    "name": "Atk/Spd Verse",
+    "category": "passivea",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/a7/Atk_Spd_Verse.png/revision/latest?cb=20261016151439",
+    "sp": 300,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "none": true
+      },
+      "weapons": {
+        "can_use": [
+          "All Tome",
+          "Colorless Staff"
+        ]
+      }
+    },
+    "addition_date": "2026-10-06",
+    "release_date": "2026-10-16",
+    "version": "10.10",
+    "downgrade_ids": [
+      "SID_攻撃速さの絆3"
+    ]
+  },
+  {
     "id": "SID_攻撃速さの奇襲",
     "game8_id": "535467",
     "fandom_id": "Atk_Spd_Waylay",
@@ -16487,12 +16539,12 @@
         ]
       },
       "weapons": {
-        "can_use": [
-          "Blue Lance",
-          "Blue Beast",
-          "Green Axe",
-          "Green Beast",
-          "Colorless Beast"
+        "can_not_use": [
+          "Red",
+          "All Bow",
+          "All Dagger",
+          "All Tome",
+          "Colorless Staff"
         ]
       }
     },
@@ -19221,6 +19273,20 @@
     ]
   },
   {
+    "id": "SID_真黒鷲の覇王",
+    "game8_id": "632111",
+    "fandom_id": "Black_Eagle_Reign",
+    "name": "Black Eagle Reign",
+    "category": "passiveb",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/9/92/Black_Eagle_Reign.png/revision/latest?cb=20261016151500",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 1,
+    "addition_date": "2026-10-16",
+    "release_date": "2026-10-16",
+    "version": "10.10"
+  },
+  {
     "id": "SID_黒鷲の覇王",
     "game8_id": "292799",
     "fandom_id": "Black_Eagle_Rule",
@@ -21108,6 +21174,20 @@
     "downgrade_ids": [
       "SID_青のプレゼント箱"
     ]
+  },
+  {
+    "id": "SID_真蒼き獅子王",
+    "game8_id": "632112",
+    "fandom_id": "Blue_Lion_Reign",
+    "name": "Blue Lion Reign",
+    "category": "passiveb",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f1/Blue_Lion_Reign.png/revision/latest?cb=20261016151450",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 1,
+    "addition_date": "2026-10-16",
+    "release_date": "2026-10-16",
+    "version": "10.10"
   },
   {
     "id": "SID_蒼き獅子王",
@@ -31269,12 +31349,12 @@
         ]
       },
       "weapons": {
-        "can_use": [
-          "Red Sword",
-          "Red Beast",
-          "Blue Lance",
-          "Blue Beast",
-          "Colorless Beast"
+        "can_not_use": [
+          "Green",
+          "All Bow",
+          "All Dagger",
+          "All Tome",
+          "Colorless Staff"
         ]
       }
     },
@@ -31801,6 +31881,25 @@
     "version": "8.0",
     "downgrade_ids": [
       "SID_成獣の化身・騎馬"
+    ]
+  },
+  {
+    "id": "SID_蒼翠グラディウス",
+    "game8_id": "632106",
+    "fandom_id": "Cyan_Gradivus",
+    "name": "Cyan Gradivus",
+    "category": "weapon",
+    "weapon_type": "Blue Lance",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "range": 1,
+    "might": 16,
+    "addition_date": "2026-10-16",
+    "release_date": "2026-10-16",
+    "version": "10.10",
+    "downgrade_ids": [
+      "SID_銀の槍"
     ]
   },
   {
@@ -33621,6 +33720,7 @@
     "upgrade_ids": [
       "SID_凶鳥の一撃",
       "SID_飛燕の一撃4",
+      "SID_清濁の一撃",
       "SID_清流の一撃"
     ],
     "downgrade_ids": [
@@ -34589,6 +34689,25 @@
     "version": "4.8",
     "downgrade_ids": [
       "SID_デッキブラシ"
+    ]
+  },
+  {
+    "id": "SID_紅闇オートクレール",
+    "game8_id": "632105",
+    "fandom_id": "Deep_Hauteclere",
+    "name": "Deep Hauteclere",
+    "category": "weapon",
+    "weapon_type": "Green Axe",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "range": 1,
+    "might": 16,
+    "addition_date": "2026-10-16",
+    "release_date": "2026-10-16",
+    "version": "10.10",
+    "downgrade_ids": [
+      "SID_銀の斧"
     ]
   },
   {
@@ -42531,6 +42650,37 @@
     ]
   },
   {
+    "id": "SID_清濁の一撃",
+    "game8_id": "632110",
+    "fandom_id": "Duality_Blow",
+    "name": "Duality Blow",
+    "category": "passivea",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d4/Duality_Blow.png/revision/latest?cb=20261016151429",
+    "sp": 300,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Infantry"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "All Melee",
+          "All Breath",
+          "All Beast"
+        ]
+      }
+    },
+    "addition_date": "2026-10-16",
+    "release_date": "2026-10-16",
+    "version": "10.10",
+    "downgrade_ids": [
+      "SID_飛燕の一撃3",
+      "SID_明鏡の一撃3"
+    ]
+  },
+  {
     "id": "SID_開神と閉神の祭器",
     "game8_id": "401724",
     "fandom_id": "Duality_Vessel",
@@ -44222,12 +44372,12 @@
         ]
       },
       "weapons": {
-        "can_use": [
-          "Red Sword",
-          "Red Beast",
-          "Green Axe",
-          "Green Beast",
-          "Colorless Beast"
+        "can_not_use": [
+          "Blue",
+          "All Bow",
+          "All Dagger",
+          "All Tome",
+          "Colorless Staff"
         ]
       }
     },
@@ -64969,6 +65119,7 @@
     "release_date": "2017-02-02",
     "version": "1.0",
     "upgrade_ids": [
+      "SID_重装の炎紋",
       "SID_重装の双炎",
       "SID_獅子紅蓮焔舞",
       "SID_竜炎",
@@ -71349,6 +71500,23 @@
     "version": "1.0",
     "downgrade_ids": [
       "SID_光のブレス"
+    ]
+  },
+  {
+    "id": "SID_時を超えた光",
+    "game8_id": "632107",
+    "fandom_id": "Light_Eternal",
+    "name": "Light Eternal",
+    "category": "special",
+    "is_prf": true,
+    "sp": 500,
+    "tier": 3,
+    "cd": 5,
+    "addition_date": "2026-10-06",
+    "release_date": "2026-10-16",
+    "version": "10.10",
+    "downgrade_ids": [
+      "SID_復讐"
     ]
   },
   {
@@ -89737,6 +89905,25 @@
     "version": "9.10"
   },
   {
+    "id": "SID_再来の魔女の聖具",
+    "game8_id": "632104",
+    "fandom_id": "Reforged_Seer",
+    "name": "Reforged Seer",
+    "category": "weapon",
+    "weapon_type": "Colorless Tome",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "range": 2,
+    "might": 14,
+    "addition_date": "2026-10-06",
+    "release_date": "2026-10-16",
+    "version": "10.10",
+    "downgrade_ids": [
+      "SID_アトラース"
+    ]
+  },
+  {
     "id": "SID_賀正の妖狐王の爪牙",
     "game8_id": "315230",
     "fandom_id": "Refreshed_Fang",
@@ -94887,6 +95074,36 @@
     "version": "9.5",
     "downgrade_ids": [
       "SID_速さ守備の防壁3"
+    ]
+  },
+  {
+    "id": "SID_速守信念・弱化無効",
+    "game8_id": "632114",
+    "fandom_id": "S_D_Tenet_Hone",
+    "name": "S/D Tenet Hone",
+    "category": "passivec",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/ee/S_D_Tenet_Hone.png/revision/latest?cb=20261016151511",
+    "sp": 300,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Infantry"
+        ]
+      },
+      "weapons": {
+        "can_use": [
+          "All Melee",
+          "All Breath",
+          "All Beast"
+        ]
+      }
+    },
+    "addition_date": "2026-10-16",
+    "release_date": "2026-10-16",
+    "version": "10.10",
+    "downgrade_ids": [
+      "SID_速さ守備の信義3"
     ]
   },
   {
@@ -101114,6 +101331,7 @@
       "SID_朱傭兵の戦斧",
       "SID_打ち砕くもの",
       "SID_命なき狂牙の斧",
+      "SID_紅闇オートクレール",
       "SID_波舞うイルカの斧",
       "SID_赤い竜騎士の斧",
       "SID_黒鷲の愛の斧",
@@ -101569,6 +101787,7 @@
       "SID_氷の救世の槍",
       "SID_草原の狼の白槍",
       "SID_魔性の槍",
+      "SID_蒼翠グラディウス",
       "SID_闘いの熱砂の槍",
       "SID_謎の闘技者の槍",
       "SID_耳目集める二人の傘",
@@ -106343,6 +106562,9 @@
     "addition_date": "2020-04-20",
     "release_date": "2020-04-20",
     "version": "4.4",
+    "upgrade_ids": [
+      "SID_速守信念・弱化無効"
+    ],
     "downgrade_ids": [
       "SID_速さ守備の信義2"
     ]
@@ -122810,6 +123032,7 @@
     "version": "1.0",
     "upgrade_ids": [
       "SID_未来と過去",
+      "SID_時を超えた光",
       "SID_時と光",
       "SID_時は光"
     ],
@@ -124432,6 +124655,7 @@
     "release_date": "2017-02-02",
     "version": "1.0",
     "upgrade_ids": [
+      "SID_清濁の一撃",
       "SID_清流の一撃",
       "SID_濁流の一撃"
     ],
@@ -153089,6 +153313,18 @@
     "version": "6.0"
   },
   {
+    "id": "DUO_PID_比翼総選挙ディミ",
+    "game8_id": "632115",
+    "fandom_id": "Dimitri%3A_Dual_Idealists",
+    "name": "Dimitri: Dual Idealists",
+    "category": "duo",
+    "is_prf": true,
+    "tier": 1,
+    "addition_date": "2026-10-16",
+    "release_date": "2026-10-16",
+    "version": "10.10"
+  },
+  {
     "id": "DUO_PID_比翼ドーマ",
     "game8_id": "393022",
     "fandom_id": "Duma%3A_Strength_and_Love",
@@ -153099,6 +153335,18 @@
     "addition_date": "2022-10-05",
     "release_date": "2022-10-06",
     "version": "6.10"
+  },
+  {
+    "id": "DUO_PID_比翼総選挙エーデル",
+    "game8_id": "632116",
+    "fandom_id": "Edelgard%3A_Beyond_Bounds",
+    "name": "Edelgard: Beyond Bounds",
+    "category": "duo",
+    "is_prf": true,
+    "tier": 1,
+    "addition_date": "2026-10-16",
+    "release_date": "2026-10-16",
+    "version": "10.10"
   },
   {
     "id": "DUO_PID_比翼エーデル",

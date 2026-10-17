@@ -15570,6 +15570,11 @@
     "game8_grade": "SS"
   },
   {
+    "id": "SID_人に安らかな夢を",
+    "game8_rating": "9.5",
+    "game8_grade": "SS"
+  },
+  {
     "id": "SID_束縛の首飾り・神",
     "game8_rating": "9.5",
     "game8_grade": "A"
@@ -22333,6 +22338,56 @@
     "id": "SID_いつか必ず祖国を",
     "game8_rating": "9.5",
     "game8_grade": "S"
+  },
+  {
+    "id": "SID_再来の魔女の聖具",
+    "game8_rating": "9.9",
+    "game8_grade": "SS"
+  },
+  {
+    "id": "SID_紅闇オートクレール",
+    "game8_rating": "9.9",
+    "game8_grade": "SS"
+  },
+  {
+    "id": "SID_蒼翠グラディウス",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_時を超えた光",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_重装の炎紋",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_攻撃速さの吟詠",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_清濁の一撃",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_真黒鷲の覇王",
+    "game8_rating": "9.9",
+    "game8_grade": "SS"
+  },
+  {
+    "id": "SID_真蒼き獅子王",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_速守信念・弱化無効",
+    "game8_rating": "9.0",
+    "game8_grade": "A"
   },
   {
     "id": "SSID_金剛の呼吸",
