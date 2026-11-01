@@ -18883,6 +18883,42 @@
     ]
   },
   {
+    "id": "PID_紋章ヘクトル",
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "lowest_rarity": {
+      "foc": 5
+    },
+    "skill_ids": [
+      "EMBLEM_PID_紋章ヘクトル",
+      "SID_反攻隊形・見切反撃",
+      "SID_止水雷轟の構え",
+      "SID_熱き猛将の斧",
+      "SID_華炎",
+      "SID_蛍火",
+      "SID_角の睨み1",
+      "SID_角の睨み2",
+      "SID_角の睨み3",
+      "SID_角の睨み4",
+      "SID_迎撃隊形1",
+      "SID_迎撃隊形2",
+      "SID_迎撃隊形3",
+      "SID_鉄の斧",
+      "SID_銀の斧",
+      "SID_鋼の斧",
+      "SID_鎧の護り手・遠・茨",
+      "SID_鎧の護り手・遠間1",
+      "SID_鎧の護り手・遠間2",
+      "SID_鎧の護り手・遠間3"
+    ]
+  },
+  {
     "id": "PID_響心ヘクトル",
     "is_in": {
       "gsp": false,
@@ -29850,13 +29886,14 @@
     "is_in": {
       "gsp": false,
       "ssp": true,
-      "hg": false,
+      "hg": true,
       "dc": false,
       "ldc": true,
       "foc": false
     },
     "lowest_rarity": {
       "ssp": 5,
+      "hg": 5,
       "ldc": 5
     },
     "skill_ids": [

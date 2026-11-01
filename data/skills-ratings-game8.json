@@ -22390,6 +22390,41 @@
     "game8_grade": "A"
   },
   {
+    "id": "SID_熱き猛将の斧",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_止水雷轟の構え",
+    "game8_rating": "9.9",
+    "game8_grade": "SS"
+  },
+  {
+    "id": "SID_角の睨み1",
+    "game8_rating": null,
+    "game8_grade": null
+  },
+  {
+    "id": "SID_角の睨み2",
+    "game8_rating": null,
+    "game8_grade": null
+  },
+  {
+    "id": "SID_角の睨み3",
+    "game8_rating": null,
+    "game8_grade": null
+  },
+  {
+    "id": "SID_角の睨み4",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
+    "id": "SID_反攻隊形・見切反撃",
+    "game8_rating": "9.5",
+    "game8_grade": "S"
+  },
+  {
     "id": "SSID_金剛の呼吸",
     "game8_grade": "S"
   },

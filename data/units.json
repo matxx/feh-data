@@ -15034,6 +15034,33 @@
     "skills_max_sp": 2600
   },
   {
+    "id": "PID_紋章ヘクトル",
+    "fandom_id": "Hector%3A_Of_Strength",
+    "name": "Hector",
+    "title": "Of Strength",
+    "full_name": "Hector: Of Strength",
+    "abbreviated_name": "E!Hector",
+    "gender": "M",
+    "move_type": "Armored",
+    "weapon_type": "Green Axe",
+    "games": [
+      "The Blazing Blade",
+      "Engage"
+    ],
+    "id_int": 1428,
+    "origin": "060000100300",
+    "book": 10,
+    "max_df": 5,
+    "is_emblem": true,
+    "release_date": "2026-10-30",
+    "version": "10.10",
+    "guide_id": "06001003001428-2",
+    "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/fd/Hector_Of_Strength_Face_FC.webp/revision/latest?cb=20261030055936",
+    "bst": 217,
+    "max_score": 776,
+    "skills_max_sp": 2600
+  },
+  {
     "id": "PID_響心ヘクトル",
     "fandom_id": "Hector%3A_Steel_Warrior",
     "name": "Hector",
@@ -23325,7 +23352,7 @@
       "Fire Emblem Shadows"
     ],
     "id_int": 1295,
-    "origin": "000000100200",
+    "origin": "060000100200",
     "book": 9,
     "max_df": 10,
     "is_mythic": true,
@@ -23701,6 +23728,7 @@
     "origin": "120000400500",
     "book": 7,
     "max_df": 25,
+    "is_tt": true,
     "is_special": true,
     "release_date": "2023-08-08",
     "version": "7.8",

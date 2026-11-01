@@ -15,6 +15,7 @@
     "NF"
   ],
   "games": [
+    "Engage",
     "Fire Emblem Awakening",
     "Fire Emblem Echoes: Shadows of Valentia",
     "Fire Emblem Engage",
@@ -34,6 +35,7 @@
     "Fire Emblem: The Sacred Stones",
     "Fire Emblem: Thracia 776",
     "Fire Emblem: Three Houses",
+    "The Blazing Blade",
     "Tokyo Mirage Sessions ♯FE Encore"
   ],
   "keywords": [
@@ -182,6 +184,7 @@
     "【Null Panic】<br>If unit is inflicted with Panic (bonuses converted into penalties), neutralizes the \"converts bonuses on target into penalties\" effect for 1 turn.",
     "【Null Panic】<br>If unit is inflicted with Panic (bonuses converted into penalties), neutralizes the \"converts bonuses on target into penalties\" effect for 1 turn. (Even though the effect is neutralized, the Panic status remains, and is treated as a Penalty status.)",
     "【Null Undefended】<br>Neutralizes effects of【Undefended】. (Only the Undefended status is neutralized, does not neutralize effects such as \"when unit is in combat, foes' Savior effects will not trigger\".)",
+    "【Null Undefended】<br>Neutralizes effects of【Undefended】.<br>(Only the Undefended status is neutralized, does not neutralize effects such as \"when unit is in combat, foes' Savior effects will not trigger\".)",
     "【P Save】<br>\"If sword, lance, axe, bow, dagger, or beast foe initiates combat\" is an activation condition for \"Savior.\"",
     "【Panic】<br>Converts bonuses on unit into penalties through its next action.",
     "【Panic】<br>Converts bonuses on unit into penalties.",
@@ -249,7 +252,7 @@
     "【Vantage】<br>If foe initiates combat, unit can counterattack before foe's first attack for 1 turn.",
     "【Warp Bubble】<br>Foes cannot warp into spaces within 4 spaces of unit. (Does not affect foes with Pass skills or warp effects from structures, like camps and fortresses in Rival Domains.)"
   ],
-  "units_count": 1427,
+  "units_count": 1428,
   "units_max_hp": 60,
   "units_max_hp_ids": [
     "PID_アーダン"
@@ -260,6 +263,7 @@
     "PID_愛の祭エーデル",
     "PID_比翼総選挙エーデル",
     "PID_比翼総選挙ディミ",
+    "PID_紋章ヘクトル",
     "PID_総選挙エイクス",
     "PID_総選挙シグルド",
     "PID_響心セオドラ",
@@ -275,6 +279,7 @@
   "units_max_def": 50,
   "units_max_def_ids": [
     "PID_マロン",
+    "PID_紋章ヘクトル",
     "PID_総選挙エイクス",
     "PID_総選挙シグルド"
   ],
@@ -285,6 +290,7 @@
   ],
   "units_max_bst": 217,
   "units_max_bst_ids": [
-    "PID_比翼総選挙エーデル"
+    "PID_比翼総選挙エーデル",
+    "PID_紋章ヘクトル"
   ]
 }

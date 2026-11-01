@@ -23229,6 +23229,25 @@
     ]
   },
   {
+    "id": "SID_熱き猛将の斧",
+    "game8_id": "636131",
+    "fandom_id": "Brash_Axe",
+    "name": "Brash Axe",
+    "category": "weapon",
+    "weapon_type": "Green Axe",
+    "is_prf": true,
+    "sp": 400,
+    "tier": 4,
+    "range": 1,
+    "might": 16,
+    "addition_date": "2026-10-30",
+    "release_date": "2026-10-30",
+    "version": "10.10",
+    "downgrade_ids": [
+      "SID_銀の斧"
+    ]
+  },
+  {
     "id": "SID_勇者の斧",
     "game8_id": "265478",
     "fandom_id": "Brave_Axe",
@@ -30678,6 +30697,30 @@
     "version": "7.8",
     "downgrade_ids": [
       "SID_反撃の咆哮3"
+    ]
+  },
+  {
+    "id": "SID_反攻隊形・見切反撃",
+    "game8_id": "636137",
+    "fandom_id": "Counter_Savvy",
+    "name": "Counter Savvy",
+    "category": "passiveb",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/eb/Counter_Savvy.png/revision/latest?cb=20261031003023",
+    "sp": 400,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Armored"
+        ]
+      },
+      "weapons": null
+    },
+    "addition_date": "2026-10-30",
+    "release_date": "2026-10-30",
+    "version": "10.10",
+    "downgrade_ids": [
+      "SID_迎撃隊形3"
     ]
   },
   {
@@ -65138,6 +65181,7 @@
       "SID_真魔弾",
       "SID_魔弾",
       "SID_ブレイクラッシュ",
+      "SID_止水雷轟の構え",
       "SID_堅固なる獣",
       "SID_堅固なる野獣",
       "SID_連花月風閃・狂嵐",
@@ -83655,6 +83699,112 @@
     ]
   },
   {
+    "id": "SID_角の睨み1",
+    "game8_id": "636133",
+    "fandom_id": "Piercing_Glare",
+    "name": "Piercing Glare 1",
+    "category": "passivea",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/03/Piercing_Glare_1.png/revision/latest?cb=20261031002940",
+    "sp": 60,
+    "tier": 1,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Infantry",
+          "Armored"
+        ]
+      },
+      "weapons": null
+    },
+    "addition_date": "2026-10-30",
+    "release_date": "2026-10-30",
+    "version": "10.10",
+    "upgrade_ids": [
+      "SID_角の睨み2"
+    ]
+  },
+  {
+    "id": "SID_角の睨み2",
+    "game8_id": "636134",
+    "fandom_id": "Piercing_Glare",
+    "name": "Piercing Glare 2",
+    "category": "passivea",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/37/Piercing_Glare_2.png/revision/latest?cb=20261031002950",
+    "sp": 120,
+    "tier": 2,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Infantry",
+          "Armored"
+        ]
+      },
+      "weapons": null
+    },
+    "addition_date": "2026-10-30",
+    "release_date": "2026-10-30",
+    "version": "10.10",
+    "upgrade_ids": [
+      "SID_角の睨み3"
+    ],
+    "downgrade_ids": [
+      "SID_角の睨み1"
+    ]
+  },
+  {
+    "id": "SID_角の睨み3",
+    "game8_id": "636135",
+    "fandom_id": "Piercing_Glare",
+    "name": "Piercing Glare 3",
+    "category": "passivea",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d3/Piercing_Glare_3.png/revision/latest?cb=20261031003001",
+    "sp": 240,
+    "tier": 3,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Infantry",
+          "Armored"
+        ]
+      },
+      "weapons": null
+    },
+    "addition_date": "2026-10-30",
+    "release_date": "2026-10-30",
+    "version": "10.10",
+    "upgrade_ids": [
+      "SID_角の睨み4"
+    ],
+    "downgrade_ids": [
+      "SID_角の睨み2"
+    ]
+  },
+  {
+    "id": "SID_角の睨み4",
+    "game8_id": "636136",
+    "fandom_id": "Piercing_Glare",
+    "name": "Piercing Glare 4",
+    "category": "passivea",
+    "image_url": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/63/Piercing_Glare_4.png/revision/latest?cb=20261031003012",
+    "sp": 300,
+    "tier": 4,
+    "restrictions": {
+      "moves": {
+        "can_use": [
+          "Infantry",
+          "Armored"
+        ]
+      },
+      "weapons": null
+    },
+    "addition_date": "2026-10-30",
+    "release_date": "2026-10-30",
+    "version": "10.10",
+    "downgrade_ids": [
+      "SID_角の睨み3"
+    ]
+  },
+  {
     "id": "SID_感謝の花の槍",
     "game8_id": "356542",
     "fandom_id": "Piercing_Tribute",
@@ -101325,6 +101475,7 @@
       "SID_青獅子の聖夜の斧",
       "SID_黒鉄忍者の鎖鎌",
       "SID_ボルトアクス",
+      "SID_熱き猛将の斧",
       "SID_ウカノミタマ",
       "SID_ビューレイスト",
       "SID_収穫祭の飴の大鎌",
@@ -113711,6 +113862,23 @@
     "version": "2.10"
   },
   {
+    "id": "SID_止水雷轟の構え",
+    "game8_id": "636132",
+    "fandom_id": "Storm%27s_Eye",
+    "name": "Storm's Eye",
+    "category": "special",
+    "is_prf": true,
+    "sp": 500,
+    "tier": 3,
+    "cd": 5,
+    "addition_date": "2026-10-30",
+    "release_date": "2026-10-30",
+    "version": "10.10",
+    "downgrade_ids": [
+      "SID_華炎"
+    ]
+  },
+  {
     "id": "SID_堅固の斧",
     "game8_id": "382912",
     "fandom_id": "Stout_Axe",
@@ -123123,6 +123291,7 @@
     "version": "2.0",
     "upgrade_ids": [
       "SID_反攻隊形",
+      "SID_反攻隊形・見切反撃",
       "SID_迎撃隊形4"
     ],
     "downgrade_ids": [
@@ -154443,6 +154612,18 @@
     "addition_date": "2025-03-28",
     "release_date": "2025-03-28",
     "version": "9.3"
+  },
+  {
+    "id": "EMBLEM_PID_紋章ヘクトル",
+    "game8_id": null,
+    "fandom_id": "Hector%3A_Of_Strength",
+    "name": "Hector: Of Strength",
+    "category": "emblem",
+    "is_prf": true,
+    "tier": 1,
+    "addition_date": "2026-10-30",
+    "release_date": "2026-10-30",
+    "version": "10.10"
   },
   {
     "id": "EMBLEM_PID_紋章アイク",

@@ -46476,6 +46476,120 @@
     "unlock": 4
   },
   {
+    "unit_id": "PID_紋章ヘクトル",
+    "skill_id": "SID_鎧の護り手・遠・茨",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_紋章ヘクトル",
+    "skill_id": "SID_鎧の護り手・遠間1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_紋章ヘクトル",
+    "skill_id": "SID_鎧の護り手・遠間2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_紋章ヘクトル",
+    "skill_id": "SID_鎧の護り手・遠間3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_紋章ヘクトル",
+    "skill_id": "SID_熱き猛将の斧",
+    "default": 5,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_紋章ヘクトル",
+    "skill_id": "SID_反攻隊形・見切反撃",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_紋章ヘクトル",
+    "skill_id": "SID_蛍火",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_紋章ヘクトル",
+    "skill_id": "SID_華炎",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_紋章ヘクトル",
+    "skill_id": "SID_鉄の斧",
+    "default": 1,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_紋章ヘクトル",
+    "skill_id": "SID_角の睨み1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_紋章ヘクトル",
+    "skill_id": "SID_角の睨み2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_紋章ヘクトル",
+    "skill_id": "SID_角の睨み3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
+    "unit_id": "PID_紋章ヘクトル",
+    "skill_id": "SID_角の睨み4",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_紋章ヘクトル",
+    "skill_id": "SID_銀の斧",
+    "default": 4,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_紋章ヘクトル",
+    "skill_id": "SID_鋼の斧",
+    "default": 2,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_紋章ヘクトル",
+    "skill_id": "SID_止水雷轟の構え",
+    "default": 0,
+    "unlock": 5
+  },
+  {
+    "unit_id": "PID_紋章ヘクトル",
+    "skill_id": "SID_迎撃隊形1",
+    "default": 0,
+    "unlock": 2
+  },
+  {
+    "unit_id": "PID_紋章ヘクトル",
+    "skill_id": "SID_迎撃隊形2",
+    "default": 0,
+    "unlock": 3
+  },
+  {
+    "unit_id": "PID_紋章ヘクトル",
+    "skill_id": "SID_迎撃隊形3",
+    "default": 0,
+    "unlock": 4
+  },
+  {
     "unit_id": "PID_響心ヘクトル",
     "skill_id": "SID_鎧の護り手・遠間1",
     "default": 0,
@@ -123284,6 +123398,12 @@
   {
     "unit_id": "PID_紋章エイリーク",
     "skill_id": "EMBLEM_PID_紋章エイリーク",
+    "default": 0,
+    "unlock": 1
+  },
+  {
+    "unit_id": "PID_紋章ヘクトル",
+    "skill_id": "EMBLEM_PID_紋章ヘクトル",
     "default": 0,
     "unlock": 1
   },

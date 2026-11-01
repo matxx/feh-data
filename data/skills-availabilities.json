@@ -72,7 +72,8 @@
     "owner_ids": [
       "PID_伝承漆黒の騎士",
       "PID_冬祭フォデス",
-      "PID_双界総選挙ヘクトル"
+      "PID_双界総選挙ヘクトル",
+      "PID_紋章ヘクトル"
     ],
     "required_slots": {
       "g4": 4,
@@ -244,6 +245,7 @@
       "PID_冬祭フォデス",
       "PID_神階フォデス",
       "PID_双界総選挙ヘクトル",
+      "PID_紋章ヘクトル",
       "PID_響心ヘクトル",
       "PID_ニーズヘッグ味方",
       "PID_愛の祭ルフレ女",
@@ -308,6 +310,7 @@
       "PID_冬祭フォデス",
       "PID_神階フォデス",
       "PID_双界総選挙ヘクトル",
+      "PID_紋章ヘクトル",
       "PID_響心ヘクトル",
       "PID_ニーズヘッグ味方",
       "PID_愛の祭ルフレ女",
@@ -372,6 +375,7 @@
       "PID_冬祭フォデス",
       "PID_神階フォデス",
       "PID_双界総選挙ヘクトル",
+      "PID_紋章ヘクトル",
       "PID_響心ヘクトル",
       "PID_ニーズヘッグ味方",
       "PID_愛の祭ルフレ女",
@@ -3727,9 +3731,9 @@
     ],
     "required_slots": {
       "g4": 2,
-      "hg": 4,
+      "hg": 1,
       "hg4": 4,
-      "hg5": 4,
+      "hg5": 1,
       "dc": 1,
       "sh4": 1,
       "gsr": 1,
@@ -3785,9 +3789,9 @@
     ],
     "required_slots": {
       "g4": 2,
-      "hg": 4,
+      "hg": 1,
       "hg4": 4,
-      "hg5": 4,
+      "hg5": 1,
       "dc": 1,
       "sh4": 1,
       "gsr": 1,
@@ -8367,9 +8371,9 @@
     ],
     "required_slots": {
       "g4": 2,
-      "hg": 4,
+      "hg": 1,
       "hg4": 4,
-      "hg5": 4,
+      "hg5": 1,
       "dc": 1,
       "sh4": 1,
       "gsr": 1,
@@ -27471,7 +27475,7 @@
       "g4": 4,
       "hg": 1,
       "hg4": 1,
-      "hg5": 4,
+      "hg5": 1,
       "dc": 1,
       "sh4": 1,
       "gsr": 1,
@@ -27482,7 +27486,7 @@
     "is_in": {
       "gsp": true,
       "ssp": true,
-      "hg": false,
+      "hg": true,
       "dc": true,
       "ldc": true,
       "foc": true
@@ -27490,6 +27494,7 @@
     "olrwo": {
       "gsp": 4.5,
       "ssp": 4.5,
+      "hg": 5,
       "dc": 5,
       "ldc": 5,
       "foc": 5
@@ -29838,9 +29843,9 @@
     ],
     "required_slots": {
       "g4": 1,
-      "hg": 3,
+      "hg": 1,
       "hg4": 3,
-      "hg5": 3,
+      "hg5": 1,
       "dc": 1,
       "sh4": 1,
       "gsr": 1,
@@ -29851,7 +29856,7 @@
     "is_in": {
       "gsp": true,
       "ssp": true,
-      "hg": false,
+      "hg": true,
       "dc": true,
       "ldc": true,
       "foc": true
@@ -29859,6 +29864,7 @@
     "olrwo": {
       "gsp": 4.5,
       "ssp": 4,
+      "hg": 5,
       "dc": 5,
       "ldc": 5,
       "foc": 5
@@ -29923,9 +29929,9 @@
     "owner_ids": [],
     "required_slots": {
       "g4": 2,
-      "hg": 4,
+      "hg": 1,
       "hg4": 4,
-      "hg5": 4,
+      "hg5": 1,
       "dc": 1,
       "sh4": 1,
       "gsr": 1,
@@ -32936,9 +32942,9 @@
     ],
     "required_slots": {
       "g4": 2,
-      "hg": 4,
+      "hg": 1,
       "hg4": 4,
-      "hg5": 4,
+      "hg5": 1,
       "dc": 1,
       "sh4": 1,
       "gsr": 1,
@@ -32949,13 +32955,14 @@
     "is_in": {
       "gsp": false,
       "ssp": true,
-      "hg": false,
+      "hg": true,
       "dc": false,
       "ldc": true,
       "foc": false
     },
     "olrwo": {
       "ssp": 5,
+      "hg": 5,
       "ldc": 5
     },
     "divine_codes": {
@@ -42795,6 +42802,35 @@
     }
   },
   {
+    "id": "SID_熱き猛将の斧",
+    "owner_ids": [
+      "PID_紋章ヘクトル"
+    ],
+    "required_slots": {
+      "g4": 1,
+      "hg": 1,
+      "hg4": 1,
+      "hg5": 4,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 4,
+      "shsr": 4,
+      "g5": 4,
+      "sh5": 4
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "olrwo": {
+      "foc": 5
+    }
+  },
+  {
     "id": "SID_勇者の斧",
     "owner_ids": [
       "PID_バーツ",
@@ -45932,9 +45968,9 @@
     ],
     "required_slots": {
       "g4": 2,
-      "hg": 4,
+      "hg": 1,
       "hg4": 4,
-      "hg5": 4,
+      "hg5": 1,
       "dc": 1,
       "sh4": 1,
       "gsr": 1,
@@ -56237,6 +56273,35 @@
           "cost": 1600
         }
       ]
+    }
+  },
+  {
+    "id": "SID_反攻隊形・見切反撃",
+    "owner_ids": [
+      "PID_紋章ヘクトル"
+    ],
+    "required_slots": {
+      "g4": 1,
+      "hg": 1,
+      "hg4": 1,
+      "hg5": 4,
+      "dc": 1,
+      "sh4": 4,
+      "gsr": 4,
+      "shsr": 1,
+      "g5": 4,
+      "sh5": 4
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "olrwo": {
+      "foc": 5
     }
   },
   {
@@ -69810,7 +69875,7 @@
       "g4": 1,
       "hg": 1,
       "hg4": 1,
-      "hg5": 4,
+      "hg5": 1,
       "dc": 1,
       "sh4": 4,
       "gsr": 4,
@@ -69821,13 +69886,14 @@
     "is_in": {
       "gsp": false,
       "ssp": true,
-      "hg": false,
+      "hg": true,
       "dc": true,
       "ldc": true,
       "foc": false
     },
     "olrwo": {
       "ssp": 5,
+      "hg": 5,
       "dc": 5,
       "ldc": 5
     },
@@ -73987,9 +74053,9 @@
     ],
     "required_slots": {
       "g4": 2,
-      "hg": 4,
+      "hg": 1,
       "hg4": 4,
-      "hg5": 4,
+      "hg5": 1,
       "dc": 1,
       "sh4": 1,
       "gsr": 1,
@@ -79014,9 +79080,9 @@
     ],
     "required_slots": {
       "g4": 2,
-      "hg": 4,
+      "hg": 1,
       "hg4": 4,
-      "hg5": 4,
+      "hg5": 1,
       "dc": 1,
       "sh4": 1,
       "gsr": 1,
@@ -81663,9 +81729,9 @@
     ],
     "required_slots": {
       "g4": 1,
-      "hg": 2,
+      "hg": 1,
       "hg4": 2,
-      "hg5": 2,
+      "hg5": 1,
       "dc": 1,
       "sh4": 1,
       "gsr": 2,
@@ -81676,7 +81742,7 @@
     "is_in": {
       "gsp": true,
       "ssp": true,
-      "hg": false,
+      "hg": true,
       "dc": true,
       "ldc": true,
       "foc": true
@@ -81684,6 +81750,7 @@
     "olrwo": {
       "gsp": 3,
       "ssp": 4,
+      "hg": 5,
       "dc": 5,
       "ldc": 4,
       "foc": 5
@@ -85650,9 +85717,9 @@
     ],
     "required_slots": {
       "g4": 2,
-      "hg": 4,
+      "hg": 1,
       "hg4": 4,
-      "hg5": 4,
+      "hg5": 1,
       "dc": 1,
       "sh4": 1,
       "gsr": 1,
@@ -88181,9 +88248,9 @@
     ],
     "required_slots": {
       "g4": 2,
-      "hg": 4,
+      "hg": 1,
       "hg4": 4,
-      "hg5": 4,
+      "hg5": 1,
       "dc": 1,
       "sh4": 1,
       "gsr": 1,
@@ -88501,9 +88568,9 @@
     ],
     "required_slots": {
       "g4": 2,
-      "hg": 4,
+      "hg": 1,
       "hg4": 4,
-      "hg5": 4,
+      "hg5": 1,
       "dc": 1,
       "sh4": 1,
       "gsr": 1,
@@ -104664,6 +104731,7 @@
       "PID_総選挙ヘクトル",
       "PID_比翼ヘクトル",
       "PID_双界総選挙ヘクトル",
+      "PID_紋章ヘクトル",
       "PID_響心ヘクトル",
       "PID_幼少ヘクトル",
       "PID_ヘンリー",
@@ -119785,9 +119853,9 @@
     ],
     "required_slots": {
       "g4": 1,
-      "hg": 3,
+      "hg": 1,
       "hg4": 3,
-      "hg5": 3,
+      "hg5": 1,
       "dc": 1,
       "sh4": 1,
       "gsr": 3,
@@ -119825,9 +119893,9 @@
     ],
     "required_slots": {
       "g4": 1,
-      "hg": 4,
+      "hg": 2,
       "hg4": 4,
-      "hg5": 4,
+      "hg5": 2,
       "dc": 2,
       "sh4": 2,
       "gsr": 4,
@@ -119865,9 +119933,9 @@
     ],
     "required_slots": {
       "g4": 1,
-      "hg": 3,
+      "hg": 1,
       "hg4": 3,
-      "hg5": 3,
+      "hg5": 1,
       "dc": 1,
       "sh4": 1,
       "gsr": 1,
@@ -119905,9 +119973,9 @@
     ],
     "required_slots": {
       "g4": 2,
-      "hg": 4,
+      "hg": 2,
       "hg4": 4,
-      "hg5": 4,
+      "hg5": 2,
       "dc": 2,
       "sh4": 2,
       "gsr": 1,
@@ -121323,6 +121391,7 @@
       "PID_ナバタホークアイ",
       "PID_総選挙ヘクトル",
       "PID_双界総選挙ヘクトル",
+      "PID_紋章ヘクトル",
       "PID_ヘンリー",
       "PID_双界ヒルダ",
       "PID_忍者フリーズ",
@@ -124341,9 +124410,9 @@
     ],
     "required_slots": {
       "g4": 2,
-      "hg": 4,
+      "hg": 1,
       "hg4": 4,
-      "hg5": 4,
+      "hg5": 1,
       "dc": 1,
       "sh4": 1,
       "gsr": 1,
@@ -125419,6 +125488,7 @@
       "PID_ヘクトル",
       "PID_愛の祭ヘクトル",
       "PID_伝承ヘクトル",
+      "PID_紋章ヘクトル",
       "PID_幼少ヘクトル",
       "PID_ヘル味方",
       "PID_ヘルビンディ味方",
@@ -130218,9 +130288,9 @@
     ],
     "required_slots": {
       "g4": 2,
-      "hg": 4,
+      "hg": 1,
       "hg4": 4,
-      "hg5": 4,
+      "hg5": 1,
       "dc": 1,
       "sh4": 1,
       "gsr": 1,
@@ -130334,9 +130404,9 @@
     ],
     "required_slots": {
       "g4": 2,
-      "hg": 4,
+      "hg": 1,
       "hg4": 4,
-      "hg5": 4,
+      "hg5": 1,
       "dc": 1,
       "sh4": 1,
       "gsr": 1,
@@ -130649,9 +130719,9 @@
     ],
     "required_slots": {
       "g4": 1,
-      "hg": 3,
+      "hg": 1,
       "hg4": 3,
-      "hg5": 3,
+      "hg5": 1,
       "dc": 1,
       "sh4": 1,
       "gsr": 3,
@@ -130688,9 +130758,9 @@
     ],
     "required_slots": {
       "g4": 2,
-      "hg": 4,
+      "hg": 2,
       "hg4": 4,
-      "hg5": 4,
+      "hg5": 2,
       "dc": 1,
       "sh4": 1,
       "gsr": 4,
@@ -136594,9 +136664,9 @@
     ],
     "required_slots": {
       "g4": 2,
-      "hg": 4,
+      "hg": 1,
       "hg4": 4,
-      "hg5": 4,
+      "hg5": 1,
       "dc": 1,
       "sh4": 1,
       "gsr": 1,
@@ -136664,9 +136734,9 @@
     ],
     "required_slots": {
       "g4": 2,
-      "hg": 4,
+      "hg": 1,
       "hg4": 4,
-      "hg5": 4,
+      "hg5": 1,
       "dc": 1,
       "sh4": 1,
       "gsr": 1,
@@ -138259,9 +138329,9 @@
     ],
     "required_slots": {
       "g4": 2,
-      "hg": 4,
+      "hg": 1,
       "hg4": 4,
-      "hg5": 4,
+      "hg5": 1,
       "dc": 1,
       "sh4": 1,
       "gsr": 1,
@@ -141566,9 +141636,9 @@
     ],
     "required_slots": {
       "g4": 2,
-      "hg": 4,
+      "hg": 1,
       "hg4": 4,
-      "hg5": 4,
+      "hg5": 1,
       "dc": 1,
       "sh4": 1,
       "gsr": 1,
@@ -142371,13 +142441,14 @@
     "is_in": {
       "gsp": false,
       "ssp": true,
-      "hg": false,
+      "hg": true,
       "dc": false,
       "ldc": true,
       "foc": false
     },
     "olrwo": {
       "ssp": 5,
+      "hg": 5,
       "ldc": 5
     },
     "divine_codes": {
@@ -143660,9 +143731,9 @@
     ],
     "required_slots": {
       "g4": 2,
-      "hg": 4,
+      "hg": 1,
       "hg4": 4,
-      "hg5": 4,
+      "hg5": 1,
       "dc": 1,
       "sh4": 1,
       "gsr": 1,
@@ -145963,9 +146034,9 @@
     ],
     "required_slots": {
       "g4": 2,
-      "hg": 4,
+      "hg": 1,
       "hg4": 4,
-      "hg5": 4,
+      "hg5": 1,
       "dc": 1,
       "sh4": 1,
       "gsr": 1,
@@ -147369,9 +147440,9 @@
     ],
     "required_slots": {
       "g4": 2,
-      "hg": 4,
+      "hg": 1,
       "hg4": 4,
-      "hg5": 4,
+      "hg5": 1,
       "dc": 1,
       "sh4": 1,
       "gsr": 1,
@@ -148603,9 +148674,9 @@
     ],
     "required_slots": {
       "g4": 2,
-      "hg": 4,
+      "hg": 1,
       "hg4": 4,
-      "hg5": 4,
+      "hg5": 1,
       "dc": 1,
       "sh4": 1,
       "gsr": 1,
@@ -149740,9 +149811,9 @@
     ],
     "required_slots": {
       "g4": 2,
-      "hg": 4,
+      "hg": 1,
       "hg4": 4,
-      "hg5": 4,
+      "hg5": 1,
       "dc": 1,
       "sh4": 1,
       "gsr": 1,
@@ -149779,9 +149850,9 @@
     ],
     "required_slots": {
       "g4": 2,
-      "hg": 4,
+      "hg": 1,
       "hg4": 4,
-      "hg5": 4,
+      "hg5": 1,
       "dc": 1,
       "sh4": 1,
       "gsr": 1,
@@ -154934,9 +155005,9 @@
     ],
     "required_slots": {
       "g4": 2,
-      "hg": 4,
+      "hg": 1,
       "hg4": 4,
-      "hg5": 4,
+      "hg5": 1,
       "dc": 1,
       "sh4": 1,
       "gsr": 1,
@@ -154963,9 +155034,9 @@
     ],
     "required_slots": {
       "g4": 2,
-      "hg": 4,
+      "hg": 1,
       "hg4": 4,
-      "hg5": 4,
+      "hg5": 1,
       "dc": 1,
       "sh4": 1,
       "gsr": 1,
@@ -155290,9 +155361,9 @@
     ],
     "required_slots": {
       "g4": 2,
-      "hg": 4,
+      "hg": 1,
       "hg4": 4,
-      "hg5": 4,
+      "hg5": 1,
       "dc": 1,
       "sh4": 1,
       "gsr": 1,
@@ -159427,9 +159498,9 @@
     ],
     "required_slots": {
       "g4": 2,
-      "hg": 4,
+      "hg": 1,
       "hg4": 4,
-      "hg5": 4,
+      "hg5": 1,
       "dc": 1,
       "sh4": 1,
       "gsr": 1,
@@ -159806,6 +159877,122 @@
     }
   },
   {
+    "id": "SID_角の睨み1",
+    "owner_ids": [
+      "PID_紋章ヘクトル"
+    ],
+    "required_slots": {
+      "g4": 1,
+      "hg": 1,
+      "hg4": 1,
+      "hg5": 1,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 1,
+      "shsr": 1,
+      "g5": 1,
+      "sh5": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "olrwo": {
+      "foc": 5
+    }
+  },
+  {
+    "id": "SID_角の睨み2",
+    "owner_ids": [
+      "PID_紋章ヘクトル"
+    ],
+    "required_slots": {
+      "g4": 2,
+      "hg": 2,
+      "hg4": 2,
+      "hg5": 2,
+      "dc": 2,
+      "sh4": 2,
+      "gsr": 2,
+      "shsr": 2,
+      "g5": 2,
+      "sh5": 2
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "olrwo": {
+      "foc": 5
+    }
+  },
+  {
+    "id": "SID_角の睨み3",
+    "owner_ids": [
+      "PID_紋章ヘクトル"
+    ],
+    "required_slots": {
+      "g4": 3,
+      "hg": 3,
+      "hg4": 3,
+      "hg5": 3,
+      "dc": 3,
+      "sh4": 3,
+      "gsr": 3,
+      "shsr": 3,
+      "g5": 3,
+      "sh5": 3
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "olrwo": {
+      "foc": 5
+    }
+  },
+  {
+    "id": "SID_角の睨み4",
+    "owner_ids": [
+      "PID_紋章ヘクトル"
+    ],
+    "required_slots": {
+      "g4": 4,
+      "hg": 4,
+      "hg4": 4,
+      "hg5": 4,
+      "dc": 4,
+      "sh4": 4,
+      "gsr": 4,
+      "shsr": 4,
+      "g5": 4,
+      "sh5": 4
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "olrwo": {
+      "foc": 5
+    }
+  },
+  {
     "id": "SID_感謝の花の槍",
     "owner_ids": [
       "PID_愛の祭ウード"
@@ -159892,9 +160079,9 @@
     ],
     "required_slots": {
       "g4": 2,
-      "hg": 4,
+      "hg": 1,
       "hg4": 4,
-      "hg5": 4,
+      "hg5": 1,
       "dc": 1,
       "sh4": 1,
       "gsr": 1,
@@ -161851,9 +162038,9 @@
     ],
     "required_slots": {
       "g4": 2,
-      "hg": 4,
+      "hg": 1,
       "hg4": 4,
-      "hg5": 4,
+      "hg5": 1,
       "dc": 1,
       "sh4": 1,
       "gsr": 1,
@@ -164575,9 +164762,9 @@
     ],
     "required_slots": {
       "g4": 2,
-      "hg": 4,
+      "hg": 1,
       "hg4": 4,
-      "hg5": 4,
+      "hg5": 1,
       "dc": 1,
       "sh4": 1,
       "gsr": 1,
@@ -165538,9 +165725,9 @@
     ],
     "required_slots": {
       "g4": 2,
-      "hg": 4,
+      "hg": 1,
       "hg4": 4,
-      "hg5": 4,
+      "hg5": 1,
       "dc": 1,
       "sh4": 1,
       "gsr": 1,
@@ -170816,9 +171003,9 @@
     ],
     "required_slots": {
       "g4": 2,
-      "hg": 4,
+      "hg": 1,
       "hg4": 4,
-      "hg5": 4,
+      "hg5": 1,
       "dc": 1,
       "sh4": 1,
       "gsr": 1,
@@ -177517,9 +177704,9 @@
     ],
     "required_slots": {
       "g4": 2,
-      "hg": 4,
+      "hg": 1,
       "hg4": 4,
-      "hg5": 4,
+      "hg5": 1,
       "dc": 1,
       "sh4": 1,
       "gsr": 1,
@@ -184911,9 +185098,9 @@
     ],
     "required_slots": {
       "g4": 2,
-      "hg": 4,
+      "hg": 1,
       "hg4": 4,
-      "hg5": 4,
+      "hg5": 1,
       "dc": 1,
       "sh4": 1,
       "gsr": 1,
@@ -184998,9 +185185,9 @@
     ],
     "required_slots": {
       "g4": 1,
-      "hg": 3,
+      "hg": 1,
       "hg4": 3,
-      "hg5": 3,
+      "hg5": 1,
       "dc": 1,
       "sh4": 1,
       "gsr": 3,
@@ -185037,9 +185224,9 @@
     ],
     "required_slots": {
       "g4": 2,
-      "hg": 4,
+      "hg": 2,
       "hg4": 4,
-      "hg5": 4,
+      "hg5": 2,
       "dc": 1,
       "sh4": 1,
       "gsr": 4,
@@ -190993,6 +191180,7 @@
       "PID_ヘクトル",
       "PID_愛の祭ヘクトル",
       "PID_伝承ヘクトル",
+      "PID_紋章ヘクトル",
       "PID_幼少ヘクトル",
       "PID_ヘル味方",
       "PID_ヘルビンディ味方",
@@ -197615,9 +197803,9 @@
     ],
     "required_slots": {
       "g4": 2,
-      "hg": 4,
+      "hg": 1,
       "hg4": 4,
-      "hg5": 4,
+      "hg5": 1,
       "dc": 1,
       "sh4": 1,
       "gsr": 1,
@@ -213567,6 +213755,7 @@
       "PID_ヘクトル",
       "PID_愛の祭ヘクトル",
       "PID_伝承ヘクトル",
+      "PID_紋章ヘクトル",
       "PID_幼少ヘクトル",
       "PID_ヘル味方",
       "PID_ヘルビンディ味方",
@@ -217810,7 +217999,7 @@
     "is_in": {
       "gsp": true,
       "ssp": true,
-      "hg": false,
+      "hg": true,
       "dc": true,
       "ldc": true,
       "foc": true
@@ -217818,6 +218007,7 @@
     "olrwo": {
       "gsp": 3,
       "ssp": 4,
+      "hg": 5,
       "dc": 5,
       "ldc": 4,
       "foc": 5
@@ -217983,6 +218173,35 @@
       "shsr": 1,
       "g5": 1,
       "sh5": 1
+    },
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "olrwo": {
+      "foc": 5
+    }
+  },
+  {
+    "id": "SID_止水雷轟の構え",
+    "owner_ids": [
+      "PID_紋章ヘクトル"
+    ],
+    "required_slots": {
+      "g4": 1,
+      "hg": 1,
+      "hg4": 1,
+      "hg5": 3,
+      "dc": 1,
+      "sh4": 1,
+      "gsr": 3,
+      "shsr": 3,
+      "g5": 3,
+      "sh5": 3
     },
     "is_in": {
       "gsp": false,
@@ -221545,9 +221764,9 @@
     ],
     "required_slots": {
       "g4": 2,
-      "hg": 4,
+      "hg": 1,
       "hg4": 4,
-      "hg5": 4,
+      "hg5": 1,
       "dc": 1,
       "sh4": 1,
       "gsr": 1,
@@ -228288,9 +228507,9 @@
     ],
     "required_slots": {
       "g4": 2,
-      "hg": 4,
+      "hg": 1,
       "hg4": 4,
-      "hg5": 4,
+      "hg5": 1,
       "dc": 1,
       "sh4": 1,
       "gsr": 1,
@@ -228893,9 +229112,9 @@
     ],
     "required_slots": {
       "g4": 2,
-      "hg": 4,
+      "hg": 1,
       "hg4": 4,
-      "hg5": 4,
+      "hg5": 1,
       "dc": 1,
       "sh4": 1,
       "gsr": 1,
@@ -233891,9 +234110,9 @@
     ],
     "required_slots": {
       "g4": 2,
-      "hg": 4,
+      "hg": 1,
       "hg4": 4,
-      "hg5": 4,
+      "hg5": 1,
       "dc": 1,
       "sh4": 1,
       "gsr": 1,
@@ -235694,6 +235913,7 @@
       "PID_冬祭ファ",
       "PID_ギリアム",
       "PID_伝承ヘクトル",
+      "PID_紋章ヘクトル",
       "PID_幼少ヘクトル",
       "PID_イドゥン",
       "PID_比翼イドゥン",
@@ -235794,6 +236014,7 @@
       "PID_冬祭ファ",
       "PID_ギリアム",
       "PID_伝承ヘクトル",
+      "PID_紋章ヘクトル",
       "PID_幼少ヘクトル",
       "PID_イドゥン",
       "PID_比翼イドゥン",
@@ -235894,6 +236115,7 @@
       "PID_冬祭ファ",
       "PID_ギリアム",
       "PID_伝承ヘクトル",
+      "PID_紋章ヘクトル",
       "PID_幼少ヘクトル",
       "PID_イドゥン",
       "PID_比翼イドゥン",
@@ -237185,9 +237407,9 @@
     ],
     "required_slots": {
       "g4": 2,
-      "hg": 4,
+      "hg": 1,
       "hg4": 4,
-      "hg5": 4,
+      "hg5": 1,
       "dc": 1,
       "sh4": 1,
       "gsr": 1,
@@ -248659,6 +248881,23 @@
     "id": "EMBLEM_PID_紋章エイリーク",
     "owner_ids": [
       "PID_紋章エイリーク"
+    ],
+    "is_in": {
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": true
+    },
+    "olrwo": {
+      "foc": 5
+    }
+  },
+  {
+    "id": "EMBLEM_PID_紋章ヘクトル",
+    "owner_ids": [
+      "PID_紋章ヘクトル"
     ],
     "is_in": {
       "gsp": false,

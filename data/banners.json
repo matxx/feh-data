@@ -12985,6 +12985,10 @@
       {
         "start_time": "2026-01-04 07:00:00",
         "end_time": "2026-01-11 06:59:59"
+      },
+      {
+        "start_time": "2026-11-01 07:00:00",
+        "end_time": "2026-11-08 06:59:59"
       }
     ],
     "unit_ids": [
@@ -19839,6 +19843,10 @@
       {
         "start_time": "2025-09-14 07:00:00",
         "end_time": "2025-09-21 06:59:59"
+      },
+      {
+        "start_time": "2026-11-01 07:00:00",
+        "end_time": "2026-11-08 06:59:59"
       }
     ],
     "unit_ids": [
@@ -22049,6 +22057,12 @@
     "fandom_id": "Focus%3A_Hall_of_Forms_%28Feb_2025%29",
     "start_time": "2025-02-22 07:00:00",
     "end_time": "2025-03-15 06:59:59",
+    "reruns": [
+      {
+        "start_time": "2026-11-04 07:00:00",
+        "end_time": "2026-11-18 06:59:59"
+      }
+    ],
     "unit_ids": [
       "PID_ジョフレ",
       "PID_ルキノ",
@@ -24345,6 +24359,12 @@
     "fandom_id": "Harmonized_CYL_Ike%2C_Lyn",
     "start_time": "2025-11-28 07:00:00",
     "end_time": "2025-12-15 06:59:59",
+    "reruns": [
+      {
+        "start_time": "2026-10-20 07:00:00",
+        "end_time": "2026-10-27 06:59:59"
+      }
+    ],
     "unit_ids": [
       "PID_双界総選挙アイク",
       "PID_双界総選挙リン",
@@ -26759,6 +26779,91 @@
       "PID_比翼マルス2",
       "PID_若年ガトー",
       "PID_若年ナーガ"
+    ]
+  },
+  {
+    "name": "Focus: Double Special Heroes (Oct 2026)",
+    "fandom_id": "Focus%3A_Double_Special_Heroes_%28Oct_2026%29",
+    "start_time": "2026-10-22 07:00:00",
+    "end_time": "2026-11-05 06:59:59",
+    "unit_ids": [
+      "PID_幼少フェリクス",
+      "PID_比翼アシュ",
+      "PID_比翼エーデル",
+      "PID_水着アルフォンス",
+      "PID_花嫁エイル",
+      "PID_花嫁ピアニー",
+      "PID_魔器春祭サザ",
+      "PID_魔器花嫁レギン"
+    ]
+  },
+  {
+    "name": "Focus: That Which Unites 1",
+    "fandom_id": "Focus%3A_That_Which_Unites_1",
+    "start_time": "2026-10-26 07:00:00",
+    "end_time": "2026-11-06 06:59:59",
+    "unit_ids": [
+      "PID_お供ユナカ",
+      "PID_ダグ2味方",
+      "PID_レギン2味方"
+    ]
+  },
+  {
+    "name": "Focus: That Which Unites 2",
+    "fandom_id": "Focus%3A_That_Which_Unites_2",
+    "start_time": "2026-10-26 07:00:00",
+    "end_time": "2026-11-06 06:59:59",
+    "unit_ids": [
+      "PID_お供ルーテ",
+      "PID_つながりニニアン",
+      "PID_シャロン22025味方"
+    ]
+  },
+  {
+    "name": "New Heroes Return (Oct 2026)",
+    "fandom_id": "New_Heroes_Return_%28Oct_2026%29",
+    "start_time": "2026-10-27 07:00:00",
+    "end_time": "2026-11-10 06:59:59",
+    "unit_ids": [
+      "PID_アシュ2味方",
+      "PID_双界総選挙アイク",
+      "PID_響心エリウッド",
+      "PID_響心リョウマ",
+      "PID_魔器ヒノカ",
+      "PID_魔器ラーチェル",
+      "PID_魔器闇エルフ",
+      "PID_魔器魔獣ドゥドゥー"
+    ]
+  },
+  {
+    "name": "Emblem Hector: Of Strength",
+    "fandom_id": "Emblem_Hector%3A_Of_Strength",
+    "start_time": "2026-10-30 07:00:00",
+    "end_time": "2026-11-16 06:59:59",
+    "unit_ids": [
+      "PID_お供リュール男",
+      "PID_双界ベレス",
+      "PID_救世レーギャルン",
+      "PID_水着シャロン",
+      "PID_浴衣クロム",
+      "PID_神階チキ覚醒",
+      "PID_紋章ヘクトル",
+      "PID_紋章ベレト",
+      "PID_紋章リーフ",
+      "PID_紋章ルキナ",
+      "PID_運動着サーリャ",
+      "PID_魔器浴衣ルフレ女"
+    ]
+  },
+  {
+    "name": "Focus: Weekly Revival 135",
+    "fandom_id": "Focus%3A_Weekly_Revival_135",
+    "start_time": "2026-11-01 07:00:00",
+    "end_time": "2026-11-08 06:59:59",
+    "unit_ids": [
+      "PID_ティナ",
+      "PID_魔器ソニア",
+      "PID_魔器ラインハルト"
     ]
   }
 ]
