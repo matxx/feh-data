@@ -9,7 +9,7 @@ Nowadays files are uploaded to S3 and served via Cloudfront but I never stopped 
 ```
 1. explore `data/skills.json`
 2. find all skills without weapon restrictions : `"weapons": null`
-3. check on the wiki via API (exemple: https://feheroes.fandom.com/api.php?action=query&titles=Ice_Edge&prop=revisions&rvprop=content&format=json) what are the correct restrictions and fill them in
+3. check on the wiki via API (exemple: https://feheroes.fandom.com/api.php?action=query&titles=Ice_Edge&prop=revisions&rvprop=content&format=json) what are the correct restrictions and fill them in (they should be either `canUseWeapon={{WeaponList|All}}` (like "Counter Savvy") or `canUseWeapon={{WeaponList|exclude=Staff}}` (like "Mirror Stance"))
 ```
 
 ```
