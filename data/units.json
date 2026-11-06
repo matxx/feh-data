@@ -391,6 +391,36 @@
     "skills_max_sp": 2600
   },
   {
+    "id": "PID_比翼アレキサンドラ",
+    "fandom_id": "Alexandra%3A_Sterling%2FSilver",
+    "name": "Alexandra",
+    "title": "Sterling/Silver",
+    "full_name": "Alexandra: Sterling/Silver",
+    "abbreviated_name": "N!Alexandra",
+    "theme": "ninjas",
+    "gender": "FF",
+    "move_type": "Flying",
+    "weapon_type": "Red Sword",
+    "games": [
+      "Fire Emblem: Fortune's Weave"
+    ],
+    "id_int": 1429,
+    "origin": "160001001400",
+    "book": 10,
+    "max_df": 5,
+    "is_special": true,
+    "is_duo": true,
+    "release_date": "2026-11-06",
+    "version": "10.11",
+    "game8_id": "637661",
+    "guide_id": "16010014001429-2",
+    "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e2/Alexandra_SterlingSilver_Face_FC.webp/revision/latest?cb=20261105101108",
+    "bst": 205,
+    "duel_score": 225,
+    "max_score": 778,
+    "skills_max_sp": 2600
+  },
+  {
     "id": "PID_天の王味方",
     "fandom_id": "Alfa%C3%B0%C3%B6r%3A_Celestial_King",
     "name": "Alfaðör",
@@ -1077,6 +1107,34 @@
     "skills_max_sp": 2600
   },
   {
+    "id": "PID_お供忍者アンナ",
+    "fandom_id": "Anna%3A_Covert_Command",
+    "name": "Anna",
+    "title": "Covert Command",
+    "full_name": "Anna: Covert Command",
+    "abbreviated_name": "N!Ai!Anna",
+    "theme": "ninjas",
+    "gender": "F",
+    "move_type": "Infantry",
+    "weapon_type": "Colorless Dagger",
+    "games": [
+      "Fire Emblem Heroes"
+    ],
+    "id_int": 1431,
+    "origin": "000000100300",
+    "book": 10,
+    "max_df": 5,
+    "is_special": true,
+    "is_aided": true,
+    "release_date": "2026-11-06",
+    "version": "10.11",
+    "guide_id": "00001003001431-2",
+    "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/3b/Anna_Covert_Command_Face_FC.webp/revision/latest?cb=20261105100818",
+    "bst": 204,
+    "max_score": 770,
+    "skills_max_sp": 2600
+  },
+  {
     "id": "PID_花嫁アンナ覚醒",
     "fandom_id": "Anna%3A_Secret_Charmer",
     "name": "Anna",
@@ -1431,8 +1489,8 @@
     "guide_id": "03056011000795-2",
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/ac/Arthur_Furious_Mage_Face_FC.webp/revision/latest?cb=20220418043903",
     "bst": 171,
-    "max_score": 758,
-    "skills_max_sp": 2550
+    "max_score": 760,
+    "skills_max_sp": 2600
   },
   {
     "id": "PID_ハロルド",
@@ -5522,8 +5580,8 @@
     "guide_id": "10006005000867-2",
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/eb/Cervantes_Invincible_General_Face_FC.webp/revision/latest?cb=20221017045152",
     "bst": 195,
-    "max_score": 764,
-    "skills_max_sp": 2550
+    "max_score": 766,
+    "skills_max_sp": 2600
   },
   {
     "id": "PID_チャド",
@@ -6331,6 +6389,7 @@
     "origin": "120000400100",
     "book": 7,
     "max_df": 20,
+    "is_tt": true,
     "is_special": true,
     "release_date": "2023-09-07",
     "version": "7.9",
@@ -13234,12 +13293,14 @@
     "origin": "120000591000",
     "book": 5,
     "max_df": 30,
+    "has_respl": true,
     "is_brave": true,
     "is_generic_pool": true,
     "release_date": "2021-08-17",
     "version": "5.8",
     "game8_id": "339576",
     "guide_id": "12005910000695-2",
+    "fehpass_id": "00005910000695",
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/5c/Gatekeeper_Nothing_to_Report_Face_FC.webp/revision/latest?cb=20210817061701",
     "bst": 171,
     "max_score": 760,
@@ -15044,8 +15105,8 @@
     "move_type": "Armored",
     "weapon_type": "Green Axe",
     "games": [
-      "The Blazing Blade",
-      "Engage"
+      "Fire Emblem: The Blazing Blade",
+      "Fire Emblem Engage"
     ],
     "id_int": 1428,
     "origin": "060000100300",
@@ -15054,6 +15115,7 @@
     "is_emblem": true,
     "release_date": "2026-10-30",
     "version": "10.10",
+    "game8_id": "636129",
     "guide_id": "06001003001428-2",
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/f/fd/Hector_Of_Strength_Face_FC.webp/revision/latest?cb=20261030055936",
     "bst": 217,
@@ -17320,6 +17382,35 @@
     "skills_max_sp": 2600
   },
   {
+    "id": "PID_魔器忍者イオ",
+    "fandom_id": "Io%3A_Lone_Ninja",
+    "name": "Io",
+    "title": "Lone Ninja",
+    "full_name": "Io: Lone Ninja",
+    "abbreviated_name": "N!R!Io",
+    "theme": "ninjas",
+    "gender": "M",
+    "move_type": "Cavalry",
+    "weapon_type": "Green Axe",
+    "games": [
+      "Fire Emblem: Fortune's Weave"
+    ],
+    "id_int": 1430,
+    "origin": "160001000300",
+    "book": 10,
+    "max_df": 5,
+    "is_special": true,
+    "is_rearmed": true,
+    "release_date": "2026-11-06",
+    "version": "10.11",
+    "game8_id": "637659",
+    "guide_id": "16010003001430-2",
+    "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b7/Io_Lone_Ninja_Face_FC.webp/revision/latest?cb=20261105101033",
+    "bst": 201,
+    "max_score": 768,
+    "skills_max_sp": 2550
+  },
+  {
     "id": "PID_イサドラ",
     "fandom_id": "Isadora%3A_Escort_of_Pherae",
     "name": "Isadora",
@@ -17515,6 +17606,33 @@
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/8d/Ivy_Flurry_Embrace_Face_FC.webp/revision/latest?cb=20251215042636",
     "bst": 189,
     "max_score": 764,
+    "skills_max_sp": 2600
+  },
+  {
+    "id": "PID_忍者アイビー",
+    "fandom_id": "Ivy%3A_Icy_Insight",
+    "name": "Ivy",
+    "title": "Icy Insight",
+    "full_name": "Ivy: Icy Insight",
+    "abbreviated_name": "N!Ivy",
+    "theme": "ninjas",
+    "gender": "F",
+    "move_type": "Flying",
+    "weapon_type": "Blue Tome",
+    "games": [
+      "Fire Emblem Engage"
+    ],
+    "id_int": 1432,
+    "origin": "140000400200",
+    "book": 10,
+    "max_df": 5,
+    "is_special": true,
+    "release_date": "2026-11-06",
+    "version": "10.11",
+    "guide_id": "14004002001432-2",
+    "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/66/Ivy_Icy_Insight_Face_FC.webp/revision/latest?cb=20261105100958",
+    "bst": 194,
+    "max_score": 766,
     "skills_max_sp": 2600
   },
   {
@@ -18743,8 +18861,8 @@
     "guide_id": "04008002000785-2",
     "image_url_for_portrait": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/39/Karin_Driven_Knight_Face_FC.webp/revision/latest?cb=20220318043651",
     "bst": 177,
-    "max_score": 758,
-    "skills_max_sp": 2550
+    "max_score": 760,
+    "skills_max_sp": 2600
   },
   {
     "id": "PID_双界カアラ",

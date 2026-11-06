@@ -13139,6 +13139,10 @@
       {
         "start_time": "2026-01-11 07:00:00",
         "end_time": "2026-01-18 06:59:59"
+      },
+      {
+        "start_time": "2026-11-08 07:00:00",
+        "end_time": "2026-11-15 06:59:59"
       }
     ],
     "unit_ids": [
@@ -13253,6 +13257,10 @@
       {
         "start_time": "2026-01-18 07:00:00",
         "end_time": "2026-01-25 06:59:59"
+      },
+      {
+        "start_time": "2026-11-15 07:00:00",
+        "end_time": "2026-11-22 06:59:59"
       }
     ],
     "unit_ids": [
@@ -18123,6 +18131,10 @@
       {
         "start_time": "2025-11-14 07:00:00",
         "end_time": "2025-11-21 06:59:59"
+      },
+      {
+        "start_time": "2026-11-13 07:00:00",
+        "end_time": "2026-11-20 06:59:59"
       }
     ],
     "unit_ids": [
@@ -19973,6 +19985,10 @@
       {
         "start_time": "2025-09-21 07:00:00",
         "end_time": "2025-09-28 06:59:59"
+      },
+      {
+        "start_time": "2026-11-08 07:00:00",
+        "end_time": "2026-11-15 06:59:59"
       }
     ],
     "unit_ids": [
@@ -20445,6 +20461,10 @@
       {
         "start_time": "2025-09-28 07:00:00",
         "end_time": "2025-10-05 06:59:59"
+      },
+      {
+        "start_time": "2026-11-15 07:00:00",
+        "end_time": "2026-11-22 06:59:59"
       }
     ],
     "unit_ids": [
@@ -21201,6 +21221,10 @@
       {
         "start_time": "2025-11-08 07:00:00",
         "end_time": "2025-11-15 06:59:59"
+      },
+      {
+        "start_time": "2026-11-10 07:00:00",
+        "end_time": "2026-11-17 06:59:59"
       }
     ],
     "unit_ids": [
@@ -24174,6 +24198,12 @@
     "fandom_id": "Ninja_of_Time_%28Focus%29",
     "start_time": "2025-11-06 07:00:00",
     "end_time": "2025-12-05 06:59:59",
+    "reruns": [
+      {
+        "start_time": "2026-11-09 07:00:00",
+        "end_time": "2026-12-08 06:59:59"
+      }
+    ],
     "unit_ids": [
       "PID_忍者シェズ女",
       "PID_忍者フリーズ",
@@ -24397,6 +24427,12 @@
     "fandom_id": "Rea._Lysithea_%26_Chosen_Alfonse",
     "start_time": "2025-12-05 07:00:00",
     "end_time": "2025-12-25 06:59:59",
+    "reruns": [
+      {
+        "start_time": "2026-11-11 07:00:00",
+        "end_time": "2026-11-19 06:59:59"
+      }
+    ],
     "unit_ids": [
       "PID_イグナーツ",
       "PID_ローレンツ",
@@ -25507,6 +25543,12 @@
     "fandom_id": "Focus%3A_Mythic_Revival_2",
     "start_time": "2026-04-12 07:00:00",
     "end_time": "2026-05-10 06:59:59",
+    "reruns": [
+      {
+        "start_time": "2026-11-08 07:00:00",
+        "end_time": "2026-12-13 06:59:59"
+      }
+    ],
     "unit_ids": [
       "PID_神階オルティナ",
       "PID_神階ピアニー",
@@ -26388,6 +26430,12 @@
     "fandom_id": "Focus%3A_Weekly_Revival_130",
     "start_time": "2026-08-23 07:00:00",
     "end_time": "2026-08-30 06:59:59",
+    "reruns": [
+      {
+        "start_time": "2026-11-08 07:00:00",
+        "end_time": "2026-11-15 06:59:59"
+      }
+    ],
     "unit_ids": [
       "PID_スカビオサ2",
       "PID_ピアニー2味方",
@@ -26864,6 +26912,63 @@
       "PID_ティナ",
       "PID_魔器ソニア",
       "PID_魔器ラインハルト"
+    ]
+  },
+  {
+    "name": "Focus: Heroes with Havoc Skills",
+    "fandom_id": "Focus%3A_Heroes_with_Havoc_Skills",
+    "start_time": "2026-11-02 07:00:00",
+    "end_time": "2026-11-07 06:59:59",
+    "unit_ids": [
+      "PID_双界アイビー",
+      "PID_聖戦クロード",
+      "PID_響心サーリャ"
+    ]
+  },
+  {
+    "name": "Ninja Boot Camp",
+    "fandom_id": "Ninja_Boot_Camp_%28Focus%29",
+    "start_time": "2026-11-06 07:00:00",
+    "end_time": "2026-12-08 06:59:59",
+    "unit_ids": [
+      "PID_お供忍者アンナ",
+      "PID_忍者アイビー",
+      "PID_比翼アレキサンドラ",
+      "PID_魔器忍者イオ"
+    ]
+  },
+  {
+    "name": "Focus: New Power (Nov 2026)",
+    "fandom_id": "Focus%3A_New_Power_%28Nov_2026%29",
+    "start_time": "2026-11-07 07:00:00",
+    "end_time": "2026-12-04 06:59:59",
+    "unit_ids": [
+      "PID_アーサー",
+      "PID_カリン",
+      "PID_水着フレイヤ",
+      "PID_闇リリス"
+    ]
+  },
+  {
+    "name": "Focus: Legendary Revival 9",
+    "fandom_id": "Focus%3A_Legendary_Revival_9",
+    "start_time": "2026-11-08 07:00:00",
+    "end_time": "2026-12-13 06:59:59",
+    "unit_ids": [
+      "PID_伝承エーデルガルト",
+      "PID_伝承クロード",
+      "PID_伝承リリーナ"
+    ]
+  },
+  {
+    "name": "Focus: Weekly Revival 136",
+    "fandom_id": "Focus%3A_Weekly_Revival_136",
+    "start_time": "2026-11-15 07:00:00",
+    "end_time": "2026-11-22 06:59:59",
+    "unit_ids": [
+      "PID_ハーケン",
+      "PID_闇ウルスラ",
+      "PID_闇ネルガル"
     ]
   }
 ]

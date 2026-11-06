@@ -98,6 +98,13 @@
     "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/8/82/Alear_Seaside_Dragon_BtlFace_D.webp/revision/latest?cb=20240704074710"
   },
   {
+    "id": "PID_比翼アレキサンドラ",
+    "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/2/29/Alexandra_SterlingSilver_Face.webp/revision/latest?cb=20261105101104",
+    "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/57/Alexandra_SterlingSilver_BtlFace.webp/revision/latest?cb=20261105101039",
+    "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/df/Alexandra_SterlingSilver_BtlFace_C.webp/revision/latest?cb=20261105101053",
+    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/54/Alexandra_SterlingSilver_BtlFace_D.webp/revision/latest?cb=20261105101058"
+  },
+  {
     "id": "PID_天の王味方",
     "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/56/Alfador_Celestial_King_Face.webp/revision/latest?cb=20250605052614",
     "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/1/1e/Alfador_Celestial_King_BtlFace.webp/revision/latest?cb=20250916042248",
@@ -280,6 +287,13 @@
     "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/04/Anna_Commander_BtlFace.webp/revision/latest?cb=20190920230427",
     "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/08/Anna_Commander_BtlFace_C.webp/revision/latest?cb=20190920230432",
     "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c3/Anna_Commander_BtlFace_D.webp/revision/latest?cb=20190920230436"
+  },
+  {
+    "id": "PID_お供忍者アンナ",
+    "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/ee/Anna_Covert_Command_Face.webp/revision/latest?cb=20261105100813",
+    "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c3/Anna_Covert_Command_BtlFace.webp/revision/latest?cb=20261105100749",
+    "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/71/Anna_Covert_Command_BtlFace_C.webp/revision/latest?cb=20261105100804",
+    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b6/Anna_Covert_Command_BtlFace_D.webp/revision/latest?cb=20261105100809"
   },
   {
     "id": "PID_花嫁アンナ覚醒",
@@ -3499,7 +3513,11 @@
     "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/2/23/Gatekeeper_Nothing_to_Report_Face.webp/revision/latest?cb=20210817061658",
     "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b2/Gatekeeper_Nothing_to_Report_BtlFace.webp/revision/latest?cb=20210817061627",
     "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/2/23/Gatekeeper_Nothing_to_Report_BtlFace_C.webp/revision/latest?cb=20210817061642",
-    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/eb/Gatekeeper_Nothing_to_Report_BtlFace_D.webp/revision/latest?cb=20210817061647"
+    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/eb/Gatekeeper_Nothing_to_Report_BtlFace_D.webp/revision/latest?cb=20210817061647",
+    "art_resp_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/77/Gatekeeper_Nothing_to_Report_Resplendent_Face.webp/revision/latest?cb=20261105100919",
+    "art_resp_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/79/Gatekeeper_Nothing_to_Report_Resplendent_BtlFace.webp/revision/latest?cb=20261105100854",
+    "art_resp_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/3/3e/Gatekeeper_Nothing_to_Report_Resplendent_BtlFace_C.webp/revision/latest?cb=20261105100909",
+    "art_resp_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/04/Gatekeeper_Nothing_to_Report_Resplendent_BtlFace_D.webp/revision/latest?cb=20261105100913"
   },
   {
     "id": "PID_ガトリー",
@@ -4569,6 +4587,13 @@
     "art_resp_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d4/Innes_Regal_Strategician_Resplendent_BtlFace_D.webp/revision/latest?cb=20230217042840"
   },
   {
+    "id": "PID_魔器忍者イオ",
+    "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/52/Io_Lone_Ninja_Face.webp/revision/latest?cb=20261105101029",
+    "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/0d/Io_Lone_Ninja_BtlFace.webp/revision/latest?cb=20261105101003",
+    "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/d/dd/Io_Lone_Ninja_BtlFace_C.webp/revision/latest?cb=20261105101019",
+    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/69/Io_Lone_Ninja_BtlFace_D.webp/revision/latest?cb=20261105101024"
+  },
+  {
     "id": "PID_イサドラ",
     "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/55/Isadora_Escort_of_Pherae_Face.webp/revision/latest?cb=20231117042651",
     "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/0/07/Isadora_Escort_of_Pherae_BtlFace.webp/revision/latest?cb=20231117042626",
@@ -4620,6 +4645,13 @@
     "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e1/Ivy_Flurry_Embrace_BtlFace.webp/revision/latest?cb=20251215042607",
     "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/5/53/Ivy_Flurry_Embrace_BtlFace_C.webp/revision/latest?cb=20251215042622",
     "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/4/48/Ivy_Flurry_Embrace_BtlFace_D.webp/revision/latest?cb=20260105171011"
+  },
+  {
+    "id": "PID_忍者アイビー",
+    "art_a": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/a/ac/Ivy_Icy_Insight_Face.webp/revision/latest?cb=20261105100953",
+    "art_b": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/6/69/Ivy_Icy_Insight_BtlFace.webp/revision/latest?cb=20261105100929",
+    "art_c": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/e/ee/Ivy_Icy_Insight_BtlFace_C.webp/revision/latest?cb=20261105100944",
+    "art_d": "https://vignette.wikia.nocookie.net/feheroes_gamepedia_en/images/7/77/Ivy_Icy_Insight_BtlFace_D.webp/revision/latest?cb=20261105100948"
   },
   {
     "id": "PID_響心アイビー",
