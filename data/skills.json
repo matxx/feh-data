@@ -10021,7 +10021,9 @@
           "Cavalry"
         ]
       },
-      "weapons": null
+      "weapons": {
+        "none": true
+      }
     },
     "addition_date": "2026-11-05",
     "release_date": "2026-11-06",
@@ -95150,7 +95152,9 @@
           "Flying"
         ]
       },
-      "weapons": null
+      "weapons": {
+        "none": true
+      }
     },
     "addition_date": "2026-11-05",
     "release_date": "2026-11-06",
@@ -95691,7 +95695,9 @@
           "Flying"
         ]
       },
-      "weapons": null
+      "weapons": {
+        "none": true
+      }
     },
     "addition_date": "2026-11-05",
     "release_date": "2026-11-06",
@@ -135150,7 +135156,9 @@
       "moves": {
         "none": true
       },
-      "weapons": null
+      "weapons": {
+        "none": true
+      }
     },
     "upgrade_ids": [
       "SSID_第112迷宮の覇者2"
@@ -135168,7 +135176,9 @@
       "moves": {
         "none": true
       },
-      "weapons": null
+      "weapons": {
+        "none": true
+      }
     },
     "upgrade_ids": [
       "SSID_第112迷宮の覇者3"
@@ -135189,7 +135199,9 @@
       "moves": {
         "none": true
       },
-      "weapons": null
+      "weapons": {
+        "none": true
+      }
     },
     "downgrade_ids": [
       "SSID_第112迷宮の覇者2"
