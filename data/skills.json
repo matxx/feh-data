@@ -2331,6 +2331,7 @@
     "refine_kind": "skill1",
     "addition_date": "2023-09-28",
     "release_date": "2023-09-28",
+    "refine_date": "2026-09-08",
     "version": "7.9"
   },
   {
@@ -2484,6 +2485,7 @@
     "refine_kind": "skill1",
     "addition_date": "2023-03-31",
     "release_date": "2023-03-31",
+    "refine_date": "2026-02-04",
     "version": "7.3"
   },
   {
@@ -3071,6 +3073,7 @@
     "refine_kind": "skill1",
     "addition_date": "2021-09-17",
     "release_date": "2021-09-17",
+    "refine_date": "2025-11-05",
     "version": "5.9"
   },
   {
@@ -3811,6 +3814,7 @@
     "refine_kind": "skill1",
     "addition_date": "2020-06-05",
     "release_date": "2020-06-05",
+    "refine_date": "2024-05-07",
     "version": "4.6"
   },
   {
@@ -4105,6 +4109,7 @@
     "refine_kind": "skill1",
     "addition_date": "2021-12-06",
     "release_date": "2021-12-07",
+    "refine_date": "2026-04-06",
     "version": "6.0"
   },
   {
@@ -4206,6 +4211,7 @@
     "refine_kind": "skill1",
     "addition_date": "2020-06-05",
     "release_date": "2020-06-05",
+    "refine_date": "2024-06-06",
     "version": "4.6"
   },
   {
@@ -6367,6 +6373,7 @@
     "refine_kind": "skill1",
     "addition_date": "2023-08-16",
     "release_date": "2023-08-16",
+    "refine_date": "2025-09-04",
     "version": "7.8"
   },
   {
@@ -6600,6 +6607,7 @@
     "refine_kind": "skill1",
     "addition_date": "2020-10-30",
     "release_date": "2020-10-30",
+    "refine_date": "2023-11-06",
     "version": "4.10"
   },
   {
@@ -6763,6 +6771,7 @@
     "refine_kind": "skill1",
     "addition_date": "2022-01-06",
     "release_date": "2022-01-08",
+    "refine_date": "2025-12-05",
     "version": "6.1"
   },
   {
@@ -7757,6 +7766,7 @@
     "refine_kind": "skill1",
     "addition_date": "2022-03-18",
     "release_date": "2022-03-18",
+    "refine_date": "2026-08-06",
     "version": "6.3"
   },
   {
@@ -8326,6 +8336,7 @@
     "refine_kind": "skill1",
     "addition_date": "2019-10-21",
     "release_date": "2019-10-21",
+    "refine_date": "2023-02-06",
     "version": "3.10"
   },
   {
@@ -8383,6 +8394,7 @@
     "refine_kind": "skill1",
     "addition_date": "2020-04-07",
     "release_date": "2020-04-08",
+    "refine_date": "2024-04-04",
     "version": "4.4"
   },
   {
@@ -8423,6 +8435,7 @@
     "refine_kind": "skill1",
     "addition_date": "2022-12-23",
     "release_date": "2022-12-23",
+    "refine_date": "2025-11-05",
     "version": "7.0"
   },
   {
@@ -8463,6 +8476,7 @@
     "refine_kind": "skill1",
     "addition_date": "2019-07-21",
     "release_date": "2019-08-03",
+    "refine_date": "2022-12-05",
     "version": "3.7"
   },
   {
@@ -15888,6 +15902,7 @@
     ],
     "addition_date": "2020-11-17",
     "release_date": "2020-11-17",
+    "refine_date": "2024-11-05",
     "version": "4.11"
   },
   {
@@ -15947,6 +15962,7 @@
     "refine_kind": "skill1",
     "addition_date": "2021-01-28",
     "release_date": "2021-01-28",
+    "refine_date": "2024-03-06",
     "version": "5.1"
   },
   {
@@ -15987,6 +16003,7 @@
     "refine_kind": "skill1",
     "addition_date": "2020-12-08",
     "release_date": "2021-09-30",
+    "refine_date": "2024-11-05",
     "version": "5.9"
   },
   {
@@ -16211,6 +16228,7 @@
     "refine_kind": "skill1",
     "addition_date": "2021-05-06",
     "release_date": "2021-05-07",
+    "refine_date": "2025-08-06",
     "version": "5.5"
   },
   {
@@ -16571,6 +16589,7 @@
     "refine_kind": "skill1",
     "addition_date": "2020-04-30",
     "release_date": "2020-04-30",
+    "refine_date": "2023-05-08",
     "version": "4.4"
   },
   {
@@ -17372,6 +17391,7 @@
     "refine_kind": "skill1",
     "addition_date": "2020-01-08",
     "release_date": "2020-01-09",
+    "refine_date": "2023-12-06",
     "version": "4.1"
   },
   {
@@ -17427,7 +17447,8 @@
     "tier": 1,
     "range": 2,
     "might": 14,
-    "refine_kind": "skill1"
+    "refine_kind": "skill1",
+    "refine_date": "2024-12-05"
   },
   {
     "id": "SID_暗殺手裏剣",
@@ -18810,6 +18831,7 @@
     "refine_kind": "skill1",
     "addition_date": "2021-05-06",
     "release_date": "2021-05-08",
+    "refine_date": "2025-03-06",
     "version": "5.5"
   },
   {
@@ -19307,6 +19329,7 @@
     ],
     "addition_date": "2021-08-17",
     "release_date": "2021-08-17",
+    "refine_date": "2023-09-06",
     "version": "5.8"
   },
   {
@@ -19558,6 +19581,7 @@
     "refine_kind": "skill1",
     "addition_date": "2022-01-06",
     "release_date": "2022-01-07",
+    "refine_date": "2026-07-06",
     "version": "6.1"
   },
   {
@@ -19598,6 +19622,7 @@
     "refine_kind": "skill1",
     "addition_date": "2021-04-19",
     "release_date": "2021-04-19",
+    "refine_date": "2026-05-07",
     "version": "5.4"
   },
   {
@@ -21032,6 +21057,7 @@
     "refine_kind": "skill1",
     "addition_date": "2020-05-07",
     "release_date": "2020-05-08",
+    "refine_date": "2024-05-07",
     "version": "4.5"
   },
   {
@@ -22668,6 +22694,7 @@
     ],
     "addition_date": "2021-04-19",
     "release_date": "2021-04-20",
+    "refine_date": "2025-02-06",
     "version": "5.4"
   },
   {
@@ -24174,6 +24201,7 @@
     "refine_kind": "skill1",
     "addition_date": "2022-08-17",
     "release_date": "2022-08-18",
+    "refine_date": "2026-08-06",
     "version": "6.8"
   },
   {
@@ -24702,6 +24730,7 @@
     "refine_kind": "skill1",
     "addition_date": "2020-05-20",
     "release_date": "2020-05-20",
+    "refine_date": "2024-04-04",
     "version": "4.5"
   },
   {
@@ -24802,6 +24831,7 @@
     "refine_kind": "skill1",
     "addition_date": "2021-07-06",
     "release_date": "2021-07-07",
+    "refine_date": "2026-11-05",
     "version": "5.7"
   },
   {
@@ -24925,6 +24955,7 @@
     "refine_kind": "skill1",
     "addition_date": "2023-01-27",
     "release_date": "2023-01-27",
+    "refine_date": "2026-05-07",
     "version": "7.1"
   },
   {
@@ -25040,6 +25071,7 @@
     "refine_kind": "skill1",
     "addition_date": "2020-05-07",
     "release_date": "2020-05-08",
+    "refine_date": "2024-03-06",
     "version": "4.5"
   },
   {
@@ -25441,6 +25473,7 @@
     ],
     "addition_date": "2020-03-18",
     "release_date": "2020-03-18",
+    "refine_date": "2023-10-03",
     "version": "4.3"
   },
   {
@@ -26254,6 +26287,7 @@
     "refine_kind": "skill1",
     "addition_date": "2020-10-19",
     "release_date": "2020-10-19",
+    "refine_date": "2024-10-03",
     "version": "4.10"
   },
   {
@@ -27410,6 +27444,7 @@
     "refine_kind": "skill1",
     "addition_date": "2021-12-06",
     "release_date": "2021-12-07",
+    "refine_date": "2025-10-06",
     "version": "6.0"
   },
   {
@@ -28096,6 +28131,7 @@
     "refine_kind": "skill1",
     "addition_date": "2020-05-07",
     "release_date": "2020-05-08",
+    "refine_date": "2024-06-06",
     "version": "4.5"
   },
   {
@@ -28150,6 +28186,7 @@
     "refine_kind": "skill1",
     "addition_date": "2021-08-17",
     "release_date": "2021-08-17",
+    "refine_date": "2023-09-06",
     "version": "5.8"
   },
   {
@@ -30103,6 +30140,7 @@
     "refine_kind": "skill1",
     "addition_date": "2019-08-16",
     "release_date": "2019-08-17",
+    "refine_date": "2023-02-06",
     "version": "3.8"
   },
   {
@@ -30384,6 +30422,7 @@
     "refine_kind": "skill1",
     "addition_date": "2020-02-17",
     "release_date": "2020-02-17",
+    "refine_date": "2024-01-09",
     "version": "4.2"
   },
   {
@@ -31432,6 +31471,7 @@
     "refine_kind": "skill1",
     "addition_date": "2019-07-21",
     "release_date": "2019-07-22",
+    "refine_date": "2023-03-06",
     "version": "3.7"
   },
   {
@@ -31793,6 +31833,7 @@
     "refine_kind": "skill1",
     "addition_date": "2020-03-05",
     "release_date": "2020-03-06",
+    "refine_date": "2024-03-06",
     "version": "4.3"
   },
   {
@@ -31905,6 +31946,7 @@
     ],
     "addition_date": "2019-07-21",
     "release_date": "2019-07-22",
+    "refine_date": "2023-01-10",
     "version": "3.7"
   },
   {
@@ -32846,6 +32888,7 @@
     ],
     "addition_date": "2021-11-17",
     "release_date": "2021-11-17",
+    "refine_date": "2026-03-05",
     "version": "5.11"
   },
   {
@@ -33125,6 +33168,7 @@
     ],
     "addition_date": "2020-08-18",
     "release_date": "2020-08-19",
+    "refine_date": "2024-04-04",
     "version": "4.8"
   },
   {
@@ -33399,6 +33443,7 @@
     "refine_kind": "skill1",
     "addition_date": "2020-10-19",
     "release_date": "2020-10-20",
+    "refine_date": "2024-06-06",
     "version": "4.10"
   },
   {
@@ -33684,6 +33729,7 @@
     "refine_kind": "skill1",
     "addition_date": "2020-05-07",
     "release_date": "2020-05-08",
+    "refine_date": "2024-04-04",
     "version": "4.5"
   },
   {
@@ -34306,6 +34352,7 @@
     "refine_kind": "skill1",
     "addition_date": "2021-10-29",
     "release_date": "2021-10-29",
+    "refine_date": "2025-01-06",
     "version": "5.10"
   },
   {
@@ -37859,6 +37906,7 @@
     "refine_kind": "skill1",
     "addition_date": "2023-08-16",
     "release_date": "2023-08-16",
+    "refine_date": "2025-09-04",
     "version": "7.8"
   },
   {
@@ -38208,6 +38256,7 @@
     ],
     "addition_date": "2021-09-17",
     "release_date": "2021-09-17",
+    "refine_date": "2025-12-05",
     "version": "5.9"
   },
   {
@@ -38717,6 +38766,7 @@
     ],
     "addition_date": "2022-02-18",
     "release_date": "2022-02-18",
+    "refine_date": "2026-10-06",
     "version": "6.2"
   },
   {
@@ -40137,6 +40187,7 @@
     "refine_kind": "skill1",
     "addition_date": "2021-06-21",
     "release_date": "2021-06-21",
+    "refine_date": "2026-08-06",
     "version": "5.6"
   },
   {
@@ -40425,6 +40476,7 @@
     ],
     "addition_date": "2020-09-18",
     "release_date": "2020-09-18",
+    "refine_date": "2024-07-04",
     "version": "4.9"
   },
   {
@@ -41506,6 +41558,7 @@
     "refine_kind": "skill1",
     "addition_date": "2023-08-31",
     "release_date": "2023-08-31",
+    "refine_date": "2026-10-06",
     "version": "7.8"
   },
   {
@@ -42135,6 +42188,7 @@
     "refine_kind": "skill1",
     "addition_date": "2020-04-20",
     "release_date": "2020-04-21",
+    "refine_date": "2024-01-09",
     "version": "4.4"
   },
   {
@@ -42291,6 +42345,7 @@
     "refine_kind": "skill1",
     "addition_date": "2020-08-18",
     "release_date": "2023-07-28",
+    "refine_date": "2026-05-07",
     "version": "7.7"
   },
   {
@@ -43378,6 +43433,7 @@
     "refine_kind": "skill1",
     "addition_date": "2020-03-18",
     "release_date": "2020-03-18",
+    "refine_date": "2023-08-07",
     "version": "4.3"
   },
   {
@@ -43683,6 +43739,7 @@
     "refine_kind": "skill1",
     "addition_date": "2020-01-08",
     "release_date": "2020-01-09",
+    "refine_date": "2023-11-06",
     "version": "4.1"
   },
   {
@@ -43860,6 +43917,7 @@
     "refine_kind": "skill1",
     "addition_date": "2022-06-30",
     "release_date": "2022-06-30",
+    "refine_date": "2025-02-06",
     "version": "6.6"
   },
   {
@@ -44443,6 +44501,7 @@
     "refine_kind": "skill1",
     "addition_date": "2024-03-29",
     "release_date": "2024-03-29",
+    "refine_date": "2026-10-06",
     "version": "8.3"
   },
   {
@@ -44624,6 +44683,7 @@
     "refine_kind": "skill1",
     "addition_date": "2022-11-18",
     "release_date": "2022-11-30",
+    "refine_date": "2025-07-07",
     "version": "6.11"
   },
   {
@@ -44665,6 +44725,7 @@
     "refine_kind": "skill1",
     "addition_date": "2022-11-30",
     "release_date": "2022-11-30",
+    "refine_date": "2025-09-04",
     "version": "6.11"
   },
   {
@@ -45110,6 +45171,7 @@
     ],
     "addition_date": "2019-09-19",
     "release_date": "2019-09-19",
+    "refine_date": "2023-06-07",
     "version": "3.9"
   },
   {
@@ -45913,6 +45975,7 @@
     "refine_kind": "skill1",
     "addition_date": "2024-08-16",
     "release_date": "2024-08-16",
+    "refine_date": "2026-09-08",
     "version": "8.8"
   },
   {
@@ -46090,6 +46153,7 @@
     "refine_kind": "skill1",
     "addition_date": "2020-06-18",
     "release_date": "2020-06-18",
+    "refine_date": "2024-06-06",
     "version": "4.6"
   },
   {
@@ -46209,6 +46273,7 @@
     ],
     "addition_date": "2021-02-26",
     "release_date": "2021-02-26",
+    "refine_date": "2024-08-06",
     "version": "5.2"
   },
   {
@@ -46282,6 +46347,7 @@
     "refine_kind": "skill1",
     "addition_date": "2021-07-19",
     "release_date": "2021-07-19",
+    "refine_date": "2025-10-06",
     "version": "5.7"
   },
   {
@@ -46397,6 +46463,7 @@
     "refine_kind": "skill1",
     "addition_date": "2022-09-29",
     "release_date": "2022-09-29",
+    "refine_date": "2025-10-06",
     "version": "6.9"
   },
   {
@@ -46435,7 +46502,7 @@
   },
   {
     "id": "SID_ファルシオン覚醒",
-    "fandom_id": "Falchion",
+    "fandom_id": "Falchion_%28Awakening%29",
     "name": "Falchion (Awakening)",
     "category": "weapon",
     "weapon_type": "Red Sword",
@@ -46459,7 +46526,7 @@
   {
     "id": "SID_ファルシオン覚醒_絆",
     "base_id": "SID_ファルシオン覚醒",
-    "fandom_id": "Falchion",
+    "fandom_id": "Falchion_%28Awakening%29",
     "name": "Falchion (Awakening)",
     "category": "weapon",
     "weapon_type": "Red Sword",
@@ -46476,7 +46543,7 @@
   },
   {
     "id": "SID_ファルシオン外伝",
-    "fandom_id": "Falchion",
+    "fandom_id": "Falchion_%28Gaiden%29",
     "name": "Falchion (Gaiden)",
     "category": "weapon",
     "weapon_type": "Red Sword",
@@ -46500,7 +46567,7 @@
   {
     "id": "SID_ファルシオン外伝_連",
     "base_id": "SID_ファルシオン外伝",
-    "fandom_id": "Falchion",
+    "fandom_id": "Falchion_%28Gaiden%29",
     "name": "Falchion (Gaiden)",
     "category": "weapon",
     "weapon_type": "Red Sword",
@@ -46517,7 +46584,7 @@
   },
   {
     "id": "SID_ファルシオン",
-    "fandom_id": "Falchion",
+    "fandom_id": "Falchion_%28Mystery%29",
     "name": "Falchion (Mystery)",
     "category": "weapon",
     "weapon_type": "Red Sword",
@@ -46541,7 +46608,7 @@
   {
     "id": "SID_ファルシオン_紋",
     "base_id": "SID_ファルシオン",
-    "fandom_id": "Falchion",
+    "fandom_id": "Falchion_%28Mystery%29",
     "name": "Falchion (Mystery)",
     "category": "weapon",
     "weapon_type": "Red Sword",
@@ -47157,6 +47224,7 @@
     ],
     "addition_date": "2020-04-20",
     "release_date": "2020-04-20",
+    "refine_date": "2024-02-06",
     "version": "4.4"
   },
   {
@@ -47383,6 +47451,7 @@
     "refine_kind": "skill1",
     "addition_date": "2021-01-18",
     "release_date": "2021-01-18",
+    "refine_date": "2025-08-06",
     "version": "5.1"
   },
   {
@@ -48073,6 +48142,7 @@
     "refine_kind": "skill1",
     "addition_date": "2022-04-18",
     "release_date": "2022-04-19",
+    "refine_date": "2026-04-06",
     "version": "6.4"
   },
   {
@@ -48113,6 +48183,7 @@
     "refine_kind": "skill1",
     "addition_date": "2022-09-06",
     "release_date": "2022-09-07",
+    "refine_date": "2026-09-08",
     "version": "6.9"
   },
   {
@@ -48183,7 +48254,8 @@
     "tier": 1,
     "range": 2,
     "might": 14,
-    "refine_kind": "skill1"
+    "refine_kind": "skill1",
+    "refine_date": "2023-06-07"
   },
   {
     "id": "SID_造物フィンブル",
@@ -48676,6 +48748,7 @@
     "refine_kind": "skill1",
     "addition_date": "2021-11-17",
     "release_date": "2021-11-17",
+    "refine_date": "2026-02-04",
     "version": "5.11"
   },
   {
@@ -49348,6 +49421,7 @@
     ],
     "addition_date": "2020-09-18",
     "release_date": "2020-09-19",
+    "refine_date": "2024-05-07",
     "version": "4.9"
   },
   {
@@ -49394,6 +49468,7 @@
     ],
     "addition_date": "2021-11-17",
     "release_date": "2021-11-17",
+    "refine_date": "2026-06-04",
     "version": "5.11"
   },
   {
@@ -49522,6 +49597,7 @@
     "refine_kind": "skill1",
     "addition_date": "2021-09-06",
     "release_date": "2021-09-17",
+    "refine_date": "2026-02-04",
     "version": "5.9"
   },
   {
@@ -51307,6 +51383,7 @@
     "refine_kind": "skill1",
     "addition_date": "2020-06-05",
     "release_date": "2020-06-05",
+    "refine_date": "2023-09-06",
     "version": "4.6"
   },
   {
@@ -51347,6 +51424,7 @@
     "refine_kind": "skill1",
     "addition_date": "2019-12-05",
     "release_date": "2019-12-06",
+    "refine_date": "2023-02-06",
     "version": "4.0"
   },
   {
@@ -51388,6 +51466,7 @@
     "refine_kind": "skill1",
     "addition_date": "2020-09-30",
     "release_date": "2020-09-30",
+    "refine_date": "2023-11-06",
     "version": "4.9"
   },
   {
@@ -51428,6 +51507,7 @@
     "refine_kind": "skill1",
     "addition_date": "2019-12-05",
     "release_date": "2020-11-27",
+    "refine_date": "2024-02-06",
     "version": "4.11"
   },
   {
@@ -53192,6 +53272,7 @@
     "refine_kind": "skill1",
     "addition_date": "2021-07-06",
     "release_date": "2021-07-19",
+    "refine_date": "2026-01-05",
     "version": "5.7"
   },
   {
@@ -53255,6 +53336,7 @@
     ],
     "addition_date": "2020-10-07",
     "release_date": "2020-10-08",
+    "refine_date": "2025-02-06",
     "version": "4.10"
   },
   {
@@ -53504,6 +53586,7 @@
     ],
     "addition_date": "2023-05-31",
     "release_date": "2023-05-31",
+    "refine_date": "2026-03-05",
     "version": "7.5"
   },
   {
@@ -55014,6 +55097,7 @@
     "refine_kind": "skill1",
     "addition_date": "2020-08-06",
     "release_date": "2020-08-07",
+    "refine_date": "2024-10-03",
     "version": "4.8"
   },
   {
@@ -55096,6 +55180,7 @@
     ],
     "addition_date": "2022-08-17",
     "release_date": "2022-08-17",
+    "refine_date": "2024-09-05",
     "version": "6.8"
   },
   {
@@ -55281,6 +55366,7 @@
     ],
     "addition_date": "2021-08-17",
     "release_date": "2021-08-17",
+    "refine_date": "2023-09-06",
     "version": "5.8"
   },
   {
@@ -55846,7 +55932,8 @@
     "tier": 1,
     "range": 2,
     "might": 14,
-    "refine_kind": "skill1"
+    "refine_kind": "skill1",
+    "refine_date": "2025-08-06"
   },
   {
     "id": "SID_ギャッラルブルー",
@@ -56548,6 +56635,7 @@
     "refine_kind": "skill1",
     "addition_date": "2021-02-16",
     "release_date": "2021-02-16",
+    "refine_date": "2025-01-06",
     "version": "5.2"
   },
   {
@@ -56687,6 +56775,7 @@
     "refine_kind": "skill1",
     "addition_date": "2022-05-31",
     "release_date": "2022-05-31",
+    "refine_date": "2025-05-07",
     "version": "6.5"
   },
   {
@@ -57139,6 +57228,7 @@
     ],
     "addition_date": "2021-01-07",
     "release_date": "2021-01-08",
+    "refine_date": "2025-02-06",
     "version": "5.1"
   },
   {
@@ -57871,6 +57961,7 @@
     "refine_kind": "skill1",
     "addition_date": "2021-11-17",
     "release_date": "2021-11-30",
+    "refine_date": "2024-09-05",
     "version": "5.11"
   },
   {
@@ -59429,6 +59520,7 @@
     "refine_kind": "skill1",
     "addition_date": "2019-12-25",
     "release_date": "2020-01-01",
+    "refine_date": "2023-02-06",
     "version": "4.0"
   },
   {
@@ -59448,6 +59540,7 @@
     "refine_kind": "skill1",
     "addition_date": "2019-12-25",
     "release_date": "2020-01-01",
+    "refine_date": "2023-02-06",
     "version": "4.0"
   },
   {
@@ -59531,6 +59624,7 @@
     ],
     "addition_date": "2019-11-19",
     "release_date": "2019-11-19",
+    "refine_date": "2023-06-07",
     "version": "3.11"
   },
   {
@@ -59785,6 +59879,7 @@
     "refine_kind": "skill1",
     "addition_date": "2021-03-17",
     "release_date": "2021-03-17",
+    "refine_date": "2026-01-05",
     "version": "5.3"
   },
   {
@@ -59825,6 +59920,7 @@
     "refine_kind": "skill1",
     "addition_date": "2020-05-07",
     "release_date": "2020-05-09",
+    "refine_date": "2024-02-06",
     "version": "4.5"
   },
   {
@@ -59975,7 +60071,8 @@
     "tier": 1,
     "range": 2,
     "might": 14,
-    "refine_kind": "skill1"
+    "refine_kind": "skill1",
+    "refine_date": "2024-04-04"
   },
   {
     "id": "SID_羽子板",
@@ -60076,6 +60173,7 @@
     "refine_kind": "skill1",
     "addition_date": "2021-04-28",
     "release_date": "2021-04-28",
+    "refine_date": "2024-05-07",
     "version": "5.4"
   },
   {
@@ -61510,7 +61608,8 @@
     "tier": 1,
     "range": 2,
     "might": 14,
-    "refine_kind": "skill1"
+    "refine_kind": "skill1",
+    "refine_date": "2026-07-06"
   },
   {
     "id": "SID_開神の娘",
@@ -61652,6 +61751,7 @@
     "refine_kind": "skill1",
     "addition_date": "2020-07-30",
     "release_date": "2020-07-30",
+    "refine_date": "2023-09-06",
     "version": "4.7"
   },
   {
@@ -62776,6 +62876,7 @@
     "refine_kind": "skill1",
     "addition_date": "2021-06-07",
     "release_date": "2021-06-08",
+    "refine_date": "2025-11-05",
     "version": "5.6"
   },
   {
@@ -62985,6 +63086,7 @@
     ],
     "addition_date": "2021-07-29",
     "release_date": "2021-07-29",
+    "refine_date": "2024-08-06",
     "version": "5.7"
   },
   {
@@ -63117,6 +63219,7 @@
     "refine_kind": "skill1",
     "addition_date": "2022-08-17",
     "release_date": "2022-08-17",
+    "refine_date": "2024-09-05",
     "version": "6.8"
   },
   {
@@ -63536,6 +63639,7 @@
     "refine_kind": "skill1",
     "addition_date": "2021-09-17",
     "release_date": "2021-09-17",
+    "refine_date": "2025-10-06",
     "version": "5.9"
   },
   {
@@ -63595,6 +63699,7 @@
     "refine_kind": "skill1",
     "addition_date": "2021-12-06",
     "release_date": "2021-12-07",
+    "refine_date": "2025-02-06",
     "version": "6.0"
   },
   {
@@ -63635,6 +63740,7 @@
     "refine_kind": "skill1",
     "addition_date": "2023-02-17",
     "release_date": "2023-04-28",
+    "refine_date": "2026-02-04",
     "version": "7.4"
   },
   {
@@ -63837,6 +63943,7 @@
     "refine_kind": "skill1",
     "addition_date": "2021-04-05",
     "release_date": "2021-04-06",
+    "refine_date": "2025-08-06",
     "version": "5.4"
   },
   {
@@ -64207,6 +64314,7 @@
     "refine_kind": "skill1",
     "addition_date": "2021-03-04",
     "release_date": "2021-06-08",
+    "refine_date": "2024-07-04",
     "version": "5.6"
   },
   {
@@ -64247,6 +64355,7 @@
     "refine_kind": "skill1",
     "addition_date": "2020-12-17",
     "release_date": "2020-12-17",
+    "refine_date": "2025-05-07",
     "version": "5.0"
   },
   {
@@ -64783,6 +64892,7 @@
     "refine_kind": "skill1",
     "addition_date": "2020-04-07",
     "release_date": "2020-04-12",
+    "refine_date": "2023-12-06",
     "version": "4.4"
   },
   {
@@ -65239,6 +65349,7 @@
     "refine_kind": "skill1",
     "addition_date": "2021-03-04",
     "release_date": "2021-03-05",
+    "refine_date": "2025-05-07",
     "version": "5.3"
   },
   {
@@ -65341,6 +65452,7 @@
     ],
     "addition_date": "2019-09-30",
     "release_date": "2019-09-30",
+    "refine_date": "2023-02-06",
     "version": "3.9"
   },
   {
@@ -65524,6 +65636,7 @@
     "refine_kind": "skill1",
     "addition_date": "2022-07-26",
     "release_date": "2022-07-26",
+    "refine_date": "2025-09-04",
     "version": "6.7"
   },
   {
@@ -65587,6 +65700,7 @@
     "refine_kind": "skill1",
     "addition_date": "2019-12-25",
     "release_date": "2020-01-01",
+    "refine_date": "2023-04-06",
     "version": "4.0"
   },
   {
@@ -66110,6 +66224,7 @@
     ],
     "addition_date": "2021-01-07",
     "release_date": "2021-01-08",
+    "refine_date": "2025-01-06",
     "version": "5.1"
   },
   {
@@ -66758,6 +66873,7 @@
     "refine_kind": "skill1",
     "addition_date": "2022-08-17",
     "release_date": "2022-08-17",
+    "refine_date": "2024-09-05",
     "version": "6.8"
   },
   {
@@ -68188,6 +68304,7 @@
     "refine_kind": "skill1",
     "addition_date": "2020-10-07",
     "release_date": "2020-10-08",
+    "refine_date": "2025-01-06",
     "version": "4.10"
   },
   {
@@ -68277,6 +68394,7 @@
     ],
     "addition_date": "2020-05-20",
     "release_date": "2020-05-20",
+    "refine_date": "2024-03-06",
     "version": "4.5"
   },
   {
@@ -69010,6 +69128,7 @@
     ],
     "addition_date": "2021-10-18",
     "release_date": "2021-10-18",
+    "refine_date": "2026-01-05",
     "version": "5.10"
   },
   {
@@ -69336,6 +69455,7 @@
     "refine_kind": "skill1",
     "addition_date": "2021-01-07",
     "release_date": "2021-01-08",
+    "refine_date": "2025-03-06",
     "version": "5.1"
   },
   {
@@ -70295,6 +70415,7 @@
     "refine_kind": "skill1",
     "addition_date": "2021-06-07",
     "release_date": "2021-06-08",
+    "refine_date": "2025-06-05",
     "version": "5.6"
   },
   {
@@ -70633,6 +70754,7 @@
     "refine_kind": "skill1",
     "addition_date": "2021-04-19",
     "release_date": "2021-04-19",
+    "refine_date": "2026-02-04",
     "version": "5.4"
   },
   {
@@ -70910,6 +71032,7 @@
     "refine_kind": "skill1",
     "addition_date": "2022-03-31",
     "release_date": "2022-03-31",
+    "refine_date": "2025-07-07",
     "version": "6.3"
   },
   {
@@ -71011,6 +71134,7 @@
     "refine_kind": "skill1",
     "addition_date": "2020-01-08",
     "release_date": "2020-01-09",
+    "refine_date": "2023-10-03",
     "version": "4.1"
   },
   {
@@ -71051,6 +71175,7 @@
     "refine_kind": "skill1",
     "addition_date": "2022-04-06",
     "release_date": "2022-04-07",
+    "refine_date": "2026-03-05",
     "version": "6.4"
   },
   {
@@ -71453,6 +71578,7 @@
     "refine_kind": "skill1",
     "addition_date": "2020-06-05",
     "release_date": "2020-06-06",
+    "refine_date": "2024-03-06",
     "version": "4.6"
   },
   {
@@ -72047,6 +72173,7 @@
     "refine_kind": "skill1",
     "addition_date": "2021-03-17",
     "release_date": "2021-03-17",
+    "refine_date": "2025-12-05",
     "version": "5.3"
   },
   {
@@ -72229,6 +72356,7 @@
     "refine_kind": "skill1",
     "addition_date": "2021-12-06",
     "release_date": "2021-12-07",
+    "refine_date": "2026-03-05",
     "version": "6.0"
   },
   {
@@ -73163,6 +73291,7 @@
     "refine_kind": "skill1",
     "addition_date": "2021-02-04",
     "release_date": "2021-02-05",
+    "refine_date": "2025-11-05",
     "version": "5.2"
   },
   {
@@ -73283,6 +73412,7 @@
     "refine_kind": "skill1",
     "addition_date": "2021-03-04",
     "release_date": "2021-03-05",
+    "refine_date": "2025-03-06",
     "version": "5.3"
   },
   {
@@ -74209,6 +74339,7 @@
     "refine_kind": "skill1",
     "addition_date": "2020-12-08",
     "release_date": "2020-12-08",
+    "refine_date": "2024-02-06",
     "version": "5.0"
   },
   {
@@ -74687,6 +74818,7 @@
     "refine_kind": "skill1",
     "addition_date": "2024-08-16",
     "release_date": "2024-08-16",
+    "refine_date": "2026-09-08",
     "version": "8.8"
   },
   {
@@ -74784,6 +74916,7 @@
     "refine_kind": "skill1",
     "addition_date": "2019-12-05",
     "release_date": "2019-12-06",
+    "refine_date": "2023-08-07",
     "version": "4.0"
   },
   {
@@ -74914,6 +75047,7 @@
     "refine_kind": "skill1",
     "addition_date": "2019-10-21",
     "release_date": "2019-10-24",
+    "refine_date": "2023-04-06",
     "version": "3.10"
   },
   {
@@ -75032,6 +75166,7 @@
     "refine_kind": "skill1",
     "addition_date": "2023-02-28",
     "release_date": "2023-02-28",
+    "refine_date": "2026-03-05",
     "version": "7.2"
   },
   {
@@ -75144,6 +75279,7 @@
     ],
     "addition_date": "2019-10-29",
     "release_date": "2019-10-29",
+    "refine_date": "2023-01-10",
     "version": "3.10"
   },
   {
@@ -75792,6 +75928,7 @@
     "refine_kind": "skill1",
     "addition_date": "2019-09-19",
     "release_date": "2019-09-23",
+    "refine_date": "2023-03-06",
     "version": "3.9"
   },
   {
@@ -76113,6 +76250,7 @@
     "refine_kind": "skill1",
     "addition_date": "2020-01-17",
     "release_date": "2020-01-20",
+    "refine_date": "2023-11-06",
     "version": "4.1"
   },
   {
@@ -76179,6 +76317,7 @@
     ],
     "addition_date": "2020-01-17",
     "release_date": "2020-01-20",
+    "refine_date": "2023-09-06",
     "version": "4.1"
   },
   {
@@ -76227,6 +76366,7 @@
     ],
     "addition_date": "2020-01-17",
     "release_date": "2020-01-20",
+    "refine_date": "2023-10-03",
     "version": "4.1"
   },
   {
@@ -76273,6 +76413,7 @@
     ],
     "addition_date": "2020-01-17",
     "release_date": "2020-01-20",
+    "refine_date": "2023-12-06",
     "version": "4.1"
   },
   {
@@ -76314,6 +76455,7 @@
     "refine_kind": "skill1",
     "addition_date": "2020-01-17",
     "release_date": "2020-01-20",
+    "refine_date": "2024-01-09",
     "version": "4.1"
   },
   {
@@ -77013,6 +77155,7 @@
     "refine_kind": "skill1",
     "addition_date": "2020-10-07",
     "release_date": "2020-10-08",
+    "refine_date": "2024-12-05",
     "version": "4.10"
   },
   {
@@ -77170,6 +77313,7 @@
     "refine_kind": "skill1",
     "addition_date": "2022-06-07",
     "release_date": "2022-06-09",
+    "refine_date": "2026-06-04",
     "version": "6.6"
   },
   {
@@ -77927,6 +78071,7 @@
     ],
     "addition_date": "2021-08-31",
     "release_date": "2021-08-31",
+    "refine_date": "2025-01-06",
     "version": "5.8"
   },
   {
@@ -77981,6 +78126,7 @@
     "refine_kind": "skill1",
     "addition_date": "2019-12-25",
     "release_date": "2020-01-01",
+    "refine_date": "2023-03-06",
     "version": "4.0"
   },
   {
@@ -78000,6 +78146,7 @@
     "refine_kind": "skill1",
     "addition_date": "2019-12-25",
     "release_date": "2020-01-01",
+    "refine_date": "2023-03-06",
     "version": "4.0"
   },
   {
@@ -78040,6 +78187,7 @@
     "refine_kind": "skill1",
     "addition_date": "2024-08-16",
     "release_date": "2024-08-16",
+    "refine_date": "2026-09-08",
     "version": "8.8"
   },
   {
@@ -78446,6 +78594,7 @@
     "refine_kind": "skill1",
     "addition_date": "2021-10-06",
     "release_date": "2021-10-18",
+    "refine_date": "2026-04-06",
     "version": "5.10"
   },
   {
@@ -78547,6 +78696,7 @@
     "refine_kind": "skill1",
     "addition_date": "2020-07-20",
     "release_date": "2020-11-27",
+    "refine_date": "2023-08-07",
     "version": "4.11"
   },
   {
@@ -79381,6 +79531,7 @@
     "refine_kind": "skill1",
     "addition_date": "2019-07-21",
     "release_date": "2019-07-22",
+    "refine_date": "2023-02-06",
     "version": "3.7"
   },
   {
@@ -79963,6 +80114,7 @@
     "refine_kind": "skill1",
     "addition_date": "2020-05-29",
     "release_date": "2020-05-29",
+    "refine_date": "2023-03-06",
     "version": "4.5"
   },
   {
@@ -80099,6 +80251,7 @@
     "refine_kind": "skill1",
     "addition_date": "2023-10-31",
     "release_date": "2023-10-31",
+    "refine_date": "2026-09-08",
     "version": "7.10"
   },
   {
@@ -80295,6 +80448,7 @@
     "refine_kind": "skill1",
     "addition_date": "2020-12-08",
     "release_date": "2020-12-08",
+    "refine_date": "2024-12-05",
     "version": "5.0"
   },
   {
@@ -81417,6 +81571,7 @@
     "refine_kind": "skill1",
     "addition_date": "2019-06-10",
     "release_date": "2019-06-11",
+    "refine_date": "2022-12-05",
     "version": "3.6"
   },
   {
@@ -81491,6 +81646,7 @@
     "refine_kind": "skill1",
     "addition_date": "2021-05-31",
     "release_date": "2021-05-31",
+    "refine_date": "2024-07-04",
     "version": "5.5"
   },
   {
@@ -83518,6 +83674,7 @@
     ],
     "addition_date": "2020-03-05",
     "release_date": "2020-03-06",
+    "refine_date": "2024-02-06",
     "version": "4.3"
   },
   {
@@ -83820,6 +83977,7 @@
     "refine_kind": "skill1",
     "addition_date": "2021-01-07",
     "release_date": "2021-01-09",
+    "refine_date": "2024-10-03",
     "version": "5.1"
   },
   {
@@ -83895,6 +84053,7 @@
     "refine_kind": "skill1",
     "addition_date": "2021-08-17",
     "release_date": "2021-08-17",
+    "refine_date": "2023-09-06",
     "version": "5.8"
   },
   {
@@ -84875,6 +85034,7 @@
     "refine_kind": "skill1",
     "addition_date": "2021-12-28",
     "release_date": "2022-01-01",
+    "refine_date": "2025-11-05",
     "version": "6.0"
   },
   {
@@ -85380,6 +85540,7 @@
     "refine_kind": "skill1",
     "addition_date": "2020-08-31",
     "release_date": "2020-08-31",
+    "refine_date": "2024-01-09",
     "version": "4.8"
   },
   {
@@ -85496,6 +85657,7 @@
     "refine_kind": "skill1",
     "addition_date": "2019-11-19",
     "release_date": "2019-11-19",
+    "refine_date": "2023-07-06",
     "version": "3.11"
   },
   {
@@ -85570,6 +85732,7 @@
     "refine_kind": "skill1",
     "addition_date": "2021-12-24",
     "release_date": "2021-12-24",
+    "refine_date": "2024-09-05",
     "version": "6.0"
   },
   {
@@ -85610,6 +85773,7 @@
     "refine_kind": "skill1",
     "addition_date": "2021-06-30",
     "release_date": "2021-06-30",
+    "refine_date": "2024-05-07",
     "version": "5.6"
   },
   {
@@ -87031,6 +87195,7 @@
     "refine_kind": "skill1",
     "addition_date": "2022-12-05",
     "release_date": "2023-11-29",
+    "refine_date": "2026-11-05",
     "version": "7.11"
   },
   {
@@ -87712,6 +87877,7 @@
     ],
     "addition_date": "2023-06-30",
     "release_date": "2023-06-30",
+    "refine_date": "2026-07-06",
     "version": "7.6"
   },
   {
@@ -87900,6 +88066,7 @@
     "refine_kind": "skill1",
     "addition_date": "2019-11-28",
     "release_date": "2019-11-28",
+    "refine_date": "2023-01-10",
     "version": "3.11"
   },
   {
@@ -88717,6 +88884,7 @@
     ],
     "addition_date": "2020-02-27",
     "release_date": "2020-02-27",
+    "refine_date": "2023-07-06",
     "version": "4.2"
   },
   {
@@ -88780,6 +88948,7 @@
     ],
     "addition_date": "2022-01-06",
     "release_date": "2022-01-07",
+    "refine_date": "2026-06-04",
     "version": "6.1"
   },
   {
@@ -89762,6 +89931,7 @@
     "refine_kind": "skill1",
     "addition_date": "2023-01-27",
     "release_date": "2023-01-27",
+    "refine_date": "2026-01-05",
     "version": "7.1"
   },
   {
@@ -90456,6 +90626,7 @@
     "refine_kind": "skill1",
     "addition_date": "2020-12-28",
     "release_date": "2021-01-01",
+    "refine_date": "2025-07-07",
     "version": "5.0"
   },
   {
@@ -90630,6 +90801,7 @@
     ],
     "addition_date": "2019-11-06",
     "release_date": "2019-11-07",
+    "refine_date": "2022-12-05",
     "version": "3.11"
   },
   {
@@ -91123,6 +91295,7 @@
     ],
     "addition_date": "2022-08-17",
     "release_date": "2022-08-17",
+    "refine_date": "2024-09-05",
     "version": "6.8"
   },
   {
@@ -91322,6 +91495,7 @@
     "refine_kind": "skill1",
     "addition_date": "2020-12-28",
     "release_date": "2021-01-01",
+    "refine_date": "2025-06-05",
     "version": "5.0"
   },
   {
@@ -92493,6 +92667,7 @@
     "refine_kind": "skill1",
     "addition_date": "2020-12-28",
     "release_date": "2021-01-01",
+    "refine_date": "2024-09-05",
     "version": "5.0"
   },
   {
@@ -92814,6 +92989,7 @@
     "refine_kind": "skill1",
     "addition_date": "2019-08-06",
     "release_date": "2019-08-07",
+    "refine_date": "2022-12-05",
     "version": "3.8"
   },
   {
@@ -93584,6 +93760,7 @@
     "refine_kind": "skill1",
     "addition_date": "2020-04-07",
     "release_date": "2020-04-08",
+    "refine_date": "2024-02-06",
     "version": "4.4"
   },
   {
@@ -93925,6 +94102,7 @@
     "refine_kind": "skill1",
     "addition_date": "2022-10-31",
     "release_date": "2022-10-31",
+    "refine_date": "2025-10-06",
     "version": "6.10"
   },
   {
@@ -94117,6 +94295,7 @@
     ],
     "addition_date": "2021-05-20",
     "release_date": "2021-05-20",
+    "refine_date": "2026-07-06",
     "version": "5.5"
   },
   {
@@ -96189,6 +96368,7 @@
     "refine_kind": "skill1",
     "addition_date": "2019-09-19",
     "release_date": "2019-09-19",
+    "refine_date": "2023-01-10",
     "version": "3.9"
   },
   {
@@ -97049,6 +97229,7 @@
     "refine_kind": "skill1",
     "addition_date": "2019-12-25",
     "release_date": "2019-12-25",
+    "refine_date": "2023-03-06",
     "version": "4.0"
   },
   {
@@ -97848,6 +98029,7 @@
     "refine_kind": "skill1",
     "addition_date": "2020-02-06",
     "release_date": "2020-02-06",
+    "refine_date": "2023-05-08",
     "version": "4.2"
   },
   {
@@ -97975,6 +98157,7 @@
     "refine_kind": "skill1",
     "addition_date": "2019-08-06",
     "release_date": "2019-08-12",
+    "refine_date": "2023-01-10",
     "version": "3.8"
   },
   {
@@ -99408,7 +99591,8 @@
     "tier": 1,
     "range": 2,
     "might": 14,
-    "refine_kind": "skill1"
+    "refine_kind": "skill1",
+    "refine_date": "2026-01-05"
   },
   {
     "id": "SID_連魔弾",
@@ -99591,6 +99775,7 @@
     "refine_kind": "skill1",
     "addition_date": "2022-02-18",
     "release_date": "2022-02-18",
+    "refine_date": "2026-07-06",
     "version": "6.2"
   },
   {
@@ -100112,6 +100297,7 @@
     "refine_kind": "skill1",
     "addition_date": "2022-04-28",
     "release_date": "2022-04-28",
+    "refine_date": "2025-11-05",
     "version": "6.4"
   },
   {
@@ -101784,6 +101970,7 @@
     "refine_kind": "skill1",
     "addition_date": "2022-05-09",
     "release_date": "2022-05-10",
+    "refine_date": "2026-11-05",
     "version": "6.5"
   },
   {
@@ -101843,6 +102030,7 @@
     "refine_kind": "skill1",
     "addition_date": "2021-02-16",
     "release_date": "2021-02-16",
+    "refine_date": "2025-04-03",
     "version": "5.2"
   },
   {
@@ -103030,6 +103218,7 @@
     "refine_kind": "skill1",
     "addition_date": "2021-02-16",
     "release_date": "2021-03-30",
+    "refine_date": "2024-03-06",
     "version": "5.3"
   },
   {
@@ -103176,6 +103365,7 @@
     "refine_kind": "skill1",
     "addition_date": "2020-08-06",
     "release_date": "2020-08-07",
+    "refine_date": "2024-11-05",
     "version": "4.8"
   },
   {
@@ -104427,6 +104617,7 @@
     "refine_kind": "skill1",
     "addition_date": "2019-12-16",
     "release_date": "2019-12-16",
+    "refine_date": "2023-01-10",
     "version": "4.0"
   },
   {
@@ -104548,6 +104739,7 @@
     "refine_kind": "skill1",
     "addition_date": "2020-01-30",
     "release_date": "2020-01-30",
+    "refine_date": "2023-05-08",
     "version": "4.1"
   },
   {
@@ -104664,6 +104856,7 @@
     "refine_kind": "skill1",
     "addition_date": "2019-10-21",
     "release_date": "2019-10-21",
+    "refine_date": "2023-03-06",
     "version": "3.10"
   },
   {
@@ -105262,6 +105455,7 @@
     "refine_kind": "skill1",
     "addition_date": "2021-02-16",
     "release_date": "2021-02-16",
+    "refine_date": "2025-03-06",
     "version": "5.2"
   },
   {
@@ -109766,6 +109960,7 @@
     ],
     "addition_date": "2020-10-19",
     "release_date": "2020-10-19",
+    "refine_date": "2024-08-06",
     "version": "4.10"
   },
   {
@@ -109806,6 +110001,7 @@
     "refine_kind": "skill1",
     "addition_date": "2020-07-20",
     "release_date": "2020-07-20",
+    "refine_date": "2024-05-07",
     "version": "4.7"
   },
   {
@@ -110418,6 +110614,7 @@
     "refine_kind": "skill1",
     "addition_date": "2021-10-18",
     "release_date": "2021-10-18",
+    "refine_date": "2025-12-05",
     "version": "5.10"
   },
   {
@@ -110567,6 +110764,7 @@
     ],
     "addition_date": "2022-08-31",
     "release_date": "2022-08-31",
+    "refine_date": "2025-05-07",
     "version": "6.8"
   },
   {
@@ -112393,6 +112591,7 @@
     "refine_kind": "skill1",
     "addition_date": "2019-10-21",
     "release_date": "2019-10-21",
+    "refine_date": "2023-04-06",
     "version": "3.10"
   },
   {
@@ -112433,6 +112632,7 @@
     "refine_kind": "skill1",
     "addition_date": "2021-04-19",
     "release_date": "2021-04-19",
+    "refine_date": "2026-03-05",
     "version": "5.4"
   },
   {
@@ -112473,6 +112673,7 @@
     "refine_kind": "skill1",
     "addition_date": "2022-01-28",
     "release_date": "2022-01-28",
+    "refine_date": "2025-03-06",
     "version": "6.1"
   },
   {
@@ -113089,6 +113290,7 @@
     "refine_kind": "skill1",
     "addition_date": "2020-07-06",
     "release_date": "2020-07-08",
+    "refine_date": "2024-07-04",
     "version": "4.7"
   },
   {
@@ -114871,6 +115073,7 @@
     "refine_kind": "skill1",
     "addition_date": "2020-12-25",
     "release_date": "2020-12-25",
+    "refine_date": "2024-01-09",
     "version": "5.0"
   },
   {
@@ -115439,6 +115642,7 @@
     "refine_kind": "skill1",
     "addition_date": "2020-06-18",
     "release_date": "2020-06-18",
+    "refine_date": "2024-05-07",
     "version": "4.6"
   },
   {
@@ -115635,6 +115839,7 @@
     "refine_kind": "skill1",
     "addition_date": "2020-07-06",
     "release_date": "2020-07-08",
+    "refine_date": "2024-08-06",
     "version": "4.7"
   },
   {
@@ -115869,6 +116074,7 @@
     "refine_kind": "skill1",
     "addition_date": "2021-06-21",
     "release_date": "2021-06-21",
+    "refine_date": "2026-10-06",
     "version": "5.6"
   },
   {
@@ -116156,6 +116362,7 @@
     ],
     "addition_date": "2020-10-19",
     "release_date": "2020-10-19",
+    "refine_date": "2024-11-05",
     "version": "4.10"
   },
   {
@@ -117546,6 +117753,7 @@
     "refine_kind": "skill1",
     "addition_date": "2020-11-05",
     "release_date": "2020-11-06",
+    "refine_date": "2025-04-03",
     "version": "4.11"
   },
   {
@@ -117586,6 +117794,7 @@
     "refine_kind": "skill1",
     "addition_date": "2020-09-18",
     "release_date": "2020-09-18",
+    "refine_date": "2024-11-05",
     "version": "4.9"
   },
   {
@@ -117940,6 +118149,7 @@
     ],
     "addition_date": "2019-12-16",
     "release_date": "2019-12-16",
+    "refine_date": "2022-12-05",
     "version": "4.0"
   },
   {
@@ -118594,6 +118804,7 @@
     "refine_kind": "skill1",
     "addition_date": "2023-08-16",
     "release_date": "2023-08-16",
+    "refine_date": "2025-09-04",
     "version": "7.8"
   },
   {
@@ -118671,6 +118882,7 @@
     ],
     "addition_date": "2024-08-16",
     "release_date": "2024-08-16",
+    "refine_date": "2026-09-08",
     "version": "8.8"
   },
   {
@@ -118944,6 +119156,7 @@
     "refine_kind": "skill1",
     "addition_date": "2020-02-06",
     "release_date": "2020-02-06",
+    "refine_date": "2023-06-07",
     "version": "4.2"
   },
   {
@@ -120013,6 +120226,7 @@
     "refine_kind": "skill1",
     "addition_date": "2020-10-19",
     "release_date": "2020-10-19",
+    "refine_date": "2024-12-05",
     "version": "4.10"
   },
   {
@@ -120053,6 +120267,7 @@
     "refine_kind": "skill1",
     "addition_date": "2022-04-18",
     "release_date": "2022-04-18",
+    "refine_date": "2026-08-06",
     "version": "6.4"
   },
   {
@@ -120147,6 +120362,7 @@
     "refine_kind": "skill1",
     "addition_date": "2021-07-19",
     "release_date": "2021-07-19",
+    "refine_date": "2025-12-05",
     "version": "5.7"
   },
   {
@@ -120224,6 +120440,7 @@
     "refine_kind": "skill1",
     "addition_date": "2020-11-17",
     "release_date": "2020-11-17",
+    "refine_date": "2024-08-06",
     "version": "4.11"
   },
   {
@@ -120769,6 +120986,7 @@
     "refine_kind": "skill1",
     "addition_date": "2021-05-06",
     "release_date": "2021-05-07",
+    "refine_date": "2025-05-07",
     "version": "5.5"
   },
   {
@@ -120904,6 +121122,7 @@
     "refine_kind": "skill1",
     "addition_date": "2021-04-19",
     "release_date": "2021-04-19",
+    "refine_date": "2026-04-06",
     "version": "5.4"
   },
   {
@@ -121080,6 +121299,7 @@
     "refine_kind": "skill1",
     "addition_date": "2021-04-05",
     "release_date": "2021-04-06",
+    "refine_date": "2025-07-07",
     "version": "5.4"
   },
   {
@@ -121120,6 +121340,7 @@
     "refine_kind": "skill1",
     "addition_date": "2020-12-08",
     "release_date": "2020-12-08",
+    "refine_date": "2025-01-06",
     "version": "5.0"
   },
   {
@@ -122208,6 +122429,7 @@
     "refine_kind": "skill1",
     "addition_date": "2020-11-05",
     "release_date": "2020-11-06",
+    "refine_date": "2025-03-06",
     "version": "4.11"
   },
   {
@@ -122265,6 +122487,7 @@
     "refine_kind": "skill1",
     "addition_date": "2021-05-06",
     "release_date": "2021-05-07",
+    "refine_date": "2025-06-05",
     "version": "5.5"
   },
   {
@@ -123307,6 +123530,7 @@
     "refine_kind": "skill1",
     "addition_date": "2023-08-16",
     "release_date": "2023-08-16",
+    "refine_date": "2025-09-04",
     "version": "7.8"
   },
   {
@@ -123850,6 +124074,7 @@
     "refine_kind": "skill1",
     "addition_date": "2021-05-06",
     "release_date": "2021-05-07",
+    "refine_date": "2025-07-07",
     "version": "5.5"
   },
   {
@@ -123904,6 +124129,7 @@
     "refine_kind": "skill1",
     "addition_date": "2019-12-05",
     "release_date": "2019-12-11",
+    "refine_date": "2023-07-06",
     "version": "4.0"
   },
   {
@@ -124238,6 +124464,7 @@
     "refine_kind": "skill1",
     "addition_date": "2019-07-21",
     "release_date": "2019-07-22",
+    "refine_date": "2023-04-06",
     "version": "3.7"
   },
   {
@@ -124407,6 +124634,7 @@
     "refine_kind": "skill1",
     "addition_date": "2020-06-30",
     "release_date": "2020-06-30",
+    "refine_date": "2023-08-07",
     "version": "4.6"
   },
   {
@@ -124576,6 +124804,7 @@
     "refine_kind": "skill1",
     "addition_date": "2020-03-31",
     "release_date": "2020-03-31",
+    "refine_date": "2023-07-06",
     "version": "4.3"
   },
   {
@@ -124619,6 +124848,7 @@
     ],
     "addition_date": "2019-09-19",
     "release_date": "2019-09-19",
+    "refine_date": "2023-02-06",
     "version": "3.9"
   },
   {
@@ -124659,6 +124889,7 @@
     "refine_kind": "skill1",
     "addition_date": "2019-12-05",
     "release_date": "2019-12-06",
+    "refine_date": "2023-11-06",
     "version": "4.0"
   },
   {
@@ -125098,6 +125329,7 @@
     ],
     "addition_date": "2021-11-04",
     "release_date": "2021-11-30",
+    "refine_date": "2024-11-05",
     "version": "5.11"
   },
   {
@@ -125651,6 +125883,7 @@
     "refine_kind": "skill1",
     "addition_date": "2022-09-16",
     "release_date": "2022-09-17",
+    "refine_date": "2026-10-06",
     "version": "6.9"
   },
   {
@@ -126077,6 +126310,7 @@
     "refine_kind": "skill1",
     "addition_date": "2021-05-20",
     "release_date": "2021-05-20",
+    "refine_date": "2026-06-04",
     "version": "5.5"
   },
   {
@@ -126444,6 +126678,7 @@
     "refine_kind": "skill1",
     "addition_date": "2020-04-20",
     "release_date": "2020-04-20",
+    "refine_date": "2023-12-06",
     "version": "4.4"
   },
   {
@@ -126682,6 +126917,7 @@
     "refine_kind": "skill1",
     "addition_date": "2022-05-09",
     "release_date": "2022-05-11",
+    "refine_date": "2026-05-07",
     "version": "6.5"
   },
   {
@@ -127298,6 +127534,7 @@
     ],
     "addition_date": "2020-04-20",
     "release_date": "2020-04-20",
+    "refine_date": "2024-01-09",
     "version": "4.4"
   },
   {
@@ -127360,6 +127597,7 @@
     "refine_kind": "skill1",
     "addition_date": "2020-01-08",
     "release_date": "2020-01-09",
+    "refine_date": "2023-08-07",
     "version": "4.1"
   },
   {
@@ -127553,6 +127791,7 @@
     ],
     "addition_date": "2022-02-25",
     "release_date": "2022-02-28",
+    "refine_date": "2025-03-06",
     "version": "6.2"
   },
   {
@@ -128057,6 +128296,7 @@
     "refine_kind": "skill1",
     "addition_date": "2019-09-19",
     "release_date": "2019-09-19",
+    "refine_date": "2023-04-06",
     "version": "3.9"
   },
   {
@@ -128471,6 +128711,7 @@
     "refine_kind": "skill1",
     "addition_date": "2023-12-06",
     "release_date": "2023-12-07",
+    "refine_date": "2026-11-05",
     "version": "8.0"
   },
   {
@@ -129555,6 +129796,7 @@
     ],
     "addition_date": "2020-03-18",
     "release_date": "2020-03-18",
+    "refine_date": "2023-07-06",
     "version": "4.3"
   },
   {
@@ -129596,6 +129838,7 @@
     "refine_kind": "skill1",
     "addition_date": "2021-02-04",
     "release_date": "2021-02-05",
+    "refine_date": "2025-10-06",
     "version": "5.2"
   },
   {
