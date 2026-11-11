@@ -34014,9 +34014,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2017-11-28",
-    "release_date": "2017-12-04",
-    "version": "2.0"
+    "addition_date": "2020-05-07",
+    "release_date": "2020-05-07",
+    "release_date_verified": "manually",
+    "version": "4.5"
   },
   {
     "id": "SID_闇魔道の研究書",
