@@ -79836,9 +79836,10 @@
     "eff": [
       "flying"
     ],
-    "addition_date": "2017-08-15",
-    "release_date": "2017-08-15",
-    "version": "1.6"
+    "addition_date": "2018-10-09",
+    "release_date": "2018-10-09",
+    "release_date_verified": "manually",
+    "version": "2.10"
   },
   {
     "id": "SID_ニザヴェリルの弩弓",
@@ -106954,9 +106955,10 @@
     "might": 16,
     "has_refine": true,
     "refines_max_sp": 400,
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2018-10-09",
+    "release_date": "2018-10-09",
+    "release_date_verified": "manually",
+    "version": "2.10"
   },
   {
     "id": "SID_孤高の剣_死",
@@ -106973,9 +106975,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2018-10-09",
+    "release_date": "2018-10-09",
+    "release_date_verified": "manually",
+    "version": "2.10"
   },
   {
     "id": "SID_隠棲のブレス",
@@ -126707,9 +126710,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2017-08-15",
-    "release_date": "2017-08-15",
-    "version": "1.6"
+    "addition_date": "2018-10-09",
+    "release_date": "2018-10-09",
+    "release_date_verified": "manually",
+    "version": "2.10"
   },
   {
     "id": "SID_紫竜山の荒弓",
