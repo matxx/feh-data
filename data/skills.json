@@ -19905,9 +19905,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2020-07-20",
-    "release_date": "2020-07-20",
-    "version": "4.7"
+    "addition_date": "2024-07-04",
+    "release_date": "2024-07-04",
+    "release_date_verified": "manually",
+    "version": "8.7"
   },
   {
     "id": "SID_王者の刃",
@@ -129678,9 +129679,10 @@
     "eff": [
       "flying"
     ],
-    "addition_date": "2020-08-18",
-    "release_date": "2020-08-18",
-    "version": "4.8"
+    "addition_date": "2022-09-06",
+    "release_date": "2022-09-06",
+    "release_date_verified": "manually",
+    "version": "6.9"
   },
   {
     "id": "SID_風の部族の金棒",
