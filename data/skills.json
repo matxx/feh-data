@@ -32489,9 +32489,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2017-08-15",
-    "release_date": "2017-08-21",
-    "version": "1.6"
+    "addition_date": "2020-11-05",
+    "release_date": "2020-11-05",
+    "release_date_verified": "manually",
+    "version": "4.11"
   },
   {
     "id": "SID_曲射",
@@ -120641,9 +120642,10 @@
       "armored",
       "cavalry"
     ],
-    "addition_date": "2018-01-12",
-    "release_date": "2018-01-12",
-    "version": "2.1"
+    "addition_date": "2020-11-05",
+    "release_date": "2020-11-05",
+    "release_date_verified": "manually",
+    "version": "4.11"
   },
   {
     "id": "SID_サーリャの禁呪",
