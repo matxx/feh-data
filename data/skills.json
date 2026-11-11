@@ -25053,9 +25053,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2017-11-28",
-    "release_date": "2017-12-04",
-    "version": "2.0"
+    "addition_date": "2020-08-06",
+    "release_date": "2020-08-06",
+    "release_date_verified": "manually",
+    "version": "4.8"
   },
   {
     "id": "SID_可憐に色づく飾り卵",
@@ -101771,9 +101772,10 @@
     "eff": [
       "flying"
     ],
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2020-08-06",
+    "release_date": "2020-08-06",
+    "release_date_verified": "manually",
+    "version": "4.8"
   },
   {
     "id": "SID_セツナの緩弓_無",
@@ -101793,9 +101795,10 @@
     "eff": [
       "flying"
     ],
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2020-08-06",
+    "release_date": "2020-08-06",
+    "release_date_verified": "manually",
+    "version": "4.8"
   },
   {
     "id": "SID_皆への七つの贈り物",
@@ -106172,9 +106175,10 @@
     "might": 16,
     "has_refine": true,
     "refines_max_sp": 400,
-    "addition_date": "2017-06-14",
-    "release_date": "2017-06-16",
-    "version": "1.4"
+    "addition_date": "2020-08-06",
+    "release_date": "2020-08-06",
+    "release_date_verified": "manually",
+    "version": "4.8"
   },
   {
     "id": "SID_笑面の斧_奥",
@@ -106191,9 +106195,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2017-06-14",
-    "release_date": "2017-06-16",
-    "version": "1.4"
+    "addition_date": "2020-08-06",
+    "release_date": "2020-08-06",
+    "release_date_verified": "manually",
+    "version": "4.8"
   },
   {
     "id": "SID_冷笑の遊弓",
@@ -123237,9 +123242,10 @@
     "eff": [
       "flying"
     ],
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2020-08-06",
+    "release_date": "2020-08-06",
+    "release_date_verified": "manually",
+    "version": "4.8"
   },
   {
     "id": "SID_魔道軍将の書_相",
@@ -123259,9 +123265,10 @@
     "eff": [
       "flying"
     ],
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2020-08-06",
+    "release_date": "2020-08-06",
+    "release_date_verified": "manually",
+    "version": "4.8"
   },
   {
     "id": "SID_純理の書",
