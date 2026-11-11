@@ -96628,9 +96628,10 @@
     "might": 11,
     "has_refine": true,
     "refines_max_sp": 400,
-    "addition_date": "2019-07-07",
-    "release_date": "2019-07-07",
-    "version": "3.6"
+    "addition_date": "2019-07-08",
+    "release_date": "2019-07-08",
+    "release_date_verified": "manually",
+    "version": "3.7"
   },
   {
     "id": "SID_明日の聖騎士の剣_強",
@@ -96647,10 +96648,11 @@
     "range": 1,
     "might": 11,
     "refine_kind": "skill1",
-    "addition_date": "2019-07-07",
-    "release_date": "2019-07-07",
-    "refine_date": "2019-07-07",
-    "version": "3.6"
+    "addition_date": "2019-07-08",
+    "release_date": "2019-07-08",
+    "release_date_verified": "manually",
+    "refine_date": "2019-07-08",
+    "version": "3.7"
   },
   {
     "id": "SID_聖王女の弓",
@@ -115525,9 +115527,10 @@
     "might": 16,
     "has_refine": true,
     "refines_max_sp": 400,
-    "addition_date": "2019-07-07",
-    "release_date": "2019-07-07",
-    "version": "3.6"
+    "addition_date": "2019-07-08",
+    "release_date": "2019-07-08",
+    "release_date_verified": "manually",
+    "version": "3.7"
   },
   {
     "id": "SID_未来の聖騎士の槍_一",
@@ -115544,10 +115547,11 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2019-07-07",
-    "release_date": "2019-07-07",
-    "refine_date": "2019-07-07",
-    "version": "3.6"
+    "addition_date": "2019-07-08",
+    "release_date": "2019-07-08",
+    "release_date_verified": "manually",
+    "refine_date": "2019-07-08",
+    "version": "3.7"
   },
   {
     "id": "SID_飛燕金剛の構え1",
