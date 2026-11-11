@@ -19153,9 +19153,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2018-02-09",
-    "release_date": "2018-02-09",
-    "version": "2.2"
+    "addition_date": "2021-04-05",
+    "release_date": "2021-04-05",
+    "release_date_verified": "manually",
+    "version": "5.4"
   },
   {
     "id": "SID_ベルセルクの斧",
@@ -55462,9 +55463,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2018-09-06",
-    "release_date": "2018-09-07",
-    "version": "2.9"
+    "addition_date": "2021-04-05",
+    "release_date": "2021-04-05",
+    "release_date_verified": "manually",
+    "version": "5.4"
   },
   {
     "id": "SID_有利状態の弓",
@@ -58899,9 +58901,10 @@
     "range": 2,
     "might": 14,
     "refine_kind": "skill1",
-    "addition_date": "2018-03-09",
-    "release_date": "2018-03-09",
-    "version": "2.3"
+    "addition_date": "2021-04-05",
+    "release_date": "2021-04-05",
+    "release_date_verified": "manually",
+    "version": "5.4"
   },
   {
     "id": "SID_禁書ギムレー",
