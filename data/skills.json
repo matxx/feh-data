@@ -34592,9 +34592,10 @@
     "eff": [
       "armored"
     ],
-    "addition_date": "2017-09-15",
-    "release_date": "2017-09-15",
-    "version": "1.7"
+    "addition_date": "2018-07-09",
+    "release_date": "2018-07-09",
+    "release_date_verified": "manually",
+    "version": "2.7"
   },
   {
     "id": "SID_義勇の槍_構",
@@ -34614,9 +34615,10 @@
     "eff": [
       "armored"
     ],
-    "addition_date": "2017-09-15",
-    "release_date": "2017-09-15",
-    "version": "1.7"
+    "addition_date": "2018-07-09",
+    "release_date": "2018-07-09",
+    "release_date_verified": "manually",
+    "version": "2.7"
   },
   {
     "id": "SID_暁天の神楽鈴",
@@ -41490,9 +41492,10 @@
     "might": 16,
     "has_refine": true,
     "refines_max_sp": 400,
-    "addition_date": "2017-04-26",
-    "release_date": "2017-04-26",
-    "version": "1.2"
+    "addition_date": "2018-07-09",
+    "release_date": "2018-07-09",
+    "release_date_verified": "manually",
+    "version": "2.7"
   },
   {
     "id": "SID_傭兵団の戦斧_指",
@@ -41509,9 +41512,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2017-04-26",
-    "release_date": "2017-04-26",
-    "version": "1.2"
+    "addition_date": "2018-07-09",
+    "release_date": "2018-07-09",
+    "release_date_verified": "manually",
+    "version": "2.7"
   },
   {
     "id": "SID_水の飛沫",
@@ -92180,9 +92184,10 @@
     "might": 14,
     "has_refine": true,
     "refines_max_sp": 400,
-    "addition_date": "2017-06-14",
-    "release_date": "2017-06-14",
-    "version": "1.4"
+    "addition_date": "2018-07-09",
+    "release_date": "2018-07-09",
+    "release_date_verified": "manually",
+    "version": "2.7"
   },
   {
     "id": "SID_カタリナの書_謀",
@@ -92199,9 +92204,10 @@
     "range": 2,
     "might": 14,
     "refine_kind": "skill1",
-    "addition_date": "2017-06-14",
-    "release_date": "2017-06-14",
-    "version": "1.4"
+    "addition_date": "2018-07-09",
+    "release_date": "2018-07-09",
+    "release_date_verified": "manually",
+    "version": "2.7"
   },
   {
     "id": "SID_研鑽重ねし魔道の力",
