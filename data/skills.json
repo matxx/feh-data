@@ -6893,9 +6893,10 @@
     "eff": [
       "flying"
     ],
-    "addition_date": "2017-02-27",
-    "release_date": "2017-02-27",
-    "version": "1.0"
+    "addition_date": "2019-03-07",
+    "release_date": "2019-03-07",
+    "release_date_verified": "manually",
+    "version": "3.3"
   },
   {
     "id": "SID_銀の宝弓_封",
@@ -6917,6 +6918,7 @@
     ],
     "addition_date": "2019-03-07",
     "release_date": "2019-03-07",
+    "release_date_verified": "manually",
     "version": "3.3"
   },
   {
@@ -19204,9 +19206,10 @@
     "might": 16,
     "has_refine": true,
     "refines_max_sp": 400,
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2019-08-06",
+    "release_date": "2019-08-06",
+    "release_date_verified": "manually",
+    "version": "3.8"
   },
   {
     "id": "SID_ベルカの殺斧_消",
@@ -19225,6 +19228,7 @@
     "refine_kind": "skill1",
     "addition_date": "2019-08-06",
     "release_date": "2019-08-06",
+    "release_date_verified": "manually",
     "version": "3.8"
   },
   {
@@ -22406,9 +22410,10 @@
     "might": 14,
     "has_refine": true,
     "refines_max_sp": 400,
-    "addition_date": "2017-05-15",
-    "release_date": "2017-05-15",
-    "version": "1.3"
+    "addition_date": "2019-08-06",
+    "release_date": "2019-08-06",
+    "release_date_verified": "manually",
+    "version": "3.8"
   },
   {
     "id": "SID_金蘭の書_連",
@@ -22427,6 +22432,7 @@
     "refine_kind": "skill1",
     "addition_date": "2019-08-06",
     "release_date": "2019-08-06",
+    "release_date_verified": "manually",
     "version": "3.8"
   },
   {
@@ -22888,9 +22894,10 @@
     "eff": [
       "flying"
     ],
-    "addition_date": "2017-04-14",
-    "release_date": "2017-04-14",
-    "version": "1.2"
+    "addition_date": "2019-05-09",
+    "release_date": "2019-05-09",
+    "release_date_verified": "manually",
+    "version": "3.5"
   },
   {
     "id": "SID_盲愛の弓_切",
@@ -22912,6 +22919,7 @@
     ],
     "addition_date": "2019-05-09",
     "release_date": "2019-05-09",
+    "release_date_verified": "manually",
     "version": "3.5"
   },
   {
@@ -25679,9 +25687,10 @@
     "might": 16,
     "has_refine": true,
     "refines_max_sp": 400,
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2019-04-09",
+    "release_date": "2019-04-09",
+    "release_date_verified": "manually",
+    "version": "3.4"
   },
   {
     "id": "SID_猛牛の剣_連",
@@ -25700,6 +25709,7 @@
     "refine_kind": "skill1",
     "addition_date": "2019-04-09",
     "release_date": "2019-04-09",
+    "release_date_verified": "manually",
     "version": "3.4"
   },
   {
@@ -25716,9 +25726,10 @@
     "might": 16,
     "has_refine": true,
     "refines_max_sp": 400,
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2019-05-09",
+    "release_date": "2019-05-09",
+    "release_date_verified": "manually",
+    "version": "3.5"
   },
   {
     "id": "SID_若き猛牛の槍_連",
@@ -25737,6 +25748,7 @@
     "refine_kind": "skill1",
     "addition_date": "2019-05-09",
     "release_date": "2019-05-09",
+    "release_date_verified": "manually",
     "version": "3.5"
   },
   {
@@ -30593,9 +30605,10 @@
     "might": 16,
     "has_refine": true,
     "refines_max_sp": 400,
-    "addition_date": "2017-06-14",
-    "release_date": "2017-06-14",
-    "version": "1.4"
+    "addition_date": "2019-11-06",
+    "release_date": "2019-11-06",
+    "release_date_verified": "manually",
+    "version": "3.11"
   },
   {
     "id": "SID_異邦の秘剣_攻",
@@ -30614,6 +30627,7 @@
     "refine_kind": "skill1",
     "addition_date": "2019-11-06",
     "release_date": "2019-11-06",
+    "release_date_verified": "manually",
     "version": "3.11"
   },
   {
@@ -34698,9 +34712,10 @@
     "might": 16,
     "has_refine": true,
     "refines_max_sp": 400,
-    "addition_date": "2017-04-14",
-    "release_date": "2017-04-14",
-    "version": "1.2"
+    "addition_date": "2019-05-09",
+    "release_date": "2019-05-09",
+    "release_date_verified": "manually",
+    "version": "3.5"
   },
   {
     "id": "SID_払暁の槍_構",
@@ -34719,6 +34734,7 @@
     "refine_kind": "skill1",
     "addition_date": "2019-05-09",
     "release_date": "2019-05-09",
+    "release_date_verified": "manually",
     "version": "3.5"
   },
   {
@@ -39316,9 +39332,10 @@
     "eff": [
       "flying"
     ],
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2019-10-08",
+    "release_date": "2019-10-08",
+    "release_date_verified": "manually",
+    "version": "3.10"
   },
   {
     "id": "SID_貴族的な弓_強",
@@ -39340,6 +39357,7 @@
     ],
     "addition_date": "2019-10-08",
     "release_date": "2019-10-08",
+    "release_date_verified": "manually",
     "version": "3.10"
   },
   {
@@ -45775,9 +45793,10 @@
     "might": 14,
     "has_refine": true,
     "refines_max_sp": 400,
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2019-03-07",
+    "release_date": "2019-03-07",
+    "release_date_verified": "manually",
+    "version": "3.3"
   },
   {
     "id": "SID_悠久の書_構",
@@ -45796,6 +45815,7 @@
     "refine_kind": "skill1",
     "addition_date": "2019-03-07",
     "release_date": "2019-03-07",
+    "release_date_verified": "manually",
     "version": "3.3"
   },
   {
@@ -53661,9 +53681,10 @@
     "eff": [
       "armored"
     ],
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2019-10-08",
+    "release_date": "2019-10-08",
+    "release_date_verified": "manually",
+    "version": "3.10"
   },
   {
     "id": "SID_フレデリクの堅斧_一",
@@ -53685,6 +53706,7 @@
     ],
     "addition_date": "2019-10-08",
     "release_date": "2019-10-08",
+    "release_date_verified": "manually",
     "version": "3.10"
   },
   {
@@ -57014,9 +57036,10 @@
     "might": 16,
     "has_refine": true,
     "refines_max_sp": 400,
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2018-12-11",
+    "release_date": "2018-12-11",
+    "release_date_verified": "manually",
+    "version": "3.0"
   },
   {
     "id": "SID_剣闘士の剛剣_絆",
@@ -57035,6 +57058,7 @@
     "refine_kind": "skill1",
     "addition_date": "2018-12-11",
     "release_date": "2018-12-11",
+    "release_date_verified": "manually",
     "version": "3.0"
   },
   {
@@ -57854,9 +57878,10 @@
     "might": 16,
     "has_refine": true,
     "refines_max_sp": 400,
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2019-11-06",
+    "release_date": "2019-11-06",
+    "release_date_verified": "manually",
+    "version": "3.11"
   },
   {
     "id": "SID_ツバキの金薙刀_完",
@@ -57875,6 +57900,7 @@
     "refine_kind": "skill1",
     "addition_date": "2019-11-06",
     "release_date": "2019-11-06",
+    "release_date_verified": "manually",
     "version": "3.11"
   },
   {
@@ -58103,9 +58129,10 @@
     "might": 16,
     "has_refine": true,
     "refines_max_sp": 400,
-    "addition_date": "2017-08-15",
-    "release_date": "2017-08-15",
-    "version": "1.6"
+    "addition_date": "2019-02-07",
+    "release_date": "2019-02-07",
+    "release_date_verified": "manually",
+    "version": "3.2"
   },
   {
     "id": "SID_グラドの戦斧_強",
@@ -58124,6 +58151,7 @@
     "refine_kind": "skill1",
     "addition_date": "2019-02-07",
     "release_date": "2019-02-07",
+    "release_date_verified": "manually",
     "version": "3.2"
   },
   {
@@ -60532,9 +60560,10 @@
     "might": 16,
     "has_refine": true,
     "refines_max_sp": 400,
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2019-10-08",
+    "release_date": "2019-10-08",
+    "release_date_verified": "manually",
+    "version": "3.10"
   },
   {
     "id": "SID_守護者の巨斧_凪",
@@ -60553,6 +60582,7 @@
     "refine_kind": "skill1",
     "addition_date": "2019-10-08",
     "release_date": "2019-10-08",
+    "release_date_verified": "manually",
     "version": "3.10"
   },
   {
@@ -61381,9 +61411,10 @@
     "eff": [
       "armored"
     ],
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2019-04-09",
+    "release_date": "2019-04-09",
+    "release_date_verified": "manually",
+    "version": "3.4"
   },
   {
     "id": "SID_カザハナの麗刀_一",
@@ -61405,6 +61436,7 @@
     ],
     "addition_date": "2019-04-09",
     "release_date": "2019-04-09",
+    "release_date_verified": "manually",
     "version": "3.4"
   },
   {
@@ -63011,9 +63043,10 @@
     "eff": [
       "cavalry"
     ],
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2019-07-08",
+    "release_date": "2019-07-08",
+    "release_date_verified": "manually",
+    "version": "3.7"
   },
   {
     "id": "SID_山の隠者の書_梟",
@@ -63035,6 +63068,7 @@
     ],
     "addition_date": "2019-07-08",
     "release_date": "2019-07-08",
+    "release_date_verified": "manually",
     "version": "3.7"
   },
   {
@@ -63634,9 +63668,10 @@
     "might": 16,
     "has_refine": true,
     "refines_max_sp": 400,
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2019-02-07",
+    "release_date": "2019-02-07",
+    "release_date_verified": "manually",
+    "version": "3.2"
   },
   {
     "id": "SID_ヒナタの猛刀_獅",
@@ -63655,6 +63690,7 @@
     "refine_kind": "skill1",
     "addition_date": "2019-02-07",
     "release_date": "2019-02-07",
+    "release_date_verified": "manually",
     "version": "3.2"
   },
   {
@@ -68032,9 +68068,10 @@
     "might": 14,
     "has_refine": true,
     "refines_max_sp": 400,
-    "addition_date": "2017-05-15",
-    "release_date": "2017-05-15",
-    "version": "1.3"
+    "addition_date": "2019-08-06",
+    "release_date": "2019-08-06",
+    "release_date_verified": "manually",
+    "version": "3.8"
   },
   {
     "id": "SID_金石の書_特",
@@ -68053,6 +68090,7 @@
     "refine_kind": "skill1",
     "addition_date": "2019-08-06",
     "release_date": "2019-08-06",
+    "release_date_verified": "manually",
     "version": "3.8"
   },
   {
@@ -68632,9 +68670,10 @@
     "might": 14,
     "has_refine": true,
     "refines_max_sp": 400,
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2019-02-07",
+    "release_date": "2019-02-07",
+    "release_date_verified": "manually",
+    "version": "3.2"
   },
   {
     "id": "SID_アイリスの書_波",
@@ -68653,6 +68692,7 @@
     "refine_kind": "skill1",
     "addition_date": "2019-02-07",
     "release_date": "2019-02-07",
+    "release_date_verified": "manually",
     "version": "3.2"
   },
   {
@@ -70117,9 +70157,10 @@
     "might": 14,
     "has_refine": true,
     "refines_max_sp": 400,
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2019-06-10",
+    "release_date": "2019-06-10",
+    "release_date_verified": "manually",
+    "version": "3.6"
   },
   {
     "id": "SID_カゲロウの眩惑針_軽",
@@ -70138,6 +70179,7 @@
     "refine_kind": "skill1",
     "addition_date": "2019-06-10",
     "release_date": "2019-06-10",
+    "release_date_verified": "manually",
     "version": "3.6"
   },
   {
@@ -74446,9 +74488,10 @@
     "might": 16,
     "has_refine": true,
     "refines_max_sp": 400,
-    "addition_date": "2017-09-15",
-    "release_date": "2017-09-15",
-    "version": "1.7"
+    "addition_date": "2019-06-10",
+    "release_date": "2019-06-10",
+    "release_date_verified": "manually",
+    "version": "3.6"
   },
   {
     "id": "SID_傭兵団の長槍_紋",
@@ -74467,6 +74510,7 @@
     "refine_kind": "skill1",
     "addition_date": "2019-06-10",
     "release_date": "2019-06-10",
+    "release_date_verified": "manually",
     "version": "3.6"
   },
   {
@@ -80177,9 +80221,10 @@
     "eff": [
       "flying"
     ],
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2019-02-07",
+    "release_date": "2019-02-07",
+    "release_date_verified": "manually",
+    "version": "3.2"
   },
   {
     "id": "SID_ゼロの虐弓_柔",
@@ -80201,6 +80246,7 @@
     ],
     "addition_date": "2019-02-07",
     "release_date": "2019-02-07",
+    "release_date_verified": "manually",
     "version": "3.2"
   },
   {
@@ -81627,9 +81673,10 @@
     "eff": [
       "armored"
     ],
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2019-02-07",
+    "release_date": "2019-02-07",
+    "release_date_verified": "manually",
+    "version": "3.2"
   },
   {
     "id": "SID_オボロの漆薙刀_防",
@@ -81651,6 +81698,7 @@
     ],
     "addition_date": "2019-02-07",
     "release_date": "2019-02-07",
+    "release_date_verified": "manually",
     "version": "3.2"
   },
   {
@@ -84219,9 +84267,10 @@
     "might": 16,
     "has_refine": true,
     "refines_max_sp": 400,
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2019-04-09",
+    "release_date": "2019-04-09",
+    "release_date_verified": "manually",
+    "version": "3.4"
   },
   {
     "id": "SID_黒豹の槍_連",
@@ -84240,6 +84289,7 @@
     "refine_kind": "skill1",
     "addition_date": "2019-04-09",
     "release_date": "2019-04-09",
+    "release_date_verified": "manually",
     "version": "3.4"
   },
   {
@@ -84256,9 +84306,10 @@
     "might": 16,
     "has_refine": true,
     "refines_max_sp": 400,
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2019-05-09",
+    "release_date": "2019-05-09",
+    "release_date_verified": "manually",
+    "version": "3.5"
   },
   {
     "id": "SID_若き黒豹の剣_連",
@@ -84277,6 +84328,7 @@
     "refine_kind": "skill1",
     "addition_date": "2019-05-09",
     "release_date": "2019-05-09",
+    "release_date_verified": "manually",
     "version": "3.5"
   },
   {
@@ -85105,9 +85157,10 @@
     "might": 16,
     "has_refine": true,
     "refines_max_sp": 400,
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2019-04-09",
+    "release_date": "2019-04-09",
+    "release_date_verified": "manually",
+    "version": "3.4"
   },
   {
     "id": "SID_ピエリの小槍_殺",
@@ -85126,6 +85179,7 @@
     "refine_kind": "skill1",
     "addition_date": "2019-04-09",
     "release_date": "2019-04-09",
+    "release_date_verified": "manually",
     "version": "3.4"
   },
   {
@@ -93188,9 +93242,10 @@
     "eff": [
       "flying"
     ],
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2019-11-06",
+    "release_date": "2019-11-06",
+    "release_date_verified": "manually",
+    "version": "3.11"
   },
   {
     "id": "SID_弓騎士の名弓_周",
@@ -93212,6 +93267,7 @@
     ],
     "addition_date": "2019-11-06",
     "release_date": "2019-11-06",
+    "release_date_verified": "manually",
     "version": "3.11"
   },
   {
@@ -99020,9 +99076,10 @@
     "might": 14,
     "has_refine": true,
     "refines_max_sp": 400,
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2019-06-10",
+    "release_date": "2019-06-10",
+    "release_date_verified": "manually",
+    "version": "3.6"
   },
   {
     "id": "SID_サイゾウの爆炎針_強",
@@ -99041,6 +99098,7 @@
     "refine_kind": "skill1",
     "addition_date": "2019-06-10",
     "release_date": "2019-06-10",
+    "release_date_verified": "manually",
     "version": "3.6"
   },
   {
@@ -101454,9 +101512,10 @@
     "eff": [
       "armored"
     ],
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2019-08-06",
+    "release_date": "2019-08-06",
+    "release_date_verified": "manually",
+    "version": "3.8"
   },
   {
     "id": "SID_ルーナの鋭剣_奥",
@@ -101478,6 +101537,7 @@
     ],
     "addition_date": "2019-08-06",
     "release_date": "2019-08-06",
+    "release_date_verified": "manually",
     "version": "3.8"
   },
   {
@@ -104776,9 +104836,10 @@
     "might": 16,
     "has_refine": true,
     "refines_max_sp": 400,
-    "addition_date": "2017-08-15",
-    "release_date": "2017-08-15",
-    "version": "1.6"
+    "addition_date": "2019-02-07",
+    "release_date": "2019-02-07",
+    "release_date_verified": "manually",
+    "version": "3.2"
   },
   {
     "id": "SID_真銀の聖剣_指",
@@ -104797,6 +104858,7 @@
     "refine_kind": "skill1",
     "addition_date": "2019-02-07",
     "release_date": "2019-02-07",
+    "release_date_verified": "manually",
     "version": "3.2"
   },
   {
@@ -114371,9 +114433,10 @@
     "might": 14,
     "has_refine": true,
     "refines_max_sp": 400,
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2019-07-08",
+    "release_date": "2019-07-08",
+    "release_date_verified": "manually",
+    "version": "3.7"
   },
   {
     "id": "SID_密偵の暗器_撃",
@@ -114392,6 +114455,7 @@
     "refine_kind": "skill1",
     "addition_date": "2019-07-08",
     "release_date": "2019-07-08",
+    "release_date_verified": "manually",
     "version": "3.7"
   },
   {
@@ -117724,9 +117788,10 @@
     "might": 16,
     "has_refine": true,
     "refines_max_sp": 400,
-    "addition_date": "2018-04-24",
-    "release_date": "2018-04-24",
-    "version": "2.4"
+    "addition_date": "2019-11-06",
+    "release_date": "2019-11-06",
+    "release_date_verified": "manually",
+    "version": "3.11"
   },
   {
     "id": "SID_白夜の竜石_凪",
@@ -117745,6 +117810,7 @@
     "refine_kind": "skill1",
     "addition_date": "2019-11-06",
     "release_date": "2019-11-06",
+    "release_date_verified": "manually",
     "version": "3.11"
   },
   {
@@ -120753,9 +120819,10 @@
     "might": 14,
     "has_refine": true,
     "refines_max_sp": 400,
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2019-02-07",
+    "release_date": "2019-02-07",
+    "release_date_verified": "manually",
+    "version": "3.2"
   },
   {
     "id": "SID_サーリャの禁呪_呪",
@@ -120774,6 +120841,7 @@
     "refine_kind": "skill1",
     "addition_date": "2019-02-07",
     "release_date": "2019-02-07",
+    "release_date_verified": "manually",
     "version": "3.2"
   },
   {
@@ -129011,9 +129079,10 @@
     "might": 16,
     "has_refine": true,
     "refines_max_sp": 400,
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2018-12-11",
+    "release_date": "2018-12-11",
+    "release_date_verified": "manually",
+    "version": "3.0"
   },
   {
     "id": "SID_白騎の長剣_ト",
@@ -129032,6 +129101,7 @@
     "refine_kind": "skill1",
     "addition_date": "2018-12-11",
     "release_date": "2018-12-11",
+    "release_date_verified": "manually",
     "version": "3.0"
   },
   {
@@ -129048,9 +129118,10 @@
     "might": 16,
     "has_refine": true,
     "refines_max_sp": 400,
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2018-12-11",
+    "release_date": "2018-12-11",
+    "release_date_verified": "manually",
+    "version": "3.0"
   },
   {
     "id": "SID_白騎の直槍_ト",
@@ -129069,6 +129140,7 @@
     "refine_kind": "skill1",
     "addition_date": "2018-12-11",
     "release_date": "2018-12-11",
+    "release_date_verified": "manually",
     "version": "3.0"
   },
   {
@@ -129088,9 +129160,10 @@
     "eff": [
       "armored"
     ],
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2018-12-11",
+    "release_date": "2018-12-11",
+    "release_date_verified": "manually",
+    "version": "3.0"
   },
   {
     "id": "SID_白騎の短槍_ト",
@@ -129112,6 +129185,7 @@
     ],
     "addition_date": "2018-12-11",
     "release_date": "2018-12-11",
+    "release_date_verified": "manually",
     "version": "3.0"
   },
   {
