@@ -4071,7 +4071,7 @@
     "refines_max_sp": 400,
     "addition_date": "2022-01-06",
     "release_date": "2022-01-06",
-    "release_date_verified": "bot_create",
+    "release_date_verified": "manually",
     "version": "6.1"
   },
   {
@@ -4091,7 +4091,7 @@
     "refine_kind": "skill1",
     "addition_date": "2022-01-06",
     "release_date": "2022-01-06",
-    "release_date_verified": "bot_update",
+    "release_date_verified": "manually",
     "version": "6.1"
   },
   {
@@ -6577,7 +6577,7 @@
     "refine_kind": "skill1",
     "addition_date": "2022-11-07",
     "release_date": "2022-11-07",
-    "release_date_verified": "bot_update",
+    "release_date_verified": "manually",
     "version": "6.11"
   },
   {
@@ -16191,7 +16191,7 @@
     "refine_kind": "skill1",
     "addition_date": "2022-04-06",
     "release_date": "2022-04-06",
-    "release_date_verified": "bot_update",
+    "release_date_verified": "manually",
     "version": "6.4"
   },
   {
@@ -16841,7 +16841,7 @@
     "refines_max_sp": 400,
     "addition_date": "2022-03-07",
     "release_date": "2022-03-07",
-    "release_date_verified": "bot_create",
+    "release_date_verified": "manually",
     "version": "6.3"
   },
   {
@@ -16861,7 +16861,7 @@
     "refine_kind": "skill1",
     "addition_date": "2022-03-07",
     "release_date": "2022-03-07",
-    "release_date_verified": "bot_update",
+    "release_date_verified": "manually",
     "version": "6.3"
   },
   {
@@ -22398,7 +22398,7 @@
     "refine_kind": "skill1",
     "addition_date": "2022-02-07",
     "release_date": "2022-02-07",
-    "release_date_verified": "bot_update",
+    "release_date_verified": "manually",
     "version": "6.2"
   },
   {
@@ -23179,7 +23179,7 @@
     ],
     "addition_date": "2022-02-07",
     "release_date": "2022-02-07",
-    "release_date_verified": "bot_create",
+    "release_date_verified": "manually",
     "version": "6.2"
   },
   {
@@ -23202,7 +23202,7 @@
     ],
     "addition_date": "2022-02-07",
     "release_date": "2022-02-07",
-    "release_date_verified": "bot_update",
+    "release_date_verified": "manually",
     "version": "6.2"
   },
   {
@@ -24184,7 +24184,7 @@
     "refine_kind": "skill1",
     "addition_date": "2022-10-05",
     "release_date": "2022-10-05",
-    "release_date_verified": "bot_update",
+    "release_date_verified": "manually",
     "version": "6.10"
   },
   {
@@ -24204,7 +24204,7 @@
     "refine_kind": "skill1",
     "addition_date": "2022-10-05",
     "release_date": "2022-10-05",
-    "release_date_verified": "bot_update",
+    "release_date_verified": "manually",
     "version": "6.10"
   },
   {
@@ -24536,7 +24536,7 @@
     "refine_kind": "skill1",
     "addition_date": "2022-03-07",
     "release_date": "2022-03-07",
-    "release_date_verified": "bot_update",
+    "release_date_verified": "manually",
     "version": "6.3"
   },
   {
@@ -25849,7 +25849,7 @@
     ],
     "addition_date": "2022-10-05",
     "release_date": "2022-10-05",
-    "release_date_verified": "bot_update",
+    "release_date_verified": "manually",
     "version": "6.10"
   },
   {
@@ -25872,7 +25872,7 @@
     ],
     "addition_date": "2022-10-05",
     "release_date": "2022-10-05",
-    "release_date_verified": "bot_update",
+    "release_date_verified": "manually",
     "version": "6.10"
   },
   {
@@ -28444,7 +28444,7 @@
     "refine_kind": "skill1",
     "addition_date": "2022-11-07",
     "release_date": "2022-11-07",
-    "release_date_verified": "bot_update",
+    "release_date_verified": "manually",
     "version": "6.11"
   },
   {
@@ -30745,7 +30745,7 @@
     ],
     "addition_date": "2022-11-07",
     "release_date": "2022-11-07",
-    "release_date_verified": "bot_update",
+    "release_date_verified": "manually",
     "version": "6.11"
   },
   {
@@ -31639,7 +31639,7 @@
     "refine_kind": "skill1",
     "addition_date": "2022-06-07",
     "release_date": "2022-06-07",
-    "release_date_verified": "bot_update",
+    "release_date_verified": "manually",
     "version": "6.6"
   },
   {
@@ -31659,7 +31659,7 @@
     "refine_kind": "skill1",
     "addition_date": "2022-06-07",
     "release_date": "2022-06-07",
-    "release_date_verified": "bot_update",
+    "release_date_verified": "manually",
     "version": "6.6"
   },
   {
@@ -34270,7 +34270,7 @@
     ],
     "addition_date": "2022-09-06",
     "release_date": "2022-09-06",
-    "release_date_verified": "bot_update",
+    "release_date_verified": "manually",
     "version": "6.9"
   },
   {
@@ -35192,7 +35192,7 @@
     "refine_kind": "skill1",
     "addition_date": "2022-10-05",
     "release_date": "2022-10-05",
-    "release_date_verified": "bot_update",
+    "release_date_verified": "manually",
     "version": "6.10"
   },
   {
@@ -35515,7 +35515,7 @@
     ],
     "addition_date": "2022-10-05",
     "release_date": "2022-10-05",
-    "release_date_verified": "bot_update",
+    "release_date_verified": "manually",
     "version": "6.10"
   },
   {
@@ -38692,7 +38692,7 @@
     ],
     "addition_date": "2022-05-09",
     "release_date": "2022-05-09",
-    "release_date_verified": "bot_update",
+    "release_date_verified": "manually",
     "version": "6.5"
   },
   {
@@ -40447,7 +40447,7 @@
     ],
     "addition_date": "2022-08-08",
     "release_date": "2022-08-08",
-    "release_date_verified": "bot_update",
+    "release_date_verified": "manually",
     "version": "6.8"
   },
   {
@@ -41006,7 +41006,7 @@
     "refines_max_sp": 400,
     "addition_date": "2022-03-07",
     "release_date": "2022-03-07",
-    "release_date_verified": "bot_create",
+    "release_date_verified": "manually",
     "version": "6.3"
   },
   {
@@ -41026,7 +41026,7 @@
     "refine_kind": "skill1",
     "addition_date": "2022-03-07",
     "release_date": "2022-03-07",
-    "release_date_verified": "bot_update",
+    "release_date_verified": "manually",
     "version": "6.3"
   },
   {
@@ -41574,7 +41574,7 @@
     "refine_kind": "skill1",
     "addition_date": "2022-01-06",
     "release_date": "2022-01-06",
-    "release_date_verified": "bot_update",
+    "release_date_verified": "manually",
     "version": "6.1"
   },
   {
@@ -42594,7 +42594,7 @@
     ],
     "addition_date": "2022-07-05",
     "release_date": "2022-07-05",
-    "release_date_verified": "bot_update",
+    "release_date_verified": "manually",
     "version": "6.7"
   },
   {
@@ -44786,7 +44786,7 @@
     ],
     "addition_date": "2022-05-09",
     "release_date": "2022-05-09",
-    "release_date_verified": "bot_update",
+    "release_date_verified": "manually",
     "version": "6.5"
   },
   {
@@ -48101,7 +48101,7 @@
     "refine_kind": "skill1",
     "addition_date": "2022-05-09",
     "release_date": "2022-05-09",
-    "release_date_verified": "bot_update",
+    "release_date_verified": "manually",
     "version": "6.5"
   },
   {
@@ -48645,7 +48645,7 @@
     "refine_kind": "skill1",
     "addition_date": "2022-02-07",
     "release_date": "2022-02-07",
-    "release_date_verified": "bot_update",
+    "release_date_verified": "manually",
     "version": "6.2"
   },
   {
@@ -52132,7 +52132,7 @@
     "refine_kind": "skill1",
     "addition_date": "2022-09-06",
     "release_date": "2022-09-06",
-    "release_date_verified": "bot_update",
+    "release_date_verified": "manually",
     "version": "6.9"
   },
   {
@@ -53659,7 +53659,7 @@
     "refine_kind": "skill1",
     "addition_date": "2022-04-06",
     "release_date": "2022-04-06",
-    "release_date_verified": "bot_update",
+    "release_date_verified": "manually",
     "version": "6.4"
   },
   {
@@ -53679,7 +53679,7 @@
     "refine_kind": "skill1",
     "addition_date": "2022-04-06",
     "release_date": "2022-04-06",
-    "release_date_verified": "bot_update",
+    "release_date_verified": "manually",
     "version": "6.4"
   },
   {
@@ -53838,7 +53838,7 @@
     "refine_kind": "skill1",
     "addition_date": "2022-08-08",
     "release_date": "2022-08-08",
-    "release_date_verified": "bot_update",
+    "release_date_verified": "manually",
     "version": "6.8"
   },
   {
@@ -56923,7 +56923,7 @@
     "refine_kind": "skill1",
     "addition_date": "2022-07-05",
     "release_date": "2022-07-05",
-    "release_date_verified": "bot_update",
+    "release_date_verified": "manually",
     "version": "6.7"
   },
   {
@@ -56964,7 +56964,7 @@
     "refine_kind": "skill1",
     "addition_date": "2022-02-07",
     "release_date": "2022-02-07",
-    "release_date_verified": "bot_update",
+    "release_date_verified": "manually",
     "version": "6.2"
   },
   {
@@ -62053,7 +62053,7 @@
     "refine_kind": "skill1",
     "addition_date": "2022-04-06",
     "release_date": "2022-04-06",
-    "release_date_verified": "bot_update",
+    "release_date_verified": "manually",
     "version": "6.4"
   },
   {
@@ -62245,7 +62245,7 @@
     "refines_max_sp": 400,
     "addition_date": "2022-07-05",
     "release_date": "2022-07-05",
-    "release_date_verified": "bot_create",
+    "release_date_verified": "manually",
     "version": "6.7"
   },
   {
@@ -62265,7 +62265,7 @@
     "refine_kind": "skill1",
     "addition_date": "2022-07-05",
     "release_date": "2022-07-05",
-    "release_date_verified": "bot_update",
+    "release_date_verified": "manually",
     "version": "6.7"
   },
   {
@@ -63671,7 +63671,7 @@
     "refine_kind": "skill1",
     "addition_date": "2022-03-07",
     "release_date": "2022-03-07",
-    "release_date_verified": "bot_update",
+    "release_date_verified": "manually",
     "version": "6.3"
   },
   {
@@ -65743,7 +65743,7 @@
     ],
     "addition_date": "2022-11-07",
     "release_date": "2022-11-07",
-    "release_date_verified": "bot_update",
+    "release_date_verified": "manually",
     "version": "6.11"
   },
   {
@@ -65785,7 +65785,7 @@
     "refines_max_sp": 400,
     "addition_date": "2022-02-07",
     "release_date": "2022-02-07",
-    "release_date_verified": "bot_create",
+    "release_date_verified": "manually",
     "version": "6.2"
   },
   {
@@ -65805,7 +65805,7 @@
     "refine_kind": "skill1",
     "addition_date": "2022-02-07",
     "release_date": "2022-02-07",
-    "release_date_verified": "bot_update",
+    "release_date_verified": "manually",
     "version": "6.2"
   },
   {
@@ -66540,7 +66540,7 @@
     "refines_max_sp": 400,
     "addition_date": "2022-05-09",
     "release_date": "2022-05-09",
-    "release_date_verified": "bot_create",
+    "release_date_verified": "manually",
     "version": "6.5"
   },
   {
@@ -66560,7 +66560,7 @@
     "refine_kind": "skill1",
     "addition_date": "2022-05-09",
     "release_date": "2022-05-09",
-    "release_date_verified": "bot_update",
+    "release_date_verified": "manually",
     "version": "6.5"
   },
   {
@@ -66922,7 +66922,7 @@
     "refine_kind": "skill1",
     "addition_date": "2022-05-09",
     "release_date": "2022-05-09",
-    "release_date_verified": "bot_update",
+    "release_date_verified": "manually",
     "version": "6.5"
   },
   {
@@ -68632,7 +68632,7 @@
     "refines_max_sp": 400,
     "addition_date": "2021-12-06",
     "release_date": "2021-12-06",
-    "release_date_verified": "bot_create",
+    "release_date_verified": "manually",
     "version": "6.0"
   },
   {
@@ -68652,7 +68652,7 @@
     "refine_kind": "skill1",
     "addition_date": "2021-12-06",
     "release_date": "2021-12-06",
-    "release_date_verified": "bot_update",
+    "release_date_verified": "manually",
     "version": "6.0"
   },
   {
@@ -71100,7 +71100,7 @@
     "refine_kind": "skill1",
     "addition_date": "2022-05-09",
     "release_date": "2022-05-09",
-    "release_date_verified": "bot_update",
+    "release_date_verified": "manually",
     "version": "6.5"
   },
   {
@@ -71120,7 +71120,7 @@
     "refine_kind": "skill1",
     "addition_date": "2022-05-09",
     "release_date": "2022-05-09",
-    "release_date_verified": "bot_update",
+    "release_date_verified": "manually",
     "version": "6.5"
   },
   {
@@ -71366,7 +71366,7 @@
     "refine_kind": "skill1",
     "addition_date": "2022-06-07",
     "release_date": "2022-06-07",
-    "release_date_verified": "bot_update",
+    "release_date_verified": "manually",
     "version": "6.6"
   },
   {
@@ -72083,7 +72083,7 @@
     "refines_max_sp": 400,
     "addition_date": "2022-11-07",
     "release_date": "2022-11-07",
-    "release_date_verified": "bot_create",
+    "release_date_verified": "manually",
     "version": "6.11"
   },
   {
@@ -72103,7 +72103,7 @@
     "refine_kind": "skill1",
     "addition_date": "2022-11-07",
     "release_date": "2022-11-07",
-    "release_date_verified": "bot_update",
+    "release_date_verified": "manually",
     "version": "6.11"
   },
   {
@@ -73618,7 +73618,7 @@
     "refine_kind": "skill1",
     "addition_date": "2022-08-08",
     "release_date": "2022-08-08",
-    "release_date_verified": "bot_update",
+    "release_date_verified": "manually",
     "version": "6.8"
   },
   {
@@ -75457,7 +75457,7 @@
     ],
     "addition_date": "2022-08-08",
     "release_date": "2022-08-08",
-    "release_date_verified": "bot_update",
+    "release_date_verified": "manually",
     "version": "6.8"
   },
   {
@@ -75656,7 +75656,7 @@
     "refine_kind": "skill1",
     "addition_date": "2022-02-07",
     "release_date": "2022-02-07",
-    "release_date_verified": "bot_update",
+    "release_date_verified": "manually",
     "version": "6.2"
   },
   {
@@ -78467,7 +78467,7 @@
     "refine_kind": "skill1",
     "addition_date": "2022-09-06",
     "release_date": "2022-09-06",
-    "release_date_verified": "bot_update",
+    "release_date_verified": "manually",
     "version": "6.9"
   },
   {
@@ -86940,7 +86940,7 @@
     "refine_kind": "skill1",
     "addition_date": "2022-03-07",
     "release_date": "2022-03-07",
-    "release_date_verified": "bot_update",
+    "release_date_verified": "manually",
     "version": "6.3"
   },
   {
@@ -88611,7 +88611,7 @@
     ],
     "addition_date": "2022-03-07",
     "release_date": "2022-03-07",
-    "release_date_verified": "bot_create",
+    "release_date_verified": "manually",
     "version": "6.3"
   },
   {
@@ -88634,7 +88634,7 @@
     ],
     "addition_date": "2022-03-07",
     "release_date": "2022-03-07",
-    "release_date_verified": "bot_update",
+    "release_date_verified": "manually",
     "version": "6.3"
   },
   {
@@ -91690,7 +91690,7 @@
     "refine_kind": "skill1",
     "addition_date": "2022-06-07",
     "release_date": "2022-06-07",
-    "release_date_verified": "bot_update",
+    "release_date_verified": "manually",
     "version": "6.6"
   },
   {
@@ -91757,7 +91757,7 @@
     ],
     "addition_date": "2022-10-05",
     "release_date": "2022-10-05",
-    "release_date_verified": "bot_update",
+    "release_date_verified": "manually",
     "version": "6.10"
   },
   {
@@ -98137,7 +98137,7 @@
     "refine_kind": "skill1",
     "addition_date": "2022-07-05",
     "release_date": "2022-07-05",
-    "release_date_verified": "bot_update",
+    "release_date_verified": "manually",
     "version": "6.7"
   },
   {
@@ -99530,7 +99530,7 @@
     "refine_kind": "skill1",
     "addition_date": "2022-11-07",
     "release_date": "2022-11-07",
-    "release_date_verified": "bot_update",
+    "release_date_verified": "manually",
     "version": "6.11"
   },
   {
@@ -99692,7 +99692,7 @@
     ],
     "addition_date": "2022-06-07",
     "release_date": "2022-06-07",
-    "release_date_verified": "bot_update",
+    "release_date_verified": "manually",
     "version": "6.6"
   },
   {
@@ -102647,7 +102647,7 @@
     "refine_kind": "skill1",
     "addition_date": "2022-07-05",
     "release_date": "2022-07-05",
-    "release_date_verified": "bot_update",
+    "release_date_verified": "manually",
     "version": "6.7"
   },
   {
@@ -106394,7 +106394,7 @@
     ],
     "addition_date": "2022-11-07",
     "release_date": "2022-11-07",
-    "release_date_verified": "bot_create",
+    "release_date_verified": "manually",
     "version": "6.11"
   },
   {
@@ -106417,7 +106417,7 @@
     ],
     "addition_date": "2022-11-07",
     "release_date": "2022-11-07",
-    "release_date_verified": "bot_update",
+    "release_date_verified": "manually",
     "version": "6.11"
   },
   {
@@ -112725,7 +112725,7 @@
     "refine_kind": "skill1",
     "addition_date": "2022-01-06",
     "release_date": "2022-01-06",
-    "release_date_verified": "bot_update",
+    "release_date_verified": "manually",
     "version": "6.1"
   },
   {
@@ -116599,7 +116599,7 @@
     "refine_kind": "skill1",
     "addition_date": "2022-01-06",
     "release_date": "2022-01-06",
-    "release_date_verified": "bot_update",
+    "release_date_verified": "manually",
     "version": "6.1"
   },
   {
@@ -117592,7 +117592,7 @@
     "refine_kind": "skill1",
     "addition_date": "2022-09-06",
     "release_date": "2022-09-06",
-    "release_date_verified": "bot_update",
+    "release_date_verified": "manually",
     "version": "6.9"
   },
   {
@@ -117789,7 +117789,7 @@
     ],
     "addition_date": "2021-12-06",
     "release_date": "2021-12-06",
-    "release_date_verified": "bot_update",
+    "release_date_verified": "manually",
     "version": "6.0"
   },
   {
@@ -119616,7 +119616,7 @@
     ],
     "addition_date": "2022-01-06",
     "release_date": "2022-01-06",
-    "release_date_verified": "bot_create",
+    "release_date_verified": "manually",
     "version": "6.1"
   },
   {
@@ -119639,7 +119639,7 @@
     ],
     "addition_date": "2022-01-06",
     "release_date": "2022-01-06",
-    "release_date_verified": "bot_update",
+    "release_date_verified": "manually",
     "version": "6.1"
   },
   {
@@ -119680,7 +119680,7 @@
     "refine_kind": "skill1",
     "addition_date": "2022-04-06",
     "release_date": "2022-04-06",
-    "release_date_verified": "bot_update",
+    "release_date_verified": "manually",
     "version": "6.4"
   },
   {
@@ -119844,7 +119844,7 @@
     ],
     "addition_date": "2022-07-05",
     "release_date": "2022-07-05",
-    "release_date_verified": "bot_update",
+    "release_date_verified": "manually",
     "version": "6.7"
   },
   {
@@ -119867,7 +119867,7 @@
     ],
     "addition_date": "2022-07-05",
     "release_date": "2022-07-05",
-    "release_date_verified": "bot_update",
+    "release_date_verified": "manually",
     "version": "6.7"
   },
   {
@@ -120669,7 +120669,7 @@
     "refines_max_sp": 400,
     "addition_date": "2022-09-06",
     "release_date": "2022-09-06",
-    "release_date_verified": "bot_create",
+    "release_date_verified": "manually",
     "version": "6.9"
   },
   {
@@ -120689,7 +120689,7 @@
     "refine_kind": "skill1",
     "addition_date": "2022-09-06",
     "release_date": "2022-09-06",
-    "release_date_verified": "bot_update",
+    "release_date_verified": "manually",
     "version": "6.9"
   },
   {
@@ -121265,7 +121265,7 @@
     ],
     "addition_date": "2022-01-06",
     "release_date": "2022-01-06",
-    "release_date_verified": "bot_update",
+    "release_date_verified": "manually",
     "version": "6.1"
   },
   {
@@ -121306,7 +121306,7 @@
     "refine_kind": "skill1",
     "addition_date": "2021-12-06",
     "release_date": "2021-12-06",
-    "release_date_verified": "bot_update",
+    "release_date_verified": "manually",
     "version": "6.0"
   },
   {
@@ -123465,7 +123465,7 @@
     "refines_max_sp": 400,
     "addition_date": "2022-02-07",
     "release_date": "2022-02-07",
-    "release_date_verified": "bot_create",
+    "release_date_verified": "manually",
     "version": "6.2"
   },
   {
@@ -123485,7 +123485,7 @@
     "refine_kind": "skill1",
     "addition_date": "2022-02-07",
     "release_date": "2022-02-07",
-    "release_date_verified": "bot_update",
+    "release_date_verified": "manually",
     "version": "6.2"
   },
   {
@@ -126089,7 +126089,7 @@
     "refine_kind": "skill1",
     "addition_date": "2022-04-06",
     "release_date": "2022-04-06",
-    "release_date_verified": "bot_update",
+    "release_date_verified": "manually",
     "version": "6.4"
   },
   {
@@ -126917,7 +126917,7 @@
     ],
     "addition_date": "2022-09-06",
     "release_date": "2022-09-06",
-    "release_date_verified": "bot_update",
+    "release_date_verified": "manually",
     "version": "6.9"
   },
   {
@@ -127556,7 +127556,7 @@
     "refines_max_sp": 400,
     "addition_date": "2022-08-08",
     "release_date": "2022-08-08",
-    "release_date_verified": "bot_create",
+    "release_date_verified": "manually",
     "version": "6.8"
   },
   {
@@ -127576,7 +127576,7 @@
     "refine_kind": "skill1",
     "addition_date": "2022-08-08",
     "release_date": "2022-08-08",
-    "release_date_verified": "bot_update",
+    "release_date_verified": "manually",
     "version": "6.8"
   },
   {
@@ -130872,7 +130872,7 @@
     "refine_kind": "skill1",
     "addition_date": "2021-12-06",
     "release_date": "2021-12-06",
-    "release_date_verified": "bot_update",
+    "release_date_verified": "manually",
     "version": "6.0"
   },
   {
@@ -130913,7 +130913,7 @@
     "refine_kind": "skill1",
     "addition_date": "2021-12-06",
     "release_date": "2021-12-06",
-    "release_date_verified": "bot_update",
+    "release_date_verified": "manually",
     "version": "6.0"
   },
   {
@@ -130954,7 +130954,7 @@
     "refine_kind": "skill1",
     "addition_date": "2022-06-07",
     "release_date": "2022-06-07",
-    "release_date_verified": "bot_update",
+    "release_date_verified": "manually",
     "version": "6.6"
   },
   {
@@ -130995,7 +130995,7 @@
     "refine_kind": "skill1",
     "addition_date": "2022-08-08",
     "release_date": "2022-08-08",
-    "release_date_verified": "bot_update",
+    "release_date_verified": "manually",
     "version": "6.8"
   },
   {
@@ -131210,7 +131210,7 @@
     "refine_kind": "skill1",
     "addition_date": "2022-08-08",
     "release_date": "2022-08-08",
-    "release_date_verified": "bot_update",
+    "release_date_verified": "manually",
     "version": "6.8"
   },
   {
