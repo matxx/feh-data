@@ -31004,8 +31004,9 @@
     "might": 10,
     "has_refine": true,
     "refines_max_sp": 400,
-    "addition_date": "2020-01-11",
-    "release_date": "2020-01-11",
+    "addition_date": "2020-01-08",
+    "release_date": "2020-01-08",
+    "release_date_verified": "manually",
     "version": "4.1"
   },
   {
@@ -31023,9 +31024,10 @@
     "range": 1,
     "might": 10,
     "refine_kind": "skill1",
-    "addition_date": "2020-01-11",
-    "release_date": "2020-01-11",
-    "refine_date": "2020-01-11",
+    "addition_date": "2020-01-08",
+    "release_date": "2020-01-08",
+    "release_date_verified": "manually",
+    "refine_date": "2020-01-08",
     "version": "4.1"
   },
   {
@@ -31077,8 +31079,9 @@
     "might": 14,
     "has_refine": true,
     "refines_max_sp": 400,
-    "addition_date": "2020-01-10",
-    "release_date": "2020-01-10",
+    "addition_date": "2020-01-08",
+    "release_date": "2020-01-08",
+    "release_date_verified": "manually",
     "version": "4.1"
   },
   {
@@ -31096,9 +31099,10 @@
     "range": 2,
     "might": 14,
     "refine_kind": "skill1",
-    "addition_date": "2020-01-10",
-    "release_date": "2020-01-10",
-    "refine_date": "2020-01-10",
+    "addition_date": "2020-01-08",
+    "release_date": "2020-01-08",
+    "release_date_verified": "manually",
+    "refine_date": "2020-01-08",
     "version": "4.1"
   },
   {
@@ -73057,9 +73061,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2018-04-11",
-    "release_date": "2018-04-11",
-    "version": "2.4"
+    "addition_date": "2020-01-08",
+    "release_date": "2020-01-08",
+    "release_date_verified": "manually",
+    "version": "4.1"
   },
   {
     "id": "SID_光のブレス",
@@ -91768,8 +91773,9 @@
     "eff": [
       "flying"
     ],
-    "addition_date": "2020-01-11",
-    "release_date": "2020-01-11",
+    "addition_date": "2020-01-08",
+    "release_date": "2020-01-08",
+    "release_date_verified": "manually",
     "version": "4.1"
   },
   {
@@ -91790,9 +91796,10 @@
     "eff": [
       "flying"
     ],
-    "addition_date": "2020-01-11",
-    "release_date": "2020-01-11",
-    "refine_date": "2020-01-11",
+    "addition_date": "2020-01-08",
+    "release_date": "2020-01-08",
+    "release_date_verified": "manually",
+    "refine_date": "2020-01-08",
     "version": "4.1"
   },
   {
