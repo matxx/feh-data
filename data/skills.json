@@ -40598,9 +40598,10 @@
     "eff": [
       "dragon"
     ],
-    "addition_date": "2017-10-16",
-    "release_date": "2017-10-16",
-    "version": "1.8"
+    "addition_date": "2019-01-10",
+    "release_date": "2019-01-10",
+    "release_date_verified": "manually",
+    "version": "3.1"
   },
   {
     "id": "SID_神獣の蜜",
@@ -79219,7 +79220,11 @@
     "refine_kind": "skill1",
     "eff": [
       "dragon"
-    ]
+    ],
+    "addition_date": "2019-01-10",
+    "release_date": "2019-01-10",
+    "release_date_verified": "manually",
+    "version": "3.1"
   },
   {
     "id": "SID_ナーガ様のために",
@@ -123450,9 +123455,10 @@
     "might": 14,
     "has_refine": true,
     "refines_max_sp": 400,
-    "addition_date": "2017-10-16",
-    "release_date": "2017-10-16",
-    "version": "1.8"
+    "addition_date": "2019-01-10",
+    "release_date": "2019-01-10",
+    "release_date_verified": "manually",
+    "version": "3.1"
   },
   {
     "id": "SID_トローン_一",
@@ -123469,9 +123475,10 @@
     "range": 2,
     "might": 14,
     "refine_kind": "skill1",
-    "addition_date": "2017-10-16",
-    "release_date": "2017-10-16",
-    "version": "1.8"
+    "addition_date": "2019-01-10",
+    "release_date": "2019-01-10",
+    "release_date_verified": "manually",
+    "version": "3.1"
   },
   {
     "id": "SID_静水の舞い1",
@@ -124710,9 +124717,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2017-02-15",
-    "release_date": "2017-02-15",
-    "version": "1.0"
+    "addition_date": "2019-01-10",
+    "release_date": "2019-01-10",
+    "release_date_verified": "manually",
+    "version": "3.1"
   },
   {
     "id": "SID_孤絶の斧",
