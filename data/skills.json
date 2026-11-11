@@ -2406,9 +2406,10 @@
         ]
       }
     },
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0",
+    "addition_date": "2017-11-28",
+    "release_date": "2017-11-28",
+    "release_date_verified": "manually",
+    "version": "2.0",
     "downgrade_ids": [
       "SID_アブゾーブ"
     ]
@@ -2428,9 +2429,10 @@
     "range": 2,
     "might": 7,
     "refine_kind": "skill1",
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2017-11-28",
+    "release_date": "2017-11-28",
+    "release_date_verified": "manually",
+    "version": "2.0"
   },
   {
     "id": "SID_アブゾーブ＋_幻",
@@ -2447,9 +2449,10 @@
     "range": 2,
     "might": 7,
     "refine_kind": "skill2",
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2017-11-28",
+    "release_date": "2017-11-28",
+    "release_date_verified": "manually",
+    "version": "2.0"
   },
   {
     "id": "SID_薄闇の王の刃",
@@ -7610,9 +7613,10 @@
         ]
       }
     },
-    "addition_date": "2018-09-14",
-    "release_date": "2018-09-14",
-    "version": "2.9",
+    "addition_date": "2017-11-28",
+    "release_date": "2017-11-28",
+    "release_date_verified": "manually",
+    "version": "2.0",
     "downgrade_ids": [
       "SID_アーマーキラー2"
     ]
@@ -7635,9 +7639,10 @@
     "eff": [
       "armored"
     ],
-    "addition_date": "2018-09-14",
-    "release_date": "2018-09-14",
-    "version": "2.9"
+    "addition_date": "2017-11-28",
+    "release_date": "2017-11-28",
+    "release_date_verified": "manually",
+    "version": "2.0"
   },
   {
     "id": "SID_三雄の双刃",
@@ -27353,9 +27358,10 @@
         ]
       }
     },
-    "addition_date": "2017-05-30",
-    "release_date": "2017-05-30",
-    "version": "1.3",
+    "addition_date": "2017-11-28",
+    "release_date": "2017-11-28",
+    "release_date_verified": "manually",
+    "version": "2.0",
     "downgrade_ids": [
       "SID_キャンドルサービス"
     ]
@@ -27375,9 +27381,10 @@
     "range": 2,
     "might": 11,
     "refine_kind": "skill1",
-    "addition_date": "2017-05-30",
-    "release_date": "2017-05-30",
-    "version": "1.3"
+    "addition_date": "2017-11-28",
+    "release_date": "2017-11-28",
+    "release_date_verified": "manually",
+    "version": "2.0"
   },
   {
     "id": "SID_キャンドル＋_幻",
@@ -27394,9 +27401,10 @@
     "range": 2,
     "might": 11,
     "refine_kind": "skill2",
-    "addition_date": "2017-05-30",
-    "release_date": "2017-05-30",
-    "version": "1.3"
+    "addition_date": "2017-11-28",
+    "release_date": "2017-11-28",
+    "release_date_verified": "manually",
+    "version": "2.0"
   },
   {
     "id": "SID_ロウソクの弓",
@@ -35359,9 +35367,10 @@
     "range": 2,
     "might": 14,
     "refine_kind": "skill1",
-    "addition_date": "2017-03-14",
-    "release_date": "2017-03-14",
-    "version": "1.1"
+    "addition_date": "2017-11-28",
+    "release_date": "2017-11-28",
+    "release_date_verified": "manually",
+    "version": "2.0"
   },
   {
     "id": "SID_デッキブラシ",
@@ -47881,9 +47890,10 @@
         ]
       }
     },
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0",
+    "addition_date": "2017-11-28",
+    "release_date": "2017-11-28",
+    "release_date_verified": "manually",
+    "version": "2.0",
     "downgrade_ids": [
       "SID_フィアー"
     ]
@@ -47903,9 +47913,10 @@
     "range": 2,
     "might": 12,
     "refine_kind": "skill1",
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2017-11-28",
+    "release_date": "2017-11-28",
+    "release_date_verified": "manually",
+    "version": "2.0"
   },
   {
     "id": "SID_フィアー＋_幻",
@@ -47922,9 +47933,10 @@
     "range": 2,
     "might": 12,
     "refine_kind": "skill2",
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2017-11-28",
+    "release_date": "2017-11-28",
+    "release_date_verified": "manually",
+    "version": "2.0"
   },
   {
     "id": "SID_フェザーソード",
@@ -54412,9 +54424,10 @@
     "eff": [
       "flying"
     ],
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2017-11-28",
+    "release_date": "2017-11-28",
+    "release_date_verified": "manually",
+    "version": "2.0"
   },
   {
     "id": "SID_風神雷神弓",
@@ -58480,9 +58493,10 @@
         ]
       }
     },
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0",
+    "addition_date": "2017-11-28",
+    "release_date": "2017-11-28",
+    "release_date_verified": "manually",
+    "version": "2.0",
     "downgrade_ids": [
       "SID_グラビティ"
     ]
@@ -58502,9 +58516,10 @@
     "range": 2,
     "might": 10,
     "refine_kind": "skill1",
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2017-11-28",
+    "release_date": "2017-11-28",
+    "release_date_verified": "manually",
+    "version": "2.0"
   },
   {
     "id": "SID_グラビティ＋_幻",
@@ -58521,9 +58536,10 @@
     "range": 2,
     "might": 10,
     "refine_kind": "skill2",
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2017-11-28",
+    "release_date": "2017-11-28",
+    "release_date_verified": "manually",
+    "version": "2.0"
   },
   {
     "id": "SID_鈍色の迷夢",
@@ -60298,9 +60314,10 @@
         ]
       }
     },
-    "addition_date": "2019-09-19",
-    "release_date": "2019-09-19",
-    "version": "3.9",
+    "addition_date": "2017-11-28",
+    "release_date": "2017-11-28",
+    "release_date_verified": "manually",
+    "version": "2.0",
     "downgrade_ids": [
       "SID_遠距離防御の弓"
     ]
@@ -61980,9 +61997,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2017-11-28",
+    "release_date": "2017-11-28",
+    "release_date_verified": "manually",
+    "version": "2.0"
   },
   {
     "id": "SID_鷹王の嘴爪",
@@ -70271,8 +70289,9 @@
         ]
       }
     },
-    "addition_date": "2017-12-02",
-    "release_date": "2017-12-02",
+    "addition_date": "2017-11-28",
+    "release_date": "2017-11-28",
+    "release_date_verified": "manually",
     "version": "2.0",
     "downgrade_ids": [
       "SID_ブラーウルフ2"
@@ -70296,8 +70315,9 @@
     "eff": [
       "cavalry"
     ],
-    "addition_date": "2017-12-02",
-    "release_date": "2017-12-02",
+    "addition_date": "2017-11-28",
+    "release_date": "2017-11-28",
+    "release_date_verified": "manually",
     "version": "2.0"
   },
   {
@@ -70409,7 +70429,8 @@
       }
     },
     "addition_date": "2017-11-28",
-    "release_date": "2017-12-02",
+    "release_date": "2017-11-28",
+    "release_date_verified": "manually",
     "version": "2.0",
     "downgrade_ids": [
       "SID_グルンウルフ2"
@@ -70434,7 +70455,8 @@
       "cavalry"
     ],
     "addition_date": "2017-11-28",
-    "release_date": "2017-12-02",
+    "release_date": "2017-11-28",
+    "release_date_verified": "manually",
     "version": "2.0"
   },
   {
@@ -70521,8 +70543,9 @@
         ]
       }
     },
-    "addition_date": "2017-12-02",
-    "release_date": "2017-12-02",
+    "addition_date": "2017-11-28",
+    "release_date": "2017-11-28",
+    "release_date_verified": "manually",
     "version": "2.0",
     "downgrade_ids": [
       "SID_ラウアウルフ2"
@@ -70546,8 +70569,9 @@
     "eff": [
       "cavalry"
     ],
-    "addition_date": "2017-12-02",
-    "release_date": "2017-12-02",
+    "addition_date": "2017-11-28",
+    "release_date": "2017-11-28",
+    "release_date_verified": "manually",
     "version": "2.0"
   },
   {
@@ -76343,9 +76367,10 @@
         ]
       }
     },
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0",
+    "addition_date": "2017-11-28",
+    "release_date": "2017-11-28",
+    "release_date_verified": "manually",
+    "version": "2.0",
     "downgrade_ids": [
       "SID_セインツ"
     ]
@@ -79072,9 +79097,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2017-02-27",
-    "release_date": "2017-02-27",
-    "version": "1.0"
+    "addition_date": "2017-11-28",
+    "release_date": "2017-11-28",
+    "release_date_verified": "manually",
+    "version": "2.0"
   },
   {
     "id": "SID_ナバタの燭台",
@@ -83627,9 +83653,10 @@
         ]
       }
     },
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0",
+    "addition_date": "2017-11-28",
+    "release_date": "2017-11-28",
+    "release_date_verified": "manually",
+    "version": "2.0",
     "downgrade_ids": [
       "SID_ペイン"
     ]
@@ -83649,9 +83676,10 @@
     "range": 2,
     "might": 10,
     "refine_kind": "skill1",
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2017-11-28",
+    "release_date": "2017-11-28",
+    "release_date_verified": "manually",
+    "version": "2.0"
   },
   {
     "id": "SID_ペイン＋_幻",
@@ -83668,9 +83696,10 @@
     "range": 2,
     "might": 10,
     "refine_kind": "skill2",
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2017-11-28",
+    "release_date": "2017-11-28",
+    "release_date_verified": "manually",
+    "version": "2.0"
   },
   {
     "id": "SID_防陣1",
@@ -84185,9 +84214,10 @@
         ]
       }
     },
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0",
+    "addition_date": "2017-11-28",
+    "release_date": "2017-11-28",
+    "release_date_verified": "manually",
+    "version": "2.0",
     "downgrade_ids": [
       "SID_パニック"
     ]
@@ -84207,9 +84237,10 @@
     "range": 2,
     "might": 11,
     "refine_kind": "skill1",
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2017-11-28",
+    "release_date": "2017-11-28",
+    "release_date_verified": "manually",
+    "version": "2.0"
   },
   {
     "id": "SID_パニック＋_幻",
@@ -84226,9 +84257,10 @@
     "range": 2,
     "might": 11,
     "refine_kind": "skill2",
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2017-11-28",
+    "release_date": "2017-11-28",
+    "release_date_verified": "manually",
+    "version": "2.0"
   },
   {
     "id": "SID_黒豹の槍",
@@ -85687,9 +85719,10 @@
         ]
       }
     },
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0",
+    "addition_date": "2017-11-28",
+    "release_date": "2017-11-28",
+    "release_date_verified": "manually",
+    "version": "2.0",
     "downgrade_ids": [
       "SID_リブロー"
     ]
@@ -92031,9 +92064,10 @@
         ]
       }
     },
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0",
+    "addition_date": "2017-11-28",
+    "release_date": "2017-11-28",
+    "release_date_verified": "manually",
+    "version": "2.0",
     "downgrade_ids": [
       "SID_リカバー"
     ]
@@ -92560,9 +92594,10 @@
         ]
       }
     },
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0",
+    "addition_date": "2017-11-28",
+    "release_date": "2017-11-28",
+    "release_date_verified": "manually",
+    "version": "2.0",
     "downgrade_ids": [
       "SID_リバース"
     ]
@@ -95356,9 +95391,10 @@
     "eff": [
       "cavalry"
     ],
-    "addition_date": "2017-07-13",
-    "release_date": "2017-07-13",
-    "version": "1.5"
+    "addition_date": "2017-11-28",
+    "release_date": "2017-11-28",
+    "release_date_verified": "manually",
+    "version": "2.0"
   },
   {
     "id": "SID_強く気高き魂の槍",
@@ -103648,9 +103684,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2017-02-15",
-    "release_date": "2017-02-15",
-    "version": "1.0"
+    "addition_date": "2017-11-28",
+    "release_date": "2017-11-28",
+    "release_date_verified": "manually",
+    "version": "2.0"
   },
   {
     "id": "SID_サイレスガード1",
@@ -105342,9 +105379,10 @@
         ]
       }
     },
-    "addition_date": "2017-08-15",
-    "release_date": "2017-08-15",
-    "version": "1.6",
+    "addition_date": "2017-11-28",
+    "release_date": "2017-11-28",
+    "release_date_verified": "manually",
+    "version": "2.0",
     "downgrade_ids": [
       "SID_キラーアクス2"
     ]
@@ -105409,9 +105447,10 @@
         ]
       }
     },
-    "addition_date": "2017-07-13",
-    "release_date": "2017-07-13",
-    "version": "1.5",
+    "addition_date": "2017-11-28",
+    "release_date": "2017-11-28",
+    "release_date_verified": "manually",
+    "version": "2.0",
     "downgrade_ids": [
       "SID_キラーボウ2"
     ]
@@ -105472,9 +105511,10 @@
         ]
       }
     },
-    "addition_date": "2017-07-13",
-    "release_date": "2017-07-13",
-    "version": "1.5",
+    "addition_date": "2017-11-28",
+    "release_date": "2017-11-28",
+    "release_date_verified": "manually",
+    "version": "2.0",
     "downgrade_ids": [
       "SID_キルソード2"
     ]
@@ -105539,9 +105579,10 @@
         ]
       }
     },
-    "addition_date": "2018-09-14",
-    "release_date": "2018-09-14",
-    "version": "2.9",
+    "addition_date": "2017-11-28",
+    "release_date": "2017-11-28",
+    "release_date_verified": "manually",
+    "version": "2.0",
     "downgrade_ids": [
       "SID_ハンマー2"
     ]
@@ -105564,9 +105605,10 @@
     "eff": [
       "armored"
     ],
-    "addition_date": "2018-09-14",
-    "release_date": "2018-09-14",
-    "version": "2.9"
+    "addition_date": "2017-11-28",
+    "release_date": "2017-11-28",
+    "release_date_verified": "manually",
+    "version": "2.0"
   },
   {
     "id": "SID_キラーランス2",
@@ -105622,9 +105664,10 @@
         ]
       }
     },
-    "addition_date": "2017-09-15",
-    "release_date": "2017-09-15",
-    "version": "1.7",
+    "addition_date": "2017-11-28",
+    "release_date": "2017-11-28",
+    "release_date_verified": "manually",
+    "version": "2.0",
     "downgrade_ids": [
       "SID_キラーランス2"
     ]
@@ -105691,9 +105734,10 @@
         ]
       }
     },
-    "addition_date": "2018-09-14",
-    "release_date": "2018-09-14",
-    "version": "2.9",
+    "addition_date": "2017-11-28",
+    "release_date": "2017-11-28",
+    "release_date_verified": "manually",
+    "version": "2.0",
     "downgrade_ids": [
       "SID_貫きの槍2"
     ]
@@ -105716,9 +105760,10 @@
     "eff": [
       "armored"
     ],
-    "addition_date": "2018-09-14",
-    "release_date": "2018-09-14",
-    "version": "2.9"
+    "addition_date": "2017-11-28",
+    "release_date": "2017-11-28",
+    "release_date_verified": "manually",
+    "version": "2.0"
   },
   {
     "id": "SID_正面隊形・自己1",
@@ -105884,9 +105929,10 @@
         ]
       }
     },
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0",
+    "addition_date": "2017-11-28",
+    "release_date": "2017-11-28",
+    "release_date_verified": "manually",
+    "version": "2.0",
     "downgrade_ids": [
       "SID_スロウ"
     ]
@@ -105906,9 +105952,10 @@
     "range": 2,
     "might": 12,
     "refine_kind": "skill1",
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2017-11-28",
+    "release_date": "2017-11-28",
+    "release_date_verified": "manually",
+    "version": "2.0"
   },
   {
     "id": "SID_スロウ＋_幻",
@@ -105925,9 +105972,10 @@
     "range": 2,
     "might": 12,
     "refine_kind": "skill2",
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2017-11-28",
+    "release_date": "2017-11-28",
+    "release_date_verified": "manually",
+    "version": "2.0"
   },
   {
     "id": "SID_響・掩撃",
@@ -106719,9 +106767,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2017-11-28",
+    "release_date": "2017-11-28",
+    "release_date_verified": "manually",
+    "version": "2.0"
   },
   {
     "id": "SID_太陽槍",
@@ -132091,9 +132140,10 @@
     "eff": [
       "cavalry"
     ],
-    "addition_date": "2017-07-13",
-    "release_date": "2017-07-13",
-    "version": "1.5"
+    "addition_date": "2017-11-28",
+    "release_date": "2017-11-28",
+    "release_date_verified": "manually",
+    "version": "2.0"
   },
   {
     "id": "SID_草原の風呼びの弓",
