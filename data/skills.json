@@ -15950,9 +15950,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2017-11-15",
-    "release_date": "2017-11-21",
-    "version": "1.8"
+    "addition_date": "2021-02-04",
+    "release_date": "2021-02-04",
+    "release_date_verified": "manually",
+    "version": "5.2"
   },
   {
     "id": "SID_オーラ",
@@ -56669,9 +56670,10 @@
     "range": 2,
     "might": 14,
     "refine_kind": "skill1",
-    "addition_date": "2018-06-08",
-    "release_date": "2018-06-08",
-    "version": "2.6"
+    "addition_date": "2021-02-04",
+    "release_date": "2021-02-04",
+    "release_date_verified": "manually",
+    "version": "5.2"
   },
   {
     "id": "SID_黄金のフォーク",
@@ -76576,9 +76578,10 @@
     "range": 1,
     "might": 11,
     "refine_kind": "skill1",
-    "addition_date": "2018-04-11",
-    "release_date": "2018-04-11",
-    "version": "2.4"
+    "addition_date": "2021-02-04",
+    "release_date": "2021-02-04",
+    "release_date_verified": "manually",
+    "version": "5.2"
   },
   {
     "id": "SID_メランコリー",
@@ -114252,9 +114255,10 @@
     "eff": [
       "flying"
     ],
-    "addition_date": "2018-09-14",
-    "release_date": "2018-09-14",
-    "version": "2.9"
+    "addition_date": "2021-02-04",
+    "release_date": "2021-02-04",
+    "release_date_verified": "manually",
+    "version": "5.2"
   },
   {
     "id": "SID_密偵の暗器",
