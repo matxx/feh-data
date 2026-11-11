@@ -16517,9 +16517,10 @@
     "eff": [
       "armored"
     ],
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2018-11-08",
+    "release_date": "2018-11-08",
+    "release_date_verified": "manually",
+    "version": "2.11"
   },
   {
     "id": "SID_バアトルの豪斧_獅",
@@ -16539,9 +16540,10 @@
     "eff": [
       "armored"
     ],
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2018-11-08",
+    "release_date": "2018-11-08",
+    "release_date_verified": "manually",
+    "version": "2.11"
   },
   {
     "id": "SID_斧の技量1",
@@ -51359,9 +51361,10 @@
     "eff": [
       "armored"
     ],
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2018-11-08",
+    "release_date": "2018-11-08",
+    "release_date_verified": "manually",
+    "version": "2.11"
   },
   {
     "id": "SID_フロリーナの誓槍_構",
@@ -51381,9 +51384,10 @@
     "eff": [
       "armored"
     ],
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2018-11-08",
+    "release_date": "2018-11-08",
+    "release_date_verified": "manually",
+    "version": "2.11"
   },
   {
     "id": "SID_怒涛・攻め立て4",
@@ -57797,9 +57801,10 @@
     "might": 16,
     "has_refine": true,
     "refines_max_sp": 400,
-    "addition_date": "2017-07-13",
-    "release_date": "2017-07-13",
-    "version": "1.5"
+    "addition_date": "2018-11-08",
+    "release_date": "2018-11-08",
+    "release_date_verified": "manually",
+    "version": "2.11"
   },
   {
     "id": "SID_黄金の短剣_特",
@@ -57816,9 +57821,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2017-07-13",
-    "release_date": "2017-07-13",
-    "version": "1.5"
+    "addition_date": "2018-11-08",
+    "release_date": "2018-11-08",
+    "release_date_verified": "manually",
+    "version": "2.11"
   },
   {
     "id": "SID_ツバキの金薙刀",
@@ -102612,9 +102618,10 @@
     "might": 16,
     "has_refine": true,
     "refines_max_sp": 400,
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2018-11-08",
+    "release_date": "2018-11-08",
+    "release_date_verified": "manually",
+    "version": "2.11"
   },
   {
     "id": "SID_シャニーの誓槍_奥",
@@ -102631,9 +102638,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2018-11-08",
+    "release_date": "2018-11-08",
+    "release_date_verified": "manually",
+    "version": "2.11"
   },
   {
     "id": "SID_戦神の鋭剣",
