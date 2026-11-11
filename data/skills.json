@@ -55899,9 +55899,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2018-08-21",
-    "release_date": "2018-08-21",
-    "version": "2.8"
+    "addition_date": "2020-09-07",
+    "release_date": "2020-09-07",
+    "release_date_verified": "manually",
+    "version": "4.9"
   },
   {
     "id": "SID_波閉ざす錨の斧",
@@ -63763,9 +63764,10 @@
     "range": 2,
     "might": 14,
     "refine_kind": "skill1",
-    "addition_date": "2018-08-21",
-    "release_date": "2018-08-21",
-    "version": "2.8"
+    "addition_date": "2020-09-07",
+    "release_date": "2020-09-07",
+    "release_date_verified": "manually",
+    "version": "4.9"
   },
   {
     "id": "SID_霧氷のナイフ",
@@ -76126,9 +76128,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2018-08-21",
-    "release_date": "2018-08-21",
-    "version": "2.8"
+    "addition_date": "2020-09-07",
+    "release_date": "2020-09-07",
+    "release_date_verified": "manually",
+    "version": "4.9"
   },
   {
     "id": "SID_マリータの剣",
@@ -96710,9 +96713,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2018-08-21",
-    "release_date": "2018-08-21",
-    "version": "2.8"
+    "addition_date": "2020-09-07",
+    "release_date": "2020-09-07",
+    "release_date_verified": "manually",
+    "version": "4.9"
   },
   {
     "id": "SID_獣人王子王女の佳肴",
