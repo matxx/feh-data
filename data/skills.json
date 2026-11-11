@@ -18963,9 +18963,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2018-02-22",
-    "release_date": "2018-02-22",
-    "version": "2.2"
+    "addition_date": "2020-07-06",
+    "release_date": "2020-07-06",
+    "release_date_verified": "manually",
+    "version": "4.7"
   },
   {
     "id": "SID_ベオクの加護",
@@ -31929,9 +31930,10 @@
     "might": 16,
     "has_refine": true,
     "refines_max_sp": 400,
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2020-07-06",
+    "release_date": "2020-07-06",
+    "release_date_verified": "manually",
+    "version": "4.7"
   },
   {
     "id": "SID_紅姫の斧_消",
@@ -31948,9 +31950,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2020-07-06",
+    "release_date": "2020-07-06",
+    "release_date_verified": "manually",
+    "version": "4.7"
   },
   {
     "id": "SID_朱傭兵の双剣",
@@ -34125,9 +34128,10 @@
     "might": 16,
     "has_refine": true,
     "refines_max_sp": 400,
-    "addition_date": "2017-07-13",
-    "release_date": "2017-07-18",
-    "version": "1.5"
+    "addition_date": "2020-07-06",
+    "release_date": "2020-07-06",
+    "release_date_verified": "manually",
+    "version": "4.7"
   },
   {
     "id": "SID_黒皇子の槍_凪",
@@ -34144,9 +34148,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2017-07-13",
-    "release_date": "2017-07-18",
-    "version": "1.5"
+    "addition_date": "2020-07-06",
+    "release_date": "2020-07-06",
+    "release_date_verified": "manually",
+    "version": "4.7"
   },
   {
     "id": "SID_暗黒の聖書",
@@ -57266,9 +57271,10 @@
     "might": 16,
     "has_refine": true,
     "refines_max_sp": 400,
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2020-07-06",
+    "release_date": "2020-07-06",
+    "release_date_verified": "manually",
+    "version": "4.7"
   },
   {
     "id": "SID_冥輝のブレス_強",
@@ -57285,9 +57291,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2020-07-06",
+    "release_date": "2020-07-06",
+    "release_date_verified": "manually",
+    "version": "4.7"
   },
   {
     "id": "SID_蛍火",
