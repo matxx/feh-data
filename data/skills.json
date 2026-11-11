@@ -16778,9 +16778,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2017-10-16",
-    "release_date": "2017-10-19",
-    "version": "1.8"
+    "addition_date": "2021-03-04",
+    "release_date": "2021-03-04",
+    "release_date_verified": "manually",
+    "version": "5.3"
   },
   {
     "id": "SID_助走・青への分断",
@@ -58963,9 +58964,10 @@
     "range": 2,
     "might": 14,
     "refine_kind": "skill1",
-    "addition_date": "2017-10-30",
-    "release_date": "2017-10-30",
-    "version": "1.8"
+    "addition_date": "2021-03-04",
+    "release_date": "2021-03-04",
+    "release_date_verified": "manually",
+    "version": "5.3"
   },
   {
     "id": "SID_グロア",
@@ -68924,9 +68926,10 @@
     "range": 2,
     "might": 14,
     "refine_kind": "skill1",
-    "addition_date": "2018-01-25",
-    "release_date": "2018-01-25",
-    "version": "2.1"
+    "addition_date": "2021-03-04",
+    "release_date": "2021-03-04",
+    "release_date_verified": "manually",
+    "version": "5.3"
   },
   {
     "id": "SID_ジョーカーの食器",
@@ -78000,9 +78003,10 @@
     "range": 2,
     "might": 14,
     "refine_kind": "skill1",
-    "addition_date": "2018-05-09",
-    "release_date": "2018-05-10",
-    "version": "2.5"
+    "addition_date": "2021-03-04",
+    "release_date": "2021-03-04",
+    "release_date_verified": "manually",
+    "version": "5.3"
   },
   {
     "id": "SID_メグスラシル",
@@ -79220,9 +79224,10 @@
     "range": 2,
     "might": 14,
     "refine_kind": "skill1",
-    "addition_date": "2018-01-25",
-    "release_date": "2018-01-26",
-    "version": "2.1"
+    "addition_date": "2021-03-04",
+    "release_date": "2021-03-04",
+    "release_date_verified": "manually",
+    "version": "5.3"
   },
   {
     "id": "SID_無銘の一門の剣",
