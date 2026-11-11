@@ -63786,9 +63786,10 @@
     "range": 2,
     "might": 14,
     "refine_kind": "skill1",
-    "addition_date": "2018-09-14",
-    "release_date": "2018-09-14",
-    "version": "2.9"
+    "addition_date": "2021-06-07",
+    "release_date": "2021-06-07",
+    "release_date_verified": "manually",
+    "version": "5.6"
   },
   {
     "id": "SID_ヘズルの聖戦士",
@@ -78729,9 +78730,10 @@
     "range": 2,
     "might": 14,
     "refine_kind": "skill1",
-    "addition_date": "2018-03-22",
-    "release_date": "2018-03-22",
-    "version": "2.3"
+    "addition_date": "2021-06-07",
+    "release_date": "2021-06-07",
+    "release_date_verified": "manually",
+    "version": "5.6"
   },
   {
     "id": "SID_蒼き殺人鬼",
@@ -85141,9 +85143,10 @@
     "range": 2,
     "might": 14,
     "refine_kind": "skill1",
-    "addition_date": "2018-01-12",
-    "release_date": "2018-01-12",
-    "version": "2.1"
+    "addition_date": "2021-06-07",
+    "release_date": "2021-06-07",
+    "release_date_verified": "manually",
+    "version": "5.6"
   },
   {
     "id": "SID_日傘",
@@ -104913,9 +104916,10 @@
     "eff": [
       "flying"
     ],
-    "addition_date": "2018-02-22",
-    "release_date": "2018-02-24",
-    "version": "2.2"
+    "addition_date": "2021-06-07",
+    "release_date": "2021-06-07",
+    "release_date_verified": "manually",
+    "version": "5.6"
   },
   {
     "id": "SID_スキンファクシ",
@@ -125802,9 +125806,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2018-06-08",
-    "release_date": "2018-06-08",
-    "version": "2.6"
+    "addition_date": "2021-06-07",
+    "release_date": "2021-06-07",
+    "release_date_verified": "manually",
+    "version": "5.6"
   },
   {
     "id": "SID_始祖の巨人の剣",
