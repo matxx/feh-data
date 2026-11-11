@@ -33746,9 +33746,10 @@
     "range": 2,
     "might": 14,
     "refine_kind": "skill1",
-    "addition_date": "2017-07-13",
-    "release_date": "2017-07-13",
-    "version": "1.5"
+    "addition_date": "2019-03-07",
+    "release_date": "2019-03-07",
+    "release_date_verified": "manually",
+    "version": "3.3"
   },
   {
     "id": "SID_暗獣・敏捷",
@@ -33942,9 +33943,10 @@
     "range": 2,
     "might": 14,
     "refine_kind": "skill1",
-    "addition_date": "2017-07-13",
-    "release_date": "2017-07-13",
-    "version": "1.5"
+    "addition_date": "2019-03-07",
+    "release_date": "2019-03-07",
+    "release_date_verified": "manually",
+    "version": "3.3"
   },
   {
     "id": "SID_暗黒教団の書",
