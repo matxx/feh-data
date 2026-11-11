@@ -20933,9 +20933,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2017-08-31",
-    "release_date": "2017-08-31",
-    "version": "1.6"
+    "addition_date": "2019-09-05",
+    "release_date": "2019-09-05",
+    "release_date_verified": "manually",
+    "version": "3.9"
   },
   {
     "id": "SID_烈火",
@@ -56087,9 +56088,10 @@
     "eff": [
       "dragon"
     ],
-    "addition_date": "2017-08-31",
-    "release_date": "2017-08-31",
-    "version": "1.6"
+    "addition_date": "2019-09-05",
+    "release_date": "2019-09-05",
+    "release_date_verified": "manually",
+    "version": "3.9"
   },
   {
     "id": "SID_迎春の剣",
@@ -78740,9 +78742,10 @@
     "eff": [
       "flying"
     ],
-    "addition_date": "2017-08-31",
-    "release_date": "2017-08-31",
-    "version": "1.6"
+    "addition_date": "2019-09-05",
+    "release_date": "2019-09-05",
+    "release_date_verified": "manually",
+    "version": "3.9"
   },
   {
     "id": "SID_ムニンの魔卵",
@@ -125459,9 +125462,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2017-08-31",
-    "release_date": "2017-08-31",
-    "version": "1.6"
+    "addition_date": "2019-09-05",
+    "release_date": "2019-09-05",
+    "release_date_verified": "manually",
+    "version": "3.9"
   },
   {
     "id": "SID_蒼烈ウルヴァン",
