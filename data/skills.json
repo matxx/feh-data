@@ -17922,9 +17922,10 @@
     "might": 16,
     "has_refine": true,
     "refines_max_sp": 400,
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2018-02-08",
+    "release_date": "2018-02-08",
+    "release_date_verified": "manually",
+    "version": "2.2"
   },
   {
     "id": "SID_バシリコス_死",
@@ -17941,9 +17942,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2018-02-08",
+    "release_date": "2018-02-08",
+    "release_date_verified": "manually",
+    "version": "2.2"
   },
   {
     "id": "SID_戦神の闇夜の杖",
@@ -44638,9 +44640,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2017-02-02",
-    "release_date": "2017-04-20",
-    "version": "1.2"
+    "addition_date": "2018-02-08",
+    "release_date": "2018-02-08",
+    "release_date_verified": "manually",
+    "version": "2.2"
   },
   {
     "id": "SID_竜の鋭鱗",
@@ -47253,7 +47256,11 @@
     "refine_kind": "skill1",
     "eff": [
       "dragon"
-    ]
+    ],
+    "addition_date": "2018-02-08",
+    "release_date": "2018-02-08",
+    "release_date_verified": "manually",
+    "version": "2.2"
   },
   {
     "id": "SID_ファルシオン外伝",
@@ -47294,7 +47301,11 @@
     "refine_kind": "skill1",
     "eff": [
       "dragon"
-    ]
+    ],
+    "addition_date": "2018-02-08",
+    "release_date": "2018-02-08",
+    "release_date_verified": "manually",
+    "version": "2.2"
   },
   {
     "id": "SID_ファルシオン",
@@ -47335,7 +47346,11 @@
     "refine_kind": "skill1",
     "eff": [
       "dragon"
-    ]
+    ],
+    "addition_date": "2018-02-08",
+    "release_date": "2018-02-08",
+    "release_date_verified": "manually",
+    "version": "2.2"
   },
   {
     "id": "SID_落星",
@@ -47975,9 +47990,10 @@
     "might": 14,
     "has_refine": true,
     "refines_max_sp": 400,
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2018-02-08",
+    "release_date": "2018-02-08",
+    "release_date_verified": "manually",
+    "version": "2.2"
   },
   {
     "id": "SID_フェリシアの氷皿_奥",
@@ -47994,9 +48010,10 @@
     "range": 2,
     "might": 14,
     "refine_kind": "skill1",
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2018-02-08",
+    "release_date": "2018-02-08",
+    "release_date_verified": "manually",
+    "version": "2.2"
   },
   {
     "id": "SID_常闇の結界",
@@ -63674,9 +63691,10 @@
     "might": 16,
     "has_refine": true,
     "refines_max_sp": 400,
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2018-02-08",
+    "release_date": "2018-02-08",
+    "release_date_verified": "manually",
+    "version": "2.2"
   },
   {
     "id": "SID_ヒノカの紅薙刀_先",
@@ -63693,9 +63711,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2018-02-08",
+    "release_date": "2018-02-08",
+    "release_date_verified": "manually",
+    "version": "2.2"
   },
   {
     "id": "SID_春に跳ぶ白兎の斧",
@@ -130017,9 +130036,10 @@
       "armored",
       "cavalry"
     ],
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2018-02-08",
+    "release_date": "2018-02-08",
+    "release_date_verified": "manually",
+    "version": "2.2"
   },
   {
     "id": "SID_ウイングソード_柔",
@@ -130040,9 +130060,10 @@
       "armored",
       "cavalry"
     ],
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2018-02-08",
+    "release_date": "2018-02-08",
+    "release_date_verified": "manually",
+    "version": "2.2"
   },
   {
     "id": "SID_扶翼ウイングスピア",
