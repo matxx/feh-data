@@ -26885,9 +26885,10 @@
     "might": 16,
     "has_refine": true,
     "refines_max_sp": 400,
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2018-05-09",
+    "release_date": "2018-05-09",
+    "release_date_verified": "manually",
+    "version": "2.5"
   },
   {
     "id": "SID_カミラの艶斧_紋",
@@ -26904,9 +26905,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2018-05-09",
+    "release_date": "2018-05-09",
+    "release_date_verified": "manually",
+    "version": "2.5"
   },
   {
     "id": "SID_継戦の斧",
@@ -95166,9 +95168,10 @@
       "armored",
       "cavalry"
     ],
-    "addition_date": "2017-04-14",
-    "release_date": "2017-04-14",
-    "version": "1.2"
+    "addition_date": "2018-05-09",
+    "release_date": "2018-05-09",
+    "release_date_verified": "manually",
+    "version": "2.5"
   },
   {
     "id": "SID_ロムファイア_柔",
@@ -95189,9 +95192,10 @@
       "armored",
       "cavalry"
     ],
-    "addition_date": "2017-04-14",
-    "release_date": "2017-04-14",
-    "version": "1.2"
+    "addition_date": "2018-05-09",
+    "release_date": "2018-05-09",
+    "release_date_verified": "manually",
+    "version": "2.5"
   },
   {
     "id": "SID_リズムセッション",
@@ -131689,9 +131693,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2018-05-09",
+    "release_date": "2018-05-09",
+    "release_date_verified": "manually",
+    "version": "2.5"
   },
   {
     "id": "SID_若獣の化身・重装",
