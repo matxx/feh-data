@@ -99684,9 +99684,10 @@
     "might": 16,
     "has_refine": true,
     "refines_max_sp": 400,
-    "addition_date": "2017-02-02",
-    "release_date": "2017-04-04",
-    "version": "1.1"
+    "addition_date": "2018-12-11",
+    "release_date": "2018-12-11",
+    "release_date_verified": "manually",
+    "version": "3.0"
   },
   {
     "id": "SID_紅の剣_奥",
@@ -99703,9 +99704,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2017-02-02",
-    "release_date": "2017-04-04",
-    "version": "1.1"
+    "addition_date": "2018-12-11",
+    "release_date": "2018-12-11",
+    "release_date_verified": "manually",
+    "version": "3.0"
   },
   {
     "id": "SID_覇神断竜剣",
@@ -119606,9 +119608,10 @@
     "might": 14,
     "has_refine": true,
     "refines_max_sp": 400,
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2018-12-11",
+    "release_date": "2018-12-11",
+    "release_date_verified": "manually",
+    "version": "3.0"
   },
   {
     "id": "SID_軍師の雷書_指",
@@ -119625,9 +119628,10 @@
     "range": 2,
     "might": 14,
     "refine_kind": "skill1",
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2018-12-11",
+    "release_date": "2018-12-11",
+    "release_date_verified": "manually",
+    "version": "3.0"
   },
   {
     "id": "SID_軍師の風書",
@@ -119643,9 +119647,10 @@
     "might": 14,
     "has_refine": true,
     "refines_max_sp": 400,
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-23",
-    "version": "1.0"
+    "addition_date": "2018-12-11",
+    "release_date": "2018-12-11",
+    "release_date_verified": "manually",
+    "version": "3.0"
   },
   {
     "id": "SID_軍師の風書_指",
@@ -119662,9 +119667,10 @@
     "range": 2,
     "might": 14,
     "refine_kind": "skill1",
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-23",
-    "version": "1.0"
+    "addition_date": "2018-12-11",
+    "release_date": "2018-12-11",
+    "release_date_verified": "manually",
+    "version": "3.0"
   },
   {
     "id": "SID_タグエルの爪牙",
