@@ -3889,9 +3889,10 @@
     "range": 1,
     "might": 11,
     "refine_kind": "skill1",
-    "addition_date": "2017-09-15",
-    "release_date": "2017-09-15",
-    "version": "1.7"
+    "addition_date": "2019-06-10",
+    "release_date": "2019-06-10",
+    "release_date_verified": "manually",
+    "version": "3.6"
   },
   {
     "id": "SID_共感の花",
