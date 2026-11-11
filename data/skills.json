@@ -40841,9 +40841,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2017-10-16",
-    "release_date": "2017-10-16",
-    "version": "1.8"
+    "addition_date": "2020-10-07",
+    "release_date": "2020-10-07",
+    "release_date_verified": "manually",
+    "version": "4.10"
   },
   {
     "id": "SID_雷神と戯神の気紛れ",
@@ -44666,8 +44667,9 @@
     "might": 16,
     "has_refine": true,
     "refines_max_sp": 400,
-    "addition_date": "2020-10-08",
-    "release_date": "2020-10-08",
+    "addition_date": "2020-10-07",
+    "release_date": "2020-10-07",
+    "release_date_verified": "manually",
     "version": "4.10"
   },
   {
@@ -44685,9 +44687,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2020-10-08",
-    "release_date": "2020-10-08",
-    "refine_date": "2020-10-08",
+    "addition_date": "2020-10-07",
+    "release_date": "2020-10-07",
+    "release_date_verified": "manually",
+    "refine_date": "2020-10-07",
     "version": "4.10"
   },
   {
@@ -81763,8 +81766,9 @@
     "eff": [
       "cavalry"
     ],
-    "addition_date": "2020-10-08",
-    "release_date": "2020-10-08",
+    "addition_date": "2020-10-07",
+    "release_date": "2020-10-07",
+    "release_date_verified": "manually",
     "version": "4.10"
   },
   {
@@ -81785,9 +81789,10 @@
     "eff": [
       "cavalry"
     ],
-    "addition_date": "2020-10-08",
-    "release_date": "2020-10-08",
-    "refine_date": "2020-10-08",
+    "addition_date": "2020-10-07",
+    "release_date": "2020-10-07",
+    "release_date_verified": "manually",
+    "refine_date": "2020-10-07",
     "version": "4.10"
   },
   {
@@ -125549,9 +125554,10 @@
     "range": 2,
     "might": 14,
     "refine_kind": "skill1",
-    "addition_date": "2017-10-16",
-    "release_date": "2017-10-18",
-    "version": "1.8"
+    "addition_date": "2020-10-07",
+    "release_date": "2020-10-07",
+    "release_date_verified": "manually",
+    "version": "4.10"
   },
   {
     "id": "SID_戦神の勇斧",
@@ -127874,9 +127880,10 @@
     "range": 2,
     "might": 14,
     "refine_kind": "skill1",
-    "addition_date": "2018-04-11",
-    "release_date": "2018-04-17",
-    "version": "2.4"
+    "addition_date": "2020-10-07",
+    "release_date": "2020-10-07",
+    "release_date_verified": "manually",
+    "version": "4.10"
   },
   {
     "id": "SID_転移の粉",
