@@ -48543,9 +48543,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2018-08-09",
+    "release_date": "2018-08-09",
+    "release_date_verified": "manually",
+    "version": "2.8"
   },
   {
     "id": "SID_お疲れ様です！",
@@ -52499,9 +52500,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2018-08-09",
+    "release_date": "2018-08-09",
+    "release_date_verified": "manually",
+    "version": "2.8"
   },
   {
     "id": "SID_追撃リング",
@@ -80860,9 +80862,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2018-08-09",
+    "release_date": "2018-08-09",
+    "release_date_verified": "manually",
+    "version": "2.8"
   },
   {
     "id": "SID_貴婦人の弓",
