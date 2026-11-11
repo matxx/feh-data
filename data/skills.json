@@ -3914,7 +3914,8 @@
       }
     },
     "addition_date": "2021-02-04",
-    "release_date": "2021-02-05",
+    "release_date": "2021-02-04",
+    "release_date_verified": true,
     "version": "5.2",
     "upgrade_ids": [
       "SID_共感の花＋"
@@ -3947,7 +3948,8 @@
       }
     },
     "addition_date": "2021-02-04",
-    "release_date": "2021-02-05",
+    "release_date": "2021-02-04",
+    "release_date_verified": true,
     "version": "5.2",
     "downgrade_ids": [
       "SID_共感の花"
@@ -7408,7 +7410,8 @@
     "sp": 300,
     "tier": 1,
     "addition_date": "2021-05-06",
-    "release_date": "2021-05-07",
+    "release_date": "2021-05-06",
+    "release_date_verified": true,
     "version": "5.5"
   },
   {
@@ -16344,7 +16347,8 @@
     "has_refine": true,
     "refines_max_sp": 400,
     "addition_date": "2021-05-06",
-    "release_date": "2021-05-07",
+    "release_date": "2021-05-06",
+    "release_date_verified": true,
     "version": "5.5",
     "downgrade_ids": [
       "SID_銀の斧"
@@ -16892,6 +16896,7 @@
     },
     "addition_date": "2021-06-21",
     "release_date": "2021-06-21",
+    "release_date_verified": true,
     "version": "5.6",
     "upgrade_ids": [
       "SID_青の死闘・騎馬2"
@@ -16920,6 +16925,7 @@
     },
     "addition_date": "2021-06-21",
     "release_date": "2021-06-21",
+    "release_date_verified": true,
     "version": "5.6",
     "upgrade_ids": [
       "SID_青の死闘・騎馬3"
@@ -16951,6 +16957,7 @@
     },
     "addition_date": "2021-06-21",
     "release_date": "2021-06-21",
+    "release_date_verified": true,
     "version": "5.6",
     "upgrade_ids": [
       "SID_青の死闘・騎馬4"
@@ -16982,6 +16989,7 @@
     },
     "addition_date": "2021-06-21",
     "release_date": "2021-06-21",
+    "release_date_verified": true,
     "version": "5.6",
     "downgrade_ids": [
       "SID_青の死闘・騎馬3"
@@ -17578,7 +17586,8 @@
     "has_refine": true,
     "refines_max_sp": 400,
     "addition_date": "2021-03-04",
-    "release_date": "2021-03-06",
+    "release_date": "2021-03-04",
+    "release_date_verified": true,
     "version": "5.3",
     "downgrade_ids": [
       "SID_ボルガノン",
@@ -18984,7 +18993,8 @@
     "has_refine": true,
     "refines_max_sp": 400,
     "addition_date": "2021-05-06",
-    "release_date": "2021-05-08",
+    "release_date": "2021-05-06",
+    "release_date_verified": true,
     "version": "5.5",
     "downgrade_ids": [
       "SID_銀の槍"
@@ -19489,6 +19499,7 @@
     ],
     "addition_date": "2021-08-17",
     "release_date": "2021-08-17",
+    "release_date_verified": true,
     "version": "5.8",
     "downgrade_ids": [
       "SID_貫きの槍2"
@@ -19792,6 +19803,7 @@
     "refines_max_sp": 400,
     "addition_date": "2021-04-19",
     "release_date": "2021-04-19",
+    "release_date_verified": true,
     "version": "5.4",
     "downgrade_ids": [
       "SID_銀の剣"
@@ -20435,8 +20447,9 @@
         ]
       }
     },
-    "addition_date": "2021-06-07",
+    "addition_date": "2021-06-08",
     "release_date": "2021-06-08",
+    "release_date_verified": true,
     "version": "5.6",
     "upgrade_ids": [
       "SID_ブラーラビット＋"
@@ -20469,8 +20482,9 @@
         ]
       }
     },
-    "addition_date": "2021-06-07",
+    "addition_date": "2021-06-08",
     "release_date": "2021-06-08",
+    "release_date_verified": true,
     "version": "5.6",
     "downgrade_ids": [
       "SID_ブラーラビット"
@@ -22907,7 +22921,8 @@
       "flying"
     ],
     "addition_date": "2021-04-19",
-    "release_date": "2021-04-20",
+    "release_date": "2021-04-19",
+    "release_date_verified": true,
     "version": "5.4",
     "downgrade_ids": [
       "SID_銀の弓"
@@ -25074,7 +25089,8 @@
     "has_refine": true,
     "refines_max_sp": 400,
     "addition_date": "2021-07-06",
-    "release_date": "2021-07-07",
+    "release_date": "2021-07-06",
+    "release_date_verified": true,
     "version": "5.7",
     "downgrade_ids": [
       "SID_成獣の化身・騎馬"
@@ -26128,6 +26144,7 @@
     },
     "addition_date": "2021-05-20",
     "release_date": "2021-05-20",
+    "release_date_verified": true,
     "version": "5.5",
     "upgrade_ids": [
       "SID_無の死闘・騎馬2"
@@ -26156,6 +26173,7 @@
     },
     "addition_date": "2021-05-20",
     "release_date": "2021-05-20",
+    "release_date_verified": true,
     "version": "5.5",
     "upgrade_ids": [
       "SID_無の死闘・騎馬3"
@@ -26187,6 +26205,7 @@
     },
     "addition_date": "2021-05-20",
     "release_date": "2021-05-20",
+    "release_date_verified": true,
     "version": "5.5",
     "upgrade_ids": [
       "SID_無の死闘・騎馬4"
@@ -26218,6 +26237,7 @@
     },
     "addition_date": "2021-05-20",
     "release_date": "2021-05-20",
+    "release_date_verified": true,
     "version": "5.5",
     "downgrade_ids": [
       "SID_無の死闘・騎馬3"
@@ -28498,6 +28518,7 @@
     "refines_max_sp": 400,
     "addition_date": "2021-08-17",
     "release_date": "2021-08-17",
+    "release_date_verified": true,
     "version": "5.8",
     "downgrade_ids": [
       "SID_レクスカリバー"
@@ -30148,6 +30169,7 @@
     },
     "addition_date": "2021-08-17",
     "release_date": "2021-08-17",
+    "release_date_verified": true,
     "version": "5.8",
     "downgrade_ids": [
       "SID_近距離反撃"
@@ -32126,7 +32148,8 @@
     "range": 1,
     "might": 14,
     "addition_date": "2021-08-04",
-    "release_date": "2021-08-05",
+    "release_date": "2021-08-04",
+    "release_date_verified": true,
     "version": "5.8",
     "downgrade_ids": [
       "SID_成獣の化身・飛行"
@@ -38949,6 +38972,7 @@
     "tier": 1,
     "addition_date": "2021-08-17",
     "release_date": "2021-08-17",
+    "release_date_verified": true,
     "version": "5.8"
   },
   {
@@ -40061,6 +40085,7 @@
     },
     "addition_date": "2021-08-17",
     "release_date": "2021-08-17",
+    "release_date_verified": true,
     "version": "5.8",
     "downgrade_ids": [
       "SID_遠距離反撃"
@@ -40674,6 +40699,7 @@
     "refines_max_sp": 400,
     "addition_date": "2021-06-21",
     "release_date": "2021-06-21",
+    "release_date_verified": true,
     "version": "5.6",
     "downgrade_ids": [
       "SID_銀の槍"
@@ -40876,7 +40902,8 @@
       "armored"
     ],
     "addition_date": "2021-07-06",
-    "release_date": "2021-07-07",
+    "release_date": "2021-07-06",
+    "release_date_verified": true,
     "version": "5.7",
     "downgrade_ids": [
       "SID_銀の斧"
@@ -40907,8 +40934,9 @@
     "is_prf": true,
     "sp": 300,
     "tier": 1,
-    "addition_date": "2021-07-06",
-    "release_date": "2021-07-19",
+    "addition_date": "2021-07-21",
+    "release_date": "2021-07-21",
+    "release_date_verified": true,
     "version": "5.7"
   },
   {
@@ -44525,7 +44553,8 @@
     "range": 1,
     "might": 14,
     "addition_date": "2021-08-04",
-    "release_date": "2021-08-05",
+    "release_date": "2021-08-04",
+    "release_date_verified": true,
     "version": "5.8",
     "downgrade_ids": [
       "SID_成獣の化身・飛行"
@@ -46179,6 +46208,7 @@
     },
     "addition_date": "2021-06-21",
     "release_date": "2021-06-21",
+    "release_date_verified": true,
     "version": "5.6",
     "upgrade_ids": [
       "SID_快癒・偶数2"
@@ -46205,6 +46235,7 @@
     },
     "addition_date": "2021-06-21",
     "release_date": "2021-06-21",
+    "release_date_verified": true,
     "version": "5.6",
     "upgrade_ids": [
       "SID_快癒・偶数3"
@@ -46234,6 +46265,7 @@
     },
     "addition_date": "2021-06-21",
     "release_date": "2021-06-21",
+    "release_date_verified": true,
     "version": "5.6",
     "downgrade_ids": [
       "SID_快癒・偶数2"
@@ -46442,8 +46474,9 @@
         ]
       }
     },
-    "addition_date": "2021-02-16",
+    "addition_date": "2021-03-30",
     "release_date": "2021-03-30",
+    "release_date_verified": true,
     "version": "5.3",
     "upgrade_ids": [
       "SID_迅雷風烈・偶数2"
@@ -46473,8 +46506,9 @@
         ]
       }
     },
-    "addition_date": "2021-02-16",
+    "addition_date": "2021-03-30",
     "release_date": "2021-03-30",
+    "release_date_verified": true,
     "version": "5.3",
     "upgrade_ids": [
       "SID_迅雷風烈・偶数3"
@@ -46507,8 +46541,9 @@
         ]
       }
     },
-    "addition_date": "2021-02-16",
+    "addition_date": "2021-03-30",
     "release_date": "2021-03-30",
+    "release_date_verified": true,
     "version": "5.3",
     "upgrade_ids": [
       "SID_迅雷風烈・鬼没",
@@ -46952,8 +46987,9 @@
     "might": 16,
     "has_refine": true,
     "refines_max_sp": 400,
-    "addition_date": "2021-07-19",
-    "release_date": "2021-07-19",
+    "addition_date": "2021-07-21",
+    "release_date": "2021-07-21",
+    "release_date_verified": true,
     "version": "5.7",
     "downgrade_ids": [
       "SID_銀の斧"
@@ -47538,7 +47574,8 @@
       }
     },
     "addition_date": "2021-02-04",
-    "release_date": "2021-02-05",
+    "release_date": "2021-02-04",
+    "release_date_verified": true,
     "version": "5.2",
     "upgrade_ids": [
       "SID_不治の幻煙2"
@@ -47564,7 +47601,8 @@
       }
     },
     "addition_date": "2021-02-04",
-    "release_date": "2021-02-05",
+    "release_date": "2021-02-04",
+    "release_date_verified": true,
     "version": "5.2",
     "upgrade_ids": [
       "SID_不治の幻煙3"
@@ -47593,7 +47631,8 @@
       }
     },
     "addition_date": "2021-02-04",
-    "release_date": "2021-02-05",
+    "release_date": "2021-02-04",
+    "release_date_verified": true,
     "version": "5.2",
     "upgrade_ids": [
       "SID_不治の幻煙4"
@@ -47621,9 +47660,10 @@
         ]
       }
     },
-    "addition_date": "2023-11-06",
-    "release_date": "2023-11-17",
-    "version": "7.11",
+    "addition_date": "2021-02-04",
+    "release_date": "2021-02-04",
+    "release_date_verified": true,
+    "version": "5.2",
     "downgrade_ids": [
       "SID_不治の幻煙3"
     ]
@@ -47999,6 +48039,7 @@
     "might": 14,
     "addition_date": "2021-01-18",
     "release_date": "2021-01-18",
+    "release_date_verified": true,
     "version": "5.1",
     "downgrade_ids": [
       "SID_ボルガノン",
@@ -48081,6 +48122,7 @@
     "refines_max_sp": 400,
     "addition_date": "2021-01-18",
     "release_date": "2021-01-18",
+    "release_date_verified": true,
     "version": "5.1",
     "downgrade_ids": [
       "SID_トロン",
@@ -51864,7 +51906,8 @@
       }
     },
     "addition_date": "2021-07-06",
-    "release_date": "2021-07-07",
+    "release_date": "2021-07-06",
+    "release_date_verified": true,
     "version": "5.7",
     "upgrade_ids": [
       "SID_怒涛・再起2"
@@ -51893,7 +51936,8 @@
       }
     },
     "addition_date": "2021-07-06",
-    "release_date": "2021-07-07",
+    "release_date": "2021-07-06",
+    "release_date_verified": true,
     "version": "5.7",
     "upgrade_ids": [
       "SID_怒涛・再起3"
@@ -51925,7 +51969,8 @@
       }
     },
     "addition_date": "2021-07-06",
-    "release_date": "2021-07-07",
+    "release_date": "2021-07-06",
+    "release_date_verified": true,
     "version": "5.7",
     "upgrade_ids": [
       "SID_強襲・助走",
@@ -51958,9 +52003,10 @@
         ]
       }
     },
-    "addition_date": "2023-10-16",
-    "release_date": "2023-10-16",
-    "version": "7.10",
+    "addition_date": "2021-07-06",
+    "release_date": "2021-07-06",
+    "release_date_verified": true,
+    "version": "5.7",
     "downgrade_ids": [
       "SID_怒涛・再起3"
     ]
@@ -53481,6 +53527,7 @@
     "range": 3,
     "addition_date": "2021-09-17",
     "release_date": "2021-09-17",
+    "release_date_verified": true,
     "version": "5.9",
     "downgrade_ids": [
       "SID_入れ替え"
@@ -53767,8 +53814,9 @@
         ]
       }
     },
-    "addition_date": "2021-07-19",
-    "release_date": "2021-07-19",
+    "addition_date": "2021-07-21",
+    "release_date": "2021-07-21",
+    "release_date_verified": true,
     "version": "5.7",
     "upgrade_ids": [
       "SID_回避・攻め立て2"
@@ -53795,8 +53843,9 @@
         ]
       }
     },
-    "addition_date": "2021-07-19",
-    "release_date": "2021-07-19",
+    "addition_date": "2021-07-21",
+    "release_date": "2021-07-21",
+    "release_date_verified": true,
     "version": "5.7",
     "upgrade_ids": [
       "SID_回避・攻め立て3"
@@ -53826,8 +53875,9 @@
         ]
       }
     },
-    "addition_date": "2021-07-19",
-    "release_date": "2021-07-19",
+    "addition_date": "2021-07-21",
+    "release_date": "2021-07-21",
+    "release_date_verified": true,
     "version": "5.7",
     "downgrade_ids": [
       "SID_回避・攻め立て2"
@@ -53994,7 +54044,8 @@
     "has_refine": true,
     "refines_max_sp": 400,
     "addition_date": "2021-07-06",
-    "release_date": "2021-07-19",
+    "release_date": "2021-07-06",
+    "release_date_verified": true,
     "version": "5.7",
     "downgrade_ids": [
       "SID_灼熱のブレス"
@@ -56131,6 +56182,7 @@
     ],
     "addition_date": "2021-08-17",
     "release_date": "2021-08-17",
+    "release_date_verified": true,
     "version": "5.8",
     "downgrade_ids": [
       "SID_銀の剣"
@@ -56712,8 +56764,9 @@
     "might": 14,
     "has_refine": true,
     "refines_max_sp": 400,
-    "addition_date": "2021-07-19",
-    "release_date": "2021-07-19",
+    "addition_date": "2021-07-21",
+    "release_date": "2021-07-21",
+    "release_date_verified": true,
     "version": "5.7",
     "downgrade_ids": [
       "SID_ボルガノン",
@@ -57426,6 +57479,7 @@
     "refines_max_sp": 400,
     "addition_date": "2021-02-16",
     "release_date": "2021-02-16",
+    "release_date_verified": true,
     "version": "5.2",
     "downgrade_ids": [
       "SID_勇者の斧"
@@ -59133,8 +59187,9 @@
         ]
       }
     },
-    "addition_date": "2021-06-07",
+    "addition_date": "2021-06-08",
     "release_date": "2021-06-08",
+    "release_date_verified": true,
     "version": "5.6",
     "upgrade_ids": [
       "SID_グルンフォックス＋"
@@ -59166,8 +59221,9 @@
         ]
       }
     },
-    "addition_date": "2021-06-07",
+    "addition_date": "2021-06-08",
     "release_date": "2021-06-08",
+    "release_date_verified": true,
     "version": "5.6",
     "downgrade_ids": [
       "SID_グルンフォックス"
@@ -60717,6 +60773,7 @@
     "refines_max_sp": 400,
     "addition_date": "2021-03-17",
     "release_date": "2021-03-17",
+    "release_date_verified": true,
     "version": "5.3",
     "downgrade_ids": [
       "SID_ボルガノン",
@@ -61014,6 +61071,7 @@
     "refines_max_sp": 400,
     "addition_date": "2021-04-28",
     "release_date": "2021-04-28",
+    "release_date_verified": true,
     "version": "5.4",
     "downgrade_ids": [
       "SID_銀の剣"
@@ -62744,7 +62802,8 @@
       }
     },
     "addition_date": "2021-08-04",
-    "release_date": "2021-08-06",
+    "release_date": "2021-08-04",
+    "release_date_verified": true,
     "version": "5.8",
     "upgrade_ids": [
       "SID_操舵の斧＋"
@@ -62777,7 +62836,8 @@
       }
     },
     "addition_date": "2021-08-04",
-    "release_date": "2021-08-06",
+    "release_date": "2021-08-04",
+    "release_date_verified": true,
     "version": "5.8",
     "downgrade_ids": [
       "SID_操舵の斧"
@@ -63780,8 +63840,9 @@
     "might": 16,
     "has_refine": true,
     "refines_max_sp": 400,
-    "addition_date": "2021-06-07",
+    "addition_date": "2021-06-08",
     "release_date": "2021-06-08",
+    "release_date_verified": true,
     "version": "5.6",
     "downgrade_ids": [
       "SID_銀の槍"
@@ -63992,8 +64053,9 @@
     "eff": [
       "flying"
     ],
-    "addition_date": "2021-07-29",
-    "release_date": "2021-07-29",
+    "addition_date": "2021-07-31",
+    "release_date": "2021-07-31",
+    "release_date_verified": true,
     "version": "5.7",
     "downgrade_ids": [
       "SID_銀の弓"
@@ -64054,6 +64116,7 @@
     "cd": 2,
     "addition_date": "2021-04-28",
     "release_date": "2021-04-28",
+    "release_date_verified": true,
     "version": "5.4",
     "upgrade_ids": [
       "SID_グランベルの…・承"
@@ -64870,7 +64933,8 @@
     "has_refine": true,
     "refines_max_sp": 400,
     "addition_date": "2021-04-05",
-    "release_date": "2021-04-06",
+    "release_date": "2021-04-05",
+    "release_date_verified": true,
     "version": "5.4",
     "downgrade_ids": [
       "SID_銀の槍"
@@ -65244,8 +65308,9 @@
     "has_refine": true,
     "refines_max_sp": 400,
     "addition_date": "2021-03-04",
-    "release_date": "2021-06-08",
-    "version": "5.6",
+    "release_date": "2021-03-04",
+    "release_date_verified": true,
+    "version": "5.3",
     "downgrade_ids": [
       "SID_銀の槍"
     ]
@@ -66130,9 +66195,10 @@
     "sp": 500,
     "tier": 4,
     "cd": 2,
-    "addition_date": "2017-11-28",
-    "release_date": "2017-11-28",
-    "version": "2.0",
+    "addition_date": "2021-02-04",
+    "release_date": "2021-02-04",
+    "release_date_verified": true,
+    "version": "5.2",
     "downgrade_ids": [
       "SID_氷の聖鏡"
     ]
@@ -66309,7 +66375,8 @@
     "has_refine": true,
     "refines_max_sp": 400,
     "addition_date": "2021-03-04",
-    "release_date": "2021-03-05",
+    "release_date": "2021-03-04",
+    "release_date_verified": true,
     "version": "5.3",
     "downgrade_ids": [
       "SID_トロン",
@@ -69110,8 +69177,9 @@
         "none": true
       }
     },
-    "addition_date": "2021-08-31",
-    "release_date": "2021-08-31",
+    "addition_date": "2021-09-01",
+    "release_date": "2021-09-01",
+    "release_date_verified": true,
     "version": "5.8",
     "downgrade_ids": [
       "SID_遠距離警戒3"
@@ -69160,6 +69228,7 @@
     },
     "addition_date": "2021-08-17",
     "release_date": "2021-08-17",
+    "release_date_verified": true,
     "version": "5.8",
     "downgrade_ids": [
       "SID_守備の大紋章2"
@@ -71465,8 +71534,9 @@
     "might": 11,
     "has_refine": true,
     "refines_max_sp": 400,
-    "addition_date": "2021-06-07",
+    "addition_date": "2021-06-08",
     "release_date": "2021-06-08",
+    "release_date_verified": true,
     "version": "5.6",
     "downgrade_ids": [
       "SID_銀の剣"
@@ -71813,6 +71883,7 @@
     "refines_max_sp": 400,
     "addition_date": "2021-04-19",
     "release_date": "2021-04-19",
+    "release_date_verified": true,
     "version": "5.4",
     "downgrade_ids": [
       "SID_銀の槍"
@@ -73261,6 +73332,7 @@
     "refines_max_sp": 400,
     "addition_date": "2021-03-17",
     "release_date": "2021-03-17",
+    "release_date_verified": true,
     "version": "5.3",
     "downgrade_ids": [
       "SID_灼熱のブレス"
@@ -74076,6 +74148,7 @@
     },
     "addition_date": "2021-05-20",
     "release_date": "2021-05-20",
+    "release_date_verified": true,
     "version": "5.5",
     "upgrade_ids": [
       "SID_愛情のブーケ＋"
@@ -74110,6 +74183,7 @@
     },
     "addition_date": "2021-05-20",
     "release_date": "2021-05-20",
+    "release_date_verified": true,
     "version": "5.5",
     "downgrade_ids": [
       "SID_愛情のブーケ"
@@ -74137,7 +74211,8 @@
       }
     },
     "addition_date": "2021-05-20",
-    "release_date": "2021-05-21",
+    "release_date": "2021-05-20",
+    "release_date_verified": true,
     "version": "5.5",
     "upgrade_ids": [
       "SID_結婚式の燭台＋"
@@ -74170,7 +74245,8 @@
       }
     },
     "addition_date": "2021-05-20",
-    "release_date": "2021-05-21",
+    "release_date": "2021-05-20",
+    "release_date_verified": true,
     "version": "5.5",
     "downgrade_ids": [
       "SID_結婚式の燭台"
@@ -74400,7 +74476,8 @@
     "has_refine": true,
     "refines_max_sp": 400,
     "addition_date": "2021-02-04",
-    "release_date": "2021-02-05",
+    "release_date": "2021-02-04",
+    "release_date_verified": true,
     "version": "5.2",
     "downgrade_ids": [
       "SID_銀の斧"
@@ -74440,9 +74517,10 @@
     "might": 10,
     "has_refine": true,
     "refines_max_sp": 400,
-    "addition_date": "2018-04-11",
-    "release_date": "2018-04-21",
-    "version": "2.4"
+    "addition_date": "2021-08-04",
+    "release_date": "2021-08-04",
+    "release_date_verified": true,
+    "version": "5.8"
   },
   {
     "id": "SID_忠誠の槍_無",
@@ -74525,7 +74603,8 @@
     "has_refine": true,
     "refines_max_sp": 400,
     "addition_date": "2021-03-04",
-    "release_date": "2021-03-05",
+    "release_date": "2021-03-04",
+    "release_date_verified": true,
     "version": "5.3",
     "downgrade_ids": [
       "SID_銀の槍"
@@ -75903,8 +75982,9 @@
     "sp": 400,
     "tier": 2,
     "range": 1,
-    "addition_date": "2021-08-31",
-    "release_date": "2021-08-31",
+    "addition_date": "2021-09-01",
+    "release_date": "2021-09-01",
+    "release_date_verified": true,
     "version": "5.8",
     "downgrade_ids": [
       "SID_献身"
@@ -76227,9 +76307,10 @@
     "eff": [
       "cavalry"
     ],
-    "addition_date": "2018-03-09",
-    "release_date": "2018-03-15",
-    "version": "2.3"
+    "addition_date": "2021-07-06",
+    "release_date": "2021-07-06",
+    "release_date_verified": true,
+    "version": "5.7"
   },
   {
     "id": "SID_鉄面の斧_奮",
@@ -77148,7 +77229,8 @@
       "flying"
     ],
     "addition_date": "2021-08-04",
-    "release_date": "2021-08-05",
+    "release_date": "2021-08-04",
+    "release_date_verified": true,
     "version": "5.8",
     "downgrade_ids": [
       "SID_銀の弓"
@@ -78254,8 +78336,9 @@
     "is_prf": true,
     "sp": 300,
     "tier": 1,
-    "addition_date": "2021-03-04",
+    "addition_date": "2021-06-08",
     "release_date": "2021-06-08",
+    "release_date_verified": true,
     "version": "5.6",
     "upgrade_ids": [
       "SID_双姫の月翼・神"
@@ -78271,8 +78354,9 @@
     "is_prf": true,
     "sp": 300,
     "tier": 2,
-    "addition_date": "2021-03-04",
+    "addition_date": "2021-06-08",
     "release_date": "2021-06-08",
+    "release_date_verified": true,
     "version": "5.6",
     "downgrade_ids": [
       "SID_双姫の月翼"
@@ -78364,6 +78448,7 @@
     "tier": 1,
     "addition_date": "2021-08-17",
     "release_date": "2021-08-17",
+    "release_date_verified": true,
     "version": "5.8"
   },
   {
@@ -78659,7 +78744,8 @@
     "sp": 300,
     "tier": 1,
     "addition_date": "2021-05-06",
-    "release_date": "2021-05-07",
+    "release_date": "2021-05-06",
+    "release_date_verified": true,
     "version": "5.5"
   },
   {
@@ -79259,8 +79345,9 @@
       "armored",
       "cavalry"
     ],
-    "addition_date": "2021-08-31",
-    "release_date": "2021-08-31",
+    "addition_date": "2021-09-01",
+    "release_date": "2021-09-01",
+    "release_date_verified": true,
     "version": "5.8",
     "downgrade_ids": [
       "SID_アトラース"
@@ -80881,6 +80968,7 @@
     },
     "addition_date": "2021-06-21",
     "release_date": "2021-06-21",
+    "release_date_verified": true,
     "version": "5.6",
     "upgrade_ids": [
       "SID_プッシュ＋"
@@ -80910,6 +80998,7 @@
     },
     "addition_date": "2021-06-21",
     "release_date": "2021-06-21",
+    "release_date_verified": true,
     "version": "5.6",
     "downgrade_ids": [
       "SID_プッシュ"
@@ -81547,6 +81636,7 @@
     },
     "addition_date": "2021-05-20",
     "release_date": "2021-05-20",
+    "release_date_verified": true,
     "version": "5.5",
     "upgrade_ids": [
       "SID_立会人の杖＋"
@@ -81580,6 +81670,7 @@
     },
     "addition_date": "2021-05-20",
     "release_date": "2021-05-20",
+    "release_date_verified": true,
     "version": "5.5",
     "downgrade_ids": [
       "SID_立会人の杖"
@@ -82870,6 +82961,7 @@
     "tier": 1,
     "addition_date": "2021-05-31",
     "release_date": "2021-05-31",
+    "release_date_verified": true,
     "version": "5.5",
     "upgrade_ids": [
       "SID_束縛、秩序、…・神"
@@ -82887,6 +82979,7 @@
     "tier": 2,
     "addition_date": "2021-05-31",
     "release_date": "2021-05-31",
+    "release_date_verified": true,
     "version": "5.5",
     "downgrade_ids": [
       "SID_束縛、秩序、安定"
@@ -82908,6 +83001,7 @@
     "refines_max_sp": 400,
     "addition_date": "2021-05-31",
     "release_date": "2021-05-31",
+    "release_date_verified": true,
     "version": "5.5",
     "downgrade_ids": [
       "SID_アトラース"
@@ -83320,7 +83414,8 @@
       }
     },
     "addition_date": "2021-02-04",
-    "release_date": "2021-02-05",
+    "release_date": "2021-02-04",
+    "release_date_verified": true,
     "version": "5.2",
     "upgrade_ids": [
       "SID_約束の花＋"
@@ -83354,7 +83449,8 @@
       }
     },
     "addition_date": "2021-02-04",
-    "release_date": "2021-02-05",
+    "release_date": "2021-02-04",
+    "release_date_verified": true,
     "version": "5.2",
     "downgrade_ids": [
       "SID_約束の花"
@@ -84408,6 +84504,7 @@
     },
     "addition_date": "2021-06-21",
     "release_date": "2021-06-21",
+    "release_date_verified": true,
     "version": "5.6",
     "upgrade_ids": [
       "SID_フローズンパフェ＋"
@@ -84442,6 +84539,7 @@
     },
     "addition_date": "2021-06-21",
     "release_date": "2021-06-21",
+    "release_date_verified": true,
     "version": "5.6",
     "downgrade_ids": [
       "SID_フローズンパフェ"
@@ -85350,6 +85448,7 @@
     "refines_max_sp": 400,
     "addition_date": "2021-08-17",
     "release_date": "2021-08-17",
+    "release_date_verified": true,
     "version": "5.8",
     "downgrade_ids": [
       "SID_アトラース"
@@ -85857,6 +85956,7 @@
     },
     "addition_date": "2021-01-18",
     "release_date": "2021-01-18",
+    "release_date_verified": true,
     "version": "5.1",
     "upgrade_ids": [
       "SID_ペレジアの斧＋"
@@ -85890,6 +85990,7 @@
     },
     "addition_date": "2021-01-18",
     "release_date": "2021-01-18",
+    "release_date_verified": true,
     "version": "5.1",
     "downgrade_ids": [
       "SID_ペレジアの斧"
@@ -85920,7 +86021,8 @@
       }
     },
     "addition_date": "2021-01-18",
-    "release_date": "2021-01-19",
+    "release_date": "2021-01-18",
+    "release_date_verified": true,
     "version": "5.1",
     "upgrade_ids": [
       "SID_ペレジアの弓＋"
@@ -85956,7 +86058,8 @@
       }
     },
     "addition_date": "2021-01-18",
-    "release_date": "2021-01-19",
+    "release_date": "2021-01-18",
+    "release_date_verified": true,
     "version": "5.1",
     "downgrade_ids": [
       "SID_ペレジアの弓"
@@ -85985,6 +86088,7 @@
     },
     "addition_date": "2021-01-18",
     "release_date": "2021-01-18",
+    "release_date_verified": true,
     "version": "5.1",
     "upgrade_ids": [
       "SID_ペレジアの燭台＋"
@@ -86018,6 +86122,7 @@
     },
     "addition_date": "2021-01-18",
     "release_date": "2021-01-18",
+    "release_date_verified": true,
     "version": "5.1",
     "downgrade_ids": [
       "SID_ペレジアの燭台"
@@ -86761,8 +86866,9 @@
     "is_prf": true,
     "sp": 300,
     "tier": 1,
-    "addition_date": "2021-08-31",
-    "release_date": "2021-08-31",
+    "addition_date": "2021-09-01",
+    "release_date": "2021-09-01",
+    "release_date_verified": true,
     "version": "5.8",
     "upgrade_ids": [
       "SID_未来を知る力・承"
@@ -86778,8 +86884,9 @@
     "is_prf": true,
     "sp": 300,
     "tier": 2,
-    "addition_date": "2021-08-31",
-    "release_date": "2021-08-31",
+    "addition_date": "2021-09-01",
+    "release_date": "2021-09-01",
+    "release_date_verified": true,
     "version": "5.8",
     "downgrade_ids": [
       "SID_未来を知る力"
@@ -87109,6 +87216,7 @@
     "refines_max_sp": 400,
     "addition_date": "2021-06-30",
     "release_date": "2021-06-30",
+    "release_date_verified": true,
     "version": "5.6",
     "downgrade_ids": [
       "SID_レクスカリバー"
@@ -87846,9 +87954,10 @@
     "might": 14,
     "has_refine": true,
     "refines_max_sp": 400,
-    "addition_date": "2018-07-20",
-    "release_date": "2018-07-20",
-    "version": "2.7"
+    "addition_date": "2021-08-04",
+    "release_date": "2021-08-04",
+    "release_date_verified": true,
+    "version": "5.8"
   },
   {
     "id": "SID_痛罵の杖_連",
@@ -88629,6 +88738,7 @@
     },
     "addition_date": "2021-03-17",
     "release_date": "2021-03-17",
+    "release_date_verified": true,
     "version": "5.3",
     "upgrade_ids": [
       "SID_赤の死闘・騎馬2"
@@ -88657,6 +88767,7 @@
     },
     "addition_date": "2021-03-17",
     "release_date": "2021-03-17",
+    "release_date_verified": true,
     "version": "5.3",
     "upgrade_ids": [
       "SID_赤の死闘・騎馬3"
@@ -88688,6 +88799,7 @@
     },
     "addition_date": "2021-03-17",
     "release_date": "2021-03-17",
+    "release_date_verified": true,
     "version": "5.3",
     "upgrade_ids": [
       "SID_赤の死闘・騎馬4"
@@ -88719,6 +88831,7 @@
     },
     "addition_date": "2021-03-17",
     "release_date": "2021-03-17",
+    "release_date_verified": true,
     "version": "5.3",
     "downgrade_ids": [
       "SID_赤の死闘・騎馬3"
@@ -89234,9 +89347,10 @@
     "sp": 500,
     "tier": 4,
     "cd": 4,
-    "addition_date": "2018-01-31",
-    "release_date": "2018-01-31",
-    "version": "2.1",
+    "addition_date": "2021-02-04",
+    "release_date": "2021-02-04",
+    "release_date_verified": true,
+    "version": "5.2",
     "downgrade_ids": [
       "SID_蒼の天空"
     ]
@@ -90840,7 +90954,8 @@
       }
     },
     "addition_date": "2021-08-17",
-    "release_date": "2021-08-18",
+    "release_date": "2021-08-17",
+    "release_date_verified": true,
     "version": "5.8",
     "upgrade_ids": [
       "SID_ラウアライオン＋"
@@ -90874,7 +90989,8 @@
       }
     },
     "addition_date": "2021-08-17",
-    "release_date": "2021-08-18",
+    "release_date": "2021-08-17",
+    "release_date_verified": true,
     "version": "5.8",
     "downgrade_ids": [
       "SID_ラウアライオン"
@@ -90963,8 +91079,9 @@
         ]
       }
     },
-    "addition_date": "2021-07-19",
-    "release_date": "2021-07-20",
+    "addition_date": "2021-07-21",
+    "release_date": "2021-07-21",
+    "release_date_verified": true,
     "version": "5.7",
     "upgrade_ids": [
       "SID_ラウアラビット＋"
@@ -90997,8 +91114,9 @@
         ]
       }
     },
-    "addition_date": "2021-07-19",
-    "release_date": "2021-07-20",
+    "addition_date": "2021-07-21",
+    "release_date": "2021-07-21",
+    "release_date_verified": true,
     "version": "5.7",
     "downgrade_ids": [
       "SID_ラウアラビット"
@@ -91416,7 +91534,8 @@
     "range": 1,
     "might": 14,
     "addition_date": "2021-07-06",
-    "release_date": "2021-07-07",
+    "release_date": "2021-07-06",
+    "release_date_verified": true,
     "version": "5.7",
     "downgrade_ids": [
       "SID_成獣の化身・騎馬"
@@ -92409,7 +92528,8 @@
       }
     },
     "addition_date": "2021-04-05",
-    "release_date": "2021-04-06",
+    "release_date": "2021-04-05",
+    "release_date_verified": true,
     "version": "5.4",
     "upgrade_ids": [
       "SID_牽制の弓＋"
@@ -92445,7 +92565,8 @@
       }
     },
     "addition_date": "2021-04-05",
-    "release_date": "2021-04-06",
+    "release_date": "2021-04-05",
+    "release_date_verified": true,
     "version": "5.4",
     "downgrade_ids": [
       "SID_牽制の弓"
@@ -93393,6 +93514,7 @@
     "cd": 3,
     "addition_date": "2021-08-17",
     "release_date": "2021-08-17",
+    "release_date_verified": true,
     "version": "5.8",
     "downgrade_ids": [
       "SID_氷華"
@@ -95765,6 +95887,7 @@
     ],
     "addition_date": "2021-05-20",
     "release_date": "2021-05-20",
+    "release_date_verified": true,
     "version": "5.5",
     "downgrade_ids": [
       "SID_銀の弓"
@@ -99771,7 +99894,8 @@
     "range": 1,
     "might": 16,
     "addition_date": "2021-08-04",
-    "release_date": "2021-08-05",
+    "release_date": "2021-08-04",
+    "release_date_verified": true,
     "version": "5.8",
     "downgrade_ids": [
       "SID_銀の槍"
@@ -102585,7 +102709,8 @@
       }
     },
     "addition_date": "2021-07-06",
-    "release_date": "2021-07-07",
+    "release_date": "2021-07-06",
+    "release_date_verified": true,
     "version": "5.7",
     "upgrade_ids": [
       "SID_巻貝の槍＋"
@@ -102618,7 +102743,8 @@
       }
     },
     "addition_date": "2021-07-06",
-    "release_date": "2021-07-07",
+    "release_date": "2021-07-06",
+    "release_date_verified": true,
     "version": "5.7",
     "downgrade_ids": [
       "SID_巻貝の槍"
@@ -103046,6 +103172,7 @@
     "cd": 2,
     "addition_date": "2021-08-17",
     "release_date": "2021-08-17",
+    "release_date_verified": true,
     "version": "5.8",
     "downgrade_ids": [
       "SID_竜裂"
@@ -103607,6 +103734,7 @@
     "refines_max_sp": 400,
     "addition_date": "2021-02-16",
     "release_date": "2021-02-16",
+    "release_date_verified": true,
     "version": "5.2",
     "downgrade_ids": [
       "SID_銀の槍"
@@ -104804,8 +104932,9 @@
     "has_refine": true,
     "refines_max_sp": 400,
     "addition_date": "2021-02-16",
-    "release_date": "2021-03-30",
-    "version": "5.3",
+    "release_date": "2021-02-16",
+    "release_date_verified": true,
+    "version": "5.2",
     "downgrade_ids": [
       "SID_銀の斧"
     ]
@@ -107080,6 +107209,7 @@
     "refines_max_sp": 400,
     "addition_date": "2021-02-16",
     "release_date": "2021-02-16",
+    "release_date_verified": true,
     "version": "5.2",
     "downgrade_ids": [
       "SID_ボルガノン",
@@ -113114,6 +113244,7 @@
     },
     "addition_date": "2021-03-17",
     "release_date": "2021-03-17",
+    "release_date_verified": true,
     "version": "5.3",
     "upgrade_ids": [
       "SID_春兎の斧＋"
@@ -113147,6 +113278,7 @@
     },
     "addition_date": "2021-03-17",
     "release_date": "2021-03-17",
+    "release_date_verified": true,
     "version": "5.3",
     "downgrade_ids": [
       "SID_春兎の斧"
@@ -113178,6 +113310,7 @@
     },
     "addition_date": "2021-03-17",
     "release_date": "2021-03-17",
+    "release_date_verified": true,
     "version": "5.3",
     "upgrade_ids": [
       "SID_春兎の弓＋"
@@ -113214,6 +113347,7 @@
     },
     "addition_date": "2021-03-17",
     "release_date": "2021-03-17",
+    "release_date_verified": true,
     "version": "5.3",
     "downgrade_ids": [
       "SID_春兎の弓"
@@ -113242,6 +113376,7 @@
     },
     "addition_date": "2021-03-17",
     "release_date": "2021-03-17",
+    "release_date_verified": true,
     "version": "5.3",
     "upgrade_ids": [
       "SID_春兎の槍＋"
@@ -113275,6 +113410,7 @@
     },
     "addition_date": "2021-03-17",
     "release_date": "2021-03-17",
+    "release_date_verified": true,
     "version": "5.3",
     "downgrade_ids": [
       "SID_春兎の槍"
@@ -114076,9 +114212,10 @@
     "eff": [
       "flying"
     ],
-    "addition_date": "2018-09-14",
-    "release_date": "2018-09-14",
-    "version": "2.9"
+    "addition_date": "2021-02-04",
+    "release_date": "2021-02-04",
+    "release_date_verified": true,
+    "version": "5.2"
   },
   {
     "id": "SID_邪な曲弓_邪",
@@ -114297,6 +114434,7 @@
     "refines_max_sp": 400,
     "addition_date": "2021-04-19",
     "release_date": "2021-04-19",
+    "release_date_verified": true,
     "version": "5.4",
     "downgrade_ids": [
       "SID_アサルト"
@@ -114683,7 +114821,8 @@
       }
     },
     "addition_date": "2021-08-04",
-    "release_date": "2021-08-05",
+    "release_date": "2021-08-04",
+    "release_date_verified": true,
     "version": "5.8",
     "upgrade_ids": [
       "SID_空転の奇策2"
@@ -114707,7 +114846,8 @@
       }
     },
     "addition_date": "2021-08-04",
-    "release_date": "2021-08-05",
+    "release_date": "2021-08-04",
+    "release_date_verified": true,
     "version": "5.8",
     "upgrade_ids": [
       "SID_空転の奇策3"
@@ -114734,7 +114874,8 @@
       }
     },
     "addition_date": "2021-08-04",
-    "release_date": "2021-08-05",
+    "release_date": "2021-08-04",
+    "release_date_verified": true,
     "version": "5.8",
     "downgrade_ids": [
       "SID_空転の奇策2"
@@ -115011,7 +115152,8 @@
       }
     },
     "addition_date": "2021-03-04",
-    "release_date": "2021-03-05",
+    "release_date": "2021-03-04",
+    "release_date_verified": true,
     "version": "5.3",
     "upgrade_ids": [
       "SID_護衛の斧＋"
@@ -115044,7 +115186,8 @@
       }
     },
     "addition_date": "2021-03-04",
-    "release_date": "2021-03-05",
+    "release_date": "2021-03-04",
+    "release_date_verified": true,
     "version": "5.3",
     "downgrade_ids": [
       "SID_護衛の斧"
@@ -115071,8 +115214,9 @@
         ]
       }
     },
-    "addition_date": "2021-07-19",
-    "release_date": "2021-07-19",
+    "addition_date": "2021-07-21",
+    "release_date": "2021-07-21",
+    "release_date_verified": true,
     "version": "5.7",
     "upgrade_ids": [
       "SID_護衛の槍＋"
@@ -115104,8 +115248,9 @@
         ]
       }
     },
-    "addition_date": "2021-07-19",
-    "release_date": "2021-07-19",
+    "addition_date": "2021-07-21",
+    "release_date": "2021-07-21",
+    "release_date_verified": true,
     "version": "5.7",
     "downgrade_ids": [
       "SID_護衛の槍"
@@ -117166,6 +117311,7 @@
     "cd": 2,
     "addition_date": "2021-06-30",
     "release_date": "2021-06-30",
+    "release_date_verified": true,
     "version": "5.6",
     "upgrade_ids": [
       "SID_覇天・承"
@@ -117518,8 +117664,9 @@
     "is_prf": true,
     "sp": 300,
     "tier": 1,
-    "addition_date": "2021-02-16",
+    "addition_date": "2021-03-30",
     "release_date": "2021-03-30",
+    "release_date_verified": true,
     "version": "5.3",
     "upgrade_ids": [
       "SID_双姫の陽翼・神"
@@ -117535,8 +117682,9 @@
     "is_prf": true,
     "sp": 300,
     "tier": 2,
-    "addition_date": "2021-02-16",
+    "addition_date": "2021-03-30",
     "release_date": "2021-03-30",
+    "release_date_verified": true,
     "version": "5.3",
     "downgrade_ids": [
       "SID_双姫の陽翼"
@@ -117609,7 +117757,8 @@
       }
     },
     "addition_date": "2021-06-21",
-    "release_date": "2021-06-22",
+    "release_date": "2021-06-21",
+    "release_date_verified": true,
     "version": "5.6",
     "upgrade_ids": [
       "SID_向日葵の弓＋"
@@ -117645,7 +117794,8 @@
       }
     },
     "addition_date": "2021-06-21",
-    "release_date": "2021-06-22",
+    "release_date": "2021-06-21",
+    "release_date_verified": true,
     "version": "5.6",
     "downgrade_ids": [
       "SID_向日葵の弓"
@@ -117798,6 +117948,7 @@
     "refines_max_sp": 400,
     "addition_date": "2021-06-21",
     "release_date": "2021-06-21",
+    "release_date_verified": true,
     "version": "5.6",
     "downgrade_ids": [
       "SID_アサルト"
@@ -117977,6 +118128,7 @@
     },
     "addition_date": "2021-08-17",
     "release_date": "2021-08-17",
+    "release_date_verified": true,
     "version": "5.8",
     "downgrade_ids": [
       "SID_鬼神飛燕の一撃2"
@@ -118070,7 +118222,8 @@
     "sp": 300,
     "tier": 1,
     "addition_date": "2021-08-04",
-    "release_date": "2021-08-05",
+    "release_date": "2021-08-04",
+    "release_date_verified": true,
     "version": "5.8"
   },
   {
@@ -122165,8 +122318,9 @@
     "might": 14,
     "has_refine": true,
     "refines_max_sp": 400,
-    "addition_date": "2021-07-19",
-    "release_date": "2021-07-19",
+    "addition_date": "2021-07-21",
+    "release_date": "2021-07-21",
+    "release_date_verified": true,
     "version": "5.7",
     "downgrade_ids": [
       "SID_レクスカリバー"
@@ -122802,7 +122956,8 @@
     "has_refine": true,
     "refines_max_sp": 400,
     "addition_date": "2021-05-06",
-    "release_date": "2021-05-07",
+    "release_date": "2021-05-06",
+    "release_date_verified": true,
     "version": "5.5",
     "downgrade_ids": [
       "SID_ボルガノン",
@@ -122944,6 +123099,7 @@
     "refines_max_sp": 400,
     "addition_date": "2021-04-19",
     "release_date": "2021-04-19",
+    "release_date_verified": true,
     "version": "5.4",
     "downgrade_ids": [
       "SID_トロン",
@@ -123127,7 +123283,8 @@
     "has_refine": true,
     "refines_max_sp": 400,
     "addition_date": "2021-04-05",
-    "release_date": "2021-04-06",
+    "release_date": "2021-04-05",
+    "release_date_verified": true,
     "version": "5.4",
     "downgrade_ids": [
       "SID_レクスカリバー"
@@ -123571,7 +123728,8 @@
       }
     },
     "addition_date": "2021-07-06",
-    "release_date": "2021-07-07",
+    "release_date": "2021-07-06",
+    "release_date_verified": true,
     "version": "5.7",
     "upgrade_ids": [
       "SID_トライデント＋"
@@ -123604,7 +123762,8 @@
       }
     },
     "addition_date": "2021-07-06",
-    "release_date": "2021-07-07",
+    "release_date": "2021-07-06",
+    "release_date_verified": true,
     "version": "5.7",
     "downgrade_ids": [
       "SID_トライデント"
@@ -124346,7 +124505,8 @@
     "has_refine": true,
     "refines_max_sp": 400,
     "addition_date": "2021-05-06",
-    "release_date": "2021-05-07",
+    "release_date": "2021-05-06",
+    "release_date_verified": true,
     "version": "5.5",
     "downgrade_ids": [
       "SID_成獣の化身・重装"
@@ -124555,6 +124715,7 @@
     },
     "addition_date": "2021-02-16",
     "release_date": "2021-02-16",
+    "release_date_verified": true,
     "version": "5.2",
     "upgrade_ids": [
       "SID_孤絶の剣＋"
@@ -124588,6 +124749,7 @@
     },
     "addition_date": "2021-02-16",
     "release_date": "2021-02-16",
+    "release_date_verified": true,
     "version": "5.2",
     "downgrade_ids": [
       "SID_孤絶の剣"
@@ -124856,7 +125018,8 @@
       }
     },
     "addition_date": "2021-02-04",
-    "release_date": "2021-02-05",
+    "release_date": "2021-02-04",
+    "release_date_verified": true,
     "version": "5.2",
     "upgrade_ids": [
       "SID_平和の花＋"
@@ -124890,7 +125053,8 @@
       }
     },
     "addition_date": "2021-02-04",
-    "release_date": "2021-02-05",
+    "release_date": "2021-02-04",
+    "release_date_verified": true,
     "version": "5.2",
     "downgrade_ids": [
       "SID_平和の花"
@@ -125971,7 +126135,8 @@
     "has_refine": true,
     "refines_max_sp": 400,
     "addition_date": "2021-05-06",
-    "release_date": "2021-05-07",
+    "release_date": "2021-05-06",
+    "release_date_verified": true,
     "version": "5.5",
     "downgrade_ids": [
       "SID_銀の槍"
@@ -126315,6 +126480,7 @@
     },
     "addition_date": "2021-06-21",
     "release_date": "2021-06-21",
+    "release_date_verified": true,
     "version": "5.6",
     "upgrade_ids": [
       "SID_カツオ＋"
@@ -126348,6 +126514,7 @@
     },
     "addition_date": "2021-06-21",
     "release_date": "2021-06-21",
+    "release_date_verified": true,
     "version": "5.6",
     "downgrade_ids": [
       "SID_カツオ"
@@ -128244,6 +128411,7 @@
     "refines_max_sp": 400,
     "addition_date": "2021-05-20",
     "release_date": "2021-05-20",
+    "release_date_verified": true,
     "version": "5.5",
     "downgrade_ids": [
       "SID_銀の斧"
@@ -131557,8 +131725,9 @@
     "is_prf": true,
     "sp": 300,
     "tier": 1,
-    "addition_date": "2021-07-29",
-    "release_date": "2021-07-29",
+    "addition_date": "2021-07-31",
+    "release_date": "2021-07-31",
+    "release_date_verified": true,
     "version": "5.7",
     "upgrade_ids": [
       "SID_ユングヴィの祖・神"
@@ -131574,8 +131743,9 @@
     "is_prf": true,
     "sp": 300,
     "tier": 2,
-    "addition_date": "2021-07-29",
-    "release_date": "2021-07-29",
+    "addition_date": "2021-07-31",
+    "release_date": "2021-07-31",
+    "release_date_verified": true,
     "version": "5.7",
     "downgrade_ids": [
       "SID_ユングヴィの祖"
@@ -131837,7 +132007,8 @@
     "has_refine": true,
     "refines_max_sp": 400,
     "addition_date": "2021-02-04",
-    "release_date": "2021-02-05",
+    "release_date": "2021-02-04",
+    "release_date_verified": true,
     "version": "5.2",
     "downgrade_ids": [
       "SID_ボルガノン",
