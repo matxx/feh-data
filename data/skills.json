@@ -57115,9 +57115,10 @@
     "range": 2,
     "might": 14,
     "refine_kind": "skill1",
-    "addition_date": "2018-01-25",
-    "release_date": "2018-01-25",
-    "version": "2.1"
+    "addition_date": "2020-04-07",
+    "release_date": "2020-04-07",
+    "release_date_verified": "manually",
+    "version": "4.4"
   },
   {
     "id": "SID_凶星",
