@@ -19452,9 +19452,10 @@
     "eff": [
       "dragon"
     ],
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2018-04-10",
+    "release_date": "2018-04-10",
+    "release_date_verified": "manually",
+    "version": "2.4"
   },
   {
     "id": "SID_束縛の首飾り",
@@ -52593,9 +52594,10 @@
     "might": 14,
     "has_refine": true,
     "refines_max_sp": 400,
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2018-04-10",
+    "release_date": "2018-04-10",
+    "release_date_verified": "manually",
+    "version": "2.4"
   },
   {
     "id": "SID_フォルブレイズ_鬼",
@@ -52612,9 +52614,10 @@
     "range": 2,
     "might": 14,
     "refine_kind": "skill1",
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2018-04-10",
+    "release_date": "2018-04-10",
+    "release_date_verified": "manually",
+    "version": "2.4"
   },
   {
     "id": "SID_あなたのシャロン",
@@ -79316,9 +79319,10 @@
     "might": 16,
     "has_refine": true,
     "refines_max_sp": 400,
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2018-04-10",
+    "release_date": "2018-04-10",
+    "release_date_verified": "manually",
+    "version": "2.4"
   },
   {
     "id": "SID_無銘の一門の剣_奥",
@@ -79335,9 +79339,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2018-04-10",
+    "release_date": "2018-04-10",
+    "release_date_verified": "manually",
+    "version": "2.4"
   },
   {
     "id": "SID_薬の癒し手の角",
@@ -92394,9 +92399,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2017-05-15",
-    "release_date": "2017-05-19",
-    "version": "1.3"
+    "addition_date": "2018-04-10",
+    "release_date": "2018-04-10",
+    "release_date_verified": "manually",
+    "version": "2.4"
   },
   {
     "id": "SID_強靭なる女王の大傘",
