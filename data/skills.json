@@ -32623,9 +32623,10 @@
     "range": 2,
     "might": 14,
     "refine_kind": "skill1",
-    "addition_date": "2017-02-27",
-    "release_date": "2017-02-27",
-    "version": "1.0"
+    "addition_date": "2018-01-11",
+    "release_date": "2018-01-11",
+    "release_date_verified": "manually",
+    "version": "2.1"
   },
   {
     "id": "SID_遠反・攻速守の絆",
@@ -84398,9 +84399,10 @@
     "eff": [
       "flying"
     ],
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2018-01-11",
+    "release_date": "2018-01-11",
+    "release_date_verified": "manually",
+    "version": "2.1"
   },
   {
     "id": "SID_生涯の相棒の鋭弓",
