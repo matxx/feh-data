@@ -2835,9 +2835,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2021-02-16",
-    "release_date": "2021-02-16",
-    "version": "5.2"
+    "addition_date": "2025-02-06",
+    "release_date": "2025-02-06",
+    "refine_date": "2025-02-06",
+    "version": "9.2"
   },
   {
     "id": "SID_空からの猛襲4",
@@ -3347,9 +3348,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2020-02-17",
-    "release_date": "2020-02-17",
-    "version": "4.2"
+    "addition_date": "2024-02-06",
+    "release_date": "2024-02-06",
+    "refine_date": "2024-02-06",
+    "version": "8.2"
   },
   {
     "id": "SID_攻撃守備の奮進4",
@@ -3772,9 +3774,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2022-02-18",
-    "release_date": "2022-02-19",
-    "version": "6.2"
+    "addition_date": "2026-01-05",
+    "release_date": "2026-01-05",
+    "refine_date": "2026-01-05",
+    "version": "10.1"
   },
   {
     "id": "SID_アマツ",
@@ -6437,9 +6440,10 @@
     "range": 1,
     "might": 10,
     "refine_kind": "skill1",
-    "addition_date": "2017-10-16",
-    "release_date": "2017-10-23",
-    "version": "1.8"
+    "addition_date": "2021-01-07",
+    "release_date": "2021-01-07",
+    "refine_date": "2021-01-07",
+    "version": "5.1"
   },
   {
     "id": "SID_緋剣デュランダル",
@@ -6813,9 +6817,10 @@
     "eff": [
       "flying"
     ],
-    "addition_date": "2017-02-27",
-    "release_date": "2017-02-27",
-    "version": "1.0"
+    "addition_date": "2019-03-07",
+    "release_date": "2019-03-07",
+    "refine_date": "2019-03-07",
+    "version": "3.3"
   },
   {
     "id": "SID_アルマーズ",
@@ -7693,9 +7698,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2019-12-07",
+    "release_date": "2019-12-07",
+    "refine_date": "2019-12-07",
+    "version": "4.0"
   },
   {
     "id": "SID_エルト兄様のような",
@@ -16342,9 +16348,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2022-07-19",
-    "release_date": "2022-07-20",
-    "version": "6.7"
+    "addition_date": "2026-07-06",
+    "release_date": "2026-07-06",
+    "refine_date": "2026-07-06",
+    "version": "10.7"
   },
   {
     "id": "SID_バアトルの豪斧",
@@ -19020,9 +19027,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2019-08-06",
+    "release_date": "2019-08-06",
+    "refine_date": "2019-08-06",
+    "version": "3.8"
   },
   {
     "id": "SID_獣影・敏捷",
@@ -21501,9 +21509,10 @@
     "eff": [
       "cavalry"
     ],
-    "addition_date": "2017-02-02",
-    "release_date": "2017-03-10",
-    "version": "1.1"
+    "addition_date": "2020-04-07",
+    "release_date": "2020-04-07",
+    "refine_date": "2020-04-07",
+    "version": "4.4"
   },
   {
     "id": "SID_蒼穹・鬼没",
@@ -22166,9 +22175,10 @@
     "range": 2,
     "might": 14,
     "refine_kind": "skill1",
-    "addition_date": "2017-05-15",
-    "release_date": "2017-05-15",
-    "version": "1.3"
+    "addition_date": "2019-08-06",
+    "release_date": "2019-08-06",
+    "refine_date": "2019-08-06",
+    "version": "3.8"
   },
   {
     "id": "SID_泡影の書",
@@ -22603,9 +22613,10 @@
     "eff": [
       "flying"
     ],
-    "addition_date": "2017-07-13",
-    "release_date": "2017-07-13",
-    "version": "1.5"
+    "addition_date": "2020-05-07",
+    "release_date": "2020-05-07",
+    "refine_date": "2020-05-07",
+    "version": "4.5"
   },
   {
     "id": "SID_盲愛の弓",
@@ -22646,9 +22657,10 @@
     "eff": [
       "flying"
     ],
-    "addition_date": "2017-04-14",
-    "release_date": "2017-04-14",
-    "version": "1.2"
+    "addition_date": "2019-05-09",
+    "release_date": "2019-05-09",
+    "refine_date": "2019-05-09",
+    "version": "3.5"
   },
   {
     "id": "SID_フレリアの玉弓",
@@ -24913,9 +24925,10 @@
       "armored",
       "cavalry"
     ],
-    "addition_date": "2020-04-20",
-    "release_date": "2020-04-20",
-    "version": "4.4"
+    "addition_date": "2023-11-06",
+    "release_date": "2023-11-06",
+    "refine_date": "2023-11-06",
+    "version": "7.11"
   },
   {
     "id": "SID_聖光スターライト",
@@ -25388,9 +25401,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2019-04-09",
+    "release_date": "2019-04-09",
+    "refine_date": "2019-04-09",
+    "version": "3.4"
   },
   {
     "id": "SID_若き猛牛の槍",
@@ -25425,9 +25439,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2019-05-09",
+    "release_date": "2019-05-09",
+    "refine_date": "2019-05-09",
+    "version": "3.5"
   },
   {
     "id": "SID_ウカノミタマ",
@@ -26947,9 +26962,10 @@
     "range": 2,
     "might": 14,
     "refine_kind": "skill1",
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2020-04-07",
+    "release_date": "2020-04-07",
+    "refine_date": "2020-04-07",
+    "version": "4.4"
   },
   {
     "id": "SID_キャンドルサービス",
@@ -27363,9 +27379,10 @@
     "range": 2,
     "might": 14,
     "refine_kind": "skill1",
-    "addition_date": "2021-09-17",
-    "release_date": "2021-09-18",
-    "version": "5.9"
+    "addition_date": "2025-07-07",
+    "release_date": "2025-07-07",
+    "refine_date": "2025-07-07",
+    "version": "9.7"
   },
   {
     "id": "SID_深き優しさの聖器",
@@ -27919,9 +27936,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2021-10-18",
-    "release_date": "2021-10-18",
-    "version": "5.10"
+    "addition_date": "2026-02-04",
+    "release_date": "2026-02-04",
+    "refine_date": "2026-02-04",
+    "version": "10.2"
   },
   {
     "id": "SID_天風",
@@ -29384,9 +29402,10 @@
     "range": 2,
     "might": 14,
     "refine_kind": "skill1",
-    "addition_date": "2021-12-06",
-    "release_date": "2021-12-07",
-    "version": "6.0"
+    "addition_date": "2026-06-04",
+    "release_date": "2026-06-04",
+    "refine_date": "2026-06-04",
+    "version": "10.6"
   },
   {
     "id": "SID_近反・攻守魔の絆",
@@ -29974,9 +29993,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2021-11-17",
-    "release_date": "2021-11-18",
-    "version": "5.11"
+    "addition_date": "2025-09-04",
+    "release_date": "2025-09-04",
+    "refine_date": "2025-09-04",
+    "version": "9.9"
   },
   {
     "id": "SID_あまいみつのゆめ",
@@ -30214,9 +30234,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2017-06-14",
-    "release_date": "2017-06-14",
-    "version": "1.4"
+    "addition_date": "2019-11-06",
+    "release_date": "2019-11-06",
+    "refine_date": "2019-11-06",
+    "version": "3.11"
   },
   {
     "id": "SID_ほら貝のブーケ",
@@ -30458,9 +30479,10 @@
     "range": 2,
     "might": 14,
     "refine_kind": "skill1",
-    "addition_date": "2020-11-17",
-    "release_date": "2020-11-17",
-    "version": "4.11"
+    "addition_date": "2024-12-05",
+    "release_date": "2024-12-05",
+    "refine_date": "2024-12-05",
+    "version": "9.0"
   },
   {
     "id": "SID_サンゴの弓",
@@ -30623,9 +30645,10 @@
     "range": 1,
     "might": 10,
     "refine_kind": "skill1",
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2020-01-11",
+    "release_date": "2020-01-11",
+    "refine_date": "2020-01-11",
+    "version": "4.1"
   },
   {
     "id": "SID_異形なる竜王",
@@ -30693,9 +30716,10 @@
     "range": 2,
     "might": 14,
     "refine_kind": "skill1",
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2020-01-10",
+    "release_date": "2020-01-10",
+    "refine_date": "2020-01-10",
+    "version": "4.1"
   },
   {
     "id": "SID_合気・強化無効",
@@ -31403,9 +31427,10 @@
     "range": 2,
     "might": 14,
     "refine_kind": "skill1",
-    "addition_date": "2020-09-19",
-    "release_date": "2020-09-19",
-    "version": "4.9"
+    "addition_date": "2024-10-03",
+    "release_date": "2024-10-03",
+    "refine_date": "2024-10-03",
+    "version": "8.10"
   },
   {
     "id": "SID_開闢の鼓動",
@@ -31614,9 +31639,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2020-11-17",
-    "release_date": "2020-11-17",
-    "version": "4.11"
+    "addition_date": "2024-10-03",
+    "release_date": "2024-10-03",
+    "refine_date": "2024-10-03",
+    "version": "8.10"
   },
   {
     "id": "SID_朱傭兵の戦斧",
@@ -33519,9 +33545,10 @@
     "range": 2,
     "might": 14,
     "refine_kind": "skill1",
-    "addition_date": "2022-03-18",
-    "release_date": "2022-03-19",
-    "version": "6.3"
+    "addition_date": "2026-02-04",
+    "release_date": "2026-02-04",
+    "refine_date": "2026-02-04",
+    "version": "10.2"
   },
   {
     "id": "SID_黒き血の大剣",
@@ -33596,9 +33623,10 @@
     "range": 2,
     "might": 14,
     "refine_kind": "skill1",
-    "addition_date": "2020-12-08",
-    "release_date": "2020-12-08",
-    "version": "5.0"
+    "addition_date": "2025-02-06",
+    "release_date": "2025-02-06",
+    "refine_date": "2025-02-06",
+    "version": "9.2"
   },
   {
     "id": "SID_魔剣ミストルティン",
@@ -33855,9 +33883,10 @@
     "range": 2,
     "might": 14,
     "refine_kind": "skill1",
-    "addition_date": "2022-02-18",
-    "release_date": "2022-02-18",
-    "version": "6.2"
+    "addition_date": "2026-05-07",
+    "release_date": "2026-05-07",
+    "refine_date": "2026-05-07",
+    "version": "10.5"
   },
   {
     "id": "SID_飛燕の一撃1",
@@ -34234,9 +34263,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2017-04-14",
-    "release_date": "2017-04-14",
-    "version": "1.2"
+    "addition_date": "2019-05-09",
+    "release_date": "2019-05-09",
+    "refine_date": "2019-05-09",
+    "version": "3.5"
   },
   {
     "id": "SID_春に揺蕩う白夢の卵",
@@ -38311,9 +38341,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2019-11-06",
-    "release_date": "2019-11-07",
-    "version": "3.11"
+    "addition_date": "2023-07-06",
+    "release_date": "2023-07-06",
+    "refine_date": "2023-07-06",
+    "version": "7.7"
   },
   {
     "id": "SID_深き絶望のブレス",
@@ -38508,9 +38539,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2020-02-12",
+    "release_date": "2020-02-12",
+    "refine_date": "2020-02-12",
+    "version": "4.2"
   },
   {
     "id": "SID_コウモリの弓",
@@ -38808,9 +38840,10 @@
     "eff": [
       "flying"
     ],
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2019-10-08",
+    "release_date": "2019-10-08",
+    "refine_date": "2019-10-08",
+    "version": "3.10"
   },
   {
     "id": "SID_火地水の命脈",
@@ -44057,9 +44090,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2020-10-08",
+    "release_date": "2020-10-08",
+    "refine_date": "2020-10-08",
+    "version": "4.10"
   },
   {
     "id": "SID_エルドフリムニル",
@@ -44140,9 +44174,10 @@
     "range": 2,
     "might": 14,
     "refine_kind": "skill1",
-    "addition_date": "2017-04-26",
-    "release_date": "2017-04-26",
-    "version": "1.2"
+    "addition_date": "2020-12-08",
+    "release_date": "2020-12-08",
+    "refine_date": "2020-12-08",
+    "version": "5.0"
   },
   {
     "id": "SID_エルファイアー",
@@ -44236,9 +44271,10 @@
     "range": 2,
     "might": 14,
     "refine_kind": "skill1",
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2020-11-05",
+    "release_date": "2020-11-05",
+    "refine_date": "2020-11-05",
+    "version": "4.11"
   },
   {
     "id": "SID_エルライト",
@@ -45086,9 +45122,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2020-11-05",
+    "release_date": "2020-11-05",
+    "refine_date": "2020-11-05",
+    "version": "4.11"
   },
   {
     "id": "SID_悠久の書",
@@ -45123,9 +45160,10 @@
     "range": 2,
     "might": 14,
     "refine_kind": "skill1",
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2019-03-07",
+    "release_date": "2019-03-07",
+    "refine_date": "2019-03-07",
+    "version": "3.3"
   },
   {
     "id": "SID_異空のブレス",
@@ -47036,9 +47074,10 @@
     "range": 2,
     "might": 14,
     "refine_kind": "skill1",
-    "addition_date": "2018-03-09",
-    "release_date": "2018-03-09",
-    "version": "2.3"
+    "addition_date": "2020-02-12",
+    "release_date": "2020-02-12",
+    "refine_date": "2020-02-12",
+    "version": "4.2"
   },
   {
     "id": "SID_ガルシアの子の斧",
@@ -47073,9 +47112,10 @@
     "range": 1,
     "might": 10,
     "refine_kind": "skill1",
-    "addition_date": "2019-11-06",
-    "release_date": "2019-11-07",
-    "version": "3.11"
+    "addition_date": "2023-07-06",
+    "release_date": "2023-07-06",
+    "refine_date": "2023-07-06",
+    "version": "7.7"
   },
   {
     "id": "SID_フィアー",
@@ -48290,9 +48330,10 @@
     "range": 2,
     "might": 14,
     "refine_kind": "skill1",
-    "addition_date": "2021-04-05",
-    "release_date": "2021-04-07",
-    "version": "5.4"
+    "addition_date": "2025-01-06",
+    "release_date": "2025-01-06",
+    "refine_date": "2025-01-06",
+    "version": "9.1"
   },
   {
     "id": "SID_傷をつけたわね",
@@ -49312,9 +49353,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2020-03-05",
-    "release_date": "2020-03-09",
-    "version": "4.3"
+    "addition_date": "2023-11-06",
+    "release_date": "2023-11-06",
+    "refine_date": "2023-11-06",
+    "version": "7.11"
   },
   {
     "id": "SID_炎の軍配",
@@ -51322,9 +51364,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2018-07-20",
-    "release_date": "2018-07-20",
-    "version": "2.7"
+    "addition_date": "2021-04-05",
+    "release_date": "2021-04-05",
+    "refine_date": "2021-04-05",
+    "version": "5.4"
   },
   {
     "id": "SID_親愛の花",
@@ -52850,9 +52893,10 @@
     "eff": [
       "armored"
     ],
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2019-10-08",
+    "release_date": "2019-10-08",
+    "refine_date": "2019-10-08",
+    "version": "3.10"
   },
   {
     "id": "SID_義勇軍の正剣",
@@ -52887,9 +52931,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2019-12-05",
-    "release_date": "2019-12-06",
-    "version": "4.0"
+    "addition_date": "2023-05-08",
+    "release_date": "2023-05-08",
+    "refine_date": "2023-05-08",
+    "version": "7.5"
   },
   {
     "id": "SID_凍結の封印",
@@ -55320,9 +55365,10 @@
     "range": 2,
     "might": 14,
     "refine_kind": "skill1",
-    "addition_date": "2021-04-05",
-    "release_date": "2021-04-06",
-    "version": "5.4"
+    "addition_date": "2025-06-05",
+    "release_date": "2025-06-05",
+    "refine_date": "2025-06-05",
+    "version": "9.6"
   },
   {
     "id": "SID_始祖ファルシオン",
@@ -56119,9 +56165,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2018-12-11",
+    "release_date": "2018-12-11",
+    "refine_date": "2018-12-11",
+    "version": "3.0"
   },
   {
     "id": "SID_猛き闘技者の弓",
@@ -56936,9 +56983,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2019-11-06",
+    "release_date": "2019-11-06",
+    "refine_date": "2019-11-06",
+    "version": "3.11"
   },
   {
     "id": "SID_魔女と女神の夏光",
@@ -57180,9 +57228,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2017-08-15",
-    "release_date": "2017-08-15",
-    "version": "1.6"
+    "addition_date": "2019-02-07",
+    "release_date": "2019-02-07",
+    "refine_date": "2019-02-07",
+    "version": "3.2"
   },
   {
     "id": "SID_グラフカリバー",
@@ -57386,9 +57435,10 @@
     "range": 1,
     "might": 11,
     "refine_kind": "skill1",
-    "addition_date": "2021-09-17",
-    "release_date": "2021-09-17",
-    "version": "5.9"
+    "addition_date": "2026-01-05",
+    "release_date": "2026-01-05",
+    "refine_date": "2026-01-05",
+    "version": "10.1"
   },
   {
     "id": "SID_グラーティア",
@@ -59576,9 +59626,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2019-10-08",
+    "release_date": "2019-10-08",
+    "refine_date": "2019-10-08",
+    "version": "3.10"
   },
   {
     "id": "SID_守護者の烈弓",
@@ -60414,9 +60465,10 @@
     "eff": [
       "armored"
     ],
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2019-04-09",
+    "release_date": "2019-04-09",
+    "refine_date": "2019-04-09",
+    "version": "3.4"
   },
   {
     "id": "SID_ハンドベル",
@@ -61307,9 +61359,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2021-02-16",
-    "release_date": "2021-02-17",
-    "version": "5.2"
+    "addition_date": "2024-11-05",
+    "release_date": "2024-11-05",
+    "refine_date": "2024-11-05",
+    "version": "8.11"
   },
   {
     "id": "SID_天照",
@@ -62001,9 +62054,10 @@
     "eff": [
       "cavalry"
     ],
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2019-07-08",
+    "release_date": "2019-07-08",
+    "refine_date": "2019-07-08",
+    "version": "3.7"
   },
   {
     "id": "SID_英雄王の剣",
@@ -62075,9 +62129,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2021-12-06",
-    "release_date": "2021-12-07",
-    "version": "6.0"
+    "addition_date": "2026-07-06",
+    "release_date": "2026-07-06",
+    "refine_date": "2026-07-06",
+    "version": "10.7"
   },
   {
     "id": "SID_双勇マルテ",
@@ -62150,9 +62205,10 @@
     "range": 1,
     "might": 11,
     "refine_kind": "skill1",
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2020-06-05",
+    "release_date": "2020-06-05",
+    "refine_date": "2020-06-05",
+    "version": "4.6"
   },
   {
     "id": "SID_魔刃の斧",
@@ -62607,9 +62663,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2019-02-07",
+    "release_date": "2019-02-07",
+    "refine_date": "2019-02-07",
+    "version": "3.2"
   },
   {
     "id": "SID_ヒノカの紅薙刀",
@@ -62698,9 +62755,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2022-10-17",
-    "release_date": "2022-10-18",
-    "version": "6.10"
+    "addition_date": "2026-11-05",
+    "release_date": "2026-11-05",
+    "refine_date": "2026-11-05",
+    "version": "10.11"
   },
   {
     "id": "SID_一撃離脱",
@@ -63985,9 +64043,10 @@
     "eff": [
       "flying"
     ],
-    "addition_date": "2021-10-18",
-    "release_date": "2021-10-19",
-    "version": "5.10"
+    "addition_date": "2025-08-06",
+    "release_date": "2025-08-06",
+    "refine_date": "2025-08-06",
+    "version": "9.8"
   },
   {
     "id": "SID_HP1",
@@ -64821,9 +64880,10 @@
     "eff": [
       "cavalry"
     ],
-    "addition_date": "2020-02-17",
-    "release_date": "2020-02-17",
-    "version": "4.2"
+    "addition_date": "2023-10-03",
+    "release_date": "2023-10-03",
+    "refine_date": "2023-10-03",
+    "version": "7.10"
   },
   {
     "id": "SID_記憶が蘇る…",
@@ -66909,9 +66969,10 @@
     "range": 2,
     "might": 14,
     "refine_kind": "skill1",
-    "addition_date": "2017-05-15",
-    "release_date": "2017-05-15",
-    "version": "1.3"
+    "addition_date": "2019-08-06",
+    "release_date": "2019-08-06",
+    "refine_date": "2019-08-06",
+    "version": "3.8"
   },
   {
     "id": "SID_母娘の静やかな祝福",
@@ -67378,9 +67439,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2020-04-07",
+    "release_date": "2020-04-07",
+    "refine_date": "2020-04-07",
+    "version": "4.4"
   },
   {
     "id": "SID_お姉様は絶対無敵",
@@ -67492,9 +67554,10 @@
     "range": 2,
     "might": 14,
     "refine_kind": "skill1",
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2019-02-07",
+    "release_date": "2019-02-07",
+    "refine_date": "2019-02-07",
+    "version": "3.2"
   },
   {
     "id": "SID_鉄の斧",
@@ -67715,9 +67778,10 @@
     "range": 1,
     "might": 11,
     "refine_kind": "skill1",
-    "addition_date": "2022-03-18",
-    "release_date": "2022-03-18",
-    "version": "6.3"
+    "addition_date": "2026-10-06",
+    "release_date": "2026-10-06",
+    "refine_date": "2026-10-06",
+    "version": "10.10"
   },
   {
     "id": "SID_のれん",
@@ -67853,9 +67917,10 @@
     "range": 2,
     "might": 14,
     "refine_kind": "skill1",
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2020-02-12",
+    "release_date": "2020-02-12",
+    "refine_date": "2020-02-12",
+    "version": "4.2"
   },
   {
     "id": "SID_ジャムセッション",
@@ -68554,9 +68619,10 @@
     "eff": [
       "armored"
     ],
-    "addition_date": "2017-07-07",
-    "release_date": "2017-07-07",
-    "version": "1.5"
+    "addition_date": "2020-03-05",
+    "release_date": "2020-03-05",
+    "refine_date": "2020-03-05",
+    "version": "4.3"
   },
   {
     "id": "SID_夏野菜の桶",
@@ -68953,9 +69019,10 @@
     "range": 2,
     "might": 14,
     "refine_kind": "skill1",
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2019-06-10",
+    "release_date": "2019-06-10",
+    "refine_date": "2019-06-10",
+    "version": "3.6"
   },
   {
     "id": "SID_スズカゼの疾風針",
@@ -69991,9 +70058,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2017-07-13",
-    "release_date": "2017-07-13",
-    "version": "1.5"
+    "addition_date": "2019-12-07",
+    "release_date": "2019-12-07",
+    "refine_date": "2019-12-07",
+    "version": "4.0"
   },
   {
     "id": "SID_聖騎士の嗜み",
@@ -70631,9 +70699,10 @@
     "eff": [
       "cavalry"
     ],
-    "addition_date": "2017-07-13",
-    "release_date": "2017-07-13",
-    "version": "1.5"
+    "addition_date": "2020-03-05",
+    "release_date": "2020-03-05",
+    "refine_date": "2020-03-05",
+    "version": "4.3"
   },
   {
     "id": "SID_槍の経験1",
@@ -71209,9 +71278,10 @@
     "range": 2,
     "might": 14,
     "refine_kind": "skill1",
-    "addition_date": "2022-01-06",
-    "release_date": "2022-01-07",
-    "version": "6.1"
+    "addition_date": "2026-08-06",
+    "release_date": "2026-08-06",
+    "refine_date": "2026-08-06",
+    "version": "10.8"
   },
   {
     "id": "SID_ラズワルドの舞剣",
@@ -71246,9 +71316,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2020-02-12",
+    "release_date": "2020-02-12",
+    "refine_date": "2020-02-12",
+    "version": "4.2"
   },
   {
     "id": "SID_サカの掟",
@@ -71329,9 +71400,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2022-03-18",
-    "release_date": "2022-03-18",
-    "version": "6.3"
+    "addition_date": "2026-11-05",
+    "release_date": "2026-11-05",
+    "refine_date": "2026-11-05",
+    "version": "10.11"
   },
   {
     "id": "SID_光の花婿の斧",
@@ -72923,9 +72995,10 @@
     "eff": [
       "armored"
     ],
-    "addition_date": "2017-07-13",
-    "release_date": "2017-08-11",
-    "version": "1.6"
+    "addition_date": "2019-12-07",
+    "release_date": "2019-12-07",
+    "refine_date": "2019-12-07",
+    "version": "4.0"
   },
   {
     "id": "SID_愛情のブーケ",
@@ -73187,9 +73260,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2017-09-15",
-    "release_date": "2017-09-15",
-    "version": "1.7"
+    "addition_date": "2019-06-10",
+    "release_date": "2019-06-10",
+    "refine_date": "2019-06-10",
+    "version": "3.6"
   },
   {
     "id": "SID_花輪",
@@ -73370,9 +73444,10 @@
     "eff": [
       "flying"
     ],
-    "addition_date": "2020-04-07",
-    "release_date": "2020-04-08",
-    "version": "4.4"
+    "addition_date": "2024-03-06",
+    "release_date": "2024-03-06",
+    "refine_date": "2024-03-06",
+    "version": "8.3"
   },
   {
     "id": "SID_ルーン",
@@ -75124,9 +75199,10 @@
     "range": 2,
     "might": 14,
     "refine_kind": "skill1",
-    "addition_date": "2022-02-18",
-    "release_date": "2022-02-18",
-    "version": "6.2"
+    "addition_date": "2026-10-06",
+    "release_date": "2026-10-06",
+    "refine_date": "2026-10-06",
+    "version": "10.10"
   },
   {
     "id": "SID_神軍師の書",
@@ -75886,9 +75962,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2020-09-18",
-    "release_date": "2020-09-18",
-    "version": "4.9"
+    "addition_date": "2024-08-06",
+    "release_date": "2024-08-06",
+    "refine_date": "2024-08-06",
+    "version": "8.8"
   },
   {
     "id": "SID_メリクル",
@@ -78790,9 +78867,10 @@
     "eff": [
       "flying"
     ],
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2019-02-07",
+    "release_date": "2019-02-07",
+    "refine_date": "2019-02-07",
+    "version": "3.2"
   },
   {
     "id": "SID_敏捷なる獣",
@@ -79489,9 +79567,10 @@
     "eff": [
       "flying"
     ],
-    "addition_date": "2021-04-05",
-    "release_date": "2021-04-06",
-    "version": "5.4"
+    "addition_date": "2025-05-07",
+    "release_date": "2025-05-07",
+    "refine_date": "2025-05-07",
+    "version": "9.5"
   },
   {
     "id": "SID_高潔の戦槍",
@@ -80208,9 +80287,10 @@
     "eff": [
       "armored"
     ],
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2019-02-07",
+    "release_date": "2019-02-07",
+    "refine_date": "2019-02-07",
+    "version": "3.2"
   },
   {
     "id": "SID_オヴスキュリテ",
@@ -80406,9 +80486,10 @@
     "eff": [
       "cavalry"
     ],
-    "addition_date": "2017-11-28",
-    "release_date": "2017-12-02",
-    "version": "2.0"
+    "addition_date": "2020-10-08",
+    "release_date": "2020-10-08",
+    "refine_date": "2020-10-08",
+    "version": "4.10"
   },
   {
     "id": "SID_黒曜の槍",
@@ -82759,9 +82840,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2019-04-09",
+    "release_date": "2019-04-09",
+    "refine_date": "2019-04-09",
+    "version": "3.4"
   },
   {
     "id": "SID_若き黒豹の剣",
@@ -82796,9 +82878,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2019-05-09",
+    "release_date": "2019-05-09",
+    "refine_date": "2019-05-09",
+    "version": "3.5"
   },
   {
     "id": "SID_被害妄想",
@@ -83626,9 +83709,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2019-04-09",
+    "release_date": "2019-04-09",
+    "refine_date": "2019-04-09",
+    "version": "3.4"
   },
   {
     "id": "SID_被害妄想の弓",
@@ -84011,9 +84095,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2021-11-17",
-    "release_date": "2021-11-17",
-    "version": "5.11"
+    "addition_date": "2026-05-07",
+    "release_date": "2026-05-07",
+    "refine_date": "2026-05-07",
+    "version": "10.5"
   },
   {
     "id": "SID_幻影の書",
@@ -84725,9 +84810,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2020-06-05",
-    "release_date": "2020-06-05",
-    "version": "4.6"
+    "addition_date": "2024-07-04",
+    "release_date": "2024-07-04",
+    "refine_date": "2024-07-04",
+    "version": "8.7"
   },
   {
     "id": "SID_神罰・因果応報",
@@ -86026,9 +86112,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2021-06-07",
-    "release_date": "2021-06-09",
-    "version": "5.6"
+    "addition_date": "2025-04-03",
+    "release_date": "2025-04-03",
+    "refine_date": "2025-04-03",
+    "version": "9.4"
   },
   {
     "id": "SID_響・超神速",
@@ -86523,9 +86610,10 @@
     "range": 2,
     "might": 14,
     "refine_kind": "skill1",
-    "addition_date": "2019-11-06",
-    "release_date": "2019-11-07",
-    "version": "3.11"
+    "addition_date": "2023-05-08",
+    "release_date": "2023-05-08",
+    "refine_date": "2023-05-08",
+    "version": "7.5"
   },
   {
     "id": "SID_正真無惨",
@@ -86672,9 +86760,10 @@
     "range": 1,
     "might": 14,
     "refine_kind": "skill1",
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2020-12-08",
+    "release_date": "2020-12-08",
+    "refine_date": "2020-12-08",
+    "version": "5.0"
   },
   {
     "id": "SID_追撃の斧",
@@ -90117,9 +90206,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2021-10-18",
-    "release_date": "2021-10-18",
-    "version": "5.10"
+    "addition_date": "2026-03-05",
+    "release_date": "2026-03-05",
+    "refine_date": "2026-03-05",
+    "version": "10.3"
   },
   {
     "id": "SID_守りの斧＋",
@@ -90190,9 +90280,10 @@
     "eff": [
       "flying"
     ],
-    "addition_date": "2017-03-14",
-    "release_date": "2017-03-14",
-    "version": "1.1"
+    "addition_date": "2020-01-11",
+    "release_date": "2020-01-11",
+    "refine_date": "2020-01-11",
+    "version": "4.1"
   },
   {
     "id": "SID_相互援助",
@@ -90250,9 +90341,10 @@
     "range": 2,
     "might": 14,
     "refine_kind": "skill1",
-    "addition_date": "2021-06-07",
-    "release_date": "2021-06-08",
-    "version": "5.6"
+    "addition_date": "2025-07-07",
+    "release_date": "2025-07-07",
+    "refine_date": "2025-07-07",
+    "version": "9.7"
   },
   {
     "id": "SID_ヒール",
@@ -91537,9 +91629,10 @@
     "eff": [
       "flying"
     ],
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2019-11-06",
+    "release_date": "2019-11-06",
+    "refine_date": "2019-11-06",
+    "version": "3.11"
   },
   {
     "id": "SID_一新",
@@ -93126,9 +93219,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2019-11-06",
-    "release_date": "2019-11-11",
-    "version": "3.11"
+    "addition_date": "2023-05-08",
+    "release_date": "2023-05-08",
+    "refine_date": "2023-05-08",
+    "version": "7.5"
   },
   {
     "id": "SID_強化反転の斧",
@@ -94965,9 +95059,10 @@
     "range": 1,
     "might": 11,
     "refine_kind": "skill1",
-    "addition_date": "2017-06-14",
-    "release_date": "2017-06-14",
-    "version": "1.4"
+    "addition_date": "2019-07-07",
+    "release_date": "2019-07-07",
+    "refine_date": "2019-07-07",
+    "version": "3.6"
   },
   {
     "id": "SID_聖王女の弓",
@@ -95271,9 +95366,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-10",
-    "version": "1.0"
+    "addition_date": "2020-05-07",
+    "release_date": "2020-05-07",
+    "refine_date": "2020-05-07",
+    "version": "4.5"
   },
   {
     "id": "SID_破天",
@@ -96881,9 +96977,10 @@
     "eff": [
       "flying"
     ],
-    "addition_date": "2020-02-17",
-    "release_date": "2020-02-17",
-    "version": "4.2"
+    "addition_date": "2023-12-06",
+    "release_date": "2023-12-06",
+    "refine_date": "2023-12-06",
+    "version": "8.0"
   },
   {
     "id": "SID_プレゼント袋",
@@ -97265,9 +97362,10 @@
     "range": 2,
     "might": 14,
     "refine_kind": "skill1",
-    "addition_date": "2021-06-07",
-    "release_date": "2021-06-08",
-    "version": "5.6"
+    "addition_date": "2025-10-06",
+    "release_date": "2025-10-06",
+    "refine_date": "2025-10-06",
+    "version": "9.10"
   },
   {
     "id": "SID_サイゾウの爆炎針",
@@ -97302,9 +97400,10 @@
     "range": 2,
     "might": 14,
     "refine_kind": "skill1",
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2019-06-10",
+    "release_date": "2019-06-10",
+    "refine_date": "2019-06-10",
+    "version": "3.6"
   },
   {
     "id": "SID_七難即滅",
@@ -99704,9 +99803,10 @@
     "eff": [
       "armored"
     ],
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2019-08-06",
+    "release_date": "2019-08-06",
+    "refine_date": "2019-08-06",
+    "version": "3.8"
   },
   {
     "id": "SID_自己研鑽",
@@ -100804,9 +100904,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2018-01-25",
-    "release_date": "2018-01-31",
-    "version": "2.1"
+    "addition_date": "2021-04-05",
+    "release_date": "2021-04-05",
+    "refine_date": "2021-04-05",
+    "version": "5.4"
   },
   {
     "id": "SID_シャニーの誓槍",
@@ -102960,9 +103061,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2017-08-15",
-    "release_date": "2017-08-15",
-    "version": "1.6"
+    "addition_date": "2019-02-07",
+    "release_date": "2019-02-07",
+    "refine_date": "2019-02-07",
+    "version": "3.2"
   },
   {
     "id": "SID_歌う",
@@ -104495,9 +104597,10 @@
     "eff": [
       "flying"
     ],
-    "addition_date": "2017-06-14",
-    "release_date": "2017-06-28",
-    "version": "1.4"
+    "addition_date": "2020-06-05",
+    "release_date": "2020-06-05",
+    "refine_date": "2020-06-05",
+    "version": "4.6"
   },
   {
     "id": "SID_スノードーム",
@@ -105204,9 +105307,10 @@
     "eff": [
       "flying"
     ],
-    "addition_date": "2021-11-17",
-    "release_date": "2021-11-17",
-    "version": "5.11"
+    "addition_date": "2026-04-06",
+    "release_date": "2026-04-06",
+    "refine_date": "2026-04-06",
+    "version": "10.4"
   },
   {
     "id": "SID_影潜む密偵の香水瓶",
@@ -105412,9 +105516,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2021-07-19",
-    "release_date": "2021-07-19",
-    "version": "5.7"
+    "addition_date": "2025-11-05",
+    "release_date": "2025-11-05",
+    "refine_date": "2025-11-05",
+    "version": "9.11"
   },
   {
     "id": "SID_慕炎の書",
@@ -111404,9 +111509,10 @@
     "range": 2,
     "might": 14,
     "refine_kind": "skill1",
-    "addition_date": "2017-05-15",
-    "release_date": "2017-05-15",
-    "version": "1.3"
+    "addition_date": "2021-01-07",
+    "release_date": "2021-01-07",
+    "refine_date": "2021-01-07",
+    "version": "5.1"
   },
   {
     "id": "SID_春兎の斧",
@@ -112452,9 +112558,10 @@
     "range": 2,
     "might": 14,
     "refine_kind": "skill1",
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2019-07-08",
+    "release_date": "2019-07-08",
+    "refine_date": "2019-07-08",
+    "version": "3.7"
   },
   {
     "id": "SID_密偵忍者の手裏剣",
@@ -113149,9 +113256,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2020-06-05",
+    "release_date": "2020-06-05",
+    "refine_date": "2020-06-05",
+    "version": "4.6"
   },
   {
     "id": "SID_ヒトデ",
@@ -113628,9 +113736,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2017-06-14",
-    "release_date": "2017-06-14",
-    "version": "1.4"
+    "addition_date": "2019-07-07",
+    "release_date": "2019-07-07",
+    "refine_date": "2019-07-07",
+    "version": "3.6"
   },
   {
     "id": "SID_飛燕金剛の構え1",
@@ -114487,9 +114596,10 @@
     "range": 2,
     "might": 14,
     "refine_kind": "skill1",
-    "addition_date": "2022-04-18",
-    "release_date": "2022-04-18",
-    "version": "6.4"
+    "addition_date": "2026-11-05",
+    "release_date": "2026-11-05",
+    "refine_date": "2026-11-05",
+    "version": "10.11"
   },
   {
     "id": "SID_雷剣ジークリンデ",
@@ -114743,9 +114853,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2020-03-05",
-    "release_date": "2020-03-06",
-    "version": "4.3"
+    "addition_date": "2024-01-09",
+    "release_date": "2024-01-09",
+    "refine_date": "2024-01-09",
+    "version": "8.1"
   },
   {
     "id": "SID_計略・一斉突撃1",
@@ -115743,9 +115854,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2018-04-24",
-    "release_date": "2018-04-24",
-    "version": "2.4"
+    "addition_date": "2019-11-06",
+    "release_date": "2019-11-06",
+    "refine_date": "2019-11-06",
+    "version": "3.11"
   },
   {
     "id": "SID_天日の神剣",
@@ -117569,9 +117681,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2021-03-04",
-    "release_date": "2021-03-05",
-    "version": "5.3"
+    "addition_date": "2025-04-03",
+    "release_date": "2025-04-03",
+    "refine_date": "2025-04-03",
+    "version": "9.4"
   },
   {
     "id": "SID_軍師の雷書",
@@ -118700,9 +118813,10 @@
     "range": 2,
     "might": 14,
     "refine_kind": "skill1",
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2019-02-07",
+    "release_date": "2019-02-07",
+    "refine_date": "2019-02-07",
+    "version": "3.2"
   },
   {
     "id": "SID_粛清の暗器",
@@ -118985,9 +119099,10 @@
     "range": 2,
     "might": 14,
     "refine_kind": "skill1",
-    "addition_date": "2022-01-06",
-    "release_date": "2022-01-07",
-    "version": "6.1"
+    "addition_date": "2026-05-07",
+    "release_date": "2026-05-07",
+    "refine_date": "2026-05-07",
+    "version": "10.5"
   },
   {
     "id": "SID_辺境の盗賊の暗器",
@@ -119028,9 +119143,10 @@
     "eff": [
       "cavalry"
     ],
-    "addition_date": "2020-07-20",
-    "release_date": "2020-07-20",
-    "version": "4.7"
+    "addition_date": "2024-06-06",
+    "release_date": "2024-06-06",
+    "refine_date": "2024-06-06",
+    "version": "8.6"
   },
   {
     "id": "SID_ソグン",
@@ -119311,9 +119427,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2020-01-08",
-    "release_date": "2020-01-12",
-    "version": "4.1"
+    "addition_date": "2023-08-07",
+    "release_date": "2023-08-07",
+    "refine_date": "2023-08-07",
+    "version": "7.8"
   },
   {
     "id": "SID_攻撃守備の威嚇1",
@@ -120398,9 +120515,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2020-12-08",
-    "release_date": "2020-12-08",
-    "version": "5.0"
+    "addition_date": "2024-08-06",
+    "release_date": "2024-08-06",
+    "refine_date": "2024-08-06",
+    "version": "8.8"
   },
   {
     "id": "SID_虎の剛斧",
@@ -121042,9 +121160,10 @@
     "range": 2,
     "might": 14,
     "refine_kind": "skill1",
-    "addition_date": "2018-01-12",
-    "release_date": "2018-01-14",
-    "version": "2.1"
+    "addition_date": "2020-12-08",
+    "release_date": "2020-12-08",
+    "refine_date": "2020-12-08",
+    "version": "5.0"
   },
   {
     "id": "SID_激情の炎の書",
@@ -121079,9 +121198,10 @@
     "range": 2,
     "might": 14,
     "refine_kind": "skill1",
-    "addition_date": "2021-01-07",
-    "release_date": "2021-01-08",
-    "version": "5.1"
+    "addition_date": "2025-04-03",
+    "release_date": "2025-04-03",
+    "refine_date": "2025-04-03",
+    "version": "9.4"
   },
   {
     "id": "SID_グラドの史書",
@@ -121158,9 +121278,10 @@
     "range": 2,
     "might": 14,
     "refine_kind": "skill1",
-    "addition_date": "2021-07-19",
-    "release_date": "2021-07-20",
-    "version": "5.7"
+    "addition_date": "2025-05-07",
+    "release_date": "2025-05-07",
+    "refine_date": "2025-05-07",
+    "version": "9.5"
   },
   {
     "id": "SID_豪奢な富書",
@@ -123410,9 +123531,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2019-10-21",
-    "release_date": "2019-10-21",
-    "version": "3.10"
+    "addition_date": "2023-05-08",
+    "release_date": "2023-05-08",
+    "refine_date": "2023-05-08",
+    "version": "7.5"
   },
   {
     "id": "SID_ファラフレイム",
@@ -124300,9 +124422,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2020-03-05",
+    "release_date": "2020-03-05",
+    "refine_date": "2020-03-05",
+    "version": "4.3"
   },
   {
     "id": "SID_猛攻の暗器",
@@ -124546,9 +124669,10 @@
     "eff": [
       "flying"
     ],
-    "addition_date": "2019-12-05",
-    "release_date": "2019-12-06",
-    "version": "4.0"
+    "addition_date": "2023-06-07",
+    "release_date": "2023-06-07",
+    "refine_date": "2023-06-07",
+    "version": "7.6"
   },
   {
     "id": "SID_至聖ナーガ",
@@ -124704,9 +124828,10 @@
     "range": 2,
     "might": 14,
     "refine_kind": "skill1",
-    "addition_date": "2021-08-17",
-    "release_date": "2021-08-18",
-    "version": "5.8"
+    "addition_date": "2025-06-05",
+    "release_date": "2025-06-05",
+    "refine_date": "2025-06-05",
+    "version": "9.6"
   },
   {
     "id": "SID_心流星",
@@ -126346,9 +126471,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2020-05-07",
+    "release_date": "2020-05-07",
+    "refine_date": "2020-05-07",
+    "version": "4.5"
   },
   {
     "id": "SID_奇異ルーテの書",
@@ -126423,9 +126549,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2019-11-19",
-    "release_date": "2019-11-19",
-    "version": "3.11"
+    "addition_date": "2023-08-07",
+    "release_date": "2023-08-07",
+    "refine_date": "2023-08-07",
+    "version": "7.8"
   },
   {
     "id": "SID_幼獣の化身・重装",
@@ -126781,9 +126908,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2018-12-11",
+    "release_date": "2018-12-11",
+    "refine_date": "2018-12-11",
+    "version": "3.0"
   },
   {
     "id": "SID_白騎の直槍",
@@ -126818,9 +126946,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2018-12-11",
+    "release_date": "2018-12-11",
+    "refine_date": "2018-12-11",
+    "version": "3.0"
   },
   {
     "id": "SID_白騎の短槍",
@@ -126861,9 +126990,10 @@
     "eff": [
       "armored"
     ],
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2018-12-11",
+    "release_date": "2018-12-11",
+    "refine_date": "2018-12-11",
+    "version": "3.0"
   },
   {
     "id": "SID_真獅子連斬",
@@ -126972,9 +127102,10 @@
     "range": 2,
     "might": 14,
     "refine_kind": "skill1",
-    "addition_date": "2019-11-19",
-    "release_date": "2019-11-19",
-    "version": "3.11"
+    "addition_date": "2023-10-03",
+    "release_date": "2023-10-03",
+    "refine_date": "2023-10-03",
+    "version": "7.10"
   },
   {
     "id": "SID_野花の花嫁の大剣",
@@ -129218,9 +129349,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2020-11-17",
-    "release_date": "2020-11-18",
-    "version": "4.11"
+    "addition_date": "2024-07-04",
+    "release_date": "2024-07-04",
+    "refine_date": "2024-07-04",
+    "version": "8.7"
   },
   {
     "id": "SID_愛竜への情の竜斧",
