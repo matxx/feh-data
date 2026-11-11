@@ -6514,9 +6514,10 @@
     "might": 10,
     "has_refine": true,
     "refines_max_sp": 400,
-    "addition_date": "2017-10-16",
-    "release_date": "2017-10-23",
-    "version": "1.8"
+    "addition_date": "2021-01-07",
+    "release_date": "2021-01-07",
+    "release_date_verified": "manually",
+    "version": "5.1"
   },
   {
     "id": "SID_アーダンの固剣_消",
@@ -6535,6 +6536,7 @@
     "refine_kind": "skill1",
     "addition_date": "2021-01-07",
     "release_date": "2021-01-07",
+    "release_date_verified": "manually",
     "version": "5.1"
   },
   {
@@ -44799,9 +44801,10 @@
     "might": 14,
     "has_refine": true,
     "refines_max_sp": 400,
-    "addition_date": "2017-04-26",
-    "release_date": "2017-04-26",
-    "version": "1.2"
+    "addition_date": "2020-12-08",
+    "release_date": "2020-12-08",
+    "release_date_verified": "manually",
+    "version": "5.0"
   },
   {
     "id": "SID_エルナの杖_恐",
@@ -44820,6 +44823,7 @@
     "refine_kind": "skill1",
     "addition_date": "2020-12-08",
     "release_date": "2020-12-08",
+    "release_date_verified": "manually",
     "version": "5.0"
   },
   {
@@ -52143,9 +52147,10 @@
     "might": 16,
     "has_refine": true,
     "refines_max_sp": 400,
-    "addition_date": "2018-07-20",
-    "release_date": "2018-07-20",
-    "version": "2.7"
+    "addition_date": "2021-04-05",
+    "release_date": "2021-04-05",
+    "release_date_verified": "manually",
+    "version": "5.4"
   },
   {
     "id": "SID_スミアの花槍_救",
@@ -52164,6 +52169,7 @@
     "refine_kind": "skill1",
     "addition_date": "2021-04-05",
     "release_date": "2021-04-05",
+    "release_date_verified": "manually",
     "version": "5.4"
   },
   {
@@ -88312,9 +88318,10 @@
     "might": 14,
     "has_refine": true,
     "refines_max_sp": 400,
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2020-12-08",
+    "release_date": "2020-12-08",
+    "release_date_verified": "manually",
+    "version": "5.0"
   },
   {
     "id": "SID_天真のブレス_無",
@@ -88333,6 +88340,7 @@
     "refine_kind": "skill1",
     "addition_date": "2020-12-08",
     "release_date": "2020-12-08",
+    "release_date_verified": "manually",
     "version": "5.0"
   },
   {
@@ -102674,9 +102682,10 @@
     "might": 16,
     "has_refine": true,
     "refines_max_sp": 400,
-    "addition_date": "2018-01-25",
-    "release_date": "2018-01-31",
-    "version": "2.1"
+    "addition_date": "2021-04-05",
+    "release_date": "2021-04-05",
+    "release_date_verified": "manually",
+    "version": "5.4"
   },
   {
     "id": "SID_シャムシール_鼓",
@@ -102695,6 +102704,7 @@
     "refine_kind": "skill1",
     "addition_date": "2021-04-05",
     "release_date": "2021-04-05",
+    "release_date_verified": "manually",
     "version": "5.4"
   },
   {
@@ -113399,9 +113409,10 @@
     "might": 14,
     "has_refine": true,
     "refines_max_sp": 400,
-    "addition_date": "2017-05-15",
-    "release_date": "2017-05-15",
-    "version": "1.3"
+    "addition_date": "2021-01-07",
+    "release_date": "2021-01-07",
+    "release_date_verified": "manually",
+    "version": "5.1"
   },
   {
     "id": "SID_春陽の杖_回",
@@ -113420,6 +113431,7 @@
     "refine_kind": "skill1",
     "addition_date": "2021-01-07",
     "release_date": "2021-01-07",
+    "release_date_verified": "manually",
     "version": "5.1"
   },
   {
@@ -114415,7 +114427,7 @@
     ],
     "addition_date": "2021-02-04",
     "release_date": "2021-02-04",
-    "release_date_verified": "bot_create",
+    "release_date_verified": "manually",
     "version": "5.2"
   },
   {
@@ -123224,9 +123236,10 @@
     "might": 14,
     "has_refine": true,
     "refines_max_sp": 400,
-    "addition_date": "2018-01-12",
-    "release_date": "2018-01-14",
-    "version": "2.1"
+    "addition_date": "2020-12-08",
+    "release_date": "2020-12-08",
+    "release_date_verified": "manually",
+    "version": "5.0"
   },
   {
     "id": "SID_寵愛の書_愛",
@@ -123245,6 +123258,7 @@
     "refine_kind": "skill1",
     "addition_date": "2020-12-08",
     "release_date": "2020-12-08",
+    "release_date_verified": "manually",
     "version": "5.0"
   },
   {
