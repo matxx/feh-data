@@ -15994,9 +15994,10 @@
     "range": 2,
     "might": 14,
     "refine_kind": "skill1",
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2018-06-08",
+    "release_date": "2018-06-08",
+    "release_date_verified": "manually",
+    "version": "2.6"
   },
   {
     "id": "SID_アーリアル",
@@ -24561,9 +24562,10 @@
     "eff": [
       "dragon"
     ],
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2018-06-08",
+    "release_date": "2018-06-08",
+    "release_date_verified": "manually",
+    "version": "2.6"
   },
   {
     "id": "SID_霧のブレス_絆",
@@ -24583,9 +24585,10 @@
     "eff": [
       "dragon"
     ],
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2018-06-08",
+    "release_date": "2018-06-08",
+    "release_date_verified": "manually",
+    "version": "2.6"
   },
   {
     "id": "SID_生の息吹1",
@@ -46778,9 +46781,10 @@
     "eff": [
       "flying"
     ],
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0"
+    "addition_date": "2018-06-08",
+    "release_date": "2018-06-08",
+    "release_date_verified": "manually",
+    "version": "2.6"
   },
   {
     "id": "SID_理の蛇毒・呼吸",
