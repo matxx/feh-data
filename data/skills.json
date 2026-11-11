@@ -58592,9 +58592,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2018-01-25",
-    "release_date": "2018-01-25",
-    "version": "2.1"
+    "addition_date": "2020-06-05",
+    "release_date": "2020-06-05",
+    "release_date_verified": "manually",
+    "version": "4.6"
   },
   {
     "id": "SID_大いなる癒しの手",
