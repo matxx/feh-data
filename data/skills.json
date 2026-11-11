@@ -7792,8 +7792,9 @@
     "might": 16,
     "has_refine": true,
     "refines_max_sp": 400,
-    "addition_date": "2019-12-07",
-    "release_date": "2019-12-07",
+    "addition_date": "2019-12-05",
+    "release_date": "2019-12-05",
+    "release_date_verified": "manually",
     "version": "4.0"
   },
   {
@@ -7811,9 +7812,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2019-12-07",
-    "release_date": "2019-12-07",
-    "refine_date": "2019-12-07",
+    "addition_date": "2019-12-05",
+    "release_date": "2019-12-05",
+    "release_date_verified": "manually",
+    "refine_date": "2019-12-05",
     "version": "4.0"
   },
   {
@@ -71143,8 +71145,9 @@
     "might": 16,
     "has_refine": true,
     "refines_max_sp": 400,
-    "addition_date": "2019-12-07",
-    "release_date": "2019-12-07",
+    "addition_date": "2019-12-05",
+    "release_date": "2019-12-05",
+    "release_date_verified": "manually",
     "version": "4.0"
   },
   {
@@ -71162,9 +71165,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2019-12-07",
-    "release_date": "2019-12-07",
-    "refine_date": "2019-12-07",
+    "addition_date": "2019-12-05",
+    "release_date": "2019-12-05",
+    "release_date_verified": "manually",
+    "refine_date": "2019-12-05",
     "version": "4.0"
   },
   {
@@ -74140,8 +74144,9 @@
     "eff": [
       "armored"
     ],
-    "addition_date": "2019-12-07",
-    "release_date": "2019-12-07",
+    "addition_date": "2019-12-05",
+    "release_date": "2019-12-05",
+    "release_date_verified": "manually",
     "version": "4.0"
   },
   {
@@ -74162,9 +74167,10 @@
     "eff": [
       "armored"
     ],
-    "addition_date": "2019-12-07",
-    "release_date": "2019-12-07",
-    "refine_date": "2019-12-07",
+    "addition_date": "2019-12-05",
+    "release_date": "2019-12-05",
+    "release_date_verified": "manually",
+    "refine_date": "2019-12-05",
     "version": "4.0"
   },
   {
@@ -94265,9 +94271,10 @@
     "range": 1,
     "might": 16,
     "refine_kind": "skill1",
-    "addition_date": "2017-11-15",
-    "release_date": "2017-11-15",
-    "version": "1.8"
+    "addition_date": "2019-12-05",
+    "release_date": "2019-12-05",
+    "release_date_verified": "manually",
+    "version": "4.0"
   },
   {
     "id": "SID_賀正の人狼王の爪牙",
