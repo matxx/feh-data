@@ -33248,7 +33248,9 @@
   },
   {
     "id": "SID_バンシーΘ_一",
-    "owner_ids": [],
+    "owner_ids": [
+      "PID_ソロン"
+    ],
     "required_slots": {
       "g4": 1,
       "hg": 1,
@@ -33264,10 +33266,13 @@
     "is_in": {
       "gsp": false,
       "ssp": false,
-      "hg": false,
+      "hg": true,
       "dc": false,
       "ldc": false,
       "foc": false
+    },
+    "olrwo": {
+      "hg": 4
     }
   },
   {
@@ -61096,7 +61101,9 @@
   },
   {
     "id": "SID_ダークスパイクΤ_一",
-    "owner_ids": [],
+    "owner_ids": [
+      "PID_総選挙リシテア"
+    ],
     "required_slots": {
       "g4": 1,
       "hg": 1,
@@ -61110,12 +61117,15 @@
       "sh5": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
+    },
+    "olrwo": {
+      "gsp": 4.5
     }
   },
   {
@@ -86995,7 +87005,11 @@
   },
   {
     "id": "SID_ファルシオン覚醒_絆",
-    "owner_ids": [],
+    "owner_ids": [
+      "PID_クロム",
+      "PID_ルキナ",
+      "PID_仮面ルキナ"
+    ],
     "required_slots": {
       "g4": 1,
       "hg": 1,
@@ -87009,12 +87023,27 @@
       "sh5": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
-      "hg": false,
+      "hg": true,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
+    },
+    "olrwo": {
+      "gsp": 3,
+      "hg": 4,
+      "ldc": 4
+    },
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2025,
+          "month": 11,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
     }
   },
   {
@@ -87059,7 +87088,9 @@
   },
   {
     "id": "SID_ファルシオン外伝_連",
-    "owner_ids": [],
+    "owner_ids": [
+      "PID_アルム"
+    ],
     "required_slots": {
       "g4": 1,
       "hg": 1,
@@ -87073,12 +87104,26 @@
       "sh5": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
+    },
+    "olrwo": {
+      "gsp": 4.5,
+      "ldc": 5
+    },
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2020,
+          "month": 4,
+          "rarity": 5,
+          "cost": 300
+        }
+      ]
     }
   },
   {
@@ -87123,7 +87168,9 @@
   },
   {
     "id": "SID_ファルシオン_紋",
-    "owner_ids": [],
+    "owner_ids": [
+      "PID_マルス"
+    ],
     "required_slots": {
       "g4": 1,
       "hg": 1,
@@ -87137,12 +87184,26 @@
       "sh5": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
+    },
+    "olrwo": {
+      "gsp": 3,
+      "ldc": 4
+    },
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2024,
+          "month": 9,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
     }
   },
   {
@@ -89997,7 +90058,9 @@
   },
   {
     "id": "SID_フィンブル_一",
-    "owner_ids": [],
+    "owner_ids": [
+      "PID_ブルーニャ"
+    ],
     "required_slots": {
       "g4": 1,
       "hg": 1,
@@ -90013,10 +90076,13 @@
     "is_in": {
       "gsp": false,
       "ssp": false,
-      "hg": false,
+      "hg": true,
       "dc": false,
       "ldc": false,
       "foc": false
+    },
+    "olrwo": {
+      "hg": 4
     }
   },
   {
@@ -103719,7 +103785,9 @@
   },
   {
     "id": "SID_ギンヌンガガプ_一",
-    "owner_ids": [],
+    "owner_ids": [
+      "PID_ニュクス"
+    ],
     "required_slots": {
       "g4": 1,
       "hg": 1,
@@ -103733,12 +103801,25 @@
       "sh5": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
-      "dc": false,
+      "dc": true,
       "ldc": false,
       "foc": false
+    },
+    "olrwo": {
+      "gsp": 4.5,
+      "dc": 5
+    },
+    "divine_codes": {
+      "normal": [
+        {
+          "number": 3,
+          "title": "Awakening / Fates",
+          "cost": 800
+        }
+      ]
     }
   },
   {
@@ -111658,7 +111739,9 @@
   },
   {
     "id": "SID_ハデスΩ_一",
-    "owner_ids": [],
+    "owner_ids": [
+      "PID_リシテア"
+    ],
     "required_slots": {
       "g4": 1,
       "hg": 1,
@@ -111672,12 +111755,15 @@
       "sh5": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
+    },
+    "olrwo": {
+      "gsp": 4.5
     }
   },
   {
@@ -114591,7 +114677,9 @@
   },
   {
     "id": "SID_ヘイズ_一",
-    "owner_ids": [],
+    "owner_ids": [
+      "PID_神階ヘイズ"
+    ],
     "required_slots": {
       "g4": 1,
       "hg": 1,
@@ -114610,7 +114698,10 @@
       "hg": false,
       "dc": false,
       "ldc": false,
-      "foc": false
+      "foc": true
+    },
+    "olrwo": {
+      "foc": 5
     }
   },
   {
@@ -134185,7 +134276,9 @@
   },
   {
     "id": "SID_レーヴァテイン_一",
-    "owner_ids": [],
+    "owner_ids": [
+      "PID_レーヴァテイン味方"
+    ],
     "required_slots": {
       "g4": 1,
       "hg": 1,
@@ -134199,12 +134292,15 @@
       "sh5": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
+    },
+    "olrwo": {
+      "gsp": 4.5
     }
   },
   {
@@ -145665,7 +145761,9 @@
   },
   {
     "id": "SID_ミステルトィン_一",
-    "owner_ids": [],
+    "owner_ids": [
+      "PID_ウード"
+    ],
     "required_slots": {
       "g4": 1,
       "hg": 1,
@@ -145679,12 +145777,25 @@
       "sh5": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
-      "dc": false,
+      "dc": true,
       "ldc": false,
       "foc": false
+    },
+    "olrwo": {
+      "gsp": 4.5,
+      "dc": 5
+    },
+    "divine_codes": {
+      "normal": [
+        {
+          "number": 1,
+          "title": "Awakening / Fates",
+          "cost": 1200
+        }
+      ]
     }
   },
   {
@@ -147921,7 +148032,9 @@
   },
   {
     "id": "SID_ナーガ_特",
-    "owner_ids": [],
+    "owner_ids": [
+      "PID_ユリア"
+    ],
     "required_slots": {
       "g4": 1,
       "hg": 1,
@@ -147935,12 +148048,15 @@
       "sh5": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
       "ldc": false,
       "foc": false
+    },
+    "olrwo": {
+      "gsp": 4.5
     }
   },
   {
@@ -188512,7 +188628,9 @@
   },
   {
     "id": "SID_セイズ_一",
-    "owner_ids": [],
+    "owner_ids": [
+      "PID_セイズ"
+    ],
     "required_slots": {
       "g4": 1,
       "hg": 1,
@@ -188531,7 +188649,10 @@
       "hg": false,
       "dc": false,
       "ldc": false,
-      "foc": false
+      "foc": true
+    },
+    "olrwo": {
+      "foc": 5
     }
   },
   {
