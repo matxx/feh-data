@@ -67975,7 +67975,10 @@
     "tier": 1,
     "range": 1,
     "might": 16,
-    "refine_kind": "skill1"
+    "refine_kind": "skill1",
+    "release_date": "2021-10-06",
+    "release_date_verified": "manually",
+    "version": "5.10"
   },
   {
     "id": "SID_不動1",
@@ -73966,7 +73969,10 @@
     "tier": 1,
     "range": 1,
     "might": 16,
-    "refine_kind": "skill1"
+    "refine_kind": "skill1",
+    "release_date": "2021-10-06",
+    "release_date_verified": "manually",
+    "version": "5.10"
   },
   {
     "id": "SID_魔書ミステルトィン",
