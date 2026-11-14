@@ -1,4 +1,4 @@
-"""Usage (from the repo root): python3 -I .claude/skills/verify-refine-dates/extract.py <version-prefix> [versions...]
+"""Usage (from the repo root): python3 -I .claude/skills/verify-dates-of-refines-and-remixes/extract.py <version-prefix> [versions...]
 e.g. `extract.py 6.` (all 6.x listed on the wiki) or `extract.py 10. 10.1 10.2` (explicit versions).
 Prints per version: news date, new character-specific weapons, refines, remixed skills (new skills
 added to Legendary/Mythic Heroes), other new skills (2.0-style "prereq -> added skill" tables, e.g.
@@ -57,12 +57,13 @@ for v in sorted(set(vers), key=lambda s: [int(x) for x in s.split('.')]):
   # remixed skills: only those flagged with the "new skill" icon (the rest of the hero's kit already existed);
   # piped links point to the base skill page ([[Atrocity|Atrocity II]]), so keep the displayed name;
   # some pages (5.7, 5.11) link the base skill unpiped, only the icon keeps the suffix
-  # ({{NewsIcon|Laws of Sacae II.png}}[[Laws of Sacae]]), so take " II"/"+" from the icon
+  # ({{NewsIcon|Laws of Sacae II.png}}[[Laws of Sacae]]), so take " II"/"+"/" E" from the icon
+  # (" E" = Emblem Hero remix, id suffix ・紋, e.g. Great Aether E in 10.10)
   remix = []
   # the flag is "News icon new skill.png", or "Icon new.png" on some pages (5.5)
   for icon, t, d in re.findall(r'(?:News icon new skill|Icon new)\.png[^\n]*?(?:\{\{NewsIcon\|([^}|]*)\.png\}\})?\[\[([^\]|]+)(?:\|([^\]]+))?\]\]', s):
     n = d or t
-    suf = re.search(r'( II|\+)$', icon)
+    suf = re.search(r'( II|\+| E)$', icon)
     if suf and not n.endswith(suf.group(1)): n += suf.group(1)
     if n not in remix and n not in new and n not in ref: remix.append(n)
   other = [re.sub(r' \((?:weapon|sword|lance|axe|bow|dagger|tome|staff|breath|beast)\)$', '', n) for n in other]

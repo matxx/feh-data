@@ -1,12 +1,12 @@
 ---
 name: verify-dates-of-refines-and-remixes
-description: Verify or fix the release dates of weapon refines, new character-specific weapons and remixed skills (II/+ skills added to Legendary/Mythic Heroes) in data/skills.json for one or more FEH game versions, using the official "What's in Store for the X.Y.0 Update" notifications, and mark them release_date_verified "manually". Use when asked to check/verify/fix refine dates, remix dates, weapon release dates, or a version like "do 11.0".
+description: Verify or fix the release dates of weapon refines, new character-specific weapons and remixed skills (II/+/E skills added to Legendary/Mythic/Emblem Heroes) in data/skills.json for one or more FEH game versions, using the official "What's in Store for the X.Y.0 Update" notifications, and mark them release_date_verified "manually". Use when asked to check/verify/fix refine dates, remix dates, weapon release dates, or a version like "do 11.0".
 ---
 
 # Verify refine dates against update notifications
 
 Each FEH version update ("What's in Store for the X.Y.0 Update") lists the weapons that got a refine,
-the new character-specific weapons and the skills remixed for Legendary/Mythic Heroes. Those skills
+the new character-specific weapons and the skills remixed for Legendary/Mythic/Emblem Heroes. Those skills
 must carry the update's date and version in `data/skills.json`, marked as manually verified.
 
 ## What "correct" means
@@ -24,10 +24,11 @@ must carry the update's date and version in `data/skills.json`, marked as manual
   the base entry **and** its refined entry. A common error is the base carrying the hero's original
   release date (e.g. 2017).
 - **Remixed skills** (section "New skills have been added for some Legendary Heroes" / "for a Legendary
-  and Mythic Hero", "New skills for Legendary Heroes" in 5.x): only the skills flagged with the
+  and Mythic Hero" / "for a Legendary Hero and Emblem Hero", "New skills for Legendary Heroes" in 5.x): only the skills flagged with the
   `News icon new skill.png` icon are new (e.g. Ice Mirror II, Sweet Dreams+, Atrocity II). The other
-  skills listed for the hero already existed: leave them. Update only the remixed entry (the `・承` "II" or
-  `・神` "+" one), never the skill it upgrades. The data pipeline tends to give remixes the date of the
+  skills listed for the hero already existed: leave them. Update only the remixed entry (the `・承` "II",
+  `・神` "+" or `・紋` "E" one), never the skill it upgrades. "E" remixes are for Emblem Heroes; the first
+  was Great Aether E (`SID_覇克・天空・紋`, 10.10), and more will follow. The data pipeline tends to give remixes the date of the
   skill they upgrade (e.g. Ice Mirror II dated 2.0 instead of 5.2), years too early.
 - **Other skills newly added by the update** (e.g. 2.0's staff `+` weapons, `+` assists and
   evolution-only weapons) also get the news date and version.
@@ -64,20 +65,22 @@ must carry the update's date and version in `data/skills.json`, marked as manual
    - Remix lines: `[[File:News icon new skill.png…]]{{NewsIcon|Atrocity II.png}}[[Atrocity|Atrocity II]]`
      (5.5 flags them with `{{NewsIcon|Icon new.png}}` instead).
      Some pages (5.7, 5.11) link the base skill unpiped (`[[Laws of Sacae]]`); only the icon name keeps
-     the " II"/"+".
+     the " II"/"+"/" E".
 2. **Official site (10.6 and later, and to cross-check)**: `https://fire-emblem-heroes.com/en/topics/`
    is filled by JavaScript from:
    - `https://fire-emblem-heroes.com/en/include/topics_title.html`: titles with dates (`M/D/YYYY`)
    - `https://fire-emblem-heroes.com/en/include/topics_detail.html`: full text. Search for
      `What's in Store for the X.Y.0 Update` and read the `■ … weapon … refine …` section and the
-     `■ New skills have been added for …` section.
+     `■ New skills have been added for …` section. New remixed skills are flagged there with an
+     `exclamation.png` icon (`<img src="…/exclamation.png">` before the skill name). Mind literal `<` in
+     skill descriptions ("Res < unit's Res") when stripping tags.
 
 ## Workflow
 
-1. Run `python3 -I .claude/skills/verify-refine-dates/extract.py <version-prefix> [versions…]` (e.g.
+1. Run `python3 -I .claude/skills/verify-dates-of-refines-and-remixes/extract.py <version-prefix> [versions…]` (e.g.
    `10.` or `10. 10.1 10.2`). It prints, per version, the news date, the new weapons, the refines,
    the remixed skills (`REMIX`, from the "new skill" icon, piped links resolved to the displayed name,
-   " II"/"+" taken from the icon when the link drops it), every matching skill entry with its current
+   " II"/"+"/" E" taken from the icon when the link drops it), every matching skill entry with its current
    values, and `MISMATCH` lines. 2.0 also gets `OTHER`: the second column of its "prereq → added skill"
    tables (evolution-only weapons, staff `+`, assist `+`), checked on the base entry only. Some of those
    evolution targets were already wielded by a hero before 2.0 (Divine Tyrfing, Blazing Durandal, Dark
@@ -87,12 +90,12 @@ must carry the update's date and version in `data/skills.json`, marked as manual
    hand.
 2. Cross-check both ways:
    - every weapon on the page has a refined entry in the data;
-   - every refined entry, and every `・承`/`・神` entry, whose `version` is in the range appears on a
+   - every refined entry, and every `・承`/`・神`/`・紋` entry, whose `version` is in the range appears on a
      page. Anything left over is usually a generic staff (leave it), or an extraction miss (check the
-     raw page). Exception: a `・承`/`・神` entry left over in an *earlier* range (e.g. 2.x) is not out of
+     raw page). Exception: a `・承`/`・神`/`・紋` entry left over in an *earlier* range (e.g. 2.x) is not out of
      scope. It is a remix dated like the skill it upgrades, and its real update is later (Radiant
      Aether II is dated 2.1 but came in 5.2). Run the extractor on the later versions to find it.
-3. Apply with `python3 .claude/skills/verify-refine-dates/fix.py <date> <version> <id> [<id>…]`. It
+3. Apply with `python3 .claude/skills/verify-dates-of-refines-and-remixes/fix.py <date> <version> <id> [<id>…]`. It
    sets the date, version and `"manually"`, prints the per-entry diff, and writes the file following
    `.editorconfig` (2 spaces, final newline).
 4. Check `git diff --stat`. Only the intended lines should change. A whole-file diff means a formatting
