@@ -7965,8 +7965,9 @@
     "is_prf": true,
     "sp": 300,
     "tier": 2,
-    "release_date": "2022-04-28",
-    "version": "6.4",
+    "release_date": "2025-11-05",
+    "release_date_verified": "manually",
+    "version": "9.11",
     "downgrade_ids": [
       "SID_我が復活は成った"
     ]
@@ -16739,8 +16740,9 @@
     "sp": 500,
     "tier": 4,
     "cd": 2,
-    "release_date": "2022-08-31",
-    "version": "6.8",
+    "release_date": "2025-05-07",
+    "release_date_verified": "manually",
+    "version": "9.5",
     "downgrade_ids": [
       "SID_聖神と暗黒神の冠"
     ]
@@ -18259,8 +18261,9 @@
     "is_prf": true,
     "sp": 300,
     "tier": 2,
-    "release_date": "2023-06-30",
-    "version": "7.6",
+    "release_date": "2026-07-06",
+    "release_date_verified": "manually",
+    "version": "10.7",
     "downgrade_ids": [
       "SID_新たなるベルンの道"
     ]
@@ -24235,8 +24238,9 @@
     "sp": 500,
     "tier": 4,
     "cd": 3,
-    "release_date": "2021-09-30",
-    "version": "5.9",
+    "release_date": "2024-11-05",
+    "release_date_verified": "manually",
+    "version": "8.11",
     "downgrade_ids": [
       "SID_凶弾"
     ]
@@ -28081,8 +28085,9 @@
     "is_prf": true,
     "sp": 300,
     "tier": 2,
-    "release_date": "2022-06-30",
-    "version": "6.6",
+    "release_date": "2025-02-06",
+    "release_date_verified": "manually",
+    "version": "9.2",
     "downgrade_ids": [
       "SID_騎士道"
     ]
@@ -32627,8 +32632,9 @@
     "is_prf": true,
     "sp": 300,
     "tier": 2,
-    "release_date": "2022-05-31",
-    "version": "6.5",
+    "release_date": "2025-05-07",
+    "release_date_verified": "manually",
+    "version": "9.5",
     "downgrade_ids": [
       "SID_闇の樹海の守護竜"
     ]
@@ -38709,8 +38715,9 @@
     "is_prf": true,
     "sp": 300,
     "tier": 2,
-    "release_date": "2021-11-30",
-    "version": "5.11",
+    "release_date": "2024-09-05",
+    "release_date_verified": "manually",
+    "version": "8.9",
     "downgrade_ids": [
       "SID_それは興味深いね"
     ]
@@ -39586,8 +39593,9 @@
     "sp": 500,
     "tier": 4,
     "cd": 3,
-    "release_date": "2023-08-31",
-    "version": "7.8",
+    "release_date": "2026-10-06",
+    "release_date_verified": "manually",
+    "version": "10.10",
     "downgrade_ids": [
       "SID_絆・神竜破"
     ]
@@ -40060,8 +40068,9 @@
     "sp": 400,
     "tier": 3,
     "range": 1,
-    "release_date": "2022-09-29",
-    "version": "6.9",
+    "release_date": "2025-10-06",
+    "release_date_verified": "manually",
+    "version": "9.10",
     "downgrade_ids": [
       "SID_尊き竜の血を継ぐ娘"
     ]
@@ -40816,8 +40825,9 @@
     "is_prf": true,
     "sp": 300,
     "tier": 2,
-    "release_date": "2023-07-28",
-    "version": "7.7",
+    "release_date": "2026-05-07",
+    "release_date_verified": "manually",
+    "version": "10.5",
     "downgrade_ids": [
       "SID_人に安らかな夢を"
     ]
@@ -41365,8 +41375,9 @@
     "is_prf": true,
     "sp": 300,
     "tier": 2,
-    "release_date": "2022-10-31",
-    "version": "6.10",
+    "release_date": "2025-10-06",
+    "release_date_verified": "manually",
+    "version": "9.10",
     "downgrade_ids": [
       "SID_陰陽の法則"
     ]
@@ -43187,8 +43198,9 @@
     "sp": 500,
     "tier": 4,
     "cd": 2,
-    "release_date": "2022-11-30",
-    "version": "6.11",
+    "release_date": "2025-09-04",
+    "release_date_verified": "manually",
+    "version": "9.9",
     "downgrade_ids": [
       "SID_閉界"
     ]
@@ -44854,8 +44866,9 @@
     "is_prf": true,
     "sp": 300,
     "tier": 2,
-    "release_date": "2022-02-28",
-    "version": "6.2",
+    "release_date": "2025-03-06",
+    "release_date_verified": "manually",
+    "version": "9.3",
     "downgrade_ids": [
       "SID_信じつづける誓い"
     ]
@@ -45015,8 +45028,9 @@
     "is_prf": true,
     "sp": 300,
     "tier": 2,
-    "release_date": "2021-02-26",
-    "version": "5.2",
+    "release_date": "2024-08-06",
+    "release_date_verified": "manually",
+    "version": "8.8",
     "downgrade_ids": [
       "SID_落星"
     ]
@@ -45833,8 +45847,9 @@
     "is_prf": true,
     "sp": 300,
     "tier": 2,
-    "release_date": "2023-10-31",
-    "version": "7.10",
+    "release_date": "2026-09-08",
+    "release_date_verified": "manually",
+    "version": "10.9",
     "downgrade_ids": [
       "SID_邪竜の救済"
     ]
@@ -46194,8 +46209,9 @@
     "is_prf": true,
     "sp": 300,
     "tier": 2,
-    "release_date": "2023-03-31",
-    "version": "7.3",
+    "release_date": "2026-02-04",
+    "release_date_verified": "manually",
+    "version": "10.2",
     "downgrade_ids": [
       "SID_ドローミの鎖環"
     ]
@@ -51326,8 +51342,9 @@
     "sp": 400,
     "tier": 3,
     "range": 1,
-    "release_date": "2020-11-27",
-    "version": "4.11",
+    "release_date": "2024-02-06",
+    "release_date_verified": "manually",
+    "version": "8.2",
     "downgrade_ids": [
       "SID_こわいゆめ"
     ]
@@ -51599,8 +51616,9 @@
     "is_prf": true,
     "sp": 300,
     "tier": 2,
-    "release_date": "2023-04-28",
-    "version": "7.4",
+    "release_date": "2026-02-04",
+    "release_date_verified": "manually",
+    "version": "10.2",
     "downgrade_ids": [
       "SID_地に生まれ地に還る"
     ]
@@ -52064,8 +52082,9 @@
     "is_prf": true,
     "sp": 300,
     "tier": 2,
-    "release_date": "2022-12-07",
-    "version": "7.0",
+    "release_date": "2026-01-05",
+    "release_date_verified": "manually",
+    "version": "10.1",
     "downgrade_ids": [
       "SID_共に未来を見つめて"
     ]
@@ -53775,8 +53794,9 @@
     "is_prf": true,
     "sp": 300,
     "tier": 2,
-    "release_date": "2023-01-27",
-    "version": "7.1",
+    "release_date": "2026-05-07",
+    "release_date_verified": "manually",
+    "version": "10.5",
     "downgrade_ids": [
       "SID_人に魔道を授けし者"
     ]
@@ -53810,8 +53830,9 @@
     "sp": 500,
     "tier": 4,
     "cd": 2,
-    "release_date": "2020-12-25",
-    "version": "5.0",
+    "release_date": "2024-01-09",
+    "release_date_verified": "manually",
+    "version": "8.1",
     "downgrade_ids": [
       "SID_天与の魔道"
     ]
@@ -54678,8 +54699,9 @@
     "is_prf": true,
     "sp": 300,
     "tier": 2,
-    "release_date": "2021-12-24",
-    "version": "6.0",
+    "release_date": "2024-09-05",
+    "release_date_verified": "manually",
+    "version": "8.9",
     "downgrade_ids": [
       "SID_女神を宿せし者"
     ]
@@ -54849,8 +54871,9 @@
     "sp": 400,
     "tier": 4,
     "range": 1,
-    "release_date": "2023-06-08",
-    "version": "7.6",
+    "release_date": "2026-07-06",
+    "release_date_verified": "manually",
+    "version": "10.7",
     "downgrade_ids": [
       "SID_黄金の蛇"
     ]
@@ -55619,8 +55642,9 @@
     "sp": 500,
     "tier": 4,
     "cd": 4,
-    "release_date": "2024-03-29",
-    "version": "8.3",
+    "release_date": "2026-10-06",
+    "release_date_verified": "manually",
+    "version": "10.10",
     "downgrade_ids": [
       "SID_覇克・天空"
     ]
@@ -58968,8 +58992,9 @@
     "is_prf": true,
     "sp": 300,
     "tier": 2,
-    "release_date": "2023-09-28",
-    "version": "7.9",
+    "release_date": "2026-09-08",
+    "release_date_verified": "manually",
+    "version": "10.9",
     "downgrade_ids": [
       "SID_クリミアの心"
     ]
@@ -60640,8 +60665,9 @@
     "is_prf": true,
     "sp": 300,
     "tier": 2,
-    "release_date": "2022-03-31",
-    "version": "6.3",
+    "release_date": "2025-07-07",
+    "release_date_verified": "manually",
+    "version": "9.7",
     "downgrade_ids": [
       "SID_ヘズルの聖戦士"
     ]
@@ -60711,8 +60737,9 @@
     "is_prf": true,
     "sp": 300,
     "tier": 2,
-    "release_date": "2022-01-28",
-    "version": "6.1",
+    "release_date": "2025-03-06",
+    "release_date_verified": "manually",
+    "version": "9.3",
     "downgrade_ids": [
       "SID_地上の最後の女神"
     ]
@@ -60949,8 +60976,9 @@
     "sp": 500,
     "tier": 4,
     "cd": 2,
-    "release_date": "2021-04-28",
-    "version": "5.4",
+    "release_date": "2024-05-07",
+    "release_date_verified": "manually",
+    "version": "8.5",
     "downgrade_ids": [
       "SID_グランベルの聖騎士"
     ]
@@ -69243,8 +69271,9 @@
     "sp": 500,
     "tier": 3,
     "cd": 5,
-    "release_date": "2021-10-29",
-    "version": "5.10",
+    "release_date": "2025-01-06",
+    "release_date_verified": "manually",
+    "version": "9.1",
     "downgrade_ids": [
       "SID_永遠を生きるもの"
     ]
@@ -73203,8 +73232,9 @@
     "is_prf": true,
     "sp": 300,
     "tier": 2,
-    "release_date": "2023-12-07",
-    "version": "8.0",
+    "release_date": "2026-11-05",
+    "release_date_verified": "manually",
+    "version": "10.11",
     "downgrade_ids": [
       "SID_癒し手の心"
     ]
@@ -74391,8 +74421,9 @@
     "is_prf": true,
     "sp": 300,
     "tier": 2,
-    "release_date": "2021-06-08",
-    "version": "5.6",
+    "release_date": "2024-07-04",
+    "release_date_verified": "manually",
+    "version": "8.7",
     "downgrade_ids": [
       "SID_双姫の月翼"
     ]
@@ -75297,8 +75328,9 @@
     "sp": 500,
     "tier": 4,
     "cd": 3,
-    "release_date": "2020-08-31",
-    "version": "4.8",
+    "release_date": "2024-01-09",
+    "release_date_verified": "manually",
+    "version": "8.1",
     "downgrade_ids": [
       "SID_反竜穿"
     ]
@@ -75902,8 +75934,9 @@
     "is_prf": true,
     "sp": 300,
     "tier": 2,
-    "release_date": "2023-01-27",
-    "version": "7.1",
+    "release_date": "2026-01-05",
+    "release_date_verified": "manually",
+    "version": "10.1",
     "downgrade_ids": [
       "SID_漆黒の悪夢"
     ]
@@ -78619,8 +78652,9 @@
     "is_prf": true,
     "sp": 300,
     "tier": 2,
-    "release_date": "2022-07-26",
-    "version": "6.7",
+    "release_date": "2025-09-04",
+    "release_date_verified": "manually",
+    "version": "9.9",
     "downgrade_ids": [
       "SID_みんなが繋がる世界"
     ]
@@ -78635,8 +78669,9 @@
     "is_prf": true,
     "sp": 300,
     "tier": 2,
-    "release_date": "2021-12-07",
-    "version": "6.0",
+    "release_date": "2025-02-06",
+    "release_date_verified": "manually",
+    "version": "9.2",
     "downgrade_ids": [
       "SID_開神の眷属"
     ]
@@ -78743,8 +78778,9 @@
     "is_prf": true,
     "sp": 300,
     "tier": 2,
-    "release_date": "2021-05-31",
-    "version": "5.5",
+    "release_date": "2024-07-04",
+    "release_date_verified": "manually",
+    "version": "8.7",
     "downgrade_ids": [
       "SID_束縛、秩序、安定"
     ]
@@ -79942,8 +79978,9 @@
     "is_prf": true,
     "sp": 300,
     "tier": 2,
-    "release_date": "2023-02-28",
-    "version": "7.2",
+    "release_date": "2026-03-05",
+    "release_date_verified": "manually",
+    "version": "10.3",
     "downgrade_ids": [
       "SID_これも策のうちだよ"
     ]
@@ -82440,8 +82477,9 @@
     "is_prf": true,
     "sp": 300,
     "tier": 2,
-    "release_date": "2021-08-31",
-    "version": "5.8",
+    "release_date": "2025-01-06",
+    "release_date_verified": "manually",
+    "version": "9.1",
     "downgrade_ids": [
       "SID_未来を知る力"
     ]
@@ -85694,8 +85732,9 @@
     "is_prf": true,
     "sp": 300,
     "tier": 2,
-    "release_date": "2023-05-31",
-    "version": "7.5",
+    "release_date": "2026-03-05",
+    "release_date_verified": "manually",
+    "version": "10.3",
     "downgrade_ids": [
       "SID_叱咤激励"
     ]
@@ -96171,8 +96210,9 @@
     "sp": 500,
     "tier": 4,
     "cd": 3,
-    "release_date": "2020-12-08",
-    "version": "5.0",
+    "release_date": "2024-02-06",
+    "release_date_verified": "manually",
+    "version": "8.2",
     "downgrade_ids": [
       "SID_魔弾"
     ]
@@ -96626,8 +96666,9 @@
     "is_prf": true,
     "sp": 300,
     "tier": 2,
-    "release_date": "2022-11-30",
-    "version": "6.11",
+    "release_date": "2025-07-07",
+    "release_date_verified": "manually",
+    "version": "9.7",
     "downgrade_ids": [
       "SID_すべてが閉じた世界"
     ]
@@ -111449,8 +111490,9 @@
     "sp": 500,
     "tier": 4,
     "cd": 2,
-    "release_date": "2021-06-30",
-    "version": "5.6",
+    "release_date": "2024-05-07",
+    "release_date_verified": "manually",
+    "version": "8.5",
     "downgrade_ids": [
       "SID_覇天"
     ]
@@ -111781,8 +111823,9 @@
     "is_prf": true,
     "sp": 300,
     "tier": 2,
-    "release_date": "2021-03-30",
-    "version": "5.3",
+    "release_date": "2024-03-06",
+    "release_date_verified": "manually",
+    "version": "8.3",
     "downgrade_ids": [
       "SID_双姫の陽翼"
     ]
@@ -112742,8 +112785,9 @@
     "eff": [
       "all"
     ],
-    "release_date": "2022-12-23",
-    "version": "7.0",
+    "release_date": "2025-11-05",
+    "release_date_verified": "manually",
+    "version": "9.11",
     "downgrade_ids": [
       "SID_連閃"
     ]
@@ -116306,8 +116350,9 @@
     "sp": 500,
     "tier": 4,
     "cd": 3,
-    "release_date": "2023-11-29",
-    "version": "7.11",
+    "release_date": "2026-11-05",
+    "release_date_verified": "manually",
+    "version": "10.11",
     "downgrade_ids": [
       "SID_時は光"
     ]
@@ -123397,8 +123442,9 @@
     "is_prf": true,
     "sp": 300,
     "tier": 2,
-    "release_date": "2021-01-28",
-    "version": "5.1",
+    "release_date": "2024-03-06",
+    "release_date_verified": "manually",
+    "version": "8.3",
     "downgrade_ids": [
       "SID_光輝く翼"
     ]
@@ -124265,8 +124311,9 @@
     "is_prf": true,
     "sp": 300,
     "tier": 2,
-    "release_date": "2021-11-30",
-    "version": "5.11",
+    "release_date": "2024-11-05",
+    "release_date_verified": "manually",
+    "version": "8.11",
     "downgrade_ids": [
       "SID_神槌大地を穿つ"
     ]
@@ -125052,8 +125099,9 @@
     "is_prf": true,
     "sp": 300,
     "tier": 2,
-    "release_date": "2021-07-29",
-    "version": "5.7",
+    "release_date": "2024-08-06",
+    "release_date_verified": "manually",
+    "version": "8.8",
     "downgrade_ids": [
       "SID_ユングヴィの祖"
     ]
