@@ -123206,7 +123206,9 @@
   },
   {
     "id": "SID_グループ＋_神",
-    "owner_ids": [],
+    "owner_ids": [
+      "PID_リノアン"
+    ],
     "required_slots": {
       "g4": 1,
       "hg": 1,
@@ -123220,17 +123222,33 @@
       "sh5": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
+    },
+    "olrwo": {
+      "gsp": 3,
+      "ldc": 4
+    },
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2026,
+          "month": 8,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
     }
   },
   {
     "id": "SID_グループ＋_幻",
-    "owner_ids": [],
+    "owner_ids": [
+      "PID_リノアン"
+    ],
     "required_slots": {
       "g4": 1,
       "hg": 1,
@@ -123244,12 +123262,26 @@
       "sh5": 1
     },
     "is_in": {
-      "gsp": false,
+      "gsp": true,
       "ssp": false,
       "hg": false,
       "dc": false,
-      "ldc": false,
+      "ldc": true,
       "foc": false
+    },
+    "olrwo": {
+      "gsp": 3,
+      "ldc": 4
+    },
+    "divine_codes": {
+      "limited": [
+        {
+          "year": 2026,
+          "month": 8,
+          "rarity": 4,
+          "cost": 100
+        }
+      ]
     }
   },
   {
@@ -195641,8 +195673,6 @@
   {
     "id": "SID_貫きの槍2＋_無",
     "owner_ids": [
-      "PID_総選挙エイリーク",
-      "PID_比翼エフラム",
       "PID_サイラス"
     ],
     "required_slots": {
@@ -227862,42 +227892,7 @@
   },
   {
     "id": "SID_トロン＋",
-    "owner_ids": [
-      "PID_天の王味方",
-      "PID_ブルーニャ",
-      "PID_ブルーノ味方",
-      "PID_カダインベレト",
-      "PID_怪盗キャス",
-      "PID_春祭カチュア",
-      "PID_デューテ",
-      "PID_春祭デューテ",
-      "PID_催眠デューテ",
-      "PID_春祭エスト",
-      "PID_ハピ",
-      "PID_比翼ハピ",
-      "PID_開花イシュタル",
-      "PID_イシュタル",
-      "PID_忍者アイビー",
-      "PID_響心アイビー",
-      "PID_砂漠カタリナ",
-      "PID_リンダ",
-      "PID_ルーテ",
-      "PID_幼少リオン",
-      "PID_マリアンヌ",
-      "PID_春祭ルピナス",
-      "PID_魔器ヌイババ",
-      "PID_オルエン",
-      "PID_魔器プルメリア味方",
-      "PID_年明レギン",
-      "PID_魔器ラインハルト",
-      "PID_ラインハルト",
-      "PID_比翼ルフレ女",
-      "PID_セライナ",
-      "PID_魔器セネリオ",
-      "PID_比翼トール",
-      "PID_闇ウルスラ",
-      "PID_神階ヴェイル"
-    ],
+    "owner_ids": [],
     "required_slots": {
       "g4": 1,
       "hg": 1,
@@ -227911,97 +227906,12 @@
       "sh5": 4
     },
     "is_in": {
-      "gsp": true,
-      "ssp": true,
-      "hg": true,
-      "dc": true,
-      "ldc": true,
-      "foc": true
-    },
-    "olrwo": {
-      "gsp": 3,
-      "ssp": 4,
-      "hg": 4,
-      "dc": 5,
-      "ldc": 4,
-      "foc": 5
-    },
-    "divine_codes": {
-      "normal": [
-        {
-          "number": 2,
-          "title": "Mystery of the Emblem / Echoes",
-          "cost": 1600
-        },
-        {
-          "number": 3,
-          "title": "Heroes / Mystery / Shadows",
-          "cost": 800
-        },
-        {
-          "number": 4,
-          "title": "Genealogy / Thracia 776",
-          "cost": 1600
-        },
-        {
-          "number": 4,
-          "title": "Heroes / Mystery / Echoes",
-          "cost": 1600
-        },
-        {
-          "number": 5,
-          "title": "Genealogy / Thracia 776",
-          "cost": 2000
-        },
-        {
-          "number": 6,
-          "title": "Heroes / Genealogy / Thracia 776",
-          "cost": 400
-        },
-        {
-          "number": 7,
-          "title": "Path of Radiance / Radiant Dawn",
-          "cost": 2000
-        }
-      ],
-      "limited": [
-        {
-          "year": 2020,
-          "month": 11,
-          "rarity": 4,
-          "cost": 100
-        },
-        {
-          "year": 2021,
-          "month": 5,
-          "rarity": 5,
-          "cost": 300
-        },
-        {
-          "year": 2023,
-          "month": 9,
-          "rarity": 5,
-          "cost": 300
-        },
-        {
-          "year": 2024,
-          "month": 8,
-          "rarity": 5,
-          "cost": 300
-        },
-        {
-          "year": 2024,
-          "month": 8,
-          "rarity": 5,
-          "cost": 300
-        },
-        {
-          "year": 2026,
-          "month": 1,
-          "rarity": 4,
-          "cost": 100
-        }
-      ]
+      "gsp": false,
+      "ssp": false,
+      "hg": false,
+      "dc": false,
+      "ldc": false,
+      "foc": false
     }
   },
   {

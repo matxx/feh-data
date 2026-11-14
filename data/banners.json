@@ -26965,6 +26965,38 @@
     ]
   },
   {
+    "name": "Leg. & Myth. & Emb. Hero Remix 2 (Nov 2026)",
+    "fandom_id": "Leg._%26_Myth._%26_Emb._Hero_Remix_2_%28Nov_2026%29",
+    "start_time": "2026-11-12 07:00:00",
+    "end_time": "2026-11-26 06:59:59",
+    "unit_ids": [
+      "PID_つながりニニアン",
+      "PID_エイトリ味方",
+      "PID_グルヴェイグ味方",
+      "PID_ノート味方",
+      "PID_伝承シェズ男",
+      "PID_伝承ヒノカ",
+      "PID_神階ルミエル",
+      "PID_紋章リン"
+    ]
+  },
+  {
+    "name": "Myth. & Emb. Hero Remix 1 (Nov 2026)",
+    "fandom_id": "Myth._%26_Emb._Hero_Remix_1_%28Nov_2026%29",
+    "start_time": "2026-11-12 07:00:00",
+    "end_time": "2026-11-26 06:59:59",
+    "unit_ids": [
+      "PID_エイクスルニル味方",
+      "PID_ラタトスク",
+      "PID_紋章マルス",
+      "PID_闇アイビー",
+      "PID_闇ベレト",
+      "PID_響心ラケシス",
+      "PID_魔器闇エルフ",
+      "PID_魔器闇ティバーン"
+    ]
+  },
+  {
     "name": "Focus: Weekly Revival 136",
     "fandom_id": "Focus%3A_Weekly_Revival_136",
     "start_time": "2026-11-15 07:00:00",

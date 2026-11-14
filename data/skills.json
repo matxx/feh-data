@@ -67121,7 +67121,10 @@
     "tier": 1,
     "range": 2,
     "might": 12,
-    "refine_kind": "skill1"
+    "refine_kind": "skill1",
+    "addition_date": "2025-07-18",
+    "release_date": "2025-07-18",
+    "version": "9.7"
   },
   {
     "id": "SID_グループ＋_幻",
@@ -67137,7 +67140,10 @@
     "tier": 1,
     "range": 2,
     "might": 12,
-    "refine_kind": "skill2"
+    "refine_kind": "skill2",
+    "addition_date": "2025-07-18",
+    "release_date": "2025-07-18",
+    "version": "9.7"
   },
   {
     "id": "SID_真開神の眷属",
@@ -121462,9 +121468,6 @@
         ]
       }
     },
-    "addition_date": "2017-02-02",
-    "release_date": "2017-02-02",
-    "version": "1.0",
     "downgrade_ids": [
       "SID_トロン"
     ]
