@@ -7548,8 +7548,9 @@
     "is_prf": true,
     "sp": 300,
     "tier": 2,
-    "release_date": "2019-11-28",
-    "version": "3.11",
+    "release_date": "2023-01-10",
+    "release_date_verified": "manually",
+    "version": "7.1",
     "downgrade_ids": [
       "SID_女神の三雄"
     ]
@@ -15040,8 +15041,9 @@
     "is_prf": true,
     "sp": 300,
     "tier": 2,
-    "release_date": "2020-10-30",
-    "version": "4.10",
+    "release_date": "2023-11-06",
+    "release_date_verified": "manually",
+    "version": "7.11",
     "downgrade_ids": [
       "SID_無惨"
     ]
@@ -18599,8 +18601,9 @@
     "is_prf": true,
     "sp": 300,
     "tier": 2,
-    "release_date": "2020-11-27",
-    "version": "4.11",
+    "release_date": "2023-08-07",
+    "release_date_verified": "manually",
+    "version": "7.8",
     "downgrade_ids": [
       "SID_束縛の首飾り"
     ]
@@ -33400,8 +33403,9 @@
     "is_prf": true,
     "sp": 300,
     "tier": 2,
-    "release_date": "2020-01-30",
-    "version": "4.1",
+    "release_date": "2023-05-08",
+    "release_date_verified": "manually",
+    "version": "7.5",
     "downgrade_ids": [
       "SID_死者の帳尻を"
     ]
@@ -53453,8 +53457,9 @@
     "sp": 400,
     "tier": 3,
     "range": 1,
-    "release_date": "2019-12-06",
-    "version": "4.0",
+    "release_date": "2023-02-06",
+    "release_date_verified": "manually",
+    "version": "7.2",
     "downgrade_ids": [
       "SID_やさしいゆめ"
     ]
@@ -60829,8 +60834,9 @@
     "is_prf": true,
     "sp": 300,
     "tier": 2,
-    "release_date": "2020-06-30",
-    "version": "4.6",
+    "release_date": "2023-08-07",
+    "release_date_verified": "manually",
+    "version": "7.8",
     "downgrade_ids": [
       "SID_最後の聖戦"
     ]
@@ -63474,8 +63480,9 @@
     "is_prf": true,
     "sp": 300,
     "tier": 2,
-    "release_date": "2020-03-31",
-    "version": "4.3",
+    "release_date": "2023-07-06",
+    "release_date_verified": "manually",
+    "version": "7.7",
     "downgrade_ids": [
       "SID_見通せぬ深き暗闇"
     ]
@@ -63926,8 +63933,9 @@
     "is_prf": true,
     "sp": 300,
     "tier": 2,
-    "release_date": "2020-07-30",
-    "version": "4.7",
+    "release_date": "2023-09-06",
+    "release_date_verified": "manually",
+    "version": "7.9",
     "downgrade_ids": [
       "SID_死からは逃れられぬ"
     ]
@@ -67288,8 +67296,9 @@
     "is_prf": true,
     "sp": 300,
     "tier": 2,
-    "release_date": "2019-09-30",
-    "version": "3.9",
+    "release_date": "2023-02-06",
+    "release_date_verified": "manually",
+    "version": "7.2",
     "downgrade_ids": [
       "SID_死んでほしいの"
     ]
@@ -73452,8 +73461,9 @@
     "is_prf": true,
     "sp": 300,
     "tier": 2,
-    "release_date": "2020-05-29",
-    "version": "4.5",
+    "release_date": "2023-03-06",
+    "release_date_verified": "manually",
+    "version": "7.3",
     "downgrade_ids": [
       "SID_ミラの歯車"
     ]
@@ -76564,8 +76574,9 @@
     "sp": 500,
     "tier": 4,
     "cd": 3,
-    "release_date": "2019-10-29",
-    "version": "3.10",
+    "release_date": "2023-01-10",
+    "release_date_verified": "manually",
+    "version": "7.1",
     "downgrade_ids": [
       "SID_ノヴァの聖戦士"
     ]
@@ -84832,8 +84843,9 @@
     "is_prf": true,
     "sp": 300,
     "tier": 2,
-    "release_date": "2020-04-30",
-    "version": "4.4",
+    "release_date": "2023-05-08",
+    "release_date_verified": "manually",
+    "version": "7.5",
     "downgrade_ids": [
       "SID_狂嵐"
     ]
@@ -101704,8 +101716,9 @@
     "is_prf": true,
     "sp": 300,
     "tier": 2,
-    "release_date": "2019-12-25",
-    "version": "4.0",
+    "release_date": "2023-03-06",
+    "release_date_verified": "manually",
+    "version": "7.3",
     "downgrade_ids": [
       "SID_ソフィアの魂"
     ]
@@ -112502,8 +112515,9 @@
     "sp": 400,
     "tier": 3,
     "range": 1,
-    "release_date": "2020-09-30",
-    "version": "4.9",
+    "release_date": "2023-11-06",
+    "release_date_verified": "manually",
+    "version": "7.11",
     "downgrade_ids": [
       "SID_あまいゆめ"
     ]
@@ -116554,8 +116568,9 @@
     "sp": 500,
     "tier": 3,
     "range": 1,
-    "release_date": "2020-02-27",
-    "version": "4.2",
+    "release_date": "2023-07-06",
+    "release_date_verified": "manually",
+    "version": "7.7",
     "downgrade_ids": [
       "SID_運命を変える！"
     ]
@@ -122130,8 +122145,9 @@
     "sp": 400,
     "tier": 3,
     "range": 1,
-    "release_date": "2020-06-05",
-    "version": "4.6",
+    "release_date": "2023-09-06",
+    "release_date_verified": "manually",
+    "version": "7.9",
     "downgrade_ids": [
       "SID_しろいゆめ"
     ]
