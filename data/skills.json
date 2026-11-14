@@ -27107,8 +27107,9 @@
     "is_prf": true,
     "sp": 300,
     "tier": 2,
-    "release_date": "2019-03-29",
-    "version": "3.3",
+    "release_date": "2022-11-07",
+    "release_date_verified": "manually",
+    "version": "6.11",
     "downgrade_ids": [
       "SID_我が名は混沌"
     ]
@@ -38537,8 +38538,9 @@
     "is_prf": true,
     "sp": 300,
     "tier": 2,
-    "release_date": "2019-05-30",
-    "version": "3.5",
+    "release_date": "2022-08-08",
+    "release_date_verified": "manually",
+    "version": "6.8",
     "downgrade_ids": [
       "SID_神竜王の牙"
     ]
@@ -51065,8 +51067,9 @@
     "is_prf": true,
     "sp": 300,
     "tier": 2,
-    "release_date": "2018-11-28",
-    "version": "2.11",
+    "release_date": "2022-02-07",
+    "release_date_verified": "manually",
+    "version": "6.2",
     "downgrade_ids": [
       "SID_凍結の封印"
     ]
@@ -52024,8 +52027,9 @@
     "sp": 400,
     "tier": 3,
     "range": 1,
-    "release_date": "2018-07-31",
-    "version": "2.7",
+    "release_date": "2022-01-06",
+    "release_date_verified": "manually",
+    "version": "6.1",
     "downgrade_ids": [
       "SID_未来を映す瞳"
     ]
@@ -55574,8 +55578,9 @@
     "sp": 400,
     "tier": 3,
     "range": 1,
-    "release_date": "2018-12-28",
-    "version": "3.0",
+    "release_date": "2022-03-07",
+    "release_date_verified": "manually",
+    "version": "6.3",
     "downgrade_ids": [
       "SID_ユラリユルレリ"
     ]
@@ -62229,8 +62234,9 @@
     "is_prf": true,
     "sp": 300,
     "tier": 2,
-    "release_date": "2019-02-27",
-    "version": "3.2",
+    "release_date": "2022-07-05",
+    "release_date_verified": "manually",
+    "version": "6.7",
     "downgrade_ids": [
       "SID_人の可能性を！"
     ]
@@ -69287,8 +69293,9 @@
     "is_prf": true,
     "sp": 300,
     "tier": 2,
-    "release_date": "2019-08-28",
-    "version": "3.8",
+    "release_date": "2022-09-06",
+    "release_date_verified": "manually",
+    "version": "6.9",
     "downgrade_ids": [
       "SID_光と闇と"
     ]
@@ -71533,8 +71540,9 @@
     "is_prf": true,
     "sp": 300,
     "tier": 2,
-    "release_date": "2018-10-31",
-    "version": "2.10",
+    "release_date": "2022-01-06",
+    "release_date_verified": "manually",
+    "version": "6.1",
     "downgrade_ids": [
       "SID_月の腕輪"
     ]
@@ -71568,8 +71576,9 @@
     "sp": 500,
     "tier": 4,
     "cd": 2,
-    "release_date": "2019-04-27",
-    "version": "3.4",
+    "release_date": "2022-08-08",
+    "release_date_verified": "manually",
+    "version": "6.8",
     "downgrade_ids": [
       "SID_月光閃"
     ]
@@ -99442,8 +99451,9 @@
     "sp": 500,
     "tier": 4,
     "cd": 2,
-    "release_date": "2019-07-31",
-    "version": "3.7",
+    "release_date": "2022-09-06",
+    "release_date_verified": "manually",
+    "version": "6.9",
     "downgrade_ids": [
       "SID_天狼"
     ]
@@ -101803,8 +101813,9 @@
     "is_prf": true,
     "sp": 300,
     "tier": 2,
-    "release_date": "2018-12-11",
-    "version": "3.0",
+    "release_date": "2022-02-07",
+    "release_date_verified": "manually",
+    "version": "6.2",
     "downgrade_ids": [
       "SID_生命の輝き"
     ]
@@ -118913,8 +118924,9 @@
     "is_prf": true,
     "sp": 300,
     "tier": 2,
-    "release_date": "2019-01-30",
-    "version": "3.1",
+    "release_date": "2022-05-09",
+    "release_date_verified": "manually",
+    "version": "6.5",
     "downgrade_ids": [
       "SID_メガクェイク"
     ]
@@ -120297,8 +120309,9 @@
     "is_prf": true,
     "sp": 300,
     "tier": 2,
-    "release_date": "2019-06-28",
-    "version": "3.6",
+    "release_date": "2022-11-07",
+    "release_date_verified": "manually",
+    "version": "6.11",
     "downgrade_ids": [
       "SID_理想郷となるように"
     ]
