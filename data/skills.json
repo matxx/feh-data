@@ -18678,8 +18678,9 @@
     "is_prf": true,
     "sp": 300,
     "tier": 2,
-    "release_date": "2018-08-28",
-    "version": "2.8",
+    "release_date": "2021-11-04",
+    "release_date_verified": "manually",
+    "version": "5.11",
     "downgrade_ids": [
       "SID_封印の盾"
     ]
@@ -24819,8 +24820,9 @@
     "is_prf": true,
     "sp": 300,
     "tier": 2,
-    "release_date": "2018-05-30",
-    "version": "2.5",
+    "release_date": "2021-05-06",
+    "release_date_verified": "manually",
+    "version": "5.5",
     "downgrade_ids": [
       "SID_武士道"
     ]
@@ -27982,8 +27984,9 @@
     "is_prf": true,
     "sp": 300,
     "tier": 2,
-    "release_date": "2017-12-28",
-    "version": "2.0",
+    "release_date": "2021-05-06",
+    "release_date_verified": "manually",
+    "version": "5.5",
     "downgrade_ids": [
       "SID_氷の封印"
     ]
@@ -40592,8 +40595,9 @@
     "is_prf": true,
     "sp": 300,
     "tier": 2,
-    "release_date": "2018-03-29",
-    "version": "2.3",
+    "release_date": "2021-07-06",
+    "release_date_verified": "manually",
+    "version": "5.7",
     "downgrade_ids": [
       "SID_邪竜の鱗"
     ]
@@ -62855,8 +62859,9 @@
     "sp": 500,
     "tier": 4,
     "cd": 2,
-    "release_date": "2017-11-28",
-    "version": "2.0",
+    "release_date": "2021-02-04",
+    "release_date_verified": "manually",
+    "version": "5.2",
     "downgrade_ids": [
       "SID_氷の聖鏡"
     ]
@@ -68775,8 +68780,9 @@
     "is_prf": true,
     "sp": 300,
     "tier": 2,
-    "release_date": "2018-05-01",
-    "version": "2.4",
+    "release_date": "2021-07-06",
+    "release_date_verified": "manually",
+    "version": "5.7",
     "downgrade_ids": [
       "SID_サカの掟"
     ]
@@ -78883,8 +78889,9 @@
     "is_prf": true,
     "sp": 300,
     "tier": 2,
-    "release_date": "2018-06-28",
-    "version": "2.6",
+    "release_date": "2021-09-06",
+    "release_date_verified": "manually",
+    "version": "5.9",
     "downgrade_ids": [
       "SID_オスティアの鼓動"
     ]
@@ -84719,8 +84726,9 @@
     "sp": 500,
     "tier": 4,
     "cd": 4,
-    "release_date": "2018-01-31",
-    "version": "2.1",
+    "release_date": "2021-02-04",
+    "release_date_verified": "manually",
+    "version": "5.2",
     "downgrade_ids": [
       "SID_蒼の天空"
     ]
@@ -101215,8 +101223,9 @@
     "is_prf": true,
     "sp": 300,
     "tier": 2,
-    "release_date": "2018-02-28",
-    "version": "2.2",
+    "release_date": "2021-09-06",
+    "release_date_verified": "manually",
+    "version": "5.9",
     "downgrade_ids": [
       "SID_太陽の腕輪"
     ]
@@ -123756,8 +123765,9 @@
     "is_prf": true,
     "sp": 300,
     "tier": 2,
-    "release_date": "2018-09-28",
-    "version": "2.9",
+    "release_date": "2021-11-04",
+    "release_date_verified": "manually",
+    "version": "5.11",
     "downgrade_ids": [
       "SID_みんなと一緒に"
     ]
